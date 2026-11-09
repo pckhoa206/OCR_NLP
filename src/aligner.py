@@ -14,6 +14,7 @@ Implements Step 7 and Section 3.1 of Guideline.pdf:
 from __future__ import annotations
 
 import math
+import os
 import re
 from typing import Any
 
@@ -39,7 +40,8 @@ BEAD_PRIORS: dict[tuple[int, int], float] = {
 }
 
 _CJK_CHAR_RE = re.compile(
-    r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3]"
+    r"\[\s*MASK\s*\]|[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3]",
+    re.IGNORECASE,
 )
 _VIET_WORD_RE = re.compile(r"[A-Za-zÀ-ỹà-ỹ0-9]+")
 
@@ -415,7 +417,8 @@ def align_work_sentences(
     if sim_matrix is None and n_h > 1 and n_v > 1:
         try:
             from src.semantic_scorer import CrossLingualSemanticScorer
-            scorer = CrossLingualSemanticScorer(prefer_neural=True)
+            use_neural = os.environ.get("USE_NEURAL_EMBEDDINGS", "0") == "1"
+            scorer = CrossLingualSemanticScorer(prefer_neural=use_neural)
             sim_matrix = scorer.compute_similarity_matrix(
                 [item[1] for item in clean_h_items],
                 [item[1] for item in clean_v_items],

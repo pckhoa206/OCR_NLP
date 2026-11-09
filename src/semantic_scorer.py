@@ -84,7 +84,7 @@ _CORE_SEMANTIC_ANCHORS: list[tuple[str, tuple[str, ...]]] = [
 class CrossLingualSemanticScorer:
     """Computes pairwise semantic similarity between Classical Chinese and Vietnamese sentences."""
 
-    def __init__(self, model_name: str = "BAAI/bge-m3", prefer_neural: bool = True) -> None:
+    def __init__(self, model_name: str = "BAAI/bge-m3", prefer_neural: bool = False) -> None:
         self.model_name = model_name
         self.prefer_neural = prefer_neural
         self._model = None
@@ -96,7 +96,7 @@ class CrossLingualSemanticScorer:
     def _try_load_neural_backend(self) -> bool:
         try:
             from sentence_transformers import SentenceTransformer  # type: ignore
-            self._model = SentenceTransformer(self.model_name)
+            self._model = SentenceTransformer(self.model_name, local_files_only=True)
             self._backend = "sentence_transformers"
             return True
         except Exception:

@@ -880,11 +880,18 @@ _SYLLABLE_WITH_PUNCT_RE = re.compile(
 )
 
 
+_HAN_OR_MASK_TOKEN_RE = re.compile(r"\[\s*MASK\s*\]|.", re.IGNORECASE | re.DOTALL)
+
+
 def is_han_char(ch: str) -> bool:
-    """Return True if `ch` is a single CJK Unified/Compatibility Ideograph (Extensions A–I)."""
+    """Return True if `ch` is a CJK Unified/Compatibility Ideograph, lacuna `□`, or `[MASK]`."""
+    if ch.upper() == "[MASK]" or re.fullmatch(r"\[\s*MASK\s*\]", ch, re.IGNORECASE):
+        return True
     if len(ch) != 1:
         return False
     cp = ord(ch)
+    if 0x25A0 <= cp <= 0x25A3 or cp == 0x3007:
+        return True
     for start, end in CJK_RANGES:
         if start <= cp <= end:
             return True
@@ -892,17 +899,23 @@ def is_han_char(ch: str) -> bool:
 
 
 def count_han_chars(text: str) -> List[str]:
-    """Extract all CJK Unified Ideographs (including Extensions A–G) from `text` in order.
+    """Extract all CJK Unified Ideographs (and `[MASK]` / `□` tokens) from `text` in order.
 
     Args:
         text: Input string containing Classical Chinese (`Chữ Hán`) characters.
 
     Returns:
-        List of extracted CJK Unified Ideograph characters (`len(result)` gives the count).
+        List of extracted CJK characters or `[MASK]` tokens (`len(result)` gives the count).
     """
     if not text:
         return []
-    return [ch for ch in text if is_han_char(ch)]
+    tokens: List[str] = []
+    for tok in _HAN_OR_MASK_TOKEN_RE.findall(text):
+        if tok.startswith("[") and tok.endswith("]"):
+            tokens.append("[MASK]")
+        elif is_han_char(tok):
+            tokens.append(tok)
+    return tokens
 
 
 def normalize_viet_syllable(syllable: str) -> str:

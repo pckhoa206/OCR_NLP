@@ -1,18 +1,33 @@
 {
-  "project": "Hán-Việt Parallel Corpus",
-  "version": "1.0.0",
+  "project": "Hán-Việt Parallel Corpus - Nhóm CV04",
+  "group_code": "CV04",
+  "version": "2.0.0",
+  "aliases": {
+    "VPO_01": "VPO_01",
+    "HVTT": "VPO_01",
+    "CV04_VPO_01": "VPO_01",
+    "VPO_02": "VPO_02",
+    "TLTVN": "VPO_02",
+    "CV04_VPO_02": "VPO_02",
+    "VPO_03": "VPO_03",
+    "TVLT2": "VPO_03",
+    "CV04_VPO_03": "VPO_03"
+  },
   "books": {
-    "HVTT": {
-      "book_id": "HVTT",
-      "code": "HVTT_HanVanTinhTuy",
-      "deliverable_dir": "deliverables/HVTT_HanVanTinhTuy",
-      "source_dir": "deliverables/HVTT_HanVanTinhTuy/01_nguon",
-      "ocr_raw_dir": "deliverables/HVTT_HanVanTinhTuy/02_ocr_tho",
-      "clean_text_dir": "deliverables/HVTT_HanVanTinhTuy/03_text_sach",
-      "alignment_dir": "deliverables/HVTT_HanVanTinhTuy/04_dong_hang",
+    "VPO_01": {
+      "book_id": "VPO_01",
+      "legacy_id": "HVTT",
+      "group_code": "CV04",
+      "code": "CV04_VPO_01",
+      "work_code": "VPO_01",
+      "deliverable_dir": "CV04_VPO_01",
+      "source_dir": "CV04_VPO_01/01_nguon",
+      "ocr_raw_dir": "CV04_VPO_01/02_ocr_tho",
+      "clean_text_dir": "CV04_VPO_01/03_text_sach",
+      "alignment_dir": "CV04_VPO_01/04_dong_hang",
       "title": "Hán Văn Tinh Túy",
       "author": "Lãng Nhân (Phùng Tất Đắc)",
-      "pdf_filename": "Hán Văn Tinh Túy - Lãng Nhân.pdf",
+      "pdf_path": "raw_data/Hán văn tinh tuý - Lãng Nhân.pdf",
       "total_pdf_pages": 386,
       "format": "PDF Scan",
       "layout": "interlinear_4col_even_odd_pages",
@@ -50,21 +65,86 @@
       "pilot_pages": [8, 9, 10, 11, 12, 13, 50, 312, 326, 368, 369],
       "pilot_book_pages": [2, 3, 4, 5, 6, 7, 44, 306, 320, 362, 363]
     },
-    "TVLT2": {
-      "book_id": "TVLT2",
-      "code": "TVLT2_ThoVanLyTran2",
-      "deliverable_dir": "deliverables/TVLT2_ThoVanLyTran2",
-      "source_dir": "deliverables/TVLT2_ThoVanLyTran2/01_nguon",
-      "ocr_raw_dir": "deliverables/TVLT2_ThoVanLyTran2/02_ocr_tho",
-      "clean_text_dir": "deliverables/TVLT2_ThoVanLyTran2/03_text_sach",
-      "alignment_dir": "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang",
+    "VPO_02": {
+      "book_id": "VPO_02",
+      "legacy_id": "TLTVN",
+      "group_code": "CV04",
+      "code": "CV04_VPO_02",
+      "work_code": "VPO_02",
+      "deliverable_dir": "CV04_VPO_02",
+      "source_dir": "CV04_VPO_02/01_nguon",
+      "ocr_raw_dir": "CV04_VPO_02/02_ocr_tho",
+      "clean_text_dir": "CV04_VPO_02/03_text_sach",
+      "alignment_dir": "CV04_VPO_02/04_dong_hang",
+      "title": "Thể loại từ Việt Nam thời trung đại",
+      "author": "Phạm Văn Ánh / Nguyễn Xuân Diện - Nguyễn Quảng Tuân",
+      "pdf_path": "raw_data/Thể loại từ VN thời trung đại - Phạm Văn Ánh.pdf",
+      "total_pdf_pages": 645,
+      "format": "PDF Scan",
+      "layout": "sequential_section_blocks",
+      "columns": ["Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ"],
+      "layout_description": "Phần Ba (Tuyển dịch): mỗi bài từ gồm Nguyên chữ Hán -> Phiên âm -> Dịch nghĩa -> Dịch theo nguyên điệu (Dịch thơ) -> Chú thích.",
+      "offset_formula": "pdf_page = book_page + 7 (for book pages 1..593)",
+      "book_to_pdf_offset": 7,
+      "pdf_to_book_offset": -7,
+      "offset_applicable_book_page_range": [1, 593],
+      "valid_range": {
+        "section": "Phần Ba: Tuyển tập từ Việt Nam thời trung đại",
+        "book_page_start": 127,
+        "book_page_end": 540,
+        "pdf_page_start": 134,
+        "pdf_page_end": 547,
+        "step": 1,
+        "parity": "all",
+        "valid_pdf_page_count": 414,
+        "description": "Phần Ba (book pages 127..540 / PDF pages 134..547) containing bilingual Hán-Việt từ anthology."
+      },
+      "excluded_ranges": [
+        {
+          "pdf_page_start": 1,
+          "pdf_page_end": 7,
+          "book_pages": "Front matter (I..V, VIII..IX; missing VI and VII)",
+          "reason": "Bìa và Mục lục đầu sách."
+        },
+        {
+          "pdf_page_start": 8,
+          "pdf_page_end": 133,
+          "book_page_start": 1,
+          "book_page_end": 126,
+          "section": "Phần Một & Phần Hai",
+          "reason": "Chuyên khảo nghiên cứu văn học bằng tiếng Việt, không phải văn bản song ngữ đối chiếu."
+        },
+        {
+          "pdf_page_start": 548,
+          "pdf_page_end": 645,
+          "book_page_start": 541,
+          "book_page_end": 635,
+          "section": "Phụ lục",
+          "reason": "Phụ lục tra cứu từ điệu, bảng thống kê, ảnh chụp chữ Hán và tài liệu tham khảo."
+        }
+      ],
+      "pilot_pages": [134, 135, 136, 137, 200, 300],
+      "pilot_book_pages": [127, 128, 129, 130, 193, 293]
+    },
+    "VPO_03": {
+      "book_id": "VPO_03",
+      "legacy_id": "TVLT2",
+      "group_code": "CV04",
+      "code": "CV04_VPO_03",
+      "work_code": "VPO_03",
+      "deliverable_dir": "CV04_VPO_03",
+      "source_dir": "CV04_VPO_03/01_nguon",
+      "ocr_raw_dir": "CV04_VPO_03/02_ocr_tho",
+      "clean_text_dir": "CV04_VPO_03/03_text_sach",
+      "alignment_dir": "CV04_VPO_03/04_dong_hang",
       "title": "Thơ văn Lý - Trần (Tập II - Quyển Thượng)",
       "author": "Nguyễn Huệ Chi (chủ biên)",
-      "pdf_filename": "Nguyễn Huệ Chi (chủ biên) - Thơ văn Lý Trần 2.pdf",
+      "pdf_path": "raw_data/Thơ văn Lý-Trần tập 2 - Nguyễn Huệ Chi.pdf",
       "total_pdf_pages": 965,
       "format": "PDF Scan",
       "layout": "sequential_section_blocks",
-      "layout_description": "Mỗi tác phẩm trình bày lần lượt theo khối: Nguyên tác chữ Hán -> Phiên âm Hán-Việt -> Dịch nghĩa -> Dịch thơ -> Chú thích.",
+      "columns": ["Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ"],
+      "layout_description": "Mỗi tác phẩm trình bày lần lượt theo khối: Nguyên tác chữ Hán -> Phiên âm Hán-Việt -> Dịch nghĩa -> Dịch thơ (đối với thơ/kệ; để trống nếu là văn xuôi) -> Chú thích.",
       "offset_formula": "book_page = pdf_page + 2 (for PDF pages >= 7)",
       "book_to_pdf_offset": -2,
       "pdf_to_book_offset": 2,
@@ -84,14 +164,14 @@
           "pdf_page_start": 1,
           "pdf_page_end": 16,
           "book_pages": "Front matter (p.1..18, missing p.7..8)",
-          "reason": "Bìa, lời giới thiệu, phàm lệ, tiểu dẫn đầu tập (thiếu 2 trang sách 7-8 ở phần đầu)."
+          "reason": "Bìa, lời giới thiệu, phàm lệ, tiểu dẫn đầu tập."
         },
         {
           "pdf_page_start": 25,
           "pdf_page_end": 25,
           "book_page_start": 27,
           "book_page_end": 27,
-          "reason": "Trang scan trắng (blank scan), mất phần giữa bài 3 'Thiền tông chỉ nam tự'."
+          "reason": "Trang scan trắng (blank scan), mất phần giữa bài 3 'Thiền tông chỉ nam tự' (đã bổ sung từ file Google Drive của chị Như)."
         },
         {
           "pdf_page_start": 493,
@@ -140,86 +220,10 @@
         688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703
       ],
       "supplemental_files": {
-        "work_03_dich_nghia": "deliverables/TVLT2_ThoVanLyTran2/01_nguon/bai_03_thien_tong_chi_nam_tu_dich_nghia.txt"
+        "work_03_dich_nghia": "CV04_VPO_03/01_nguon/bai_03_thien_tong_chi_nam_tu_dich_nghia.txt"
       },
       "pilot_pages": [19, 20, 22, 23, 24, 26, 38, 40, 42],
       "pilot_book_pages": [21, 22, 24, 25, 26, 28, 40, 42, 44]
-    },
-    "TLTVN": {
-      "book_id": "TLTVN",
-      "code": "TLTVN_TheLoaiTuVN",
-      "deliverable_dir": "deliverables/TLTVN_TheLoaiTuVN",
-      "source_dir": "deliverables/TLTVN_TheLoaiTuVN/01_nguon",
-      "ocr_raw_dir": "deliverables/TLTVN_TheLoaiTuVN/02_ocr_tho",
-      "clean_text_dir": "deliverables/TLTVN_TheLoaiTuVN/03_text_sach",
-      "alignment_dir": "deliverables/TLTVN_TheLoaiTuVN/04_dong_hang",
-      "title": "Thể loại từ Việt Nam thời trung đại",
-      "author": "Nguyễn Xuân Diện - Nguyễn Quảng Tuân (biên khảo & tuyển dịch)",
-      "pdf_filename": "Thể loại từ VN thời trung đại.pdf",
-      "total_pdf_pages": 645,
-      "format": "PDF Scan",
-      "layout": "sequential_section_blocks",
-      "layout_description": "Phần Ba (Tuyển dịch): mỗi bài từ gồm Nguyên chữ Hán -> Phiên âm -> Dịch nghĩa -> Dịch thơ -> Chú thích.",
-      "offset_formula": "pdf_page = book_page + 7 (for book pages 1..593)",
-      "book_to_pdf_offset": 7,
-      "pdf_to_book_offset": -7,
-      "offset_applicable_book_page_range": [1, 593],
-      "valid_range": {
-        "section": "Phần Ba: Tuyển dịch từ Việt Nam thời trung đại",
-        "book_page_start": 127,
-        "book_page_end": 540,
-        "pdf_page_start": 134,
-        "pdf_page_end": 547,
-        "step": 1,
-        "parity": "all",
-        "valid_pdf_page_count": 414,
-        "description": "Phần Ba (book pages 127..540 / PDF pages 134..547) containing bilingual Hán-Việt词 (từ) anthology."
-      },
-      "excluded_ranges": [
-        {
-          "pdf_page_start": 1,
-          "pdf_page_end": 7,
-          "book_pages": "Front matter (I..V, VIII..IX; missing VI and VII)",
-          "reason": "Bìa và Mục lục đầu sách; thiếu trang VI (phần 2 của Mục lục) và trang VII."
-        },
-        {
-          "pdf_page_start": 8,
-          "pdf_page_end": 133,
-          "book_page_start": 1,
-          "book_page_end": 126,
-          "section": "Phần Một & Phần Hai",
-          "reason": "Chuyên khảo nghiên cứu văn học bằng tiếng Việt (Phần Một: Khái luận về từ; Phần Hai: Từ Việt Nam thời trung đại), không phải văn bản song ngữ đối chiếu."
-        },
-        {
-          "pdf_page_start": 548,
-          "pdf_page_end": 645,
-          "book_page_start": 541,
-          "book_page_end": 635,
-          "section": "Phụ lục",
-          "reason": "Phụ lục tra cứu từ điệu, bảng thống kê và tài liệu tham khảo; có trang scan ngược 180 độ tại PDF p.589..590 (book p.582..583) và trang gập tách đôi tại PDF p.601..602 (book p.594) làm lệch offset từ sau trang sách 593."
-        }
-      ],
-      "anomalies": [
-        {
-          "type": "missing_pages",
-          "location": "Front matter pages VI (TOC part 2) and VII",
-          "impact": "Shifts offset from +9 to +7 starting at book page 1 (PDF page 8)."
-        },
-        {
-          "type": "upside_down_scan",
-          "pdf_pages": [589, 590],
-          "book_pages": [582, 583],
-          "impact": "Inside excluded Phụ lục section; no impact on Phần Ba."
-        },
-        {
-          "type": "split_foldout",
-          "pdf_pages": [601, 602],
-          "book_pages": [594],
-          "impact": "Inside excluded Phụ lục section; shifts offset from +7 to +8 after book page 593."
-        }
-      ],
-      "pilot_pages": [134, 135, 136, 137, 200, 300],
-      "pilot_book_pages": [127, 128, 129, 130, 193, 293]
     }
   }
 }

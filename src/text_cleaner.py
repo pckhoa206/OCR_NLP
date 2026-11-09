@@ -34,15 +34,18 @@ _SUPERSCRIPTS_RE = re.compile(
     r"[¹²³⁴⁵⁶⁷⁸⁹⁰⁺⁻⁼⁽⁾\u2460-\u2473\u24ea\u3251-\u325f\u32b1-\u32bf]+"
 )
 
-# Allowed CJK characters and CJK punctuation (including lacunae □ ■)
+# Allowed CJK characters and CJK punctuation (including lacunae □ ■ and [MASK] placeholder \ue000)
+_MASK_PLACEHOLDER = "\ue000"
+_MASK_TOKEN_RE = re.compile(r"\[\s*MASK\s*\]", re.IGNORECASE)
+
 _VALID_HAN_CHAR_RE = re.compile(
     r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
     r"\U00020000-\U0002ebef"
-    r"\u25a0-\u25a3"
+    r"\u25a0-\u25a3\ue000"
     r"，。！？；：「」『』、（）《》〈〉【】—…·]"
 )
 _CJK_IDEOGRAPH_RE = re.compile(
-    r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3]"
+    r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3\ue000]"
 )
 
 # Empty brackets left over after removing non-CJK inside them
@@ -170,6 +173,9 @@ def clean_han_text(text: str) -> str:
         return ""
     out = normalize_unicode_nfc(text)
 
+    # Protect [MASK] tokens (for illegible/missing characters per instructor rules)
+    out = _MASK_TOKEN_RE.sub(_MASK_PLACEHOLDER, out)
+
     # Remove section labels first so punctuation after labels (like ':') doesn't turn into '：'
     out = _VIET_SECTION_LABEL_RE.sub("", out)
 
@@ -178,7 +184,7 @@ def clean_han_text(text: str) -> str:
     out = _FOOTNOTE_STAR_RE.sub("", out)
     out = _SUPERSCRIPTS_RE.sub("", out)
 
-    # Convert ASCII punctuation immediately following a CJK character into fullwidth CJK punctuation
+    # Convert ASCII punctuation immediately following a CJK character or [MASK] into fullwidth CJK punctuation
     _ascii_punct_map = {
         ",": "，",
         ".": "。",
@@ -188,12 +194,12 @@ def clean_han_text(text: str) -> str:
         "!": "！",
     }
     out = re.sub(
-        r"(?<=[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff])\s*([.,;:?!])",
+        r"(?<=[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\u25a0-\u25a3\ue000])\s*([.,;:?!])",
         lambda m: _ascii_punct_map[m.group(1)],
         out,
     )
 
-    # Retain only valid CJK ideographs and CJK punctuation
+    # Retain only valid CJK ideographs, [MASK] placeholder, and CJK punctuation
     kept_chars = _VALID_HAN_CHAR_RE.findall(out)
     out = "".join(kept_chars)
 
@@ -202,10 +208,11 @@ def clean_han_text(text: str) -> str:
     out = _REPEATED_CJK_PUNCT_RE.sub(r"\1", out)
     out = _LEADING_CJK_PUNCT_RE.sub("", out)
 
-    # If the resulting string has no CJK ideographs at all, return empty string
+    # If the resulting string has no CJK ideographs or [MASK] at all, return empty string
     if not _CJK_IDEOGRAPH_RE.search(out):
         return ""
 
+    out = out.replace(_MASK_PLACEHOLDER, "[MASK]")
     return out.strip()
 
 

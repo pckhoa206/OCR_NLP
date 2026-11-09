@@ -1,0 +1,52 @@
+{
+  "book_code": "VPO_03",
+  "group_folder": "CV04_VPO_03",
+  "qa_validation": {
+    "total_pairs": 12,
+    "valid_pairs": 12,
+    "valid_checked_pairs": 12,
+    "error_pairs": 0,
+    "num_error_pairs": 0,
+    "clean_pairs": 12,
+    "error_rate": 0.0,
+    "passes_acceptance_threshold": true,
+    "passes_threshold_30pct": true,
+    "passes_internal_target": true,
+    "passes_target_20pct": true,
+    "is_valid": true,
+    "error_counts_by_type": {
+      "MISSING": 0,
+      "OMISSION": 0,
+      "ADDITION": 0,
+      "FORMAT_ERROR": 0,
+      "LEFTOVER_MARKER": 0,
+      "NUMBER_MISMATCH": 0
+    },
+    "error_breakdown": {
+      "MISSING": 0,
+      "OMISSION": 0,
+      "ADDITION": 0,
+      "FORMAT_ERROR": 0,
+      "LEFTOVER_MARKER": 0,
+      "NUMBER_MISMATCH": 0
+    },
+    "missing_count": 0,
+    "omission_count": 0,
+    "addition_count": 0,
+    "format_error_count": 0,
+    "leftover_marker_count": 0,
+    "number_mismatch_count": 0,
+    "issues": [],
+    "errors": [],
+    "warnings": []
+  },
+  "word_coverage": {
+    "total_pairs": 12,
+    "avg_confidence": 0.6674,
+    "avg_han_coverage_pct": 84.88,
+    "avg_viet_coverage_pct": 28.35,
+    "high_confidence_pairs": 0,
+    "medium_confidence_pairs": 4,
+    "low_confidence_pairs": 8
+  }
+}

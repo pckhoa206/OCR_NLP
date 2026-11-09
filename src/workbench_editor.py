@@ -19,9 +19,27 @@ from src.text_cleaner import clean_han_text, clean_viet_text
 from src.word_aligner import batch_evaluate_word_coverage
 
 BOOK_FOLDER_MAP: Dict[str, str] = {
-    "HVTT": "HVTT_HanVanTinhTuy",
-    "TVLT2": "TVLT2_ThoVanLyTran2",
-    "TLTVN": "TLTVN_TheLoaiTuVN",
+    "VPO_01": "CV04_VPO_01",
+    "VPO_02": "CV04_VPO_02",
+    "VPO_03": "CV04_VPO_03",
+    "CV04_VPO_01": "CV04_VPO_01",
+    "CV04_VPO_02": "CV04_VPO_02",
+    "CV04_VPO_03": "CV04_VPO_03",
+    "HVTT": "CV04_VPO_01",
+    "TLTVN": "CV04_VPO_02",
+    "TVLT2": "CV04_VPO_03",
+}
+
+BOOK_WORK_CODE_MAP: Dict[str, str] = {
+    "VPO_01": "VPO_01",
+    "VPO_02": "VPO_02",
+    "VPO_03": "VPO_03",
+    "CV04_VPO_01": "VPO_01",
+    "CV04_VPO_02": "VPO_02",
+    "CV04_VPO_03": "VPO_03",
+    "HVTT": "VPO_01",
+    "TLTVN": "VPO_02",
+    "TVLT2": "VPO_03",
 }
 
 
@@ -29,21 +47,46 @@ def get_book_paths(book_key: str, workspace_root: Path) -> Dict[str, Path]:
     """Retrieve absolute file paths for a given book's deliverables."""
     code = book_key.upper().strip()
     folder_name = BOOK_FOLDER_MAP.get(code, code)
-    align_dir = workspace_root / "deliverables" / folder_name / "04_dong_hang"
+    work_code = BOOK_WORK_CODE_MAP.get(code, code)
+
+    # Prefer direct root folder (CV04_VPO_01), fallback to deliverables/<folder> for temp test dirs
+    direct_dir = workspace_root / folder_name / "04_dong_hang"
+    legacy_folder = {
+        "HVTT": "HVTT_HanVanTinhTuy",
+        "TLTVN": "TLTVN_TheLoaiTuVN",
+        "TVLT2": "TVLT2_ThoVanLyTran2",
+    }.get(code, folder_name)
+    legacy_dir = workspace_root / "deliverables" / legacy_folder / "04_dong_hang"
+
+    if (workspace_root / folder_name).exists() or not (workspace_root / "deliverables").exists():
+        align_dir = direct_dir
+    else:
+        align_dir = legacy_dir
+        folder_name = legacy_folder
+        work_code = code
+
     align_dir.mkdir(parents=True, exist_ok=True)
 
-    tsv_path = align_dir / f"{folder_name}_parallel.tsv"
-    if not tsv_path.is_file():
-        tsv_path = align_dir / f"{code}_parallel.tsv"
+    # Check existing TSV candidates
+    candidates_tsv = [
+        align_dir / f"{work_code}_parallel.tsv",
+        align_dir / f"{folder_name}_parallel.tsv",
+        align_dir / f"{code}_parallel.tsv",
+    ]
+    tsv_path = next((p for p in candidates_tsv if p.is_file()), candidates_tsv[0])
 
-    xlsx_path = align_dir / f"{folder_name}_parallel.xlsx"
-    if not xlsx_path.is_file():
-        xlsx_path = align_dir / f"{code}_parallel.xlsx"
+    candidates_xlsx = [
+        align_dir / f"{work_code}_parallel.xlsx",
+        align_dir / f"{folder_name}_parallel.xlsx",
+        align_dir / f"{code}_parallel.xlsx",
+    ]
+    xlsx_path = next((p for p in candidates_xlsx if p.is_file()), candidates_xlsx[0])
 
     qa_report_path = align_dir / "qa_report.json"
 
     return {
         "folder_name": Path(folder_name),
+        "work_code": Path(work_code),
         "align_dir": align_dir,
         "tsv": tsv_path,
         "xlsx": xlsx_path,
@@ -190,27 +233,24 @@ def save_and_reexport_corpus(
     """Atomically validate, re-export TSV and XLSX, and update QA metrics."""
     paths = get_book_paths(book_key, workspace_root)
     folder_name = str(paths["folder_name"])
+    work_code = str(paths["work_code"])
 
     # 1. QA Validation
     qa_report = validate_pairs(rows)
     word_coverage = batch_evaluate_word_coverage(rows)
 
     # 2. Re-export TSV
-    tsv_target = paths["align_dir"] / f"{folder_name}_parallel.tsv"
+    tsv_target = paths["tsv"]
     export_tsv(rows, str(tsv_target))
 
-    # Keep short symlink / duplicate in sync
-    short_tsv = paths["align_dir"] / f"{book_key}_parallel.tsv"
-    if short_tsv != tsv_target:
-        export_tsv(rows, str(short_tsv))
-
     # 3. Re-export XLSX 2-sheet
-    xlsx_target = paths["align_dir"] / f"{folder_name}_parallel.xlsx"
+    xlsx_target = paths["xlsx"]
     export_xlsx_zero_dep(
         rows,
         str(xlsx_target),
         stats={
-            "Mã tài liệu": folder_name,
+            "Mã đề tài": folder_name,
+            "Mã tác phẩm": work_code,
             "Tổng số cặp câu": len(rows),
             "Số cặp hợp lệ": qa_report["valid_checked_pairs"],
             "Tỷ lệ lỗi QA": f"{qa_report['error_rate'] * 100:.2f}%",
@@ -218,13 +258,11 @@ def save_and_reexport_corpus(
             "Điểm tin cậy liên kết": f"{word_coverage['avg_confidence']:.4f}",
         },
     )
-    short_xlsx = paths["align_dir"] / f"{book_key}_parallel.xlsx"
-    if short_xlsx != xlsx_target:
-        export_xlsx_zero_dep(rows, str(short_xlsx))
 
     # 4. Write updated QA report
     qa_full = {
-        "book_code": book_key,
+        "book_code": work_code,
+        "group_folder": folder_name,
         "qa_validation": qa_report,
         "word_coverage": word_coverage,
     }
@@ -235,7 +273,7 @@ def save_and_reexport_corpus(
 
     return {
         "status": "SUCCESS",
-        "book_code": book_key,
+        "book_code": work_code,
         "total_rows": len(rows),
         "is_valid": qa_report["is_valid"],
         "error_rate": qa_report["error_rate"],

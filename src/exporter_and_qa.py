@@ -30,7 +30,8 @@ ACCEPTANCE_ERROR_RATE_THRESHOLD: float = 0.30
 INTERNAL_TARGET_ERROR_RATE: float = 0.20
 
 _CJK_RE = re.compile(
-    r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3]"
+    r"\[\s*MASK\s*\]|[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\U00020000-\U0002ebef\u25a0-\u25a3]",
+    re.IGNORECASE,
 )
 _VIET_LETTER_RE = re.compile(r"[A-Za-zÀ-ỹà-ỹ]")
 _VIET_TOKEN_RE = re.compile(r"[A-Za-zÀ-ỹà-ỹ0-9]+")
