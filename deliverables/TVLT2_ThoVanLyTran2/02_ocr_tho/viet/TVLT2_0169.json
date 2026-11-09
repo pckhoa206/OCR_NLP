@@ -1,0 +1,361 @@
+{
+  "page_id": "0169",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 169,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0169_viet_000",
+      "bbox": [
+        [
+          1020,
+          160
+        ],
+        [
+          1780,
+          160
+        ],
+        [
+          1780,
+          210
+        ],
+        [
+          1020,
+          210
+        ]
+      ],
+      "bbox_original": [
+        [
+          1020,
+          315
+        ],
+        [
+          1780,
+          315
+        ],
+        [
+          1780,
+          365
+        ],
+        [
+          1020,
+          365
+        ]
+      ],
+      "box_xyxy": [
+        1020,
+        160,
+        1780,
+        210
+      ],
+      "text": "Phong đả tùng quan 1* nguyệt chiếu đình, Tâm kỳ phong cảnh cộng thê thanh.",
+      "confidence": 0.988
+    },
+    {
+      "line_id": "0169_viet_001",
+      "bbox": [
+        [
+          1020,
+          225
+        ],
+        [
+          1780,
+          225
+        ],
+        [
+          1780,
+          275
+        ],
+        [
+          1020,
+          275
+        ]
+      ],
+      "bbox_original": [
+        [
+          1020,
+          380
+        ],
+        [
+          1780,
+          380
+        ],
+        [
+          1780,
+          430
+        ],
+        [
+          1020,
+          430
+        ]
+      ],
+      "box_xyxy": [
+        1020,
+        225,
+        1780,
+        275
+      ],
+      "text": "Cá trung tư vị vô nhân thức, Phó dữ sơn tăng lạc đáo minh.",
+      "confidence": 0.987
+    },
+    {
+      "line_id": "0169_viet_002",
+      "bbox": [
+        [
+          180,
+          340
+        ],
+        [
+          600,
+          340
+        ],
+        [
+          600,
+          385
+        ],
+        [
+          180,
+          385
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          495
+        ],
+        [
+          600,
+          495
+        ],
+        [
+          600,
+          540
+        ],
+        [
+          180,
+          540
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        340,
+        600,
+        385
+      ],
+      "text": "DỊCH NGHĨA :",
+      "confidence": 0.994
+    },
+    {
+      "line_id": "0169_viet_003",
+      "bbox": [
+        [
+          180,
+          395
+        ],
+        [
+          1780,
+          395
+        ],
+        [
+          1780,
+          440
+        ],
+        [
+          180,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          550
+        ],
+        [
+          1780,
+          550
+        ],
+        [
+          1780,
+          595
+        ],
+        [
+          180,
+          595
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        395,
+        1780,
+        440
+      ],
+      "text": "Gió đập cổng thông, trăng sáng trước sân, Lòng hẹn với phong cảnh cùng trong sạch lặng lẽ.",
+      "confidence": 0.985
+    },
+    {
+      "line_id": "0169_viet_004",
+      "bbox": [
+        [
+          180,
+          450
+        ],
+        [
+          1780,
+          450
+        ],
+        [
+          1780,
+          495
+        ],
+        [
+          180,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          605
+        ],
+        [
+          1780,
+          605
+        ],
+        [
+          1780,
+          650
+        ],
+        [
+          180,
+          650
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        450,
+        1780,
+        495
+      ],
+      "text": "Bao nhiêu thú vị trong đó không ai hay, Mặc cho nhà sư trong núi vui đến sáng.",
+      "confidence": 0.984
+    },
+    {
+      "line_id": "0169_viet_005",
+      "bbox": [
+        [
+          180,
+          520
+        ],
+        [
+          600,
+          520
+        ],
+        [
+          600,
+          565
+        ],
+        [
+          180,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          675
+        ],
+        [
+          600,
+          675
+        ],
+        [
+          600,
+          720
+        ],
+        [
+          180,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        520,
+        600,
+        565
+      ],
+      "text": "DỊCH THƠ :",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0169_viet_006",
+      "bbox": [
+        [
+          180,
+          575
+        ],
+        [
+          1400,
+          575
+        ],
+        [
+          1400,
+          625
+        ],
+        [
+          180,
+          625
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          730
+        ],
+        [
+          1400,
+          730
+        ],
+        [
+          1400,
+          780
+        ],
+        [
+          180,
+          780
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        575,
+        1400,
+        625
+      ],
+      "text": "Gió đập cửa thông, trăng lấp loáng, Lòng đây, cảnh đấy cùng thanh sảng.",
+      "confidence": 0.98
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "phien_am_lines": [
+      "Phong đả tùng quan 1* nguyệt chiếu đình, Tâm kỳ phong cảnh cộng thê thanh.",
+      "Cá trung tư vị vô nhân thức, Phó dữ sơn tăng lạc đáo minh."
+    ],
+    "dich_nghia_lines": [
+      "Gió đập cổng thông, trăng sáng trước sân, Lòng hẹn với phong cảnh cùng trong sạch lặng lẽ.",
+      "Bao nhiêu thú vị trong đó không ai hay, Mặc cho nhà sư trong núi vui đến sáng."
+    ],
+    "interlinear_triplets": []
+  }
+}

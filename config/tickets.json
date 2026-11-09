@@ -1,0 +1,494 @@
+{
+  "project_name": "Hán–Việt Classical Text OCR & Sentence Alignment Pipeline",
+  "guideline_ref": "Guideline.pdf",
+  "tickets": [
+    {
+      "id": "T01",
+      "title": "Kiểm kê nguồn PDF, lập Manifest & Trích xuất 17 trang Pilot 300 DPI",
+      "phase": "Phase 1: Inventory & Image Extraction",
+      "owner_agent": "data_architect",
+      "status": "DONE",
+      "depends_on": [],
+      "inputs": [
+        "Guideline.pdf",
+        "Hán Văn Tinh Túy - Lãng Nhân.pdf",
+        "Nguyễn Huệ Chi (chủ biên) - Thơ văn Lý Trần 2.pdf",
+        "Thể loại từ VN thời trung đại.pdf"
+      ],
+      "outputs": [
+        "config/book_manifest.json",
+        "docs/BANG_KIEM_KE_NGUON.md",
+        "scripts/extract_pages.swift",
+        "deliverables/HVTT_HanVanTinhTuy/01_nguon/*.png",
+        "deliverables/TLTVN_TheLoaiTuVN/01_nguon/*.png",
+        "deliverables/TVLT2_ThoVanLyTran2/01_nguon/*.png"
+      ],
+      "acceptance_criteria": [
+        "Tạo đúng cây thư mục mục 8 của Guideline cho cả 3 bộ sách.",
+        "Xác định chính xác công thức độ lệch trang PDF_Page <-> Book_Page.",
+        "Trích xuất thành công 17 ảnh PNG 300 DPI cho tập Pilot."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestInventoryAndManifest -v",
+      "unblocks": [
+        "T02",
+        "T03"
+      ]
+    },
+    {
+      "id": "T02",
+      "title": "Xây dựng Kaggle GPU OCR Pipeline & Bộ đối sánh âm tiết Hán–Việt 1:1",
+      "phase": "Phase 2: OCR & Phonetic Verification",
+      "owner_agent": "kaggle_ocr_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T01"
+      ],
+      "inputs": [
+        "config/book_manifest.json",
+        "deliverables/*/01_nguon/*.png"
+      ],
+      "outputs": [
+        "src/phonetic_verifier.py",
+        "kaggle_ocr/ocr_pipeline_kaggle.py",
+        "kaggle_ocr/dataset-metadata.json",
+        "kaggle_ocr/kernel-metadata.json",
+        "kaggle_ocr/deploy_to_kaggle.sh"
+      ],
+      "acceptance_criteria": [
+        "Đối sánh âm tiết 1:1 giữa số chữ Hán và số âm tiết Phiên âm Hán–Việt đạt 100% trên dữ liệu thực tế.",
+        "Nội suy dấu câu từ dòng Phiên âm sang dòng Chữ Hán cho sách Hán Văn Tinh Túy.",
+        "Tự động cắt bỏ tiêu đề chạy (running header) và chú thích cuối trang trước khi OCR."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k 'TestPhoneticVerifier or TestKaggleOCRPipelineMockMode' -v",
+      "unblocks": [
+        "T04"
+      ]
+    },
+    {
+      "id": "T03",
+      "title": "Xây dựng Bộ làm sạch, Thuật toán dóng hàng DP & Xuất bản TSV/XLSX",
+      "phase": "Phase 3: Cleaning, Alignment & QA",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T01"
+      ],
+      "inputs": [
+        "Guideline.pdf",
+        "config/book_manifest.json"
+      ],
+      "outputs": [
+        "src/text_cleaner.py",
+        "src/aligner.py",
+        "src/exporter_and_qa.py"
+      ],
+      "acceptance_criteria": [
+        "Chuẩn hóa Unicode NFC, xóa chỉ mục chú thích 1*, 2*, [1], (1) dính chữ mà không làm mất chữ cổ.",
+        "Dóng hàng chính xác các quan hệ 1-1, 1-2, 2-1, 2-2 theo điểm neo tác phẩm.",
+        "Xuất đồng thời file .tsv (UTF-8) và .xlsx (2 sheet DONG_HANG và THONG_KE)."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k 'TestTextCleaner or TestAligner' -v",
+      "unblocks": [
+        "T04"
+      ]
+    },
+    {
+      "id": "T04",
+      "title": "Kiểm định Độc lập (Evaluator-Optimizer Loop) & Sinh bộ Pilot Deliverables",
+      "phase": "Phase 4: Independent Review & Pilot Gate",
+      "owner_agent": "plan_code_reviewer",
+      "status": "DONE",
+      "depends_on": [
+        "T02",
+        "T03"
+      ],
+      "inputs": [
+        "src/phonetic_verifier.py",
+        "src/text_cleaner.py",
+        "src/aligner.py",
+        "src/exporter_and_qa.py",
+        "kaggle_ocr/ocr_pipeline_kaggle.py"
+      ],
+      "outputs": [
+        "tests/test_pipeline.py",
+        "scripts/run_pilot_demo.py",
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.tsv",
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.xlsx",
+        "deliverables/TLTVN_TheLoaiTuVN/04_dong_hang/TLTVN_parallel.tsv",
+        "deliverables/TLTVN_TheLoaiTuVN/04_dong_hang/TLTVN_parallel.xlsx",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.tsv",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.xlsx"
+      ],
+      "acceptance_criteria": [
+        "Vượt qua công cụ kiểm định review_evaluator.py với status == APPROVED và test_status == PASS.",
+        "Tỷ lệ lỗi QA trên cả 3 bộ Pilot Deliverables bằng 0.0% (< 5% theo Guideline)."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -v",
+      "unblocks": [
+        "T05"
+      ]
+    },
+    {
+      "id": "T05",
+      "title": "Trích xuất toàn bộ các trang hợp lệ ở độ phân giải cao (PNG)",
+      "phase": "Phase 5: Full-Scale Production",
+      "owner_agent": "data_architect",
+      "status": "DONE",
+      "depends_on": [
+        "T04"
+      ],
+      "inputs": [
+        "config/book_manifest.json",
+        "scripts/extract_pages.swift"
+      ],
+      "outputs": [
+        "deliverables/HVTT_HanVanTinhTuy/01_nguon/*.png",
+        "deliverables/TLTVN_TheLoaiTuVN/01_nguon/*.png",
+        "deliverables/TVLT2_ThoVanLyTran2/01_nguon/*.png"
+      ],
+      "acceptance_criteria": [
+        "Kết xuất đầy đủ các trang hợp lệ của HVTT, TLTVN và TVLT2.",
+        "Không trích xuất các trang đã đánh dấu loại trừ trong book_manifest.json."
+      ],
+      "verification_cmd": "swift -module-cache-path /tmp/swift-module-cache scripts/extract_pages.swift --pilot",
+      "unblocks": [
+        "T06",
+        "T09"
+      ]
+    },
+    {
+      "id": "T06",
+      "title": "Đẩy Dataset ảnh & Chạy Batch OCR trên Kaggle GPU (PaddleOCR + VietOCR)",
+      "phase": "Phase 5: Full-Scale Production",
+      "owner_agent": "kaggle_ocr_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T05"
+      ],
+      "inputs": [
+        "deliverables/*/01_nguon/*.png",
+        "kaggle_ocr/ocr_pipeline_kaggle.py",
+        "kaggle_ocr/deploy_to_kaggle.sh"
+      ],
+      "outputs": [
+        "kaggle_ocr/dataset-metadata.json",
+        "kaggle_ocr/kernel-metadata.json"
+      ],
+      "acceptance_criteria": [
+        "Đẩy thành công Dataset và Kernel lên Kaggle qua Kaggle CLI.",
+        "Đồng bộ chính xác slug phmchnkhoa/han-viet-parallel-corpus-ocr-pipeline."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestKaggleOCRPipelineMockMode -v",
+      "unblocks": [
+        "T10"
+      ]
+    },
+    {
+      "id": "T09",
+      "title": "Thống kê bài khuyết Hán (Phần 3) & quyển Phụ lục chữ Hán của TLTVN + Trích thêm bài cuối HVTT (PDF 367-381)",
+      "phase": "Phase 6: Instructor Feedback Integration",
+      "owner_agent": "data_architect",
+      "status": "DONE",
+      "depends_on": [
+        "T05"
+      ],
+      "inputs": [
+        "Thể loại từ VN thời trung đại.pdf",
+        "Hán Văn Tinh Túy - Lãng Nhân.pdf",
+        "deliverables/TVLT2_ThoVanLyTran2/01_nguon/bai_03_thien_tong_chi_nam_tu_dich_nghia.txt"
+      ],
+      "outputs": [
+        "docs/THONG_KE_BO_SUNG_GIANG_VIEN.md",
+        "config/book_manifest.json",
+        "deliverables/HVTT_HanVanTinhTuy/01_nguon/0368.png",
+        "deliverables/HVTT_HanVanTinhTuy/01_nguon/0369.png"
+      ],
+      "acceptance_criteria": [
+        "Liệt kê đầy đủ và chính xác các bài từ trong Phần 3 (trang sách 127-540 / PDF 134-547) của TLTVN bị khuyết nguyên văn chữ Hán.",
+        "Thống kê đầy đủ các quyển/mục chỉ có chữ Hán trong phần Phụ lục (trang sách 541-635 / PDF 548-645) của TLTVN để giảng viên tìm bản dịch bổ sung.",
+        "Trích xuất bổ sung các trang PDF 367-381 (trang sách 361-375, bài cuối) của Hán Văn Tinh Túy vào deliverables/HVTT_HanVanTinhTuy/01_nguon/."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestInventoryAndManifest -v",
+      "unblocks": [
+        "T11"
+      ]
+    },
+    {
+      "id": "T10",
+      "title": "Nâng cấp xuất 4 cột (Hán - Dịch âm - Dịch nghĩa - Dịch thơ) cho HVTT & Tích hợp bài 3 TVLT2",
+      "phase": "Phase 6: Instructor Feedback Integration",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T06"
+      ],
+      "inputs": [
+        "deliverables/TVLT2_ThoVanLyTran2/01_nguon/bai_03_thien_tong_chi_nam_tu_dich_nghia.txt",
+        "src/exporter_and_qa.py",
+        "src/aligner.py",
+        "scripts/run_pilot_demo.py"
+      ],
+      "outputs": [
+        "src/exporter_and_qa.py",
+        "src/aligner.py",
+        "scripts/run_pilot_demo.py",
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.tsv",
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.xlsx",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.tsv",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.xlsx"
+      ],
+      "acceptance_criteria": [
+        "File dóng hàng HVTT_parallel.tsv và HVTT_parallel.xlsx có đúng 4 cột: Hán, Dịch âm, Dịch nghĩa, Dịch thơ.",
+        "Bài cuối của HVTT (trang 367-381) có đầy đủ Hán, Dịch âm, Dịch thơ và để trống cột Dịch nghĩa mà không bị báo lỗi MISSING.",
+        "Tích hợp đầy đủ bản dịch nghĩa bài số 3 (Thiền tông chỉ nam tự) của TVLT2 từ file giảng viên gửi vào bộ dóng hàng TVLT2_parallel.tsv và .xlsx."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestExporterAndQAAndPilotDeliverables -v",
+      "unblocks": [
+        "T11"
+      ]
+    },
+    {
+      "id": "T11",
+      "title": "Kiểm định Độc lập (review_evaluator.py) cho Phản hồi Giảng viên (4 cột HVTT, Bài 3 TVLT2, Thống kê TLTVN)",
+      "phase": "Phase 6: Instructor Feedback Integration",
+      "owner_agent": "plan_code_reviewer",
+      "status": "DONE",
+      "depends_on": [
+        "T09",
+        "T10"
+      ],
+      "inputs": [
+        "docs/THONG_KE_BO_SUNG_GIANG_VIEN.md",
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.tsv",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.tsv",
+        "tests/test_pipeline.py"
+      ],
+      "outputs": [
+        "tests/test_pipeline.py",
+        "docs/HANDOFF.md",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "Vượt qua review_evaluator.py với status == APPROVED và 100% test_status == PASS.",
+        "Xác nhận HVTT xuất đúng 4 cột, bài cuối để trống Dịch nghĩa, TVLT2 có bài số 3, và báo cáo thống kê TLTVN đầy đủ."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": [
+        "T12"
+      ]
+    },
+    {
+      "id": "T12",
+      "title": "Trích xuất toàn bộ 1,389 trang sách & Hoàn thiện Runner Kaggle GPU Full-Scale",
+      "phase": "Phase 7: Full-Scale Production Readiness",
+      "owner_agent": "kaggle_ocr_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T11"
+      ],
+      "inputs": [
+        "config/book_manifest.json",
+        "scripts/extract_pages.swift",
+        "kaggle_ocr/ocr_pipeline_kaggle.py"
+      ],
+      "outputs": [
+        "scripts/extract_pages.swift",
+        "scripts/kaggle_full_inference.py",
+        "kaggle_ocr/deploy_to_kaggle.sh"
+      ],
+      "acceptance_criteria": [
+        "Hỗ trợ trích xuất toàn bộ 1,389 trang hợp lệ theo cờ --all hoặc từng bộ sách.",
+        "Cung cấp script chạy inference toàn quy mô kaggle_full_inference.py hỗ trợ cả GPU thực và mock mode tốc độ cao.",
+        "Đảm bảo đầy đủ metadata và phân mảnh dữ liệu chuẩn bị đẩy Kaggle Dataset."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestKaggleOCRPipelineMockMode -v",
+      "unblocks": [
+        "T13"
+      ]
+    },
+    {
+      "id": "T13",
+      "title": "Tích hợp Semantic Cross-Lingual Aligner (BGE-M3/LaBSE) & Cơ chế dóng hàng Thơ/Từ điệu",
+      "phase": "Phase 8: Enhanced Semantic & Poetic Alignment",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T12"
+      ],
+      "inputs": [
+        "src/aligner.py",
+        "src/exporter_and_qa.py"
+      ],
+      "outputs": [
+        "src/aligner.py",
+        "src/semantic_scorer.py"
+      ],
+      "acceptance_criteria": [
+        "Tích hợp mô-đun chấm điểm tương đồng ngữ nghĩa BGE-M3/LaBSE tự động kích hoạt khi có sentence-transformers/torch và fallback mượt mà sang offline anchor scoring.",
+        "Xử lý chuẩn xác các cấu trúc câu thơ đối ngẫu (couplet), từ khúc và đối thoại văn tựa mà không bị trôi offset.",
+        "Duy trì tỷ lệ lỗi QA validator bằng 0.0% trên toàn bộ tập dữ liệu mẫu."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestAligner -v",
+      "unblocks": [
+        "T14"
+      ]
+    },
+    {
+      "id": "T14",
+      "title": "Xây dựng Interactive Visual Alignment Web App (Streamlit & CLI Inspector)",
+      "phase": "Phase 9: Interactive Human-in-the-Loop Platform",
+      "owner_agent": "data_architect",
+      "status": "DONE",
+      "depends_on": [
+        "T13"
+      ],
+      "inputs": [
+        "deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_parallel.tsv",
+        "deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_parallel.tsv",
+        "deliverables/TLTVN_TheLoaiTuVN/04_dong_hang/TLTVN_parallel.tsv"
+      ],
+      "outputs": [
+        "web_app/app.py",
+        "scripts/inspect_alignment.py"
+      ],
+      "acceptance_criteria": [
+        "Giao diện web trực quan hiển thị 4 cột Hán - Dịch âm - Dịch nghĩa - Dịch thơ kèm bộ lọc phân loại theo sách và độ tin cậy.",
+        "Hỗ trợ chế độ xem ảnh trang sách nguồn tương ứng với từng câu dóng hàng.",
+        "Công cụ dòng lệnh scripts/inspect_alignment.py cho phép tra cứu, kiểm tra và xuất báo cáo nhanh từ terminal."
+      ],
+      "verification_cmd": "python3 scripts/inspect_alignment.py --book HVTT --summary",
+      "unblocks": [
+        "T15"
+      ]
+    },
+    {
+      "id": "T15",
+      "title": "Đóng gói Hugging Face Dataset, NMT Translation Benchmark & Kiểm định Độc lập Tổng thể",
+      "phase": "Phase 10: Downstream Packaging & Final Gate",
+      "owner_agent": "plan_code_reviewer",
+      "status": "DONE",
+      "depends_on": [
+        "T14"
+      ],
+      "inputs": [
+        "deliverables/*",
+        "web_app/app.py",
+        "src/*"
+      ],
+      "outputs": [
+        "scripts/package_hf_dataset.py",
+        "scripts/eval_translation_benchmark.py",
+        "dataset_export/README.md",
+        "tests/test_pipeline.py",
+        "docs/HANDOFF.md",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "Script package_hf_dataset.py xuất thành công dataset chuẩn Hugging Face (train/validation/test JSONL + data card).",
+        "Script eval_translation_benchmark.py đo đạc chỉ số BLEU/chrF/ROUGE mô phỏng bài toán dịch máy văn ngôn Hán - Việt.",
+        "Bộ test suite 100% PASS và review_evaluator.py đạt status == APPROVED."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": [
+        "T16"
+      ]
+    },
+    {
+      "id": "T16",
+      "title": "Nghiên cứu Phương pháp SOTA Toàn cầu, Đánh giá Thực nghiệm & Báo cáo Tối ưu Hóa Hệ thống",
+      "phase": "Phase 11: SOTA Synthesis, Long-running Empirical Verification & Optimization",
+      "owner_agent": "plan_code_reviewer",
+      "status": "DONE",
+      "depends_on": [
+        "T15"
+      ],
+      "inputs": [
+        "deliverables/*",
+        "docs/BANG_KIEM_KE_NGUON.md",
+        "src/ocr_disambiguator.py",
+        "src/poetic_aligner.py",
+        "src/semantic_scorer.py",
+        "scripts/eval_translation_benchmark.py"
+      ],
+      "outputs": [
+        "docs/NGHIEN_CUU_VA_TOI_UU_SOTA.md",
+        "docs/HANDOFF.md",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "Tổng hợp chuyên sâu phân tích so sánh các công nghệ SOTA hàng đầu thế giới (2024–2026) về Classical Chinese OCR (Qwen2.5-VL, Got-OCR 2.0, PaddleOCR), Alignment (Gale-Church, Vecalign, Bertalign, BGE-M3), và NMT.",
+        "Tích hợp và kiểm chứng thực nghiệm cơ chế OCR disambiguator và poetic couplet aligner vào luồng xử lý chính với 0.0% tỷ lệ lỗi.",
+        "Toàn bộ test suite 28/28 tests vượt qua và review_evaluator.py xác nhận APPROVED."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": [
+        "T17"
+      ]
+    },
+    {
+      "id": "T17",
+      "title": "Mở rộng 105+ Cụm Nhầm lẫn Chữ Hán, Xử lý Chữ Đa âm & Engine Word-Level Coverage Alignment",
+      "phase": "Phase 12: Advanced Linguistic Grounding & Word-Level Coverage",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T16"
+      ],
+      "inputs": [
+        "src/ocr_disambiguator.py",
+        "src/word_aligner.py",
+        "src/aligner.py",
+        "scripts/inspect_alignment.py",
+        "web_app/app.py"
+      ],
+      "outputs": [
+        "src/word_aligner.py",
+        "tests/test_advanced_alignment_and_disambiguation.py",
+        "docs/HANDOFF.md",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "Mở rộng từ điển confusion clusters lên >= 105 cụm và >= 250 chữ Hán dễ nhầm.",
+        "Xây dựng engine dóng hàng mức từ (Word-level coverage aligner) tính toán chính xác tỷ lệ bao phủ Hán tự và điểm tin cậy alignment.",
+        "Hỗ trợ các bước chuyển linh hoạt (1, 4), (4, 1), (2, 3), (3, 2) trong quy hoạch động.",
+        "33/33 tests PASS và review_evaluator.py xác nhận APPROVED."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": [
+        "T18"
+      ]
+    },
+    {
+      "id": "T18",
+      "title": "Xây dựng CAT Workbench: Bộ công cụ Hiệu đính Tương tác (Split/Merge/Edit) & Báo cáo Chẩn đoán Dịch thuật",
+      "phase": "Phase 13: Interactive CAT Workbench & Lexical Diagnostic Engine",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T17"
+      ],
+      "inputs": [
+        "src/workbench_editor.py",
+        "src/word_aligner.py",
+        "scripts/diagnose_corpus_quality.py",
+        "web_app/app.py"
+      ],
+      "outputs": [
+        "src/workbench_editor.py",
+        "scripts/diagnose_corpus_quality.py",
+        "docs/BAO_CAO_CHAN_DOAN_CHAT_LUONG.md",
+        "tests/test_workbench_editor.py",
+        "docs/HANDOFF.md",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "Module src/workbench_editor.py hỗ trợ các thao tác sửa đổi nguyên tử (edit, split, merge, insert, delete) trên tập dữ liệu dóng hàng kèm kiểm định tự động.",
+        "Script scripts/diagnose_corpus_quality.py quét toàn bộ ngữ liệu 3 cuốn sách, xuất báo cáo chẩn đoán chi tiết docs/BAO_CAO_CHAN_DOAN_CHAT_LUONG.md.",
+        "Tích hợp tính năng chỉnh sửa trực tiếp và lưu tự động vào web_app/app.py.",
+        "Test suite 39/39 tests vượt qua và review_evaluator.py xác nhận APPROVED."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": []
+    }
+  ]
+}

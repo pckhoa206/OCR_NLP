@@ -1,0 +1,410 @@
+{
+  "page_id": "0297",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 297,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0297_viet_000",
+      "bbox": [
+        [
+          180,
+          185
+        ],
+        [
+          1620,
+          185
+        ],
+        [
+          1620,
+          230
+        ],
+        [
+          180,
+          230
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          306
+        ],
+        [
+          1620,
+          306
+        ],
+        [
+          1620,
+          351
+        ],
+        [
+          180,
+          351
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        185,
+        1620,
+        230
+      ],
+      "text": "Trịnh Tử-Sản hữu tật, vị tử Thái-Thúc viết :",
+      "confidence": 0.985,
+      "role": "phien_am"
+    },
+    {
+      "line_id": "0297_viet_001",
+      "bbox": [
+        [
+          180,
+          240
+        ],
+        [
+          1620,
+          240
+        ],
+        [
+          1620,
+          290
+        ],
+        [
+          180,
+          290
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          361
+        ],
+        [
+          1620,
+          361
+        ],
+        [
+          1620,
+          411
+        ],
+        [
+          180,
+          411
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        240,
+        1620,
+        290
+      ],
+      "text": "Trịnh Tử-Sản bệnh nặng, bảo con là Thái-Thúc rằng :",
+      "confidence": 0.978,
+      "role": "dich_nghia_gloss"
+    },
+    {
+      "line_id": "0297_viet_002",
+      "bbox": [
+        [
+          180,
+          375
+        ],
+        [
+          1620,
+          375
+        ],
+        [
+          1620,
+          420
+        ],
+        [
+          180,
+          420
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          496
+        ],
+        [
+          1620,
+          496
+        ],
+        [
+          1620,
+          541
+        ],
+        [
+          180,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        375,
+        1620,
+        420
+      ],
+      "text": "Ngã tử, tử tất vi chính",
+      "confidence": 0.986,
+      "role": "phien_am"
+    },
+    {
+      "line_id": "0297_viet_003",
+      "bbox": [
+        [
+          180,
+          430
+        ],
+        [
+          1620,
+          430
+        ],
+        [
+          1620,
+          475
+        ],
+        [
+          180,
+          475
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          551
+        ],
+        [
+          1620,
+          551
+        ],
+        [
+          1620,
+          596
+        ],
+        [
+          180,
+          596
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        430,
+        1620,
+        475
+      ],
+      "text": "Ta chết, con sẽ giữ chính-quyền.",
+      "confidence": 0.98,
+      "role": "dich_nghia_gloss"
+    },
+    {
+      "line_id": "0297_viet_004",
+      "bbox": [
+        [
+          180,
+          555
+        ],
+        [
+          1620,
+          555
+        ],
+        [
+          1620,
+          600
+        ],
+        [
+          180,
+          600
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          676
+        ],
+        [
+          1620,
+          676
+        ],
+        [
+          1620,
+          721
+        ],
+        [
+          180,
+          721
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        555,
+        1620,
+        600
+      ],
+      "text": "Duy hữu đức giả, năng dĩ khoan phục dân",
+      "confidence": 0.984,
+      "role": "phien_am"
+    },
+    {
+      "line_id": "0297_viet_005",
+      "bbox": [
+        [
+          180,
+          610
+        ],
+        [
+          1620,
+          610
+        ],
+        [
+          1620,
+          655
+        ],
+        [
+          180,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          731
+        ],
+        [
+          1620,
+          731
+        ],
+        [
+          1620,
+          776
+        ],
+        [
+          180,
+          776
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        610,
+        1620,
+        655
+      ],
+      "text": "Chỉ kẻ có đức mới có thể lấy khoan hòa cho dân phục,",
+      "confidence": 0.976,
+      "role": "dich_nghia_gloss"
+    },
+    {
+      "line_id": "0297_viet_006",
+      "bbox": [
+        [
+          180,
+          735
+        ],
+        [
+          1620,
+          735
+        ],
+        [
+          1620,
+          780
+        ],
+        [
+          180,
+          780
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          856
+        ],
+        [
+          1620,
+          856
+        ],
+        [
+          1620,
+          901
+        ],
+        [
+          180,
+          901
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        735,
+        1620,
+        780
+      ],
+      "text": "Kỳ thứ mạc như mãnh.",
+      "confidence": 0.987,
+      "role": "phien_am"
+    },
+    {
+      "line_id": "0297_viet_007",
+      "bbox": [
+        [
+          180,
+          790
+        ],
+        [
+          1620,
+          790
+        ],
+        [
+          1620,
+          835
+        ],
+        [
+          180,
+          835
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          911
+        ],
+        [
+          1620,
+          911
+        ],
+        [
+          1620,
+          956
+        ],
+        [
+          180,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        790,
+        1620,
+        835
+      ],
+      "text": "còn thì không gì bằng chính-sách mạnh.",
+      "confidence": 0.981,
+      "role": "dich_nghia_gloss"
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "interlinear_triplets": []
+  }
+}

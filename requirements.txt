@@ -1,0 +1,7 @@
+# Core Requirements for Sino-Vietnamese OCR & Parallel Alignment System
+pytest>=7.0.0
+streamlit>=1.25.0
+
+# Optional packages for GPU Kaggle OCR environment:
+# paddlepaddle-gpu>=2.5.0
+# paddleocr>=2.7.0

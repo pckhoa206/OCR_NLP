@@ -1,0 +1,243 @@
+{
+  "page_id": "0262",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 262,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 2000,
+    "original_height": 2800,
+    "crop_top_px": 196,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2000,
+    "effective_height": 2604
+  },
+  "items": [
+    {
+      "line_id": "0262_han_000",
+      "bbox": [
+        [
+          180,
+          120
+        ],
+        [
+          1620,
+          120
+        ],
+        [
+          1620,
+          175
+        ],
+        [
+          180,
+          175
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          316
+        ],
+        [
+          1620,
+          316
+        ],
+        [
+          1620,
+          371
+        ],
+        [
+          180,
+          371
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        120,
+        1620,
+        175
+      ],
+      "text": "鄭 子 產 有 疾 謂 子 太 叔 曰",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0262_han_001",
+      "bbox": [
+        [
+          180,
+          310
+        ],
+        [
+          1620,
+          310
+        ],
+        [
+          1620,
+          365
+        ],
+        [
+          180,
+          365
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          506
+        ],
+        [
+          1620,
+          506
+        ],
+        [
+          1620,
+          561
+        ],
+        [
+          180,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        310,
+        1620,
+        365
+      ],
+      "text": "我 死 子 必 爲 政",
+      "confidence": 0.99
+    },
+    {
+      "line_id": "0262_han_002",
+      "bbox": [
+        [
+          180,
+          490
+        ],
+        [
+          1620,
+          490
+        ],
+        [
+          1620,
+          545
+        ],
+        [
+          180,
+          545
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          686
+        ],
+        [
+          1620,
+          686
+        ],
+        [
+          1620,
+          741
+        ],
+        [
+          180,
+          741
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        490,
+        1620,
+        545
+      ],
+      "text": "惟 有 德 者 能 以 寬 服 民",
+      "confidence": 0.989
+    },
+    {
+      "line_id": "0262_han_003",
+      "bbox": [
+        [
+          180,
+          670
+        ],
+        [
+          1620,
+          670
+        ],
+        [
+          1620,
+          725
+        ],
+        [
+          180,
+          725
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          866
+        ],
+        [
+          1620,
+          866
+        ],
+        [
+          1620,
+          921
+        ],
+        [
+          180,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        670,
+        1620,
+        725
+      ],
+      "text": "其 次 莫 如 猛",
+      "confidence": 0.991
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "鄭 子 產 有 疾 謂 子 太 叔 曰",
+      "我 死 子 必 爲 政",
+      "惟 有 德 者 能 以 寬 服 民",
+      "其 次 莫 如 猛"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "鄭 子 產 有 疾 謂 子 太 叔 曰",
+        "phien_am": "Trịnh Tử-Sản hữu tật, vị tử Thái-Thúc viết :",
+        "dich_nghia_gloss": "Trịnh Tử-Sản bệnh nặng, bảo con là Thái-Thúc rằng :"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "我 死 子 必 爲 政",
+        "phien_am": "Ngã tử, tử tất vi chính",
+        "dich_nghia_gloss": "Ta chết, con sẽ giữ chính-quyền."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "惟 有 德 者 能 以 寬 服 民",
+        "phien_am": "Duy hữu đức giả, năng dĩ khoan phục dân",
+        "dich_nghia_gloss": "Chỉ kẻ có đức mới có thể lấy khoan hòa cho dân phục,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "其 次 莫 如 猛",
+        "phien_am": "Kỳ thứ mạc như mãnh.",
+        "dich_nghia_gloss": "còn thì không gì bằng chính-sách mạnh."
+      }
+    ]
+  }
+}

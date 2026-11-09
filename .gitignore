@@ -1,0 +1,90 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE & OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large PDF files (>100MB exceeds GitHub upload limits; 3 historical books are ~175MB)
+*.pdf
+!Guideline.pdf
+
+# Agent Orchestration files (internal subagent architecture)
+.agents/
+.gemini/
+AGENTS.md
+
+# Raw bulk scanned images in 01_nguon (1,500+ full-res PNG scans ~600MB total)
+# Retain only the verified pilot PNGs required for unit tests & demo verification
+deliverables/**/01_nguon/*.png
+
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0008.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0009.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0010.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0011.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0012.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0013.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0050.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0312.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0326.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0368.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0369.png
+
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0019.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0020.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0022.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0023.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0024.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0026.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0038.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0040.png
+!deliverables/TVLT2_ThoVanLyTran2/01_nguon/0042.png
+
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0134.png
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0135.png
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0136.png
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0137.png
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0200.png
+!deliverables/TLTVN_TheLoaiTuVN/01_nguon/0300.png
+
+# Keep text files in 01_nguon
+!deliverables/**/01_nguon/*.txt

@@ -1,0 +1,122 @@
+{
+  "page_id": "0817",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 817,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0817_han_000",
+      "bbox": [
+        [
+          180,
+          160
+        ],
+        [
+          880,
+          160
+        ],
+        [
+          880,
+          210
+        ],
+        [
+          180,
+          210
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          315
+        ],
+        [
+          880,
+          315
+        ],
+        [
+          880,
+          365
+        ],
+        [
+          180,
+          365
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        160,
+        880,
+        210
+      ],
+      "text": "風打松關月照庭，心期風景共淒清。",
+      "confidence": 0.993
+    },
+    {
+      "line_id": "0817_han_001",
+      "bbox": [
+        [
+          180,
+          225
+        ],
+        [
+          880,
+          225
+        ],
+        [
+          880,
+          275
+        ],
+        [
+          180,
+          275
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          380
+        ],
+        [
+          880,
+          380
+        ],
+        [
+          880,
+          430
+        ],
+        [
+          180,
+          430
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        225,
+        880,
+        275
+      ],
+      "text": "箇中滋味無人識，付與山僧樂到明。",
+      "confidence": 0.991
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "風打松關月照庭，心期風景共淒清。",
+      "箇中滋味無人識，付與山僧樂到明。"
+    ],
+    "interlinear_triplets": []
+  }
+}

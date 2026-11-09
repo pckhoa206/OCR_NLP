@@ -1,0 +1,408 @@
+{
+  "page_id": "0473",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 473,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 2000,
+    "original_height": 2800,
+    "crop_top_px": 196,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2000,
+    "effective_height": 2604
+  },
+  "items": [
+    {
+      "line_id": "0473_viet_000",
+      "bbox": [
+        [
+          220,
+          280
+        ],
+        [
+          900,
+          280
+        ],
+        [
+          900,
+          320
+        ],
+        [
+          220,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          476
+        ],
+        [
+          900,
+          476
+        ],
+        [
+          900,
+          516
+        ],
+        [
+          220,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        280,
+        900,
+        320
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.995
+    },
+    {
+      "line_id": "0473_viet_001",
+      "bbox": [
+        [
+          220,
+          330
+        ],
+        [
+          1500,
+          330
+        ],
+        [
+          1500,
+          375
+        ],
+        [
+          220,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          526
+        ],
+        [
+          1500,
+          526
+        ],
+        [
+          1500,
+          571
+        ],
+        [
+          220,
+          571
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        330,
+        1500,
+        375
+      ],
+      "text": "Tường quang phong hảo cẩm phàm trương, Thần tiên phục đế hương².",
+      "confidence": 0.986
+    },
+    {
+      "line_id": "0473_viet_002",
+      "bbox": [
+        [
+          220,
+          385
+        ],
+        [
+          1500,
+          385
+        ],
+        [
+          1500,
+          430
+        ],
+        [
+          220,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          581
+        ],
+        [
+          1500,
+          581
+        ],
+        [
+          1500,
+          626
+        ],
+        [
+          220,
+          626
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        385,
+        1500,
+        430
+      ],
+      "text": "Thiên trùng vạn lí¹ thiệp thương lương, Cửu thiên quy lộ trường.",
+      "confidence": 0.985
+    },
+    {
+      "line_id": "0473_viet_003",
+      "bbox": [
+        [
+          220,
+          450
+        ],
+        [
+          900,
+          450
+        ],
+        [
+          900,
+          490
+        ],
+        [
+          220,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          646
+        ],
+        [
+          900,
+          646
+        ],
+        [
+          900,
+          686
+        ],
+        [
+          220,
+          686
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        450,
+        900,
+        490
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.994
+    },
+    {
+      "line_id": "0473_viet_004",
+      "bbox": [
+        [
+          220,
+          500
+        ],
+        [
+          1580,
+          500
+        ],
+        [
+          1580,
+          550
+        ],
+        [
+          220,
+          550
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          696
+        ],
+        [
+          1580,
+          696
+        ],
+        [
+          1580,
+          746
+        ],
+        [
+          220,
+          746
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        500,
+        1580,
+        550
+      ],
+      "text": "Ánh sáng tốt lành, gió thuận, căng cánh buồm gấm, Thần tiên trở về quê hương của hoàng đế⁵.",
+      "confidence": 0.983
+    },
+    {
+      "line_id": "0473_viet_005",
+      "bbox": [
+        [
+          220,
+          560
+        ],
+        [
+          1580,
+          560
+        ],
+        [
+          1580,
+          610
+        ],
+        [
+          220,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          756
+        ],
+        [
+          1580,
+          756
+        ],
+        [
+          1580,
+          806
+        ],
+        [
+          220,
+          806
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        560,
+        1580,
+        610
+      ],
+      "text": "Nghìn trùng muôn dặm vượt qua những làn sóng xanh, Đường qua về chín tầng trời¹.",
+      "confidence": 0.982
+    },
+    {
+      "line_id": "0473_viet_006",
+      "bbox": [
+        [
+          220,
+          630
+        ],
+        [
+          900,
+          630
+        ],
+        [
+          900,
+          670
+        ],
+        [
+          220,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          826
+        ],
+        [
+          900,
+          826
+        ],
+        [
+          900,
+          866
+        ],
+        [
+          220,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        630,
+        900,
+        670
+      ],
+      "text": "Dịch theo nguyên điệu:",
+      "confidence": 0.991
+    },
+    {
+      "line_id": "0473_viet_007",
+      "bbox": [
+        [
+          220,
+          680
+        ],
+        [
+          1400,
+          680
+        ],
+        [
+          1400,
+          725
+        ],
+        [
+          220,
+          725
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          876
+        ],
+        [
+          1400,
+          876
+        ],
+        [
+          1400,
+          921
+        ],
+        [
+          220,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        680,
+        1400,
+        725
+      ],
+      "text": "Trời trong gió mát cánh buồm giương, Thần tiên về đế hương.",
+      "confidence": 0.98
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Tường quang phong hảo cẩm phàm trương, Thần tiên phục đế hương².",
+      "Thiên trùng vạn lí¹ thiệp thương lương, Cửu thiên quy lộ trường."
+    ],
+    "dich_nghia_lines": [
+      "Ánh sáng tốt lành, gió thuận, căng cánh buồm gấm, Thần tiên trở về quê hương của hoàng đế⁵.",
+      "Nghìn trùng muôn dặm vượt qua những làn sóng xanh, Đường qua về chín tầng trời¹."
+    ],
+    "interlinear_triplets": []
+  }
+}

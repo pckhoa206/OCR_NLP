@@ -1,0 +1,26 @@
+{
+  "status": "SUCCESS",
+  "mode": "mock",
+  "total_pages_processed": 15,
+  "total_elapsed_seconds": 0.516,
+  "books": {
+    "HVTT": {
+      "code": "HVTT_HanVanTinhTuy",
+      "pages_processed": 5,
+      "elapsed_seconds": 0.056,
+      "output_dir": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/deliverables/HVTT_HanVanTinhTuy/02_ocr_tho"
+    },
+    "TVLT2": {
+      "code": "TVLT2_ThoVanLyTran2",
+      "pages_processed": 5,
+      "elapsed_seconds": 0.077,
+      "output_dir": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/deliverables/TVLT2_ThoVanLyTran2/02_ocr_tho"
+    },
+    "TLTVN": {
+      "code": "TLTVN_TheLoaiTuVN",
+      "pages_processed": 5,
+      "elapsed_seconds": 0.381,
+      "output_dir": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/deliverables/TLTVN_TheLoaiTuVN/02_ocr_tho"
+    }
+  }
+}

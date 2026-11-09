@@ -1,0 +1,122 @@
+{
+  "page_id": "0430",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 430,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1321,
+    "footnote_separator_y_original": 1436,
+    "effective_width": 1122,
+    "effective_height": 1321
+  },
+  "items": [
+    {
+      "line_id": "0430_han_000",
+      "bbox": [
+        [
+          220,
+          150
+        ],
+        [
+          1480,
+          150
+        ],
+        [
+          1480,
+          200
+        ],
+        [
+          220,
+          200
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          265
+        ],
+        [
+          1480,
+          265
+        ],
+        [
+          1480,
+          315
+        ],
+        [
+          220,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        150,
+        1480,
+        200
+      ],
+      "text": "祥光風好錦帆張, 神仙復帝鄉.",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0430_han_001",
+      "bbox": [
+        [
+          220,
+          210
+        ],
+        [
+          1480,
+          210
+        ],
+        [
+          1480,
+          260
+        ],
+        [
+          220,
+          260
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          325
+        ],
+        [
+          1480,
+          325
+        ],
+        [
+          1480,
+          375
+        ],
+        [
+          220,
+          375
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        210,
+        1480,
+        260
+      ],
+      "text": "千重萬里涉滄浪, 九天歸路長.",
+      "confidence": 0.99
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "祥光風好錦帆張, 神仙復帝鄉.",
+      "千重萬里涉滄浪, 九天歸路長."
+    ],
+    "interlinear_triplets": []
+  }
+}
