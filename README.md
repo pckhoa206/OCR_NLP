@@ -1,8 +1,6 @@
 # Dóng Hàng Hán - Việt
 
-Đồ án Xử lý ngôn ngữ tự nhiên
-
-*Building a Chinese-Vietnamese Parallel Corpus on Vietnamese Literature (Poetry & Prose)*.
+Building a Chinese-Vietnamese Parallel Corpus on Vietnamese Literature (Poetry & Prose)
 
 - **Mã đề tài**: `CV04`
 - **Thành viên nhóm**:
