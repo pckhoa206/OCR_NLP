@@ -40,12 +40,13 @@ Lab2_DongHangHan-Viet/
 │   └── 04_dong_hang/               # VPO_03_parallel.tsv, VPO_03_parallel.xlsx, qa_report.json
 ├── src/                            # Mã nguồn lõi của Pipeline
 │   ├── pdf_extractor.py            # Trích xuất ảnh trang PDF 300 DPI đa nền tảng bằng PyMuPDF
-│   ├── ocr_engine.py               # Pipeline OCR 2 luồng (PP-OCRv5 Hán + VietOCR Quốc ngữ)
-│   ├── layout_analyzer.py          # Phân vùng bố cục trang sách & lọc trang trắng/Chữ Nôm
+│   ├── ocr_engine.py               # Pipeline OCR 2 luồng & phân vùng bố cục
+│   ├── ocr_disambiguator.py        # Hiệu chỉnh lỗi OCR chữ Hán dựa trên phiên âm Hán-Việt
 │   ├── text_cleaner.py             # Làm sạch văn bản, chuẩn hóa NFC, bảo toàn [MASK]
 │   ├── phonetic_verifier.py        # Từ điển phiên âm Hán-Việt 3.175 âm tiết & giải nhập nhằng đa âm
 │   ├── semantic_scorer.py          # Chấm điểm tương đồng ngữ nghĩa Hán - Việt
-│   ├── aligner.py                  # Thuật toán Quy hoạch động Gale-Church + Neo âm운 Hán-Việt
+│   ├── aligner.py                  # Thuật toán Quy hoạch động Gale-Church + Neo âm Hán-Việt
+│   ├── poetic_aligner.py           # Dóng hàng thể thơ Lục bát & song thất lục bát
 │   ├── word_aligner.py             # Dóng hàng mức từ (Word-level alignment)
 │   ├── exporter_and_qa.py          # Xuất TSV & XLSX 2 sheet (DONG_HANG, THONG_KE) + Kiểm định QA
 │   ├── workbench_editor.py         # Tiện ích chỉnh sửa dòng, ghép câu, xóa câu & tái xuất bản
@@ -54,7 +55,8 @@ Lab2_DongHangHan-Viet/
 │   └── app.py                      # Giao diện Streamlit CAT Workbench kiểm tra & hiệu đính trực quan
 ├── docs/
 │   ├── BANG_KIEM_KE_NGUON.md       # Báo cáo Kiểm kê Bước 1 & Bước 2
-│   └── THONG_KE_BO_SUNG_GIANG_VIEN.md # Báo cáo thống kê bài khuyết & phụ lục gửi chị Lưu Như
+│   ├── THONG_KE_BO_SUNG_GIANG_VIEN.md # Báo cáo thống kê bài khuyết & phụ lục gửi chị Lưu Như
+│   └── example/                    # Tệp mẫu đối chiếu định dạng (example.tsv, example.xlsx)
 ├── tests/
 │   └── test_suite.py               # Bộ kiểm thử tự động toàn diện (Unit & Integration Tests)
 ├── main.py                         # Điểm vào CLI trung tâm
