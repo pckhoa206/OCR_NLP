@@ -1,8 +1,10 @@
-# Xây dựng Ngữ liệu Song ngữ Hán – Việt trên Văn học Việt Nam (Nhóm `CV04`)
+# Dóng Hàng Hán - Việt
 
-Đồ án giữa kỳ môn **Xử lý Ngôn ngữ Tự nhiên (NLP)**: *Building a Chinese-Vietnamese Parallel Corpus on Vietnamese Literature (Poetry & Prose)*.
+Đồ án Xử lý ngôn ngữ tự nhiên
 
-- **Mã nhóm**: `CV04`
+*Building a Chinese-Vietnamese Parallel Corpus on Vietnamese Literature (Poetry & Prose)*.
+
+- **Mã đề tài**: `CV04`
 - **Thành viên nhóm**:
   1. Trần Trung Hiếu *(Nhóm trưởng)*
   2. Lê Gia Khánh
