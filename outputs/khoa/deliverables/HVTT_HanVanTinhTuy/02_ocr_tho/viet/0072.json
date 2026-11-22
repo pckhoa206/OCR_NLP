@@ -1,0 +1,1515 @@
+{
+  "page_id": "0072",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 72,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0072_viet_000",
+      "bbox": [
+        [
+          190,
+          26
+        ],
+        [
+          232,
+          26
+        ],
+        [
+          232,
+          62
+        ],
+        [
+          190,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          147
+        ],
+        [
+          232,
+          147
+        ],
+        [
+          232,
+          183
+        ],
+        [
+          190,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        26,
+        232,
+        62
+      ],
+      "text": "66",
+      "confidence": 0.7868
+    },
+    {
+      "line_id": "0072_viet_001",
+      "bbox": [
+        [
+          772,
+          24
+        ],
+        [
+          991,
+          24
+        ],
+        [
+          991,
+          62
+        ],
+        [
+          772,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          772,
+          145
+        ],
+        [
+          991,
+          145
+        ],
+        [
+          991,
+          183
+        ],
+        [
+          772,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        772,
+        24,
+        991,
+        62
+      ],
+      "text": "TIỂU-TRUYỆN",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0072_viet_002",
+      "bbox": [
+        [
+          194,
+          132
+        ],
+        [
+          989,
+          132
+        ],
+        [
+          989,
+          169
+        ],
+        [
+          194,
+          169
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          253
+        ],
+        [
+          989,
+          253
+        ],
+        [
+          989,
+          290
+        ],
+        [
+          194,
+          290
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        132,
+        989,
+        169
+      ],
+      "text": "sang sử mua chuộc, bảo sở nêu đoạn giao với Tế, Tân",
+      "confidence": 0.9182
+    },
+    {
+      "line_id": "0072_viet_003",
+      "bbox": [
+        [
+          193,
+          175
+        ],
+        [
+          989,
+          177
+        ],
+        [
+          989,
+          215
+        ],
+        [
+          193,
+          213
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          296
+        ],
+        [
+          989,
+          298
+        ],
+        [
+          989,
+          336
+        ],
+        [
+          193,
+          334
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        175,
+        989,
+        215
+      ],
+      "text": "sẽ cắt cho 600 dậm đất ở Thương-y. Sở-Vương vì tham,",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0072_viet_004",
+      "bbox": [
+        [
+          193,
+          221
+        ],
+        [
+          991,
+          221
+        ],
+        [
+          991,
+          261
+        ],
+        [
+          193,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          342
+        ],
+        [
+          991,
+          342
+        ],
+        [
+          991,
+          382
+        ],
+        [
+          193,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        221,
+        991,
+        261
+      ],
+      "text": "nghe lời trương nghi đoạn giao với tế; rối cho sứ",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0072_viet_005",
+      "bbox": [
+        [
+          193,
+          265
+        ],
+        [
+          990,
+          264
+        ],
+        [
+          990,
+          304
+        ],
+        [
+          193,
+          305
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          386
+        ],
+        [
+          990,
+          385
+        ],
+        [
+          990,
+          425
+        ],
+        [
+          193,
+          426
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        264,
+        990,
+        305
+      ],
+      "text": "giả sang tân đề nhận đất. trương nghi lật lọng là",
+      "confidence": 0.9
+    },
+    {
+      "line_id": "0072_viet_006",
+      "bbox": [
+        [
+          193,
+          309
+        ],
+        [
+          990,
+          310
+        ],
+        [
+          990,
+          349
+        ],
+        [
+          193,
+          347
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          430
+        ],
+        [
+          990,
+          431
+        ],
+        [
+          990,
+          470
+        ],
+        [
+          193,
+          468
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        309,
+        990,
+        349
+      ],
+      "text": "chỉ hứa với sở 6 dậm đầt thôi chớ không phải 600",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0072_viet_007",
+      "bbox": [
+        [
+          193,
+          354
+        ],
+        [
+          991,
+          355
+        ],
+        [
+          991,
+          395
+        ],
+        [
+          193,
+          394
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          475
+        ],
+        [
+          991,
+          476
+        ],
+        [
+          991,
+          516
+        ],
+        [
+          193,
+          515
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        354,
+        991,
+        395
+      ],
+      "text": "dậm. sử-vương nối giận, cầt đại quân sang đánh tần",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0072_viet_008",
+      "bbox": [
+        [
+          196,
+          402
+        ],
+        [
+          989,
+          402
+        ],
+        [
+          989,
+          436
+        ],
+        [
+          196,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          523
+        ],
+        [
+          989,
+          523
+        ],
+        [
+          989,
+          557
+        ],
+        [
+          196,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        402,
+        989,
+        436
+      ],
+      "text": "Quân Sở thua to, lại bị tần chiêm mất cả đất hán",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0072_viet_009",
+      "bbox": [
+        [
+          195,
+          446
+        ],
+        [
+          990,
+          446
+        ],
+        [
+          990,
+          483
+        ],
+        [
+          195,
+          483
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          567
+        ],
+        [
+          990,
+          567
+        ],
+        [
+          990,
+          604
+        ],
+        [
+          195,
+          604
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        446,
+        990,
+        483
+      ],
+      "text": "trung. sử lại đem hết binh lực trong nước quyết tử",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0072_viet_010",
+      "bbox": [
+        [
+          195,
+          490
+        ],
+        [
+          991,
+          490
+        ],
+        [
+          991,
+          527
+        ],
+        [
+          195,
+          527
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          611
+        ],
+        [
+          991,
+          611
+        ],
+        [
+          991,
+          648
+        ],
+        [
+          195,
+          648
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        490,
+        991,
+        527
+      ],
+      "text": "chiên với tân. nước nguy nhân dịp đem quân đánh",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0072_viet_011",
+      "bbox": [
+        [
+          196,
+          536
+        ],
+        [
+          991,
+          536
+        ],
+        [
+          991,
+          573
+        ],
+        [
+          196,
+          573
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          657
+        ],
+        [
+          991,
+          657
+        ],
+        [
+          991,
+          694
+        ],
+        [
+          196,
+          694
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        536,
+        991,
+        573
+      ],
+      "text": "tập hậu nước sở sở vội rút quân về cự nguy. một",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0072_viet_012",
+      "bbox": [
+        [
+          194,
+          581
+        ],
+        [
+          992,
+          581
+        ],
+        [
+          992,
+          618
+        ],
+        [
+          194,
+          618
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          702
+        ],
+        [
+          992,
+          702
+        ],
+        [
+          992,
+          739
+        ],
+        [
+          194,
+          739
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        581,
+        992,
+        618
+      ],
+      "text": "năm sau tân bằng lòng trả lại hán-trung cho sở đé",
+      "confidence": 0.9235
+    },
+    {
+      "line_id": "0072_viet_013",
+      "bbox": [
+        [
+          194,
+          625
+        ],
+        [
+          992,
+          625
+        ],
+        [
+          992,
+          665
+        ],
+        [
+          194,
+          665
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          746
+        ],
+        [
+          992,
+          746
+        ],
+        [
+          992,
+          786
+        ],
+        [
+          194,
+          786
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        625,
+        992,
+        665
+      ],
+      "text": "nghị hòa. sở-vương nói không cần hán-trung chỉ muôn",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0072_viet_014",
+      "bbox": [
+        [
+          194,
+          670
+        ],
+        [
+          991,
+          669
+        ],
+        [
+          991,
+          706
+        ],
+        [
+          194,
+          707
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          791
+        ],
+        [
+          991,
+          790
+        ],
+        [
+          991,
+          827
+        ],
+        [
+          194,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        669,
+        991,
+        707
+      ],
+      "text": "được trương nghi để trả thù. Trương Nghi nói với",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0072_viet_015",
+      "bbox": [
+        [
+          194,
+          714
+        ],
+        [
+          992,
+          716
+        ],
+        [
+          992,
+          753
+        ],
+        [
+          194,
+          751
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          835
+        ],
+        [
+          992,
+          837
+        ],
+        [
+          992,
+          874
+        ],
+        [
+          194,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        714,
+        992,
+        753
+      ],
+      "text": "Tần Vương: a đổi một trương nghi lày hán-trung",
+      "confidence": 0.8837
+    },
+    {
+      "line_id": "0072_viet_016",
+      "bbox": [
+        [
+          194,
+          757
+        ],
+        [
+          992,
+          757
+        ],
+        [
+          992,
+          797
+        ],
+        [
+          194,
+          797
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          878
+        ],
+        [
+          992,
+          878
+        ],
+        [
+          992,
+          918
+        ],
+        [
+          194,
+          918
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        757,
+        992,
+        797
+      ],
+      "text": "thần xin qua sở 11. Nghi đem vàng sang hòi-lộ",
+      "confidence": 0.871
+    },
+    {
+      "line_id": "0072_viet_017",
+      "bbox": [
+        [
+          194,
+          804
+        ],
+        [
+          993,
+          804
+        ],
+        [
+          993,
+          844
+        ],
+        [
+          194,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          925
+        ],
+        [
+          993,
+          925
+        ],
+        [
+          993,
+          965
+        ],
+        [
+          194,
+          965
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        804,
+        993,
+        844
+      ],
+      "text": "Cần Thượng. Thượng nhờ ái-cơ sở-vương khuyên",
+      "confidence": 0.9008
+    },
+    {
+      "line_id": "0072_viet_018",
+      "bbox": [
+        [
+          194,
+          850
+        ],
+        [
+          993,
+          848
+        ],
+        [
+          993,
+          886
+        ],
+        [
+          194,
+          888
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          971
+        ],
+        [
+          993,
+          969
+        ],
+        [
+          993,
+          1007
+        ],
+        [
+          194,
+          1009
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        848,
+        993,
+        888
+      ],
+      "text": "vương tha cho nghi về. khi ây khuất-nguyên vừa đi",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0072_viet_019",
+      "bbox": [
+        [
+          195,
+          894
+        ],
+        [
+          991,
+          894
+        ],
+        [
+          991,
+          931
+        ],
+        [
+          195,
+          931
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1015
+        ],
+        [
+          991,
+          1015
+        ],
+        [
+          991,
+          1052
+        ],
+        [
+          195,
+          1052
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        894,
+        991,
+        931
+      ],
+      "text": "sứ ở Tê về, hỏi sở-vương sao lại tha Trương Nghi.",
+      "confidence": 0.8919
+    },
+    {
+      "line_id": "0072_viet_020",
+      "bbox": [
+        [
+          197,
+          939
+        ],
+        [
+          992,
+          937
+        ],
+        [
+          992,
+          974
+        ],
+        [
+          197,
+          976
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1060
+        ],
+        [
+          992,
+          1058
+        ],
+        [
+          992,
+          1095
+        ],
+        [
+          197,
+          1097
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        937,
+        992,
+        976
+      ],
+      "text": "Vương hồi, cho đuổi theo bắt, thì Nghi đã thoát rồi",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0072_viet_021",
+      "bbox": [
+        [
+          225,
+          1014
+        ],
+        [
+          991,
+          1014
+        ],
+        [
+          991,
+          1052
+        ],
+        [
+          225,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1135
+        ],
+        [
+          991,
+          1135
+        ],
+        [
+          991,
+          1173
+        ],
+        [
+          225,
+          1173
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1014,
+        991,
+        1052
+      ],
+      "text": "Sau đó chư hầu các nước cùng đem quân đánh sở",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0072_viet_022",
+      "bbox": [
+        [
+          195,
+          1059
+        ],
+        [
+          992,
+          1058
+        ],
+        [
+          992,
+          1096
+        ],
+        [
+          195,
+          1097
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1180
+        ],
+        [
+          992,
+          1179
+        ],
+        [
+          992,
+          1217
+        ],
+        [
+          195,
+          1218
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1058,
+        992,
+        1097
+      ],
+      "text": "Tần-chiêu-vương có thông hôn với sở, mời sở hoài",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0072_viet_023",
+      "bbox": [
+        [
+          197,
+          1105
+        ],
+        [
+          991,
+          1105
+        ],
+        [
+          991,
+          1142
+        ],
+        [
+          197,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1226
+        ],
+        [
+          991,
+          1226
+        ],
+        [
+          991,
+          1263
+        ],
+        [
+          197,
+          1263
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1105,
+        991,
+        1142
+      ],
+      "text": "Vương sang tân tạm lánh. khuật-nguyên can rằng",
+      "confidence": 0.9006
+    },
+    {
+      "line_id": "0072_viet_024",
+      "bbox": [
+        [
+          197,
+          1151
+        ],
+        [
+          990,
+          1151
+        ],
+        [
+          990,
+          1185
+        ],
+        [
+          197,
+          1185
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1272
+        ],
+        [
+          990,
+          1272
+        ],
+        [
+          990,
+          1306
+        ],
+        [
+          197,
+          1306
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1151,
+        990,
+        1185
+      ],
+      "text": "a Tần là nước lang sói vô tín nghĩa, không nên sang v.",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0072_viet_025",
+      "bbox": [
+        [
+          196,
+          1194
+        ],
+        [
+          993,
+          1194
+        ],
+        [
+          993,
+          1231
+        ],
+        [
+          196,
+          1231
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1315
+        ],
+        [
+          993,
+          1315
+        ],
+        [
+          993,
+          1352
+        ],
+        [
+          196,
+          1352
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1194,
+        993,
+        1231
+      ],
+      "text": "Con nhỏ Hoài-Vương là Tử-Lan nói: a Không nên trái",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0072_viet_026",
+      "bbox": [
+        [
+          194,
+          1239
+        ],
+        [
+          993,
+          1238
+        ],
+        [
+          993,
+          1277
+        ],
+        [
+          194,
+          1278
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1360
+        ],
+        [
+          993,
+          1359
+        ],
+        [
+          993,
+          1398
+        ],
+        [
+          194,
+          1399
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1238,
+        993,
+        1278
+      ],
+      "text": "ý Tần, cứ sang tạm lánh . Sở-Vương sang Tân, Tần giở",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0072_viet_027",
+      "bbox": [
+        [
+          195,
+          1284
+        ],
+        [
+          994,
+          1284
+        ],
+        [
+          994,
+          1324
+        ],
+        [
+          195,
+          1324
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1405
+        ],
+        [
+          994,
+          1405
+        ],
+        [
+          994,
+          1445
+        ],
+        [
+          195,
+          1445
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1284,
+        994,
+        1324
+      ],
+      "text": "mặt, uy hiệp bắt sở cắt đầt cho Tân. Sở-vương không",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0072_viet_028",
+      "bbox": [
+        [
+          195,
+          1330
+        ],
+        [
+          994,
+          1329
+        ],
+        [
+          994,
+          1366
+        ],
+        [
+          195,
+          1367
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1451
+        ],
+        [
+          994,
+          1450
+        ],
+        [
+          994,
+          1487
+        ],
+        [
+          195,
+          1488
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1329,
+        994,
+        1367
+      ],
+      "text": "chịu, chạy qua Triệu. Triệu không tiếp. Bí thế lại quay vẽ",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0072_viet_029",
+      "bbox": [
+        [
+          196,
+          1375
+        ],
+        [
+          993,
+          1375
+        ],
+        [
+          993,
+          1412
+        ],
+        [
+          196,
+          1412
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1496
+        ],
+        [
+          993,
+          1496
+        ],
+        [
+          993,
+          1533
+        ],
+        [
+          196,
+          1533
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1375,
+        993,
+        1412
+      ],
+      "text": "Tần, rối chết ở đó. con trưởng hoài-vương là hạng",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0072_viet_030",
+      "bbox": [
+        [
+          196,
+          1421
+        ],
+        [
+          992,
+          1417
+        ],
+        [
+          992,
+          1454
+        ],
+        [
+          196,
+          1458
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1542
+        ],
+        [
+          992,
+          1538
+        ],
+        [
+          992,
+          1575
+        ],
+        [
+          196,
+          1579
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1417,
+        992,
+        1458
+      ],
+      "text": "tương-vương kê vị dùng em là tử-Lan làm thừa",
+      "confidence": 0.9237
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "TIỂU-TRUYỆN",
+      "sang sử mua chuộc, bảo sở nêu đoạn giao với Tế, Tân",
+      "sẽ cắt cho 600 dậm đất ở Thương-y. Sở-Vương vì tham,",
+      "nghe lời trương nghi đoạn giao với tế; rối cho sứ",
+      "giả sang tân đề nhận đất. trương nghi lật lọng là",
+      "chỉ hứa với sở 6 dậm đầt thôi chớ không phải 600",
+      "dậm. sử-vương nối giận, cầt đại quân sang đánh tần",
+      "Quân Sở thua to, lại bị tần chiêm mất cả đất hán",
+      "trung. sử lại đem hết binh lực trong nước quyết tử",
+      "chiên với tân. nước nguy nhân dịp đem quân đánh",
+      "tập hậu nước sở sở vội rút quân về cự nguy. một",
+      "năm sau tân bằng lòng trả lại hán-trung cho sở đé",
+      "nghị hòa. sở-vương nói không cần hán-trung chỉ muôn",
+      "được trương nghi để trả thù. Trương Nghi nói với",
+      "Tần Vương: a đổi một trương nghi lày hán-trung",
+      "thần xin qua sở 11. Nghi đem vàng sang hòi-lộ",
+      "Cần Thượng. Thượng nhờ ái-cơ sở-vương khuyên",
+      "vương tha cho nghi về. khi ây khuất-nguyên vừa đi",
+      "sứ ở Tê về, hỏi sở-vương sao lại tha Trương Nghi.",
+      "Vương hồi, cho đuổi theo bắt, thì Nghi đã thoát rồi",
+      "Sau đó chư hầu các nước cùng đem quân đánh sở",
+      "Tần-chiêu-vương có thông hôn với sở, mời sở hoài",
+      "Vương sang tân tạm lánh. khuật-nguyên can rằng",
+      "a Tần là nước lang sói vô tín nghĩa, không nên sang v.",
+      "Con nhỏ Hoài-Vương là Tử-Lan nói: a Không nên trái",
+      "ý Tần, cứ sang tạm lánh . Sở-Vương sang Tân, Tần giở",
+      "mặt, uy hiệp bắt sở cắt đầt cho Tân. Sở-vương không",
+      "chịu, chạy qua Triệu. Triệu không tiếp. Bí thế lại quay vẽ",
+      "Tần, rối chết ở đó. con trưởng hoài-vương là hạng",
+      "tương-vương kê vị dùng em là tử-Lan làm thừa"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

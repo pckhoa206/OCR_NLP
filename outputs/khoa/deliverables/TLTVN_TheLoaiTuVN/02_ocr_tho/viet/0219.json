@@ -1,0 +1,603 @@
+{
+  "page_id": "0219",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 219,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1291,
+    "footnote_separator_y_original": 1406,
+    "effective_width": 1122,
+    "effective_height": 1291
+  },
+  "items": [
+    {
+      "line_id": "0219_viet_000",
+      "bbox": [
+        [
+          144,
+          0
+        ],
+        [
+          598,
+          0
+        ],
+        [
+          598,
+          29
+        ],
+        [
+          144,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          115
+        ],
+        [
+          598,
+          115
+        ],
+        [
+          598,
+          144
+        ],
+        [
+          144,
+          144
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        0,
+        598,
+        29
+      ],
+      "text": "Nhịp ca mới đến trước lan can",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0219_viet_001",
+      "bbox": [
+        [
+          143,
+          36
+        ],
+        [
+          542,
+          34
+        ],
+        [
+          542,
+          76
+        ],
+        [
+          143,
+          78
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          151
+        ],
+        [
+          542,
+          149
+        ],
+        [
+          542,
+          191
+        ],
+        [
+          143,
+          193
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        34,
+        542,
+        78
+      ],
+      "text": "Ngày ấm ? ngọc Lam Điền",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0219_viet_002",
+      "bbox": [
+        [
+          144,
+          84
+        ],
+        [
+          353,
+          86
+        ],
+        [
+          352,
+          124
+        ],
+        [
+          143,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          199
+        ],
+        [
+          353,
+          201
+        ],
+        [
+          352,
+          239
+        ],
+        [
+          143,
+          237
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        84,
+        353,
+        124
+      ],
+      "text": "Soi tỏ nơi nơi,",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0219_viet_003",
+      "bbox": [
+        [
+          144,
+          128
+        ],
+        [
+          394,
+          130
+        ],
+        [
+          393,
+          175
+        ],
+        [
+          143,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          243
+        ],
+        [
+          394,
+          245
+        ],
+        [
+          393,
+          290
+        ],
+        [
+          143,
+          287
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        128,
+        394,
+        175
+      ],
+      "text": "Bốn mùa tốt đẹp,",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0219_viet_004",
+      "bbox": [
+        [
+          145,
+          183
+        ],
+        [
+          431,
+          183
+        ],
+        [
+          431,
+          221
+        ],
+        [
+          145,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          298
+        ],
+        [
+          431,
+          298
+        ],
+        [
+          431,
+          336
+        ],
+        [
+          145,
+          336
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        183,
+        431,
+        221
+      ],
+      "text": "Ngợi ca minh quân",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0219_viet_005",
+      "bbox": [
+        [
+          143,
+          918
+        ],
+        [
+          306,
+          920
+        ],
+        [
+          305,
+          958
+        ],
+        [
+          142,
+          956
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          1033
+        ],
+        [
+          306,
+          1035
+        ],
+        [
+          305,
+          1073
+        ],
+        [
+          142,
+          1071
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        918,
+        306,
+        958
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9203
+    },
+    {
+      "line_id": "0219_viet_006",
+      "bbox": [
+        [
+          143,
+          962
+        ],
+        [
+          469,
+          960
+        ],
+        [
+          469,
+          1004
+        ],
+        [
+          143,
+          1007
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          1077
+        ],
+        [
+          469,
+          1075
+        ],
+        [
+          469,
+          1119
+        ],
+        [
+          143,
+          1122
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        960,
+        469,
+        1007
+      ],
+      "text": "ĐẦU TRÂM HÍ TÁC",
+      "confidence": 0.9361
+    },
+    {
+      "line_id": "0219_viet_007",
+      "bbox": [
+        [
+          145,
+          1015
+        ],
+        [
+          430,
+          1017
+        ],
+        [
+          430,
+          1059
+        ],
+        [
+          145,
+          1057
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          1130
+        ],
+        [
+          430,
+          1132
+        ],
+        [
+          430,
+          1174
+        ],
+        [
+          145,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        1015,
+        430,
+        1059
+      ],
+      "text": "(Nguyễn lang quy)",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0219_viet_008",
+      "bbox": [
+        [
+          144,
+          1064
+        ],
+        [
+          667,
+          1064
+        ],
+        [
+          667,
+          1104
+        ],
+        [
+          144,
+          1104
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          1179
+        ],
+        [
+          667,
+          1179
+        ],
+        [
+          667,
+          1219
+        ],
+        [
+          144,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        1064,
+        667,
+        1104
+      ],
+      "text": "Tam thập niên lai tuế nguyệt khanh,",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0219_viet_009",
+      "bbox": [
+        [
+          145,
+          1110
+        ],
+        [
+          480,
+          1110
+        ],
+        [
+          480,
+          1152
+        ],
+        [
+          145,
+          1152
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          1225
+        ],
+        [
+          480,
+          1225
+        ],
+        [
+          480,
+          1267
+        ],
+        [
+          145,
+          1267
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        1110,
+        480,
+        1152
+      ],
+      "text": "Tầng kiêm lại ẩn danh.",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0219_viet_010",
+      "bbox": [
+        [
+          145,
+          1162
+        ],
+        [
+          661,
+          1162
+        ],
+        [
+          661,
+          1202
+        ],
+        [
+          145,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          1277
+        ],
+        [
+          661,
+          1277
+        ],
+        [
+          661,
+          1317
+        ],
+        [
+          145,
+          1317
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        1162,
+        661,
+        1202
+      ],
+      "text": "Mạn mạn kim' giai lộ thượng hành,",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0219_viet_011",
+      "bbox": [
+        [
+          146,
+          1212
+        ],
+        [
+          555,
+          1212
+        ],
+        [
+          555,
+          1250
+        ],
+        [
+          146,
+          1250
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          1327
+        ],
+        [
+          555,
+          1327
+        ],
+        [
+          555,
+          1365
+        ],
+        [
+          146,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        1212,
+        555,
+        1250
+      ],
+      "text": "Hàm chương địch khả trinh",
+      "confidence": 0.9297
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Nhịp ca mới đến trước lan can",
+      "Ngày ấm ? ngọc Lam Điền",
+      "Soi tỏ nơi nơi,",
+      "Bốn mùa tốt đẹp,",
+      "Ngợi ca minh quân",
+      "ĐẦU TRÂM HÍ TÁC",
+      "(Nguyễn lang quy)",
+      "Tam thập niên lai tuế nguyệt khanh,",
+      "Tầng kiêm lại ẩn danh.",
+      "Mạn mạn kim' giai lộ thượng hành,",
+      "Hàm chương địch khả trinh"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

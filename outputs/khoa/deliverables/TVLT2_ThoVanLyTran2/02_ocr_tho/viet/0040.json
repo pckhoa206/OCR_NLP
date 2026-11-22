@@ -1,0 +1,1899 @@
+{
+  "page_id": "0040",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 40,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0040_viet_000",
+      "bbox": [
+        [
+          178,
+          86
+        ],
+        [
+          340,
+          86
+        ],
+        [
+          340,
+          125
+        ],
+        [
+          178,
+          125
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          241
+        ],
+        [
+          340,
+          241
+        ],
+        [
+          340,
+          280
+        ],
+        [
+          178,
+          280
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        86,
+        340,
+        125
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0040_viet_001",
+      "bbox": [
+        [
+          606,
+          123
+        ],
+        [
+          982,
+          126
+        ],
+        [
+          982,
+          171
+        ],
+        [
+          606,
+          169
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          278
+        ],
+        [
+          982,
+          281
+        ],
+        [
+          982,
+          326
+        ],
+        [
+          606,
+          324
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        123,
+        982,
+        171
+      ],
+      "text": "PHÒ THUYẾT TỨ SƠN",
+      "confidence": 0.8994
+    },
+    {
+      "line_id": "0040_viet_002",
+      "bbox": [
+        [
+          269,
+          201
+        ],
+        [
+          1414,
+          208
+        ],
+        [
+          1414,
+          258
+        ],
+        [
+          268,
+          251
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          356
+        ],
+        [
+          1414,
+          363
+        ],
+        [
+          1414,
+          413
+        ],
+        [
+          268,
+          406
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        201,
+        1414,
+        258
+      ],
+      "text": "Nguyên phú từ đại bản vô, ngũ vàn phi hữu, Do không khỏi. vọng, vọng",
+      "confidence": 0.8746
+    },
+    {
+      "line_id": "0040_viet_003",
+      "bbox": [
+        [
+          176,
+          243
+        ],
+        [
+          1414,
+          250
+        ],
+        [
+          1414,
+          297
+        ],
+        [
+          176,
+          290
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          398
+        ],
+        [
+          1414,
+          405
+        ],
+        [
+          1414,
+          452
+        ],
+        [
+          176,
+          445
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        243,
+        1414,
+        297
+      ],
+      "text": "thành sắc, sắc, tự chân không, Thị vọng long không, không hiện vọng. vong",
+      "confidence": 0.8839
+    },
+    {
+      "line_id": "0040_viet_004",
+      "bbox": [
+        [
+          176,
+          286
+        ],
+        [
+          1410,
+          289
+        ],
+        [
+          1410,
+          330
+        ],
+        [
+          176,
+          327
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          441
+        ],
+        [
+          1410,
+          444
+        ],
+        [
+          1410,
+          485
+        ],
+        [
+          176,
+          482
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        286,
+        1410,
+        330
+      ],
+      "text": "sinh chùng sắc: Kỳ bội vô sinh vô hòa, vĩnh vi hữu hóa. hữu sinh. vô sinh",
+      "confidence": 0.8675
+    },
+    {
+      "line_id": "0040_viet_005",
+      "bbox": [
+        [
+          175,
+          322
+        ],
+        [
+          1412,
+          326
+        ],
+        [
+          1412,
+          370
+        ],
+        [
+          175,
+          366
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          477
+        ],
+        [
+          1412,
+          481
+        ],
+        [
+          1412,
+          525
+        ],
+        [
+          175,
+          521
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        322,
+        1412,
+        370
+      ],
+      "text": "hóa ? tác vò hóa vô sinh: hữu hóa, sinh ? cộ ? hữu sinh hữu hóa. Hoặc",
+      "confidence": 0.8414
+    },
+    {
+      "line_id": "0040_viet_006",
+      "bbox": [
+        [
+          176,
+          363
+        ],
+        [
+          1412,
+          368
+        ],
+        [
+          1412,
+          410
+        ],
+        [
+          176,
+          405
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          518
+        ],
+        [
+          1412,
+          523
+        ],
+        [
+          1412,
+          565
+        ],
+        [
+          176,
+          560
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        363,
+        1412,
+        410
+      ],
+      "text": "sinh thánh hiệu ngu trì \", hoặc hoa làn giác vũ mao \"\". Thời, thời một nịch ư",
+      "confidence": 0.881
+    },
+    {
+      "line_id": "0040_viet_007",
+      "bbox": [
+        [
+          175,
+          399
+        ],
+        [
+          1414,
+          405
+        ],
+        [
+          1414,
+          452
+        ],
+        [
+          175,
+          447
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          554
+        ],
+        [
+          1414,
+          560
+        ],
+        [
+          1414,
+          607
+        ],
+        [
+          175,
+          602
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        399,
+        1414,
+        452
+      ],
+      "text": "mẻ tâu \"\". vàng vắng phiếu trầm ư khồ hải. Hôn hôn mộng mộng, khởi giác",
+      "confidence": 0.8413
+    },
+    {
+      "line_id": "0040_viet_008",
+      "bbox": [
+        [
+          175,
+          441
+        ],
+        [
+          1411,
+          446
+        ],
+        [
+          1411,
+          489
+        ],
+        [
+          175,
+          484
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          596
+        ],
+        [
+          1411,
+          601
+        ],
+        [
+          1411,
+          644
+        ],
+        [
+          175,
+          639
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        441,
+        1411,
+        489
+      ],
+      "text": "khởi tri. nhiều nhiều thông thông 7. bất tịnh bất ngó ? Tận thị tùng ? làm",
+      "confidence": 0.8618
+    },
+    {
+      "line_id": "0040_viet_009",
+      "bbox": [
+        [
+          177,
+          478
+        ],
+        [
+          1408,
+          485
+        ],
+        [
+          1408,
+          532
+        ],
+        [
+          177,
+          525
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          633
+        ],
+        [
+          1408,
+          640
+        ],
+        [
+          1408,
+          687
+        ],
+        [
+          177,
+          680
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        478,
+        1408,
+        532
+      ],
+      "text": "phòng khư, đó vô mịch tị khiến hồi. Trị \"\"\" sir lực đạo vàng lai, từ sơn trắc giáng.",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0040_viet_010",
+      "bbox": [
+        [
+          270,
+          532
+        ],
+        [
+          1410,
+          538
+        ],
+        [
+          1410,
+          582
+        ],
+        [
+          270,
+          576
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          687
+        ],
+        [
+          1410,
+          693
+        ],
+        [
+          1410,
+          737
+        ],
+        [
+          270,
+          731
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        532,
+        1410,
+        582
+      ],
+      "text": "Từ sun giả, sinh lào bệnh từ đã \"\". kim tư tự sơn chi tự dĩ dị quyết hầu.",
+      "confidence": 0.8554
+    },
+    {
+      "line_id": "0040_viet_011",
+      "bbox": [
+        [
+          277,
+          596
+        ],
+        [
+          555,
+          596
+        ],
+        [
+          555,
+          634
+        ],
+        [
+          277,
+          634
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          751
+        ],
+        [
+          555,
+          751
+        ],
+        [
+          555,
+          789
+        ],
+        [
+          277,
+          789
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        596,
+        555,
+        634
+      ],
+      "text": "Tứ sơn kệ văn 12%",
+      "confidence": 0.8879
+    },
+    {
+      "line_id": "0040_viet_012",
+      "bbox": [
+        [
+          530,
+          641
+        ],
+        [
+          1043,
+          644
+        ],
+        [
+          1043,
+          688
+        ],
+        [
+          530,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          530,
+          796
+        ],
+        [
+          1043,
+          799
+        ],
+        [
+          1043,
+          843
+        ],
+        [
+          530,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        530,
+        641,
+        1043,
+        688
+      ],
+      "text": "Tít sơn tiểu bịch van thanh tùng",
+      "confidence": 0.8908
+    },
+    {
+      "line_id": "0040_viet_013",
+      "bbox": [
+        [
+          531,
+          688
+        ],
+        [
+          1038,
+          690
+        ],
+        [
+          1037,
+          731
+        ],
+        [
+          531,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          531,
+          843
+        ],
+        [
+          1038,
+          845
+        ],
+        [
+          1037,
+          886
+        ],
+        [
+          531,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        531,
+        688,
+        1038,
+        731
+      ],
+      "text": "Ngộ liêu 13% độ vó vận vật không",
+      "confidence": 0.8424
+    },
+    {
+      "line_id": "0040_viet_014",
+      "bbox": [
+        [
+          531,
+          730
+        ],
+        [
+          969,
+          732
+        ],
+        [
+          969,
+          772
+        ],
+        [
+          531,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          531,
+          885
+        ],
+        [
+          969,
+          887
+        ],
+        [
+          969,
+          927
+        ],
+        [
+          531,
+          925
+        ]
+      ],
+      "box_xyxy": [
+        531,
+        730,
+        969,
+        772
+      ],
+      "text": "Hì đắc lư nhi tam cước tai,",
+      "confidence": 0.87
+    },
+    {
+      "line_id": "0040_viet_015",
+      "bbox": [
+        [
+          532,
+          772
+        ],
+        [
+          1060,
+          777
+        ],
+        [
+          1060,
+          818
+        ],
+        [
+          532,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          532,
+          927
+        ],
+        [
+          1060,
+          932
+        ],
+        [
+          1060,
+          973
+        ],
+        [
+          532,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        532,
+        772,
+        1060,
+        818
+      ],
+      "text": "Mịch kị đã sản thường cao phong",
+      "confidence": 0.8785
+    },
+    {
+      "line_id": "0040_viet_016",
+      "bbox": [
+        [
+          682,
+          905
+        ],
+        [
+          916,
+          908
+        ],
+        [
+          916,
+          953
+        ],
+        [
+          682,
+          951
+        ]
+      ],
+      "bbox_original": [
+        [
+          682,
+          1060
+        ],
+        [
+          916,
+          1063
+        ],
+        [
+          916,
+          1108
+        ],
+        [
+          682,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        682,
+        905,
+        916,
+        953
+      ],
+      "text": "NHẤT SƠN 140",
+      "confidence": 0.8902
+    },
+    {
+      "line_id": "0040_viet_017",
+      "bbox": [
+        [
+          277,
+          986
+        ],
+        [
+          449,
+          983
+        ],
+        [
+          449,
+          1024
+        ],
+        [
+          278,
+          1027
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          1141
+        ],
+        [
+          449,
+          1138
+        ],
+        [
+          449,
+          1179
+        ],
+        [
+          278,
+          1182
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        983,
+        449,
+        1027
+      ],
+      "text": "Già viêi 15%",
+      "confidence": 0.832
+    },
+    {
+      "line_id": "0040_viet_018",
+      "bbox": [
+        [
+          273,
+          1035
+        ],
+        [
+          1416,
+          1038
+        ],
+        [
+          1416,
+          1079
+        ],
+        [
+          273,
+          1076
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1190
+        ],
+        [
+          1416,
+          1193
+        ],
+        [
+          1416,
+          1234
+        ],
+        [
+          273,
+          1231
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        1035,
+        1416,
+        1079
+      ],
+      "text": "Nhất sơn gia, sinh tướng đã. Hữu sai nhất niệm, cố hiện đa đoan, Thác",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0040_viet_019",
+      "bbox": [
+        [
+          180,
+          1075
+        ],
+        [
+          1416,
+          1078
+        ],
+        [
+          1416,
+          1118
+        ],
+        [
+          180,
+          1115
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1230
+        ],
+        [
+          1416,
+          1233
+        ],
+        [
+          1416,
+          1273
+        ],
+        [
+          180,
+          1270
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1075,
+        1416,
+        1118
+      ],
+      "text": "ninh hải tự phụ mẫu chi tinh, già dàng dực tr 16? âm dượng chi khí. Quán tam",
+      "confidence": 0.8604
+    },
+    {
+      "line_id": "0040_viet_020",
+      "bbox": [
+        [
+          180,
+          1113
+        ],
+        [
+          1417,
+          1117
+        ],
+        [
+          1417,
+          1158
+        ],
+        [
+          180,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1268
+        ],
+        [
+          1417,
+          1272
+        ],
+        [
+          1417,
+          1313
+        ],
+        [
+          180,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1113,
+        1417,
+        1158
+      ],
+      "text": "tài nhi trung lập: vì vạn vật chi chi linh. Bất luận thượng tri hạ ngu, tận thuộc",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0040_viet_021",
+      "bbox": [
+        [
+          182,
+          1151
+        ],
+        [
+          1414,
+          1158
+        ],
+        [
+          1414,
+          1198
+        ],
+        [
+          182,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1306
+        ],
+        [
+          1414,
+          1313
+        ],
+        [
+          1414,
+          1353
+        ],
+        [
+          182,
+          1347
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1151,
+        1414,
+        1198
+      ],
+      "text": "phòi thai chi nội, khởi văn nhất ubăn triệu, tỉnh, hàm quy thác thược chi trung.",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0040_viet_022",
+      "bbox": [
+        [
+          182,
+          1192
+        ],
+        [
+          1415,
+          1196
+        ],
+        [
+          1415,
+          1234
+        ],
+        [
+          182,
+          1230
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1347
+        ],
+        [
+          1415,
+          1351
+        ],
+        [
+          1415,
+          1389
+        ],
+        [
+          182,
+          1385
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1192,
+        1415,
+        1234
+      ],
+      "text": "Hoặc thái dương biểu thành chúa chi định sinh, hoặc liệt lú ứng hiều thần",
+      "confidence": 0.8975
+    },
+    {
+      "line_id": "0040_viet_023",
+      "bbox": [
+        [
+          181,
+          1231
+        ],
+        [
+          1417,
+          1235
+        ],
+        [
+          1417,
+          1273
+        ],
+        [
+          181,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1386
+        ],
+        [
+          1417,
+          1390
+        ],
+        [
+          1417,
+          1428
+        ],
+        [
+          181,
+          1424
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1231,
+        1417,
+        1273
+      ],
+      "text": "chi giản xuất, Văn bút tảo thiên quàn chi trận, vũ lược thu bách chiến chi",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0040_viet_024",
+      "bbox": [
+        [
+          181,
+          1270
+        ],
+        [
+          1415,
+          1274
+        ],
+        [
+          1415,
+          1311
+        ],
+        [
+          181,
+          1307
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1425
+        ],
+        [
+          1415,
+          1429
+        ],
+        [
+          1415,
+          1466
+        ],
+        [
+          181,
+          1462
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1270,
+        1415,
+        1311
+      ],
+      "text": "công nam nhi khoa trịch quả chi trị nữ tử sinh khuynh thành chi diễm",
+      "confidence": 0.8841
+    },
+    {
+      "line_id": "0040_viet_025",
+      "bbox": [
+        [
+          182,
+          1306
+        ],
+        [
+          1418,
+          1312
+        ],
+        [
+          1418,
+          1353
+        ],
+        [
+          182,
+          1347
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1461
+        ],
+        [
+          1418,
+          1467
+        ],
+        [
+          1418,
+          1508
+        ],
+        [
+          182,
+          1502
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1306,
+        1418,
+        1353
+      ],
+      "text": "Nhất tiến 177 khuynh nhân quốc, tài tiểu 15% khuynh, nhân thành, Cạnh danh khoa",
+      "confidence": 0.8859
+    },
+    {
+      "line_id": "0040_viet_026",
+      "bbox": [
+        [
+          181,
+          1347
+        ],
+        [
+          1416,
+          1351
+        ],
+        [
+          1416,
+          1391
+        ],
+        [
+          181,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1502
+        ],
+        [
+          1416,
+          1506
+        ],
+        [
+          1416,
+          1546
+        ],
+        [
+          181,
+          1542
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1347,
+        1416,
+        1391
+      ],
+      "text": "lệ, tranh di dầu trân, Khán lai tồng thị luân hội, đảo để nan, đào sinh hóa mẹ",
+      "confidence": 0.8656
+    },
+    {
+      "line_id": "0040_viet_027",
+      "bbox": [
+        [
+          276,
+          1393
+        ],
+        [
+          1416,
+          1401
+        ],
+        [
+          1416,
+          1442
+        ],
+        [
+          276,
+          1435
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1548
+        ],
+        [
+          1416,
+          1556
+        ],
+        [
+          1416,
+          1597
+        ],
+        [
+          276,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1393,
+        1416,
+        1442
+      ],
+      "text": "Nhân chỉ sinh tương, tuế nãi xuân thì. Tráng tạm dương chi banh thái",
+      "confidence": 0.8866
+    },
+    {
+      "line_id": "0040_viet_028",
+      "bbox": [
+        [
+          180,
+          1431
+        ],
+        [
+          1405,
+          1440
+        ],
+        [
+          1405,
+          1483
+        ],
+        [
+          180,
+          1475
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1586
+        ],
+        [
+          1405,
+          1595
+        ],
+        [
+          1405,
+          1638
+        ],
+        [
+          180,
+          1630
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1431,
+        1405,
+        1483
+      ],
+      "text": "tận vận vật chi tuy vinh, nhất, thiên mình mi, thồn thôn, liệu lực hoa lương",
+      "confidence": 0.8727
+    },
+    {
+      "line_id": "0040_viet_029",
+      "bbox": [
+        [
+          181,
+          1475
+        ],
+        [
+          885,
+          1476
+        ],
+        [
+          885,
+          1517
+        ],
+        [
+          181,
+          1516
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1630
+        ],
+        [
+          885,
+          1631
+        ],
+        [
+          885,
+          1672
+        ],
+        [
+          181,
+          1671
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1475,
+        885,
+        1517
+      ],
+      "text": "vận lý phong quang xử xử oanh đề điệp vũ",
+      "confidence": 0.869
+    },
+    {
+      "line_id": "0040_viet_030",
+      "bbox": [
+        [
+          280,
+          1532
+        ],
+        [
+          592,
+          1532
+        ],
+        [
+          592,
+          1569
+        ],
+        [
+          280,
+          1569
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1687
+        ],
+        [
+          592,
+          1687
+        ],
+        [
+          592,
+          1724
+        ],
+        [
+          280,
+          1724
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1532,
+        592,
+        1569
+      ],
+      "text": "Toại hữu kê văn 20%",
+      "confidence": 0.8671
+    },
+    {
+      "line_id": "0040_viet_031",
+      "bbox": [
+        [
+          533,
+          1584
+        ],
+        [
+          1091,
+          1586
+        ],
+        [
+          1091,
+          1626
+        ],
+        [
+          533,
+          1624
+        ]
+      ],
+      "bbox_original": [
+        [
+          533,
+          1739
+        ],
+        [
+          1091,
+          1741
+        ],
+        [
+          1091,
+          1781
+        ],
+        [
+          533,
+          1779
+        ]
+      ],
+      "box_xyxy": [
+        533,
+        1584,
+        1091,
+        1626
+      ],
+      "text": "Chân tề huấn đạo, vạn tượng thành",
+      "confidence": 0.8771
+    },
+    {
+      "line_id": "0040_viet_032",
+      "bbox": [
+        [
+          535,
+          1626
+        ],
+        [
+          1033,
+          1629
+        ],
+        [
+          1032,
+          1671
+        ],
+        [
+          535,
+          1667
+        ]
+      ],
+      "bbox_original": [
+        [
+          535,
+          1781
+        ],
+        [
+          1033,
+          1784
+        ],
+        [
+          1032,
+          1826
+        ],
+        [
+          535,
+          1822
+        ]
+      ],
+      "box_xyxy": [
+        535,
+        1626,
+        1033,
+        1671
+      ],
+      "text": "Bản lai phi triệu hitu phí manh.",
+      "confidence": 0.8503
+    },
+    {
+      "line_id": "0040_viet_033",
+      "bbox": [
+        [
+          536,
+          1666
+        ],
+        [
+          1034,
+          1672
+        ],
+        [
+          1033,
+          1713
+        ],
+        [
+          535,
+          1708
+        ]
+      ],
+      "bbox_original": [
+        [
+          536,
+          1821
+        ],
+        [
+          1034,
+          1827
+        ],
+        [
+          1033,
+          1868
+        ],
+        [
+          535,
+          1863
+        ]
+      ],
+      "box_xyxy": [
+        535,
+        1666,
+        1034,
+        1713
+      ],
+      "text": "chỉ sai hiệu niệm vong vô niệm,",
+      "confidence": 0.8645
+    },
+    {
+      "line_id": "0040_viet_034",
+      "bbox": [
+        [
+          536,
+          1712
+        ],
+        [
+          1049,
+          1714
+        ],
+        [
+          1049,
+          1754
+        ],
+        [
+          536,
+          1752
+        ]
+      ],
+      "bbox_original": [
+        [
+          536,
+          1867
+        ],
+        [
+          1049,
+          1869
+        ],
+        [
+          1049,
+          1909
+        ],
+        [
+          536,
+          1907
+        ]
+      ],
+      "box_xyxy": [
+        536,
+        1712,
+        1049,
+        1754
+      ],
+      "text": "Khuộc bội vô sinh, thu hữu sinh",
+      "confidence": 0.8608
+    },
+    {
+      "line_id": "0040_viet_035",
+      "bbox": [
+        [
+          537,
+          1754
+        ],
+        [
+          1087,
+          1756
+        ],
+        [
+          1087,
+          1796
+        ],
+        [
+          537,
+          1794
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          1909
+        ],
+        [
+          1087,
+          1911
+        ],
+        [
+          1087,
+          1951
+        ],
+        [
+          537,
+          1949
+        ]
+      ],
+      "box_xyxy": [
+        537,
+        1754,
+        1087,
+        1796
+      ],
+      "text": "Tỉ trước chứ hương, thiệt tham vị,",
+      "confidence": 0.8633
+    },
+    {
+      "line_id": "0040_viet_036",
+      "bbox": [
+        [
+          538,
+          1797
+        ],
+        [
+          1132,
+          1800
+        ],
+        [
+          1132,
+          1838
+        ],
+        [
+          538,
+          1835
+        ]
+      ],
+      "bbox_original": [
+        [
+          538,
+          1952
+        ],
+        [
+          1132,
+          1955
+        ],
+        [
+          1132,
+          1993
+        ],
+        [
+          538,
+          1990
+        ]
+      ],
+      "box_xyxy": [
+        538,
+        1797,
+        1132,
+        1838
+      ],
+      "text": "Nhân mạnh chung sác, nhi văn thanh",
+      "confidence": 0.9084
+    },
+    {
+      "line_id": "0040_viet_037",
+      "bbox": [
+        [
+          539,
+          1838
+        ],
+        [
+          1115,
+          1841
+        ],
+        [
+          1115,
+          1882
+        ],
+        [
+          539,
+          1879
+        ]
+      ],
+      "bbox_original": [
+        [
+          539,
+          1993
+        ],
+        [
+          1115,
+          1996
+        ],
+        [
+          1115,
+          2037
+        ],
+        [
+          539,
+          2034
+        ]
+      ],
+      "box_xyxy": [
+        539,
+        1838,
+        1115,
+        1882
+      ],
+      "text": "Vĩnh vi lũng đảng phong trần khách",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0040_viet_038",
+      "bbox": [
+        [
+          537,
+          1879
+        ],
+        [
+          1072,
+          1882
+        ],
+        [
+          1072,
+          1926
+        ],
+        [
+          537,
+          1922
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          2034
+        ],
+        [
+          1072,
+          2037
+        ],
+        [
+          1072,
+          2081
+        ],
+        [
+          537,
+          2077
+        ]
+      ],
+      "box_xyxy": [
+        537,
+        1879,
+        1072,
+        1926
+      ],
+      "text": "Nhật viên gia hương vận lý trình",
+      "confidence": 0.886
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "PHÒ THUYẾT TỨ SƠN",
+      "Nguyên phú từ đại bản vô, ngũ vàn phi hữu, Do không khỏi. vọng, vọng",
+      "thành sắc, sắc, tự chân không, Thị vọng long không, không hiện vọng. vong",
+      "sinh chùng sắc: Kỳ bội vô sinh vô hòa, vĩnh vi hữu hóa. hữu sinh. vô sinh",
+      "hóa ? tác vò hóa vô sinh: hữu hóa, sinh ? cộ ? hữu sinh hữu hóa. Hoặc",
+      "sinh thánh hiệu ngu trì \", hoặc hoa làn giác vũ mao \"\". Thời, thời một nịch ư",
+      "mẻ tâu \"\". vàng vắng phiếu trầm ư khồ hải. Hôn hôn mộng mộng, khởi giác",
+      "khởi tri. nhiều nhiều thông thông 7. bất tịnh bất ngó ? Tận thị tùng ? làm",
+      "phòng khư, đó vô mịch tị khiến hồi. Trị \"\"\" sir lực đạo vàng lai, từ sơn trắc giáng.",
+      "Từ sun giả, sinh lào bệnh từ đã \"\". kim tư tự sơn chi tự dĩ dị quyết hầu.",
+      "Tứ sơn kệ văn 12%",
+      "Tít sơn tiểu bịch van thanh tùng",
+      "Ngộ liêu 13% độ vó vận vật không",
+      "Hì đắc lư nhi tam cước tai,",
+      "Mịch kị đã sản thường cao phong",
+      "NHẤT SƠN 140",
+      "Già viêi 15%",
+      "Nhất sơn gia, sinh tướng đã. Hữu sai nhất niệm, cố hiện đa đoan, Thác",
+      "ninh hải tự phụ mẫu chi tinh, già dàng dực tr 16? âm dượng chi khí. Quán tam",
+      "tài nhi trung lập: vì vạn vật chi chi linh. Bất luận thượng tri hạ ngu, tận thuộc",
+      "phòi thai chi nội, khởi văn nhất ubăn triệu, tỉnh, hàm quy thác thược chi trung.",
+      "Hoặc thái dương biểu thành chúa chi định sinh, hoặc liệt lú ứng hiều thần",
+      "chi giản xuất, Văn bút tảo thiên quàn chi trận, vũ lược thu bách chiến chi",
+      "công nam nhi khoa trịch quả chi trị nữ tử sinh khuynh thành chi diễm",
+      "Nhất tiến 177 khuynh nhân quốc, tài tiểu 15% khuynh, nhân thành, Cạnh danh khoa",
+      "lệ, tranh di dầu trân, Khán lai tồng thị luân hội, đảo để nan, đào sinh hóa mẹ",
+      "Nhân chỉ sinh tương, tuế nãi xuân thì. Tráng tạm dương chi banh thái",
+      "tận vận vật chi tuy vinh, nhất, thiên mình mi, thồn thôn, liệu lực hoa lương",
+      "vận lý phong quang xử xử oanh đề điệp vũ",
+      "Toại hữu kê văn 20%",
+      "Chân tề huấn đạo, vạn tượng thành",
+      "Bản lai phi triệu hitu phí manh.",
+      "chỉ sai hiệu niệm vong vô niệm,",
+      "Khuộc bội vô sinh, thu hữu sinh",
+      "Tỉ trước chứ hương, thiệt tham vị,",
+      "Nhân mạnh chung sác, nhi văn thanh",
+      "Vĩnh vi lũng đảng phong trần khách",
+      "Nhật viên gia hương vận lý trình"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

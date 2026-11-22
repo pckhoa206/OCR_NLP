@@ -1,0 +1,555 @@
+{
+  "page_id": "0226",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 226,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1272,
+    "footnote_separator_y_original": 1387,
+    "effective_width": 1122,
+    "effective_height": 1272
+  },
+  "items": [
+    {
+      "line_id": "0226_viet_000",
+      "bbox": [
+        [
+          153,
+          542
+        ],
+        [
+          316,
+          542
+        ],
+        [
+          316,
+          579
+        ],
+        [
+          153,
+          579
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          657
+        ],
+        [
+          316,
+          657
+        ],
+        [
+          316,
+          694
+        ],
+        [
+          153,
+          694
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        542,
+        316,
+        579
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0226_viet_001",
+      "bbox": [
+        [
+          153,
+          586
+        ],
+        [
+          336,
+          584
+        ],
+        [
+          337,
+          626
+        ],
+        [
+          154,
+          628
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          701
+        ],
+        [
+          336,
+          699
+        ],
+        [
+          337,
+          741
+        ],
+        [
+          154,
+          743
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        584,
+        337,
+        628
+      ],
+      "text": "THƯ HOÀI",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0226_viet_002",
+      "bbox": [
+        [
+          157,
+          640
+        ],
+        [
+          415,
+          640
+        ],
+        [
+          415,
+          678
+        ],
+        [
+          157,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          755
+        ],
+        [
+          415,
+          755
+        ],
+        [
+          415,
+          793
+        ],
+        [
+          157,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        640,
+        415,
+        678
+      ],
+      "text": "(Thanh bình lạc)",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0226_viet_003",
+      "bbox": [
+        [
+          156,
+          689
+        ],
+        [
+          480,
+          688
+        ],
+        [
+          480,
+          722
+        ],
+        [
+          156,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          804
+        ],
+        [
+          480,
+          803
+        ],
+        [
+          480,
+          837
+        ],
+        [
+          156,
+          838
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        688,
+        480,
+        723
+      ],
+      "text": "Công thành danh toại",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0226_viet_004",
+      "bbox": [
+        [
+          156,
+          732
+        ],
+        [
+          519,
+          734
+        ],
+        [
+          519,
+          771
+        ],
+        [
+          156,
+          769
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          847
+        ],
+        [
+          519,
+          849
+        ],
+        [
+          519,
+          886
+        ],
+        [
+          156,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        732,
+        519,
+        771
+      ],
+      "text": "Đối cúc tầm mai tiêu sái.",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0226_viet_005",
+      "bbox": [
+        [
+          159,
+          783
+        ],
+        [
+          593,
+          783
+        ],
+        [
+          593,
+          823
+        ],
+        [
+          159,
+          823
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          898
+        ],
+        [
+          593,
+          898
+        ],
+        [
+          593,
+          938
+        ],
+        [
+          159,
+          938
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        783,
+        593,
+        823
+      ],
+      "text": "Ung trụ vong cơ ngộ đạo tâm,",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0226_viet_006",
+      "bbox": [
+        [
+          158,
+          831
+        ],
+        [
+          518,
+          831
+        ],
+        [
+          518,
+          872
+        ],
+        [
+          158,
+          872
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          946
+        ],
+        [
+          518,
+          946
+        ],
+        [
+          518,
+          987
+        ],
+        [
+          158,
+          987
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        831,
+        518,
+        872
+      ],
+      "text": "Quản đắc vô cùng tự tại.",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0226_viet_007",
+      "bbox": [
+        [
+          156,
+          925
+        ],
+        [
+          586,
+          927
+        ],
+        [
+          586,
+          965
+        ],
+        [
+          156,
+          963
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1040
+        ],
+        [
+          586,
+          1042
+        ],
+        [
+          586,
+          1080
+        ],
+        [
+          156,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        925,
+        586,
+        965
+      ],
+      "text": "Liên chiểu nhất liêm lục thuỷ,",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0226_viet_008",
+      "bbox": [
+        [
+          156,
+          978
+        ],
+        [
+          574,
+          980
+        ],
+        [
+          574,
+          1017
+        ],
+        [
+          156,
+          1015
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1093
+        ],
+        [
+          574,
+          1095
+        ],
+        [
+          574,
+          1132
+        ],
+        [
+          156,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        978,
+        574,
+        1017
+      ],
+      "text": "Sanh Sào tứ toạ xuân phong.",
+      "confidence": 0.9177
+    },
+    {
+      "line_id": "0226_viet_009",
+      "bbox": [
+        [
+          157,
+          1029
+        ],
+        [
+          677,
+          1026
+        ],
+        [
+          677,
+          1063
+        ],
+        [
+          157,
+          1065
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          1144
+        ],
+        [
+          677,
+          1141
+        ],
+        [
+          677,
+          1178
+        ],
+        [
+          157,
+          1180
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        1026,
+        677,
+        1065
+      ],
+      "text": "Minh nguyệt tuy cao phong tác bạn,",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0226_viet_010",
+      "bbox": [
+        [
+          156,
+          1070
+        ],
+        [
+          519,
+          1070
+        ],
+        [
+          519,
+          1114
+        ],
+        [
+          156,
+          1114
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1185
+        ],
+        [
+          519,
+          1185
+        ],
+        [
+          519,
+          1229
+        ],
+        [
+          156,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1070,
+        519,
+        1114
+      ],
+      "text": "Bá Kiều lư bối thi đồng",
+      "confidence": 0.9273
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "THƯ HOÀI",
+      "(Thanh bình lạc)",
+      "Công thành danh toại",
+      "Đối cúc tầm mai tiêu sái.",
+      "Ung trụ vong cơ ngộ đạo tâm,",
+      "Quản đắc vô cùng tự tại.",
+      "Liên chiểu nhất liêm lục thuỷ,",
+      "Sanh Sào tứ toạ xuân phong.",
+      "Minh nguyệt tuy cao phong tác bạn,",
+      "Bá Kiều lư bối thi đồng"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "page_id": "0030",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 30,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0030_han_000",
+      "bbox": [
+        [
+          241,
+          129
+        ],
+        [
+          638,
+          129
+        ],
+        [
+          638,
+          176
+        ],
+        [
+          241,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          250
+        ],
+        [
+          638,
+          250
+        ],
+        [
+          638,
+          297
+        ],
+        [
+          241,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        129,
+        638,
+        176
+      ],
+      "text": "叔向見韓宣子",
+      "confidence": 0.9668
+    },
+    {
+      "line_id": "0030_han_001",
+      "bbox": [
+        [
+          244,
+          289
+        ],
+        [
+          772,
+          289
+        ],
+        [
+          772,
+          336
+        ],
+        [
+          244,
+          336
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          410
+        ],
+        [
+          772,
+          410
+        ],
+        [
+          772,
+          457
+        ],
+        [
+          244,
+          457
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        289,
+        772,
+        336
+      ],
+      "text": "宣子憂貧叔向賀之",
+      "confidence": 0.9916
+    },
+    {
+      "line_id": "0030_han_002",
+      "bbox": [
+        [
+          241,
+          452
+        ],
+        [
+          771,
+          450
+        ],
+        [
+          772,
+          497
+        ],
+        [
+          241,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          573
+        ],
+        [
+          771,
+          571
+        ],
+        [
+          772,
+          618
+        ],
+        [
+          241,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        450,
+        772,
+        499
+      ],
+      "text": "宣子曰吾有卿之名",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0030_han_003",
+      "bbox": [
+        [
+          242,
+          613
+        ],
+        [
+          912,
+          613
+        ],
+        [
+          912,
+          660
+        ],
+        [
+          242,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          734
+        ],
+        [
+          912,
+          734
+        ],
+        [
+          912,
+          781
+        ],
+        [
+          242,
+          781
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        613,
+        912,
+        660
+      ],
+      "text": "而無其實無以從二三子",
+      "confidence": 0.9959
+    },
+    {
+      "line_id": "0030_han_004",
+      "bbox": [
+        [
+          241,
+          775
+        ],
+        [
+          843,
+          775
+        ],
+        [
+          843,
+          823
+        ],
+        [
+          241,
+          823
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          896
+        ],
+        [
+          843,
+          896
+        ],
+        [
+          843,
+          944
+        ],
+        [
+          241,
+          944
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        775,
+        843,
+        823
+      ],
+      "text": "吾是以憂子賀我何故",
+      "confidence": 0.9793
+    },
+    {
+      "line_id": "0030_han_005",
+      "bbox": [
+        [
+          243,
+          938
+        ],
+        [
+          908,
+          936
+        ],
+        [
+          908,
+          981
+        ],
+        [
+          243,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1059
+        ],
+        [
+          908,
+          1057
+        ],
+        [
+          908,
+          1102
+        ],
+        [
+          243,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        936,
+        908,
+        983
+      ],
+      "text": "曰昔欒武子無一卒之田",
+      "confidence": 0.9588
+    },
+    {
+      "line_id": "0030_han_006",
+      "bbox": [
+        [
+          237,
+          1145
+        ],
+        [
+          695,
+          1145
+        ],
+        [
+          695,
+          1192
+        ],
+        [
+          237,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1266
+        ],
+        [
+          695,
+          1266
+        ],
+        [
+          695,
+          1313
+        ],
+        [
+          237,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1145,
+        695,
+        1192
+      ],
+      "text": "其官不備其宗器",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0030_han_007",
+      "bbox": [
+        [
+          241,
+          1310
+        ],
+        [
+          772,
+          1310
+        ],
+        [
+          772,
+          1357
+        ],
+        [
+          241,
+          1357
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1431
+        ],
+        [
+          772,
+          1431
+        ],
+        [
+          772,
+          1478
+        ],
+        [
+          241,
+          1478
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1310,
+        772,
+        1357
+      ],
+      "text": "宣其德行順其憲則",
+      "confidence": 0.9995
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "叔向見韓宣子",
+      "宣子憂貧叔向賀之",
+      "宣子曰吾有卿之名",
+      "而無其實無以從二三子",
+      "吾是以憂子賀我何故",
+      "曰昔欒武子無一卒之田",
+      "其官不備其宗器",
+      "宣其德行順其憲則"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "叔向見韓宣子",
+        "phien_am": "Thúc-Hướng kiến hàn tuyên-tử.",
+        "dich_nghia_gloss": "Thúc-Hướng thăm hàn tuyên-tử"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "宣子憂貧叔向賀之",
+        "phien_am": "Tuyên-tử ưu bần, Thúc-Hướng hạ chi.",
+        "dich_nghia_gloss": "Tuyên-tử lo nghèo, Thúc-Hướng ngỏ lời mừng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "宣子曰吾有卿之名",
+        "phien_am": "Tuyên-tử viết: ngô hữu khanh chi danh",
+        "dich_nghia_gloss": "Tuyên-tử nói: ta có danh là khanh-tướng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "而無其實無以從二三子",
+        "phien_am": "nhi vô kỳ thực, vô dĩ tòng nhị tam tử",
+        "dich_nghia_gloss": "nhưng không có thực, không lầy gì theo được bạn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾是以憂子賀我何故",
+        "phien_am": "Ngô thị dĩ ưu. Tử hạ ngã, hà cõ ?",
+        "dich_nghia_gloss": "Bởi thề nên lo. Bác mừng ta là lý gì ?"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "曰昔欒武子無一卒之田",
+        "phien_am": "Viêt: Tích Loan-vũ-tử vô nhất tốt chi diền",
+        "dich_nghia_gloss": "Nói: Xưa Loan-vũ-tử ruộng không có đủ trăm người,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "其官不備其宗器",
+        "phien_am": "kỳ quan bãt bị kỳ tông-khi",
+        "dich_nghia_gloss": "lộc không đủ cúng tê cha mẹ"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "宣其德行順其憲則",
+        "phien_am": "Tuyên kỳ đức hạnh thuận kỳ hiễn tắc",
+        "dich_nghia_gloss": "đức hạnh được tuyên dương, thuận phép nước"
+      }
+    ]
+  }
+}

@@ -1,0 +1,987 @@
+{
+  "page_id": "0076",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 76,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0076_viet_000",
+      "bbox": [
+        [
+          192,
+          26
+        ],
+        [
+          233,
+          26
+        ],
+        [
+          233,
+          62
+        ],
+        [
+          192,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          147
+        ],
+        [
+          233,
+          147
+        ],
+        [
+          233,
+          183
+        ],
+        [
+          192,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        26,
+        233,
+        62
+      ],
+      "text": "70",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0076_viet_001",
+      "bbox": [
+        [
+          669,
+          27
+        ],
+        [
+          990,
+          27
+        ],
+        [
+          990,
+          61
+        ],
+        [
+          669,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          669,
+          148
+        ],
+        [
+          990,
+          148
+        ],
+        [
+          990,
+          182
+        ],
+        [
+          669,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        669,
+        27,
+        990,
+        61
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0076_viet_002",
+      "bbox": [
+        [
+          230,
+          180
+        ],
+        [
+          991,
+          180
+        ],
+        [
+          991,
+          217
+        ],
+        [
+          230,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          301
+        ],
+        [
+          991,
+          301
+        ],
+        [
+          991,
+          338
+        ],
+        [
+          230,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        180,
+        991,
+        217
+      ],
+      "text": "- Ngô ninh khồn-khồn khoản-khoản phác di",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0076_viet_003",
+      "bbox": [
+        [
+          194,
+          225
+        ],
+        [
+          360,
+          225
+        ],
+        [
+          360,
+          263
+        ],
+        [
+          194,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          346
+        ],
+        [
+          360,
+          346
+        ],
+        [
+          360,
+          384
+        ],
+        [
+          194,
+          384
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        225,
+        360,
+        263
+      ],
+      "text": "trung hồ;",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0076_viet_004",
+      "bbox": [
+        [
+          250,
+          265
+        ],
+        [
+          724,
+          269
+        ],
+        [
+          723,
+          310
+        ],
+        [
+          250,
+          306
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          386
+        ],
+        [
+          724,
+          390
+        ],
+        [
+          723,
+          431
+        ],
+        [
+          250,
+          427
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        265,
+        724,
+        310
+      ],
+      "text": "Tôi nên cồ công giữ lòng trung",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0076_viet_005",
+      "bbox": [
+        [
+          230,
+          390
+        ],
+        [
+          890,
+          388
+        ],
+        [
+          890,
+          426
+        ],
+        [
+          230,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          511
+        ],
+        [
+          890,
+          509
+        ],
+        [
+          890,
+          547
+        ],
+        [
+          230,
+          549
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        388,
+        890,
+        428
+      ],
+      "text": "tương tõng văng lạo lai, ty vô cùng hồ ?",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0076_viet_006",
+      "bbox": [
+        [
+          250,
+          433
+        ],
+        [
+          821,
+          433
+        ],
+        [
+          821,
+          470
+        ],
+        [
+          250,
+          470
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          554
+        ],
+        [
+          821,
+          554
+        ],
+        [
+          821,
+          591
+        ],
+        [
+          250,
+          591
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        433,
+        821,
+        470
+      ],
+      "text": "hay nên đưa đón để khỏi cùng khôn ?",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0076_viet_007",
+      "bbox": [
+        [
+          232,
+          549
+        ],
+        [
+          887,
+          550
+        ],
+        [
+          887,
+          591
+        ],
+        [
+          232,
+          590
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          670
+        ],
+        [
+          887,
+          671
+        ],
+        [
+          887,
+          712
+        ],
+        [
+          232,
+          711
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        549,
+        887,
+        591
+      ],
+      "text": "Ninh tru sử thảo muo dĩ lực canh hô;",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0076_viet_008",
+      "bbox": [
+        [
+          252,
+          594
+        ],
+        [
+          684,
+          596
+        ],
+        [
+          684,
+          633
+        ],
+        [
+          252,
+          631
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          715
+        ],
+        [
+          684,
+          717
+        ],
+        [
+          684,
+          754
+        ],
+        [
+          252,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        594,
+        684,
+        633
+      ],
+      "text": "Nên về nơi thảo dã cày bừa",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0076_viet_009",
+      "bbox": [
+        [
+          229,
+          716
+        ],
+        [
+          859,
+          713
+        ],
+        [
+          859,
+          750
+        ],
+        [
+          229,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          837
+        ],
+        [
+          859,
+          834
+        ],
+        [
+          859,
+          871
+        ],
+        [
+          229,
+          874
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        713,
+        859,
+        753
+      ],
+      "text": "tương du đại nhân di thành danh hồ ?",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0076_viet_010",
+      "bbox": [
+        [
+          251,
+          759
+        ],
+        [
+          905,
+          756
+        ],
+        [
+          905,
+          796
+        ],
+        [
+          251,
+          800
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          880
+        ],
+        [
+          905,
+          877
+        ],
+        [
+          905,
+          917
+        ],
+        [
+          251,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        756,
+        905,
+        800
+      ],
+      "text": "hay bôn tầu theo người sang để cầu danh ?",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0076_viet_011",
+      "bbox": [
+        [
+          229,
+          878
+        ],
+        [
+          942,
+          880
+        ],
+        [
+          942,
+          918
+        ],
+        [
+          229,
+          916
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          999
+        ],
+        [
+          942,
+          1001
+        ],
+        [
+          942,
+          1039
+        ],
+        [
+          229,
+          1037
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        878,
+        942,
+        918
+      ],
+      "text": "Ninh chinh ngôn bãt húy dĩ nguy thân hồ",
+      "confidence": 0.8998
+    },
+    {
+      "line_id": "0076_viet_012",
+      "bbox": [
+        [
+          254,
+          923
+        ],
+        [
+          976,
+          923
+        ],
+        [
+          976,
+          963
+        ],
+        [
+          254,
+          963
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1044
+        ],
+        [
+          976,
+          1044
+        ],
+        [
+          976,
+          1084
+        ],
+        [
+          254,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        923,
+        976,
+        963
+      ],
+      "text": "nên nói thắng không kiêng kị, để nguy vào thân",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0076_viet_013",
+      "bbox": [
+        [
+          229,
+          1045
+        ],
+        [
+          865,
+          1043
+        ],
+        [
+          865,
+          1080
+        ],
+        [
+          229,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1166
+        ],
+        [
+          865,
+          1164
+        ],
+        [
+          865,
+          1201
+        ],
+        [
+          229,
+          1203
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1043,
+        865,
+        1082
+      ],
+      "text": "tương tùng tục phú qui dĩ thâu sinh hồ",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0076_viet_014",
+      "bbox": [
+        [
+          254,
+          1087
+        ],
+        [
+          866,
+          1088
+        ],
+        [
+          866,
+          1126
+        ],
+        [
+          254,
+          1125
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1208
+        ],
+        [
+          866,
+          1209
+        ],
+        [
+          866,
+          1247
+        ],
+        [
+          254,
+          1246
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1087,
+        866,
+        1126
+      ],
+      "text": "hay theo lồi phú-quý mà trộm lầy sồng ?",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0076_viet_015",
+      "bbox": [
+        [
+          233,
+          1207
+        ],
+        [
+          861,
+          1207
+        ],
+        [
+          861,
+          1241
+        ],
+        [
+          233,
+          1241
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1328
+        ],
+        [
+          861,
+          1328
+        ],
+        [
+          861,
+          1362
+        ],
+        [
+          233,
+          1362
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1207,
+        861,
+        1241
+      ],
+      "text": "Ninh siêu nhiên cao cử di bảo chân hồ",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0076_viet_016",
+      "bbox": [
+        [
+          254,
+          1250
+        ],
+        [
+          841,
+          1251
+        ],
+        [
+          841,
+          1290
+        ],
+        [
+          254,
+          1289
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1371
+        ],
+        [
+          841,
+          1372
+        ],
+        [
+          841,
+          1411
+        ],
+        [
+          254,
+          1410
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1250,
+        841,
+        1290
+      ],
+      "text": "nên cư-xử cao-siêu đề giữ lầy chân-tính",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0076_viet_017",
+      "bbox": [
+        [
+          232,
+          1373
+        ],
+        [
+          793,
+          1372
+        ],
+        [
+          793,
+          1409
+        ],
+        [
+          232,
+          1410
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1494
+        ],
+        [
+          793,
+          1493
+        ],
+        [
+          793,
+          1530
+        ],
+        [
+          232,
+          1531
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1372,
+        793,
+        1410
+      ],
+      "text": "tương túc tư lật ty, ốc y nhu nhi,",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0076_viet_018",
+      "bbox": [
+        [
+          255,
+          1416
+        ],
+        [
+          919,
+          1416
+        ],
+        [
+          919,
+          1453
+        ],
+        [
+          255,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1537
+        ],
+        [
+          919,
+          1537
+        ],
+        [
+          919,
+          1574
+        ],
+        [
+          255,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1416,
+        919,
+        1453
+      ],
+      "text": "hay nên vuốt ve mơn trớn, cười gần nịnh bợ.",
+      "confidence": 0.9165
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "- Ngô ninh khồn-khồn khoản-khoản phác di",
+      "tương tõng văng lạo lai, ty vô cùng hồ ?",
+      "Ninh tru sử thảo muo dĩ lực canh hô;",
+      "tương du đại nhân di thành danh hồ ?",
+      "Ninh chinh ngôn bãt húy dĩ nguy thân hồ",
+      "tương tùng tục phú qui dĩ thâu sinh hồ",
+      "Ninh siêu nhiên cao cử di bảo chân hồ",
+      "tương túc tư lật ty, ốc y nhu nhi,"
+    ],
+    "dich_nghia_lines": [
+      "trung hồ; Tôi nên cồ công giữ lòng trung",
+      "hay nên đưa đón để khỏi cùng khôn ?",
+      "Nên về nơi thảo dã cày bừa",
+      "hay bôn tầu theo người sang để cầu danh ?",
+      "nên nói thắng không kiêng kị, để nguy vào thân",
+      "hay theo lồi phú-quý mà trộm lầy sồng ?",
+      "nên cư-xử cao-siêu đề giữ lầy chân-tính",
+      "hay nên vuốt ve mơn trớn, cười gần nịnh bợ."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "吾寧悃悃欵欵樸以忠乎",
+        "phien_am": "- Ngô ninh khồn-khồn khoản-khoản phác di",
+        "dich_nghia_gloss": "trung hồ; Tôi nên cồ công giữ lòng trung"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "將送往勞来斯無窮乎",
+        "phien_am": "tương tõng văng lạo lai, ty vô cùng hồ ?",
+        "dich_nghia_gloss": "hay nên đưa đón để khỏi cùng khôn ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "寧誅鋤草茆以力耕乎",
+        "phien_am": "Ninh tru sử thảo muo dĩ lực canh hô;",
+        "dich_nghia_gloss": "Nên về nơi thảo dã cày bừa"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "將遊大人以成名乎",
+        "phien_am": "tương du đại nhân di thành danh hồ ?",
+        "dich_nghia_gloss": "hay bôn tầu theo người sang để cầu danh ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "寧正言不諱以危身乎",
+        "phien_am": "Ninh chinh ngôn bãt húy dĩ nguy thân hồ",
+        "dich_nghia_gloss": "nên nói thắng không kiêng kị, để nguy vào thân"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "將從俗富貴以媮生乎",
+        "phien_am": "tương tùng tục phú qui dĩ thâu sinh hồ",
+        "dich_nghia_gloss": "hay theo lồi phú-quý mà trộm lầy sồng ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "寧超然高舉以保真乎",
+        "phien_am": "Ninh siêu nhiên cao cử di bảo chân hồ",
+        "dich_nghia_gloss": "nên cư-xử cao-siêu đề giữ lầy chân-tính"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將啶訾慄斯喔咿喘呪",
+        "phien_am": "tương túc tư lật ty, ốc y nhu nhi,",
+        "dich_nghia_gloss": "hay nên vuốt ve mơn trớn, cười gần nịnh bợ."
+      }
+    ]
+  }
+}

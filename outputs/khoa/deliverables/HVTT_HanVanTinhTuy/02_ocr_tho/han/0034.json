@@ -1,0 +1,459 @@
+{
+  "page_id": "0034",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 34,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0034_han_000",
+      "bbox": [
+        [
+          246,
+          127
+        ],
+        [
+          700,
+          127
+        ],
+        [
+          700,
+          171
+        ],
+        [
+          246,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          248
+        ],
+        [
+          700,
+          248
+        ],
+        [
+          700,
+          292
+        ],
+        [
+          246,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        127,
+        700,
+        171
+      ],
+      "text": "及懷子改桓之行",
+      "confidence": 0.9807
+    },
+    {
+      "line_id": "0034_han_001",
+      "bbox": [
+        [
+          244,
+          298
+        ],
+        [
+          905,
+          298
+        ],
+        [
+          905,
+          342
+        ],
+        [
+          244,
+          342
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          419
+        ],
+        [
+          905,
+          419
+        ],
+        [
+          905,
+          463
+        ],
+        [
+          244,
+          463
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        298,
+        905,
+        342
+      ],
+      "text": "而修武之德可以免於難",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0034_han_002",
+      "bbox": [
+        [
+          244,
+          465
+        ],
+        [
+          839,
+          465
+        ],
+        [
+          839,
+          513
+        ],
+        [
+          244,
+          513
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          586
+        ],
+        [
+          839,
+          586
+        ],
+        [
+          839,
+          634
+        ],
+        [
+          244,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        465,
+        839,
+        513
+      ],
+      "text": "而離桓之罪以亡於楚",
+      "confidence": 0.999
+    },
+    {
+      "line_id": "0034_han_003",
+      "bbox": [
+        [
+          245,
+          634
+        ],
+        [
+          839,
+          636
+        ],
+        [
+          839,
+          684
+        ],
+        [
+          245,
+          682
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          755
+        ],
+        [
+          839,
+          757
+        ],
+        [
+          839,
+          805
+        ],
+        [
+          245,
+          803
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        634,
+        839,
+        684
+      ],
+      "text": "夫卻昭子其富半公室",
+      "confidence": 0.9968
+    },
+    {
+      "line_id": "0034_han_004",
+      "bbox": [
+        [
+          243,
+          806
+        ],
+        [
+          564,
+          806
+        ],
+        [
+          564,
+          854
+        ],
+        [
+          243,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          927
+        ],
+        [
+          564,
+          927
+        ],
+        [
+          564,
+          975
+        ],
+        [
+          243,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        806,
+        564,
+        854
+      ],
+      "text": "其家半三軍",
+      "confidence": 0.9972
+    },
+    {
+      "line_id": "0034_han_005",
+      "bbox": [
+        [
+          250,
+          975
+        ],
+        [
+          769,
+          975
+        ],
+        [
+          769,
+          1022
+        ],
+        [
+          250,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1096
+        ],
+        [
+          769,
+          1096
+        ],
+        [
+          769,
+          1143
+        ],
+        [
+          250,
+          1143
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        975,
+        769,
+        1022
+      ],
+      "text": "恃其富寵以泰於國",
+      "confidence": 0.9979
+    },
+    {
+      "line_id": "0034_han_006",
+      "bbox": [
+        [
+          244,
+          1142
+        ],
+        [
+          911,
+          1142
+        ],
+        [
+          911,
+          1192
+        ],
+        [
+          244,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1263
+        ],
+        [
+          911,
+          1263
+        ],
+        [
+          911,
+          1313
+        ],
+        [
+          244,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1142,
+        911,
+        1192
+      ],
+      "text": "其身尸於朝其宗滅於絳",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0034_han_007",
+      "bbox": [
+        [
+          248,
+          1311
+        ],
+        [
+          775,
+          1311
+        ],
+        [
+          775,
+          1358
+        ],
+        [
+          248,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1432
+        ],
+        [
+          775,
+          1432
+        ],
+        [
+          775,
+          1479
+        ],
+        [
+          248,
+          1479
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1311,
+        775,
+        1358
+      ],
+      "text": "不然夫八卻五大夫",
+      "confidence": 0.9935
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "及懷子改桓之行",
+      "而修武之德可以免於難",
+      "而離桓之罪以亡於楚",
+      "夫卻昭子其富半公室",
+      "其家半三軍",
+      "恃其富寵以泰於國",
+      "其身尸於朝其宗滅於絳",
+      "不然夫八卻五大夫"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "及懷子改桓之行",
+        "phien_am": "cập Hoài tử cải Hoàn chi hạnh",
+        "dich_nghia_gloss": "Đên Hoài-tử sửa lại nết xâu của hoàn,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "而修武之德可以免於難",
+        "phien_am": "nhi tu Vũ chi đức, khả dĩ miễn ư nạn",
+        "dich_nghia_gloss": "tu lây đức của Vũ, có thể tránh được nạn"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "而離桓之罪以亡於楚",
+        "phien_am": "nhi li Hoàn chi tội dĩ vong ư Sở",
+        "dich_nghia_gloss": "mà tránh tội của hoàn, phải lưu vong sang sở"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "夫卻昭子其富半公室",
+        "phien_am": "Phù Khước-chiêu-tử, kỳ phú bán công-thất",
+        "dich_nghia_gloss": "Khước chiêu-tử giâu có bằng nửa nước"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "其家半三軍",
+        "phien_am": "kỳ gia bán tam quân,",
+        "dich_nghia_gloss": "người nhà đông bằng nửa số quân-đội"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "恃其富寵以泰於國",
+        "phien_am": "thị kỳ phú sủng dĩ thái ư quốc",
+        "dich_nghia_gloss": "giầu có lại được vua yêu,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "其身尸於朝其宗滅於絳",
+        "phien_am": "kỳ thân thi ư triều, kỳ tông diệt ư Giáng",
+        "dich_nghia_gloss": "bị phơi thây ở triều, dòng họ bị diệt ở kinh-thành."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "不然夫八卻五大夫",
+        "phien_am": "Bắt nhiên phù bát khước: ngũ đại phu",
+        "dich_nghia_gloss": "Tám người họ khước thì năm làm đại-phu,"
+      }
+    ]
+  }
+}

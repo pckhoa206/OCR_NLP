@@ -1,0 +1,72 @@
+{
+  "page_id": "0167",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 167,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1342,
+    "footnote_separator_y_original": 1457,
+    "effective_width": 1122,
+    "effective_height": 1342
+  },
+  "items": [
+    {
+      "line_id": "0167_han_000",
+      "bbox": [
+        [
+          95,
+          854
+        ],
+        [
+          1059,
+          857
+        ],
+        [
+          1059,
+          894
+        ],
+        [
+          95,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          969
+        ],
+        [
+          1059,
+          972
+        ],
+        [
+          1059,
+          1009
+        ],
+        [
+          95,
+          1006
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        854,
+        1059,
+        894
+      ],
+      "text": "sách Hoa trinh ngu bút lc (華程偶筆錄, A.697), ông tùng làm",
+      "confidence": 0.9782
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

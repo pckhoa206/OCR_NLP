@@ -1,0 +1,411 @@
+{
+  "page_id": "0208",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 208,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0208_viet_000",
+      "bbox": [
+        [
+          154,
+          539
+        ],
+        [
+          218,
+          539
+        ],
+        [
+          218,
+          588
+        ],
+        [
+          154,
+          588
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          654
+        ],
+        [
+          218,
+          654
+        ],
+        [
+          218,
+          703
+        ],
+        [
+          154,
+          703
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        539,
+        218,
+        588
+      ],
+      "text": "III",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0208_viet_001",
+      "bbox": [
+        [
+          162,
+          1128
+        ],
+        [
+          325,
+          1128
+        ],
+        [
+          325,
+          1163
+        ],
+        [
+          162,
+          1163
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1243
+        ],
+        [
+          325,
+          1243
+        ],
+        [
+          325,
+          1278
+        ],
+        [
+          162,
+          1278
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1128,
+        325,
+        1163
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0208_viet_002",
+      "bbox": [
+        [
+          162,
+          1171
+        ],
+        [
+          526,
+          1165
+        ],
+        [
+          527,
+          1209
+        ],
+        [
+          163,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1286
+        ],
+        [
+          526,
+          1280
+        ],
+        [
+          527,
+          1324
+        ],
+        [
+          163,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1165,
+        527,
+        1214
+      ],
+      "text": "CHINH PHU KÍ HOÀN",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0208_viet_003",
+      "bbox": [
+        [
+          160,
+          1222
+        ],
+        [
+          194,
+          1222
+        ],
+        [
+          194,
+          1264
+        ],
+        [
+          160,
+          1264
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1337
+        ],
+        [
+          194,
+          1337
+        ],
+        [
+          194,
+          1379
+        ],
+        [
+          160,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        1222,
+        194,
+        1264
+      ],
+      "text": "I.",
+      "confidence": 0.8343
+    },
+    {
+      "line_id": "0208_viet_004",
+      "bbox": [
+        [
+          166,
+          1272
+        ],
+        [
+          436,
+          1270
+        ],
+        [
+          436,
+          1310
+        ],
+        [
+          167,
+          1313
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1387
+        ],
+        [
+          436,
+          1385
+        ],
+        [
+          436,
+          1425
+        ],
+        [
+          167,
+          1428
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1270,
+        436,
+        1313
+      ],
+      "text": "Vọng Giang Nam",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0208_viet_005",
+      "bbox": [
+        [
+          165,
+          1320
+        ],
+        [
+          619,
+          1316
+        ],
+        [
+          619,
+          1356
+        ],
+        [
+          165,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1435
+        ],
+        [
+          619,
+          1431
+        ],
+        [
+          619,
+          1471
+        ],
+        [
+          165,
+          1474
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        1316,
+        619,
+        1359
+      ],
+      "text": "Tự tòng cung mã biệt loan duy,",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0208_viet_006",
+      "bbox": [
+        [
+          169,
+          1360
+        ],
+        [
+          670,
+          1364
+        ],
+        [
+          670,
+          1406
+        ],
+        [
+          168,
+          1402
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1475
+        ],
+        [
+          670,
+          1479
+        ],
+        [
+          670,
+          1521
+        ],
+        [
+          168,
+          1517
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1360,
+        670,
+        1406
+      ],
+      "text": "Viễn tái thiều thiều không hễ vọng,",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0208_viet_007",
+      "bbox": [
+        [
+          994,
+          1428
+        ],
+        [
+          1061,
+          1428
+        ],
+        [
+          1061,
+          1472
+        ],
+        [
+          994,
+          1472
+        ]
+      ],
+      "bbox_original": [
+        [
+          994,
+          1543
+        ],
+        [
+          1061,
+          1543
+        ],
+        [
+          1061,
+          1587
+        ],
+        [
+          994,
+          1587
+        ]
+      ],
+      "box_xyxy": [
+        994,
+        1428,
+        1061,
+        1472
+      ],
+      "text": "201",
+      "confidence": 0.9289
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "III",
+      "CHINH PHU KÍ HOÀN",
+      "I.",
+      "Vọng Giang Nam",
+      "Tự tòng cung mã biệt loan duy,",
+      "Viễn tái thiều thiều không hễ vọng,",
+      "201"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

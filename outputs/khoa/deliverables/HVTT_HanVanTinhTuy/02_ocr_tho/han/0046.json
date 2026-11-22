@@ -1,0 +1,459 @@
+{
+  "page_id": "0046",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 46,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0046_han_000",
+      "bbox": [
+        [
+          198,
+          128
+        ],
+        [
+          878,
+          128
+        ],
+        [
+          878,
+          175
+        ],
+        [
+          198,
+          175
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          249
+        ],
+        [
+          878,
+          249
+        ],
+        [
+          878,
+          296
+        ],
+        [
+          198,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        128,
+        878,
+        175
+      ],
+      "text": "五十步而樵採者死不赦",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0046_han_001",
+      "bbox": [
+        [
+          199,
+          298
+        ],
+        [
+          802,
+          298
+        ],
+        [
+          802,
+          346
+        ],
+        [
+          199,
+          346
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          419
+        ],
+        [
+          802,
+          419
+        ],
+        [
+          802,
+          467
+        ],
+        [
+          199,
+          467
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        298,
+        802,
+        346
+      ],
+      "text": "令曰有能得齊王頭者",
+      "confidence": 0.9685
+    },
+    {
+      "line_id": "0046_han_002",
+      "bbox": [
+        [
+          201,
+          466
+        ],
+        [
+          740,
+          466
+        ],
+        [
+          740,
+          514
+        ],
+        [
+          201,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          587
+        ],
+        [
+          740,
+          587
+        ],
+        [
+          740,
+          635
+        ],
+        [
+          201,
+          635
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        466,
+        740,
+        514
+      ],
+      "text": "封萬户侯賜金千鎰",
+      "confidence": 0.9438
+    },
+    {
+      "line_id": "0046_han_003",
+      "bbox": [
+        [
+          201,
+          636
+        ],
+        [
+          738,
+          636
+        ],
+        [
+          738,
+          683
+        ],
+        [
+          201,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          757
+        ],
+        [
+          738,
+          757
+        ],
+        [
+          738,
+          804
+        ],
+        [
+          201,
+          804
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        636,
+        738,
+        683
+      ],
+      "text": "由是觀之生王之頭",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0046_han_004",
+      "bbox": [
+        [
+          203,
+          805
+        ],
+        [
+          738,
+          805
+        ],
+        [
+          738,
+          852
+        ],
+        [
+          203,
+          852
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          926
+        ],
+        [
+          738,
+          926
+        ],
+        [
+          738,
+          973
+        ],
+        [
+          203,
+          973
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        805,
+        738,
+        852
+      ],
+      "text": "曾不若死士之壟也",
+      "confidence": 0.9982
+    },
+    {
+      "line_id": "0046_han_005",
+      "bbox": [
+        [
+          197,
+          972
+        ],
+        [
+          523,
+          970
+        ],
+        [
+          523,
+          1018
+        ],
+        [
+          197,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1093
+        ],
+        [
+          523,
+          1091
+        ],
+        [
+          523,
+          1139
+        ],
+        [
+          197,
+          1142
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        970,
+        523,
+        1021
+      ],
+      "text": "宣王曰嗟乎",
+      "confidence": 0.9982
+    },
+    {
+      "line_id": "0046_han_006",
+      "bbox": [
+        [
+          196,
+          1142
+        ],
+        [
+          596,
+          1142
+        ],
+        [
+          596,
+          1190
+        ],
+        [
+          196,
+          1190
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1263
+        ],
+        [
+          596,
+          1263
+        ],
+        [
+          596,
+          1311
+        ],
+        [
+          196,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1142,
+        596,
+        1190
+      ],
+      "text": "君子焉可侮哉",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0046_han_007",
+      "bbox": [
+        [
+          200,
+          1313
+        ],
+        [
+          590,
+          1313
+        ],
+        [
+          590,
+          1360
+        ],
+        [
+          200,
+          1360
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          1434
+        ],
+        [
+          590,
+          1434
+        ],
+        [
+          590,
+          1481
+        ],
+        [
+          200,
+          1481
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        1313,
+        590,
+        1360
+      ],
+      "text": "寡人自取病耳",
+      "confidence": 0.9996
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "五十步而樵採者死不赦",
+      "令曰有能得齊王頭者",
+      "封萬户侯賜金千鎰",
+      "由是觀之生王之頭",
+      "曾不若死士之壟也",
+      "宣王曰嗟乎",
+      "君子焉可侮哉",
+      "寡人自取病耳"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "五十步而樵採者死不赦",
+        "phien_am": "ngũ thập bộ nhi tiểu thái giả tử bất xá",
+        "dich_nghia_gloss": "50 bước mà đồn củi thì giết không tha."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "令曰有能得齊王頭者",
+        "phien_am": "Lệnh viết: hữu năng đắc Tề-vương đầu giả,",
+        "dich_nghia_gloss": "Lệnh nói: ai lầy được đầu Tề-vương"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "封萬户侯賜金千鎰",
+        "phien_am": "phong vạn-hộ-hầu, tứ kim thiên dật",
+        "dich_nghia_gloss": "được phong vạn-hộ-hầu, thưởng ngàn dật vàng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "由是觀之生王之頭",
+        "phien_am": "Do thị quan chi: sinh vương chi đầu",
+        "dich_nghia_gloss": "xem thể thì đầu vua sông"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "曾不若死士之壟也",
+        "phien_am": "tăng bất nhược tử-sĩ chi lũng dã.",
+        "dich_nghia_gloss": "có khi không bằng mộ kẻ sĩ vậy"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "宣王曰嗟乎",
+        "phien_am": "Tuyên-vương viết: Ta hồ",
+        "dich_nghia_gloss": "Tuyên-vương nói: Than ôi"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "君子焉可侮哉",
+        "phien_am": "Quân tử yên khả vụ tai",
+        "dich_nghia_gloss": "quân tử há có thể khinh được sao"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "寡人自取病耳",
+        "phien_am": "Quả nhân tự thủ bệnh nhĩ",
+        "dich_nghia_gloss": "Trắm tự mua lỗi này vậy"
+      }
+    ]
+  }
+}

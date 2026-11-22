@@ -1,0 +1,1996 @@
+{
+  "page_id": "0018",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 18,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0018_viet_000",
+      "bbox": [
+        [
+          271,
+          79
+        ],
+        [
+          1402,
+          76
+        ],
+        [
+          1402,
+          116
+        ],
+        [
+          271,
+          119
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          234
+        ],
+        [
+          1402,
+          231
+        ],
+        [
+          1402,
+          271
+        ],
+        [
+          271,
+          274
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        76,
+        1402,
+        119
+      ],
+      "text": "Trong những năm làm vua, mặc dầu có sự kêm cặp, dạy dồ sát sao của",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0018_viet_001",
+      "bbox": [
+        [
+          180,
+          119
+        ],
+        [
+          1403,
+          118
+        ],
+        [
+          1403,
+          159
+        ],
+        [
+          180,
+          160
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          274
+        ],
+        [
+          1403,
+          273
+        ],
+        [
+          1403,
+          314
+        ],
+        [
+          180,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        118,
+        1403,
+        160
+      ],
+      "text": "Trần Thủ Độ, Trần Cảnh vẫn tỏ ra một ông vua có bản lĩnh. Ông từng già",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0018_viet_002",
+      "bbox": [
+        [
+          179,
+          160
+        ],
+        [
+          1400,
+          159
+        ],
+        [
+          1400,
+          200
+        ],
+        [
+          179,
+          201
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          315
+        ],
+        [
+          1400,
+          314
+        ],
+        [
+          1400,
+          355
+        ],
+        [
+          179,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        159,
+        1400,
+        201
+      ],
+      "text": "làm lải huôn đi thuyền nhẹ vào đất Tổng đế xem xét tình hình nước làng giêng.",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0018_viet_003",
+      "bbox": [
+        [
+          181,
+          202
+        ],
+        [
+          1404,
+          198
+        ],
+        [
+          1404,
+          238
+        ],
+        [
+          181,
+          242
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          357
+        ],
+        [
+          1404,
+          353
+        ],
+        [
+          1404,
+          393
+        ],
+        [
+          181,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        198,
+        1404,
+        242
+      ],
+      "text": "Ông cũng là người bam học, Trong không khi tư tưởng chung của thời đại,",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0018_viet_004",
+      "bbox": [
+        [
+          179,
+          241
+        ],
+        [
+          1404,
+          238
+        ],
+        [
+          1404,
+          279
+        ],
+        [
+          179,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          396
+        ],
+        [
+          1404,
+          393
+        ],
+        [
+          1404,
+          434
+        ],
+        [
+          179,
+          437
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        238,
+        1404,
+        282
+      ],
+      "text": "ông đã nghiên cứu cả Nho và Phật, Có lần hối rồi vì chuyện gia đình ông bỏ",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0018_viet_005",
+      "bbox": [
+        [
+          176,
+          278
+        ],
+        [
+          1406,
+          275
+        ],
+        [
+          1406,
+          318
+        ],
+        [
+          176,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          433
+        ],
+        [
+          1406,
+          430
+        ],
+        [
+          1406,
+          473
+        ],
+        [
+          176,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        275,
+        1406,
+        321
+      ],
+      "text": "ngôi vua tròu, đều núi Yên-tit 5. 7 mong tìm sự yên tĩnh cho tàm hồn trong",
+      "confidence": 0.8748
+    },
+    {
+      "line_id": "0018_viet_006",
+      "bbox": [
+        [
+          177,
+          318
+        ],
+        [
+          1404,
+          313
+        ],
+        [
+          1404,
+          356
+        ],
+        [
+          177,
+          361
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          473
+        ],
+        [
+          1404,
+          468
+        ],
+        [
+          1404,
+          511
+        ],
+        [
+          177,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        313,
+        1404,
+        361
+      ],
+      "text": "giáo lý nhà Phải, nhưng cuối cùng, vẫn không thực hiện được ý định (?). Di",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0018_viet_007",
+      "bbox": [
+        [
+          179,
+          357
+        ],
+        [
+          1406,
+          351
+        ],
+        [
+          1406,
+          392
+        ],
+        [
+          179,
+          399
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          512
+        ],
+        [
+          1406,
+          506
+        ],
+        [
+          1406,
+          547
+        ],
+        [
+          179,
+          554
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        351,
+        1406,
+        399
+      ],
+      "text": "vậy, ông văn đề nhiều thời gian lim hiếu kinh điền Phật giáo và trở thành",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0018_viet_008",
+      "bbox": [
+        [
+          180,
+          399
+        ],
+        [
+          1302,
+          393
+        ],
+        [
+          1302,
+          434
+        ],
+        [
+          180,
+          439
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          554
+        ],
+        [
+          1302,
+          548
+        ],
+        [
+          1302,
+          589
+        ],
+        [
+          180,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        393,
+        1302,
+        439
+      ],
+      "text": "một tác, gia quan trong, của dòng vận học Phát giáo Việt-nam thời này.",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0018_viet_009",
+      "bbox": [
+        [
+          272,
+          450
+        ],
+        [
+          1405,
+          447
+        ],
+        [
+          1405,
+          488
+        ],
+        [
+          272,
+          491
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          605
+        ],
+        [
+          1405,
+          602
+        ],
+        [
+          1405,
+          643
+        ],
+        [
+          272,
+          646
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        447,
+        1405,
+        491
+      ],
+      "text": "Nhìn chụng lại, Trần Cảnh là một, ông vua có năng lực, tính tỉnh khoan",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0018_viet_010",
+      "bbox": [
+        [
+          178,
+          492
+        ],
+        [
+          1404,
+          489
+        ],
+        [
+          1404,
+          526
+        ],
+        [
+          178,
+          529
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          647
+        ],
+        [
+          1404,
+          644
+        ],
+        [
+          1404,
+          681
+        ],
+        [
+          178,
+          684
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        489,
+        1404,
+        529
+      ],
+      "text": "hậu, có tài thơ văn (?) và có nhiều đóng góp cho đất nước. Ủng nhường ngòi",
+      "confidence": 0.9136
+    },
+    {
+      "line_id": "0018_viet_011",
+      "bbox": [
+        [
+          178,
+          530
+        ],
+        [
+          1403,
+          526
+        ],
+        [
+          1403,
+          566
+        ],
+        [
+          178,
+          570
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          685
+        ],
+        [
+          1403,
+          681
+        ],
+        [
+          1403,
+          721
+        ],
+        [
+          178,
+          725
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        526,
+        1403,
+        570
+      ],
+      "text": "cho con, lên làm Thái thượng hoàng năm 1258 và mất ngày 1 tháng Từ năm",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0018_viet_012",
+      "bbox": [
+        [
+          179,
+          565
+        ],
+        [
+          957,
+          564
+        ],
+        [
+          957,
+          608
+        ],
+        [
+          179,
+          609
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          720
+        ],
+        [
+          957,
+          719
+        ],
+        [
+          957,
+          763
+        ],
+        [
+          179,
+          764
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        564,
+        957,
+        609
+      ],
+      "text": "Đinh sửu, niên hiệu bảo phù thir năm (1-v-1277).",
+      "confidence": 0.8508
+    },
+    {
+      "line_id": "0018_viet_013",
+      "bbox": [
+        [
+          271,
+          621
+        ],
+        [
+          1405,
+          618
+        ],
+        [
+          1405,
+          660
+        ],
+        [
+          271,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          776
+        ],
+        [
+          1405,
+          773
+        ],
+        [
+          1405,
+          815
+        ],
+        [
+          271,
+          818
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        618,
+        1405,
+        663
+      ],
+      "text": "Tác phầm - Trần (ánh sáng tác nhiều, nhưng hiện chỉ còn hai bài thơ,",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0018_viet_014",
+      "bbox": [
+        [
+          180,
+          665
+        ],
+        [
+          1406,
+          660
+        ],
+        [
+          1406,
+          698
+        ],
+        [
+          180,
+          703
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          820
+        ],
+        [
+          1406,
+          815
+        ],
+        [
+          1406,
+          853
+        ],
+        [
+          180,
+          858
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        660,
+        1406,
+        703
+      ],
+      "text": "hai bài, văn, một đề tựa cuốn kinh kim cương, một đề tựa tác phầm Thiên",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0018_viet_015",
+      "bbox": [
+        [
+          180,
+          703
+        ],
+        [
+          1406,
+          699
+        ],
+        [
+          1406,
+          739
+        ],
+        [
+          180,
+          743
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          858
+        ],
+        [
+          1406,
+          854
+        ],
+        [
+          1406,
+          894
+        ],
+        [
+          180,
+          898
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        699,
+        1406,
+        743
+      ],
+      "text": "tông chỉ nam ca (') của ông-và.một tác phầní (tứ làu vẫn nổi tiếng là Khóa hư",
+      "confidence": 0.8465
+    },
+    {
+      "line_id": "0018_viet_016",
+      "bbox": [
+        [
+          731,
+          737
+        ],
+        [
+          1408,
+          737
+        ],
+        [
+          1408,
+          785
+        ],
+        [
+          731,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          892
+        ],
+        [
+          1408,
+          892
+        ],
+        [
+          1408,
+          940
+        ],
+        [
+          731,
+          940
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        737,
+        1408,
+        785
+      ],
+      "text": "ngì tôi sẽ lần lượt trình bày tác phẩm của nha",
+      "confidence": 0.8421
+    },
+    {
+      "line_id": "0018_viet_017",
+      "bbox": [
+        [
+          183,
+          785
+        ],
+        [
+          533,
+          785
+        ],
+        [
+          533,
+          822
+        ],
+        [
+          183,
+          822
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          940
+        ],
+        [
+          533,
+          940
+        ],
+        [
+          533,
+          977
+        ],
+        [
+          183,
+          977
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        785,
+        533,
+        822
+      ],
+      "text": "ông theo trình tư này",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0018_viet_018",
+      "bbox": [
+        [
+          731,
+          1070
+        ],
+        [
+          1433,
+          1070
+        ],
+        [
+          1433,
+          1142
+        ],
+        [
+          731,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1225
+        ],
+        [
+          1433,
+          1225
+        ],
+        [
+          1433,
+          1297
+        ],
+        [
+          731,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1070,
+        1433,
+        1142
+      ],
+      "text": "Nhiều bịnh Nam nhai thống 1 - 1 - 1 - 1976",
+      "confidence": 0.6151
+    },
+    {
+      "line_id": "0018_viet_019",
+      "bbox": [
+        [
+          230,
+          1123
+        ],
+        [
+          1411,
+          1120
+        ],
+        [
+          1411,
+          1160
+        ],
+        [
+          230,
+          1164
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1278
+        ],
+        [
+          1411,
+          1275
+        ],
+        [
+          1411,
+          1315
+        ],
+        [
+          230,
+          1319
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1120,
+        1411,
+        1164
+      ],
+      "text": "phi thiên trường đời TS là Hải-thanh 4 - 4 - đến Trần Thành Tông mới đôi là",
+      "confidence": 0.81
+    },
+    {
+      "line_id": "0018_viet_020",
+      "bbox": [
+        [
+          731,
+          1156
+        ],
+        [
+          1409,
+          1156
+        ],
+        [
+          1409,
+          1199
+        ],
+        [
+          731,
+          1199
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1311
+        ],
+        [
+          1409,
+          1311
+        ],
+        [
+          1409,
+          1354
+        ],
+        [
+          731,
+          1354
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1156,
+        1409,
+        1199
+      ],
+      "text": "Nam chân tập - Giao-thủy Asố K Mỹ-lộc",
+      "confidence": 0.7974
+    },
+    {
+      "line_id": "0018_viet_021",
+      "bbox": [
+        [
+          244,
+          1191
+        ],
+        [
+          1409,
+          1192
+        ],
+        [
+          1409,
+          1229
+        ],
+        [
+          244,
+          1228
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1346
+        ],
+        [
+          1409,
+          1347
+        ],
+        [
+          1409,
+          1384
+        ],
+        [
+          244,
+          1383
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1191,
+        1409,
+        1229
+      ],
+      "text": "- Thượng nguyên: - V5, ẢNCL thì chép mương Tức-mặc lạ tên của của",
+      "confidence": 0.8054
+    },
+    {
+      "line_id": "0018_viet_022",
+      "bbox": [
+        [
+          232,
+          1227
+        ],
+        [
+          1408,
+          1225
+        ],
+        [
+          1408,
+          1258
+        ],
+        [
+          232,
+          1260
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1382
+        ],
+        [
+          1408,
+          1380
+        ],
+        [
+          1408,
+          1413
+        ],
+        [
+          232,
+          1415
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1225,
+        1408,
+        1260
+      ],
+      "text": "phí thiện-trường, nơi phát tích của, họ Trần, Sau khi nhà Trần lấy được ngôi vúa",
+      "confidence": 0.8764
+    },
+    {
+      "line_id": "0018_viet_023",
+      "bbox": [
+        [
+          231,
+          1259
+        ],
+        [
+          1408,
+          1256
+        ],
+        [
+          1408,
+          1289
+        ],
+        [
+          231,
+          1292
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1414
+        ],
+        [
+          1408,
+          1411
+        ],
+        [
+          1408,
+          1444
+        ],
+        [
+          231,
+          1447
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1256,
+        1408,
+        1292
+      ],
+      "text": "xây một hành, cũng ở đó, đồi làm phú, xà, hạng năm về thăm đề tô y không quên gốc",
+      "confidence": 0.8835
+    },
+    {
+      "line_id": "0018_viet_024",
+      "bbox": [
+        [
+          232,
+          1292
+        ],
+        [
+          1409,
+          1287
+        ],
+        [
+          1409,
+          1321
+        ],
+        [
+          233,
+          1326
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1447
+        ],
+        [
+          1409,
+          1442
+        ],
+        [
+          1409,
+          1476
+        ],
+        [
+          233,
+          1481
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1287,
+        1409,
+        1326
+      ],
+      "text": "Bắc. Ngày, nay, còn xã Tực-mắc thuộc huyện Mỹ Jộc, tỉnh Hà-nam-ninh, nơi đây còn",
+      "confidence": 0.859
+    },
+    {
+      "line_id": "0018_viet_025",
+      "bbox": [
+        [
+          235,
+          1326
+        ],
+        [
+          611,
+          1324
+        ],
+        [
+          611,
+          1354
+        ],
+        [
+          236,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1481
+        ],
+        [
+          611,
+          1479
+        ],
+        [
+          611,
+          1509
+        ],
+        [
+          236,
+          1511
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1324,
+        611,
+        1356
+      ],
+      "text": "nhiều di tích của nhà trần",
+      "confidence": 0.8927
+    },
+    {
+      "line_id": "0018_viet_026",
+      "bbox": [
+        [
+          183,
+          1370
+        ],
+        [
+          920,
+          1367
+        ],
+        [
+          920,
+          1405
+        ],
+        [
+          183,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1525
+        ],
+        [
+          920,
+          1522
+        ],
+        [
+          920,
+          1560
+        ],
+        [
+          183,
+          1564
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1367,
+        920,
+        1409
+      ],
+      "text": "(2) Theo Thiên lông chị nam, lực. so.3, của Trần Canh",
+      "confidence": 0.838
+    },
+    {
+      "line_id": "0018_viet_027",
+      "bbox": [
+        [
+          731,
+          1414
+        ],
+        [
+          1411,
+          1414
+        ],
+        [
+          1411,
+          1457
+        ],
+        [
+          731,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1569
+        ],
+        [
+          1411,
+          1569
+        ],
+        [
+          1411,
+          1612
+        ],
+        [
+          731,
+          1612
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1414,
+        1411,
+        1457
+      ],
+      "text": "Chị lễ xã sẽ, khên là, vi thanh nhà đang dọc",
+      "confidence": 0.725
+    },
+    {
+      "line_id": "0018_viet_028",
+      "bbox": [
+        [
+          234,
+          1454
+        ],
+        [
+          379,
+          1451
+        ],
+        [
+          380,
+          1487
+        ],
+        [
+          235,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1609
+        ],
+        [
+          379,
+          1606
+        ],
+        [
+          380,
+          1642
+        ],
+        [
+          235,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1451,
+        380,
+        1489
+      ],
+      "text": "(LTHCLC)",
+      "confidence": 0.8428
+    },
+    {
+      "line_id": "0018_viet_029",
+      "bbox": [
+        [
+          180,
+          1500
+        ],
+        [
+          1412,
+          1497
+        ],
+        [
+          1412,
+          1534
+        ],
+        [
+          180,
+          1537
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1655
+        ],
+        [
+          1412,
+          1652
+        ],
+        [
+          1412,
+          1689
+        ],
+        [
+          180,
+          1692
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1497,
+        1412,
+        1537
+      ],
+      "text": "(4) Hải bài văn này cũng được âm gộp vào Khóa hử: lực:...Việc xác định: lại đúng diện, mạo bộ",
+      "confidence": 0.8657
+    },
+    {
+      "line_id": "0018_viet_030",
+      "bbox": [
+        [
+          233,
+          1536
+        ],
+        [
+          1408,
+          1534
+        ],
+        [
+          1408,
+          1565
+        ],
+        [
+          233,
+          1567
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1691
+        ],
+        [
+          1408,
+          1689
+        ],
+        [
+          1408,
+          1720
+        ],
+        [
+          233,
+          1722
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1534,
+        1408,
+        1567
+      ],
+      "text": "sách này là công việc khó khăn, còn cần sự góp sức lầu dài.của khoa, văn bản học",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0018_viet_031",
+      "bbox": [
+        [
+          232,
+          1567
+        ],
+        [
+          1411,
+          1565
+        ],
+        [
+          1411,
+          1598
+        ],
+        [
+          232,
+          1600
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1722
+        ],
+        [
+          1411,
+          1720
+        ],
+        [
+          1411,
+          1753
+        ],
+        [
+          232,
+          1755
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1565,
+        1411,
+        1600
+      ],
+      "text": "Bước đầu, chúng tòi chỉ tạm tách một số phần tương đổi chắc chản không phải là của",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0018_viet_032",
+      "bbox": [
+        [
+          234,
+          1598
+        ],
+        [
+          1411,
+          1598
+        ],
+        [
+          1411,
+          1631
+        ],
+        [
+          234,
+          1631
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1753
+        ],
+        [
+          1411,
+          1753
+        ],
+        [
+          1411,
+          1786
+        ],
+        [
+          234,
+          1786
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1598,
+        1411,
+        1631
+      ],
+      "text": "Trần Thái Tông, hoặc đề ra ngoài KHL thi hợp: lý hơn, như: trình, bày trong tập sách",
+      "confidence": 0.8887
+    },
+    {
+      "line_id": "0018_viet_033",
+      "bbox": [
+        [
+          234,
+          1631
+        ],
+        [
+          1410,
+          1628
+        ],
+        [
+          1410,
+          1662
+        ],
+        [
+          234,
+          1666
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1786
+        ],
+        [
+          1410,
+          1783
+        ],
+        [
+          1410,
+          1817
+        ],
+        [
+          234,
+          1821
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1628,
+        1410,
+        1666
+      ],
+      "text": "này: Bạn, đọc có thể tim hiếu cơ sở lý luận của cách trịnh bày, đó qua, phần khảo luận",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0018_viet_034",
+      "bbox": [
+        [
+          235,
+          1662
+        ],
+        [
+          1368,
+          1661
+        ],
+        [
+          1368,
+          1699
+        ],
+        [
+          235,
+          1700
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1817
+        ],
+        [
+          1368,
+          1816
+        ],
+        [
+          1368,
+          1854
+        ],
+        [
+          235,
+          1855
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1661,
+        1368,
+        1700
+      ],
+      "text": "văn bận trong Thơ văn Lự 7 Trần tập 1 xà phần tiêu dân đầu KHI, in tiếp đượi đây",
+      "confidence": 0.845
+    },
+    {
+      "line_id": "0018_viet_035",
+      "bbox": [
+        [
+          184,
+          1710
+        ],
+        [
+          1411,
+          1708
+        ],
+        [
+          1411,
+          1746
+        ],
+        [
+          184,
+          1748
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1865
+        ],
+        [
+          1411,
+          1863
+        ],
+        [
+          1411,
+          1901
+        ],
+        [
+          184,
+          1903
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1708,
+        1411,
+        1748
+      ],
+      "text": "(5) Về tác giá Khòa hư: lục; Thiều Chửu trong hàn dịch, đáng trên báo, Đuốc tuệ cho là của",
+      "confidence": 0.8762
+    },
+    {
+      "line_id": "0018_viet_036",
+      "bbox": [
+        [
+          234,
+          1747
+        ],
+        [
+          1410,
+          1745
+        ],
+        [
+          1410,
+          1778
+        ],
+        [
+          234,
+          1780
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1902
+        ],
+        [
+          1410,
+          1900
+        ],
+        [
+          1410,
+          1933
+        ],
+        [
+          234,
+          1935
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1745,
+        1410,
+        1780
+      ],
+      "text": "Trần Nhân Tòng, Gần, đây một vài, nhà nghiên, cứu, như Trần, Văn Giáp, trọng Lược",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0018_viet_037",
+      "bbox": [
+        [
+          240,
+          1781
+        ],
+        [
+          1412,
+          1779
+        ],
+        [
+          1412,
+          1813
+        ],
+        [
+          241,
+          1815
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1936
+        ],
+        [
+          1412,
+          1934
+        ],
+        [
+          1412,
+          1968
+        ],
+        [
+          241,
+          1970
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1779,
+        1412,
+        1815
+      ],
+      "text": "truyền các lác gia Việt nam, tập 1, cũng có v kiến ây. Tuy vậy chúng tôi thấy những ý",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0018_viet_038",
+      "bbox": [
+        [
+          241,
+          1815
+        ],
+        [
+          1413,
+          1814
+        ],
+        [
+          1413,
+          1845
+        ],
+        [
+          241,
+          1846
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1970
+        ],
+        [
+          1413,
+          1969
+        ],
+        [
+          1413,
+          2000
+        ],
+        [
+          241,
+          2001
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1814,
+        1413,
+        1846
+      ],
+      "text": "kiến trên vẫn chưa dù luận cứ chắc chắn, Hơn nữa, xét về khuynh hương tứ tường",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0018_viet_039",
+      "bbox": [
+        [
+          235,
+          1846
+        ],
+        [
+          1413,
+          1845
+        ],
+        [
+          1413,
+          1879
+        ],
+        [
+          235,
+          1880
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          2001
+        ],
+        [
+          1413,
+          2000
+        ],
+        [
+          1413,
+          2034
+        ],
+        [
+          235,
+          2035
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1845,
+        1413,
+        1880
+      ],
+      "text": "thì khoa hự lực gàn gũi với Tràn Thái Tông liơn, vì vậy hấy theo các sách vở cũ. Xin",
+      "confidence": 0.889
+    },
+    {
+      "line_id": "0018_viet_040",
+      "bbox": [
+        [
+          234,
+          1881
+        ],
+        [
+          1032,
+          1879
+        ],
+        [
+          1033,
+          1913
+        ],
+        [
+          234,
+          1915
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          2036
+        ],
+        [
+          1032,
+          2034
+        ],
+        [
+          1033,
+          2068
+        ],
+        [
+          234,
+          2070
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1879,
+        1033,
+        1915
+      ],
+      "text": "xem thêm phân khảo luận trong Thơ văn Lý ? Trần, tập 1.",
+      "confidence": 0.898
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "Trong những năm làm vua, mặc dầu có sự kêm cặp, dạy dồ sát sao của",
+      "Trần Thủ Độ, Trần Cảnh vẫn tỏ ra một ông vua có bản lĩnh. Ông từng già",
+      "làm lải huôn đi thuyền nhẹ vào đất Tổng đế xem xét tình hình nước làng giêng.",
+      "Ông cũng là người bam học, Trong không khi tư tưởng chung của thời đại,",
+      "ông đã nghiên cứu cả Nho và Phật, Có lần hối rồi vì chuyện gia đình ông bỏ",
+      "ngôi vua tròu, đều núi Yên-tit 5. 7 mong tìm sự yên tĩnh cho tàm hồn trong",
+      "giáo lý nhà Phải, nhưng cuối cùng, vẫn không thực hiện được ý định (?). Di",
+      "vậy, ông văn đề nhiều thời gian lim hiếu kinh điền Phật giáo và trở thành",
+      "một tác, gia quan trong, của dòng vận học Phát giáo Việt-nam thời này.",
+      "Nhìn chụng lại, Trần Cảnh là một, ông vua có năng lực, tính tỉnh khoan",
+      "hậu, có tài thơ văn (?) và có nhiều đóng góp cho đất nước. Ủng nhường ngòi",
+      "cho con, lên làm Thái thượng hoàng năm 1258 và mất ngày 1 tháng Từ năm",
+      "Đinh sửu, niên hiệu bảo phù thir năm (1-v-1277).",
+      "Tác phầm - Trần (ánh sáng tác nhiều, nhưng hiện chỉ còn hai bài thơ,",
+      "hai bài, văn, một đề tựa cuốn kinh kim cương, một đề tựa tác phầm Thiên",
+      "tông chỉ nam ca (') của ông-và.một tác phầní (tứ làu vẫn nổi tiếng là Khóa hư",
+      "ngì tôi sẽ lần lượt trình bày tác phẩm của nha",
+      "ông theo trình tư này",
+      "Nhiều bịnh Nam nhai thống 1 - 1 - 1 - 1976",
+      "phi thiên trường đời TS là Hải-thanh 4 - 4 - đến Trần Thành Tông mới đôi là",
+      "Nam chân tập - Giao-thủy Asố K Mỹ-lộc",
+      "- Thượng nguyên: - V5, ẢNCL thì chép mương Tức-mặc lạ tên của của",
+      "phí thiện-trường, nơi phát tích của, họ Trần, Sau khi nhà Trần lấy được ngôi vúa",
+      "xây một hành, cũng ở đó, đồi làm phú, xà, hạng năm về thăm đề tô y không quên gốc",
+      "Bắc. Ngày, nay, còn xã Tực-mắc thuộc huyện Mỹ Jộc, tỉnh Hà-nam-ninh, nơi đây còn",
+      "nhiều di tích của nhà trần",
+      "(2) Theo Thiên lông chị nam, lực. so.3, của Trần Canh",
+      "Chị lễ xã sẽ, khên là, vi thanh nhà đang dọc",
+      "(LTHCLC)",
+      "(4) Hải bài văn này cũng được âm gộp vào Khóa hử: lực:...Việc xác định: lại đúng diện, mạo bộ",
+      "sách này là công việc khó khăn, còn cần sự góp sức lầu dài.của khoa, văn bản học",
+      "Bước đầu, chúng tòi chỉ tạm tách một số phần tương đổi chắc chản không phải là của",
+      "Trần Thái Tông, hoặc đề ra ngoài KHL thi hợp: lý hơn, như: trình, bày trong tập sách",
+      "này: Bạn, đọc có thể tim hiếu cơ sở lý luận của cách trịnh bày, đó qua, phần khảo luận",
+      "văn bận trong Thơ văn Lự 7 Trần tập 1 xà phần tiêu dân đầu KHI, in tiếp đượi đây",
+      "(5) Về tác giá Khòa hư: lục; Thiều Chửu trong hàn dịch, đáng trên báo, Đuốc tuệ cho là của",
+      "Trần Nhân Tòng, Gần, đây một vài, nhà nghiên, cứu, như Trần, Văn Giáp, trọng Lược",
+      "truyền các lác gia Việt nam, tập 1, cũng có v kiến ây. Tuy vậy chúng tôi thấy những ý",
+      "kiến trên vẫn chưa dù luận cứ chắc chắn, Hơn nữa, xét về khuynh hương tứ tường",
+      "thì khoa hự lực gàn gũi với Tràn Thái Tông liơn, vì vậy hấy theo các sách vở cũ. Xin",
+      "xem thêm phân khảo luận trong Thơ văn Lý ? Trần, tập 1."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

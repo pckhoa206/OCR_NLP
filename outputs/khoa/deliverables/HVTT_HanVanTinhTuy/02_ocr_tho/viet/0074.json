@@ -1,0 +1,1081 @@
+{
+  "page_id": "0074",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 74,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0074_viet_000",
+      "bbox": [
+        [
+          193,
+          28
+        ],
+        [
+          234,
+          28
+        ],
+        [
+          234,
+          62
+        ],
+        [
+          193,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          149
+        ],
+        [
+          234,
+          149
+        ],
+        [
+          234,
+          183
+        ],
+        [
+          193,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        28,
+        234,
+        62
+      ],
+      "text": "68",
+      "confidence": 0.9441
+    },
+    {
+      "line_id": "0074_viet_001",
+      "bbox": [
+        [
+          666,
+          27
+        ],
+        [
+          990,
+          27
+        ],
+        [
+          990,
+          61
+        ],
+        [
+          666,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          148
+        ],
+        [
+          990,
+          148
+        ],
+        [
+          990,
+          182
+        ],
+        [
+          666,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        27,
+        990,
+        61
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0074_viet_002",
+      "bbox": [
+        [
+          231,
+          179
+        ],
+        [
+          990,
+          179
+        ],
+        [
+          990,
+          219
+        ],
+        [
+          231,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          300
+        ],
+        [
+          990,
+          300
+        ],
+        [
+          990,
+          340
+        ],
+        [
+          231,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        179,
+        990,
+        219
+      ],
+      "text": "Khuất Nguyên ký phóng, tam niên bãt đắc phục",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0074_viet_003",
+      "bbox": [
+        [
+          195,
+          223
+        ],
+        [
+          279,
+          223
+        ],
+        [
+          279,
+          262
+        ],
+        [
+          195,
+          262
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          344
+        ],
+        [
+          279,
+          344
+        ],
+        [
+          279,
+          383
+        ],
+        [
+          195,
+          383
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        223,
+        279,
+        262
+      ],
+      "text": "kiẽn.",
+      "confidence": 0.773
+    },
+    {
+      "line_id": "0074_viet_004",
+      "bbox": [
+        [
+          252,
+          265
+        ],
+        [
+          989,
+          267
+        ],
+        [
+          989,
+          307
+        ],
+        [
+          252,
+          305
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          386
+        ],
+        [
+          989,
+          388
+        ],
+        [
+          989,
+          428
+        ],
+        [
+          252,
+          426
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        265,
+        989,
+        307
+      ],
+      "text": "Khuất-Nguyên bị đuổi, 3 năm không được thầy vua",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0074_viet_005",
+      "bbox": [
+        [
+          233,
+          377
+        ],
+        [
+          903,
+          377
+        ],
+        [
+          903,
+          414
+        ],
+        [
+          233,
+          414
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          498
+        ],
+        [
+          903,
+          498
+        ],
+        [
+          903,
+          535
+        ],
+        [
+          233,
+          535
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        377,
+        903,
+        414
+      ],
+      "text": "Kiệt trí tận trung, nhi tẽ chướng ư sàm",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0074_viet_006",
+      "bbox": [
+        [
+          252,
+          418
+        ],
+        [
+          960,
+          419
+        ],
+        [
+          960,
+          460
+        ],
+        [
+          252,
+          459
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          539
+        ],
+        [
+          960,
+          540
+        ],
+        [
+          960,
+          581
+        ],
+        [
+          252,
+          580
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        418,
+        960,
+        460
+      ],
+      "text": "Hết sức trung thành nhưng bị kẻ sàm-báng hại",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0074_viet_007",
+      "bbox": [
+        [
+          231,
+          526
+        ],
+        [
+          803,
+          526
+        ],
+        [
+          803,
+          566
+        ],
+        [
+          231,
+          566
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          647
+        ],
+        [
+          803,
+          647
+        ],
+        [
+          803,
+          687
+        ],
+        [
+          231,
+          687
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        526,
+        803,
+        566
+      ],
+      "text": "Tâm phiền ý loạn, bãt tri sở tùng",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0074_viet_008",
+      "bbox": [
+        [
+          254,
+          570
+        ],
+        [
+          828,
+          570
+        ],
+        [
+          828,
+          611
+        ],
+        [
+          254,
+          611
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          691
+        ],
+        [
+          828,
+          691
+        ],
+        [
+          828,
+          732
+        ],
+        [
+          254,
+          732
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        570,
+        828,
+        611
+      ],
+      "text": "Lòng buồn ý loạn, không biết theo đâu",
+      "confidence": 0.9234
+    },
+    {
+      "line_id": "0074_viet_009",
+      "bbox": [
+        [
+          229,
+          677
+        ],
+        [
+          991,
+          677
+        ],
+        [
+          991,
+          717
+        ],
+        [
+          229,
+          717
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          798
+        ],
+        [
+          991,
+          798
+        ],
+        [
+          991,
+          838
+        ],
+        [
+          229,
+          838
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        677,
+        991,
+        717
+      ],
+      "text": "Nãi vãng kiên thái bốc trịnh thiềm-Doãn",
+      "confidence": 0.8356
+    },
+    {
+      "line_id": "0074_viet_010",
+      "bbox": [
+        [
+          194,
+          716
+        ],
+        [
+          284,
+          719
+        ],
+        [
+          283,
+          763
+        ],
+        [
+          192,
+          760
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          837
+        ],
+        [
+          284,
+          840
+        ],
+        [
+          283,
+          884
+        ],
+        [
+          192,
+          881
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        716,
+        284,
+        763
+      ],
+      "text": "viêt:",
+      "confidence": 0.7311
+    },
+    {
+      "line_id": "0074_viet_011",
+      "bbox": [
+        [
+          253,
+          765
+        ],
+        [
+          943,
+          763
+        ],
+        [
+          943,
+          804
+        ],
+        [
+          253,
+          807
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          886
+        ],
+        [
+          943,
+          884
+        ],
+        [
+          943,
+          925
+        ],
+        [
+          253,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        763,
+        943,
+        807
+      ],
+      "text": "Bèn đến gặp Thái-bồc Trịnh-Thiểm-Doãn, nói:",
+      "confidence": 0.8837
+    },
+    {
+      "line_id": "0074_viet_012",
+      "bbox": [
+        [
+          231,
+          874
+        ],
+        [
+          991,
+          876
+        ],
+        [
+          991,
+          913
+        ],
+        [
+          231,
+          911
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          995
+        ],
+        [
+          991,
+          997
+        ],
+        [
+          991,
+          1034
+        ],
+        [
+          231,
+          1032
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        874,
+        991,
+        913
+      ],
+      "text": "- Dư hữu sở nghi, nguyện nhân tiên sinh",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0074_viet_013",
+      "bbox": [
+        [
+          197,
+          919
+        ],
+        [
+          360,
+          919
+        ],
+        [
+          360,
+          961
+        ],
+        [
+          197,
+          961
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1040
+        ],
+        [
+          360,
+          1040
+        ],
+        [
+          360,
+          1082
+        ],
+        [
+          197,
+          1082
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        919,
+        360,
+        961
+      ],
+      "text": "quyẽt chi.",
+      "confidence": 0.8701
+    },
+    {
+      "line_id": "0074_viet_014",
+      "bbox": [
+        [
+          253,
+          962
+        ],
+        [
+          871,
+          962
+        ],
+        [
+          871,
+          1002
+        ],
+        [
+          253,
+          1002
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1083
+        ],
+        [
+          871,
+          1083
+        ],
+        [
+          871,
+          1123
+        ],
+        [
+          253,
+          1123
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        962,
+        871,
+        1002
+      ],
+      "text": "Tôi có chỗ ngờ, xin thấy quyết đoán cho",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0074_viet_015",
+      "bbox": [
+        [
+          230,
+          1070
+        ],
+        [
+          907,
+          1073
+        ],
+        [
+          907,
+          1110
+        ],
+        [
+          230,
+          1107
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1191
+        ],
+        [
+          907,
+          1194
+        ],
+        [
+          907,
+          1231
+        ],
+        [
+          230,
+          1228
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1070,
+        907,
+        1110
+      ],
+      "text": "Thiêm-Doãn nãi đoan sách phát quy viết:",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0074_viet_016",
+      "bbox": [
+        [
+          253,
+          1112
+        ],
+        [
+          917,
+          1116
+        ],
+        [
+          917,
+          1156
+        ],
+        [
+          253,
+          1152
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1233
+        ],
+        [
+          917,
+          1237
+        ],
+        [
+          917,
+          1277
+        ],
+        [
+          253,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1112,
+        917,
+        1156
+      ],
+      "text": "Thiểm-Doãn bèn giở thẻ ra đề gieo quẻ, hỏi:",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0074_viet_017",
+      "bbox": [
+        [
+          231,
+          1220
+        ],
+        [
+          743,
+          1222
+        ],
+        [
+          742,
+          1263
+        ],
+        [
+          231,
+          1260
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1341
+        ],
+        [
+          743,
+          1343
+        ],
+        [
+          742,
+          1384
+        ],
+        [
+          231,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1220,
+        743,
+        1263
+      ],
+      "text": "- Quân tương hà dĩ giáo chi ?",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0074_viet_018",
+      "bbox": [
+        [
+          256,
+          1263
+        ],
+        [
+          678,
+          1267
+        ],
+        [
+          678,
+          1308
+        ],
+        [
+          256,
+          1305
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          1384
+        ],
+        [
+          678,
+          1388
+        ],
+        [
+          678,
+          1429
+        ],
+        [
+          256,
+          1426
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        1263,
+        678,
+        1308
+      ],
+      "text": "Nhà thày muôn hỏi điều gì ?",
+      "confidence": 0.9014
+    },
+    {
+      "line_id": "0074_viet_019",
+      "bbox": [
+        [
+          234,
+          1369
+        ],
+        [
+          566,
+          1371
+        ],
+        [
+          566,
+          1409
+        ],
+        [
+          234,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1490
+        ],
+        [
+          566,
+          1492
+        ],
+        [
+          566,
+          1530
+        ],
+        [
+          234,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1369,
+        566,
+        1409
+      ],
+      "text": "Khuất Nguyên viết:",
+      "confidence": 0.8565
+    },
+    {
+      "line_id": "0074_viet_020",
+      "bbox": [
+        [
+          260,
+          1415
+        ],
+        [
+          542,
+          1415
+        ],
+        [
+          542,
+          1452
+        ],
+        [
+          260,
+          1452
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1536
+        ],
+        [
+          542,
+          1536
+        ],
+        [
+          542,
+          1573
+        ],
+        [
+          260,
+          1573
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        1415,
+        542,
+        1452
+      ],
+      "text": "Khuất Nguyên nói",
+      "confidence": 0.9095
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Khuất Nguyên ký phóng, tam niên bãt đắc phục",
+      "Kiệt trí tận trung, nhi tẽ chướng ư sàm",
+      "Tâm phiền ý loạn, bãt tri sở tùng",
+      "Nãi vãng kiên thái bốc trịnh thiềm-Doãn",
+      "- Dư hữu sở nghi, nguyện nhân tiên sinh",
+      "Thiêm-Doãn nãi đoan sách phát quy viết:",
+      "- Quân tương hà dĩ giáo chi ?",
+      "Khuất Nguyên viết:"
+    ],
+    "dich_nghia_lines": [
+      "kiẽn. Khuất-Nguyên bị đuổi, 3 năm không được thầy vua",
+      "Hết sức trung thành nhưng bị kẻ sàm-báng hại",
+      "Lòng buồn ý loạn, không biết theo đâu",
+      "viêt: Bèn đến gặp Thái-bồc Trịnh-Thiểm-Doãn, nói:",
+      "quyẽt chi. Tôi có chỗ ngờ, xin thấy quyết đoán cho",
+      "Thiểm-Doãn bèn giở thẻ ra đề gieo quẻ, hỏi:",
+      "Nhà thày muôn hỏi điều gì ?",
+      "Khuất Nguyên nói"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "屈原放三年不得復見",
+        "phien_am": "Khuất Nguyên ký phóng, tam niên bãt đắc phục",
+        "dich_nghia_gloss": "kiẽn. Khuất-Nguyên bị đuổi, 3 năm không được thầy vua"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "竭智盡忠而蔽障於說",
+        "phien_am": "Kiệt trí tận trung, nhi tẽ chướng ư sàm",
+        "dich_nghia_gloss": "Hết sức trung thành nhưng bị kẻ sàm-báng hại"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "心煩意亂不知所從",
+        "phien_am": "Tâm phiền ý loạn, bãt tri sở tùng",
+        "dich_nghia_gloss": "Lòng buồn ý loạn, không biết theo đâu"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "乃往見太卜鄭詹尹曰",
+        "phien_am": "Nãi vãng kiên thái bốc trịnh thiềm-Doãn",
+        "dich_nghia_gloss": "viêt: Bèn đến gặp Thái-bồc Trịnh-Thiểm-Doãn, nói:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "余有所疑願因先生决之",
+        "phien_am": "- Dư hữu sở nghi, nguyện nhân tiên sinh",
+        "dich_nghia_gloss": "quyẽt chi. Tôi có chỗ ngờ, xin thấy quyết đoán cho"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "詹尹乃端筴拂龜曰",
+        "phien_am": "Thiêm-Doãn nãi đoan sách phát quy viết:",
+        "dich_nghia_gloss": "Thiểm-Doãn bèn giở thẻ ra đề gieo quẻ, hỏi:"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "君將何以教之",
+        "phien_am": "- Quân tương hà dĩ giáo chi ?",
+        "dich_nghia_gloss": "Nhà thày muôn hỏi điều gì ?"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "屈原曰",
+        "phien_am": "Khuất Nguyên viết:",
+        "dich_nghia_gloss": "Khuất Nguyên nói"
+      }
+    ]
+  }
+}

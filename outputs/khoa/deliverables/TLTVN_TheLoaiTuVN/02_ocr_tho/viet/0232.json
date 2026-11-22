@@ -1,0 +1,651 @@
+{
+  "page_id": "0232",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 232,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0232_viet_000",
+      "bbox": [
+        [
+          137,
+          1
+        ],
+        [
+          493,
+          3
+        ],
+        [
+          493,
+          44
+        ],
+        [
+          137,
+          42
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          116
+        ],
+        [
+          493,
+          118
+        ],
+        [
+          493,
+          159
+        ],
+        [
+          137,
+          157
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        1,
+        493,
+        44
+      ],
+      "text": "Nhàn nhân ấy quý nhân",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0232_viet_001",
+      "bbox": [
+        [
+          142,
+          689
+        ],
+        [
+          303,
+          689
+        ],
+        [
+          303,
+          724
+        ],
+        [
+          142,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          804
+        ],
+        [
+          303,
+          804
+        ],
+        [
+          303,
+          839
+        ],
+        [
+          142,
+          839
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        689,
+        303,
+        724
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0232_viet_002",
+      "bbox": [
+        [
+          142,
+          732
+        ],
+        [
+          500,
+          732
+        ],
+        [
+          500,
+          769
+        ],
+        [
+          142,
+          769
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          847
+        ],
+        [
+          500,
+          847
+        ],
+        [
+          500,
+          884
+        ],
+        [
+          142,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        732,
+        500,
+        769
+      ],
+      "text": "ĐĂNG VĂN BÚT SƠN",
+      "confidence": 0.9355
+    },
+    {
+      "line_id": "0232_viet_003",
+      "bbox": [
+        [
+          143,
+          785
+        ],
+        [
+          431,
+          783
+        ],
+        [
+          431,
+          824
+        ],
+        [
+          143,
+          826
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          900
+        ],
+        [
+          431,
+          898
+        ],
+        [
+          431,
+          939
+        ],
+        [
+          143,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        783,
+        431,
+        826
+      ],
+      "text": "(Tây giang nguyệt)",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0232_viet_004",
+      "bbox": [
+        [
+          143,
+          832
+        ],
+        [
+          578,
+          834
+        ],
+        [
+          578,
+          871
+        ],
+        [
+          143,
+          869
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          947
+        ],
+        [
+          578,
+          949
+        ],
+        [
+          578,
+          986
+        ],
+        [
+          143,
+          984
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        832,
+        578,
+        871
+      ],
+      "text": "Tử tước khâm khảm ngột luật,",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0232_viet_005",
+      "bbox": [
+        [
+          141,
+          877
+        ],
+        [
+          564,
+          879
+        ],
+        [
+          564,
+          920
+        ],
+        [
+          141,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          992
+        ],
+        [
+          564,
+          994
+        ],
+        [
+          564,
+          1035
+        ],
+        [
+          141,
+          1033
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        877,
+        564,
+        920
+      ],
+      "text": "Lục kiều thiến mạn tân phân",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0232_viet_006",
+      "bbox": [
+        [
+          144,
+          930
+        ],
+        [
+          620,
+          930
+        ],
+        [
+          620,
+          967
+        ],
+        [
+          144,
+          967
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          1045
+        ],
+        [
+          620,
+          1045
+        ],
+        [
+          620,
+          1082
+        ],
+        [
+          144,
+          1082
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        930,
+        620,
+        967
+      ],
+      "text": "Lược kinh trạc hoàn lai mị nhân,",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0232_viet_007",
+      "bbox": [
+        [
+          142,
+          977
+        ],
+        [
+          557,
+          975
+        ],
+        [
+          557,
+          1016
+        ],
+        [
+          142,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          1092
+        ],
+        [
+          557,
+          1090
+        ],
+        [
+          557,
+          1131
+        ],
+        [
+          142,
+          1133
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        975,
+        557,
+        1018
+      ],
+      "text": "Đa thiểu long tương báo ẩn",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0232_viet_008",
+      "bbox": [
+        [
+          147,
+          1078
+        ],
+        [
+          538,
+          1078
+        ],
+        [
+          538,
+          1112
+        ],
+        [
+          147,
+          1112
+        ]
+      ],
+      "bbox_original": [
+        [
+          147,
+          1193
+        ],
+        [
+          538,
+          1193
+        ],
+        [
+          538,
+          1227
+        ],
+        [
+          147,
+          1227
+        ]
+      ],
+      "box_xyxy": [
+        147,
+        1078,
+        538,
+        1112
+      ],
+      "text": "Thiên ảnh tam sơn bán lạc,",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0232_viet_009",
+      "bbox": [
+        [
+          144,
+          1124
+        ],
+        [
+          581,
+          1126
+        ],
+        [
+          581,
+          1163
+        ],
+        [
+          144,
+          1161
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          1239
+        ],
+        [
+          581,
+          1241
+        ],
+        [
+          581,
+          1278
+        ],
+        [
+          144,
+          1276
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        1124,
+        581,
+        1163
+      ],
+      "text": "Sa châu nhất thuỷ trung phân",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0232_viet_010",
+      "bbox": [
+        [
+          144,
+          1173
+        ],
+        [
+          617,
+          1173
+        ],
+        [
+          617,
+          1209
+        ],
+        [
+          144,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          1288
+        ],
+        [
+          617,
+          1288
+        ],
+        [
+          617,
+          1324
+        ],
+        [
+          144,
+          1324
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        1173,
+        617,
+        1209
+      ],
+      "text": "Đan thanh bác nhiễm thành văn,",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0232_viet_011",
+      "bbox": [
+        [
+          146,
+          1221
+        ],
+        [
+          524,
+          1219
+        ],
+        [
+          524,
+          1256
+        ],
+        [
+          146,
+          1258
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          1336
+        ],
+        [
+          524,
+          1334
+        ],
+        [
+          524,
+          1371
+        ],
+        [
+          146,
+          1373
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        1219,
+        524,
+        1258
+      ],
+      "text": "Già mạc đôi loa liệt duẩn",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0232_viet_012",
+      "bbox": [
+        [
+          986,
+          1423
+        ],
+        [
+          1055,
+          1423
+        ],
+        [
+          1055,
+          1468
+        ],
+        [
+          986,
+          1468
+        ]
+      ],
+      "bbox_original": [
+        [
+          986,
+          1538
+        ],
+        [
+          1055,
+          1538
+        ],
+        [
+          1055,
+          1583
+        ],
+        [
+          986,
+          1583
+        ]
+      ],
+      "box_xyxy": [
+        986,
+        1423,
+        1055,
+        1468
+      ],
+      "text": "225",
+      "confidence": 0.9291
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Nhàn nhân ấy quý nhân",
+      "ĐĂNG VĂN BÚT SƠN",
+      "(Tây giang nguyệt)",
+      "Tử tước khâm khảm ngột luật,",
+      "Lục kiều thiến mạn tân phân",
+      "Lược kinh trạc hoàn lai mị nhân,",
+      "Đa thiểu long tương báo ẩn",
+      "Thiên ảnh tam sơn bán lạc,",
+      "Sa châu nhất thuỷ trung phân",
+      "Đan thanh bác nhiễm thành văn,",
+      "Già mạc đôi loa liệt duẩn",
+      "225"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

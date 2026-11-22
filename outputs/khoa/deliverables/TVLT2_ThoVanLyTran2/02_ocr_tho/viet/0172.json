@@ -1,0 +1,939 @@
+{
+  "page_id": "0172",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 172,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0172_viet_000",
+      "bbox": [
+        [
+          593,
+          84
+        ],
+        [
+          978,
+          82
+        ],
+        [
+          978,
+          127
+        ],
+        [
+          593,
+          130
+        ]
+      ],
+      "bbox_original": [
+        [
+          593,
+          239
+        ],
+        [
+          978,
+          237
+        ],
+        [
+          978,
+          282
+        ],
+        [
+          593,
+          285
+        ]
+      ],
+      "box_xyxy": [
+        593,
+        82,
+        978,
+        130
+      ],
+      "text": "TRUNG NHẬT THÌ (?)",
+      "confidence": 0.8747
+    },
+    {
+      "line_id": "0172_viet_001",
+      "bbox": [
+        [
+          622,
+          189
+        ],
+        [
+          920,
+          189
+        ],
+        [
+          920,
+          234
+        ],
+        [
+          622,
+          234
+        ]
+      ],
+      "bbox_original": [
+        [
+          622,
+          344
+        ],
+        [
+          920,
+          344
+        ],
+        [
+          920,
+          389
+        ],
+        [
+          622,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        622,
+        189,
+        920,
+        234
+      ],
+      "text": "(THỊ GIỮA TRƯA).",
+      "confidence": 0.8707
+    },
+    {
+      "line_id": "0172_viet_002",
+      "bbox": [
+        [
+          184,
+          1048
+        ],
+        [
+          351,
+          1048
+        ],
+        [
+          351,
+          1083
+        ],
+        [
+          184,
+          1083
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1203
+        ],
+        [
+          351,
+          1203
+        ],
+        [
+          351,
+          1238
+        ],
+        [
+          184,
+          1238
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1048,
+        351,
+        1083
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.8701
+    },
+    {
+      "line_id": "0172_viet_003",
+      "bbox": [
+        [
+          548,
+          1093
+        ],
+        [
+          1046,
+          1095
+        ],
+        [
+          1046,
+          1136
+        ],
+        [
+          548,
+          1134
+        ]
+      ],
+      "bbox_original": [
+        [
+          548,
+          1248
+        ],
+        [
+          1046,
+          1250
+        ],
+        [
+          1046,
+          1291
+        ],
+        [
+          548,
+          1289
+        ]
+      ],
+      "box_xyxy": [
+        548,
+        1093,
+        1046,
+        1136
+      ],
+      "text": "TRUNG NHẬT 1, CHÚC HƯƠNG",
+      "confidence": 0.9014
+    },
+    {
+      "line_id": "0172_viet_004",
+      "bbox": [
+        [
+          279,
+          1173
+        ],
+        [
+          1416,
+          1174
+        ],
+        [
+          1416,
+          1215
+        ],
+        [
+          279,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          1328
+        ],
+        [
+          1416,
+          1329
+        ],
+        [
+          1416,
+          1370
+        ],
+        [
+          279,
+          1369
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        1173,
+        1416,
+        1215
+      ],
+      "text": "Phục đĩ, thái dương phong chiếu, vẫn ? cệnh ly minh, có nhật trú chi",
+      "confidence": 0.875
+    },
+    {
+      "line_id": "0172_viet_005",
+      "bbox": [
+        [
+          184,
+          1216
+        ],
+        [
+          1418,
+          1219
+        ],
+        [
+          1418,
+          1259
+        ],
+        [
+          184,
+          1256
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1371
+        ],
+        [
+          1418,
+          1374
+        ],
+        [
+          1418,
+          1414
+        ],
+        [
+          184,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1216,
+        1418,
+        1259
+      ],
+      "text": "nhia lưu; tức kim tiên nhi ngường khẩu, Tin tương trần ư bảo tọa, hương",
+      "confidence": 0.8736
+    },
+    {
+      "line_id": "0172_viet_006",
+      "bbox": [
+        [
+          187,
+          1263
+        ],
+        [
+          527,
+          1263
+        ],
+        [
+          527,
+          1297
+        ],
+        [
+          187,
+          1297
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1418
+        ],
+        [
+          527,
+          1418
+        ],
+        [
+          527,
+          1452
+        ],
+        [
+          187,
+          1452
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1263,
+        527,
+        1297
+      ],
+      "text": "tiên trụ tr ngọc lỏ",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0172_viet_007",
+      "bbox": [
+        [
+          278,
+          1313
+        ],
+        [
+          1417,
+          1314
+        ],
+        [
+          1417,
+          1352
+        ],
+        [
+          278,
+          1351
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          1468
+        ],
+        [
+          1417,
+          1469
+        ],
+        [
+          1417,
+          1507
+        ],
+        [
+          278,
+          1506
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        1313,
+        1417,
+        1352
+      ],
+      "text": "Thị hương đã, tú dục tiên thiên, phi Bồng-đảo châu trung sản xuất;",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0172_viet_008",
+      "bbox": [
+        [
+          185,
+          1356
+        ],
+        [
+          1416,
+          1354
+        ],
+        [
+          1416,
+          1394
+        ],
+        [
+          185,
+          1396
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1511
+        ],
+        [
+          1416,
+          1509
+        ],
+        [
+          1416,
+          1549
+        ],
+        [
+          185,
+          1551
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1354,
+        1416,
+        1396
+      ],
+      "text": "phương đẳng đại dịa, khởi chiên đàn làm hạ sinh lai. Phầu danh quán bi: trầm",
+      "confidence": 0.893
+    },
+    {
+      "line_id": "0172_viet_009",
+      "bbox": [
+        [
+          187,
+          1399
+        ],
+        [
+          1417,
+          1399
+        ],
+        [
+          1417,
+          1437
+        ],
+        [
+          187,
+          1437
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1554
+        ],
+        [
+          1417,
+          1554
+        ],
+        [
+          1417,
+          1592
+        ],
+        [
+          187,
+          1592
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1399,
+        1417,
+        1437
+      ],
+      "text": "tiêu: khi vị áp tòa lan-xạ. lường yên khởi xử: giai do tam nuội hỏa nhiên;",
+      "confidence": 0.8833
+    },
+    {
+      "line_id": "0172_viet_010",
+      "bbox": [
+        [
+          186,
+          1442
+        ],
+        [
+          1418,
+          1442
+        ],
+        [
+          1418,
+          1479
+        ],
+        [
+          186,
+          1479
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1597
+        ],
+        [
+          1418,
+          1597
+        ],
+        [
+          1418,
+          1634
+        ],
+        [
+          186,
+          1634
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1442,
+        1418,
+        1479
+      ],
+      "text": "thụy ái ? phi thời, bản tự nhất nguyên khi tản, Cá cá đinh môn giai thấu triệt;",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0172_viet_011",
+      "bbox": [
+        [
+          184,
+          1485
+        ],
+        [
+          753,
+          1483
+        ],
+        [
+          753,
+          1520
+        ],
+        [
+          184,
+          1522
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1640
+        ],
+        [
+          753,
+          1638
+        ],
+        [
+          753,
+          1675
+        ],
+        [
+          184,
+          1677
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1483,
+        753,
+        1522
+      ],
+      "text": "nhan nhân tị không tận huấn văn 17",
+      "confidence": 0.8795
+    },
+    {
+      "line_id": "0172_viet_012",
+      "bbox": [
+        [
+          268,
+          1538
+        ],
+        [
+          1416,
+          1538
+        ],
+        [
+          1416,
+          1572
+        ],
+        [
+          268,
+          1572
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1693
+        ],
+        [
+          1416,
+          1693
+        ],
+        [
+          1416,
+          1727
+        ],
+        [
+          268,
+          1727
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1538,
+        1416,
+        1572
+      ],
+      "text": "Tư nhân 5% sảm hồi chỉ nghi; triếp hiệu ? hiến phần chi lê. Đi: kim, nhật",
+      "confidence": 0.8595
+    },
+    {
+      "line_id": "0172_viet_013",
+      "bbox": [
+        [
+          189,
+          1578
+        ],
+        [
+          683,
+          1578
+        ],
+        [
+          683,
+          1615
+        ],
+        [
+          189,
+          1615
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          1733
+        ],
+        [
+          683,
+          1733
+        ],
+        [
+          683,
+          1770
+        ],
+        [
+          189,
+          1770
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        1578,
+        683,
+        1615
+      ],
+      "text": "trung phân hương cung dưỡng",
+      "confidence": 0.8679
+    },
+    {
+      "line_id": "0172_viet_014",
+      "bbox": [
+        [
+          188,
+          1671
+        ],
+        [
+          386,
+          1668
+        ],
+        [
+          387,
+          1707
+        ],
+        [
+          188,
+          1709
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1826
+        ],
+        [
+          386,
+          1823
+        ],
+        [
+          387,
+          1862
+        ],
+        [
+          188,
+          1864
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1668,
+        387,
+        1709
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8866
+    },
+    {
+      "line_id": "0172_viet_015",
+      "bbox": [
+        [
+          584,
+          1713
+        ],
+        [
+          1020,
+          1711
+        ],
+        [
+          1021,
+          1752
+        ],
+        [
+          584,
+          1754
+        ]
+      ],
+      "bbox_original": [
+        [
+          584,
+          1868
+        ],
+        [
+          1020,
+          1866
+        ],
+        [
+          1021,
+          1907
+        ],
+        [
+          584,
+          1909
+        ]
+      ],
+      "box_xyxy": [
+        584,
+        1711,
+        1021,
+        1754
+      ],
+      "text": "DÂNG HƯƠNG BUỒI TRƯA",
+      "confidence": 0.9002
+    },
+    {
+      "line_id": "0172_viet_016",
+      "bbox": [
+        [
+          280,
+          1788
+        ],
+        [
+          1419,
+          1786
+        ],
+        [
+          1419,
+          1830
+        ],
+        [
+          280,
+          1832
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1943
+        ],
+        [
+          1419,
+          1941
+        ],
+        [
+          1419,
+          1985
+        ],
+        [
+          280,
+          1987
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1786,
+        1419,
+        1832
+      ],
+      "text": "Củi nghĩ, ảnh dương rực rố; bầu trời chói chang, Nghĩ mặt trời không",
+      "confidence": 0.8819
+    },
+    {
+      "line_id": "0172_viet_017",
+      "bbox": [
+        [
+          187,
+          1835
+        ],
+        [
+          1415,
+          1831
+        ],
+        [
+          1415,
+          1872
+        ],
+        [
+          187,
+          1876
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1990
+        ],
+        [
+          1415,
+          1986
+        ],
+        [
+          1415,
+          2027
+        ],
+        [
+          187,
+          2031
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1831,
+        1415,
+        1876
+      ],
+      "text": "đứng mãi; phải tời phật (?) mà cầu xin. Nơi tva báu rấp tò lòng tin, trong lò",
+      "confidence": 0.8937
+    },
+    {
+      "line_id": "0172_viet_018",
+      "bbox": [
+        [
+          188,
+          1881
+        ],
+        [
+          642,
+          1879
+        ],
+        [
+          642,
+          1917
+        ],
+        [
+          188,
+          1920
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          2036
+        ],
+        [
+          642,
+          2034
+        ],
+        [
+          642,
+          2072
+        ],
+        [
+          188,
+          2075
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1879,
+        642,
+        1920
+      ],
+      "text": "ngọc trước dàng hương quý",
+      "confidence": 0.934
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRUNG NHẬT THÌ (?)",
+      "(THỊ GIỮA TRƯA).",
+      "TRUNG NHẬT 1, CHÚC HƯƠNG",
+      "Phục đĩ, thái dương phong chiếu, vẫn ? cệnh ly minh, có nhật trú chi",
+      "nhia lưu; tức kim tiên nhi ngường khẩu, Tin tương trần ư bảo tọa, hương",
+      "tiên trụ tr ngọc lỏ",
+      "Thị hương đã, tú dục tiên thiên, phi Bồng-đảo châu trung sản xuất;",
+      "phương đẳng đại dịa, khởi chiên đàn làm hạ sinh lai. Phầu danh quán bi: trầm",
+      "tiêu: khi vị áp tòa lan-xạ. lường yên khởi xử: giai do tam nuội hỏa nhiên;",
+      "thụy ái ? phi thời, bản tự nhất nguyên khi tản, Cá cá đinh môn giai thấu triệt;",
+      "nhan nhân tị không tận huấn văn 17",
+      "Tư nhân 5% sảm hồi chỉ nghi; triếp hiệu ? hiến phần chi lê. Đi: kim, nhật",
+      "trung phân hương cung dưỡng"
+    ],
+    "dich_nghia_lines": [
+      "DÂNG HƯƠNG BUỒI TRƯA",
+      "Củi nghĩ, ảnh dương rực rố; bầu trời chói chang, Nghĩ mặt trời không",
+      "đứng mãi; phải tời phật (?) mà cầu xin. Nơi tva báu rấp tò lòng tin, trong lò",
+      "ngọc trước dàng hương quý"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

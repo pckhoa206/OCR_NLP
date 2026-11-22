@@ -1,0 +1,987 @@
+{
+  "page_id": "0080",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 80,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0080_viet_000",
+      "bbox": [
+        [
+          191,
+          30
+        ],
+        [
+          235,
+          30
+        ],
+        [
+          235,
+          65
+        ],
+        [
+          191,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          151
+        ],
+        [
+          235,
+          151
+        ],
+        [
+          235,
+          186
+        ],
+        [
+          191,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        30,
+        235,
+        65
+      ],
+      "text": "74",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0080_viet_001",
+      "bbox": [
+        [
+          663,
+          29
+        ],
+        [
+          991,
+          29
+        ],
+        [
+          991,
+          63
+        ],
+        [
+          663,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          150
+        ],
+        [
+          991,
+          150
+        ],
+        [
+          991,
+          184
+        ],
+        [
+          663,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        29,
+        991,
+        63
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9286
+    },
+    {
+      "line_id": "0080_viet_002",
+      "bbox": [
+        [
+          228,
+          179
+        ],
+        [
+          748,
+          181
+        ],
+        [
+          747,
+          219
+        ],
+        [
+          228,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          300
+        ],
+        [
+          748,
+          302
+        ],
+        [
+          747,
+          340
+        ],
+        [
+          228,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        179,
+        748,
+        219
+      ],
+      "text": "Ninh dữ hoàng-hộc tị dực hồ;",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0080_viet_003",
+      "bbox": [
+        [
+          249,
+          224
+        ],
+        [
+          824,
+          226
+        ],
+        [
+          824,
+          266
+        ],
+        [
+          249,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          345
+        ],
+        [
+          824,
+          347
+        ],
+        [
+          824,
+          387
+        ],
+        [
+          249,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        224,
+        824,
+        266
+      ],
+      "text": "nên cùng liều cánh với chim hoàng hộc",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0080_viet_004",
+      "bbox": [
+        [
+          229,
+          345
+        ],
+        [
+          769,
+          345
+        ],
+        [
+          769,
+          382
+        ],
+        [
+          229,
+          382
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          466
+        ],
+        [
+          769,
+          466
+        ],
+        [
+          769,
+          503
+        ],
+        [
+          229,
+          503
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        345,
+        769,
+        382
+      ],
+      "text": "Tương dữ kê vụ tranh thực hồ ?",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0080_viet_005",
+      "bbox": [
+        [
+          251,
+          389
+        ],
+        [
+          729,
+          389
+        ],
+        [
+          729,
+          426
+        ],
+        [
+          251,
+          426
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          510
+        ],
+        [
+          729,
+          510
+        ],
+        [
+          729,
+          547
+        ],
+        [
+          251,
+          547
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        389,
+        729,
+        426
+      ],
+      "text": "hay nên tranh ăn với gà, với cò r",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0080_viet_006",
+      "bbox": [
+        [
+          226,
+          506
+        ],
+        [
+          906,
+          509
+        ],
+        [
+          906,
+          547
+        ],
+        [
+          226,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          627
+        ],
+        [
+          906,
+          630
+        ],
+        [
+          906,
+          668
+        ],
+        [
+          226,
+          665
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        506,
+        906,
+        547
+      ],
+      "text": "Thử thục cát thục hung, hà khứ hà tùng?",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0080_viet_007",
+      "bbox": [
+        [
+          251,
+          552
+        ],
+        [
+          912,
+          552
+        ],
+        [
+          912,
+          587
+        ],
+        [
+          251,
+          587
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          673
+        ],
+        [
+          912,
+          673
+        ],
+        [
+          912,
+          708
+        ],
+        [
+          251,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        552,
+        912,
+        587
+      ],
+      "text": "Như thê đâu là tồt, là xâu bỏ đâu theo đâu r",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0080_viet_008",
+      "bbox": [
+        [
+          225,
+          669
+        ],
+        [
+          690,
+          672
+        ],
+        [
+          690,
+          710
+        ],
+        [
+          225,
+          707
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          790
+        ],
+        [
+          690,
+          793
+        ],
+        [
+          690,
+          831
+        ],
+        [
+          225,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        669,
+        690,
+        710
+      ],
+      "text": "Thẽ hỗn trọc nhi bãt thanh",
+      "confidence": 0.8835
+    },
+    {
+      "line_id": "0080_viet_009",
+      "bbox": [
+        [
+          245,
+          712
+        ],
+        [
+          659,
+          717
+        ],
+        [
+          659,
+          758
+        ],
+        [
+          245,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          833
+        ],
+        [
+          659,
+          838
+        ],
+        [
+          659,
+          879
+        ],
+        [
+          245,
+          874
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        712,
+        659,
+        758
+      ],
+      "text": "Đời đục ngàu không trong",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0080_viet_010",
+      "bbox": [
+        [
+          226,
+          836
+        ],
+        [
+          902,
+          836
+        ],
+        [
+          902,
+          873
+        ],
+        [
+          226,
+          873
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          957
+        ],
+        [
+          902,
+          957
+        ],
+        [
+          902,
+          994
+        ],
+        [
+          226,
+          994
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        836,
+        902,
+        873
+      ],
+      "text": "thuyền dực vi trong, thiên quân vi khinh",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0080_viet_011",
+      "bbox": [
+        [
+          247,
+          880
+        ],
+        [
+          712,
+          880
+        ],
+        [
+          712,
+          917
+        ],
+        [
+          247,
+          917
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1001
+        ],
+        [
+          712,
+          1001
+        ],
+        [
+          712,
+          1038
+        ],
+        [
+          247,
+          1038
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        880,
+        712,
+        917
+      ],
+      "text": "cánh ve nặng, ngàn cân lại nhẹ",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0080_viet_012",
+      "bbox": [
+        [
+          224,
+          997
+        ],
+        [
+          900,
+          996
+        ],
+        [
+          900,
+          1034
+        ],
+        [
+          224,
+          1036
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1118
+        ],
+        [
+          900,
+          1117
+        ],
+        [
+          900,
+          1155
+        ],
+        [
+          224,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        996,
+        900,
+        1036
+      ],
+      "text": "hoàng chung hủy khi, ngõa phủ lôi minh",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0080_viet_013",
+      "bbox": [
+        [
+          247,
+          1041
+        ],
+        [
+          987,
+          1041
+        ],
+        [
+          987,
+          1081
+        ],
+        [
+          247,
+          1081
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1162
+        ],
+        [
+          987,
+          1162
+        ],
+        [
+          987,
+          1202
+        ],
+        [
+          247,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1041,
+        987,
+        1081
+      ],
+      "text": "chuông vàng bỏ xó, viên khánh bằng ngói thì reo",
+      "confidence": 0.9355
+    },
+    {
+      "line_id": "0080_viet_014",
+      "bbox": [
+        [
+          243,
+          1086
+        ],
+        [
+          321,
+          1089
+        ],
+        [
+          320,
+          1131
+        ],
+        [
+          241,
+          1129
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1207
+        ],
+        [
+          321,
+          1210
+        ],
+        [
+          320,
+          1252
+        ],
+        [
+          241,
+          1250
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1086,
+        321,
+        1131
+      ],
+      "text": "vang",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0080_viet_015",
+      "bbox": [
+        [
+          222,
+          1205
+        ],
+        [
+          853,
+          1205
+        ],
+        [
+          853,
+          1242
+        ],
+        [
+          222,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1326
+        ],
+        [
+          853,
+          1326
+        ],
+        [
+          853,
+          1363
+        ],
+        [
+          222,
+          1363
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1205,
+        853,
+        1242
+      ],
+      "text": "Sàm nhân cao trương, hiền sỹ vô danh.",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0080_viet_016",
+      "bbox": [
+        [
+          246,
+          1247
+        ],
+        [
+          956,
+          1247
+        ],
+        [
+          956,
+          1288
+        ],
+        [
+          246,
+          1288
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1368
+        ],
+        [
+          956,
+          1368
+        ],
+        [
+          956,
+          1409
+        ],
+        [
+          246,
+          1409
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1247,
+        956,
+        1288
+      ],
+      "text": "kẻ xâu thì được phô ra, hiền sĩ thì không ai biết",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0080_viet_017",
+      "bbox": [
+        [
+          221,
+          1368
+        ],
+        [
+          981,
+          1369
+        ],
+        [
+          981,
+          1407
+        ],
+        [
+          221,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1489
+        ],
+        [
+          981,
+          1490
+        ],
+        [
+          981,
+          1528
+        ],
+        [
+          221,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1368,
+        981,
+        1407
+      ],
+      "text": "Hu ta mặc mặc hề, thùy tri ngô chi liêm trinh",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0080_viet_018",
+      "bbox": [
+        [
+          245,
+          1414
+        ],
+        [
+          707,
+          1414
+        ],
+        [
+          707,
+          1448
+        ],
+        [
+          245,
+          1448
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1535
+        ],
+        [
+          707,
+          1535
+        ],
+        [
+          707,
+          1569
+        ],
+        [
+          245,
+          1569
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1414,
+        707,
+        1448
+      ],
+      "text": "Buồn thay, ai biết ta liêm-trinh",
+      "confidence": 0.9181
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Ninh dữ hoàng-hộc tị dực hồ;",
+      "Tương dữ kê vụ tranh thực hồ ?",
+      "Thử thục cát thục hung, hà khứ hà tùng?",
+      "Thẽ hỗn trọc nhi bãt thanh",
+      "thuyền dực vi trong, thiên quân vi khinh",
+      "hoàng chung hủy khi, ngõa phủ lôi minh",
+      "Sàm nhân cao trương, hiền sỹ vô danh.",
+      "Hu ta mặc mặc hề, thùy tri ngô chi liêm trinh"
+    ],
+    "dich_nghia_lines": [
+      "nên cùng liều cánh với chim hoàng hộc",
+      "hay nên tranh ăn với gà, với cò r",
+      "Như thê đâu là tồt, là xâu bỏ đâu theo đâu r",
+      "Đời đục ngàu không trong",
+      "cánh ve nặng, ngàn cân lại nhẹ",
+      "chuông vàng bỏ xó, viên khánh bằng ngói thì reo vang",
+      "kẻ xâu thì được phô ra, hiền sĩ thì không ai biết",
+      "Buồn thay, ai biết ta liêm-trinh"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "寧與黃鵠比翼乎",
+        "phien_am": "Ninh dữ hoàng-hộc tị dực hồ;",
+        "dich_nghia_gloss": "nên cùng liều cánh với chim hoàng hộc"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "將與雞鶩爭食乎",
+        "phien_am": "Tương dữ kê vụ tranh thực hồ ?",
+        "dich_nghia_gloss": "hay nên tranh ăn với gà, với cò r"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "此孰吉孰凶何去何從",
+        "phien_am": "Thử thục cát thục hung, hà khứ hà tùng?",
+        "dich_nghia_gloss": "Như thê đâu là tồt, là xâu bỏ đâu theo đâu r"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "世溷濁而不清",
+        "phien_am": "Thẽ hỗn trọc nhi bãt thanh",
+        "dich_nghia_gloss": "Đời đục ngàu không trong"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "蟬翼為重千鈞為輕",
+        "phien_am": "thuyền dực vi trong, thiên quân vi khinh",
+        "dich_nghia_gloss": "cánh ve nặng, ngàn cân lại nhẹ"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "黄鍾毀棄瓦釜雷鳴",
+        "phien_am": "hoàng chung hủy khi, ngõa phủ lôi minh",
+        "dich_nghia_gloss": "chuông vàng bỏ xó, viên khánh bằng ngói thì reo vang"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "讒人高張賢士無名",
+        "phien_am": "Sàm nhân cao trương, hiền sỹ vô danh.",
+        "dich_nghia_gloss": "kẻ xâu thì được phô ra, hiền sĩ thì không ai biết"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "吁嗟默默兮誰知吾之廉貞",
+        "phien_am": "Hu ta mặc mặc hề, thùy tri ngô chi liêm trinh",
+        "dich_nghia_gloss": "Buồn thay, ai biết ta liêm-trinh"
+      }
+    ]
+  }
+}

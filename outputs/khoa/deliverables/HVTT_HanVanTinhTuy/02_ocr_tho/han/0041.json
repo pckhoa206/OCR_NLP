@@ -1,0 +1,119 @@
+{
+  "page_id": "0041",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 41,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0041_han_000",
+      "bbox": [
+        [
+          359,
+          461
+        ],
+        [
+          832,
+          463
+        ],
+        [
+          832,
+          518
+        ],
+        [
+          359,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          582
+        ],
+        [
+          832,
+          584
+        ],
+        [
+          832,
+          639
+        ],
+        [
+          359,
+          637
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        461,
+        832,
+        518
+      ],
+      "text": "顏觸說齊王貴士",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0041_han_001",
+      "bbox": [
+        [
+          712,
+          809
+        ],
+        [
+          850,
+          809
+        ],
+        [
+          850,
+          864
+        ],
+        [
+          712,
+          864
+        ]
+      ],
+      "bbox_original": [
+        [
+          712,
+          930
+        ],
+        [
+          850,
+          930
+        ],
+        [
+          850,
+          985
+        ],
+        [
+          712,
+          985
+        ]
+      ],
+      "box_xyxy": [
+        712,
+        809,
+        850,
+        864
+      ],
+      "text": "齊文",
+      "confidence": 0.9926
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

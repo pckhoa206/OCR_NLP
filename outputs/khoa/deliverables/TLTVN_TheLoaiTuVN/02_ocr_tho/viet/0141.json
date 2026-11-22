@@ -1,0 +1,651 @@
+{
+  "page_id": "0141",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 141,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0141_viet_000",
+      "bbox": [
+        [
+          101,
+          0
+        ],
+        [
+          289,
+          0
+        ],
+        [
+          289,
+          33
+        ],
+        [
+          101,
+          33
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          115
+        ],
+        [
+          289,
+          115
+        ],
+        [
+          289,
+          148
+        ],
+        [
+          101,
+          148
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        0,
+        289,
+        33
+      ],
+      "text": "(VHv.1951).",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0141_viet_001",
+      "bbox": [
+        [
+          156,
+          827
+        ],
+        [
+          320,
+          829
+        ],
+        [
+          319,
+          867
+        ],
+        [
+          155,
+          865
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          942
+        ],
+        [
+          320,
+          944
+        ],
+        [
+          319,
+          982
+        ],
+        [
+          155,
+          980
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        827,
+        320,
+        867
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0141_viet_002",
+      "bbox": [
+        [
+          155,
+          875
+        ],
+        [
+          697,
+          875
+        ],
+        [
+          697,
+          914
+        ],
+        [
+          155,
+          914
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          990
+        ],
+        [
+          697,
+          990
+        ],
+        [
+          697,
+          1029
+        ],
+        [
+          155,
+          1029
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        875,
+        697,
+        914
+      ],
+      "text": "NGUYỄN NHẬT THỌ PHỤ THÂN",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0141_viet_003",
+      "bbox": [
+        [
+          158,
+          926
+        ],
+        [
+          370,
+          926
+        ],
+        [
+          370,
+          967
+        ],
+        [
+          158,
+          967
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1041
+        ],
+        [
+          370,
+          1041
+        ],
+        [
+          370,
+          1082
+        ],
+        [
+          158,
+          1082
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        926,
+        370,
+        967
+      ],
+      "text": "(Giá cô thiên)",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0141_viet_004",
+      "bbox": [
+        [
+          155,
+          972
+        ],
+        [
+          1064,
+          974
+        ],
+        [
+          1064,
+          1017
+        ],
+        [
+          155,
+          1015
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          1087
+        ],
+        [
+          1064,
+          1089
+        ],
+        [
+          1064,
+          1132
+        ],
+        [
+          155,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        972,
+        1064,
+        1017
+      ],
+      "text": "Tư đương vận thuộc ngưu niên, tiết phùng kê đán. Đông",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0141_viet_005",
+      "bbox": [
+        [
+          99,
+          1020
+        ],
+        [
+          1061,
+          1020
+        ],
+        [
+          1061,
+          1056
+        ],
+        [
+          99,
+          1056
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1135
+        ],
+        [
+          1061,
+          1135
+        ],
+        [
+          1061,
+          1171
+        ],
+        [
+          99,
+          1171
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        1020,
+        1061,
+        1056
+      ],
+      "text": "phong nhật noãn, hương phù bách diệp chi tôn; Nam cực tỉnh cao,",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0141_viet_006",
+      "bbox": [
+        [
+          96,
+          1060
+        ],
+        [
+          1063,
+          1061
+        ],
+        [
+          1063,
+          1098
+        ],
+        [
+          96,
+          1097
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          1175
+        ],
+        [
+          1063,
+          1176
+        ],
+        [
+          1063,
+          1213
+        ],
+        [
+          96,
+          1212
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        1060,
+        1063,
+        1098
+      ],
+      "text": "kính chúc cao đường chi thọ. Hà toán dục tề quy hạc số, tân từ tái",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0141_viet_007",
+      "bbox": [
+        [
+          98,
+          1106
+        ],
+        [
+          391,
+          1106
+        ],
+        [
+          391,
+          1140
+        ],
+        [
+          98,
+          1140
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1221
+        ],
+        [
+          391,
+          1221
+        ],
+        [
+          391,
+          1255
+        ],
+        [
+          98,
+          1255
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        1106,
+        391,
+        1140
+      ],
+      "text": "xướng giá cô thiên",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0141_viet_008",
+      "bbox": [
+        [
+          156,
+          1149
+        ],
+        [
+          647,
+          1151
+        ],
+        [
+          647,
+          1190
+        ],
+        [
+          156,
+          1188
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1264
+        ],
+        [
+          647,
+          1266
+        ],
+        [
+          647,
+          1305
+        ],
+        [
+          156,
+          1303
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1149,
+        647,
+        1190
+      ],
+      "text": "Hi Thái đường tiền triển thọ diên,",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0141_viet_009",
+      "bbox": [
+        [
+          157,
+          1195
+        ],
+        [
+          590,
+          1200
+        ],
+        [
+          590,
+          1240
+        ],
+        [
+          156,
+          1235
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          1310
+        ],
+        [
+          590,
+          1315
+        ],
+        [
+          590,
+          1355
+        ],
+        [
+          156,
+          1350
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1195,
+        590,
+        1240
+      ],
+      "text": "Kiền minh hạ chúc xuân niên",
+      "confidence": 0.9282
+    },
+    {
+      "line_id": "0141_viet_010",
+      "bbox": [
+        [
+          156,
+          1247
+        ],
+        [
+          730,
+          1250
+        ],
+        [
+          730,
+          1287
+        ],
+        [
+          156,
+          1284
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1362
+        ],
+        [
+          730,
+          1365
+        ],
+        [
+          730,
+          1402
+        ],
+        [
+          156,
+          1399
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1247,
+        730,
+        1287
+      ],
+      "text": "Danh lưu thiên thượng trường sinh lục,",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0141_viet_011",
+      "bbox": [
+        [
+          157,
+          1291
+        ],
+        [
+          613,
+          1294
+        ],
+        [
+          613,
+          1334
+        ],
+        [
+          157,
+          1331
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          1406
+        ],
+        [
+          613,
+          1409
+        ],
+        [
+          613,
+          1449
+        ],
+        [
+          157,
+          1446
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        1291,
+        613,
+        1334
+      ],
+      "text": "Thể tiện nhân gian bất lão tiên",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0141_viet_012",
+      "bbox": [
+        [
+          93,
+          1416
+        ],
+        [
+          162,
+          1416
+        ],
+        [
+          162,
+          1461
+        ],
+        [
+          93,
+          1461
+        ]
+      ],
+      "bbox_original": [
+        [
+          93,
+          1531
+        ],
+        [
+          162,
+          1531
+        ],
+        [
+          162,
+          1576
+        ],
+        [
+          93,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        1416,
+        162,
+        1461
+      ],
+      "text": "134",
+      "confidence": 0.9283
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "(VHv.1951).",
+      "NGUYỄN NHẬT THỌ PHỤ THÂN",
+      "(Giá cô thiên)",
+      "Tư đương vận thuộc ngưu niên, tiết phùng kê đán. Đông",
+      "phong nhật noãn, hương phù bách diệp chi tôn; Nam cực tỉnh cao,",
+      "kính chúc cao đường chi thọ. Hà toán dục tề quy hạc số, tân từ tái",
+      "xướng giá cô thiên",
+      "Hi Thái đường tiền triển thọ diên,",
+      "Kiền minh hạ chúc xuân niên",
+      "Danh lưu thiên thượng trường sinh lục,",
+      "Thể tiện nhân gian bất lão tiên",
+      "134"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

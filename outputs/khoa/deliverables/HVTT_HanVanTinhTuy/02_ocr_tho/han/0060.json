@@ -1,0 +1,459 @@
+{
+  "page_id": "0060",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 60,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0060_han_000",
+      "bbox": [
+        [
+          247,
+          129
+        ],
+        [
+          920,
+          129
+        ],
+        [
+          920,
+          173
+        ],
+        [
+          247,
+          173
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          250
+        ],
+        [
+          920,
+          250
+        ],
+        [
+          920,
+          294
+        ],
+        [
+          247,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        129,
+        920,
+        173
+      ],
+      "text": "北宮之女嬰兒子無恙耶",
+      "confidence": 0.9892
+    },
+    {
+      "line_id": "0060_han_001",
+      "bbox": [
+        [
+          243,
+          297
+        ],
+        [
+          787,
+          299
+        ],
+        [
+          787,
+          345
+        ],
+        [
+          243,
+          342
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          418
+        ],
+        [
+          787,
+          420
+        ],
+        [
+          787,
+          466
+        ],
+        [
+          243,
+          463
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        297,
+        787,
+        345
+      ],
+      "text": "徹其環瑱至老不嫁",
+      "confidence": 0.9485
+    },
+    {
+      "line_id": "0060_han_002",
+      "bbox": [
+        [
+          242,
+          465
+        ],
+        [
+          785,
+          463
+        ],
+        [
+          785,
+          511
+        ],
+        [
+          242,
+          513
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          586
+        ],
+        [
+          785,
+          584
+        ],
+        [
+          785,
+          632
+        ],
+        [
+          242,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        463,
+        785,
+        513
+      ],
+      "text": "以養父母是其率民",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0060_han_003",
+      "bbox": [
+        [
+          247,
+          637
+        ],
+        [
+          710,
+          637
+        ],
+        [
+          710,
+          681
+        ],
+        [
+          247,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          758
+        ],
+        [
+          710,
+          758
+        ],
+        [
+          710,
+          802
+        ],
+        [
+          247,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        637,
+        710,
+        681
+      ],
+      "text": "而出於孝情者也",
+      "confidence": 0.9986
+    },
+    {
+      "line_id": "0060_han_004",
+      "bbox": [
+        [
+          250,
+          800
+        ],
+        [
+          708,
+          800
+        ],
+        [
+          708,
+          848
+        ],
+        [
+          250,
+          848
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          921
+        ],
+        [
+          708,
+          921
+        ],
+        [
+          708,
+          969
+        ],
+        [
+          250,
+          969
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        800,
+        708,
+        848
+      ],
+      "text": "胡爲至今不朝也",
+      "confidence": 0.9561
+    },
+    {
+      "line_id": "0060_han_005",
+      "bbox": [
+        [
+          245,
+          970
+        ],
+        [
+          854,
+          967
+        ],
+        [
+          854,
+          1015
+        ],
+        [
+          245,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1091
+        ],
+        [
+          854,
+          1088
+        ],
+        [
+          854,
+          1136
+        ],
+        [
+          245,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        967,
+        854,
+        1019
+      ],
+      "text": "此二士弗業一女不朝",
+      "confidence": 0.9972
+    },
+    {
+      "line_id": "0060_han_006",
+      "bbox": [
+        [
+          249,
+          1140
+        ],
+        [
+          858,
+          1140
+        ],
+        [
+          858,
+          1187
+        ],
+        [
+          249,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1261
+        ],
+        [
+          858,
+          1261
+        ],
+        [
+          858,
+          1308
+        ],
+        [
+          249,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1140,
+        858,
+        1187
+      ],
+      "text": "何以王齊國子萬民乎",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0060_han_007",
+      "bbox": [
+        [
+          246,
+          1311
+        ],
+        [
+          714,
+          1311
+        ],
+        [
+          714,
+          1359
+        ],
+        [
+          246,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1432
+        ],
+        [
+          714,
+          1432
+        ],
+        [
+          714,
+          1480
+        ],
+        [
+          246,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1311,
+        714,
+        1359
+      ],
+      "text": "於陵子仲尚存乎",
+      "confidence": 0.9993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "北宮之女嬰兒子無恙耶",
+      "徹其環瑱至老不嫁",
+      "以養父母是其率民",
+      "而出於孝情者也",
+      "胡爲至今不朝也",
+      "此二士弗業一女不朝",
+      "何以王齊國子萬民乎",
+      "於陵子仲尚存乎"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "北宮之女嬰兒子無恙耶",
+        "phien_am": "Bắc-cung chi nữ Anh-nhi-tử vô dạng da ?",
+        "dich_nghia_gloss": "Nàng Anh-nhi họ Bắc-cung bình yên chứ ?"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "徹其環瑱至老不嫁",
+        "phien_am": "Triệt kỳ hoàn thiên, chi lão bãt giá",
+        "dich_nghia_gloss": "Bỏ cả vòng, bông tai, đên già không lầy chồng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "以養父母是其率民",
+        "phien_am": "dĩ dưỡng phụ mẫu: thị kỳ suất dân",
+        "dich_nghia_gloss": "để nuôi cha mẹ: ây là làm gương"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "而出於孝情者也",
+        "phien_am": "nhi xuất ư hiễu-tình giả dã",
+        "dich_nghia_gloss": "hiều cho dân"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "胡爲至今不朝也",
+        "phien_am": "hồ vi chí kim bắt triều dã ?",
+        "dich_nghia_gloss": "sao bây giờ chưa được tặng phong"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "此二士弗業一女不朝",
+        "phien_am": "Thử nhị sĩ phát nghiệp, nhất nữ bãt triều",
+        "dich_nghia_gloss": "Hai kẻ sĩ không có chức, một gái không được phong"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "何以王齊國子萬民乎",
+        "phien_am": "hà di vượng Tê-quốc, tử vạn dân hồ ?",
+        "dich_nghia_gloss": "lây gì cho nước Tề thịnh, cứu muôn dân ?"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "於陵子仲尚存乎",
+        "phien_am": "Ô Lăng Tử Trọng thượng tón hồ ?",
+        "dich_nghia_gloss": "Ô-Lăng Tử Trọng còn chăng"
+      }
+    ]
+  }
+}

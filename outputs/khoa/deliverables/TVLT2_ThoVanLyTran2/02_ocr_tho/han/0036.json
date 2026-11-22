@@ -1,0 +1,213 @@
+{
+  "page_id": "0036",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 36,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0036_han_000",
+      "bbox": [
+        [
+          178,
+          307
+        ],
+        [
+          763,
+          307
+        ],
+        [
+          763,
+          355
+        ],
+        [
+          178,
+          355
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          462
+        ],
+        [
+          763,
+          462
+        ],
+        [
+          763,
+          510
+        ],
+        [
+          178,
+          510
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        307,
+        763,
+        355
+      ],
+      "text": "lāo bènh tir 生 老 病 死 cün Ly Ngoc Kièu 李 王嬌 (xem Tho vǎn Lg —",
+      "confidence": 0.8677
+    },
+    {
+      "line_id": "0036_han_001",
+      "bbox": [
+        [
+          177,
+          533
+        ],
+        [
+          763,
+          533
+        ],
+        [
+          763,
+          578
+        ],
+        [
+          177,
+          578
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          688
+        ],
+        [
+          763,
+          688
+        ],
+        [
+          763,
+          733
+        ],
+        [
+          177,
+          733
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        533,
+        763,
+        578
+      ],
+      "text": "bǎn A.2013. chi thēm vào bài tra cúa Nguyēn Than Hién 元 真 李千. Tōng",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0036_han_002",
+      "bbox": [
+        [
+          178,
+          1585
+        ],
+        [
+          763,
+          1585
+        ],
+        [
+          763,
+          1630
+        ],
+        [
+          178,
+          1630
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1740
+        ],
+        [
+          763,
+          1740
+        ],
+        [
+          763,
+          1785
+        ],
+        [
+          178,
+          1785
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1585,
+        763,
+        1630
+      ],
+      "text": "Vǎn bân cua chua Dóng-cao 棘高 tinh Bǎc-ninh 地 寧 (là vǎn bǎn chung",
+      "confidence": 0.8956
+    },
+    {
+      "line_id": "0036_han_003",
+      "bbox": [
+        [
+          177,
+          1668
+        ],
+        [
+          763,
+          1668
+        ],
+        [
+          763,
+          1716
+        ],
+        [
+          177,
+          1716
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1823
+        ],
+        [
+          763,
+          1823
+        ],
+        [
+          763,
+          1871
+        ],
+        [
+          177,
+          1871
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1668,
+        763,
+        1716
+      ],
+      "text": "yén  栗 núi Yên-túr 安 子 trung san (là vǎn bán chúng ta goi là loai thú",
+      "confidence": 0.8991
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

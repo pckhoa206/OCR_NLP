@@ -1,0 +1,555 @@
+{
+  "page_id": "0215",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 215,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0215_viet_000",
+      "bbox": [
+        [
+          188,
+          1433
+        ],
+        [
+          361,
+          1433
+        ],
+        [
+          361,
+          1471
+        ],
+        [
+          188,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1588
+        ],
+        [
+          361,
+          1588
+        ],
+        [
+          361,
+          1626
+        ],
+        [
+          188,
+          1626
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1433,
+        361,
+        1471
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9369
+    },
+    {
+      "line_id": "0215_viet_001",
+      "bbox": [
+        [
+          630,
+          1468
+        ],
+        [
+          973,
+          1468
+        ],
+        [
+          973,
+          1509
+        ],
+        [
+          630,
+          1509
+        ]
+      ],
+      "bbox_original": [
+        [
+          630,
+          1623
+        ],
+        [
+          973,
+          1623
+        ],
+        [
+          973,
+          1664
+        ],
+        [
+          630,
+          1664
+        ]
+      ],
+      "box_xyxy": [
+        630,
+        1468,
+        973,
+        1509
+      ],
+      "text": "SÁM HỐI Ý CĂN TỘI",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0215_viet_002",
+      "bbox": [
+        [
+          278,
+          1541
+        ],
+        [
+          1414,
+          1541
+        ],
+        [
+          1414,
+          1581
+        ],
+        [
+          278,
+          1581
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          1696
+        ],
+        [
+          1414,
+          1696
+        ],
+        [
+          1414,
+          1736
+        ],
+        [
+          278,
+          1736
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        1541,
+        1414,
+        1581
+      ],
+      "text": "Chi tàm sám hối, thần mỗ 1? đảng, tự tòng vô thủy vô lượng kiếp lai,",
+      "confidence": 0.9022
+    },
+    {
+      "line_id": "0215_viet_003",
+      "bbox": [
+        [
+          185,
+          1579
+        ],
+        [
+          1413,
+          1580
+        ],
+        [
+          1413,
+          1620
+        ],
+        [
+          185,
+          1619
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1734
+        ],
+        [
+          1413,
+          1735
+        ],
+        [
+          1413,
+          1775
+        ],
+        [
+          185,
+          1774
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1579,
+        1413,
+        1620
+      ],
+      "text": "thất khước bản tâm; vòng tri chính đạo, Đọa tam đồ khổ, do lục căn phi,",
+      "confidence": 0.8994
+    },
+    {
+      "line_id": "0215_viet_004",
+      "bbox": [
+        [
+          185,
+          1617
+        ],
+        [
+          800,
+          1622
+        ],
+        [
+          800,
+          1663
+        ],
+        [
+          185,
+          1657
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1772
+        ],
+        [
+          800,
+          1777
+        ],
+        [
+          800,
+          1818
+        ],
+        [
+          185,
+          1812
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1617,
+        800,
+        1663
+      ],
+      "text": "Nhược bất sám tiền, nan truy hối hậu",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0215_viet_005",
+      "bbox": [
+        [
+          280,
+          1673
+        ],
+        [
+          1415,
+          1673
+        ],
+        [
+          1415,
+          1713
+        ],
+        [
+          280,
+          1713
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1828
+        ],
+        [
+          1415,
+          1828
+        ],
+        [
+          1415,
+          1868
+        ],
+        [
+          280,
+          1868
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1673,
+        1415,
+        1713
+      ],
+      "text": "Ý căn tội giả: phan duyên niệm lự, vò tạm thời hưu; hệ trước, tỉnh trần,",
+      "confidence": 0.9057
+    },
+    {
+      "line_id": "0215_viet_006",
+      "bbox": [
+        [
+          187,
+          1714
+        ],
+        [
+          1413,
+          1713
+        ],
+        [
+          1413,
+          1750
+        ],
+        [
+          187,
+          1751
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1869
+        ],
+        [
+          1413,
+          1868
+        ],
+        [
+          1413,
+          1905
+        ],
+        [
+          187,
+          1906
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1713,
+        1413,
+        1751
+      ],
+      "text": "phong? tàm chấp tưởng, Như tàm tác kiên, tái phược tái triền, như nga phó",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0215_viet_007",
+      "bbox": [
+        [
+          185,
+          1752
+        ],
+        [
+          1414,
+          1750
+        ],
+        [
+          1414,
+          1791
+        ],
+        [
+          185,
+          1793
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1907
+        ],
+        [
+          1414,
+          1905
+        ],
+        [
+          1414,
+          1946
+        ],
+        [
+          185,
+          1948
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1750,
+        1414,
+        1793
+      ],
+      "text": "đăng \"\", tự: thiêu tự lạn, Hòn mê bất giác, điên đảo vọng sinh. não loạn thốn",
+      "confidence": 0.8731
+    },
+    {
+      "line_id": "0215_viet_008",
+      "bbox": [
+        [
+          187,
+          1791
+        ],
+        [
+          522,
+          1794
+        ],
+        [
+          521,
+          1831
+        ],
+        [
+          187,
+          1828
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1946
+        ],
+        [
+          522,
+          1949
+        ],
+        [
+          521,
+          1986
+        ],
+        [
+          187,
+          1983
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1791,
+        522,
+        1831
+      ],
+      "text": "lâm, giai do tam độc.",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0215_viet_009",
+      "bbox": [
+        [
+          266,
+          1844
+        ],
+        [
+          1413,
+          1842
+        ],
+        [
+          1413,
+          1883
+        ],
+        [
+          266,
+          1885
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1999
+        ],
+        [
+          1413,
+          1997
+        ],
+        [
+          1413,
+          2038
+        ],
+        [
+          266,
+          2040
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        1842,
+        1413,
+        1885
+      ],
+      "text": "Kban tham tội giả: âm mưu tật đổ, lận tích mông cầu, bản thập lợi",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0215_viet_010",
+      "bbox": [
+        [
+          187,
+          1885
+        ],
+        [
+          1416,
+          1885
+        ],
+        [
+          1416,
+          1925
+        ],
+        [
+          187,
+          1925
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          2040
+        ],
+        [
+          1416,
+          2040
+        ],
+        [
+          1416,
+          2080
+        ],
+        [
+          187,
+          2080
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1885,
+        1416,
+        1925
+      ],
+      "text": "thiên, do vi vị túc: Tài như xuyên tích; tìm tự lậu chi, Tùy quân tùy không;",
+      "confidence": 0.8841
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "SÁM HỐI Ý CĂN TỘI",
+      "Chi tàm sám hối, thần mỗ 1? đảng, tự tòng vô thủy vô lượng kiếp lai,",
+      "thất khước bản tâm; vòng tri chính đạo, Đọa tam đồ khổ, do lục căn phi,",
+      "Nhược bất sám tiền, nan truy hối hậu",
+      "Ý căn tội giả: phan duyên niệm lự, vò tạm thời hưu; hệ trước, tỉnh trần,",
+      "phong? tàm chấp tưởng, Như tàm tác kiên, tái phược tái triền, như nga phó",
+      "đăng \"\", tự: thiêu tự lạn, Hòn mê bất giác, điên đảo vọng sinh. não loạn thốn",
+      "lâm, giai do tam độc.",
+      "Kban tham tội giả: âm mưu tật đổ, lận tích mông cầu, bản thập lợi",
+      "thiên, do vi vị túc: Tài như xuyên tích; tìm tự lậu chi, Tùy quân tùy không;"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "page_id": "0048",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 48,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0048_han_000",
+      "bbox": [
+        [
+          197,
+          127
+        ],
+        [
+          596,
+          127
+        ],
+        [
+          596,
+          174
+        ],
+        [
+          197,
+          174
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          248
+        ],
+        [
+          596,
+          248
+        ],
+        [
+          596,
+          295
+        ],
+        [
+          197,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        127,
+        596,
+        174
+      ],
+      "text": "願請受為弟子",
+      "confidence": 0.9764
+    },
+    {
+      "line_id": "0048_han_001",
+      "bbox": [
+        [
+          200,
+          296
+        ],
+        [
+          733,
+          296
+        ],
+        [
+          733,
+          340
+        ],
+        [
+          200,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          417
+        ],
+        [
+          733,
+          417
+        ],
+        [
+          733,
+          461
+        ],
+        [
+          200,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        296,
+        733,
+        340
+      ],
+      "text": "且顏先生與寡人遊",
+      "confidence": 0.9906
+    },
+    {
+      "line_id": "0048_han_002",
+      "bbox": [
+        [
+          198,
+          465
+        ],
+        [
+          732,
+          465
+        ],
+        [
+          732,
+          512
+        ],
+        [
+          198,
+          512
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          586
+        ],
+        [
+          732,
+          586
+        ],
+        [
+          732,
+          633
+        ],
+        [
+          198,
+          633
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        465,
+        732,
+        512
+      ],
+      "text": "食必太牢出必乘車",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0048_han_003",
+      "bbox": [
+        [
+          200,
+          634
+        ],
+        [
+          597,
+          634
+        ],
+        [
+          597,
+          681
+        ],
+        [
+          200,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          755
+        ],
+        [
+          597,
+          755
+        ],
+        [
+          597,
+          802
+        ],
+        [
+          200,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        634,
+        597,
+        681
+      ],
+      "text": "妻子衣服麗都",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0048_han_004",
+      "bbox": [
+        [
+          202,
+          802
+        ],
+        [
+          738,
+          802
+        ],
+        [
+          738,
+          850
+        ],
+        [
+          202,
+          850
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          923
+        ],
+        [
+          738,
+          923
+        ],
+        [
+          738,
+          971
+        ],
+        [
+          202,
+          971
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        802,
+        738,
+        850
+      ],
+      "text": "斶辭曰夫玉生於山",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0048_han_005",
+      "bbox": [
+        [
+          203,
+          972
+        ],
+        [
+          802,
+          972
+        ],
+        [
+          802,
+          1019
+        ],
+        [
+          203,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1093
+        ],
+        [
+          802,
+          1093
+        ],
+        [
+          802,
+          1140
+        ],
+        [
+          203,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        972,
+        802,
+        1019
+      ],
+      "text": "制則破焉非弗寶貴矣",
+      "confidence": 0.9826
+    },
+    {
+      "line_id": "0048_han_006",
+      "bbox": [
+        [
+          202,
+          1143
+        ],
+        [
+          527,
+          1141
+        ],
+        [
+          527,
+          1186
+        ],
+        [
+          202,
+          1188
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1264
+        ],
+        [
+          527,
+          1262
+        ],
+        [
+          527,
+          1307
+        ],
+        [
+          202,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1141,
+        527,
+        1188
+      ],
+      "text": "然太璞不完",
+      "confidence": 0.9989
+    },
+    {
+      "line_id": "0048_han_007",
+      "bbox": [
+        [
+          200,
+          1314
+        ],
+        [
+          874,
+          1311
+        ],
+        [
+          874,
+          1358
+        ],
+        [
+          200,
+          1361
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          1435
+        ],
+        [
+          874,
+          1432
+        ],
+        [
+          874,
+          1479
+        ],
+        [
+          200,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        1311,
+        874,
+        1361
+      ],
+      "text": "士生乎鄙野推選則祿焉",
+      "confidence": 0.9966
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "願請受為弟子",
+      "且顏先生與寡人遊",
+      "食必太牢出必乘車",
+      "妻子衣服麗都",
+      "斶辭曰夫玉生於山",
+      "制則破焉非弗寶貴矣",
+      "然太璞不完",
+      "士生乎鄙野推選則祿焉"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "願請受為弟子",
+        "phien_am": "Nguyện thỉnh thụ vi đệ-tử.",
+        "dich_nghia_gloss": "xin thày thu làm đệ-tử,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "且顏先生與寡人遊",
+        "phien_am": "Thả Nhan tiên-sinh dữ quả-nhân du",
+        "dich_nghia_gloss": "thày cùng trắm cùng đi chơi,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "食必太牢出必乘車",
+        "phien_am": "thực tất thái-lao, xuất tất thừa xa,",
+        "dich_nghia_gloss": "ăn cùng yên-tiệc đi cùng xe,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "妻子衣服麗都",
+        "phien_am": "Thê-tử y-phục lệ đô",
+        "dich_nghia_gloss": "vợ con quần áo đẹp tôt."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "斶辭曰夫玉生於山",
+        "phien_am": "Xúc từ viết: phù ngọc sinh ư sơn",
+        "dich_nghia_gloss": "Xúc từ chồi nói: ngọc sinh trong núi"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "制則破焉非弗寶貴矣",
+        "phien_am": "chẽ tắc phá yên, phi phát bảo-quý hĩ",
+        "dich_nghia_gloss": "đem mài rũa thì võ không còn quý nữa"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "然太璞不完",
+        "phien_am": "nhiên thái phác bất hoàn",
+        "dich_nghia_gloss": "mà cũng không còn toàn-vẹn"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "士生乎鄙野推選則祿焉",
+        "phien_am": "Sĩ sinh hồ bi-dã, suy tuyền tắc lộc yên",
+        "dich_nghia_gloss": "kẻ sĩ sinh chồn quê mùa đem dùng thì có tước lộc"
+      }
+    ]
+  }
+}

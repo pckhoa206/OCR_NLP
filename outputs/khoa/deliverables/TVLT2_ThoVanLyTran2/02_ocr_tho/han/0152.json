@@ -1,0 +1,307 @@
+{
+  "page_id": "0152",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 152,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0152_han_000",
+      "bbox": [
+        [
+          171,
+          279
+        ],
+        [
+          763,
+          279
+        ],
+        [
+          763,
+          321
+        ],
+        [
+          171,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          434
+        ],
+        [
+          763,
+          434
+        ],
+        [
+          763,
+          476
+        ],
+        [
+          171,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        279,
+        763,
+        321
+      ],
+      "text": "(36) Hèa thurgng Bach Vàn Doan : túc Hòa thrgng Khöng Thanh Giác 孔 清 doi Tóng",
+      "confidence": 0.8939
+    },
+    {
+      "line_id": "0152_han_001",
+      "bbox": [
+        [
+          168,
+          354
+        ],
+        [
+          763,
+          354
+        ],
+        [
+          763,
+          402
+        ],
+        [
+          168,
+          402
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          509
+        ],
+        [
+          763,
+          509
+        ],
+        [
+          763,
+          557
+        ],
+        [
+          168,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        354,
+        763,
+        402
+      ],
+      "text": "(37) Huyèn Sa: tèn là Sr Bi 币 備, nguèi Phúc-chàu 福, thuòc thé hè thú 6 dòng",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0152_han_002",
+      "bbox": [
+        [
+          173,
+          759
+        ],
+        [
+          763,
+          759
+        ],
+        [
+          763,
+          806
+        ],
+        [
+          173,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          914
+        ],
+        [
+          763,
+          914
+        ],
+        [
+          763,
+          961
+        ],
+        [
+          173,
+          961
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        759,
+        763,
+        806
+      ],
+      "text": "(41) Hung Hóa : tire Thièn su Tòn Tröng 存 奖, nguòi Nguy-phǔ 鬼 府 , thuòc thé",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0152_han_003",
+      "bbox": [
+        [
+          175,
+          926
+        ],
+        [
+          763,
+          926
+        ],
+        [
+          763,
+          964
+        ],
+        [
+          175,
+          964
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1081
+        ],
+        [
+          763,
+          1081
+        ],
+        [
+          763,
+          1119
+        ],
+        [
+          175,
+          1119
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        926,
+        763,
+        964
+      ],
+      "text": "(43) Thach Đàu ; tirc Hoa thurgng liy Thièn 希  (? — 790). ho Trān 柬. là hoe trò cúa",
+      "confidence": 0.8743
+    },
+    {
+      "line_id": "0152_han_004",
+      "bbox": [
+        [
+          238,
+          990
+        ],
+        [
+          1408,
+          995
+        ],
+        [
+          1408,
+          1032
+        ],
+        [
+          237,
+          1027
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1145
+        ],
+        [
+          1408,
+          1150
+        ],
+        [
+          1408,
+          1187
+        ],
+        [
+          237,
+          1182
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        990,
+        1408,
+        1032
+      ],
+      "text": "son j  thue tính Hò-nam  南 có möt khói dá hinh dáng nhu mět tòa dài, Hy",
+      "confidence": 0.9234
+    },
+    {
+      "line_id": "0152_han_005",
+      "bbox": [
+        [
+          291,
+          1429
+        ],
+        [
+          763,
+          1429
+        ],
+        [
+          763,
+          1473
+        ],
+        [
+          291,
+          1473
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          1584
+        ],
+        [
+          763,
+          1584
+        ],
+        [
+          763,
+          1628
+        ],
+        [
+          291,
+          1628
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        1429,
+        763,
+        1473
+      ],
+      "text": "Höa thuong Tu tire thièn su Hanh Tir 行 思 : hièu Jà Thanh Nguyén 青原, hoc",
+      "confidence": 0.8967
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

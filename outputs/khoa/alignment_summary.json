@@ -1,0 +1,60 @@
+{
+  "books": {
+    "HVTT": {
+      "book_id": "HVTT",
+      "code": "HVTT_HanVanTinhTuy",
+      "pair_count": 275,
+      "title_rows": 10,
+      "dich_tho_populated": 256,
+      "missing_count": 0,
+      "error_rate": 0.029091,
+      "is_valid": true,
+      "avg_han_coverage_pct": 65.71,
+      "avg_confidence": 0.604,
+      "phonetic_all_matched": false,
+      "tsv_xlsx_identical": true,
+      "tsv_path": "outputs/khoa/deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_HanVanTinhTuy_parallel.tsv",
+      "xlsx_path": "outputs/khoa/deliverables/HVTT_HanVanTinhTuy/04_dong_hang/HVTT_HanVanTinhTuy_parallel.xlsx",
+      "ocr_pages_loaded": 95,
+      "ocr_mode": "kaggle_gpu"
+    },
+    "TVLT2": {
+      "book_id": "TVLT2",
+      "code": "TVLT2_ThoVanLyTran2",
+      "pair_count": 1693,
+      "title_rows": 58,
+      "dich_tho_populated": 222,
+      "missing_count": 0,
+      "error_rate": 0.069108,
+      "is_valid": true,
+      "avg_han_coverage_pct": 44.09,
+      "avg_confidence": 0.5004,
+      "phonetic_all_matched": false,
+      "tsv_xlsx_identical": true,
+      "tsv_path": "outputs/khoa/deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_ThoVanLyTran2_parallel.tsv",
+      "xlsx_path": "outputs/khoa/deliverables/TVLT2_ThoVanLyTran2/04_dong_hang/TVLT2_ThoVanLyTran2_parallel.xlsx",
+      "ocr_pages_loaded": 199,
+      "ocr_mode": "kaggle_gpu"
+    },
+    "TLTVN": {
+      "book_id": "TLTVN",
+      "code": "TLTVN_TheLoaiTuVN",
+      "pair_count": 520,
+      "title_rows": 50,
+      "dich_tho_populated": 377,
+      "missing_count": 0,
+      "error_rate": 0.030769,
+      "is_valid": true,
+      "avg_han_coverage_pct": 53.17,
+      "avg_confidence": 0.5383,
+      "phonetic_all_matched": false,
+      "tsv_xlsx_identical": true,
+      "tsv_path": "outputs/khoa/deliverables/TLTVN_TheLoaiTuVN/04_dong_hang/TLTVN_TheLoaiTuVN_parallel.tsv",
+      "xlsx_path": "outputs/khoa/deliverables/TLTVN_TheLoaiTuVN/04_dong_hang/TLTVN_TheLoaiTuVN_parallel.xlsx",
+      "ocr_pages_loaded": 104,
+      "ocr_mode": "kaggle_gpu"
+    }
+  },
+  "source_mode": "ocr_json",
+  "total_pairs": 2488
+}

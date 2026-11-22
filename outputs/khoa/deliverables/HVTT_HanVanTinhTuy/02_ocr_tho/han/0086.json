@@ -1,0 +1,405 @@
+{
+  "page_id": "0086",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 86,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0086_han_000",
+      "bbox": [
+        [
+          270,
+          129
+        ],
+        [
+          659,
+          129
+        ],
+        [
+          659,
+          177
+        ],
+        [
+          270,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          250
+        ],
+        [
+          659,
+          250
+        ],
+        [
+          659,
+          298
+        ],
+        [
+          270,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        129,
+        659,
+        177
+      ],
+      "text": "宋人有耕田者",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0086_han_001",
+      "bbox": [
+        [
+          264,
+          320
+        ],
+        [
+          524,
+          323
+        ],
+        [
+          523,
+          375
+        ],
+        [
+          264,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          441
+        ],
+        [
+          524,
+          444
+        ],
+        [
+          523,
+          496
+        ],
+        [
+          264,
+          493
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        320,
+        524,
+        375
+      ],
+      "text": "田中有株",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0086_han_002",
+      "bbox": [
+        [
+          265,
+          520
+        ],
+        [
+          802,
+          518
+        ],
+        [
+          802,
+          566
+        ],
+        [
+          265,
+          569
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          641
+        ],
+        [
+          802,
+          639
+        ],
+        [
+          802,
+          687
+        ],
+        [
+          265,
+          690
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        518,
+        802,
+        569
+      ],
+      "text": "兎走觸株折頸而死",
+      "confidence": 0.9875
+    },
+    {
+      "line_id": "0086_han_003",
+      "bbox": [
+        [
+          263,
+          712
+        ],
+        [
+          730,
+          714
+        ],
+        [
+          729,
+          765
+        ],
+        [
+          263,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          833
+        ],
+        [
+          730,
+          835
+        ],
+        [
+          729,
+          886
+        ],
+        [
+          263,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        712,
+        730,
+        765
+      ],
+      "text": "因释其来而守株",
+      "confidence": 0.9544
+    },
+    {
+      "line_id": "0086_han_004",
+      "bbox": [
+        [
+          262,
+          910
+        ],
+        [
+          521,
+          910
+        ],
+        [
+          521,
+          959
+        ],
+        [
+          262,
+          959
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1031
+        ],
+        [
+          521,
+          1031
+        ],
+        [
+          521,
+          1080
+        ],
+        [
+          262,
+          1080
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        910,
+        521,
+        959
+      ],
+      "text": "冀復得兎",
+      "confidence": 0.9714
+    },
+    {
+      "line_id": "0086_han_005",
+      "bbox": [
+        [
+          264,
+          1108
+        ],
+        [
+          587,
+          1108
+        ],
+        [
+          587,
+          1153
+        ],
+        [
+          264,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          1229
+        ],
+        [
+          587,
+          1229
+        ],
+        [
+          587,
+          1274
+        ],
+        [
+          264,
+          1274
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        1108,
+        587,
+        1153
+      ],
+      "text": "兎不可復得",
+      "confidence": 0.9825
+    },
+    {
+      "line_id": "0086_han_006",
+      "bbox": [
+        [
+          256,
+          1300
+        ],
+        [
+          655,
+          1300
+        ],
+        [
+          655,
+          1351
+        ],
+        [
+          256,
+          1351
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          1421
+        ],
+        [
+          655,
+          1421
+        ],
+        [
+          655,
+          1472
+        ],
+        [
+          256,
+          1472
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        1300,
+        655,
+        1351
+      ],
+      "text": "而身爲宋國笑",
+      "confidence": 0.9313
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "宋人有耕田者",
+      "田中有株",
+      "兎走觸株折頸而死",
+      "因释其来而守株",
+      "冀復得兎",
+      "兎不可復得",
+      "而身爲宋國笑"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "宋人有耕田者",
+        "phien_am": "Tổng nhân hữu canh điền giả",
+        "dich_nghia_gloss": "Có anh cây ruộng người nước tông"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "田中有株",
+        "phien_am": "Điền trung hữu chu",
+        "dich_nghia_gloss": "Trong ruộng có gốc cây"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "兎走觸株折頸而死",
+        "phien_am": "Thõ tầu xúc chu, chiết cảnh nhi tử.",
+        "dich_nghia_gloss": "Con thỏ chạy dụng gốc cây, gắy có chềt"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "因释其来而守株",
+        "phien_am": "Nhân thích kỳ lỗi nhi thủ chu,",
+        "dich_nghia_gloss": "Vì thế người đó bỏ cày mà giữ gốc cây"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "冀復得兎",
+        "phien_am": "ký phục đác thõ.",
+        "dich_nghia_gloss": "mong lại bắt được thỏ."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "兎不可復得",
+        "phien_am": "Thõ bãt khả phục đắc,",
+        "dich_nghia_gloss": "Nhưng không thể lại bắt được thỏ nữa,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "而身爲宋國笑",
+        "phien_am": "nhi thân vi Tõng quốc tiêu.",
+        "dich_nghia_gloss": "mà mình thì bị nước tông chê cười."
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "page_id": "0036",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 36,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0036_han_000",
+      "bbox": [
+        [
+          244,
+          128
+        ],
+        [
+          635,
+          128
+        ],
+        [
+          635,
+          176
+        ],
+        [
+          244,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          249
+        ],
+        [
+          635,
+          249
+        ],
+        [
+          635,
+          297
+        ],
+        [
+          244,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        128,
+        635,
+        176
+      ],
+      "text": "三卿其寵大矣",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0036_han_001",
+      "bbox": [
+        [
+          247,
+          295
+        ],
+        [
+          775,
+          295
+        ],
+        [
+          775,
+          339
+        ],
+        [
+          247,
+          339
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          416
+        ],
+        [
+          775,
+          416
+        ],
+        [
+          775,
+          460
+        ],
+        [
+          247,
+          460
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        295,
+        775,
+        339
+      ],
+      "text": "一朝而滅莫之哀也",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0036_han_002",
+      "bbox": [
+        [
+          245,
+          460
+        ],
+        [
+          503,
+          460
+        ],
+        [
+          503,
+          509
+        ],
+        [
+          245,
+          509
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          581
+        ],
+        [
+          503,
+          581
+        ],
+        [
+          503,
+          630
+        ],
+        [
+          245,
+          630
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        460,
+        503,
+        509
+      ],
+      "text": "唯無德也",
+      "confidence": 0.9891
+    },
+    {
+      "line_id": "0036_han_003",
+      "bbox": [
+        [
+          248,
+          624
+        ],
+        [
+          841,
+          624
+        ],
+        [
+          841,
+          671
+        ],
+        [
+          248,
+          671
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          745
+        ],
+        [
+          841,
+          745
+        ],
+        [
+          841,
+          792
+        ],
+        [
+          248,
+          792
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        624,
+        841,
+        671
+      ],
+      "text": "今吾子有欒武子之貧",
+      "confidence": 0.9591
+    },
+    {
+      "line_id": "0036_han_004",
+      "bbox": [
+        [
+          248,
+          784
+        ],
+        [
+          908,
+          786
+        ],
+        [
+          908,
+          835
+        ],
+        [
+          248,
+          833
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          905
+        ],
+        [
+          908,
+          907
+        ],
+        [
+          908,
+          956
+        ],
+        [
+          248,
+          954
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        784,
+        908,
+        835
+      ],
+      "text": "吾以爲能其德矣是以賀",
+      "confidence": 0.9465
+    },
+    {
+      "line_id": "0036_han_005",
+      "bbox": [
+        [
+          246,
+          991
+        ],
+        [
+          709,
+          993
+        ],
+        [
+          709,
+          1042
+        ],
+        [
+          246,
+          1039
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1112
+        ],
+        [
+          709,
+          1114
+        ],
+        [
+          709,
+          1163
+        ],
+        [
+          246,
+          1160
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        991,
+        709,
+        1042
+      ],
+      "text": "若不憂德之不建",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0036_han_006",
+      "bbox": [
+        [
+          248,
+          1158
+        ],
+        [
+          643,
+          1158
+        ],
+        [
+          643,
+          1205
+        ],
+        [
+          248,
+          1205
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1279
+        ],
+        [
+          643,
+          1279
+        ],
+        [
+          643,
+          1326
+        ],
+        [
+          248,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1158,
+        643,
+        1205
+      ],
+      "text": "而患貨之不足",
+      "confidence": 0.9982
+    },
+    {
+      "line_id": "0036_han_007",
+      "bbox": [
+        [
+          251,
+          1322
+        ],
+        [
+          772,
+          1322
+        ],
+        [
+          772,
+          1366
+        ],
+        [
+          251,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1443
+        ],
+        [
+          772,
+          1443
+        ],
+        [
+          772,
+          1487
+        ],
+        [
+          251,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1322,
+        772,
+        1366
+      ],
+      "text": "將弔不暇何賀之有",
+      "confidence": 0.9663
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "三卿其寵大矣",
+      "一朝而滅莫之哀也",
+      "唯無德也",
+      "今吾子有欒武子之貧",
+      "吾以爲能其德矣是以賀",
+      "若不憂德之不建",
+      "而患貨之不足",
+      "將弔不暇何賀之有"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "三卿其寵大矣",
+        "phien_am": "tam khanh, kỳ sủng đại hì",
+        "dich_nghia_gloss": "ba làm quan khanh, vua yêu đã cực vậy"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "一朝而滅莫之哀也",
+        "phien_am": "Nhất triêu nhi diệt, mạc chi ai dã",
+        "dich_nghia_gloss": "một sớm diệt vong, không ai thương"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "唯無德也",
+        "phien_am": "duy vô đức dã.",
+        "dich_nghia_gloss": "chỉ vì không có đức vậy"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "今吾子有欒武子之貧",
+        "phien_am": "Kim ngô tử hữu Loan-vũ-tử chi bần",
+        "dich_nghia_gloss": "Nay bác nghèo như Loan-vũ-tử"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾以爲能其德矣是以賀",
+        "phien_am": "ngô dĩ vi năng kỳ đức hĩ, thị dĩ hạ.",
+        "dich_nghia_gloss": "nhưng cái đức cũng sánh Loan-vũ-tử, nên chúc mừng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "若不憂德之不建",
+        "phien_am": "Nhược bất ưu đức chi bất kiên",
+        "dich_nghia_gloss": "Nêu không lo sửa đức"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "而患貨之不足",
+        "phien_am": "nhi hoạn hóa chi bắt túc,",
+        "dich_nghia_gloss": "chỉ sợ của cải không đủ"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將弔不暇何賀之有",
+        "phien_am": "tương điều bất hạ, hà hạ chi hữu?",
+        "dich_nghia_gloss": "thì phải chia buồn, chứ có gì mà mừng"
+      }
+    ]
+  }
+}

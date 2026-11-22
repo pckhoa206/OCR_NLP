@@ -1,0 +1,459 @@
+{
+  "page_id": "0078",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 78,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0078_han_000",
+      "bbox": [
+        [
+          244,
+          129
+        ],
+        [
+          571,
+          126
+        ],
+        [
+          571,
+          172
+        ],
+        [
+          244,
+          174
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          250
+        ],
+        [
+          571,
+          247
+        ],
+        [
+          571,
+          293
+        ],
+        [
+          244,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        126,
+        571,
+        174
+      ],
+      "text": "以事婦人乎",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0078_han_001",
+      "bbox": [
+        [
+          247,
+          286
+        ],
+        [
+          849,
+          284
+        ],
+        [
+          849,
+          331
+        ],
+        [
+          247,
+          334
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          407
+        ],
+        [
+          849,
+          405
+        ],
+        [
+          849,
+          452
+        ],
+        [
+          247,
+          455
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        284,
+        849,
+        334
+      ],
+      "text": "寧廉潔正直以自清乎",
+      "confidence": 0.9963
+    },
+    {
+      "line_id": "0078_han_002",
+      "bbox": [
+        [
+          249,
+          447
+        ],
+        [
+          987,
+          447
+        ],
+        [
+          987,
+          491
+        ],
+        [
+          249,
+          491
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          568
+        ],
+        [
+          987,
+          568
+        ],
+        [
+          987,
+          612
+        ],
+        [
+          249,
+          612
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        447,
+        987,
+        491
+      ],
+      "text": "將突梯滑稽如脂如韋以潔楹乎",
+      "confidence": 0.9955
+    },
+    {
+      "line_id": "0078_han_003",
+      "bbox": [
+        [
+          246,
+          693
+        ],
+        [
+          849,
+          691
+        ],
+        [
+          849,
+          738
+        ],
+        [
+          246,
+          740
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          814
+        ],
+        [
+          849,
+          812
+        ],
+        [
+          849,
+          859
+        ],
+        [
+          246,
+          861
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        691,
+        849,
+        740
+      ],
+      "text": "寧昴昴若千里之駒乎",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0078_han_004",
+      "bbox": [
+        [
+          246,
+          848
+        ],
+        [
+          784,
+          846
+        ],
+        [
+          784,
+          894
+        ],
+        [
+          246,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          969
+        ],
+        [
+          784,
+          967
+        ],
+        [
+          784,
+          1015
+        ],
+        [
+          246,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        846,
+        784,
+        896
+      ],
+      "text": "將汜汜若水中之鳧",
+      "confidence": 0.8564
+    },
+    {
+      "line_id": "0078_han_005",
+      "bbox": [
+        [
+          244,
+          1004
+        ],
+        [
+          921,
+          1001
+        ],
+        [
+          921,
+          1049
+        ],
+        [
+          244,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1125
+        ],
+        [
+          921,
+          1122
+        ],
+        [
+          921,
+          1170
+        ],
+        [
+          244,
+          1173
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1001,
+        921,
+        1052
+      ],
+      "text": "與波上下偷以全吾軀乎",
+      "confidence": 0.9962
+    },
+    {
+      "line_id": "0078_han_006",
+      "bbox": [
+        [
+          245,
+          1160
+        ],
+        [
+          707,
+          1158
+        ],
+        [
+          707,
+          1203
+        ],
+        [
+          245,
+          1205
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1281
+        ],
+        [
+          707,
+          1279
+        ],
+        [
+          707,
+          1324
+        ],
+        [
+          245,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1158,
+        707,
+        1205
+      ],
+      "text": "寧與騏騏亢軛乎",
+      "confidence": 0.9627
+    },
+    {
+      "line_id": "0078_han_007",
+      "bbox": [
+        [
+          246,
+          1318
+        ],
+        [
+          712,
+          1316
+        ],
+        [
+          712,
+          1364
+        ],
+        [
+          246,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1439
+        ],
+        [
+          712,
+          1437
+        ],
+        [
+          712,
+          1485
+        ],
+        [
+          246,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1316,
+        712,
+        1366
+      ],
+      "text": "將隨駑馬之迹乎",
+      "confidence": 0.9708
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "以事婦人乎",
+      "寧廉潔正直以自清乎",
+      "將突梯滑稽如脂如韋以潔楹乎",
+      "寧昴昴若千里之駒乎",
+      "將汜汜若水中之鳧",
+      "與波上下偷以全吾軀乎",
+      "寧與騏騏亢軛乎",
+      "將隨駑馬之迹乎"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "以事婦人乎",
+        "phien_am": "dĩ sự phụ nhân hô ?",
+        "dich_nghia_gloss": "để phụng-sự đàn bà ?"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "寧廉潔正直以自清乎",
+        "phien_am": "Ninh liêm khiết chính trực dĩ tự thanh hồ",
+        "dich_nghia_gloss": "nên thanh liêm ngay thắng đề giữ trong sạch"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "將突梯滑稽如脂如韋以潔楹乎",
+        "phien_am": "Tương đột thê hoạt kê, như chi như vi, dĩ hiệp",
+        "dich_nghia_gloss": "doanh hồ 2 hay mềm mại tròn trặn, như mữ như da để cho trơn cửa ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "寧昴昴若千里之駒乎",
+        "phien_am": "Ninh ngang ngang nhược thiên lý chi câu hồ",
+        "dich_nghia_gloss": "nên tự đắc như ngựa chạy ngàn dặm"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "將汜汜若水中之鳧",
+        "phien_am": "tương phiẽm phiêm nhược thủy trung chi phù,",
+        "dich_nghia_gloss": "hay nên lênh đênh như chim le ở dưới nước"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "與波上下偷以全吾軀乎",
+        "phien_am": "dữ ba thướng há, thâu dĩ toàn ngô khu hồ ?",
+        "dich_nghia_gloss": "theo sóng nổi chìm, để giữ thân cho vẹn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "寧與騏騏亢軛乎",
+        "phien_am": "Ninh dữ ký ký kháng ách hồ",
+        "dich_nghia_gloss": "nên cùng ngựa kỳ ngựa ký lộn ách chăng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將隨駑馬之迹乎",
+        "phien_am": "Tương tùy nô mã chi tích hồ ?",
+        "dich_nghia_gloss": "hay theo dầu chân ngựa xầu ?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "page_id": "0094",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 94,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0094_han_000",
+      "bbox": [
+        [
+          266,
+          170
+        ],
+        [
+          808,
+          170
+        ],
+        [
+          808,
+          217
+        ],
+        [
+          266,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          291
+        ],
+        [
+          808,
+          291
+        ],
+        [
+          808,
+          338
+        ],
+        [
+          266,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        170,
+        808,
+        217
+      ],
+      "text": "近塞之人死者十九",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0094_han_001",
+      "bbox": [
+        [
+          264,
+          355
+        ],
+        [
+          941,
+          352
+        ],
+        [
+          941,
+          400
+        ],
+        [
+          264,
+          402
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          476
+        ],
+        [
+          941,
+          473
+        ],
+        [
+          941,
+          521
+        ],
+        [
+          264,
+          523
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        352,
+        941,
+        402
+      ],
+      "text": "此獨以跛之故父子相保",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0094_han_002",
+      "bbox": [
+        [
+          265,
+          585
+        ],
+        [
+          874,
+          581
+        ],
+        [
+          874,
+          629
+        ],
+        [
+          265,
+          632
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          706
+        ],
+        [
+          874,
+          702
+        ],
+        [
+          874,
+          750
+        ],
+        [
+          265,
+          753
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        581,
+        874,
+        632
+      ],
+      "text": "故福之為禍禍之爲福",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0094_han_003",
+      "bbox": [
+        [
+          266,
+          769
+        ],
+        [
+          878,
+          766
+        ],
+        [
+          878,
+          813
+        ],
+        [
+          266,
+          817
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          890
+        ],
+        [
+          878,
+          887
+        ],
+        [
+          878,
+          934
+        ],
+        [
+          266,
+          938
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        766,
+        878,
+        817
+      ],
+      "text": "化不可極深不可測也",
+      "confidence": 0.9882
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "近塞之人死者十九",
+      "此獨以跛之故父子相保",
+      "故福之為禍禍之爲福",
+      "化不可極深不可測也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "近塞之人死者十九",
+        "phien_am": "cận tái chi nhân, tử giả thập cửu.",
+        "dich_nghia_gloss": "những người gần ải chết đền chín phân mười."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "此獨以跛之故父子相保",
+        "phien_am": "Thử độc dĩ bà chi cõ, phụ tử tương bảo.",
+        "dich_nghia_gloss": "Chỉ vì cớ què chân, mà cha con cùng bảo toàn được."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "故福之為禍禍之爲福",
+        "phien_am": "Cõ phúc chi vi họa, họa chi vi phúc,",
+        "dich_nghia_gloss": "Bởi vậy may là rủi, rủi là may,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "化不可極深不可測也",
+        "phien_am": "hóa bãt khả cực, thám bãt khả trắc dã.",
+        "dich_nghia_gloss": "sự biền hóa không thể hiểu thầu, lẽ sâu-xa không thể lường tính được"
+      }
+    ]
+  }
+}

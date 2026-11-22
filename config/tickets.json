@@ -488,6 +488,170 @@
         "Test suite 39/39 tests vượt qua và review_evaluator.py xác nhận APPROVED."
       ],
       "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
+      "unblocks": [
+        "T19"
+      ]
+    },
+    {
+      "id": "T19",
+      "title": "Mở rộng Manifest 4 cột, Trích xuất PDF tr.7 HVTT & Chuẩn hóa 01_nguon/{han,viet}",
+      "phase": "Phase 14: Schema Upgrade & Source Completeness",
+      "owner_agent": "data_architect",
+      "status": "DONE",
+      "depends_on": [
+        "T18"
+      ],
+      "inputs": [
+        "config/book_manifest.json",
+        "scripts/extract_pages.swift",
+        "data/Hán Văn Tinh Túy - Lãng Nhân.pdf"
+      ],
+      "outputs": [
+        "config/book_manifest.json",
+        "scripts/extract_pages.swift",
+        "deliverables/HVTT_HanVanTinhTuy/01_nguon/0007.png",
+        "outputs/khoa/deliverables/HVTT_HanVanTinhTuy/02_ocr_tho/han/0007.json",
+        "outputs/khoa/deliverables/HVTT_HanVanTinhTuy/02_ocr_tho/viet/0007.json",
+        "config/tickets.json",
+        "docs/WAYFINDER.md"
+      ],
+      "acceptance_criteria": [
+        "HVTT valid_range bắt đầu từ PDF p.7 (375 trang), TVLT2/TLTVN khai báo columns 4 cột.",
+        "Trích xuất thành công 0007.png và tạo 0007.json đã kiểm chứng trực quan từ trang gốc.",
+        "outputs/khoa/deliverables/*/01_nguon/ có đủ PNG hardlink cùng 2 thư mục han/, viet/ không chứa credential."
+      ],
+      "verification_cmd": "python3 .agents/skills/spec-to-tickets/scripts/validate_tickets.py",
+      "unblocks": [
+        "T20",
+        "T21"
+      ]
+    },
+    {
+      "id": "T20",
+      "title": "Nâng cấp Text Cleaner (giữ niên hiệu/số), Schema QA 4 cột, Workbench & HF Packaging",
+      "phase": "Phase 14: Schema Upgrade & Source Completeness",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T19"
+      ],
+      "inputs": [
+        "src/text_cleaner.py",
+        "src/exporter_and_qa.py",
+        "src/workbench_editor.py",
+        "web_app/app.py"
+      ],
+      "outputs": [
+        "src/text_cleaner.py",
+        "src/exporter_and_qa.py",
+        "src/workbench_editor.py",
+        "web_app/app.py",
+        "scripts/package_hf_dataset.py",
+        "scripts/diagnose_corpus_quality.py",
+        "src/word_aligner.py",
+        ".agents/skills/handoff/scripts/handoff.py"
+      ],
+      "acceptance_criteria": [
+        "Làm sạch (?)/chỉ mục số mũ trước split_viet_sentences nhưng bảo toàn 100% năm/niên hiệu/ngày tháng/con số.",
+        "validate_pairs chấp nhận dòng tiêu đề 4 cột và dòng khuyết cột tùy tác phẩm.",
+        "merge_rows không chèn ', ' trên ô trống và package_hf_dataset không bị điểm 0.0 cho tiêu đề."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k 'TestTextCleaner or TestWorkbenchEditor or TestHuggingFacePackagingAndNMTBenchmark' -v",
+      "unblocks": [
+        "T22"
+      ]
+    },
+    {
+      "id": "T21",
+      "title": "Nâng cấp Layout HVTT (Tiêu đề/Dịch thơ/Wrap) & State Machine Tách Tác phẩm TVLT2/TLTVN",
+      "phase": "Phase 15: Layout & Work Segmentation State Machine",
+      "owner_agent": "kaggle_ocr_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T19"
+      ],
+      "inputs": [
+        "kaggle_ocr/ocr_pipeline_kaggle.py",
+        "outputs/khoa/deliverables/"
+      ],
+      "outputs": [
+        "kaggle_ocr/ocr_pipeline_kaggle.py",
+        "src/work_segmenter.py"
+      ],
+      "acceptance_criteria": [
+        "HVTT tách đúng 9 trang tiêu đề lẻ, 36 trang Dịch thơ đối diện, gộp 10/10 wrap Phiên âm và nhận diện thơ không Dịch nghĩa (p0100).",
+        "TVLT2 & TLTVN thu trọn Dịch thơ / Dịch theo nguyên điệu, không làm mất tác phẩm nửa dưới trang.",
+        "State machine src/work_segmenter.py xử lý trích dẫn CHÚ THÍCH, Niêm tụng kệ, Bài 3, chú thích p0139 và liên hoàn từ."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestEndToEndCorpusPipeline -v",
+      "unblocks": [
+        "T22"
+      ]
+    },
+    {
+      "id": "T22",
+      "title": "Dóng hàng 4 cột, Thêm dòng tiêu đề, Tái tạo Demo & Chạy lại 397(+1) trang Khoa",
+      "phase": "Phase 16: Unified 4-Column Alignment & Demo Regeneration",
+      "owner_agent": "alignment_qa_engineer",
+      "status": "DONE",
+      "depends_on": [
+        "T20",
+        "T21"
+      ],
+      "inputs": [
+        "src/work_segmenter.py",
+        "kaggle_ocr/ocr_pipeline_kaggle.py",
+        "outputs/khoa/deliverables/"
+      ],
+      "outputs": [
+        "src/aligner.py",
+        "src/corpus_pipeline.py",
+        "scripts/run_pilot_demo.py",
+        "scripts/demo_1_2_pages.py",
+        "demo_giang_vien/",
+        "deliverables/",
+        "outputs/khoa/alignment_summary.json"
+      ],
+      "acceptance_criteria": [
+        "demo_giang_vien/*_demo.{tsv,xlsx} cả 3 sách có đủ 4 cột, dòng tiêu đề riêng và Dịch thơ (kể cả bài 1 HVTT và Thu dạ hoài ngâm).",
+        "outputs/khoa đạt MISSING=0 ở HVTT, error_rate <= 25% trên cả 3 sách và tsv_xlsx_identical == true.",
+        "Xóa các file ngắn trùng tên HVTT_parallel.*/TVLT2_parallel.*/TLTVN_parallel.* cũ."
+      ],
+      "verification_cmd": "/Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki/.venv/bin/pytest -k TestExporterAndQAAndPilotDeliverables -v",
+      "unblocks": [
+        "T23"
+      ]
+    },
+    {
+      "id": "T23",
+      "title": "Kiểm định TDD Toàn diện, Cổng review_evaluator.py, Hậu kiểm lỗi & Handoff",
+      "phase": "Phase 17: Final Verification Gate & Handoff",
+      "owner_agent": "plan_code_reviewer",
+      "status": "DONE",
+      "depends_on": [
+        "T22"
+      ],
+      "inputs": [
+        "tests/*",
+        "outputs/khoa/deliverables/*",
+        "docs/BAO_CAO_TONG_KET_NHOM.md"
+      ],
+      "outputs": [
+        "tests/test_pipeline.py",
+        "tests/test_end_to_end_pipeline.py",
+        "tests/test_workbench_editor.py",
+        "tests/test_t22_4col_alignment.py",
+        "docs/DANH_SACH_HAU_KIEM_LOI.md",
+        "docs/BAO_CAO_TONG_KET_NHOM.md",
+        "docs/WAYFINDER.md",
+        "docs/HANDOFF.md"
+      ],
+      "acceptance_criteria": [
+        "100% pytest suite PASS với bộ test 4 cột và tiêu đề mới.",
+        "review_evaluator.py trả về status == APPROVED và test_status == PASS.",
+        "Xuất bảng kê lỗi sót để hậu kiểm tay và cập nhật HANDOFF/WAYFINDER chính xác."
+      ],
+      "verification_cmd": "python3 /Users/khoa/.gemini/config/skills/subagent-plan-reviewer/scripts/review_evaluator.py --spec docs/BANG_KIEM_KE_NGUON.md --proposal-file docs/HANDOFF.md --workspace /Users/khoa/study/nam_3_ky_1/nlp/LAB/lab_gki",
       "unblocks": []
     }
   ]

@@ -1,0 +1,497 @@
+{
+  "page_id": "0013",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 13,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0013_viet_000",
+      "bbox": [
+        [
+          196,
+          55
+        ],
+        [
+          541,
+          57
+        ],
+        [
+          541,
+          95
+        ],
+        [
+          196,
+          93
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          176
+        ],
+        [
+          541,
+          178
+        ],
+        [
+          541,
+          216
+        ],
+        [
+          196,
+          214
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        55,
+        541,
+        95
+      ],
+      "text": "TÚ SẢN THỤ CHÍNH",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0013_viet_001",
+      "bbox": [
+        [
+          967,
+          61
+        ],
+        [
+          996,
+          61
+        ],
+        [
+          996,
+          96
+        ],
+        [
+          967,
+          96
+        ]
+      ],
+      "bbox_original": [
+        [
+          967,
+          182
+        ],
+        [
+          996,
+          182
+        ],
+        [
+          996,
+          217
+        ],
+        [
+          967,
+          217
+        ]
+      ],
+      "box_xyxy": [
+        967,
+        61,
+        996,
+        96
+      ],
+      "text": "7",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0013_viet_002",
+      "bbox": [
+        [
+          294,
+          204
+        ],
+        [
+          952,
+          208
+        ],
+        [
+          952,
+          245
+        ],
+        [
+          294,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          325
+        ],
+        [
+          952,
+          329
+        ],
+        [
+          952,
+          366
+        ],
+        [
+          294,
+          362
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        204,
+        952,
+        245
+      ],
+      "text": "- Chính-sách khoan sinh biên, lẽ thường.",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0013_viet_003",
+      "bbox": [
+        [
+          363,
+          373
+        ],
+        [
+          920,
+          377
+        ],
+        [
+          920,
+          415
+        ],
+        [
+          363,
+          411
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          494
+        ],
+        [
+          920,
+          498
+        ],
+        [
+          920,
+          536
+        ],
+        [
+          363,
+          532
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        373,
+        920,
+        415
+      ],
+      "text": "a biên đành phải dụng lõi cương,",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0013_viet_004",
+      "bbox": [
+        [
+          262,
+          539
+        ],
+        [
+          883,
+          544
+        ],
+        [
+          883,
+          583
+        ],
+        [
+          262,
+          577
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          660
+        ],
+        [
+          883,
+          665
+        ],
+        [
+          883,
+          704
+        ],
+        [
+          262,
+          698
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        539,
+        883,
+        583
+      ],
+      "text": "a Lõi cương, ắt buộc dân càng xót-xa.",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0013_viet_005",
+      "bbox": [
+        [
+          294,
+          706
+        ],
+        [
+          766,
+          709
+        ],
+        [
+          765,
+          747
+        ],
+        [
+          294,
+          744
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          827
+        ],
+        [
+          766,
+          830
+        ],
+        [
+          765,
+          868
+        ],
+        [
+          294,
+          865
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        706,
+        766,
+        747
+      ],
+      "text": "a Thì ta lại nới ra cho nhẹ:",
+      "confidence": 0.8975
+    },
+    {
+      "line_id": "0013_viet_006",
+      "bbox": [
+        [
+          294,
+          875
+        ],
+        [
+          986,
+          880
+        ],
+        [
+          986,
+          918
+        ],
+        [
+          294,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          996
+        ],
+        [
+          986,
+          1001
+        ],
+        [
+          986,
+          1039
+        ],
+        [
+          294,
+          1034
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        875,
+        986,
+        918
+      ],
+      "text": "a Cương cứu khoan, khoan chẽ lại cương v.",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0013_viet_007",
+      "bbox": [
+        [
+          364,
+          1043
+        ],
+        [
+          859,
+          1051
+        ],
+        [
+          859,
+          1089
+        ],
+        [
+          363,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1164
+        ],
+        [
+          859,
+          1172
+        ],
+        [
+          859,
+          1210
+        ],
+        [
+          363,
+          1203
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1043,
+        859,
+        1089
+      ],
+      "text": "a Kinh Thi: Dân sông dễ-dàng.",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0013_viet_008",
+      "bbox": [
+        [
+          261,
+          1215
+        ],
+        [
+          881,
+          1219
+        ],
+        [
+          881,
+          1258
+        ],
+        [
+          261,
+          1253
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          1336
+        ],
+        [
+          881,
+          1340
+        ],
+        [
+          881,
+          1379
+        ],
+        [
+          261,
+          1374
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1215,
+        881,
+        1258
+      ],
+      "text": "a Tất ơn nhà nước tràn-lan các vùng.",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0013_viet_009",
+      "bbox": [
+        [
+          290,
+          1380
+        ],
+        [
+          849,
+          1385
+        ],
+        [
+          849,
+          1428
+        ],
+        [
+          290,
+          1423
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1501
+        ],
+        [
+          849,
+          1506
+        ],
+        [
+          849,
+          1549
+        ],
+        [
+          290,
+          1544
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        1380,
+        849,
+        1428
+      ],
+      "text": "u Ây chính-thề khoan-dung là thẽ,",
+      "confidence": 0.8972
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

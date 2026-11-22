@@ -1,0 +1,221 @@
+{
+  "page_id": "0007",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 7,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0007_viet_000",
+      "bbox": [
+        [
+          332,
+          240
+        ],
+        [
+          784,
+          240
+        ],
+        [
+          784,
+          285
+        ],
+        [
+          332,
+          285
+        ]
+      ],
+      "bbox_original": [
+        [
+          332,
+          361
+        ],
+        [
+          784,
+          361
+        ],
+        [
+          784,
+          406
+        ],
+        [
+          332,
+          406
+        ]
+      ],
+      "box_xyxy": [
+        332,
+        240,
+        784,
+        285
+      ],
+      "text": "TỬ-SẢN LUẬN CHÍNH",
+      "confidence": 0.988
+    },
+    {
+      "line_id": "0007_viet_001",
+      "bbox": [
+        [
+          308,
+          310
+        ],
+        [
+          807,
+          310
+        ],
+        [
+          807,
+          355
+        ],
+        [
+          308,
+          355
+        ]
+      ],
+      "bbox_original": [
+        [
+          308,
+          431
+        ],
+        [
+          807,
+          431
+        ],
+        [
+          807,
+          476
+        ],
+        [
+          308,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        308,
+        310,
+        807,
+        355
+      ],
+      "text": "Tử-Sản bàn về việc chính-trị.",
+      "confidence": 0.985
+    },
+    {
+      "line_id": "0007_viet_002",
+      "bbox": [
+        [
+          807,
+          485
+        ],
+        [
+          1021,
+          485
+        ],
+        [
+          1021,
+          530
+        ],
+        [
+          807,
+          530
+        ]
+      ],
+      "bbox_original": [
+        [
+          807,
+          606
+        ],
+        [
+          1021,
+          606
+        ],
+        [
+          1021,
+          651
+        ],
+        [
+          807,
+          651
+        ]
+      ],
+      "box_xyxy": [
+        807,
+        485,
+        1021,
+        530
+      ],
+      "text": "Tả Khâu Minh",
+      "confidence": 0.984
+    },
+    {
+      "line_id": "0007_viet_003",
+      "bbox": [
+        [
+          166,
+          610
+        ],
+        [
+          1021,
+          610
+        ],
+        [
+          1021,
+          655
+        ],
+        [
+          166,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          731
+        ],
+        [
+          1021,
+          731
+        ],
+        [
+          1021,
+          776
+        ],
+        [
+          166,
+          776
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        610,
+        1021,
+        655
+      ],
+      "text": "TIỂU-DẪN. — Tả Khâu-Minh là sử-quan nước Lỗ đời Xuân-Thu.",
+      "confidence": 0.981
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_title_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [],
+    "title_block": {
+      "chu_han": "子 產 論 政",
+      "phien_am": "TỬ-SẢN LUẬN CHÍNH",
+      "dich_nghia": "Tử-Sản bàn về việc chính-trị."
+    },
+    "dich_tho_y_centers": []
+  }
+}

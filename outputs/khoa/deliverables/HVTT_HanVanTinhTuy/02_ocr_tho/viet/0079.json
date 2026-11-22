@@ -1,0 +1,450 @@
+{
+  "page_id": "0079",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 79,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0079_viet_000",
+      "bbox": [
+        [
+          194,
+          91
+        ],
+        [
+          360,
+          91
+        ],
+        [
+          360,
+          134
+        ],
+        [
+          194,
+          134
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          212
+        ],
+        [
+          360,
+          212
+        ],
+        [
+          360,
+          255
+        ],
+        [
+          194,
+          255
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        91,
+        360,
+        134
+      ],
+      "text": "BÒC-CU",
+      "confidence": 0.8373
+    },
+    {
+      "line_id": "0079_viet_001",
+      "bbox": [
+        [
+          951,
+          94
+        ],
+        [
+          996,
+          94
+        ],
+        [
+          996,
+          133
+        ],
+        [
+          951,
+          133
+        ]
+      ],
+      "bbox_original": [
+        [
+          951,
+          215
+        ],
+        [
+          996,
+          215
+        ],
+        [
+          996,
+          254
+        ],
+        [
+          951,
+          254
+        ]
+      ],
+      "box_xyxy": [
+        951,
+        94,
+        996,
+        133
+      ],
+      "text": "73",
+      "confidence": 0.935
+    },
+    {
+      "line_id": "0079_viet_002",
+      "bbox": [
+        [
+          265,
+          285
+        ],
+        [
+          956,
+          284
+        ],
+        [
+          956,
+          325
+        ],
+        [
+          265,
+          326
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          406
+        ],
+        [
+          956,
+          405
+        ],
+        [
+          956,
+          446
+        ],
+        [
+          265,
+          447
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        284,
+        956,
+        326
+      ],
+      "text": "- Hay nên mềm-yếu như chiều phụ-nhân ?",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0079_viet_003",
+      "bbox": [
+        [
+          301,
+          464
+        ],
+        [
+          937,
+          464
+        ],
+        [
+          937,
+          501
+        ],
+        [
+          301,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          301,
+          585
+        ],
+        [
+          937,
+          585
+        ],
+        [
+          937,
+          622
+        ],
+        [
+          301,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        301,
+        464,
+        937,
+        501
+      ],
+      "text": "- Nên trong sạch giữ thân ngay-thắng ?",
+      "confidence": 0.8943
+    },
+    {
+      "line_id": "0079_viet_004",
+      "bbox": [
+        [
+          302,
+          642
+        ],
+        [
+          936,
+          642
+        ],
+        [
+          936,
+          676
+        ],
+        [
+          302,
+          676
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          763
+        ],
+        [
+          936,
+          763
+        ],
+        [
+          936,
+          797
+        ],
+        [
+          302,
+          797
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        642,
+        936,
+        676
+      ],
+      "text": "u Hay còng lưng, tròn-trăn nhụa-nhầy ?",
+      "confidence": 0.884
+    },
+    {
+      "line_id": "0079_viet_005",
+      "bbox": [
+        [
+          367,
+          816
+        ],
+        [
+          849,
+          818
+        ],
+        [
+          849,
+          856
+        ],
+        [
+          367,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          367,
+          937
+        ],
+        [
+          849,
+          939
+        ],
+        [
+          849,
+          977
+        ],
+        [
+          367,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        367,
+        816,
+        849,
+        856
+      ],
+      "text": "- Nên cho rõ sức ngựa hay ?",
+      "confidence": 0.8885
+    },
+    {
+      "line_id": "0079_viet_006",
+      "bbox": [
+        [
+          268,
+          994
+        ],
+        [
+          883,
+          994
+        ],
+        [
+          883,
+          1031
+        ],
+        [
+          268,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1115
+        ],
+        [
+          883,
+          1115
+        ],
+        [
+          883,
+          1152
+        ],
+        [
+          268,
+          1152
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        994,
+        883,
+        1031
+      ],
+      "text": "a Hay nên bập-bỗng như bày vịt le?",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0079_viet_007",
+      "bbox": [
+        [
+          300,
+          1170
+        ],
+        [
+          748,
+          1170
+        ],
+        [
+          748,
+          1210
+        ],
+        [
+          300,
+          1210
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1291
+        ],
+        [
+          748,
+          1291
+        ],
+        [
+          748,
+          1331
+        ],
+        [
+          300,
+          1331
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1170,
+        748,
+        1210
+      ],
+      "text": "c vó kỳ-ký đợi khoe lài lạ",
+      "confidence": 0.8751
+    },
+    {
+      "line_id": "0079_viet_008",
+      "bbox": [
+        [
+          300,
+          1347
+        ],
+        [
+          991,
+          1348
+        ],
+        [
+          991,
+          1388
+        ],
+        [
+          300,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1468
+        ],
+        [
+          991,
+          1469
+        ],
+        [
+          991,
+          1509
+        ],
+        [
+          300,
+          1508
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1347,
+        991,
+        1388
+      ],
+      "text": "u Hay chạy luôn theo ngựa dung-thường ?",
+      "confidence": 0.8874
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "page_id": "0139",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 139,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0139_han_000",
+      "bbox": [
+        [
+          88,
+          923
+        ],
+        [
+          1053,
+          922
+        ],
+        [
+          1053,
+          956
+        ],
+        [
+          88,
+          957
+        ]
+      ],
+      "bbox_original": [
+        [
+          88,
+          1038
+        ],
+        [
+          1053,
+          1037
+        ],
+        [
+          1053,
+          1071
+        ],
+        [
+          88,
+          1072
+        ]
+      ],
+      "box_xyxy": [
+        88,
+        922,
+        1053,
+        957
+      ],
+      "text": "(烏夜啼 - Qu kêu ban đêm), đ nói v đim lành. V nguồn gc điu Ô d đ,",
+      "confidence": 0.9466
+    },
+    {
+      "line_id": "0139_han_001",
+      "bbox": [
+        [
+          88,
+          962
+        ],
+        [
+          1053,
+          961
+        ],
+        [
+          1053,
+          995
+        ],
+        [
+          88,
+          996
+        ]
+      ],
+      "bbox_original": [
+        [
+          88,
+          1077
+        ],
+        [
+          1053,
+          1076
+        ],
+        [
+          1053,
+          1110
+        ],
+        [
+          88,
+          1111
+        ]
+      ],
+      "box_xyxy": [
+        88,
+        961,
+        1053,
+        996
+      ],
+      "text": "sách Nhc ph thi tp (樂府诗集) vit: “L Min Cm nói: điu Ô d đ, do",
+      "confidence": 0.9766
+    },
+    {
+      "line_id": "0139_han_002",
+      "bbox": [
+        [
+          147,
+          1103
+        ],
+        [
+          1053,
+          1103
+        ],
+        [
+          1053,
+          1137
+        ],
+        [
+          147,
+          1137
+        ]
+      ],
+      "bbox_original": [
+        [
+          147,
+          1218
+        ],
+        [
+          1053,
+          1218
+        ],
+        [
+          1053,
+          1252
+        ],
+        [
+          147,
+          1252
+        ]
+      ],
+      "box_xyxy": [
+        147,
+        1103,
+        1053,
+        1137
+      ],
+      "text": "Xua, qu còn là biu tưng ca đo hiu. Thuyt văn gii t (说文解字)",
+      "confidence": 0.9579
+    },
+    {
+      "line_id": "0139_han_003",
+      "bbox": [
+        [
+          89,
+          1141
+        ],
+        [
+          1053,
+          1141
+        ],
+        [
+          1053,
+          1175
+        ],
+        [
+          89,
+          1175
+        ]
+      ],
+      "bbox_original": [
+        [
+          89,
+          1256
+        ],
+        [
+          1053,
+          1256
+        ],
+        [
+          1053,
+          1290
+        ],
+        [
+          89,
+          1290
+        ]
+      ],
+      "box_xyxy": [
+        89,
+        1141,
+        1053,
+        1175
+      ],
+      "text": "ca Ha Thn (許慎) thi Hán  b “Ô” (烏, con qu) vit: “Qu là con chim",
+      "confidence": 0.9513
+    },
+    {
+      "line_id": "0139_han_004",
+      "bbox": [
+        [
+          89,
+          1178
+        ],
+        [
+          1053,
+          1178
+        ],
+        [
+          1053,
+          1211
+        ],
+        [
+          89,
+          1211
+        ]
+      ],
+      "bbox_original": [
+        [
+          89,
+          1293
+        ],
+        [
+          1053,
+          1293
+        ],
+        [
+          1053,
+          1326
+        ],
+        [
+          89,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        89,
+        1178,
+        1053,
+        1211
+      ],
+      "text": "có hiu vy\". Phn “Điu thú\"(鳥獸) sách C kim chú (古今注) ca Thôi Báo",
+      "confidence": 0.9645
+    },
+    {
+      "line_id": "0139_han_005",
+      "bbox": [
+        [
+          89,
+          1217
+        ],
+        [
+          1054,
+          1217
+        ],
+        [
+          1054,
+          1250
+        ],
+        [
+          89,
+          1250
+        ]
+      ],
+      "bbox_original": [
+        [
+          89,
+          1332
+        ],
+        [
+          1054,
+          1332
+        ],
+        [
+          1054,
+          1365
+        ],
+        [
+          89,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        89,
+        1217,
+        1054,
+        1250
+      ],
+      "text": "(崔豹) thi Tn cũng vit: “Qu, mt tên gi khác là hiu điu, tên gi khác là",
+      "confidence": 0.9851
+    },
+    {
+      "line_id": "0139_han_006",
+      "bbox": [
+        [
+          88,
+          1356
+        ],
+        [
+          1052,
+          1355
+        ],
+        [
+          1052,
+          1386
+        ],
+        [
+          88,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          88,
+          1471
+        ],
+        [
+          1052,
+          1470
+        ],
+        [
+          1052,
+          1501
+        ],
+        [
+          88,
+          1502
+        ]
+      ],
+      "box_xyxy": [
+        88,
+        1355,
+        1052,
+        1387
+      ],
+      "text": "thu, ngoài tài hc còn ni ting là ngưi con chí hiu. Quách Cu Kính (郭居敬)",
+      "confidence": 0.9746
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

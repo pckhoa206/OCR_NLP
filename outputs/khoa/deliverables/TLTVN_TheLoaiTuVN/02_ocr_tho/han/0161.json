@@ -1,0 +1,170 @@
+{
+  "page_id": "0161",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 161,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1025,
+    "footnote_separator_y_original": 1140,
+    "effective_width": 1122,
+    "effective_height": 1025
+  },
+  "items": [
+    {
+      "line_id": "0161_han_000",
+      "bbox": [
+        [
+          137,
+          811
+        ],
+        [
+          256,
+          811
+        ],
+        [
+          256,
+          859
+        ],
+        [
+          137,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          926
+        ],
+        [
+          256,
+          926
+        ],
+        [
+          256,
+          974
+        ],
+        [
+          137,
+          974
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        811,
+        256,
+        859
+      ],
+      "text": "風雨恨",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0161_han_001",
+      "bbox": [
+        [
+          139,
+          863
+        ],
+        [
+          268,
+          865
+        ],
+        [
+          267,
+          915
+        ],
+        [
+          138,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          978
+        ],
+        [
+          268,
+          980
+        ],
+        [
+          267,
+          1030
+        ],
+        [
+          138,
+          1028
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        863,
+        268,
+        915
+      ],
+      "text": "才何佳，",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0161_han_002",
+      "bbox": [
+        [
+          137,
+          915
+        ],
+        [
+          268,
+          919
+        ],
+        [
+          266,
+          971
+        ],
+        [
+          136,
+          968
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          1030
+        ],
+        [
+          268,
+          1034
+        ],
+        [
+          266,
+          1086
+        ],
+        [
+          136,
+          1083
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        915,
+        268,
+        971
+      ],
+      "text": "情何好，",
+      "confidence": 0.9984
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "風雨恨",
+      "才何佳，",
+      "情何好，"
+    ],
+    "interlinear_triplets": []
+  }
+}

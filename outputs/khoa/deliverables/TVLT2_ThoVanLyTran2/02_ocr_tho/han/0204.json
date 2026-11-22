@@ -1,0 +1,401 @@
+{
+  "page_id": "0204",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 204,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0204_han_000",
+      "bbox": [
+        [
+          191,
+          180
+        ],
+        [
+          586,
+          186
+        ],
+        [
+          585,
+          224
+        ],
+        [
+          191,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          335
+        ],
+        [
+          586,
+          341
+        ],
+        [
+          585,
+          379
+        ],
+        [
+          191,
+          373
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        180,
+        586,
+        224
+      ],
+      "text": "1º KHL1 : thèm chùr vān 文",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0204_han_001",
+      "bbox": [
+        [
+          189,
+          228
+        ],
+        [
+          581,
+          228
+        ],
+        [
+          581,
+          269
+        ],
+        [
+          189,
+          269
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          383
+        ],
+        [
+          581,
+          383
+        ],
+        [
+          581,
+          424
+        ],
+        [
+          189,
+          424
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        228,
+        581,
+        269
+      ],
+      "text": "2* KHL1 : hào quang 毫光",
+      "confidence": 0.9727
+    },
+    {
+      "line_id": "0204_han_002",
+      "bbox": [
+        [
+          185,
+          272
+        ],
+        [
+          763,
+          272
+        ],
+        [
+          763,
+          334
+        ],
+        [
+          185,
+          334
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          427
+        ],
+        [
+          763,
+          427
+        ],
+        [
+          763,
+          489
+        ],
+        [
+          185,
+          489
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        272,
+        763,
+        334
+      ],
+      "text": "3* KHL1: duy tham lgi u huyen hóa 惟贪 利 於 幻 化",
+      "confidence": 0.877
+    },
+    {
+      "line_id": "0204_han_003",
+      "bbox": [
+        [
+          185,
+          320
+        ],
+        [
+          608,
+          323
+        ],
+        [
+          608,
+          368
+        ],
+        [
+          185,
+          364
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          475
+        ],
+        [
+          608,
+          478
+        ],
+        [
+          608,
+          523
+        ],
+        [
+          185,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        320,
+        608,
+        368
+      ],
+      "text": "4* KHL1: thèm chü dâng 等",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0204_han_004",
+      "bbox": [
+        [
+          184,
+          366
+        ],
+        [
+          581,
+          375
+        ],
+        [
+          580,
+          415
+        ],
+        [
+          184,
+          406
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          521
+        ],
+        [
+          581,
+          530
+        ],
+        [
+          580,
+          570
+        ],
+        [
+          184,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        366,
+        581,
+        415
+      ],
+      "text": "5* KHL1: xám thòn 侵吞",
+      "confidence": 0.8763
+    },
+    {
+      "line_id": "0204_han_005",
+      "bbox": [
+        [
+          182,
+          414
+        ],
+        [
+          633,
+          423
+        ],
+        [
+          633,
+          461
+        ],
+        [
+          182,
+          453
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          569
+        ],
+        [
+          633,
+          578
+        ],
+        [
+          633,
+          616
+        ],
+        [
+          182,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        414,
+        633,
+        461
+      ],
+      "text": "6* KHL1, KHL3: täo vän 早 晚",
+      "confidence": 0.8787
+    },
+    {
+      "line_id": "0204_han_006",
+      "bbox": [
+        [
+          239,
+          648
+        ],
+        [
+          1408,
+          652
+        ],
+        [
+          1408,
+          688
+        ],
+        [
+          238,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          803
+        ],
+        [
+          1408,
+          807
+        ],
+        [
+          1408,
+          843
+        ],
+        [
+          238,
+          840
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        648,
+        1408,
+        688
+      ],
+      "text": "dày là vua nưóc Thuc 蜀 ; bi mát nrc, hòn hóa làm chim, vi nh nưóc nên suôt",
+      "confidence": 0.902
+    },
+    {
+      "line_id": "0204_han_007",
+      "bbox": [
+        [
+          222,
+          775
+        ],
+        [
+          763,
+          775
+        ],
+        [
+          763,
+          809
+        ],
+        [
+          222,
+          809
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          930
+        ],
+        [
+          763,
+          930
+        ],
+        [
+          763,
+          964
+        ],
+        [
+          222,
+          964
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        775,
+        763,
+        809
+      ],
+      "text": "物言命: Trang T nói minh nǎm mo tháy hóa ra mòt con bưom bay nhon nho. nhung",
+      "confidence": 0.914
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

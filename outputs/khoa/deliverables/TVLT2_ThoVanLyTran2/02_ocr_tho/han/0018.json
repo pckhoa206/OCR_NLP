@@ -1,0 +1,260 @@
+{
+  "page_id": "0018",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 18,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0018_han_000",
+      "bbox": [
+        [
+          176,
+          278
+        ],
+        [
+          1406,
+          275
+        ],
+        [
+          1406,
+          318
+        ],
+        [
+          176,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          433
+        ],
+        [
+          1406,
+          430
+        ],
+        [
+          1406,
+          473
+        ],
+        [
+          176,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        275,
+        1406,
+        321
+      ],
+      "text": "ngòi vua trón dén núi Yèn-tir  子 mong tim sy yèn tīnh cho tâm hōn trong",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0018_han_001",
+      "bbox": [
+        [
+          180,
+          737
+        ],
+        [
+          763,
+          737
+        ],
+        [
+          763,
+          785
+        ],
+        [
+          180,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          892
+        ],
+        [
+          763,
+          892
+        ],
+        [
+          763,
+          940
+        ],
+        [
+          180,
+          940
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        737,
+        763,
+        785
+      ],
+      "text": "luc ()   金条. Duói dày chúng tói sē làn hrot trinh bày tác phàm cua",
+      "confidence": 0.8708
+    },
+    {
+      "line_id": "0018_han_002",
+      "bbox": [
+        [
+          179,
+          1070
+        ],
+        [
+          763,
+          1070
+        ],
+        [
+          763,
+          1142
+        ],
+        [
+          179,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1225
+        ],
+        [
+          763,
+          1225
+        ],
+        [
+          763,
+          1297
+        ],
+        [
+          179,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1070,
+        763,
+        1142
+      ],
+      "text": "(1) Huong Tirc-mace, phù Thièn-truàng : theo Hai Nam nhat thöng chi, 大南一充志",
+      "confidence": 0.8803
+    },
+    {
+      "line_id": "0018_han_003",
+      "bbox": [
+        [
+          232,
+          1156
+        ],
+        [
+          763,
+          1156
+        ],
+        [
+          763,
+          1199
+        ],
+        [
+          232,
+          1199
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1311
+        ],
+        [
+          763,
+          1311
+        ],
+        [
+          763,
+          1354
+        ],
+        [
+          232,
+          1354
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1156,
+        763,
+        1199
+      ],
+      "text": "Thièn-truong. Phú göm; hón huyen: Nam-chan 南 真, Giao-thuy 月  My-Jóc",
+      "confidence": 0.8436
+    },
+    {
+      "line_id": "0018_han_004",
+      "bbox": [
+        [
+          182,
+          1414
+        ],
+        [
+          763,
+          1414
+        ],
+        [
+          763,
+          1457
+        ],
+        [
+          182,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1569
+        ],
+        [
+          763,
+          1569
+        ],
+        [
+          763,
+          1612
+        ],
+        [
+          182,
+          1612
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1414,
+        763,
+        1457
+      ],
+      "text": "(3) Vè tho Tran Thái Tòng, Phan Huy Chui 潘 軍主 khèn Ja «thanh nhā dáng doc»",
+      "confidence": 0.9044
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

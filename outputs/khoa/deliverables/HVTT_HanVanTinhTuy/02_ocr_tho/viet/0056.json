@@ -1,0 +1,940 @@
+{
+  "page_id": "0056",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 56,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0056_viet_000",
+      "bbox": [
+        [
+          190,
+          31
+        ],
+        [
+          233,
+          31
+        ],
+        [
+          233,
+          66
+        ],
+        [
+          190,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          152
+        ],
+        [
+          233,
+          152
+        ],
+        [
+          233,
+          187
+        ],
+        [
+          190,
+          187
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        31,
+        233,
+        66
+      ],
+      "text": "80",
+      "confidence": 0.8285
+    },
+    {
+      "line_id": "0056_viet_001",
+      "bbox": [
+        [
+          666,
+          30
+        ],
+        [
+          989,
+          30
+        ],
+        [
+          989,
+          61
+        ],
+        [
+          666,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          151
+        ],
+        [
+          989,
+          151
+        ],
+        [
+          989,
+          182
+        ],
+        [
+          666,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        30,
+        989,
+        61
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0056_viet_002",
+      "bbox": [
+        [
+          229,
+          183
+        ],
+        [
+          625,
+          181
+        ],
+        [
+          625,
+          218
+        ],
+        [
+          229,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          304
+        ],
+        [
+          625,
+          302
+        ],
+        [
+          625,
+          339
+        ],
+        [
+          229,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        181,
+        625,
+        220
+      ],
+      "text": "Uy-hậu viễt: bất nhiên",
+      "confidence": 0.8772
+    },
+    {
+      "line_id": "0056_viet_003",
+      "bbox": [
+        [
+          254,
+          229
+        ],
+        [
+          670,
+          229
+        ],
+        [
+          670,
+          269
+        ],
+        [
+          254,
+          269
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          350
+        ],
+        [
+          670,
+          350
+        ],
+        [
+          670,
+          390
+        ],
+        [
+          254,
+          390
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        229,
+        670,
+        269
+      ],
+      "text": "Uy-hậu nói: không phải thê",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0056_viet_004",
+      "bbox": [
+        [
+          229,
+          349
+        ],
+        [
+          649,
+          349
+        ],
+        [
+          649,
+          386
+        ],
+        [
+          229,
+          386
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          470
+        ],
+        [
+          649,
+          470
+        ],
+        [
+          649,
+          507
+        ],
+        [
+          229,
+          507
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        349,
+        649,
+        386
+      ],
+      "text": "Cầu vô tuẽ, hà hữu dân?",
+      "confidence": 0.8869
+    },
+    {
+      "line_id": "0056_viet_005",
+      "bbox": [
+        [
+          252,
+          397
+        ],
+        [
+          826,
+          394
+        ],
+        [
+          826,
+          432
+        ],
+        [
+          252,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          518
+        ],
+        [
+          826,
+          515
+        ],
+        [
+          826,
+          553
+        ],
+        [
+          252,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        394,
+        826,
+        435
+      ],
+      "text": "nêu không được mùa, thì sao có dân ?",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0056_viet_006",
+      "bbox": [
+        [
+          230,
+          515
+        ],
+        [
+          692,
+          515
+        ],
+        [
+          692,
+          552
+        ],
+        [
+          230,
+          552
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          636
+        ],
+        [
+          692,
+          636
+        ],
+        [
+          692,
+          673
+        ],
+        [
+          230,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        515,
+        692,
+        552
+      ],
+      "text": "Cầu vô dân, hà hữu quân ?",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0056_viet_007",
+      "bbox": [
+        [
+          253,
+          562
+        ],
+        [
+          693,
+          562
+        ],
+        [
+          693,
+          603
+        ],
+        [
+          253,
+          603
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          683
+        ],
+        [
+          693,
+          683
+        ],
+        [
+          693,
+          724
+        ],
+        [
+          253,
+          724
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        562,
+        693,
+        603
+      ],
+      "text": "không có dân thì sao có vua ?",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0056_viet_008",
+      "bbox": [
+        [
+          229,
+          680
+        ],
+        [
+          891,
+          681
+        ],
+        [
+          891,
+          721
+        ],
+        [
+          229,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          801
+        ],
+        [
+          891,
+          802
+        ],
+        [
+          891,
+          842
+        ],
+        [
+          229,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        680,
+        891,
+        721
+      ],
+      "text": "Cõ hữu văn xả bản nhi văn mạt giả da",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0056_viet_009",
+      "bbox": [
+        [
+          251,
+          728
+        ],
+        [
+          633,
+          730
+        ],
+        [
+          633,
+          770
+        ],
+        [
+          251,
+          768
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          849
+        ],
+        [
+          633,
+          851
+        ],
+        [
+          633,
+          891
+        ],
+        [
+          251,
+          889
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        728,
+        633,
+        770
+      ],
+      "text": "Nên bỏ gọc mà hỏi ngọn",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0056_viet_010",
+      "bbox": [
+        [
+          230,
+          853
+        ],
+        [
+          652,
+          853
+        ],
+        [
+          652,
+          890
+        ],
+        [
+          230,
+          890
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          974
+        ],
+        [
+          652,
+          974
+        ],
+        [
+          652,
+          1011
+        ],
+        [
+          230,
+          1011
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        853,
+        652,
+        890
+      ],
+      "text": "Nãi tiền nhi văn chi viết:",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0056_viet_011",
+      "bbox": [
+        [
+          251,
+          898
+        ],
+        [
+          550,
+          900
+        ],
+        [
+          550,
+          941
+        ],
+        [
+          251,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1019
+        ],
+        [
+          550,
+          1021
+        ],
+        [
+          550,
+          1062
+        ],
+        [
+          251,
+          1060
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        898,
+        550,
+        941
+      ],
+      "text": "Bèn lại hỏi sứ rằng:",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0056_viet_012",
+      "bbox": [
+        [
+          229,
+          1019
+        ],
+        [
+          940,
+          1023
+        ],
+        [
+          940,
+          1063
+        ],
+        [
+          229,
+          1060
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1140
+        ],
+        [
+          940,
+          1144
+        ],
+        [
+          940,
+          1184
+        ],
+        [
+          229,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1019,
+        940,
+        1063
+      ],
+      "text": "Tề hữu xử-sĩ viết Chung-li-tử vô dạng da ?",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0056_viet_013",
+      "bbox": [
+        [
+          251,
+          1068
+        ],
+        [
+          900,
+          1071
+        ],
+        [
+          900,
+          1111
+        ],
+        [
+          251,
+          1108
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1189
+        ],
+        [
+          900,
+          1192
+        ],
+        [
+          900,
+          1232
+        ],
+        [
+          251,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1068,
+        900,
+        1111
+      ],
+      "text": "Tê có xử-sĩ Chung-li-tử có bình yên chăng ?",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0056_viet_014",
+      "bbox": [
+        [
+          230,
+          1190
+        ],
+        [
+          940,
+          1195
+        ],
+        [
+          940,
+          1235
+        ],
+        [
+          230,
+          1230
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1311
+        ],
+        [
+          940,
+          1316
+        ],
+        [
+          940,
+          1356
+        ],
+        [
+          230,
+          1351
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1190,
+        940,
+        1235
+      ],
+      "text": "Thị kỳ vi nhân dã, hữu lương giả diệc tự",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0056_viet_015",
+      "bbox": [
+        [
+          253,
+          1241
+        ],
+        [
+          845,
+          1241
+        ],
+        [
+          845,
+          1283
+        ],
+        [
+          253,
+          1283
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1362
+        ],
+        [
+          845,
+          1362
+        ],
+        [
+          845,
+          1404
+        ],
+        [
+          253,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1241,
+        845,
+        1283
+      ],
+      "text": "ông ây là người kẻ có lương cũng nuôi,",
+      "confidence": 0.9264
+    },
+    {
+      "line_id": "0056_viet_016",
+      "bbox": [
+        [
+          231,
+          1362
+        ],
+        [
+          590,
+          1365
+        ],
+        [
+          590,
+          1405
+        ],
+        [
+          231,
+          1402
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1483
+        ],
+        [
+          590,
+          1486
+        ],
+        [
+          590,
+          1526
+        ],
+        [
+          231,
+          1523
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1362,
+        590,
+        1405
+      ],
+      "text": "Vô lương giả diệc tự,",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0056_viet_017",
+      "bbox": [
+        [
+          250,
+          1409
+        ],
+        [
+          663,
+          1411
+        ],
+        [
+          663,
+          1451
+        ],
+        [
+          250,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1530
+        ],
+        [
+          663,
+          1532
+        ],
+        [
+          663,
+          1572
+        ],
+        [
+          250,
+          1570
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1409,
+        663,
+        1451
+      ],
+      "text": "Kẻ không lương cũng nuôi,",
+      "confidence": 0.9249
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Uy-hậu viễt: bất nhiên",
+      "Cầu vô tuẽ, hà hữu dân?",
+      "Cầu vô dân, hà hữu quân ?",
+      "Cõ hữu văn xả bản nhi văn mạt giả da",
+      "Nãi tiền nhi văn chi viết:",
+      "Tề hữu xử-sĩ viết Chung-li-tử vô dạng da ?",
+      "Thị kỳ vi nhân dã, hữu lương giả diệc tự",
+      "Vô lương giả diệc tự,"
+    ],
+    "dich_nghia_lines": [
+      "Uy-hậu nói: không phải thê",
+      "nêu không được mùa, thì sao có dân ?",
+      "không có dân thì sao có vua ?",
+      "Nên bỏ gọc mà hỏi ngọn",
+      "Bèn lại hỏi sứ rằng:",
+      "Tê có xử-sĩ Chung-li-tử có bình yên chăng ?",
+      "ông ây là người kẻ có lương cũng nuôi,",
+      "Kẻ không lương cũng nuôi,"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "威后曰不然",
+        "phien_am": "Uy-hậu viễt: bất nhiên",
+        "dich_nghia_gloss": "Uy-hậu nói: không phải thê"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "苟無歲何有民",
+        "phien_am": "Cầu vô tuẽ, hà hữu dân?",
+        "dich_nghia_gloss": "nêu không được mùa, thì sao có dân ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苟无民何有君",
+        "phien_am": "Cầu vô dân, hà hữu quân ?",
+        "dich_nghia_gloss": "không có dân thì sao có vua ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "故有問舍本而問末者耶",
+        "phien_am": "Cõ hữu văn xả bản nhi văn mạt giả da",
+        "dich_nghia_gloss": "Nên bỏ gọc mà hỏi ngọn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "乃進而問之曰",
+        "phien_am": "Nãi tiền nhi văn chi viết:",
+        "dich_nghia_gloss": "Bèn lại hỏi sứ rằng:"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "齊有處士曰鍾離子無恙耶",
+        "phien_am": "Tề hữu xử-sĩ viết Chung-li-tử vô dạng da ?",
+        "dich_nghia_gloss": "Tê có xử-sĩ Chung-li-tử có bình yên chăng ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "是其為人也有糧者亦食",
+        "phien_am": "Thị kỳ vi nhân dã, hữu lương giả diệc tự",
+        "dich_nghia_gloss": "ông ây là người kẻ có lương cũng nuôi,"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "無糧者亦食",
+        "phien_am": "Vô lương giả diệc tự,",
+        "dich_nghia_gloss": "Kẻ không lương cũng nuôi,"
+      }
+    ]
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "page_id": "0166",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 166,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1346,
+    "footnote_separator_y_original": 1461,
+    "effective_width": 1122,
+    "effective_height": 1346
+  },
+  "items": [
+    {
+      "line_id": "0166_viet_000",
+      "bbox": [
+        [
+          80,
+          5
+        ],
+        [
+          1041,
+          1
+        ],
+        [
+          1041,
+          35
+        ],
+        [
+          80,
+          39
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          120
+        ],
+        [
+          1041,
+          116
+        ],
+        [
+          1041,
+          150
+        ],
+        [
+          80,
+          154
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1,
+        1041,
+        39
+      ],
+      "text": "kiêm chức Ngự sử đài Đô ngự sử, Thượng thư bộ Công, Sau khi",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0166_viet_001",
+      "bbox": [
+        [
+          79,
+          44
+        ],
+        [
+          1043,
+          39
+        ],
+        [
+          1043,
+          79
+        ],
+        [
+          79,
+          84
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          159
+        ],
+        [
+          1043,
+          154
+        ],
+        [
+          1043,
+          194
+        ],
+        [
+          79,
+          199
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        39,
+        1043,
+        84
+      ],
+      "text": "mất, ông được tặng hàm thái bảo, tên thuy là Trung Lương. Về",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0166_viet_002",
+      "bbox": [
+        [
+          79,
+          89
+        ],
+        [
+          1041,
+          86
+        ],
+        [
+          1041,
+          123
+        ],
+        [
+          79,
+          126
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          204
+        ],
+        [
+          1041,
+          201
+        ],
+        [
+          1041,
+          238
+        ],
+        [
+          79,
+          241
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        86,
+        1041,
+        126
+      ],
+      "text": "tác phẩm, hiện còn sách Hoan châu phong thổ kí, soạn chung với",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0166_viet_003",
+      "bbox": [
+        [
+          80,
+          133
+        ],
+        [
+          944,
+          130
+        ],
+        [
+          944,
+          164
+        ],
+        [
+          80,
+          167
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          248
+        ],
+        [
+          944,
+          245
+        ],
+        [
+          944,
+          279
+        ],
+        [
+          80,
+          282
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        130,
+        944,
+        167
+      ],
+      "text": "Phan Thúc Trực và Ngô Trí Hiệp cùng Khiêm Trai thi thảo.",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0166_viet_004",
+      "bbox": [
+        [
+          142,
+          177
+        ],
+        [
+          1041,
+          177
+        ],
+        [
+          1041,
+          214
+        ],
+        [
+          142,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          292
+        ],
+        [
+          1041,
+          292
+        ],
+        [
+          1041,
+          329
+        ],
+        [
+          142,
+          329
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        177,
+        1041,
+        214
+      ],
+      "text": "Về từ, hiện mới sưu tập được 1 bài được chép trong Bách liêu",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0166_viet_005",
+      "bbox": [
+        [
+          80,
+          222
+        ],
+        [
+          1040,
+          220
+        ],
+        [
+          1040,
+          258
+        ],
+        [
+          80,
+          260
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          337
+        ],
+        [
+          1040,
+          335
+        ],
+        [
+          1040,
+          373
+        ],
+        [
+          80,
+          375
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        220,
+        1040,
+        260
+      ],
+      "text": "thi văn tập (A.553), sáng tác tặng Nguyễn Bá Lân (1700 ? 1786)",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0166_viet_006",
+      "bbox": [
+        [
+          79,
+          266
+        ],
+        [
+          602,
+          263
+        ],
+        [
+          602,
+          300
+        ],
+        [
+          79,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          381
+        ],
+        [
+          602,
+          378
+        ],
+        [
+          602,
+          415
+        ],
+        [
+          79,
+          419
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        263,
+        602,
+        304
+      ],
+      "text": "nhân dịp nguyễn bá lân về hưu trí.",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0166_viet_007",
+      "bbox": [
+        [
+          136,
+          854
+        ],
+        [
+          299,
+          856
+        ],
+        [
+          298,
+          895
+        ],
+        [
+          135,
+          893
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          969
+        ],
+        [
+          299,
+          971
+        ],
+        [
+          298,
+          1010
+        ],
+        [
+          135,
+          1008
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        854,
+        299,
+        895
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0166_viet_008",
+      "bbox": [
+        [
+          137,
+          908
+        ],
+        [
+          398,
+          908
+        ],
+        [
+          398,
+          945
+        ],
+        [
+          137,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          1023
+        ],
+        [
+          398,
+          1023
+        ],
+        [
+          398,
+          1060
+        ],
+        [
+          137,
+          1060
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        908,
+        398,
+        945
+      ],
+      "text": "Hoạ đường xuân",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0166_viet_009",
+      "bbox": [
+        [
+          139,
+          956
+        ],
+        [
+          685,
+          954
+        ],
+        [
+          685,
+          992
+        ],
+        [
+          139,
+          995
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          1071
+        ],
+        [
+          685,
+          1069
+        ],
+        [
+          685,
+          1107
+        ],
+        [
+          139,
+          1110
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        954,
+        685,
+        995
+      ],
+      "text": "Hoạn thành danh lập khước dẫn niên,",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0166_viet_010",
+      "bbox": [
+        [
+          141,
+          1006
+        ],
+        [
+          602,
+          1006
+        ],
+        [
+          602,
+          1044
+        ],
+        [
+          141,
+          1044
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          1121
+        ],
+        [
+          602,
+          1121
+        ],
+        [
+          602,
+          1159
+        ],
+        [
+          141,
+          1159
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        1006,
+        602,
+        1044
+      ],
+      "text": "Thái kì cao yết ảnh phiên phiên",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0166_viet_011",
+      "bbox": [
+        [
+          137,
+          1057
+        ],
+        [
+          629,
+          1053
+        ],
+        [
+          629,
+          1094
+        ],
+        [
+          137,
+          1097
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          1172
+        ],
+        [
+          629,
+          1168
+        ],
+        [
+          629,
+          1209
+        ],
+        [
+          137,
+          1212
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        1053,
+        629,
+        1097
+      ],
+      "text": "Đô môn giáp đạo cạnh xưng hiền,",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0166_viet_012",
+      "bbox": [
+        [
+          140,
+          1105
+        ],
+        [
+          421,
+          1105
+        ],
+        [
+          421,
+          1142
+        ],
+        [
+          140,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          1220
+        ],
+        [
+          421,
+          1220
+        ],
+        [
+          421,
+          1257
+        ],
+        [
+          140,
+          1257
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        1105,
+        421,
+        1142
+      ],
+      "text": "Bình địa thần' tiên",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0166_viet_013",
+      "bbox": [
+        [
+          142,
+          1206
+        ],
+        [
+          528,
+          1206
+        ],
+        [
+          528,
+          1240
+        ],
+        [
+          142,
+          1240
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          1321
+        ],
+        [
+          528,
+          1321
+        ],
+        [
+          528,
+          1355
+        ],
+        [
+          142,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        1206,
+        528,
+        1240
+      ],
+      "text": "Thuỷ dã vân tiêu liên cách,",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0166_viet_014",
+      "bbox": [
+        [
+          141,
+          1252
+        ],
+        [
+          519,
+          1252
+        ],
+        [
+          519,
+          1290
+        ],
+        [
+          141,
+          1290
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          1367
+        ],
+        [
+          519,
+          1367
+        ],
+        [
+          519,
+          1405
+        ],
+        [
+          141,
+          1405
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        1252,
+        519,
+        1290
+      ],
+      "text": "Kế nhi lang miếu ti kiên",
+      "confidence": 0.916
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "kiêm chức Ngự sử đài Đô ngự sử, Thượng thư bộ Công, Sau khi",
+      "mất, ông được tặng hàm thái bảo, tên thuy là Trung Lương. Về",
+      "tác phẩm, hiện còn sách Hoan châu phong thổ kí, soạn chung với",
+      "Phan Thúc Trực và Ngô Trí Hiệp cùng Khiêm Trai thi thảo.",
+      "Về từ, hiện mới sưu tập được 1 bài được chép trong Bách liêu",
+      "thi văn tập (A.553), sáng tác tặng Nguyễn Bá Lân (1700 ? 1786)",
+      "nhân dịp nguyễn bá lân về hưu trí.",
+      "Hoạ đường xuân",
+      "Hoạn thành danh lập khước dẫn niên,",
+      "Thái kì cao yết ảnh phiên phiên",
+      "Đô môn giáp đạo cạnh xưng hiền,",
+      "Bình địa thần' tiên",
+      "Thuỷ dã vân tiêu liên cách,",
+      "Kế nhi lang miếu ti kiên"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

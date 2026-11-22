@@ -1,0 +1,218 @@
+{
+  "page_id": "0234",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 234,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1319,
+    "footnote_separator_y_original": 1434,
+    "effective_width": 1122,
+    "effective_height": 1319
+  },
+  "items": [
+    {
+      "line_id": "0234_han_000",
+      "bbox": [
+        [
+          155,
+          17
+        ],
+        [
+          421,
+          15
+        ],
+        [
+          421,
+          56
+        ],
+        [
+          156,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          132
+        ],
+        [
+          421,
+          130
+        ],
+        [
+          421,
+          171
+        ],
+        [
+          156,
+          173
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        15,
+        421,
+        58
+      ],
+      "text": "誨來且棹苦吟頭.",
+      "confidence": 0.9923
+    },
+    {
+      "line_id": "0234_han_001",
+      "bbox": [
+        [
+          157,
+          70
+        ],
+        [
+          421,
+          70
+        ],
+        [
+          421,
+          112
+        ],
+        [
+          157,
+          112
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          185
+        ],
+        [
+          421,
+          185
+        ],
+        [
+          421,
+          227
+        ],
+        [
+          157,
+          227
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        70,
+        421,
+        112
+      ],
+      "text": "霸橋驢背五湖舟，",
+      "confidence": 0.9981
+    },
+    {
+      "line_id": "0234_han_002",
+      "bbox": [
+        [
+          157,
+          121
+        ],
+        [
+          284,
+          121
+        ],
+        [
+          284,
+          170
+        ],
+        [
+          157,
+          170
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          236
+        ],
+        [
+          284,
+          236
+        ],
+        [
+          284,
+          285
+        ],
+        [
+          157,
+          285
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        121,
+        284,
+        170
+      ],
+      "text": "月一鉤，",
+      "confidence": 0.9912
+    },
+    {
+      "line_id": "0234_han_003",
+      "bbox": [
+        [
+          158,
+          177
+        ],
+        [
+          420,
+          177
+        ],
+        [
+          420,
+          218
+        ],
+        [
+          158,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          292
+        ],
+        [
+          420,
+          292
+        ],
+        [
+          420,
+          333
+        ],
+        [
+          158,
+          333
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        177,
+        420,
+        218
+      ],
+      "text": "奚囊佳句足長留.",
+      "confidence": 0.9986
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "誨來且棹苦吟頭.",
+      "霸橋驢背五湖舟，",
+      "月一鉤，",
+      "奚囊佳句足長留."
+    ],
+    "interlinear_triplets": []
+  }
+}

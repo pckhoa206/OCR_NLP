@@ -1,0 +1,579 @@
+{
+  "page_id": "0062",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 62,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0062_viet_000",
+      "bbox": [
+        [
+          194,
+          322
+        ],
+        [
+          236,
+          322
+        ],
+        [
+          236,
+          359
+        ],
+        [
+          194,
+          359
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          443
+        ],
+        [
+          236,
+          443
+        ],
+        [
+          236,
+          480
+        ],
+        [
+          194,
+          480
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        322,
+        236,
+        359
+      ],
+      "text": "56",
+      "confidence": 0.8854
+    },
+    {
+      "line_id": "0062_viet_001",
+      "bbox": [
+        [
+          667,
+          322
+        ],
+        [
+          990,
+          322
+        ],
+        [
+          990,
+          357
+        ],
+        [
+          667,
+          357
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          443
+        ],
+        [
+          990,
+          443
+        ],
+        [
+          990,
+          478
+        ],
+        [
+          667,
+          478
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        322,
+        990,
+        357
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0062_viet_002",
+      "bbox": [
+        [
+          230,
+          481
+        ],
+        [
+          910,
+          482
+        ],
+        [
+          910,
+          523
+        ],
+        [
+          230,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          602
+        ],
+        [
+          910,
+          603
+        ],
+        [
+          910,
+          644
+        ],
+        [
+          230,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        481,
+        910,
+        523
+      ],
+      "text": "Kỳ vi nhân dã: thượng bất thần ư vương",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0062_viet_003",
+      "bbox": [
+        [
+          253,
+          530
+        ],
+        [
+          817,
+          532
+        ],
+        [
+          817,
+          574
+        ],
+        [
+          253,
+          571
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          651
+        ],
+        [
+          817,
+          653
+        ],
+        [
+          817,
+          695
+        ],
+        [
+          253,
+          692
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        530,
+        817,
+        574
+      ],
+      "text": "Ây là người trên không biết thờ vua",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0062_viet_004",
+      "bbox": [
+        [
+          230,
+          662
+        ],
+        [
+          991,
+          663
+        ],
+        [
+          991,
+          703
+        ],
+        [
+          230,
+          702
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          783
+        ],
+        [
+          991,
+          784
+        ],
+        [
+          991,
+          824
+        ],
+        [
+          230,
+          823
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        662,
+        991,
+        703
+      ],
+      "text": "hạ bãt trì kỳ gia, trung bãt sách giao chư hầu",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0062_viet_005",
+      "bbox": [
+        [
+          252,
+          714
+        ],
+        [
+          991,
+          714
+        ],
+        [
+          991,
+          754
+        ],
+        [
+          252,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          835
+        ],
+        [
+          991,
+          835
+        ],
+        [
+          991,
+          875
+        ],
+        [
+          252,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        714,
+        991,
+        754
+      ],
+      "text": "dưới không biết trị gia, giữa không biết giao hảo",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0062_viet_006",
+      "bbox": [
+        [
+          194,
+          757
+        ],
+        [
+          323,
+          757
+        ],
+        [
+          323,
+          793
+        ],
+        [
+          194,
+          793
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          878
+        ],
+        [
+          323,
+          878
+        ],
+        [
+          323,
+          914
+        ],
+        [
+          194,
+          914
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        757,
+        323,
+        793
+      ],
+      "text": "chư hầu.",
+      "confidence": 0.8843
+    },
+    {
+      "line_id": "0062_viet_007",
+      "bbox": [
+        [
+          229,
+          888
+        ],
+        [
+          840,
+          890
+        ],
+        [
+          840,
+          927
+        ],
+        [
+          229,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1009
+        ],
+        [
+          840,
+          1011
+        ],
+        [
+          840,
+          1048
+        ],
+        [
+          229,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        888,
+        840,
+        927
+      ],
+      "text": "Thử suất dân nhi xuất ư vô-dụng giả",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0062_viet_008",
+      "bbox": [
+        [
+          250,
+          937
+        ],
+        [
+          544,
+          940
+        ],
+        [
+          544,
+          981
+        ],
+        [
+          250,
+          978
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1058
+        ],
+        [
+          544,
+          1061
+        ],
+        [
+          544,
+          1102
+        ],
+        [
+          250,
+          1099
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        937,
+        544,
+        981
+      ],
+      "text": "Thiệt là đồ vô dụng",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0062_viet_009",
+      "bbox": [
+        [
+          229,
+          1069
+        ],
+        [
+          661,
+          1069
+        ],
+        [
+          661,
+          1106
+        ],
+        [
+          229,
+          1106
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1190
+        ],
+        [
+          661,
+          1190
+        ],
+        [
+          661,
+          1227
+        ],
+        [
+          229,
+          1227
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1069,
+        661,
+        1106
+      ],
+      "text": "hà vi chi kim bất sát hồ ?",
+      "confidence": 0.886
+    },
+    {
+      "line_id": "0062_viet_010",
+      "bbox": [
+        [
+          250,
+          1121
+        ],
+        [
+          653,
+          1119
+        ],
+        [
+          653,
+          1156
+        ],
+        [
+          250,
+          1158
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1242
+        ],
+        [
+          653,
+          1240
+        ],
+        [
+          653,
+          1277
+        ],
+        [
+          250,
+          1279
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1119,
+        653,
+        1158
+      ],
+      "text": "sao đền nay còn chưa giết ?",
+      "confidence": 0.9305
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Kỳ vi nhân dã: thượng bất thần ư vương",
+      "hạ bãt trì kỳ gia, trung bãt sách giao chư hầu",
+      "Thử suất dân nhi xuất ư vô-dụng giả",
+      "hà vi chi kim bất sát hồ ?"
+    ],
+    "dich_nghia_lines": [
+      "Ây là người trên không biết thờ vua",
+      "dưới không biết trị gia, giữa không biết giao hảo chư hầu.",
+      "Thiệt là đồ vô dụng",
+      "sao đền nay còn chưa giết ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "其爲人也上不臣於王",
+        "phien_am": "Kỳ vi nhân dã: thượng bất thần ư vương",
+        "dich_nghia_gloss": "Ây là người trên không biết thờ vua"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "下不治其家中不索交諸候",
+        "phien_am": "hạ bãt trì kỳ gia, trung bãt sách giao chư hầu",
+        "dich_nghia_gloss": "dưới không biết trị gia, giữa không biết giao hảo chư hầu."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "此率民而出於無用者",
+        "phien_am": "Thử suất dân nhi xuất ư vô-dụng giả",
+        "dich_nghia_gloss": "Thiệt là đồ vô dụng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "何爲至今不殺乎",
+        "phien_am": "hà vi chi kim bất sát hồ ?",
+        "dich_nghia_gloss": "sao đền nay còn chưa giết ?"
+      }
+    ]
+  }
+}

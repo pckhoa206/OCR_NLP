@@ -1,0 +1,556 @@
+{
+  "page_id": "0220",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 220,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 619,
+    "footnote_separator_y_original": 734,
+    "effective_width": 1122,
+    "effective_height": 619
+  },
+  "items": [
+    {
+      "line_id": "0220_viet_000",
+      "bbox": [
+        [
+          108,
+          4
+        ],
+        [
+          331,
+          2
+        ],
+        [
+          332,
+          45
+        ],
+        [
+          108,
+          47
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          119
+        ],
+        [
+          331,
+          117
+        ],
+        [
+          332,
+          160
+        ],
+        [
+          108,
+          162
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        2,
+        332,
+        47
+      ],
+      "text": "Quý Ung canh,",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0220_viet_001",
+      "bbox": [
+        [
+          109,
+          54
+        ],
+        [
+          438,
+          51
+        ],
+        [
+          438,
+          89
+        ],
+        [
+          109,
+          93
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          169
+        ],
+        [
+          438,
+          166
+        ],
+        [
+          438,
+          204
+        ],
+        [
+          109,
+          208
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        51,
+        438,
+        93
+      ],
+      "text": "Phong vị hữu thuỳ tri?",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0220_viet_002",
+      "bbox": [
+        [
+          108,
+          101
+        ],
+        [
+          718,
+          100
+        ],
+        [
+          718,
+          137
+        ],
+        [
+          108,
+          138
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          216
+        ],
+        [
+          718,
+          215
+        ],
+        [
+          718,
+          252
+        ],
+        [
+          108,
+          253
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        100,
+        718,
+        138
+      ],
+      "text": "Phúc Giang viện tĩnh nguyệt trường minh,",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0220_viet_003",
+      "bbox": [
+        [
+          109,
+          151
+        ],
+        [
+          518,
+          148
+        ],
+        [
+          518,
+          185
+        ],
+        [
+          109,
+          188
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          266
+        ],
+        [
+          518,
+          263
+        ],
+        [
+          518,
+          300
+        ],
+        [
+          109,
+          303
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        148,
+        518,
+        188
+      ],
+      "text": "Cao ngâm ngạo bách thành.",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0220_viet_004",
+      "bbox": [
+        [
+          106,
+          197
+        ],
+        [
+          293,
+          194
+        ],
+        [
+          294,
+          236
+        ],
+        [
+          107,
+          238
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          312
+        ],
+        [
+          293,
+          309
+        ],
+        [
+          294,
+          351
+        ],
+        [
+          107,
+          353
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        194,
+        294,
+        238
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9344
+    },
+    {
+      "line_id": "0220_viet_005",
+      "bbox": [
+        [
+          106,
+          237
+        ],
+        [
+          881,
+          238
+        ],
+        [
+          881,
+          283
+        ],
+        [
+          106,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          352
+        ],
+        [
+          881,
+          353
+        ],
+        [
+          881,
+          398
+        ],
+        [
+          106,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        237,
+        881,
+        283
+      ],
+      "text": "LÀM ĐÙA KHI VỨT TRÂM [NGHỈ VIỆC QUAN]",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0220_viet_006",
+      "bbox": [
+        [
+          107,
+          290
+        ],
+        [
+          485,
+          285
+        ],
+        [
+          486,
+          334
+        ],
+        [
+          108,
+          339
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          405
+        ],
+        [
+          485,
+          400
+        ],
+        [
+          486,
+          449
+        ],
+        [
+          108,
+          454
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        285,
+        486,
+        339
+      ],
+      "text": "(Điệu Nguyễn lang quy)",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0220_viet_007",
+      "bbox": [
+        [
+          108,
+          341
+        ],
+        [
+          585,
+          343
+        ],
+        [
+          585,
+          382
+        ],
+        [
+          108,
+          380
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          456
+        ],
+        [
+          585,
+          458
+        ],
+        [
+          585,
+          497
+        ],
+        [
+          108,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        341,
+        585,
+        382
+      ],
+      "text": "Làm quan khanh đã 30 năm nay,",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0220_viet_008",
+      "bbox": [
+        [
+          104,
+          388
+        ],
+        [
+          642,
+          380
+        ],
+        [
+          642,
+          427
+        ],
+        [
+          105,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          503
+        ],
+        [
+          642,
+          495
+        ],
+        [
+          642,
+          542
+        ],
+        [
+          105,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        380,
+        642,
+        436
+      ],
+      "text": "Lại kiêm danh nghĩa là bậc ?lại ấn??",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0220_viet_009",
+      "bbox": [
+        [
+          109,
+          437
+        ],
+        [
+          740,
+          437
+        ],
+        [
+          740,
+          477
+        ],
+        [
+          109,
+          477
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          552
+        ],
+        [
+          740,
+          552
+        ],
+        [
+          740,
+          592
+        ],
+        [
+          109,
+          592
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        437,
+        740,
+        477
+      ],
+      "text": "Con đường đi nơi thềm vàng cần thong thả,",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0220_viet_010",
+      "bbox": [
+        [
+          105,
+          483
+        ],
+        [
+          958,
+          477
+        ],
+        [
+          958,
+          525
+        ],
+        [
+          105,
+          531
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          598
+        ],
+        [
+          958,
+          592
+        ],
+        [
+          958,
+          640
+        ],
+        [
+          105,
+          646
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        477,
+        958,
+        531
+      ],
+      "text": "Phải đấu kín cái tốt đẹp của mình lại mới được chính bền?",
+      "confidence": 0.9211
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Quý Ung canh,",
+      "Phong vị hữu thuỳ tri?",
+      "Phúc Giang viện tĩnh nguyệt trường minh,",
+      "Cao ngâm ngạo bách thành."
+    ],
+    "dich_nghia_lines": [
+      "LÀM ĐÙA KHI VỨT TRÂM [NGHỈ VIỆC QUAN]",
+      "(Điệu Nguyễn lang quy)",
+      "Làm quan khanh đã 30 năm nay,",
+      "Lại kiêm danh nghĩa là bậc ?lại ấn??",
+      "Con đường đi nơi thềm vàng cần thong thả,",
+      "Phải đấu kín cái tốt đẹp của mình lại mới được chính bền?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

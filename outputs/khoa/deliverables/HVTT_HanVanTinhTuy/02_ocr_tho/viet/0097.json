@@ -1,0 +1,403 @@
+{
+  "page_id": "0097",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 97,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0097_viet_000",
+      "bbox": [
+        [
+          429,
+          360
+        ],
+        [
+          752,
+          360
+        ],
+        [
+          752,
+          404
+        ],
+        [
+          429,
+          404
+        ]
+      ],
+      "bbox_original": [
+        [
+          429,
+          481
+        ],
+        [
+          752,
+          481
+        ],
+        [
+          752,
+          525
+        ],
+        [
+          429,
+          525
+        ]
+      ],
+      "box_xyxy": [
+        429,
+        360,
+        752,
+        404
+      ],
+      "text": "THẠCH-HÀO LẠI",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0097_viet_001",
+      "bbox": [
+        [
+          261,
+          473
+        ],
+        [
+          918,
+          473
+        ],
+        [
+          918,
+          517
+        ],
+        [
+          261,
+          517
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          594
+        ],
+        [
+          918,
+          594
+        ],
+        [
+          918,
+          638
+        ],
+        [
+          261,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        473,
+        918,
+        517
+      ],
+      "text": "NGƯỜI LÍNH-LỆ THÔN THẠCH-HÀO",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0097_viet_002",
+      "bbox": [
+        [
+          781,
+          656
+        ],
+        [
+          906,
+          656
+        ],
+        [
+          906,
+          695
+        ],
+        [
+          781,
+          695
+        ]
+      ],
+      "bbox_original": [
+        [
+          781,
+          777
+        ],
+        [
+          906,
+          777
+        ],
+        [
+          906,
+          816
+        ],
+        [
+          781,
+          816
+        ]
+      ],
+      "box_xyxy": [
+        781,
+        656,
+        906,
+        695
+      ],
+      "text": "Đỗ-Phủ",
+      "confidence": 0.8436
+    },
+    {
+      "line_id": "0097_viet_003",
+      "bbox": [
+        [
+          220,
+          899
+        ],
+        [
+          991,
+          906
+        ],
+        [
+          991,
+          949
+        ],
+        [
+          220,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1020
+        ],
+        [
+          991,
+          1027
+        ],
+        [
+          991,
+          1070
+        ],
+        [
+          220,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        899,
+        991,
+        949
+      ],
+      "text": "TIỂU-DÂN. - ĐÔ PHỦ TỰ TỬ-MỸ, SINH NĂM THIÊN",
+      "confidence": 0.8625
+    },
+    {
+      "line_id": "0097_viet_004",
+      "bbox": [
+        [
+          194,
+          965
+        ],
+        [
+          993,
+          967
+        ],
+        [
+          993,
+          1007
+        ],
+        [
+          194,
+          1005
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1086
+        ],
+        [
+          993,
+          1088
+        ],
+        [
+          993,
+          1128
+        ],
+        [
+          194,
+          1126
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        965,
+        993,
+        1007
+      ],
+      "text": "tiên I (712) đời vua Duệ-tôn (Thịnh-Đường). Vồn con",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0097_viet_005",
+      "bbox": [
+        [
+          194,
+          1027
+        ],
+        [
+          992,
+          1027
+        ],
+        [
+          992,
+          1069
+        ],
+        [
+          194,
+          1069
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1148
+        ],
+        [
+          992,
+          1148
+        ],
+        [
+          992,
+          1190
+        ],
+        [
+          194,
+          1190
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1027,
+        992,
+        1069
+      ],
+      "text": "nhà thê-phiệt, quê ở huyện Trường an tỉnh Thiểm-tây,",
+      "confidence": 0.9182
+    },
+    {
+      "line_id": "0097_viet_006",
+      "bbox": [
+        [
+          192,
+          1087
+        ],
+        [
+          992,
+          1089
+        ],
+        [
+          992,
+          1130
+        ],
+        [
+          192,
+          1128
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1208
+        ],
+        [
+          992,
+          1210
+        ],
+        [
+          992,
+          1251
+        ],
+        [
+          192,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1087,
+        992,
+        1130
+      ],
+      "text": "sau thiên xuông ngụ ở Thiêu-lăng, huyện Tương dương",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0097_viet_007",
+      "bbox": [
+        [
+          192,
+          1146
+        ],
+        [
+          918,
+          1148
+        ],
+        [
+          918,
+          1189
+        ],
+        [
+          192,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1267
+        ],
+        [
+          918,
+          1269
+        ],
+        [
+          918,
+          1310
+        ],
+        [
+          192,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1146,
+        918,
+        1189
+      ],
+      "text": "tỉnh hô-bắc, nên lầy biệt-hiệu là Thiêu-lăng dã-lão.",
+      "confidence": 0.9014
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

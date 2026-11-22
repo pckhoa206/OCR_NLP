@@ -218,12 +218,14 @@ def align_interlinear_blocks(blocks: list[dict[str, Any]]) -> list[tuple[str, st
         return []
 
     aligned_pairs: list[tuple[str, str]] = []
+    is_title_flags: list[bool] = []
     pending_han: list[str] = []
 
     for blk in blocks:
         raw_han = ""
         raw_viet = ""
         raw_phien_am = ""
+        blk_is_title = bool(isinstance(blk, dict) and blk.get("is_title"))
 
         if isinstance(blk, dict):
             raw_han = str(
@@ -265,18 +267,20 @@ def align_interlinear_blocks(blocks: list[dict[str, Any]]) -> list[tuple[str, st
                 merged_han = "".join(pending_han) + cleaned_han
                 pending_han.clear()
                 aligned_pairs.append((merged_han, cleaned_viet))
+                is_title_flags.append(blk_is_title)
             else:
                 aligned_pairs.append((cleaned_han, cleaned_viet))
+                is_title_flags.append(blk_is_title)
         elif cleaned_han and not cleaned_viet:
             # Buffer Hán to merge with the next block (n-1)
             pending_han.append(cleaned_han)
-        elif cleaned_viet and not cleaned_han and aligned_pairs:
-            # Continuation of Vietnamese translation from previous block (1-n)
+        elif cleaned_viet and not cleaned_han and aligned_pairs and not is_title_flags[-1]:
+            # Continuation of Vietnamese translation from previous non-title block (1-n)
             prev_h, prev_v = aligned_pairs[-1]
             aligned_pairs[-1] = (prev_h, clean_viet_text(f"{prev_v} {cleaned_viet}"))
 
-    # If trailing pending_han remains and we already have at least one pair, attach to last pair
-    if pending_han and aligned_pairs:
+    # If trailing pending_han remains and we already have at least one pair, attach to last non-title pair
+    if pending_han and aligned_pairs and not is_title_flags[-1]:
         prev_h, prev_v = aligned_pairs[-1]
         aligned_pairs[-1] = (prev_h + "".join(pending_han), prev_v)
 
@@ -293,16 +297,19 @@ def align_interlinear_4col_blocks(
     - For the final poem (*Thu dạ hoài ngâm*, PDF pages 367-381) and verse-only works
       that only have `Hán - Dịch âm - Dịch thơ`, the `Dịch nghĩa` column is left blank (`""`).
     - For prose works or clauses where `Dịch thơ` is not applicable, `Dịch thơ` may be `""`.
+    - Rows marked `is_title=True` are never merged with subsequent continuation rows.
     """
     if not blocks:
         return []
 
     aligned_rows: list[tuple[str, str, str, str]] = []
+    is_title_flags: list[bool] = []
     for blk in blocks:
         raw_han = ""
         raw_dich_am = ""
         raw_dich_nghia = ""
         raw_dich_tho = ""
+        blk_is_title = bool(isinstance(blk, dict) and blk.get("is_title"))
 
         if isinstance(blk, dict):
             raw_han = str(
@@ -352,7 +359,14 @@ def align_interlinear_4col_blocks(
                     cleaned_dich_tho,
                 )
             )
-        elif not cleaned_han and aligned_rows and (cleaned_dich_nghia or cleaned_dich_tho):
+            is_title_flags.append(blk_is_title)
+        elif (
+            not cleaned_han
+            and not blk_is_title
+            and aligned_rows
+            and not is_title_flags[-1]
+            and (cleaned_dich_nghia or cleaned_dich_tho)
+        ):
             prev_h, prev_am, prev_ng, prev_th = aligned_rows[-1]
             new_ng = (
                 clean_viet_text(f"{prev_ng} {cleaned_dich_nghia}")
@@ -367,6 +381,442 @@ def align_interlinear_4col_blocks(
             aligned_rows[-1] = (prev_h, prev_am, new_ng, new_th)
 
     return aligned_rows
+
+
+def _token_overlap_score(text_a: str, text_b: str) -> float:
+    """Compute lightweight normalized Vietnamese token overlap in [0, 1]."""
+    if not text_a or not text_b:
+        return 0.0
+    toks_a = {t for t in _VIET_WORD_RE.findall(text_a.lower()) if len(t) >= 2}
+    toks_b = {t for t in _VIET_WORD_RE.findall(text_b.lower()) if len(t) >= 2}
+    if not toks_a or not toks_b:
+        return 0.0
+    overlap = len(toks_a & toks_b)
+    return overlap / max(1.0, min(len(toks_a), len(toks_b)))
+
+
+def align_hvtt_facing_dich_tho(
+    han_rows: list[Any],
+    dich_tho_lines: list[str],
+    han_y_centers: list[float] | None = None,
+    dt_y_centers: list[float] | None = None,
+) -> list[str]:
+    """Align facing-page `Dịch thơ` lines onto `Hán` rows without dropping any verse line.
+
+    Supports:
+    - Empty `dich_tho_lines` -> `[""] * len(han_rows)`
+    - Exact `len(dich_tho_lines) == len(han_rows)` -> clean 1:1 pairing
+    - `1-n` (more `Dịch thơ` lines than `Hán` rows) -> spread-level DP joining
+      multi-line verse segments with `" / "`
+    - `n-1` (fewer `Dịch thơ` lines than `Hán` rows) -> spread-level DP placing
+      each `Dịch thơ` line on its best matching `Hán` row (using normalized y-center,
+      relative index, length heuristic, and lexical/anchor overlap) and leaving
+      untranslated rows as `""`.
+    """
+    n_h = len(han_rows)
+    if n_h == 0:
+        return []
+    if not dich_tho_lines:
+        return [""] * n_h
+
+    han_texts: list[str] = []
+    ref_texts: list[str] = []
+    for row in han_rows:
+        if isinstance(row, dict):
+            h_txt = str(
+                row.get("han")
+                or row.get("han_text")
+                or row.get("chu_han")
+                or row.get("raw_han")
+                or ""
+            )
+            r_txt = f"{row.get('dich_am') or row.get('phien_am') or ''} {row.get('dich_nghia') or ''}".strip()
+        elif isinstance(row, (tuple, list)):
+            h_txt = str(row[0] or "") if len(row) >= 1 else ""
+            r_txt = " ".join(str(x or "") for x in row[1:3]).strip()
+        else:
+            h_txt = str(row or "")
+            r_txt = ""
+        han_texts.append(clean_han_text(h_txt) or h_txt.strip())
+        ref_texts.append(clean_viet_text(r_txt) if r_txt else "")
+
+    use_y = (
+        han_y_centers is not None
+        and dt_y_centers is not None
+        and len(han_y_centers) == n_h
+        and len(dt_y_centers) == len(dich_tho_lines)
+        and any(y is not None and y > 0 for y in han_y_centers)
+        and any(y is not None and y > 0 for y in dt_y_centers)
+    )
+
+    valid_dt: list[tuple[str, float | None]] = []
+    for idx, line in enumerate(dich_tho_lines):
+        cleaned = clean_viet_text(line)
+        if not cleaned:
+            continue
+        y_val = float(dt_y_centers[idx]) if (use_y and dt_y_centers is not None) else None
+        valid_dt.append((cleaned, y_val))
+
+    n_dt = len(valid_dt)
+    if n_dt == 0:
+        return [""] * n_h
+    if n_dt == n_h:
+        return [dt for dt, _ in valid_dt]
+
+    y_scale = 1.0
+    if use_y and han_y_centers is not None:
+        max_hy = max(float(y) for y in han_y_centers)
+        max_dy = max((float(y) for _, y in valid_dt if y is not None), default=0.0)
+        y_scale = max(1600.0, max_hy, max_dy) * 1.05
+
+    def _score_assignment(i: int, j0: int, k: int) -> float:
+        if k == 0:
+            # Small skip baseline used only when n_dt < n_h
+            return 0.05
+        slice_dt = valid_dt[j0 : j0 + k]
+        joined_dt = " / ".join(dt for dt, _ in slice_dt)
+        h_txt = han_texts[i]
+        r_txt = ref_texts[i]
+
+        len_s = compute_length_ratio_score(h_txt, joined_dt)
+        anc_s = compute_anchor_similarity(h_txt, joined_dt)
+        ref_s = _token_overlap_score(r_txt, joined_dt) if r_txt else 0.0
+
+        if use_y and han_y_centers is not None:
+            h_pos = float(han_y_centers[i]) / y_scale
+            ys = [y for _, y in slice_dt if y is not None]
+            dt_pos = (sum(ys) / len(ys)) / y_scale if ys else (j0 + 0.5 * k) / n_dt
+            pos_s = math.exp(-10.0 * ((h_pos - dt_pos) ** 2))
+        else:
+            h_pos = (i + 0.5) / n_h
+            dt_pos = (j0 + 0.5 * k) / n_dt
+            pos_s = math.exp(-7.0 * ((h_pos - dt_pos) ** 2))
+
+        if k == 1:
+            k_prior = 1.00
+        elif k == 2:
+            k_prior = 0.96
+        elif k == 3:
+            k_prior = 0.85
+        elif k == 4:
+            k_prior = 0.72
+        else:
+            k_prior = 0.55
+
+        if r_txt:
+            quality = 0.34 * len_s + 0.18 * anc_s + 0.18 * ref_s + 0.30 * pos_s
+        else:
+            quality = 0.42 * len_s + 0.23 * anc_s + 0.35 * pos_s
+
+        # Multiply by (1 + 0.5*(k-1)) when n_dt > n_h so multi-line grouping competes fairly
+        weight = (1.0 + 0.55 * (k - 1)) if n_dt > n_h else 1.0
+        return weight * k_prior * (0.25 + quality)
+
+    neg_inf = -1e9
+    dp: list[list[float]] = [[neg_inf] * (n_dt + 1) for _ in range(n_h + 1)]
+    back: list[list[int]] = [[-1] * (n_dt + 1) for _ in range(n_h + 1)]
+    dp[0][0] = 0.0
+
+    if n_dt > n_h:
+        min_k = 1
+        max_k = max(4, n_dt - n_h + 1)
+    else:
+        min_k = 0
+        max_k = 2
+
+    for i in range(n_h):
+        rem_h = n_h - 1 - i
+        for j in range(n_dt + 1):
+            if dp[i][j] <= neg_inf / 2:
+                continue
+            rem_dt = n_dt - j
+            if n_dt > n_h and rem_dt < rem_h + 1:
+                continue
+            hi_k = min(max_k, rem_dt)
+            if n_dt > n_h:
+                hi_k = min(hi_k, rem_dt - rem_h)
+            for k in range(min_k, hi_k + 1):
+                nj = j + k
+                cand = dp[i][j] + _score_assignment(i, j, k)
+                if cand > dp[i + 1][nj]:
+                    dp[i + 1][nj] = cand
+                    back[i + 1][nj] = k
+
+    if back[n_h][n_dt] < 0:
+        # Safe uniform fallback ensuring 0 lines dropped
+        out = [""] * n_h
+        for j, (dt_txt, _) in enumerate(valid_dt):
+            target_i = min(n_h - 1, int(j * n_h / n_dt))
+            out[target_i] = f"{out[target_i]} / {dt_txt}".strip(" /") if out[target_i] else dt_txt
+        return out
+
+    counts: list[int] = []
+    ci, cj = n_h, n_dt
+    while ci > 0:
+        k = back[ci][cj]
+        if k < 0:
+            k = 0
+        counts.append(k)
+        cj -= k
+        ci -= 1
+    counts.reverse()
+
+    aligned_dt: list[str] = []
+    cursor = 0
+    for k in counts:
+        if k <= 0:
+            aligned_dt.append("")
+        else:
+            aligned_dt.append(" / ".join(dt for dt, _ in valid_dt[cursor : cursor + k]))
+            cursor += k
+    return aligned_dt
+
+
+def align_phien_am_to_han_chunks(
+    han_chunks: list[str],
+    pa_lines: list[str],
+) -> list[str]:
+    """Project `Phiên âm` lines onto aligned `Hán` sentence chunks using syllable-count + phonetic DP.
+
+    Handles:
+    - Full coverage (`0.75 <= pa_syls / han_chars <= 1.25`): monotonic DP partition
+      matching Hán char counts to Sino-Vietnamese syllables with punctuation and
+      `CORE_HAN_VIET_DICT` boundary bonuses.
+    - Truncated prefix (`pa_syls < 0.75 * han_chars`, e.g., TVLT2 Work #3 before
+      blank scan page): projects across the matching prefix chunks and leaves `""`
+      for uncovered chunks.
+    - Missing Hán middle blocks (`pa_syls > 1.25 * han_chars`, e.g., TVLT2 Work #8):
+      splits `Phiên âm` into clauses and aligns via phonetic-anchor DP so skipped
+      sections do not corrupt remaining rows.
+    """
+    n_h = len(han_chunks)
+    if n_h == 0:
+        return []
+    cleaned_pa_lines = [clean_viet_text(ln) for ln in (pa_lines or []) if clean_viet_text(ln)]
+    if not cleaned_pa_lines:
+        return [""] * n_h
+
+    from src.phonetic_verifier import CORE_HAN_VIET_DICT, normalize_viet_syllable
+
+    joined_pa = clean_viet_text("\n".join(cleaned_pa_lines))
+    raw_tokens = [t for t in joined_pa.split() if t]
+    # Merge standalone punctuation tokens onto preceding token
+    pa_tokens: list[str] = []
+    for tok in raw_tokens:
+        if not re.search(r"[A-Za-zÀ-ỹà-ỹ0-9]", tok):
+            if pa_tokens and tok in (".", ",", ";", ":", "?", "!"):
+                pa_tokens[-1] = f"{pa_tokens[-1]}{tok}"
+            continue
+        pa_tokens.append(tok)
+
+    if not pa_tokens:
+        return [""] * n_h
+
+    def _syl_weight(tok: str) -> int:
+        parts = [p for p in re.split(r"[-–—]", tok) if re.search(r"[A-Za-zÀ-ỹà-ỹ0-9]", p)]
+        return max(1, len(parts))
+
+    def _norm_tok(tok: str) -> str:
+        base = re.sub(r"[^A-Za-zÀ-ỹà-ỹ]", "", tok.split("-")[0])
+        return normalize_viet_syllable(base)
+
+    def _norm_last_tok(tok: str) -> str:
+        base = re.sub(r"[^A-Za-zÀ-ỹà-ỹ]", "", tok.split("-")[-1])
+        return normalize_viet_syllable(base)
+
+    def _char_matches_syl(ch: str, norm_syl: str) -> bool:
+        if not ch or not norm_syl:
+            return False
+        readings = CORE_HAN_VIET_DICT.get(ch, [])
+        return any(normalize_viet_syllable(r.split()[0]) == norm_syl for r in readings)
+
+    tok_weights = [_syl_weight(t) for t in pa_tokens]
+    total_pa_syls = sum(tok_weights)
+    han_char_lists = [_CJK_CHAR_RE.findall(h) for h in han_chunks]
+    han_counts = [max(1, len(chars)) for chars in han_char_lists]
+    total_han_chars = sum(han_counts)
+
+    # Case 3: PA has significantly more syllables than Hán (OCR missed some Hán lines)
+    if total_han_chars > 0 and total_pa_syls > 1.28 * total_han_chars and n_h > 1:
+        # Group PA into clause segments using punctuation, falling back to ~12-syl windows
+        pa_clauses: list[str] = []
+        buf: list[str] = []
+        buf_w = 0
+        for tok, w in zip(pa_tokens, tok_weights):
+            buf.append(tok)
+            buf_w += w
+            if tok.endswith((".", "!", "?", ";", ":")) or (tok.endswith(",") and buf_w >= 6) or buf_w >= 16:
+                pa_clauses.append(" ".join(buf))
+                buf = []
+                buf_w = 0
+        if buf:
+            pa_clauses.append(" ".join(buf))
+
+        n_c = len(pa_clauses)
+        if n_c >= n_h:
+            clause_syls = [
+                [normalize_viet_syllable(w) for w in _VIET_WORD_RE.findall(cl)]
+                for cl in pa_clauses
+            ]
+            clause_weights = [max(1, len(s)) for s in clause_syls]
+
+            def _phon_clause_score(hi: int, cj0: int, ck: int) -> float:
+                h_chars = han_char_lists[hi]
+                c_syls = [s for c_idx in range(cj0, cj0 + ck) for s in clause_syls[c_idx]]
+                w_pa = sum(clause_weights[cj0 : cj0 + ck])
+                target = max(1, len(h_chars))
+                len_s = math.exp(-0.5 * (((w_pa - target) / max(2.5, 0.35 * target)) ** 2))
+                # Phonetic overlap of known dictionary characters
+                checked = 0
+                matched = 0
+                c_syl_set = set(c_syls)
+                for ch in h_chars:
+                    reads = CORE_HAN_VIET_DICT.get(ch)
+                    if reads:
+                        checked += 1
+                        if any(normalize_viet_syllable(r.split()[0]) in c_syl_set for r in reads):
+                            matched += 1
+                phon_s = (matched / checked) if checked > 0 else 0.5
+                pos_s = math.exp(-2.0 * (((hi + 0.5) / n_h) - ((cj0 + 0.5 * ck) / n_c)) ** 2)
+                return 0.45 * len_s + 0.40 * phon_s + 0.15 * pos_s
+
+            neg_inf = -1e9
+            dp_c = [[neg_inf] * (n_c + 1) for _ in range(n_h + 1)]
+            back_c: list[list[tuple[int, int] | None]] = [[None] * (n_c + 1) for _ in range(n_h + 1)]
+            dp_c[0][0] = 0.0
+            for i in range(n_h):
+                for j in range(n_c + 1):
+                    if dp_c[i][j] <= neg_inf / 2:
+                        continue
+                    # Allow skipping unmatched PA gap clauses before matching chunk i
+                    if j < n_c:
+                        skip_val = dp_c[i][j] - 0.02
+                        if skip_val > dp_c[i][j + 1]:
+                            dp_c[i][j + 1] = skip_val
+                            back_c[i][j + 1] = (0, 1)
+                    for ck in range(1, min(5, n_c - j + 1)):
+                        val = dp_c[i][j] + 1.0 + _phon_clause_score(i, j, ck)
+                        if val > dp_c[i + 1][j + ck]:
+                            dp_c[i + 1][j + ck] = val
+                            back_c[i + 1][j + ck] = (1, ck)
+            # Allow trailing PA skip
+            best_end_j = max(range(n_c + 1), key=lambda j: dp_c[n_h][j])
+            if dp_c[n_h][best_end_j] > neg_inf / 2:
+                out_c = [""] * n_h
+                ci, cj = n_h, best_end_j
+                while ci > 0 or cj > 0:
+                    step = back_c[ci][cj]
+                    if step is None:
+                        break
+                    dh, dc = step
+                    if dh == 1:
+                        out_c[ci - 1] = " ".join(pa_clauses[cj - dc : cj])
+                    ci -= dh
+                    cj -= dc
+                return out_c
+
+    # Case 2: Truncated prefix PA (e.g. TVLT2 Work #3 before blank page 25)
+    active_n = n_h
+    if total_han_chars > 0 and total_pa_syls < 0.72 * total_han_chars and n_h > 1:
+        cum = 0
+        best_m = 1
+        best_diff = abs(han_counts[0] - total_pa_syls)
+        for m in range(1, n_h + 1):
+            cum += han_counts[m - 1]
+            diff = abs(cum - total_pa_syls)
+            if diff <= best_diff:
+                best_diff = diff
+                best_m = m
+        active_n = best_m
+
+    n_tok = len(pa_tokens)
+    active_n = min(active_n, n_tok)
+    active_han_chars = max(1, sum(han_counts[:active_n]))
+    scale_ratio = total_pa_syls / active_han_chars
+    if active_n <= 1:
+        res = [clean_viet_text(" ".join(pa_tokens))] + [""] * (n_h - 1)
+        return res
+
+    # Prefix sums of syllable weights for O(1) span weight lookup
+    pref_w = [0] * (n_tok + 1)
+    for idx, w in enumerate(tok_weights):
+        pref_w[idx + 1] = pref_w[idx] + w
+
+    tok_first_norm = [_norm_tok(t) for t in pa_tokens]
+    tok_last_norm = [_norm_last_tok(t) for t in pa_tokens]
+
+    # Precompute expected cumulative token boundaries for beam search around target
+    neg_inf = -1e9
+    dp_p: list[list[float]] = [[neg_inf] * (n_tok + 1) for _ in range(active_n + 1)]
+    back_p: list[list[int]] = [[-1] * (n_tok + 1) for _ in range(active_n + 1)]
+    dp_p[0][0] = 0.0
+
+    cum_target_syls = 0.0
+    for i in range(active_n):
+        target_w = max(1.0, han_counts[i] * scale_ratio)
+        cum_target_syls += target_w
+        h_chars = han_char_lists[i]
+        h_ends_sent = han_chunks[i].rstrip("」』）》〉】").endswith(("。", "！", "？", "；"))
+        h_first = h_chars[0] if h_chars else ""
+        h_last = h_chars[-1] if h_chars else ""
+
+        # Narrow search window around expected token index for speed on long essays
+        min_j = i
+        max_j = n_tok - (active_n - 1 - i)
+        for j in range(min_j, max_j + 1):
+            if dp_p[i][j] <= neg_inf / 2:
+                continue
+            # Scan k tokens forward so syllable weight is near target_w (bounded beam)
+            lo_w = max(1.0, target_w * 0.45 - 2.0)
+            hi_w = target_w * 1.65 + 4.0
+            for nj in range(j + 1, max_j + 1):
+                w_span = pref_w[nj] - pref_w[j]
+                if w_span < lo_w and nj < max_j:
+                    continue
+                if w_span > hi_w and nj > j + 1:
+                    break
+                len_cost = ((w_span - target_w) ** 2) / max(4.0, target_w)
+                bonus = 0.0
+                end_tok = pa_tokens[nj - 1]
+                if end_tok.endswith((".", "!", "?", ";")):
+                    bonus += 0.65 if h_ends_sent else 0.20
+                elif end_tok.endswith((":", ",")):
+                    bonus += 0.20
+                if h_first and _char_matches_syl(h_first, tok_first_norm[j]):
+                    bonus += 0.30
+                if h_last and _char_matches_syl(h_last, tok_last_norm[nj - 1]):
+                    bonus += 0.30
+                cand = dp_p[i][j] - len_cost + bonus
+                if cand > dp_p[i + 1][nj]:
+                    dp_p[i + 1][nj] = cand
+                    back_p[i + 1][nj] = j
+
+    if back_p[active_n][n_tok] < 0:
+        # Proportional token split fallback
+        out_fb = [""] * n_h
+        cur_t = 0
+        for i in range(active_n):
+            take = (
+                n_tok - cur_t
+                if i == active_n - 1
+                else max(1, min(n_tok - cur_t - (active_n - 1 - i), round(han_counts[i] * scale_ratio)))
+            )
+            out_fb[i] = clean_viet_text(" ".join(pa_tokens[cur_t : cur_t + take]))
+            cur_t += take
+        return out_fb
+
+    bounds = [n_tok]
+    curr_j = n_tok
+    for i in range(active_n, 0, -1):
+        prev_j = back_p[i][curr_j]
+        bounds.append(prev_j)
+        curr_j = prev_j
+    bounds.reverse()
+
+    result = [""] * n_h
+    for i in range(active_n):
+        result[i] = clean_viet_text(" ".join(pa_tokens[bounds[i] : bounds[i + 1]]))
+    return result
 
 
 def align_work_sentences(

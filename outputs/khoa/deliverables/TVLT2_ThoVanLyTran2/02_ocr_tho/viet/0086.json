@@ -1,0 +1,2167 @@
+{
+  "page_id": "0086",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 86,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0086_viet_000",
+      "bbox": [
+        [
+          843,
+          0
+        ],
+        [
+          981,
+          0
+        ],
+        [
+          981,
+          14
+        ],
+        [
+          843,
+          13
+        ]
+      ],
+      "bbox_original": [
+        [
+          843,
+          155
+        ],
+        [
+          981,
+          155
+        ],
+        [
+          981,
+          169
+        ],
+        [
+          843,
+          168
+        ]
+      ],
+      "box_xyxy": [
+        843,
+        0,
+        981,
+        14
+      ],
+      "text": "và tu1 (là)",
+      "confidence": 0.4962
+    },
+    {
+      "line_id": "0086_viet_001",
+      "bbox": [
+        [
+          175,
+          83
+        ],
+        [
+          1412,
+          81
+        ],
+        [
+          1412,
+          125
+        ],
+        [
+          175,
+          128
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          238
+        ],
+        [
+          1412,
+          236
+        ],
+        [
+          1412,
+          280
+        ],
+        [
+          175,
+          283
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        81,
+        1412,
+        128
+      ],
+      "text": "khó sao 1 Thích Ca Văn phát (?) vào núi Tuyết-sơn, ngồi ngay ngắn trong sáu",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0086_viet_002",
+      "bbox": [
+        [
+          175,
+          124
+        ],
+        [
+          1412,
+          118
+        ],
+        [
+          1412,
+          163
+        ],
+        [
+          175,
+          168
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          279
+        ],
+        [
+          1412,
+          273
+        ],
+        [
+          1412,
+          318
+        ],
+        [
+          175,
+          323
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        118,
+        1412,
+        168
+      ],
+      "text": "năm, chim hồ các làm tổ trên đàu, cộ mọc xuyên qua bắp về mà thân tâm vẫn",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0086_viet_003",
+      "bbox": [
+        [
+          175,
+          164
+        ],
+        [
+          1412,
+          161
+        ],
+        [
+          1412,
+          202
+        ],
+        [
+          175,
+          205
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          319
+        ],
+        [
+          1412,
+          316
+        ],
+        [
+          1412,
+          357
+        ],
+        [
+          175,
+          360
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        161,
+        1412,
+        205
+      ],
+      "text": "bình thản. Tử Cơ(?) ngôi tựa ghế, thân, như cây khô, lòng như tro nguội, Nhan",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0086_viet_004",
+      "bbox": [
+        [
+          176,
+          205
+        ],
+        [
+          1412,
+          200
+        ],
+        [
+          1412,
+          240
+        ],
+        [
+          176,
+          245
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          360
+        ],
+        [
+          1412,
+          355
+        ],
+        [
+          1412,
+          395
+        ],
+        [
+          176,
+          400
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        200,
+        1412,
+        245
+      ],
+      "text": "Hòi (?) ngôi quên, chân tay ròi rã, thông minh dẹp bỏ, lia xa cả trị cả ngu đề",
+      "confidence": 0.8903
+    },
+    {
+      "line_id": "0086_viet_005",
+      "bbox": [
+        [
+          176,
+          244
+        ],
+        [
+          1415,
+          238
+        ],
+        [
+          1415,
+          278
+        ],
+        [
+          176,
+          284
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          399
+        ],
+        [
+          1415,
+          393
+        ],
+        [
+          1415,
+          433
+        ],
+        [
+          176,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        238,
+        1415,
+        284
+      ],
+      "text": "hòa chung vời, đạo lờn. Ba bậc thành hiên của tam giáo: đời xưa đó đều nhờ",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0086_viet_006",
+      "bbox": [
+        [
+          176,
+          281
+        ],
+        [
+          1413,
+          279
+        ],
+        [
+          1413,
+          320
+        ],
+        [
+          176,
+          322
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          436
+        ],
+        [
+          1413,
+          434
+        ],
+        [
+          1413,
+          475
+        ],
+        [
+          176,
+          477
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        279,
+        1413,
+        322
+      ],
+      "text": "ngôi định mà có thành tru, Song đi, đứng, nằm, ngồi cũng đều là thiền, không",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0086_viet_007",
+      "bbox": [
+        [
+          177,
+          321
+        ],
+        [
+          1413,
+          315
+        ],
+        [
+          1413,
+          356
+        ],
+        [
+          177,
+          362
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          476
+        ],
+        [
+          1413,
+          470
+        ],
+        [
+          1413,
+          511
+        ],
+        [
+          177,
+          517
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        315,
+        1413,
+        362
+      ],
+      "text": "phải chỉ riêng ngôi, Chỉ vì di thì thẻ bước, đứng thì sinh mệt, nằm thì mờ tổi",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0086_viet_008",
+      "bbox": [
+        [
+          176,
+          360
+        ],
+        [
+          1410,
+          357
+        ],
+        [
+          1410,
+          398
+        ],
+        [
+          176,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          515
+        ],
+        [
+          1410,
+          512
+        ],
+        [
+          1410,
+          553
+        ],
+        [
+          176,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        357,
+        1410,
+        401
+      ],
+      "text": "mà yên tính Yên tính thì nổi lo này sinh, nỗi lo nảy sinh thi ý nghĩ trỗi dậy.",
+      "confidence": 0.8713
+    },
+    {
+      "line_id": "0086_viet_009",
+      "bbox": [
+        [
+          177,
+          401
+        ],
+        [
+          1411,
+          397
+        ],
+        [
+          1411,
+          435
+        ],
+        [
+          177,
+          439
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          556
+        ],
+        [
+          1411,
+          552
+        ],
+        [
+          1411,
+          590
+        ],
+        [
+          177,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        397,
+        1411,
+        439
+      ],
+      "text": "Muốn dập tắt mọi ý nghĩ cho nên phải tập ngồi định. Nếu như lúc ngồi định",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0086_viet_010",
+      "bbox": [
+        [
+          177,
+          440
+        ],
+        [
+          1412,
+          438
+        ],
+        [
+          1412,
+          476
+        ],
+        [
+          177,
+          478
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          595
+        ],
+        [
+          1412,
+          593
+        ],
+        [
+          1412,
+          631
+        ],
+        [
+          177,
+          633
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        438,
+        1412,
+        478
+      ],
+      "text": "nhà mọi y nghĩ không tắt, tàm vượn tranh tròi dậy, ý ngựa mặc ruồi rong.",
+      "confidence": 0.8765
+    },
+    {
+      "line_id": "0086_viet_011",
+      "bbox": [
+        [
+          177,
+          479
+        ],
+        [
+          1412,
+          476
+        ],
+        [
+          1412,
+          514
+        ],
+        [
+          177,
+          517
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          634
+        ],
+        [
+          1412,
+          631
+        ],
+        [
+          1412,
+          669
+        ],
+        [
+          177,
+          672
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        476,
+        1412,
+        517
+      ],
+      "text": "Hoặc loạn tưởng mà nhờ cối trần xửa, hoặc không nhờ mà quên tự tính, Dựa",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0086_viet_012",
+      "bbox": [
+        [
+          177,
+          518
+        ],
+        [
+          1411,
+          515
+        ],
+        [
+          1411,
+          553
+        ],
+        [
+          177,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          673
+        ],
+        [
+          1411,
+          670
+        ],
+        [
+          1411,
+          708
+        ],
+        [
+          177,
+          711
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        515,
+        1411,
+        556
+      ],
+      "text": "giường dựa vách, nhằm mắt che người: rãi chảy ngũ mê: lưng cong đầu củi. Tuy",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0086_viet_013",
+      "bbox": [
+        [
+          179,
+          556
+        ],
+        [
+          1412,
+          553
+        ],
+        [
+          1412,
+          594
+        ],
+        [
+          179,
+          597
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          711
+        ],
+        [
+          1412,
+          708
+        ],
+        [
+          1412,
+          749
+        ],
+        [
+          179,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        553,
+        1412,
+        597
+      ],
+      "text": "giả dãnh ngôi thiên nhưng có khác gi ngồi dưới núi Hắc-sơn (%): trong hang quý.",
+      "confidence": 0.886
+    },
+    {
+      "line_id": "0086_viet_014",
+      "bbox": [
+        [
+          269,
+          608
+        ],
+        [
+          1414,
+          607
+        ],
+        [
+          1414,
+          649
+        ],
+        [
+          269,
+          650
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          763
+        ],
+        [
+          1414,
+          762
+        ],
+        [
+          1414,
+          804
+        ],
+        [
+          269,
+          805
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        607,
+        1414,
+        650
+      ],
+      "text": "Cho nên thiên sư Nhượng (?) nói rằng a mài gạch làm gương m, có lễ là",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0086_viet_015",
+      "bbox": [
+        [
+          176,
+          652
+        ],
+        [
+          1411,
+          648
+        ],
+        [
+          1411,
+          686
+        ],
+        [
+          176,
+          689
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          807
+        ],
+        [
+          1411,
+          803
+        ],
+        [
+          1411,
+          841
+        ],
+        [
+          176,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        648,
+        1411,
+        689
+      ],
+      "text": "nói về việc do chăng 7 Và lại thiên có hón loại. Loại thứ nhất dùng kế lạ làm",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0086_viet_016",
+      "bbox": [
+        [
+          176,
+          690
+        ],
+        [
+          1413,
+          687
+        ],
+        [
+          1413,
+          727
+        ],
+        [
+          176,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          845
+        ],
+        [
+          1413,
+          842
+        ],
+        [
+          1413,
+          882
+        ],
+        [
+          176,
+          885
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        687,
+        1413,
+        730
+      ],
+      "text": "vui người trên, lam chán kê dưới mà tù hành, đổ là ngoại đạo thiên, Loại",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0086_viet_017",
+      "bbox": [
+        [
+          178,
+          730
+        ],
+        [
+          1412,
+          728
+        ],
+        [
+          1412,
+          765
+        ],
+        [
+          178,
+          767
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          885
+        ],
+        [
+          1412,
+          883
+        ],
+        [
+          1412,
+          920
+        ],
+        [
+          178,
+          922
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        728,
+        1412,
+        767
+      ],
+      "text": "thứ hai hét lòng tin ở nhán, quả (?), nhưng cũng lấy việc làm vui, gày chản",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0086_viet_018",
+      "bbox": [
+        [
+          176,
+          769
+        ],
+        [
+          1412,
+          765
+        ],
+        [
+          1412,
+          802
+        ],
+        [
+          176,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          924
+        ],
+        [
+          1412,
+          920
+        ],
+        [
+          1412,
+          957
+        ],
+        [
+          176,
+          961
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        765,
+        1412,
+        806
+      ],
+      "text": "mà tu thì đó là phường phàm phu iniên, Loại thứ: ba, hiểu rõ cái lễ cuộc sống là",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0086_viet_019",
+      "bbox": [
+        [
+          174,
+          807
+        ],
+        [
+          1412,
+          804
+        ],
+        [
+          1412,
+          844
+        ],
+        [
+          174,
+          847
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          962
+        ],
+        [
+          1412,
+          959
+        ],
+        [
+          1412,
+          999
+        ],
+        [
+          174,
+          1002
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        804,
+        1412,
+        847
+      ],
+      "text": "không, chứng riêng được đạo chàn chính mà lu hành, thì đó là tiêu giáo thiền",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0086_viet_020",
+      "bbox": [
+        [
+          175,
+          846
+        ],
+        [
+          1410,
+          845
+        ],
+        [
+          1410,
+          885
+        ],
+        [
+          175,
+          886
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1001
+        ],
+        [
+          1410,
+          1000
+        ],
+        [
+          1410,
+          1040
+        ],
+        [
+          175,
+          1041
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        845,
+        1410,
+        886
+      ],
+      "text": "Loại thứ tư, hiều rõ người xa: pháp đều, không mà tu hành, đó là đại giáo",
+      "confidence": 0.8895
+    },
+    {
+      "line_id": "0086_viet_021",
+      "bbox": [
+        [
+          174,
+          887
+        ],
+        [
+          1411,
+          885
+        ],
+        [
+          1411,
+          924
+        ],
+        [
+          174,
+          926
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1042
+        ],
+        [
+          1411,
+          1040
+        ],
+        [
+          1411,
+          1079
+        ],
+        [
+          174,
+          1081
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        885,
+        1411,
+        926
+      ],
+      "text": "thiên, Nay những người hậu học nên lấy đại giáo, thiên làm chính, Đó là tập",
+      "confidence": 0.9003
+    },
+    {
+      "line_id": "0086_viet_022",
+      "bbox": [
+        [
+          174,
+          926
+        ],
+        [
+          1266,
+          926
+        ],
+        [
+          1266,
+          966
+        ],
+        [
+          174,
+          966
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1081
+        ],
+        [
+          1266,
+          1081
+        ],
+        [
+          1266,
+          1121
+        ],
+        [
+          174,
+          1121
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        926,
+        1266,
+        966
+      ],
+      "text": "ngôi thiên đáp tải moi suy nghi, chộ đề này sinh những kiến giải vây",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0086_viet_023",
+      "bbox": [
+        [
+          909,
+          985
+        ],
+        [
+          1340,
+          985
+        ],
+        [
+          1340,
+          1022
+        ],
+        [
+          909,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          909,
+          1140
+        ],
+        [
+          1340,
+          1140
+        ],
+        [
+          1340,
+          1177
+        ],
+        [
+          909,
+          1177
+        ]
+      ],
+      "box_xyxy": [
+        909,
+        985,
+        1340,
+        1022
+      ],
+      "text": "ĐỒ VĂN HÝ BĂNG THANH",
+      "confidence": 0.862
+    },
+    {
+      "line_id": "0086_viet_024",
+      "bbox": [
+        [
+          184,
+          1078
+        ],
+        [
+          349,
+          1078
+        ],
+        [
+          349,
+          1113
+        ],
+        [
+          184,
+          1113
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1233
+        ],
+        [
+          349,
+          1233
+        ],
+        [
+          349,
+          1268
+        ],
+        [
+          184,
+          1268
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1078,
+        349,
+        1113
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0086_viet_025",
+      "bbox": [
+        [
+          682,
+          1125
+        ],
+        [
+          927,
+          1125
+        ],
+        [
+          927,
+          1163
+        ],
+        [
+          682,
+          1163
+        ]
+      ],
+      "bbox_original": [
+        [
+          682,
+          1280
+        ],
+        [
+          927,
+          1280
+        ],
+        [
+          927,
+          1318
+        ],
+        [
+          682,
+          1318
+        ]
+      ],
+      "box_xyxy": [
+        682,
+        1125,
+        927,
+        1163
+      ],
+      "text": "XUẤT XÚ: KHL2",
+      "confidence": 0.8998
+    },
+    {
+      "line_id": "0086_viet_026",
+      "bbox": [
+        [
+          174,
+          1196
+        ],
+        [
+          1410,
+          1192
+        ],
+        [
+          1410,
+          1228
+        ],
+        [
+          174,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1351
+        ],
+        [
+          1410,
+          1347
+        ],
+        [
+          1410,
+          1383
+        ],
+        [
+          174,
+          1387
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1192,
+        1410,
+        1232
+      ],
+      "text": "(1), Ngồi thiên (tọa thiên), thuật ngữ đạo Phật, Thiên phiên âm tiếng Phạn diyana, phiên",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0086_viet_027",
+      "bbox": [
+        [
+          238,
+          1233
+        ],
+        [
+          1411,
+          1230
+        ],
+        [
+          1411,
+          1264
+        ],
+        [
+          239,
+          1267
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1388
+        ],
+        [
+          1411,
+          1385
+        ],
+        [
+          1411,
+          1419
+        ],
+        [
+          239,
+          1422
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1230,
+        1411,
+        1267
+      ],
+      "text": "đây đủ. là thiên-na, có nghĩa là suy nghị, thắm xét, tàm tri phải tình lặng đề tập",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0086_viet_028",
+      "bbox": [
+        [
+          236,
+          1270
+        ],
+        [
+          1412,
+          1265
+        ],
+        [
+          1412,
+          1299
+        ],
+        [
+          237,
+          1304
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1425
+        ],
+        [
+          1412,
+          1420
+        ],
+        [
+          1412,
+          1454
+        ],
+        [
+          237,
+          1459
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1265,
+        1412,
+        1304
+      ],
+      "text": "trung tự tường, Thiên, thường dị đòi với dinh, nhưng khị nói thiên định tức là",
+      "confidence": 0.8906
+    },
+    {
+      "line_id": "0086_viet_029",
+      "bbox": [
+        [
+          237,
+          1306
+        ],
+        [
+          1411,
+          1302
+        ],
+        [
+          1411,
+          1335
+        ],
+        [
+          238,
+          1339
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1461
+        ],
+        [
+          1411,
+          1457
+        ],
+        [
+          1411,
+          1490
+        ],
+        [
+          238,
+          1494
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1302,
+        1411,
+        1339
+      ],
+      "text": "đã nói đến hai chặng nói tiếp nhau của qua trình tập trung tư tirởng nhằm dirt",
+      "confidence": 0.8857
+    },
+    {
+      "line_id": "0086_viet_030",
+      "bbox": [
+        [
+          236,
+          1341
+        ],
+        [
+          1412,
+          1339
+        ],
+        [
+          1412,
+          1373
+        ],
+        [
+          237,
+          1375
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1496
+        ],
+        [
+          1412,
+          1494
+        ],
+        [
+          1412,
+          1528
+        ],
+        [
+          237,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1339,
+        1412,
+        1375
+      ],
+      "text": "bỏ mọi vọng niệm, phiên não của còi trần đề đạt tới sự. giác ngộ: Khi hành giả (ngiười",
+      "confidence": 0.8912
+    },
+    {
+      "line_id": "0086_viet_031",
+      "bbox": [
+        [
+          236,
+          1377
+        ],
+        [
+          1411,
+          1375
+        ],
+        [
+          1411,
+          1409
+        ],
+        [
+          237,
+          1412
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1532
+        ],
+        [
+          1411,
+          1530
+        ],
+        [
+          1411,
+          1564
+        ],
+        [
+          237,
+          1567
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1375,
+        1411,
+        1412
+      ],
+      "text": "tu hành) ở đắc sĩ được : phép thiên: thi: văn: còn trong thế giới hữu lậu, nhưng nếu",
+      "confidence": 0.8705
+    },
+    {
+      "line_id": "0086_viet_032",
+      "bbox": [
+        [
+          239,
+          1414
+        ],
+        [
+          1415,
+          1412
+        ],
+        [
+          1415,
+          1447
+        ],
+        [
+          240,
+          1448
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1569
+        ],
+        [
+          1415,
+          1567
+        ],
+        [
+          1415,
+          1602
+        ],
+        [
+          240,
+          1603
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1412,
+        1415,
+        1448
+      ],
+      "text": "là đác n được cả phép định thi được giải thoát hoàn toàn, Ngòi thiên: là một phương",
+      "confidence": 0.8834
+    },
+    {
+      "line_id": "0086_viet_033",
+      "bbox": [
+        [
+          239,
+          1451
+        ],
+        [
+          1413,
+          1449
+        ],
+        [
+          1413,
+          1483
+        ],
+        [
+          240,
+          1485
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1606
+        ],
+        [
+          1413,
+          1604
+        ],
+        [
+          1413,
+          1638
+        ],
+        [
+          240,
+          1640
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1449,
+        1413,
+        1485
+      ],
+      "text": "pháp tu thiên do Bì-đề loạt-ma. khởi xường. Khi ngọi thiên người tu hành tập trung",
+      "confidence": 0.8724
+    },
+    {
+      "line_id": "0086_viet_034",
+      "bbox": [
+        [
+          237,
+          1485
+        ],
+        [
+          1411,
+          1482
+        ],
+        [
+          1411,
+          1519
+        ],
+        [
+          238,
+          1522
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1640
+        ],
+        [
+          1411,
+          1637
+        ],
+        [
+          1411,
+          1674
+        ],
+        [
+          238,
+          1677
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1482,
+        1411,
+        1522
+      ],
+      "text": "suy nghĩ lần lượt, về bốn tăng trời thiên, nếu là thiên định, thì sau khi tập trung nghì",
+      "confidence": 0.8835
+    },
+    {
+      "line_id": "0086_viet_035",
+      "bbox": [
+        [
+          238,
+          1523
+        ],
+        [
+          1412,
+          1520
+        ],
+        [
+          1412,
+          1554
+        ],
+        [
+          239,
+          1557
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1678
+        ],
+        [
+          1412,
+          1675
+        ],
+        [
+          1412,
+          1709
+        ],
+        [
+          239,
+          1712
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1520,
+        1412,
+        1557
+      ],
+      "text": "về bón: tăng trời thiên, trọng còi sác giới lại làn lượt nghì xẽ bón, tàng trời trong cối",
+      "confidence": 0.8676
+    },
+    {
+      "line_id": "0086_viet_036",
+      "bbox": [
+        [
+          238,
+          1558
+        ],
+        [
+          1412,
+          1556
+        ],
+        [
+          1412,
+          1590
+        ],
+        [
+          239,
+          1592
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1713
+        ],
+        [
+          1412,
+          1711
+        ],
+        [
+          1412,
+          1745
+        ],
+        [
+          239,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1556,
+        1412,
+        1592
+      ],
+      "text": "vộ sác giới, đó là không vô biện xư, thức vò biên xư, xó sự hình xư, phi tưởng phi",
+      "confidence": 0.8675
+    },
+    {
+      "line_id": "0086_viet_037",
+      "bbox": [
+        [
+          238,
+          1595
+        ],
+        [
+          1413,
+          1591
+        ],
+        [
+          1413,
+          1625
+        ],
+        [
+          239,
+          1629
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1750
+        ],
+        [
+          1413,
+          1746
+        ],
+        [
+          1413,
+          1780
+        ],
+        [
+          239,
+          1784
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1591,
+        1413,
+        1629
+      ],
+      "text": "phi tưởng xứ. Về bốn tàng trời thiên, xem thêm chỉ.25. bài kim rương tam imuội kinh",
+      "confidence": 0.8669
+    },
+    {
+      "line_id": "0086_viet_038",
+      "bbox": [
+        [
+          238,
+          1631
+        ],
+        [
+          541,
+          1629
+        ],
+        [
+          542,
+          1663
+        ],
+        [
+          239,
+          1666
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1786
+        ],
+        [
+          541,
+          1784
+        ],
+        [
+          542,
+          1818
+        ],
+        [
+          239,
+          1821
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1629,
+        542,
+        1666
+      ],
+      "text": "tiệ, số 4, cùng tác giả.",
+      "confidence": 0.838
+    },
+    {
+      "line_id": "0086_viet_039",
+      "bbox": [
+        [
+          173,
+          1675
+        ],
+        [
+          1412,
+          1671
+        ],
+        [
+          1412,
+          1709
+        ],
+        [
+          173,
+          1712
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1830
+        ],
+        [
+          1412,
+          1826
+        ],
+        [
+          1412,
+          1864
+        ],
+        [
+          173,
+          1867
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1671,
+        1412,
+        1712
+      ],
+      "text": "(2) Định lực - dịnh tiếng Phạn là tum muội (Samadihi), nghĩa là tập trung suy nghĩ vào một",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0086_viet_040",
+      "bbox": [
+        [
+          238,
+          1713
+        ],
+        [
+          1412,
+          1710
+        ],
+        [
+          1412,
+          1743
+        ],
+        [
+          239,
+          1746
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1868
+        ],
+        [
+          1412,
+          1865
+        ],
+        [
+          1412,
+          1898
+        ],
+        [
+          239,
+          1901
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1710,
+        1412,
+        1746
+      ],
+      "text": "cảnh, trí nghĩ không bị phìn tân, hý động, định lực là sức mạnh tư duy sinh ra khi",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0086_viet_041",
+      "bbox": [
+        [
+          239,
+          1749
+        ],
+        [
+          804,
+          1749
+        ],
+        [
+          804,
+          1782
+        ],
+        [
+          239,
+          1782
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1904
+        ],
+        [
+          804,
+          1904
+        ],
+        [
+          804,
+          1937
+        ],
+        [
+          239,
+          1937
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1749,
+        804,
+        1782
+      ],
+      "text": "ngồi thiên, đề tâm trí ở một cánh cao xa.",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0086_viet_042",
+      "bbox": [
+        [
+          171,
+          1795
+        ],
+        [
+          1409,
+          1792
+        ],
+        [
+          1409,
+          1826
+        ],
+        [
+          171,
+          1829
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1950
+        ],
+        [
+          1409,
+          1947
+        ],
+        [
+          1409,
+          1981
+        ],
+        [
+          171,
+          1984
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1792,
+        1409,
+        1829
+      ],
+      "text": "(3): Thích Ca Văn phủ, tức Thịch Ca Màu Ni, xem Cht. 19, bài Phồ khuyến phái bò-dè làm.",
+      "confidence": 0.8584
+    },
+    {
+      "line_id": "0086_viet_043",
+      "bbox": [
+        [
+          237,
+          1833
+        ],
+        [
+          490,
+          1833
+        ],
+        [
+          490,
+          1867
+        ],
+        [
+          237,
+          1867
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1988
+        ],
+        [
+          490,
+          1988
+        ],
+        [
+          490,
+          2022
+        ],
+        [
+          237,
+          2022
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1833,
+        490,
+        1867
+      ],
+      "text": "số 7, cùng tác phá",
+      "confidence": 0.8741
+    },
+    {
+      "line_id": "0086_viet_044",
+      "bbox": [
+        [
+          172,
+          1877
+        ],
+        [
+          987,
+          1877
+        ],
+        [
+          987,
+          1914
+        ],
+        [
+          172,
+          1914
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          2032
+        ],
+        [
+          987,
+          2032
+        ],
+        [
+          987,
+          2069
+        ],
+        [
+          172,
+          2069
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1877,
+        987,
+        1914
+      ],
+      "text": "(4) Tử Cự Tức Nam Quốch Tir Car, Riên Ở Sách Trung Tử",
+      "confidence": 0.8553
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "và tu1 (là)",
+      "khó sao 1 Thích Ca Văn phát (?) vào núi Tuyết-sơn, ngồi ngay ngắn trong sáu",
+      "năm, chim hồ các làm tổ trên đàu, cộ mọc xuyên qua bắp về mà thân tâm vẫn",
+      "bình thản. Tử Cơ(?) ngôi tựa ghế, thân, như cây khô, lòng như tro nguội, Nhan",
+      "Hòi (?) ngôi quên, chân tay ròi rã, thông minh dẹp bỏ, lia xa cả trị cả ngu đề",
+      "hòa chung vời, đạo lờn. Ba bậc thành hiên của tam giáo: đời xưa đó đều nhờ",
+      "ngôi định mà có thành tru, Song đi, đứng, nằm, ngồi cũng đều là thiền, không",
+      "phải chỉ riêng ngôi, Chỉ vì di thì thẻ bước, đứng thì sinh mệt, nằm thì mờ tổi",
+      "mà yên tính Yên tính thì nổi lo này sinh, nỗi lo nảy sinh thi ý nghĩ trỗi dậy.",
+      "Muốn dập tắt mọi ý nghĩ cho nên phải tập ngồi định. Nếu như lúc ngồi định",
+      "nhà mọi y nghĩ không tắt, tàm vượn tranh tròi dậy, ý ngựa mặc ruồi rong.",
+      "Hoặc loạn tưởng mà nhờ cối trần xửa, hoặc không nhờ mà quên tự tính, Dựa",
+      "giường dựa vách, nhằm mắt che người: rãi chảy ngũ mê: lưng cong đầu củi. Tuy",
+      "giả dãnh ngôi thiên nhưng có khác gi ngồi dưới núi Hắc-sơn (%): trong hang quý.",
+      "Cho nên thiên sư Nhượng (?) nói rằng a mài gạch làm gương m, có lễ là",
+      "nói về việc do chăng 7 Và lại thiên có hón loại. Loại thứ nhất dùng kế lạ làm",
+      "vui người trên, lam chán kê dưới mà tù hành, đổ là ngoại đạo thiên, Loại",
+      "thứ hai hét lòng tin ở nhán, quả (?), nhưng cũng lấy việc làm vui, gày chản",
+      "mà tu thì đó là phường phàm phu iniên, Loại thứ: ba, hiểu rõ cái lễ cuộc sống là",
+      "không, chứng riêng được đạo chàn chính mà lu hành, thì đó là tiêu giáo thiền",
+      "Loại thứ tư, hiều rõ người xa: pháp đều, không mà tu hành, đó là đại giáo",
+      "thiên, Nay những người hậu học nên lấy đại giáo, thiên làm chính, Đó là tập",
+      "ngôi thiên đáp tải moi suy nghi, chộ đề này sinh những kiến giải vây",
+      "ĐỒ VĂN HÝ BĂNG THANH"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

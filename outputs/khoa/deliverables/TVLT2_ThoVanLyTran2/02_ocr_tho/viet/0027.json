@@ -1,0 +1,2132 @@
+{
+  "page_id": "0027",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 27,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0027_viet_000",
+      "bbox": [
+        [
+          272,
+          81
+        ],
+        [
+          1407,
+          83
+        ],
+        [
+          1407,
+          125
+        ],
+        [
+          272,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          236
+        ],
+        [
+          1407,
+          238
+        ],
+        [
+          1407,
+          280
+        ],
+        [
+          272,
+          277
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        81,
+        1407,
+        125
+      ],
+      "text": "Bấy giờ thúc phụ Trần công (?) là em họ tiên quân, người được giri gim",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0027_viet_001",
+      "bbox": [
+        [
+          178,
+          122
+        ],
+        [
+          1407,
+          125
+        ],
+        [
+          1407,
+          166
+        ],
+        [
+          178,
+          164
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          277
+        ],
+        [
+          1407,
+          280
+        ],
+        [
+          1407,
+          321
+        ],
+        [
+          178,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        122,
+        1407,
+        166
+      ],
+      "text": "đứa con coi khi tiên quân hỏ quần thần, trầm, đã phong làm Thái sư, tham dự",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0027_viet_002",
+      "bbox": [
+        [
+          177,
+          162
+        ],
+        [
+          1409,
+          164
+        ],
+        [
+          1409,
+          208
+        ],
+        [
+          177,
+          206
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          317
+        ],
+        [
+          1409,
+          319
+        ],
+        [
+          1409,
+          363
+        ],
+        [
+          177,
+          361
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        162,
+        1409,
+        208
+      ],
+      "text": "quốc, chính, nghe tin trắm bộ trồn liên, sai người, tim kiếm khấp nơi, rồi ông",
+      "confidence": 0.8672
+    },
+    {
+      "line_id": "0027_viet_003",
+      "bbox": [
+        [
+          177,
+          204
+        ],
+        [
+          1282,
+          203
+        ],
+        [
+          1282,
+          243
+        ],
+        [
+          177,
+          244
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          359
+        ],
+        [
+          1282,
+          358
+        ],
+        [
+          1282,
+          398
+        ],
+        [
+          177,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        203,
+        1282,
+        244
+      ],
+      "text": "cùng các bậc quốc lão tim đến núi này  Gặp trầm, ông đau: đớu nói",
+      "confidence": 0.8599
+    },
+    {
+      "line_id": "0027_viet_004",
+      "bbox": [
+        [
+          270,
+          248
+        ],
+        [
+          1406,
+          250
+        ],
+        [
+          1406,
+          294
+        ],
+        [
+          270,
+          292
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          403
+        ],
+        [
+          1406,
+          405
+        ],
+        [
+          1406,
+          449
+        ],
+        [
+          270,
+          447
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        248,
+        1406,
+        294
+      ],
+      "text": "Thần nhận sự ủy thác của tiền quân: tồn phúng bề hạ làm chúa tề",
+      "confidence": 0.8753
+    },
+    {
+      "line_id": "0027_viet_005",
+      "bbox": [
+        [
+          178,
+          289
+        ],
+        [
+          1401,
+          293
+        ],
+        [
+          1401,
+          333
+        ],
+        [
+          178,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          444
+        ],
+        [
+          1401,
+          448
+        ],
+        [
+          1401,
+          488
+        ],
+        [
+          178,
+          484
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        289,
+        1401,
+        333
+      ],
+      "text": "dân thần, Lòng dân kinh yêu trông đợi hệ hạ chẳng khác, nào con nhó quyền",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0027_viet_006",
+      "bbox": [
+        [
+          176,
+          328
+        ],
+        [
+          1406,
+          331
+        ],
+        [
+          1406,
+          375
+        ],
+        [
+          176,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          483
+        ],
+        [
+          1406,
+          486
+        ],
+        [
+          1406,
+          530
+        ],
+        [
+          176,
+          527
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        328,
+        1406,
+        375
+      ],
+      "text": "luyến mẹ cha, Huống chi các có lão trong triều ngày nay chẳng một ai không",
+      "confidence": 0.8977
+    },
+    {
+      "line_id": "0027_viet_007",
+      "bbox": [
+        [
+          177,
+          368
+        ],
+        [
+          1406,
+          372
+        ],
+        [
+          1406,
+          413
+        ],
+        [
+          177,
+          409
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          523
+        ],
+        [
+          1406,
+          527
+        ],
+        [
+          1406,
+          568
+        ],
+        [
+          177,
+          564
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        368,
+        1406,
+        413
+      ],
+      "text": "là bề tôi thâu thuộc, chúng dân sĩ thức chẳng người nào không vui xẻ phực tông.",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0027_viet_008",
+      "bbox": [
+        [
+          178,
+          409
+        ],
+        [
+          1405,
+          410
+        ],
+        [
+          1405,
+          450
+        ],
+        [
+          178,
+          449
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          564
+        ],
+        [
+          1405,
+          565
+        ],
+        [
+          1405,
+          605
+        ],
+        [
+          178,
+          604
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        409,
+        1405,
+        450
+      ],
+      "text": "Cho đến đứa trẻ lên bảy (?) cũng biết bệ, hạ là bắc cha mẹ, dân. và Thái Tổ bỏ",
+      "confidence": 0.8808
+    },
+    {
+      "line_id": "0027_viet_009",
+      "bbox": [
+        [
+          176,
+          449
+        ],
+        [
+          1404,
+          451
+        ],
+        [
+          1404,
+          490
+        ],
+        [
+          176,
+          488
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          604
+        ],
+        [
+          1404,
+          606
+        ],
+        [
+          1404,
+          645
+        ],
+        [
+          176,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        449,
+        1404,
+        490
+      ],
+      "text": "thàn, mà đi, nắm đất, trên mô chưa khô, lời trăng trói bên tai còn đó, Thế: mà",
+      "confidence": 0.8998
+    },
+    {
+      "line_id": "0027_viet_010",
+      "bbox": [
+        [
+          177,
+          489
+        ],
+        [
+          1406,
+          491
+        ],
+        [
+          1406,
+          528
+        ],
+        [
+          177,
+          526
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          644
+        ],
+        [
+          1406,
+          646
+        ],
+        [
+          1406,
+          683
+        ],
+        [
+          177,
+          681
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        489,
+        1406,
+        528
+      ],
+      "text": "bệ hạ lại lánh gót ấn cư nơi núi rừng đề theo đuổi cai chí riêng mình. Nhữ",
+      "confidence": 0.8983
+    },
+    {
+      "line_id": "0027_viet_011",
+      "bbox": [
+        [
+          177,
+          527
+        ],
+        [
+          1405,
+          528
+        ],
+        [
+          1405,
+          568
+        ],
+        [
+          177,
+          567
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          682
+        ],
+        [
+          1405,
+          683
+        ],
+        [
+          1405,
+          723
+        ],
+        [
+          177,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        527,
+        1405,
+        568
+      ],
+      "text": "thần nghĩ, bệ hạ tính kế tự tu đã vậy nhưng cốn quốc gin xã tắc thì sao ? Nếu",
+      "confidence": 0.9057
+    },
+    {
+      "line_id": "0027_viet_012",
+      "bbox": [
+        [
+          179,
+          565
+        ],
+        [
+          1405,
+          570
+        ],
+        [
+          1405,
+          608
+        ],
+        [
+          179,
+          603
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          720
+        ],
+        [
+          1405,
+          725
+        ],
+        [
+          1405,
+          763
+        ],
+        [
+          179,
+          758
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        565,
+        1405,
+        608
+      ],
+      "text": "chỉ đề lời nói suông lại cho đời sau, sao bằng đem thân mình làm gương trước",
+      "confidence": 0.9296
+    },
+    {
+      "line_id": "0027_viet_013",
+      "bbox": [
+        [
+          176,
+          603
+        ],
+        [
+          1406,
+          609
+        ],
+        [
+          1406,
+          650
+        ],
+        [
+          176,
+          643
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          758
+        ],
+        [
+          1406,
+          764
+        ],
+        [
+          1406,
+          805
+        ],
+        [
+          176,
+          798
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        603,
+        1406,
+        650
+      ],
+      "text": "-cho thiễn bịa, Nhược bằng bệ hạ không nghĩ lại thị chúng thần và người trong",
+      "confidence": 0.8804
+    },
+    {
+      "line_id": "0027_viet_014",
+      "bbox": [
+        [
+          178,
+          644
+        ],
+        [
+          1138,
+          648
+        ],
+        [
+          1138,
+          688
+        ],
+        [
+          178,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          799
+        ],
+        [
+          1138,
+          803
+        ],
+        [
+          1138,
+          843
+        ],
+        [
+          178,
+          840
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        644,
+        1138,
+        688
+      ],
+      "text": "nước xin cùng chết ngay hồm nay, quyết không trở, về nữa l",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0027_viet_015",
+      "bbox": [
+        [
+          274,
+          697
+        ],
+        [
+          1407,
+          701
+        ],
+        [
+          1407,
+          742
+        ],
+        [
+          274,
+          738
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          852
+        ],
+        [
+          1407,
+          856
+        ],
+        [
+          1407,
+          897
+        ],
+        [
+          274,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        697,
+        1407,
+        742
+      ],
+      "text": "Trảm thấy: Thái sư cùng các kỳ lão khăng khăng không chịn hỏ trăm.",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0027_viet_016",
+      "bbox": [
+        [
+          178,
+          737
+        ],
+        [
+          1242,
+          742
+        ],
+        [
+          1242,
+          782
+        ],
+        [
+          178,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          892
+        ],
+        [
+          1242,
+          897
+        ],
+        [
+          1242,
+          937
+        ],
+        [
+          178,
+          932
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        737,
+        1242,
+        782
+      ],
+      "text": "liền đem lời nói ấy bảy tô với Quốc sư: Quốc sứ cầm tay trầm nói",
+      "confidence": 0.8863
+    },
+    {
+      "line_id": "0027_viet_017",
+      "bbox": [
+        [
+          273,
+          788
+        ],
+        [
+          1408,
+          793
+        ],
+        [
+          1408,
+          833
+        ],
+        [
+          273,
+          828
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          943
+        ],
+        [
+          1408,
+          948
+        ],
+        [
+          1408,
+          988
+        ],
+        [
+          273,
+          983
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        788,
+        1408,
+        833
+      ],
+      "text": "Phám đã là bậc nhân quân tất phải lấy ý muốn của thiên ha lam ý",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0027_viet_018",
+      "bbox": [
+        [
+          179,
+          827
+        ],
+        [
+          1406,
+          833
+        ],
+        [
+          1406,
+          872
+        ],
+        [
+          179,
+          866
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          982
+        ],
+        [
+          1406,
+          988
+        ],
+        [
+          1406,
+          1027
+        ],
+        [
+          179,
+          1021
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        827,
+        1406,
+        872
+      ],
+      "text": "muốn của minh: lấy tấm lòng của, thiên hạ iàm tấm lòng của mình, Nay muôn",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0027_viet_019",
+      "bbox": [
+        [
+          177,
+          867
+        ],
+        [
+          1405,
+          872
+        ],
+        [
+          1405,
+          913
+        ],
+        [
+          177,
+          907
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1022
+        ],
+        [
+          1405,
+          1027
+        ],
+        [
+          1405,
+          1068
+        ],
+        [
+          177,
+          1062
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        867,
+        1405,
+        913
+      ],
+      "text": "dân đã muốn đón bệ hạ về thi bệ hạ không về sao được 1 Duy có việc nghiên",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0027_viet_020",
+      "bbox": [
+        [
+          177,
+          906
+        ],
+        [
+          1003,
+          911
+        ],
+        [
+          1003,
+          951
+        ],
+        [
+          177,
+          947
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1061
+        ],
+        [
+          1003,
+          1066
+        ],
+        [
+          1003,
+          1106
+        ],
+        [
+          177,
+          1102
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        906,
+        1003,
+        951
+      ],
+      "text": "cứu nội điền xin bệ hạ đừng chút xao lãng mà thôi",
+      "confidence": 0.9234
+    },
+    {
+      "line_id": "0027_viet_021",
+      "bbox": [
+        [
+          273,
+          959
+        ],
+        [
+          1407,
+          963
+        ],
+        [
+          1407,
+          1007
+        ],
+        [
+          273,
+          1003
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1114
+        ],
+        [
+          1407,
+          1118
+        ],
+        [
+          1407,
+          1162
+        ],
+        [
+          273,
+          1158
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        959,
+        1407,
+        1007
+      ],
+      "text": "Vì thế trắm cùng mọi người trở về kinh, miền cương lên ngôi: Trong",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0027_viet_022",
+      "bbox": [
+        [
+          179,
+          1002
+        ],
+        [
+          1408,
+          1007
+        ],
+        [
+          1408,
+          1044
+        ],
+        [
+          179,
+          1039
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1157
+        ],
+        [
+          1408,
+          1162
+        ],
+        [
+          1408,
+          1199
+        ],
+        [
+          179,
+          1194
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1002,
+        1408,
+        1044
+      ],
+      "text": "khoảng hơn chực năm, mỗi khi được rảnh việc trắm lại hội họp các vị tuổi cao",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0027_viet_023",
+      "bbox": [
+        [
+          178,
+          1039
+        ],
+        [
+          1409,
+          1046
+        ],
+        [
+          1409,
+          1086
+        ],
+        [
+          178,
+          1079
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1194
+        ],
+        [
+          1409,
+          1201
+        ],
+        [
+          1409,
+          1241
+        ],
+        [
+          178,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1039,
+        1409,
+        1086
+      ],
+      "text": "đức cả đề tham vấn đạo Thiên, Còn như các kinh diễn của đại giáo thì không",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0027_viet_024",
+      "bbox": [
+        [
+          177,
+          1079
+        ],
+        [
+          1409,
+          1083
+        ],
+        [
+          1409,
+          1123
+        ],
+        [
+          177,
+          1119
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1234
+        ],
+        [
+          1409,
+          1238
+        ],
+        [
+          1409,
+          1278
+        ],
+        [
+          177,
+          1274
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1079,
+        1409,
+        1123
+      ],
+      "text": "'kinh nào không nghiên cứu, Trầm thường đọc kinh Kim cương, đến câu c ứng",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0027_viet_025",
+      "bbox": [
+        [
+          177,
+          1116
+        ],
+        [
+          1409,
+          1120
+        ],
+        [
+          1409,
+          1165
+        ],
+        [
+          177,
+          1160
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1271
+        ],
+        [
+          1409,
+          1275
+        ],
+        [
+          1409,
+          1320
+        ],
+        [
+          177,
+          1315
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1116,
+        1409,
+        1165
+      ],
+      "text": "pô sử tru, nhi sinh kỳ tâm s(?) vừa, gấp sách lại, ngâm nga, bồng nhiên, tỉnh",
+      "confidence": 0.8625
+    },
+    {
+      "line_id": "0027_viet_026",
+      "bbox": [
+        [
+          178,
+          1157
+        ],
+        [
+          1408,
+          1162
+        ],
+        [
+          1408,
+          1202
+        ],
+        [
+          178,
+          1198
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1312
+        ],
+        [
+          1408,
+          1317
+        ],
+        [
+          1408,
+          1357
+        ],
+        [
+          178,
+          1353
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1157,
+        1408,
+        1202
+      ],
+      "text": "ngô, liên đem những điều giác ngô được làm bài ca, này, vất tên là Thiên lông",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0027_viet_027",
+      "bbox": [
+        [
+          177,
+          1196
+        ],
+        [
+          1409,
+          1200
+        ],
+        [
+          1409,
+          1241
+        ],
+        [
+          177,
+          1237
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1351
+        ],
+        [
+          1409,
+          1355
+        ],
+        [
+          1409,
+          1396
+        ],
+        [
+          177,
+          1392
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1196,
+        1409,
+        1241
+      ],
+      "text": "chỉ, nam, năm ấy quốc sư từ nui yên-tử, về kinh, trâm cho ở chùa Thắng",
+      "confidence": 0.838
+    },
+    {
+      "line_id": "0027_viet_028",
+      "bbox": [
+        [
+          176,
+          1237
+        ],
+        [
+          1407,
+          1241
+        ],
+        [
+          1407,
+          1278
+        ],
+        [
+          176,
+          1274
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1392
+        ],
+        [
+          1407,
+          1396
+        ],
+        [
+          1407,
+          1433
+        ],
+        [
+          176,
+          1429
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1237,
+        1407,
+        1278
+      ],
+      "text": "nghiêm đế trông coi việc, khắc hăn in kinh sách. Nhàn đó, trầm đưa bài ca cho",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0027_viet_029",
+      "bbox": [
+        [
+          178,
+          1275
+        ],
+        [
+          1292,
+          1280
+        ],
+        [
+          1292,
+          1320
+        ],
+        [
+          178,
+          1315
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1430
+        ],
+        [
+          1292,
+          1435
+        ],
+        [
+          1292,
+          1475
+        ],
+        [
+          178,
+          1470
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1275,
+        1292,
+        1320
+      ],
+      "text": "Quốc sử xém. Mới đọc qua một lần, sử đã mãy phen tán thường, nói",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0027_viet_030",
+      "bbox": [
+        [
+          267,
+          1322
+        ],
+        [
+          1409,
+          1328
+        ],
+        [
+          1409,
+          1372
+        ],
+        [
+          267,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1477
+        ],
+        [
+          1409,
+          1483
+        ],
+        [
+          1409,
+          1527
+        ],
+        [
+          267,
+          1521
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1322,
+        1409,
+        1372
+      ],
+      "text": "Tấm lòng của chư Phật ở cả trong bài ca này, sao không khác in thành",
+      "confidence": 0.879
+    },
+    {
+      "line_id": "0027_viet_031",
+      "bbox": [
+        [
+          180,
+          1363
+        ],
+        [
+          789,
+          1368
+        ],
+        [
+          789,
+          1406
+        ],
+        [
+          180,
+          1400
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1518
+        ],
+        [
+          789,
+          1523
+        ],
+        [
+          789,
+          1561
+        ],
+        [
+          180,
+          1555
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1363,
+        789,
+        1406
+      ],
+      "text": "kinh bảu đề chỉ dẫn cho kê hậu học ?",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0027_viet_032",
+      "bbox": [
+        [
+          270,
+          1415
+        ],
+        [
+          1409,
+          1421
+        ],
+        [
+          1409,
+          1465
+        ],
+        [
+          270,
+          1460
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1570
+        ],
+        [
+          1409,
+          1576
+        ],
+        [
+          1409,
+          1620
+        ],
+        [
+          270,
+          1615
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1415,
+        1409,
+        1465
+      ],
+      "text": "Trăm nghe lời sư, sai thợ viết chũ chân phương rồi truyền cho khác",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0027_viet_033",
+      "bbox": [
+        [
+          178,
+          1457
+        ],
+        [
+          1408,
+          1464
+        ],
+        [
+          1408,
+          1504
+        ],
+        [
+          178,
+          1497
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1612
+        ],
+        [
+          1408,
+          1619
+        ],
+        [
+          1408,
+          1659
+        ],
+        [
+          178,
+          1652
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1457,
+        1408,
+        1504
+      ],
+      "text": "bản, Chẳng riệng đề chỉ dân đương mề chọ dời sau mà con muốn mở mạng",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0027_viet_034",
+      "bbox": [
+        [
+          179,
+          1497
+        ],
+        [
+          1330,
+          1502
+        ],
+        [
+          1330,
+          1542
+        ],
+        [
+          179,
+          1537
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1652
+        ],
+        [
+          1330,
+          1657
+        ],
+        [
+          1330,
+          1697
+        ],
+        [
+          179,
+          1692
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1497,
+        1330,
+        1542
+      ],
+      "text": "công nghiệp của các thánh nhân thuở trước. Vì thế trầm làm bài tưa này.",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0027_viet_035",
+      "bbox": [
+        [
+          832,
+          1552
+        ],
+        [
+          1350,
+          1555
+        ],
+        [
+          1349,
+          1592
+        ],
+        [
+          832,
+          1589
+        ]
+      ],
+      "bbox_original": [
+        [
+          832,
+          1707
+        ],
+        [
+          1350,
+          1710
+        ],
+        [
+          1349,
+          1747
+        ],
+        [
+          832,
+          1744
+        ]
+      ],
+      "box_xyxy": [
+        832,
+        1552,
+        1350,
+        1592
+      ],
+      "text": "NGUYỄN ĐỨC VÂN BẰNG THANH",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0027_viet_036",
+      "bbox": [
+        [
+          182,
+          1629
+        ],
+        [
+          372,
+          1629
+        ],
+        [
+          372,
+          1670
+        ],
+        [
+          182,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1784
+        ],
+        [
+          372,
+          1784
+        ],
+        [
+          372,
+          1825
+        ],
+        [
+          182,
+          1825
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1629,
+        372,
+        1670
+      ],
+      "text": "KHẢO ĐÌNH:",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0027_viet_037",
+      "bbox": [
+        [
+          587,
+          1673
+        ],
+        [
+          1009,
+          1676
+        ],
+        [
+          1009,
+          1714
+        ],
+        [
+          587,
+          1712
+        ]
+      ],
+      "bbox_original": [
+        [
+          587,
+          1828
+        ],
+        [
+          1009,
+          1831
+        ],
+        [
+          1009,
+          1869
+        ],
+        [
+          587,
+          1867
+        ]
+      ],
+      "box_xyxy": [
+        587,
+        1673,
+        1009,
+        1714
+      ],
+      "text": "VĂN BẢN KHẢO ĐÍNH: KHL2",
+      "confidence": 0.8918
+    },
+    {
+      "line_id": "0027_viet_038",
+      "bbox": [
+        [
+          731,
+          1723
+        ],
+        [
+          1413,
+          1723
+        ],
+        [
+          1413,
+          1784
+        ],
+        [
+          731,
+          1784
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1878
+        ],
+        [
+          1413,
+          1878
+        ],
+        [
+          1413,
+          1939
+        ],
+        [
+          731,
+          1939
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1723,
+        1413,
+        1784
+      ],
+      "text": "cách để 12 đề nghĩa là chữ quy e là chứp trách",
+      "confidence": 0.8221
+    },
+    {
+      "line_id": "0027_viet_039",
+      "bbox": [
+        [
+          214,
+          1772
+        ],
+        [
+          569,
+          1775
+        ],
+        [
+          568,
+          1812
+        ],
+        [
+          214,
+          1809
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1927
+        ],
+        [
+          569,
+          1930
+        ],
+        [
+          568,
+          1967
+        ],
+        [
+          214,
+          1964
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1772,
+        569,
+        1812
+      ],
+      "text": "Ở đây sửa lại theo KHL,",
+      "confidence": 0.8789
+    },
+    {
+      "line_id": "0027_viet_040",
+      "bbox": [
+        [
+          179,
+          1812
+        ],
+        [
+          1410,
+          1813
+        ],
+        [
+          1410,
+          1854
+        ],
+        [
+          179,
+          1853
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1967
+        ],
+        [
+          1410,
+          1968
+        ],
+        [
+          1410,
+          2009
+        ],
+        [
+          179,
+          2008
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1812,
+        1410,
+        1854
+      ],
+      "text": "- 3. KHLy không có hai chữ mục bất Lê TP. những ghi chủ bên cạnh: thức hạ khúng hữu",
+      "confidence": 0.8537
+    },
+    {
+      "line_id": "0027_viet_041",
+      "bbox": [
+        [
+          216,
+          1851
+        ],
+        [
+          766,
+          1851
+        ],
+        [
+          766,
+          1891
+        ],
+        [
+          216,
+          1891
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2006
+        ],
+        [
+          766,
+          2006
+        ],
+        [
+          766,
+          2046
+        ],
+        [
+          216,
+          2046
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1851,
+        766,
+        1891
+      ],
+      "text": "mặc bái nhi tự lề 7 PP 5 - 2",
+      "confidence": 0.6982
+    },
+    {
+      "line_id": "0027_viet_042",
+      "bbox": [
+        [
+          968,
+          1856
+        ],
+        [
+          1407,
+          1856
+        ],
+        [
+          1407,
+          1890
+        ],
+        [
+          968,
+          1890
+        ]
+      ],
+      "bbox_original": [
+        [
+          968,
+          2011
+        ],
+        [
+          1407,
+          2011
+        ],
+        [
+          1407,
+          2045
+        ],
+        [
+          968,
+          2045
+        ]
+      ],
+      "box_xyxy": [
+        968,
+        1856,
+        1407,
+        1890
+      ],
+      "text": "nghĩa là: dưới chữ thứ ngờ còn",
+      "confidence": 0.935
+    },
+    {
+      "line_id": "0027_viet_043",
+      "bbox": [
+        [
+          216,
+          1888
+        ],
+        [
+          756,
+          1891
+        ],
+        [
+          756,
+          1926
+        ],
+        [
+          216,
+          1922
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2043
+        ],
+        [
+          756,
+          2046
+        ],
+        [
+          756,
+          2081
+        ],
+        [
+          216,
+          2077
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1888,
+        756,
+        1926
+      ],
+      "text": "kai chữ mục bũt. ở đây sửa theo KIIL)",
+      "confidence": 0.8589
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "Bấy giờ thúc phụ Trần công (?) là em họ tiên quân, người được giri gim",
+      "đứa con coi khi tiên quân hỏ quần thần, trầm, đã phong làm Thái sư, tham dự",
+      "quốc, chính, nghe tin trắm bộ trồn liên, sai người, tim kiếm khấp nơi, rồi ông",
+      "cùng các bậc quốc lão tim đến núi này  Gặp trầm, ông đau: đớu nói",
+      "Thần nhận sự ủy thác của tiền quân: tồn phúng bề hạ làm chúa tề",
+      "dân thần, Lòng dân kinh yêu trông đợi hệ hạ chẳng khác, nào con nhó quyền",
+      "luyến mẹ cha, Huống chi các có lão trong triều ngày nay chẳng một ai không",
+      "là bề tôi thâu thuộc, chúng dân sĩ thức chẳng người nào không vui xẻ phực tông.",
+      "Cho đến đứa trẻ lên bảy (?) cũng biết bệ, hạ là bắc cha mẹ, dân. và Thái Tổ bỏ",
+      "thàn, mà đi, nắm đất, trên mô chưa khô, lời trăng trói bên tai còn đó, Thế: mà",
+      "bệ hạ lại lánh gót ấn cư nơi núi rừng đề theo đuổi cai chí riêng mình. Nhữ",
+      "thần nghĩ, bệ hạ tính kế tự tu đã vậy nhưng cốn quốc gin xã tắc thì sao ? Nếu",
+      "chỉ đề lời nói suông lại cho đời sau, sao bằng đem thân mình làm gương trước",
+      "-cho thiễn bịa, Nhược bằng bệ hạ không nghĩ lại thị chúng thần và người trong",
+      "nước xin cùng chết ngay hồm nay, quyết không trở, về nữa l",
+      "Trảm thấy: Thái sư cùng các kỳ lão khăng khăng không chịn hỏ trăm.",
+      "liền đem lời nói ấy bảy tô với Quốc sư: Quốc sứ cầm tay trầm nói",
+      "Phám đã là bậc nhân quân tất phải lấy ý muốn của thiên ha lam ý",
+      "muốn của minh: lấy tấm lòng của, thiên hạ iàm tấm lòng của mình, Nay muôn",
+      "dân đã muốn đón bệ hạ về thi bệ hạ không về sao được 1 Duy có việc nghiên",
+      "cứu nội điền xin bệ hạ đừng chút xao lãng mà thôi",
+      "Vì thế trắm cùng mọi người trở về kinh, miền cương lên ngôi: Trong",
+      "khoảng hơn chực năm, mỗi khi được rảnh việc trắm lại hội họp các vị tuổi cao",
+      "đức cả đề tham vấn đạo Thiên, Còn như các kinh diễn của đại giáo thì không",
+      "'kinh nào không nghiên cứu, Trầm thường đọc kinh Kim cương, đến câu c ứng",
+      "pô sử tru, nhi sinh kỳ tâm s(?) vừa, gấp sách lại, ngâm nga, bồng nhiên, tỉnh",
+      "ngô, liên đem những điều giác ngô được làm bài ca, này, vất tên là Thiên lông",
+      "chỉ, nam, năm ấy quốc sư từ nui yên-tử, về kinh, trâm cho ở chùa Thắng",
+      "nghiêm đế trông coi việc, khắc hăn in kinh sách. Nhàn đó, trầm đưa bài ca cho",
+      "Quốc sử xém. Mới đọc qua một lần, sử đã mãy phen tán thường, nói",
+      "Tấm lòng của chư Phật ở cả trong bài ca này, sao không khác in thành",
+      "kinh bảu đề chỉ dẫn cho kê hậu học ?",
+      "Trăm nghe lời sư, sai thợ viết chũ chân phương rồi truyền cho khác",
+      "bản, Chẳng riệng đề chỉ dân đương mề chọ dời sau mà con muốn mở mạng",
+      "công nghiệp của các thánh nhân thuở trước. Vì thế trầm làm bài tưa này.",
+      "NGUYỄN ĐỨC VÂN BẰNG THANH"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

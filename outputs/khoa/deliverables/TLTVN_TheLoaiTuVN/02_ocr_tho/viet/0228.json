@@ -1,0 +1,555 @@
+{
+  "page_id": "0228",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 228,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1204,
+    "footnote_separator_y_original": 1319,
+    "effective_width": 1122,
+    "effective_height": 1204
+  },
+  "items": [
+    {
+      "line_id": "0228_viet_000",
+      "bbox": [
+        [
+          132,
+          553
+        ],
+        [
+          295,
+          553
+        ],
+        [
+          295,
+          591
+        ],
+        [
+          132,
+          591
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          668
+        ],
+        [
+          295,
+          668
+        ],
+        [
+          295,
+          706
+        ],
+        [
+          132,
+          706
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        553,
+        295,
+        591
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0228_viet_001",
+      "bbox": [
+        [
+          132,
+          598
+        ],
+        [
+          565,
+          600
+        ],
+        [
+          565,
+          641
+        ],
+        [
+          132,
+          639
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          713
+        ],
+        [
+          565,
+          715
+        ],
+        [
+          565,
+          756
+        ],
+        [
+          132,
+          754
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        598,
+        565,
+        641
+      ],
+      "text": "NHÀN TRUNG THUẬT SỰ",
+      "confidence": 0.9335
+    },
+    {
+      "line_id": "0228_viet_002",
+      "bbox": [
+        [
+          133,
+          648
+        ],
+        [
+          329,
+          648
+        ],
+        [
+          329,
+          692
+        ],
+        [
+          133,
+          692
+        ]
+      ],
+      "bbox_original": [
+        [
+          133,
+          763
+        ],
+        [
+          329,
+          763
+        ],
+        [
+          329,
+          807
+        ],
+        [
+          133,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        133,
+        648,
+        329,
+        692
+      ],
+      "text": "(Bồ tát man)",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0228_viet_003",
+      "bbox": [
+        [
+          136,
+          699
+        ],
+        [
+          613,
+          699
+        ],
+        [
+          613,
+          740
+        ],
+        [
+          136,
+          740
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          814
+        ],
+        [
+          613,
+          814
+        ],
+        [
+          613,
+          855
+        ],
+        [
+          136,
+          855
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        699,
+        613,
+        740
+      ],
+      "text": "Chiểu ngư viên quả hoà thê mẫu,",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0228_viet_004",
+      "bbox": [
+        [
+          137,
+          752
+        ],
+        [
+          634,
+          752
+        ],
+        [
+          634,
+          788
+        ],
+        [
+          137,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          867
+        ],
+        [
+          634,
+          867
+        ],
+        [
+          634,
+          903
+        ],
+        [
+          137,
+          903
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        752,
+        634,
+        788
+      ],
+      "text": "Thành gia chính tại kinh luân hậu",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0228_viet_005",
+      "bbox": [
+        [
+          135,
+          796
+        ],
+        [
+          482,
+          799
+        ],
+        [
+          482,
+          840
+        ],
+        [
+          134,
+          837
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          911
+        ],
+        [
+          482,
+          914
+        ],
+        [
+          482,
+          955
+        ],
+        [
+          134,
+          952
+        ]
+      ],
+      "box_xyxy": [
+        134,
+        796,
+        482,
+        840
+      ],
+      "text": "Bần cư thắng quý nhân,",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0228_viet_006",
+      "bbox": [
+        [
+          136,
+          848
+        ],
+        [
+          490,
+          848
+        ],
+        [
+          490,
+          888
+        ],
+        [
+          136,
+          888
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          963
+        ],
+        [
+          490,
+          963
+        ],
+        [
+          490,
+          1003
+        ],
+        [
+          136,
+          1003
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        848,
+        490,
+        888
+      ],
+      "text": "Cao ngâm đối bạch vân",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0228_viet_007",
+      "bbox": [
+        [
+          138,
+          949
+        ],
+        [
+          521,
+          949
+        ],
+        [
+          521,
+          986
+        ],
+        [
+          138,
+          986
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          1064
+        ],
+        [
+          521,
+          1064
+        ],
+        [
+          521,
+          1101
+        ],
+        [
+          138,
+          1101
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        949,
+        521,
+        986
+      ],
+      "text": "Thanh thanh tam kính cúc,",
+      "confidence": 0.9093
+    },
+    {
+      "line_id": "0228_viet_008",
+      "bbox": [
+        [
+          136,
+          992
+        ],
+        [
+          509,
+          995
+        ],
+        [
+          509,
+          1039
+        ],
+        [
+          135,
+          1036
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          1107
+        ],
+        [
+          509,
+          1110
+        ],
+        [
+          509,
+          1154
+        ],
+        [
+          135,
+          1151
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        992,
+        509,
+        1039
+      ],
+      "text": "Biền biền ngũ kinh phúc",
+      "confidence": 0.8788
+    },
+    {
+      "line_id": "0228_viet_009",
+      "bbox": [
+        [
+          135,
+          1047
+        ],
+        [
+          393,
+          1047
+        ],
+        [
+          393,
+          1087
+        ],
+        [
+          135,
+          1087
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          1162
+        ],
+        [
+          393,
+          1162
+        ],
+        [
+          393,
+          1202
+        ],
+        [
+          135,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        1047,
+        393,
+        1087
+      ],
+      "text": "Khu y xu lý đình,",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0228_viet_010",
+      "bbox": [
+        [
+          136,
+          1097
+        ],
+        [
+          429,
+          1095
+        ],
+        [
+          429,
+          1133
+        ],
+        [
+          136,
+          1135
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          1212
+        ],
+        [
+          429,
+          1210
+        ],
+        [
+          429,
+          1248
+        ],
+        [
+          136,
+          1250
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        1095,
+        429,
+        1135
+      ],
+      "text": "Bát cửu tử tiểu sinh",
+      "confidence": 0.912
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "NHÀN TRUNG THUẬT SỰ",
+      "(Bồ tát man)",
+      "Chiểu ngư viên quả hoà thê mẫu,",
+      "Thành gia chính tại kinh luân hậu",
+      "Bần cư thắng quý nhân,",
+      "Cao ngâm đối bạch vân",
+      "Thanh thanh tam kính cúc,",
+      "Biền biền ngũ kinh phúc",
+      "Khu y xu lý đình,",
+      "Bát cửu tử tiểu sinh"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

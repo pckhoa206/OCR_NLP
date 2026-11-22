@@ -1,0 +1,626 @@
+{
+  "page_id": "0094",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 94,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0094_viet_000",
+      "bbox": [
+        [
+          189,
+          69
+        ],
+        [
+          235,
+          69
+        ],
+        [
+          235,
+          108
+        ],
+        [
+          189,
+          108
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          190
+        ],
+        [
+          235,
+          190
+        ],
+        [
+          235,
+          229
+        ],
+        [
+          189,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        69,
+        235,
+        108
+      ],
+      "text": "88",
+      "confidence": 0.9492
+    },
+    {
+      "line_id": "0094_viet_001",
+      "bbox": [
+        [
+          667,
+          69
+        ],
+        [
+          991,
+          69
+        ],
+        [
+          991,
+          103
+        ],
+        [
+          667,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          190
+        ],
+        [
+          991,
+          190
+        ],
+        [
+          991,
+          224
+        ],
+        [
+          667,
+          224
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        69,
+        991,
+        103
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0094_viet_002",
+      "bbox": [
+        [
+          261,
+          230
+        ],
+        [
+          819,
+          230
+        ],
+        [
+          819,
+          267
+        ],
+        [
+          261,
+          267
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          351
+        ],
+        [
+          819,
+          351
+        ],
+        [
+          819,
+          388
+        ],
+        [
+          261,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        230,
+        819,
+        267
+      ],
+      "text": "cận tái chi nhân, tử giả thập cửu.",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0094_viet_003",
+      "bbox": [
+        [
+          250,
+          280
+        ],
+        [
+          944,
+          278
+        ],
+        [
+          944,
+          318
+        ],
+        [
+          250,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          401
+        ],
+        [
+          944,
+          399
+        ],
+        [
+          944,
+          439
+        ],
+        [
+          250,
+          441
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        278,
+        944,
+        320
+      ],
+      "text": "những người gần ải chết đền chín phân mười.",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0094_viet_004",
+      "bbox": [
+        [
+          259,
+          412
+        ],
+        [
+          939,
+          413
+        ],
+        [
+          939,
+          453
+        ],
+        [
+          259,
+          452
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          533
+        ],
+        [
+          939,
+          534
+        ],
+        [
+          939,
+          574
+        ],
+        [
+          259,
+          573
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        412,
+        939,
+        453
+      ],
+      "text": "Thử độc dĩ bà chi cõ, phụ tử tương bảo.",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0094_viet_005",
+      "bbox": [
+        [
+          278,
+          465
+        ],
+        [
+          575,
+          465
+        ],
+        [
+          575,
+          503
+        ],
+        [
+          278,
+          503
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          586
+        ],
+        [
+          575,
+          586
+        ],
+        [
+          575,
+          624
+        ],
+        [
+          278,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        465,
+        575,
+        503
+      ],
+      "text": "Chỉ vì cớ què chân,",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0094_viet_006",
+      "bbox": [
+        [
+          276,
+          509
+        ],
+        [
+          762,
+          507
+        ],
+        [
+          763,
+          547
+        ],
+        [
+          276,
+          549
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          630
+        ],
+        [
+          762,
+          628
+        ],
+        [
+          763,
+          668
+        ],
+        [
+          276,
+          670
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        507,
+        763,
+        549
+      ],
+      "text": "mà cha con cùng bảo toàn được.",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0094_viet_007",
+      "bbox": [
+        [
+          294,
+          645
+        ],
+        [
+          889,
+          645
+        ],
+        [
+          889,
+          682
+        ],
+        [
+          294,
+          682
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          766
+        ],
+        [
+          889,
+          766
+        ],
+        [
+          889,
+          803
+        ],
+        [
+          294,
+          803
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        645,
+        889,
+        682
+      ],
+      "text": "Cõ phúc chi vi họa, họa chi vi phúc,",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0094_viet_008",
+      "bbox": [
+        [
+          278,
+          696
+        ],
+        [
+          737,
+          696
+        ],
+        [
+          737,
+          733
+        ],
+        [
+          278,
+          733
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          817
+        ],
+        [
+          737,
+          817
+        ],
+        [
+          737,
+          854
+        ],
+        [
+          278,
+          854
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        696,
+        737,
+        733
+      ],
+      "text": "Bởi vậy may là rủi, rủi là may,",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0094_viet_009",
+      "bbox": [
+        [
+          262,
+          830
+        ],
+        [
+          904,
+          827
+        ],
+        [
+          904,
+          864
+        ],
+        [
+          262,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          951
+        ],
+        [
+          904,
+          948
+        ],
+        [
+          904,
+          985
+        ],
+        [
+          262,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        827,
+        904,
+        867
+      ],
+      "text": "hóa bãt khả cực, thám bãt khả trắc dã.",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0094_viet_010",
+      "bbox": [
+        [
+          275,
+          881
+        ],
+        [
+          765,
+          879
+        ],
+        [
+          766,
+          916
+        ],
+        [
+          275,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          1002
+        ],
+        [
+          765,
+          1000
+        ],
+        [
+          766,
+          1037
+        ],
+        [
+          275,
+          1039
+        ]
+      ],
+      "box_xyxy": [
+        275,
+        879,
+        766,
+        918
+      ],
+      "text": "sự biền hóa không thể hiểu thầu,",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0094_viet_011",
+      "bbox": [
+        [
+          274,
+          924
+        ],
+        [
+          834,
+          923
+        ],
+        [
+          834,
+          961
+        ],
+        [
+          274,
+          962
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1045
+        ],
+        [
+          834,
+          1044
+        ],
+        [
+          834,
+          1082
+        ],
+        [
+          274,
+          1083
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        923,
+        834,
+        962
+      ],
+      "text": "lẽ sâu-xa không thể lường tính được",
+      "confidence": 0.9203
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "cận tái chi nhân, tử giả thập cửu.",
+      "Thử độc dĩ bà chi cõ, phụ tử tương bảo.",
+      "Cõ phúc chi vi họa, họa chi vi phúc,",
+      "hóa bãt khả cực, thám bãt khả trắc dã."
+    ],
+    "dich_nghia_lines": [
+      "những người gần ải chết đền chín phân mười.",
+      "Chỉ vì cớ què chân, mà cha con cùng bảo toàn được.",
+      "Bởi vậy may là rủi, rủi là may,",
+      "sự biền hóa không thể hiểu thầu, lẽ sâu-xa không thể lường tính được"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "近塞之人死者十九",
+        "phien_am": "cận tái chi nhân, tử giả thập cửu.",
+        "dich_nghia_gloss": "những người gần ải chết đền chín phân mười."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "此獨以跛之故父子相保",
+        "phien_am": "Thử độc dĩ bà chi cõ, phụ tử tương bảo.",
+        "dich_nghia_gloss": "Chỉ vì cớ què chân, mà cha con cùng bảo toàn được."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "故福之為禍禍之爲福",
+        "phien_am": "Cõ phúc chi vi họa, họa chi vi phúc,",
+        "dich_nghia_gloss": "Bởi vậy may là rủi, rủi là may,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "化不可極深不可測也",
+        "phien_am": "hóa bãt khả cực, thám bãt khả trắc dã.",
+        "dich_nghia_gloss": "sự biền hóa không thể hiểu thầu, lẽ sâu-xa không thể lường tính được"
+      }
+    ]
+  }
+}

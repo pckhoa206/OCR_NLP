@@ -1,0 +1,329 @@
+{
+  "total_pairs": 520,
+  "valid_pairs": 520,
+  "valid_checked_pairs": 520,
+  "error_pairs": 16,
+  "num_error_pairs": 16,
+  "clean_pairs": 504,
+  "error_rate": 0.030769,
+  "passes_acceptance_threshold": true,
+  "passes_threshold_30pct": true,
+  "passes_internal_target": true,
+  "passes_target_20pct": true,
+  "is_valid": true,
+  "error_counts_by_type": {
+    "MISSING": 0,
+    "OMISSION": 15,
+    "ADDITION": 0,
+    "FORMAT_ERROR": 0,
+    "LEFTOVER_MARKER": 0,
+    "NUMBER_MISMATCH": 3
+  },
+  "error_breakdown": {
+    "MISSING": 0,
+    "OMISSION": 15,
+    "ADDITION": 0,
+    "FORMAT_ERROR": 0,
+    "LEFTOVER_MARKER": 0,
+    "NUMBER_MISMATCH": 3
+  },
+  "missing_count": 0,
+  "omission_count": 15,
+  "addition_count": 0,
+  "format_error_count": 0,
+  "leftover_marker_count": 0,
+  "number_mismatch_count": 3,
+  "issues": [
+    {
+      "row_index": 4,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "九天歸路長。",
+      "viet": "Tình thảm thiết,"
+    },
+    {
+      "row_index": 4,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "九天歸路長。",
+      "viet": "Tình thảm thiết,"
+    },
+    {
+      "row_index": 12,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (9 Viet words / 13 Han chars).",
+      "han": "古稱孝子有曾參，三足之鳥冠止。",
+      "viet": "Xưa có Tăng Sâm được khen là con hiếu,"
+    },
+    {
+      "row_index": 15,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.68 < 0.7 (15 Viet words / 22 Han chars).",
+      "han": "星高，敬祝高堂之壽。遐算欲齊龜鶴數，新詞再唱鷓鴣天。",
+      "viet": "cao đường thêm thọ. Tuổi thọ so tày rùa hạc, hát bài Giá cô thiên"
+    },
+    {
+      "row_index": 27,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.70 < 0.7 (16 Viet words / 23 Han chars).",
+      "han": "茲當九十日，韶華好箇暄和之候，再一番快事，聊為勝賞之",
+      "viet": "từ) chơi. Nay đương tiết xuân tươi ấm áp, lại một phen vui vẻ, cần phải"
+    },
+    {
+      "row_index": 28,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.54 < 0.7 (13 Viet words / 24 Han chars).",
+      "han": "歡會。適逢嘉興來，堪玩可人惟有酒。喜兼四美二難，行樂須及",
+      "viet": "thưởng thức cảnh đẹp. Gặp khi hứng đến, đáng để du ngoạn, vốn"
+    },
+    {
+      "row_index": 51,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.62 < 0.7 (8 Viet words / 13 Han chars).",
+      "han": "古來樂事尚傳聞。今遭逢聖天子，",
+      "viet": "Những việc vui thuở xưa vẫn truyền nghe."
+    },
+    {
+      "row_index": 98,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "啞啞黃鸝佬。",
+      "viet": "Cùng bảo nhau:"
+    },
+    {
+      "row_index": 100,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
+      "han": "春主今歸兮如何好。",
+      "viet": "Cảnh sắc như thế này,"
+    },
+    {
+      "row_index": 124,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.57 < 0.7 (4 Viet words / 7 Han chars).",
+      "han": "起觀姑射落塵間，",
+      "viet": "Nằm làm sao yên"
+    },
+    {
+      "row_index": 159,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (9 Viet words / 13 Han chars).",
+      "han": "共遊追想始交時，不禁暮春相憶。",
+      "viet": "Chẳng ngăn được nỗi nhớ nhau lúc cuối xuân"
+    },
+    {
+      "row_index": 264,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
+      "han": "雲路戟枝寒。",
+      "viet": "Hoa xuân,"
+    },
+    {
+      "row_index": 306,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "跨了龍門萬丈瀾。步月甲枝攀，",
+      "viet": "Rảo bước dưới trăng, vin cành cao nhất,"
+    },
+    {
+      "row_index": 360,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.57 < 0.7 (4 Viet words / 7 Han chars).",
+      "han": "離別後卻為君攀。",
+      "viet": "Lúc buồn đứt ruột,"
+    },
+    {
+      "row_index": 363,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
+      "han": "不睡五更闌。",
+      "viet": "Thời gian,"
+    },
+    {
+      "row_index": 363,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
+      "han": "不睡五更闌。",
+      "viet": "Thời gian,"
+    },
+    {
+      "row_index": 367,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "秋滿千山。",
+      "viet": "Đúng lúc muốn gửi áo chiến chinh,"
+    },
+    {
+      "row_index": 379,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "不奈朔風寒。料想黃雲征戰地，",
+      "viet": "Gió bắc lạnh chẳng biết phải làm sao."
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    {
+      "row_index": 4,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "九天歸路長。",
+      "viet": "Tình thảm thiết,"
+    },
+    {
+      "row_index": 4,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "九天歸路長。",
+      "viet": "Tình thảm thiết,"
+    },
+    {
+      "row_index": 12,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (9 Viet words / 13 Han chars).",
+      "han": "古稱孝子有曾參，三足之鳥冠止。",
+      "viet": "Xưa có Tăng Sâm được khen là con hiếu,"
+    },
+    {
+      "row_index": 15,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.68 < 0.7 (15 Viet words / 22 Han chars).",
+      "han": "星高，敬祝高堂之壽。遐算欲齊龜鶴數，新詞再唱鷓鴣天。",
+      "viet": "cao đường thêm thọ. Tuổi thọ so tày rùa hạc, hát bài Giá cô thiên"
+    },
+    {
+      "row_index": 27,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.70 < 0.7 (16 Viet words / 23 Han chars).",
+      "han": "茲當九十日，韶華好箇暄和之候，再一番快事，聊為勝賞之",
+      "viet": "từ) chơi. Nay đương tiết xuân tươi ấm áp, lại một phen vui vẻ, cần phải"
+    },
+    {
+      "row_index": 28,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.54 < 0.7 (13 Viet words / 24 Han chars).",
+      "han": "歡會。適逢嘉興來，堪玩可人惟有酒。喜兼四美二難，行樂須及",
+      "viet": "thưởng thức cảnh đẹp. Gặp khi hứng đến, đáng để du ngoạn, vốn"
+    },
+    {
+      "row_index": 51,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.62 < 0.7 (8 Viet words / 13 Han chars).",
+      "han": "古來樂事尚傳聞。今遭逢聖天子，",
+      "viet": "Những việc vui thuở xưa vẫn truyền nghe."
+    },
+    {
+      "row_index": 98,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "啞啞黃鸝佬。",
+      "viet": "Cùng bảo nhau:"
+    },
+    {
+      "row_index": 100,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
+      "han": "春主今歸兮如何好。",
+      "viet": "Cảnh sắc như thế này,"
+    },
+    {
+      "row_index": 124,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.57 < 0.7 (4 Viet words / 7 Han chars).",
+      "han": "起觀姑射落塵間，",
+      "viet": "Nằm làm sao yên"
+    },
+    {
+      "row_index": 159,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (9 Viet words / 13 Han chars).",
+      "han": "共遊追想始交時，不禁暮春相憶。",
+      "viet": "Chẳng ngăn được nỗi nhớ nhau lúc cuối xuân"
+    },
+    {
+      "row_index": 264,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
+      "han": "雲路戟枝寒。",
+      "viet": "Hoa xuân,"
+    },
+    {
+      "row_index": 306,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "跨了龍門萬丈瀾。步月甲枝攀，",
+      "viet": "Rảo bước dưới trăng, vin cành cao nhất,"
+    },
+    {
+      "row_index": 360,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.57 < 0.7 (4 Viet words / 7 Han chars).",
+      "han": "離別後卻為君攀。",
+      "viet": "Lúc buồn đứt ruột,"
+    },
+    {
+      "row_index": 363,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
+      "han": "不睡五更闌。",
+      "viet": "Thời gian,"
+    },
+    {
+      "row_index": 363,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
+      "han": "不睡五更闌。",
+      "viet": "Thời gian,"
+    },
+    {
+      "row_index": 367,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "秋滿千山。",
+      "viet": "Đúng lúc muốn gửi áo chiến chinh,"
+    },
+    {
+      "row_index": 379,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "不奈朔風寒。料想黃雲征戰地，",
+      "viet": "Gió bắc lạnh chẳng biết phải làm sao."
+    }
+  ]
+}

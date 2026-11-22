@@ -1,0 +1,1084 @@
+{
+  "page_id": "0037",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 37,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0037_viet_000",
+      "bbox": [
+        [
+          178,
+          57
+        ],
+        [
+          1403,
+          63
+        ],
+        [
+          1403,
+          107
+        ],
+        [
+          178,
+          101
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          212
+        ],
+        [
+          1403,
+          218
+        ],
+        [
+          1403,
+          262
+        ],
+        [
+          178,
+          256
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        57,
+        1403,
+        107
+      ],
+      "text": "tựa như ông tirng viết cho Thiền tông chỉ nam ca, Luc thi sám hói khoa nghi.",
+      "confidence": 0.8869
+    },
+    {
+      "line_id": "0037_viet_001",
+      "bbox": [
+        [
+          180,
+          98
+        ],
+        [
+          1201,
+          102
+        ],
+        [
+          1200,
+          146
+        ],
+        [
+          180,
+          142
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          253
+        ],
+        [
+          1201,
+          257
+        ],
+        [
+          1200,
+          301
+        ],
+        [
+          180,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        98,
+        1201,
+        146
+      ],
+      "text": "Tuy nhiên khi tập hợp Khóa hư lục đã xuất hiện hai quan điểm",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0037_viet_002",
+      "bbox": [
+        [
+          271,
+          142
+        ],
+        [
+          1409,
+          149
+        ],
+        [
+          1409,
+          192
+        ],
+        [
+          271,
+          186
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          297
+        ],
+        [
+          1409,
+          304
+        ],
+        [
+          1409,
+          347
+        ],
+        [
+          271,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        142,
+        1409,
+        192
+      ],
+      "text": "Loại văn bản thứ nhất, các soạn giả chỉ đựa vào những tác phầm",
+      "confidence": 0.8878
+    },
+    {
+      "line_id": "0037_viet_003",
+      "bbox": [
+        [
+          180,
+          181
+        ],
+        [
+          1411,
+          189
+        ],
+        [
+          1411,
+          232
+        ],
+        [
+          180,
+          224
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          336
+        ],
+        [
+          1411,
+          344
+        ],
+        [
+          1411,
+          387
+        ],
+        [
+          180,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        181,
+        1411,
+        232
+      ],
+      "text": "thuộc hai vấn đề: những bài giảng về các văn đề chung nhất và phần thực",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0037_viet_004",
+      "bbox": [
+        [
+          181,
+          221
+        ],
+        [
+          737,
+          225
+        ],
+        [
+          737,
+          265
+        ],
+        [
+          181,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          376
+        ],
+        [
+          737,
+          380
+        ],
+        [
+          737,
+          420
+        ],
+        [
+          181,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        221,
+        737,
+        265
+      ],
+      "text": "hành tu trì, tức khóa lễ của lục thì",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0037_viet_005",
+      "bbox": [
+        [
+          278,
+          266
+        ],
+        [
+          1408,
+          270
+        ],
+        [
+          1408,
+          313
+        ],
+        [
+          278,
+          309
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          421
+        ],
+        [
+          1408,
+          425
+        ],
+        [
+          1408,
+          468
+        ],
+        [
+          278,
+          464
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        266,
+        1408,
+        313
+      ],
+      "text": "Loại văn bản thứ hai, các soạn giả thu thập toàn bộ lác phầm của",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0037_viet_006",
+      "bbox": [
+        [
+          184,
+          304
+        ],
+        [
+          894,
+          311
+        ],
+        [
+          893,
+          353
+        ],
+        [
+          184,
+          345
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          459
+        ],
+        [
+          894,
+          466
+        ],
+        [
+          893,
+          508
+        ],
+        [
+          184,
+          500
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        304,
+        894,
+        353
+      ],
+      "text": "Trần Cảnh về đạo Thiều, kề cả phân ngữ lục",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0037_viet_007",
+      "bbox": [
+        [
+          272,
+          353
+        ],
+        [
+          1411,
+          357
+        ],
+        [
+          1411,
+          405
+        ],
+        [
+          272,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          508
+        ],
+        [
+          1411,
+          512
+        ],
+        [
+          1411,
+          560
+        ],
+        [
+          272,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        353,
+        1411,
+        405
+      ],
+      "text": "Môi loại văn bản đều có phần hợp lý. có phân chưa hợp lý. Hiện nay",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0037_viet_008",
+      "bbox": [
+        [
+          179,
+          395
+        ],
+        [
+          1411,
+          401
+        ],
+        [
+          1411,
+          444
+        ],
+        [
+          179,
+          439
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          550
+        ],
+        [
+          1411,
+          556
+        ],
+        [
+          1411,
+          599
+        ],
+        [
+          179,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        395,
+        1411,
+        444
+      ],
+      "text": "chúng tôi tạm thơi chấp nhàu cách sáp xép của loại bản thứ hai, chỉ loại bỏ",
+      "confidence": 0.9002
+    },
+    {
+      "line_id": "0037_viet_009",
+      "bbox": [
+        [
+          179,
+          437
+        ],
+        [
+          1409,
+          441
+        ],
+        [
+          1409,
+          482
+        ],
+        [
+          179,
+          478
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          592
+        ],
+        [
+          1409,
+          596
+        ],
+        [
+          1409,
+          637
+        ],
+        [
+          179,
+          633
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        437,
+        1409,
+        482
+      ],
+      "text": "tác phẩm nào biết rõ không phải của Trần Cảnh, như Khuyên chúng lệ. và",
+      "confidence": 0.8957
+    },
+    {
+      "line_id": "0037_viet_010",
+      "bbox": [
+        [
+          178,
+          475
+        ],
+        [
+          1409,
+          480
+        ],
+        [
+          1409,
+          521
+        ],
+        [
+          178,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          630
+        ],
+        [
+          1409,
+          635
+        ],
+        [
+          1409,
+          676
+        ],
+        [
+          178,
+          671
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        475,
+        1409,
+        521
+      ],
+      "text": "tách riêng những bai: thuộc một tác phẩm khác, như Thiên lóng chỉ nam tư.",
+      "confidence": 0.9109
+    },
+    {
+      "line_id": "0037_viet_011",
+      "bbox": [
+        [
+          182,
+          516
+        ],
+        [
+          682,
+          518
+        ],
+        [
+          682,
+          555
+        ],
+        [
+          182,
+          553
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          671
+        ],
+        [
+          682,
+          673
+        ],
+        [
+          682,
+          710
+        ],
+        [
+          182,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        516,
+        682,
+        555
+      ],
+      "text": "Kim cương tam muội kinh tự.",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0037_viet_012",
+      "bbox": [
+        [
+          272,
+          565
+        ],
+        [
+          1342,
+          570
+        ],
+        [
+          1341,
+          614
+        ],
+        [
+          272,
+          609
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          720
+        ],
+        [
+          1342,
+          725
+        ],
+        [
+          1341,
+          769
+        ],
+        [
+          272,
+          764
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        565,
+        1342,
+        614
+      ],
+      "text": "Đề bạn đọc tiện theo dõi, xin tạm chia Khoa hư lục thành ba phần",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0037_viet_013",
+      "bbox": [
+        [
+          270,
+          612
+        ],
+        [
+          1393,
+          618
+        ],
+        [
+          1393,
+          669
+        ],
+        [
+          270,
+          662
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          767
+        ],
+        [
+          1393,
+          773
+        ],
+        [
+          1393,
+          824
+        ],
+        [
+          270,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        612,
+        1393,
+        669
+      ],
+      "text": "Phần 1 gồm các bai giáng về nguyên lý chung, đật tên lỏ Quyền, thương",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0037_viet_014",
+      "bbox": [
+        [
+          184,
+          659
+        ],
+        [
+          359,
+          659
+        ],
+        [
+          359,
+          698
+        ],
+        [
+          184,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          814
+        ],
+        [
+          359,
+          814
+        ],
+        [
+          359,
+          853
+        ],
+        [
+          184,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        659,
+        359,
+        698
+      ],
+      "text": "Phồ thuyết",
+      "confidence": 0.8933
+    },
+    {
+      "line_id": "0037_viet_015",
+      "bbox": [
+        [
+          274,
+          705
+        ],
+        [
+          1414,
+          709
+        ],
+        [
+          1414,
+          753
+        ],
+        [
+          274,
+          749
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          860
+        ],
+        [
+          1414,
+          864
+        ],
+        [
+          1414,
+          908
+        ],
+        [
+          274,
+          904
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        705,
+        1414,
+        753
+      ],
+      "text": "Phần II gồm các lời bèn, giảng về phương pháp tu trì và các vấn đề cư",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0037_viet_016",
+      "bbox": [
+        [
+          180,
+          745
+        ],
+        [
+          944,
+          750
+        ],
+        [
+          944,
+          791
+        ],
+        [
+          180,
+          786
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          900
+        ],
+        [
+          944,
+          905
+        ],
+        [
+          944,
+          946
+        ],
+        [
+          180,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        745,
+        944,
+        791
+      ],
+      "text": "thè, đặt tên là Quyền trung, luận, văn, ngữ lục",
+      "confidence": 0.8666
+    },
+    {
+      "line_id": "0037_viet_017",
+      "bbox": [
+        [
+          272,
+          792
+        ],
+        [
+          1410,
+          797
+        ],
+        [
+          1410,
+          841
+        ],
+        [
+          272,
+          836
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          947
+        ],
+        [
+          1410,
+          952
+        ],
+        [
+          1410,
+          996
+        ],
+        [
+          272,
+          991
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        792,
+        1410,
+        841
+      ],
+      "text": "Phần III đặt tên là Quyền họ, là khoa lễ lục thì, tực cũng là tác phầm",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0037_viet_018",
+      "bbox": [
+        [
+          181,
+          833
+        ],
+        [
+          1104,
+          837
+        ],
+        [
+          1104,
+          881
+        ],
+        [
+          181,
+          877
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          988
+        ],
+        [
+          1104,
+          992
+        ],
+        [
+          1104,
+          1036
+        ],
+        [
+          181,
+          1032
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        833,
+        1104,
+        881
+      ],
+      "text": "Lục thị - súm hồi khoa nghi, bao gồm cả lời tưa của tác giả.",
+      "confidence": 0.8725
+    },
+    {
+      "line_id": "0037_viet_019",
+      "bbox": [
+        [
+          651,
+          980
+        ],
+        [
+          941,
+          983
+        ],
+        [
+          941,
+          1035
+        ],
+        [
+          651,
+          1032
+        ]
+      ],
+      "bbox_original": [
+        [
+          651,
+          1135
+        ],
+        [
+          941,
+          1138
+        ],
+        [
+          941,
+          1190
+        ],
+        [
+          651,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        651,
+        980,
+        941,
+        1035
+      ],
+      "text": "QUYỀN THƯỢNG",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0037_viet_020",
+      "bbox": [
+        [
+          686,
+          1039
+        ],
+        [
+          911,
+          1041
+        ],
+        [
+          911,
+          1087
+        ],
+        [
+          686,
+          1085
+        ]
+      ],
+      "bbox_original": [
+        [
+          686,
+          1194
+        ],
+        [
+          911,
+          1196
+        ],
+        [
+          911,
+          1242
+        ],
+        [
+          686,
+          1240
+        ]
+      ],
+      "box_xyxy": [
+        686,
+        1039,
+        911,
+        1087
+      ],
+      "text": "PHỒ THUYẾT",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0037_viet_021",
+      "bbox": [
+        [
+          777,
+          1206
+        ],
+        [
+          815,
+          1206
+        ],
+        [
+          815,
+          1254
+        ],
+        [
+          777,
+          1254
+        ]
+      ],
+      "bbox_original": [
+        [
+          777,
+          1361
+        ],
+        [
+          815,
+          1361
+        ],
+        [
+          815,
+          1409
+        ],
+        [
+          777,
+          1409
+        ]
+      ],
+      "box_xyxy": [
+        777,
+        1206,
+        815,
+        1254
+      ],
+      "text": "5",
+      "confidence": 0.9288
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "tựa như ông tirng viết cho Thiền tông chỉ nam ca, Luc thi sám hói khoa nghi.",
+      "Tuy nhiên khi tập hợp Khóa hư lục đã xuất hiện hai quan điểm",
+      "Loại văn bản thứ nhất, các soạn giả chỉ đựa vào những tác phầm",
+      "thuộc hai vấn đề: những bài giảng về các văn đề chung nhất và phần thực",
+      "hành tu trì, tức khóa lễ của lục thì",
+      "Loại văn bản thứ hai, các soạn giả thu thập toàn bộ lác phầm của",
+      "Trần Cảnh về đạo Thiều, kề cả phân ngữ lục",
+      "Môi loại văn bản đều có phần hợp lý. có phân chưa hợp lý. Hiện nay",
+      "chúng tôi tạm thơi chấp nhàu cách sáp xép của loại bản thứ hai, chỉ loại bỏ",
+      "tác phẩm nào biết rõ không phải của Trần Cảnh, như Khuyên chúng lệ. và",
+      "tách riêng những bai: thuộc một tác phẩm khác, như Thiên lóng chỉ nam tư.",
+      "Kim cương tam muội kinh tự.",
+      "Đề bạn đọc tiện theo dõi, xin tạm chia Khoa hư lục thành ba phần",
+      "Phần 1 gồm các bai giáng về nguyên lý chung, đật tên lỏ Quyền, thương",
+      "Phồ thuyết",
+      "Phần II gồm các lời bèn, giảng về phương pháp tu trì và các vấn đề cư",
+      "thè, đặt tên là Quyền trung, luận, văn, ngữ lục",
+      "Phần III đặt tên là Quyền họ, là khoa lễ lục thì, tực cũng là tác phầm",
+      "Lục thị - súm hồi khoa nghi, bao gồm cả lời tưa của tác giả.",
+      "QUYỀN THƯỢNG",
+      "PHỒ THUYẾT",
+      "5"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

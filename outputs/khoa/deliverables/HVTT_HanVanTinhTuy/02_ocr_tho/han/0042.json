@@ -1,0 +1,459 @@
+{
+  "page_id": "0042",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 42,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0042_han_000",
+      "bbox": [
+        [
+          199,
+          129
+        ],
+        [
+          808,
+          129
+        ],
+        [
+          808,
+          177
+        ],
+        [
+          199,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          250
+        ],
+        [
+          808,
+          250
+        ],
+        [
+          808,
+          298
+        ],
+        [
+          199,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        129,
+        808,
+        177
+      ],
+      "text": "齊宣王見顏斶曰觸前",
+      "confidence": 0.853
+    },
+    {
+      "line_id": "0042_han_001",
+      "bbox": [
+        [
+          201,
+          298
+        ],
+        [
+          527,
+          298
+        ],
+        [
+          527,
+          347
+        ],
+        [
+          201,
+          347
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          419
+        ],
+        [
+          527,
+          419
+        ],
+        [
+          527,
+          468
+        ],
+        [
+          201,
+          468
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        298,
+        527,
+        347
+      ],
+      "text": "斶亦曰王前",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0042_han_002",
+      "bbox": [
+        [
+          199,
+          468
+        ],
+        [
+          668,
+          468
+        ],
+        [
+          668,
+          515
+        ],
+        [
+          199,
+          515
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          589
+        ],
+        [
+          668,
+          589
+        ],
+        [
+          668,
+          636
+        ],
+        [
+          199,
+          636
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        468,
+        668,
+        515
+      ],
+      "text": "宣王不悅左右曰",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0042_han_003",
+      "bbox": [
+        [
+          200,
+          638
+        ],
+        [
+          742,
+          635
+        ],
+        [
+          743,
+          682
+        ],
+        [
+          200,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          759
+        ],
+        [
+          742,
+          756
+        ],
+        [
+          743,
+          803
+        ],
+        [
+          200,
+          806
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        635,
+        743,
+        685
+      ],
+      "text": "王人君也斶人臣也",
+      "confidence": 0.9419
+    },
+    {
+      "line_id": "0042_han_004",
+      "bbox": [
+        [
+          198,
+          802
+        ],
+        [
+          461,
+          802
+        ],
+        [
+          461,
+          851
+        ],
+        [
+          198,
+          851
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          923
+        ],
+        [
+          461,
+          923
+        ],
+        [
+          461,
+          972
+        ],
+        [
+          198,
+          972
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        802,
+        461,
+        851
+      ],
+      "text": "王曰斶前",
+      "confidence": 0.8489
+    },
+    {
+      "line_id": "0042_han_005",
+      "bbox": [
+        [
+          201,
+          968
+        ],
+        [
+          675,
+          968
+        ],
+        [
+          675,
+          1022
+        ],
+        [
+          201,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1089
+        ],
+        [
+          675,
+          1089
+        ],
+        [
+          675,
+          1143
+        ],
+        [
+          201,
+          1143
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        968,
+        675,
+        1022
+      ],
+      "text": "觸亦曰王前可乎",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0042_han_006",
+      "bbox": [
+        [
+          201,
+          1138
+        ],
+        [
+          811,
+          1142
+        ],
+        [
+          810,
+          1193
+        ],
+        [
+          201,
+          1189
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1259
+        ],
+        [
+          811,
+          1263
+        ],
+        [
+          810,
+          1314
+        ],
+        [
+          201,
+          1310
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1138,
+        811,
+        1193
+      ],
+      "text": "簡對曰夫觸前為慕勢",
+      "confidence": 0.8356
+    },
+    {
+      "line_id": "0042_han_007",
+      "bbox": [
+        [
+          201,
+          1310
+        ],
+        [
+          531,
+          1312
+        ],
+        [
+          531,
+          1361
+        ],
+        [
+          201,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1431
+        ],
+        [
+          531,
+          1433
+        ],
+        [
+          531,
+          1482
+        ],
+        [
+          201,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1310,
+        531,
+        1361
+      ],
+      "text": "王前為趨士",
+      "confidence": 0.9206
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "齊宣王見顏斶曰觸前",
+      "斶亦曰王前",
+      "宣王不悅左右曰",
+      "王人君也斶人臣也",
+      "王曰斶前",
+      "觸亦曰王前可乎",
+      "簡對曰夫觸前為慕勢",
+      "王前為趨士"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "齊宣王見顏斶曰觸前",
+        "phien_am": "Tề Tuyên-vương kiến Nhan-Xúc, viết: Xúc tiền",
+        "dich_nghia_gloss": "Tề Tuyên-vương thầy Nhan-Xúc, bảo: Xúc lại đây"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "斶亦曰王前",
+        "phien_am": "Xúc diệc viễt: Vương tiền",
+        "dich_nghia_gloss": "Xúc cũng nói: vua lại đây"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "宣王不悅左右曰",
+        "phien_am": "Tuyên-vương bãt duyệt. Tả hữu viêt:",
+        "dich_nghia_gloss": "Tuyên-vương không hài lòng, các quan nói"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王人君也斶人臣也",
+        "phien_am": "Vương, nhân quân dã, Xúc, nhân thần dã",
+        "dich_nghia_gloss": "Vua là đứng trên mọi người, xúc là bày tôi"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "王曰斶前",
+        "phien_am": "Vương viết: Xúc tiền",
+        "dich_nghia_gloss": "nay vua nói: Xúc lại đây"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "觸亦曰王前可乎",
+        "phien_am": "Xúc diệc viết: Vương tiền, khả hồ ?",
+        "dich_nghia_gloss": "Xúc cũng nói: vua lại đây l như thế được chăng"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "簡對曰夫觸前為慕勢",
+        "phien_am": "Xúc đồi viết: Phù Xúc tiền vi mộ thẽ",
+        "dich_nghia_gloss": "Xúc trả lời: nêu Xúc lại thì là mộ quyền thê"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "王前為趨士",
+        "phien_am": "Vương tiền vi xu sĩ",
+        "dich_nghia_gloss": "vua lại là đón kẻ sĩ."
+      }
+    ]
+  }
+}

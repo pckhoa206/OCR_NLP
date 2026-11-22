@@ -1,0 +1,119 @@
+{
+  "page_id": "0029",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 29,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0029_han_000",
+      "bbox": [
+        [
+          393,
+          511
+        ],
+        [
+          787,
+          509
+        ],
+        [
+          788,
+          564
+        ],
+        [
+          394,
+          567
+        ]
+      ],
+      "bbox_original": [
+        [
+          393,
+          632
+        ],
+        [
+          787,
+          630
+        ],
+        [
+          788,
+          685
+        ],
+        [
+          394,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        393,
+        509,
+        788,
+        567
+      ],
+      "text": "叔向賀宣子貧",
+      "confidence": 0.9869
+    },
+    {
+      "line_id": "0029_han_001",
+      "bbox": [
+        [
+          715,
+          864
+        ],
+        [
+          898,
+          860
+        ],
+        [
+          899,
+          910
+        ],
+        [
+          716,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          715,
+          985
+        ],
+        [
+          898,
+          981
+        ],
+        [
+          899,
+          1031
+        ],
+        [
+          716,
+          1034
+        ]
+      ],
+      "box_xyxy": [
+        715,
+        860,
+        899,
+        913
+      ],
+      "text": "左丘明",
+      "confidence": 0.9999
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

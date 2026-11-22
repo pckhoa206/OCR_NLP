@@ -1,0 +1,307 @@
+{
+  "page_id": "0096",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 96,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0096_han_000",
+      "bbox": [
+        [
+          244,
+          1467
+        ],
+        [
+          763,
+          1467
+        ],
+        [
+          763,
+          1508
+        ],
+        [
+          244,
+          1508
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1622
+        ],
+        [
+          763,
+          1622
+        ],
+        [
+          763,
+          1663
+        ],
+        [
+          244,
+          1663
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1467,
+        763,
+        1508
+      ],
+      "text": "cho lirng thon nhö. Sách Hàn Phi Tir 卓常非 子thièn Nhi binh 二 木丙 có chép: Si",
+      "confidence": 0.8964
+    },
+    {
+      "line_id": "0096_han_001",
+      "bbox": [
+        [
+          243,
+          1500
+        ],
+        [
+          763,
+          1500
+        ],
+        [
+          763,
+          1546
+        ],
+        [
+          243,
+          1546
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1655
+        ],
+        [
+          763,
+          1655
+        ],
+        [
+          763,
+          1701
+        ],
+        [
+          243,
+          1701
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1500,
+        763,
+        1546
+      ],
+      "text": "Linh Vrong 楚 灵 王 thich lung thon nèn nuoc S nhièu nguòi chět dói. Vè mán:",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0096_han_002",
+      "bbox": [
+        [
+          181,
+          1617
+        ],
+        [
+          763,
+          1617
+        ],
+        [
+          763,
+          1662
+        ],
+        [
+          181,
+          1662
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1772
+        ],
+        [
+          763,
+          1772
+        ],
+        [
+          763,
+          1817
+        ],
+        [
+          181,
+          1817
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1617,
+        763,
+        1662
+      ],
+      "text": "(2) Mat hoa da phán : dich y chù Yén săc, Triu nhan. Triéu Phi Yén 肖  燕, tù nhó",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0096_han_003",
+      "bbox": [
+        [
+          242,
+          1657
+        ],
+        [
+          1409,
+          1664
+        ],
+        [
+          1409,
+          1701
+        ],
+        [
+          241,
+          1695
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1812
+        ],
+        [
+          1409,
+          1819
+        ],
+        [
+          1409,
+          1856
+        ],
+        [
+          241,
+          1850
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1657,
+        1409,
+        1701
+      ],
+      "text": "dā giöi ca múa. Hán Thành Dé 莫   di vi hanh găp nàng, ra thich dem vè cuug.",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0096_han_004",
+      "bbox": [
+        [
+          177,
+          1806
+        ],
+        [
+          763,
+          1806
+        ],
+        [
+          763,
+          1856
+        ],
+        [
+          177,
+          1856
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1961
+        ],
+        [
+          763,
+          1961
+        ],
+        [
+          763,
+          2011
+        ],
+        [
+          177,
+          2011
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1806,
+        763,
+        1856
+      ],
+      "text": "(3) Tó dài: túc dài Có-tò trèn núi Có-tò 女古 蘇, noi dāy Ngò Phù Sai 吴 夫 羞 vi",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0096_han_005",
+      "bbox": [
+        [
+          237,
+          1848
+        ],
+        [
+          763,
+          1848
+        ],
+        [
+          763,
+          1893
+        ],
+        [
+          237,
+          1893
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          2003
+        ],
+        [
+          763,
+          2003
+        ],
+        [
+          763,
+          2048
+        ],
+        [
+          237,
+          2048
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1848,
+        763,
+        1893
+      ],
+      "text": "say dám Tày Thi 西 方邑 mà bi Vièt vrong Càu Tiěn 越 王 句  dit.",
+      "confidence": 0.8928
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,2278 @@
+{
+  "page_id": "0150",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 150,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0150_viet_000",
+      "bbox": [
+        [
+          165,
+          82
+        ],
+        [
+          1399,
+          98
+        ],
+        [
+          1399,
+          138
+        ],
+        [
+          165,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          237
+        ],
+        [
+          1399,
+          253
+        ],
+        [
+          1399,
+          293
+        ],
+        [
+          165,
+          277
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        82,
+        1399,
+        138
+      ],
+      "text": "(2): Thế Tôn: tức Thích Cả Màu Ni, xom Clat. 19, bài Phò khuyến phát bò-đề tâm. số 7, công",
+      "confidence": 0.8558
+    },
+    {
+      "line_id": "0150_viet_001",
+      "bbox": [
+        [
+          230,
+          120
+        ],
+        [
+          331,
+          120
+        ],
+        [
+          331,
+          157
+        ],
+        [
+          230,
+          157
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          275
+        ],
+        [
+          331,
+          275
+        ],
+        [
+          331,
+          312
+        ],
+        [
+          230,
+          312
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        120,
+        331,
+        157
+      ],
+      "text": "tác giải",
+      "confidence": 0.8781
+    },
+    {
+      "line_id": "0150_viet_002",
+      "bbox": [
+        [
+          166,
+          165
+        ],
+        [
+          1187,
+          177
+        ],
+        [
+          1186,
+          213
+        ],
+        [
+          166,
+          201
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          320
+        ],
+        [
+          1187,
+          332
+        ],
+        [
+          1186,
+          368
+        ],
+        [
+          166,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        165,
+        1187,
+        213
+      ],
+      "text": "(3) Đầu-suất: Xem Cht.2, bài Ngữ lục văn đúp môn hạ, số 20, cùng tác giả.",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0150_viet_003",
+      "bbox": [
+        [
+          167,
+          212
+        ],
+        [
+          1393,
+          225
+        ],
+        [
+          1393,
+          261
+        ],
+        [
+          167,
+          248
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          367
+        ],
+        [
+          1393,
+          380
+        ],
+        [
+          1393,
+          416
+        ],
+        [
+          167,
+          403
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        212,
+        1393,
+        261
+      ],
+      "text": "(4) Tịnh vương cung: Cùng vuá Tĩnh Phạn, thàn sinh Thải tử Tất-đạt-ưa, tức Phật Thích Ca.",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0150_viet_004",
+      "bbox": [
+        [
+          164,
+          258
+        ],
+        [
+          1394,
+          270
+        ],
+        [
+          1394,
+          307
+        ],
+        [
+          164,
+          295
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          413
+        ],
+        [
+          1394,
+          425
+        ],
+        [
+          1394,
+          462
+        ],
+        [
+          164,
+          450
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        258,
+        1394,
+        307
+      ],
+      "text": "(6). Dùy bước. khi, Phật Thích Ca ra đời, người liền bước bảy bước, một tay chỉ lên",
+      "confidence": 0.8943
+    },
+    {
+      "line_id": "0150_viet_005",
+      "bbox": [
+        [
+          731,
+          295
+        ],
+        [
+          1358,
+          295
+        ],
+        [
+          1358,
+          343
+        ],
+        [
+          731,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          450
+        ],
+        [
+          1358,
+          450
+        ],
+        [
+          1358,
+          498
+        ],
+        [
+          731,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        295,
+        1358,
+        343
+      ],
+      "text": "biện thượng địa ha, duy ngã độc tôn A Mê",
+      "confidence": 0.8202
+    },
+    {
+      "line_id": "0150_viet_006",
+      "bbox": [
+        [
+          731,
+          331
+        ],
+        [
+          1185,
+          331
+        ],
+        [
+          1185,
+          379
+        ],
+        [
+          731,
+          379
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          486
+        ],
+        [
+          1185,
+          486
+        ],
+        [
+          1185,
+          534
+        ],
+        [
+          731,
+          534
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        331,
+        1185,
+        379
+      ],
+      "text": "trên, đất dưới, riêng ta là cao cả",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0150_viet_007",
+      "bbox": [
+        [
+          166,
+          377
+        ],
+        [
+          1395,
+          391
+        ],
+        [
+          1395,
+          428
+        ],
+        [
+          166,
+          414
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          532
+        ],
+        [
+          1395,
+          546
+        ],
+        [
+          1395,
+          583
+        ],
+        [
+          166,
+          569
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        377,
+        1395,
+        428
+      ],
+      "text": "(6) Thế Tôn cầm hoa sen giơ lên... Ca Diếp là, học trò giỏi của Thế Tôn, được Thế Tôn",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0150_viet_008",
+      "bbox": [
+        [
+          228,
+          415
+        ],
+        [
+          1394,
+          430
+        ],
+        [
+          1394,
+          464
+        ],
+        [
+          227,
+          450
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          570
+        ],
+        [
+          1394,
+          585
+        ],
+        [
+          1394,
+          619
+        ],
+        [
+          227,
+          605
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        415,
+        1394,
+        464
+      ],
+      "text": "truyền vì bát, là, vị tồ thứ nhất trong 28 đòi tồ ở Thiền-trúc, Theo truyền thuyết, trọng",
+      "confidence": 0.9011
+    },
+    {
+      "line_id": "0150_viet_009",
+      "bbox": [
+        [
+          227,
+          453
+        ],
+        [
+          1394,
+          466
+        ],
+        [
+          1394,
+          500
+        ],
+        [
+          226,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          608
+        ],
+        [
+          1394,
+          621
+        ],
+        [
+          1394,
+          655
+        ],
+        [
+          226,
+          642
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        453,
+        1394,
+        500
+      ],
+      "text": "một buổi thuyết pháp. Thế Tòn càm bông, hou scn giơ lên, các học trò còn ngơ ngắc",
+      "confidence": 0.8818
+    },
+    {
+      "line_id": "0150_viet_010",
+      "bbox": [
+        [
+          229,
+          489
+        ],
+        [
+          973,
+          498
+        ],
+        [
+          973,
+          531
+        ],
+        [
+          228,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          644
+        ],
+        [
+          973,
+          653
+        ],
+        [
+          973,
+          686
+        ],
+        [
+          228,
+          677
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        489,
+        973,
+        531
+      ],
+      "text": "thì Ca Diếp mim cười. Thế Tôn biết là ộng đã, giác ngộ.",
+      "confidence": 0.8781
+    },
+    {
+      "line_id": "0150_viet_011",
+      "bbox": [
+        [
+          164,
+          535
+        ],
+        [
+          1396,
+          546
+        ],
+        [
+          1396,
+          583
+        ],
+        [
+          164,
+          572
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          690
+        ],
+        [
+          1396,
+          701
+        ],
+        [
+          1396,
+          738
+        ],
+        [
+          164,
+          727
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        535,
+        1396,
+        583
+      ],
+      "text": "(7) (8) Hữu ngôn, vô ngôn: thuật ngữ đạo Phật, Hữu, vỏ là - hải phạm trù quan trọng trong",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0150_viet_012",
+      "bbox": [
+        [
+          224,
+          569
+        ],
+        [
+          1394,
+          581
+        ],
+        [
+          1394,
+          615
+        ],
+        [
+          223,
+          602
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          724
+        ],
+        [
+          1394,
+          736
+        ],
+        [
+          1394,
+          770
+        ],
+        [
+          223,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        569,
+        1394,
+        615
+      ],
+      "text": "triết học Phật giáo, nói về nhận thức thế giới của con người. Hơn là khur khư ở chấp 5",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0150_viet_013",
+      "bbox": [
+        [
+          227,
+          601
+        ],
+        [
+          1394,
+          613
+        ],
+        [
+          1394,
+          648
+        ],
+        [
+          226,
+          635
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          756
+        ],
+        [
+          1394,
+          768
+        ],
+        [
+          1394,
+          803
+        ],
+        [
+          226,
+          790
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        601,
+        1394,
+        648
+      ],
+      "text": "lấy kiến giải có, cho cài gì cùng là có thực, tồn tại thực. trái lại nó là khư khư chấp",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0150_viet_014",
+      "bbox": [
+        [
+          227,
+          634
+        ],
+        [
+          1394,
+          647
+        ],
+        [
+          1394,
+          680
+        ],
+        [
+          226,
+          667
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          789
+        ],
+        [
+          1394,
+          802
+        ],
+        [
+          1394,
+          835
+        ],
+        [
+          226,
+          822
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        634,
+        1394,
+        680
+      ],
+      "text": "lấy kiến giải không, hoàn toàn phủ nhận thế giới, cả hai kiến giải đó đến là sai làm)",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0150_viet_015",
+      "bbox": [
+        [
+          227,
+          667
+        ],
+        [
+          1392,
+          679
+        ],
+        [
+          1392,
+          712
+        ],
+        [
+          226,
+          701
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          822
+        ],
+        [
+          1392,
+          834
+        ],
+        [
+          1392,
+          867
+        ],
+        [
+          226,
+          856
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        667,
+        1392,
+        712
+      ],
+      "text": "phải đạt được đến nhận thức phi hiru phi vô (chẳng phải có, chẳng phải không) mơi",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0150_viet_016",
+      "bbox": [
+        [
+          227,
+          701
+        ],
+        [
+          1391,
+          712
+        ],
+        [
+          1391,
+          745
+        ],
+        [
+          226,
+          734
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          856
+        ],
+        [
+          1391,
+          867
+        ],
+        [
+          1391,
+          900
+        ],
+        [
+          226,
+          889
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        701,
+        1391,
+        745
+      ],
+      "text": "là giác ngô, Hữu ngôn, vô ngôn, cũng như hữu củ, bố cứ có thể là những mệnh đế,",
+      "confidence": 0.8797
+    },
+    {
+      "line_id": "0150_viet_017",
+      "bbox": [
+        [
+          229,
+          735
+        ],
+        [
+          725,
+          738
+        ],
+        [
+          725,
+          769
+        ],
+        [
+          228,
+          766
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          890
+        ],
+        [
+          725,
+          893
+        ],
+        [
+          725,
+          924
+        ],
+        [
+          228,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        735,
+        725,
+        769
+      ],
+      "text": "thành ngữ đúc kết về hai vấn đề đó.",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0150_viet_018",
+      "bbox": [
+        [
+          228,
+          779
+        ],
+        [
+          1391,
+          790
+        ],
+        [
+          1391,
+          824
+        ],
+        [
+          227,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          934
+        ],
+        [
+          1391,
+          945
+        ],
+        [
+          1391,
+          979
+        ],
+        [
+          227,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        779,
+        1391,
+        824
+      ],
+      "text": "Văn Thủ Bồ-tại: cũng gọi là Văn-thù-su-Iv Mạn-thủ-thất-ly. phiên âm, tiếng Phạn",
+      "confidence": 0.8591
+    },
+    {
+      "line_id": "0150_viet_019",
+      "bbox": [
+        [
+          225,
+          814
+        ],
+        [
+          1391,
+          824
+        ],
+        [
+          1391,
+          855
+        ],
+        [
+          224,
+          845
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          969
+        ],
+        [
+          1391,
+          979
+        ],
+        [
+          1391,
+          1010
+        ],
+        [
+          224,
+          1000
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        814,
+        1391,
+        855
+      ],
+      "text": "Mânjuri, có: nghĩa là đức tốt lành, điều tốt lanh, là vị Bò-tát đứng đầu các Bọ-tát, có",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0150_viet_020",
+      "bbox": [
+        [
+          228,
+          844
+        ],
+        [
+          1389,
+          855
+        ],
+        [
+          1389,
+          890
+        ],
+        [
+          227,
+          878
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          999
+        ],
+        [
+          1389,
+          1010
+        ],
+        [
+          1389,
+          1045
+        ],
+        [
+          227,
+          1033
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        844,
+        1389,
+        890
+      ],
+      "text": "đến 108 tên, và tiêu biểu cho trì tuệ nên còn gọi là Đại Giác. Theo Phật thoại thì vào",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0150_viet_021",
+      "bbox": [
+        [
+          225,
+          878
+        ],
+        [
+          1393,
+          891
+        ],
+        [
+          1393,
+          924
+        ],
+        [
+          224,
+          911
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1033
+        ],
+        [
+          1393,
+          1046
+        ],
+        [
+          1393,
+          1079
+        ],
+        [
+          224,
+          1066
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        878,
+        1393,
+        924
+      ],
+      "text": "Thù là một vị cờ phật, nhưng luôn tây cơ ung hóa mà cứu độ chúng sinh. Trong",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0150_viet_022",
+      "bbox": [
+        [
+          223,
+          911
+        ],
+        [
+          1195,
+          922
+        ],
+        [
+          1194,
+          955
+        ],
+        [
+          222,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1066
+        ],
+        [
+          1195,
+          1077
+        ],
+        [
+          1194,
+          1110
+        ],
+        [
+          222,
+          1100
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        911,
+        1195,
+        955
+      ],
+      "text": "tông Đại thừa, người ta thường về Văn Thù ngồi trên lựng sư tử xanh",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0150_viet_023",
+      "bbox": [
+        [
+          164,
+          957
+        ],
+        [
+          1388,
+          969
+        ],
+        [
+          1388,
+          1005
+        ],
+        [
+          164,
+          993
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          1112
+        ],
+        [
+          1388,
+          1124
+        ],
+        [
+          1388,
+          1160
+        ],
+        [
+          164,
+          1148
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        957,
+        1388,
+        1005
+      ],
+      "text": "(10) Đàn không dầy: xem Cht. 31, bài Phồ thuyết hưởng thượng nhất lộ, số 8, cùng tác giả.",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0150_viet_024",
+      "bbox": [
+        [
+          164,
+          1004
+        ],
+        [
+          1386,
+          1015
+        ],
+        [
+          1386,
+          1049
+        ],
+        [
+          164,
+          1038
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          1159
+        ],
+        [
+          1386,
+          1170
+        ],
+        [
+          1386,
+          1204
+        ],
+        [
+          164,
+          1193
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        1004,
+        1386,
+        1049
+      ],
+      "text": "(11) ổng tre thay sáo.trúc - dịch thoát cụm từ: nhất chi vò không dịch, nghĩa là một cây",
+      "confidence": 0.8871
+    },
+    {
+      "line_id": "0150_viet_025",
+      "bbox": [
+        [
+          222,
+          1039
+        ],
+        [
+          1298,
+          1048
+        ],
+        [
+          1298,
+          1082
+        ],
+        [
+          222,
+          1073
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1194
+        ],
+        [
+          1298,
+          1203
+        ],
+        [
+          1298,
+          1237
+        ],
+        [
+          222,
+          1228
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1039,
+        1298,
+        1082
+      ],
+      "text": "sao không lỗ. Xem Cht, 29, bài, Phò thuyết hượng thượng nhất lộ, số 8, đã dần",
+      "confidence": 0.8927
+    },
+    {
+      "line_id": "0150_viet_026",
+      "bbox": [
+        [
+          161,
+          1083
+        ],
+        [
+          1390,
+          1093
+        ],
+        [
+          1390,
+          1129
+        ],
+        [
+          161,
+          1119
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1238
+        ],
+        [
+          1390,
+          1248
+        ],
+        [
+          1390,
+          1284
+        ],
+        [
+          161,
+          1274
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1083,
+        1390,
+        1129
+      ],
+      "text": "(12) Nước Ke-tân: một quốc gia xùng Tây-vực. \" đờ gởi vào thời nhà Hán. Có lẽ thuộc vùng",
+      "confidence": 0.8662
+    },
+    {
+      "line_id": "0150_viet_027",
+      "bbox": [
+        [
+          225,
+          1119
+        ],
+        [
+          476,
+          1122
+        ],
+        [
+          476,
+          1154
+        ],
+        [
+          224,
+          1150
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1274
+        ],
+        [
+          476,
+          1277
+        ],
+        [
+          476,
+          1309
+        ],
+        [
+          224,
+          1305
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1119,
+        476,
+        1154
+      ],
+      "text": "Casomia ngày, nay.",
+      "confidence": 0.8843
+    },
+    {
+      "line_id": "0150_viet_028",
+      "bbox": [
+        [
+          161,
+          1162
+        ],
+        [
+          1091,
+          1171
+        ],
+        [
+          1091,
+          1208
+        ],
+        [
+          161,
+          1200
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1317
+        ],
+        [
+          1091,
+          1326
+        ],
+        [
+          1091,
+          1363
+        ],
+        [
+          161,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1162,
+        1091,
+        1208
+      ],
+      "text": "(13) Ngũ uần: xem Cht. 3, bài. Phồ thuyết tứ sơn, số 5, cùng tác giả.",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0150_viet_029",
+      "bbox": [
+        [
+          158,
+          1212
+        ],
+        [
+          1389,
+          1218
+        ],
+        [
+          1389,
+          1255
+        ],
+        [
+          158,
+          1249
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1367
+        ],
+        [
+          1389,
+          1373
+        ],
+        [
+          1389,
+          1410
+        ],
+        [
+          158,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1212,
+        1389,
+        1255
+      ],
+      "text": "(14) Đạt Ma Đại Sư..... Xem Chị. 11, 13, bài Phồ thuyết hưởng thượng nhất lộ, số 8, đã dẫn.",
+      "confidence": 0.8864
+    },
+    {
+      "line_id": "0150_viet_030",
+      "bbox": [
+        [
+          731,
+          1257
+        ],
+        [
+          1372,
+          1257
+        ],
+        [
+          1372,
+          1300
+        ],
+        [
+          731,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1412
+        ],
+        [
+          1372,
+          1412
+        ],
+        [
+          1372,
+          1455
+        ],
+        [
+          731,
+          1455
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1257,
+        1372,
+        1300
+      ],
+      "text": "Tử - % 7 thiên Tiêu dao du iii là B5",
+      "confidence": 0.7728
+    },
+    {
+      "line_id": "0150_viet_031",
+      "bbox": [
+        [
+          731,
+          1291
+        ],
+        [
+          1388,
+          1291
+        ],
+        [
+          1388,
+          1344
+        ],
+        [
+          731,
+          1344
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1446
+        ],
+        [
+          1388,
+          1446
+        ],
+        [
+          1388,
+          1499
+        ],
+        [
+          731,
+          1499
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1291,
+        1388,
+        1344
+      ],
+      "text": "tên thị trung thành thuận thị thuận thuận thuận thuận thuận thuận thuận thuận thuận thuận thư m miênh m mình m m mhư m mhoanh m m",
+      "confidence": 0.3427
+    },
+    {
+      "line_id": "0150_viet_032",
+      "bbox": [
+        [
+          731,
+          1329
+        ],
+        [
+          1392,
+          1329
+        ],
+        [
+          1392,
+          1378
+        ],
+        [
+          731,
+          1378
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1484
+        ],
+        [
+          1392,
+          1484
+        ],
+        [
+          1392,
+          1533
+        ],
+        [
+          731,
+          1533
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1329,
+        1392,
+        1378
+      ],
+      "text": "mịnh đã, thủy kích tam thiên lý, đoàn phú đầu",
+      "confidence": 0.8984
+    },
+    {
+      "line_id": "0150_viet_033",
+      "bbox": [
+        [
+          220,
+          1367
+        ],
+        [
+          1390,
+          1376
+        ],
+        [
+          1390,
+          1414
+        ],
+        [
+          220,
+          1404
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1522
+        ],
+        [
+          1390,
+          1531
+        ],
+        [
+          1390,
+          1569
+        ],
+        [
+          220,
+          1559
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1367,
+        1390,
+        1414
+      ],
+      "text": "nhi thường già, cửu vạn lý, Nghĩa là: chìm bằng rơi khỏi, bề Nam, đập cảnh xuống",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0150_viet_034",
+      "bbox": [
+        [
+          222,
+          1406
+        ],
+        [
+          1388,
+          1414
+        ],
+        [
+          1388,
+          1448
+        ],
+        [
+          222,
+          1441
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1561
+        ],
+        [
+          1388,
+          1569
+        ],
+        [
+          1388,
+          1603
+        ],
+        [
+          222,
+          1596
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1406,
+        1388,
+        1448
+      ],
+      "text": "nước ba nghìn đặm rồi nương theo gió xoây mà lên cao chún vạn đặm. Điền cổ này",
+      "confidence": 0.9058
+    },
+    {
+      "line_id": "0150_viet_035",
+      "bbox": [
+        [
+          221,
+          1442
+        ],
+        [
+          1388,
+          1450
+        ],
+        [
+          1388,
+          1486
+        ],
+        [
+          221,
+          1478
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1597
+        ],
+        [
+          1388,
+          1605
+        ],
+        [
+          1388,
+          1641
+        ],
+        [
+          221,
+          1633
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1442,
+        1388,
+        1486
+      ],
+      "text": "thường dùng đề diễn tà sự bay cao, đi xạ, cũng đề v, với chỉ khí cao siêu, bay bồng.",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0150_viet_036",
+      "bbox": [
+        [
+          159,
+          1488
+        ],
+        [
+          1390,
+          1496
+        ],
+        [
+          1390,
+          1533
+        ],
+        [
+          159,
+          1525
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          1643
+        ],
+        [
+          1390,
+          1651
+        ],
+        [
+          1390,
+          1688
+        ],
+        [
+          159,
+          1680
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        1488,
+        1390,
+        1533
+      ],
+      "text": "(16) Vông Minh - tên, tiếng Phạn là Jaliniprabha, cũng là một vị Phật, khi nghe Thích Ca",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0150_viet_037",
+      "bbox": [
+        [
+          731,
+          1525
+        ],
+        [
+          1390,
+          1525
+        ],
+        [
+          1390,
+          1568
+        ],
+        [
+          731,
+          1568
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1680
+        ],
+        [
+          1390,
+          1680
+        ],
+        [
+          1390,
+          1723
+        ],
+        [
+          731,
+          1723
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1525,
+        1390,
+        1568
+      ],
+      "text": "người đã tổ lời, khen và khuyên chung, sinh nên",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0150_viet_038",
+      "bbox": [
+        [
+          221,
+          1564
+        ],
+        [
+          451,
+          1566
+        ],
+        [
+          451,
+          1597
+        ],
+        [
+          221,
+          1595
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1719
+        ],
+        [
+          451,
+          1721
+        ],
+        [
+          451,
+          1752
+        ],
+        [
+          221,
+          1750
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1564,
+        451,
+        1597
+      ],
+      "text": "tin theo kinh đó.",
+      "confidence": 0.9058
+    },
+    {
+      "line_id": "0150_viet_039",
+      "bbox": [
+        [
+          158,
+          1606
+        ],
+        [
+          1197,
+          1615
+        ],
+        [
+          1196,
+          1653
+        ],
+        [
+          158,
+          1643
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1761
+        ],
+        [
+          1197,
+          1770
+        ],
+        [
+          1196,
+          1808
+        ],
+        [
+          158,
+          1798
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1606,
+        1197,
+        1653
+      ],
+      "text": "(17) Mã Tô: xem Cht. 4, bài Phồ thuyết hướng thượng nhất lộ, số 8, đã dản.",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0150_viet_040",
+      "bbox": [
+        [
+          156,
+          1655
+        ],
+        [
+          1311,
+          1663
+        ],
+        [
+          1311,
+          1700
+        ],
+        [
+          156,
+          1693
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1810
+        ],
+        [
+          1311,
+          1818
+        ],
+        [
+          1311,
+          1855
+        ],
+        [
+          156,
+          1848
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1655,
+        1311,
+        1700
+      ],
+      "text": "(18) Bách Trượng: xem. Cht, 39, bài Phồ khuyên phát bồ-đề tâm, số 7, của Trần Cảnh.",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0150_viet_041",
+      "bbox": [
+        [
+          153,
+          1700
+        ],
+        [
+          1374,
+          1707
+        ],
+        [
+          1374,
+          1747
+        ],
+        [
+          153,
+          1740
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          1855
+        ],
+        [
+          1374,
+          1862
+        ],
+        [
+          1374,
+          1902
+        ],
+        [
+          153,
+          1895
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        1700,
+        1374,
+        1747
+      ],
+      "text": "(19) Đại Quy : tức Thiền sư Quy Sơn Vấy Là đời Hường, ở quê Phúc-châu hỗ Mỹ, họ",
+      "confidence": 0.8516
+    },
+    {
+      "line_id": "0150_viet_042",
+      "bbox": [
+        [
+          731,
+          1738
+        ],
+        [
+          1388,
+          1738
+        ],
+        [
+          1388,
+          1784
+        ],
+        [
+          731,
+          1784
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1893
+        ],
+        [
+          1388,
+          1893
+        ],
+        [
+          1388,
+          1939
+        ],
+        [
+          731,
+          1939
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1738,
+        1388,
+        1784
+      ],
+      "text": "(771 ? 853). học trò của hoài hải. ông trù trì",
+      "confidence": 0.8758
+    },
+    {
+      "line_id": "0150_viet_043",
+      "bbox": [
+        [
+          217,
+          1776
+        ],
+        [
+          1387,
+          1784
+        ],
+        [
+          1387,
+          1820
+        ],
+        [
+          217,
+          1812
+        ]
+      ],
+      "bbox_original": [
+        [
+          217,
+          1931
+        ],
+        [
+          1387,
+          1939
+        ],
+        [
+          1387,
+          1975
+        ],
+        [
+          217,
+          1967
+        ]
+      ],
+      "box_xyxy": [
+        217,
+        1776,
+        1387,
+        1820
+      ],
+      "text": "ở núi Quy-sơn thuộc Đàm châu, ý - \" Hồ - nam 6% lẫ, bảy năm nên có tên là Quy Sơn.",
+      "confidence": 0.8384
+    },
+    {
+      "line_id": "0150_viet_044",
+      "bbox": [
+        [
+          216,
+          1811
+        ],
+        [
+          1387,
+          1821
+        ],
+        [
+          1387,
+          1857
+        ],
+        [
+          216,
+          1847
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1966
+        ],
+        [
+          1387,
+          1976
+        ],
+        [
+          1387,
+          2012
+        ],
+        [
+          216,
+          2002
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1811,
+        1387,
+        1857
+      ],
+      "text": "Ông thuộc thế hệ thứ ba đóng Tào-khê, cùng học trò là Tuệ Tịch (tức Ngưỡng",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0150_viet_045",
+      "bbox": [
+        [
+          216,
+          1848
+        ],
+        [
+          1385,
+          1855
+        ],
+        [
+          1385,
+          1892
+        ],
+        [
+          216,
+          1885
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2003
+        ],
+        [
+          1385,
+          2010
+        ],
+        [
+          1385,
+          2047
+        ],
+        [
+          216,
+          2040
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1848,
+        1385,
+        1892
+      ],
+      "text": "Sơn tộ da) lập ra một phải riêng gọi là phái Quy ngường. Xem bàng Phà hệ cuối",
+      "confidence": 0.8758
+    },
+    {
+      "line_id": "0150_viet_046",
+      "bbox": [
+        [
+          216,
+          1885
+        ],
+        [
+          1256,
+          1893
+        ],
+        [
+          1256,
+          1927
+        ],
+        [
+          216,
+          1918
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2040
+        ],
+        [
+          1256,
+          2048
+        ],
+        [
+          1256,
+          2082
+        ],
+        [
+          216,
+          2073
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1885,
+        1256,
+        1927
+      ],
+      "text": "sách vật xem thêm Cht.34, bãi Phồ khuyến phải bò-đê tâm, số 7, cùng tác già.",
+      "confidence": 0.894
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "phien_am_lines": [
+      "(2): Thế Tôn: tức Thích Cả Màu Ni, xom Clat. 19, bài Phò khuyến phát bò-đề tâm. số 7, công",
+      "(3) Đầu-suất: Xem Cht.2, bài Ngữ lục văn đúp môn hạ, số 20, cùng tác giả.",
+      "(4) Tịnh vương cung: Cùng vuá Tĩnh Phạn, thàn sinh Thải tử Tất-đạt-ưa, tức Phật Thích Ca.",
+      "(6). Dùy bước. khi, Phật Thích Ca ra đời, người liền bước bảy bước, một tay chỉ lên",
+      "biện thượng địa ha, duy ngã độc tôn A Mê",
+      "trên, đất dưới, riêng ta là cao cả",
+      "(6) Thế Tôn cầm hoa sen giơ lên... Ca Diếp là, học trò giỏi của Thế Tôn, được Thế Tôn",
+      "truyền vì bát, là, vị tồ thứ nhất trong 28 đòi tồ ở Thiền-trúc, Theo truyền thuyết, trọng",
+      "một buổi thuyết pháp. Thế Tòn càm bông, hou scn giơ lên, các học trò còn ngơ ngắc",
+      "(7) (8) Hữu ngôn, vô ngôn: thuật ngữ đạo Phật, Hữu, vỏ là - hải phạm trù quan trọng trong",
+      "triết học Phật giáo, nói về nhận thức thế giới của con người. Hơn là khur khư ở chấp 5",
+      "lấy kiến giải có, cho cài gì cùng là có thực, tồn tại thực. trái lại nó là khư khư chấp",
+      "lấy kiến giải không, hoàn toàn phủ nhận thế giới, cả hai kiến giải đó đến là sai làm)",
+      "phải đạt được đến nhận thức phi hiru phi vô (chẳng phải có, chẳng phải không) mơi",
+      "là giác ngô, Hữu ngôn, vô ngôn, cũng như hữu củ, bố cứ có thể là những mệnh đế,",
+      "Văn Thủ Bồ-tại: cũng gọi là Văn-thù-su-Iv Mạn-thủ-thất-ly. phiên âm, tiếng Phạn",
+      "Mânjuri, có: nghĩa là đức tốt lành, điều tốt lanh, là vị Bò-tát đứng đầu các Bọ-tát, có",
+      "đến 108 tên, và tiêu biểu cho trì tuệ nên còn gọi là Đại Giác. Theo Phật thoại thì vào",
+      "Thù là một vị cờ phật, nhưng luôn tây cơ ung hóa mà cứu độ chúng sinh. Trong",
+      "tông Đại thừa, người ta thường về Văn Thù ngồi trên lựng sư tử xanh",
+      "(10) Đàn không dầy: xem Cht. 31, bài Phồ thuyết hưởng thượng nhất lộ, số 8, cùng tác giả.",
+      "(11) ổng tre thay sáo.trúc - dịch thoát cụm từ: nhất chi vò không dịch, nghĩa là một cây",
+      "sao không lỗ. Xem Cht, 29, bài, Phò thuyết hượng thượng nhất lộ, số 8, đã dần",
+      "(12) Nước Ke-tân: một quốc gia xùng Tây-vực. \" đờ gởi vào thời nhà Hán. Có lẽ thuộc vùng",
+      "(14) Đạt Ma Đại Sư..... Xem Chị. 11, 13, bài Phồ thuyết hưởng thượng nhất lộ, số 8, đã dẫn.",
+      "Tử - % 7 thiên Tiêu dao du iii là B5",
+      "tên thị trung thành thuận thị thuận thuận thuận thuận thuận thuận thuận thuận thuận thuận thư m miênh m mình m m mhư m mhoanh m m",
+      "mịnh đã, thủy kích tam thiên lý, đoàn phú đầu",
+      "nhi thường già, cửu vạn lý, Nghĩa là: chìm bằng rơi khỏi, bề Nam, đập cảnh xuống",
+      "nước ba nghìn đặm rồi nương theo gió xoây mà lên cao chún vạn đặm. Điền cổ này",
+      "thường dùng đề diễn tà sự bay cao, đi xạ, cũng đề v, với chỉ khí cao siêu, bay bồng.",
+      "(16) Vông Minh - tên, tiếng Phạn là Jaliniprabha, cũng là một vị Phật, khi nghe Thích Ca",
+      "người đã tổ lời, khen và khuyên chung, sinh nên",
+      "(17) Mã Tô: xem Cht. 4, bài Phồ thuyết hướng thượng nhất lộ, số 8, đã dản.",
+      "(18) Bách Trượng: xem. Cht, 39, bài Phồ khuyên phát bồ-đề tâm, số 7, của Trần Cảnh.",
+      "(19) Đại Quy : tức Thiền sư Quy Sơn Vấy Là đời Hường, ở quê Phúc-châu hỗ Mỹ, họ",
+      "(771 ? 853). học trò của hoài hải. ông trù trì",
+      "ở núi Quy-sơn thuộc Đàm châu, ý - \" Hồ - nam 6% lẫ, bảy năm nên có tên là Quy Sơn.",
+      "Ông thuộc thế hệ thứ ba đóng Tào-khê, cùng học trò là Tuệ Tịch (tức Ngưỡng",
+      "Sơn tộ da) lập ra một phải riêng gọi là phái Quy ngường. Xem bàng Phà hệ cuối",
+      "sách vật xem thêm Cht.34, bãi Phồ khuyến phải bò-đê tâm, số 7, cùng tác già."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

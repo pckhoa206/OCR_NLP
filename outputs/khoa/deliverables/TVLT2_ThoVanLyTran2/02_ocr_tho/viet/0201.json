@@ -1,0 +1,1275 @@
+{
+  "page_id": "0201",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 201,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0201_viet_000",
+      "bbox": [
+        [
+          654,
+          86
+        ],
+        [
+          934,
+          86
+        ],
+        [
+          934,
+          132
+        ],
+        [
+          654,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          654,
+          241
+        ],
+        [
+          934,
+          241
+        ],
+        [
+          934,
+          287
+        ],
+        [
+          654,
+          287
+        ]
+      ],
+      "box_xyxy": [
+        654,
+        86,
+        934,
+        132
+      ],
+      "text": "BÁN DẠ THÌ ()",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0201_viet_001",
+      "bbox": [
+        [
+          656,
+          197
+        ],
+        [
+          930,
+          197
+        ],
+        [
+          930,
+          241
+        ],
+        [
+          656,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          656,
+          352
+        ],
+        [
+          930,
+          352
+        ],
+        [
+          930,
+          396
+        ],
+        [
+          656,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        656,
+        197,
+        930,
+        241
+      ],
+      "text": "(THÌ NỬA BÊM)",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0201_viet_002",
+      "bbox": [
+        [
+          764,
+          305
+        ],
+        [
+          828,
+          305
+        ],
+        [
+          828,
+          361
+        ],
+        [
+          764,
+          361
+        ]
+      ],
+      "bbox_original": [
+        [
+          764,
+          460
+        ],
+        [
+          828,
+          460
+        ],
+        [
+          828,
+          516
+        ],
+        [
+          764,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        764,
+        305,
+        828,
+        361
+      ],
+      "text": "51",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0201_viet_003",
+      "bbox": [
+        [
+          181,
+          896
+        ],
+        [
+          338,
+          896
+        ],
+        [
+          338,
+          935
+        ],
+        [
+          181,
+          935
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1051
+        ],
+        [
+          338,
+          1051
+        ],
+        [
+          338,
+          1090
+        ],
+        [
+          181,
+          1090
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        896,
+        338,
+        935
+      ],
+      "text": "PHIẾN ÂM",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0201_viet_004",
+      "bbox": [
+        [
+          603,
+          934
+        ],
+        [
+          1021,
+          934
+        ],
+        [
+          1021,
+          971
+        ],
+        [
+          603,
+          971
+        ]
+      ],
+      "bbox_original": [
+        [
+          603,
+          1089
+        ],
+        [
+          1021,
+          1089
+        ],
+        [
+          1021,
+          1126
+        ],
+        [
+          603,
+          1126
+        ]
+      ],
+      "box_xyxy": [
+        603,
+        934,
+        1021,
+        971
+      ],
+      "text": "BẢN 1? ĐẠ CHÚC HƯƠNG",
+      "confidence": 0.8651
+    },
+    {
+      "line_id": "0201_viet_005",
+      "bbox": [
+        [
+          274,
+          1000
+        ],
+        [
+          1417,
+          1004
+        ],
+        [
+          1417,
+          1044
+        ],
+        [
+          274,
+          1040
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1155
+        ],
+        [
+          1417,
+          1159
+        ],
+        [
+          1417,
+          1199
+        ],
+        [
+          274,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1000,
+        1417,
+        1044
+      ],
+      "text": "Phục dĩ, tam canh lậu chuyền, vậu lai thanh trần. Lục hòa tri lữ hội",
+      "confidence": 0.8931
+    },
+    {
+      "line_id": "0201_viet_006",
+      "bbox": [
+        [
+          182,
+          1041
+        ],
+        [
+          991,
+          1044
+        ],
+        [
+          991,
+          1084
+        ],
+        [
+          182,
+          1081
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1196
+        ],
+        [
+          991,
+          1199
+        ],
+        [
+          991,
+          1239
+        ],
+        [
+          182,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1041,
+        991,
+        1084
+      ],
+      "text": "nghiêm đàn, nhất biện bảo hương chu pháp? giới.",
+      "confidence": 0.902
+    },
+    {
+      "line_id": "0201_viet_007",
+      "bbox": [
+        [
+          274,
+          1089
+        ],
+        [
+          1416,
+          1090
+        ],
+        [
+          1416,
+          1131
+        ],
+        [
+          274,
+          1130
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1244
+        ],
+        [
+          1416,
+          1245
+        ],
+        [
+          1416,
+          1286
+        ],
+        [
+          274,
+          1285
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1089,
+        1416,
+        1131
+      ],
+      "text": "Thị hương đã. âm dương kết tu; thiên dịa sinh thành. Tài bồi phi nhất",
+      "confidence": 0.8778
+    },
+    {
+      "line_id": "0201_viet_008",
+      "bbox": [
+        [
+          182,
+          1129
+        ],
+        [
+          1417,
+          1131
+        ],
+        [
+          1417,
+          1172
+        ],
+        [
+          182,
+          1170
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1284
+        ],
+        [
+          1417,
+          1286
+        ],
+        [
+          1417,
+          1327
+        ],
+        [
+          182,
+          1325
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1129,
+        1417,
+        1172
+      ],
+      "text": "thế chỉ công: thủ hộ thị bách thần chi lực. Cũn chu hạt tạy cửu tư pháp vũ 36",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0201_viet_009",
+      "bbox": [
+        [
+          180,
+          1170
+        ],
+        [
+          1415,
+          1173
+        ],
+        [
+          1415,
+          1211
+        ],
+        [
+          180,
+          1208
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1325
+        ],
+        [
+          1415,
+          1328
+        ],
+        [
+          1415,
+          1366
+        ],
+        [
+          180,
+          1363
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1170,
+        1415,
+        1211
+      ],
+      "text": "triêm nhu, thể chất cao tiêu trường lại tir vàn + ti ấm. Đị chúng mạc tương",
+      "confidence": 0.8817
+    },
+    {
+      "line_id": "0201_viet_010",
+      "bbox": [
+        [
+          183,
+          1211
+        ],
+        [
+          1413,
+          1211
+        ],
+        [
+          1413,
+          1248
+        ],
+        [
+          183,
+          1248
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1366
+        ],
+        [
+          1413,
+          1366
+        ],
+        [
+          1413,
+          1403
+        ],
+        [
+          183,
+          1403
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1211,
+        1413,
+        1248
+      ],
+      "text": "phảm mộc tỉ; thanh phân \" - bất hứa tạc nhân trị, Niêm khỏi kim lô, phiến",
+      "confidence": 0.8635
+    },
+    {
+      "line_id": "0201_viet_011",
+      "bbox": [
+        [
+          182,
+          1250
+        ],
+        [
+          1413,
+          1251
+        ],
+        [
+          1413,
+          1288
+        ],
+        [
+          182,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1405
+        ],
+        [
+          1413,
+          1406
+        ],
+        [
+          1413,
+          1443
+        ],
+        [
+          182,
+          1442
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1250,
+        1413,
+        1288
+      ],
+      "text": "phiến tài phâu ưr hòa diện; kết thành bảo cái, tầng tầng trực tiếp ứ vân đầu",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0201_viet_012",
+      "bbox": [
+        [
+          181,
+          1287
+        ],
+        [
+          1416,
+          1288
+        ],
+        [
+          1416,
+          1328
+        ],
+        [
+          181,
+          1327
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1442
+        ],
+        [
+          1416,
+          1443
+        ],
+        [
+          1416,
+          1483
+        ],
+        [
+          181,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1287,
+        1416,
+        1328
+      ],
+      "text": "Dung trần đối thành chi nghì: liêu biểu thông phảm chi tin. Dĩ kim bán % dạ,",
+      "confidence": 0.8709
+    },
+    {
+      "line_id": "0201_viet_013",
+      "bbox": [
+        [
+          182,
+          1327
+        ],
+        [
+          580,
+          1330
+        ],
+        [
+          580,
+          1368
+        ],
+        [
+          182,
+          1365
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1482
+        ],
+        [
+          580,
+          1485
+        ],
+        [
+          580,
+          1523
+        ],
+        [
+          182,
+          1520
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1327,
+        580,
+        1368
+      ],
+      "text": "phân hương cung dường",
+      "confidence": 0.885
+    },
+    {
+      "line_id": "0201_viet_014",
+      "bbox": [
+        [
+          182,
+          1407
+        ],
+        [
+          369,
+          1407
+        ],
+        [
+          369,
+          1446
+        ],
+        [
+          182,
+          1446
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1562
+        ],
+        [
+          369,
+          1562
+        ],
+        [
+          369,
+          1601
+        ],
+        [
+          182,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1407,
+        369,
+        1446
+      ],
+      "text": "ĐỊCH NGHĨA",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0201_viet_015",
+      "bbox": [
+        [
+          551,
+          1439
+        ],
+        [
+          1052,
+          1439
+        ],
+        [
+          1052,
+          1479
+        ],
+        [
+          551,
+          1479
+        ]
+      ],
+      "bbox_original": [
+        [
+          551,
+          1594
+        ],
+        [
+          1052,
+          1594
+        ],
+        [
+          1052,
+          1634
+        ],
+        [
+          551,
+          1634
+        ]
+      ],
+      "box_xyxy": [
+        551,
+        1439,
+        1052,
+        1479
+      ],
+      "text": "DÀNG HƯƠNG LÚC NỬA ĐÊM",
+      "confidence": 0.8957
+    },
+    {
+      "line_id": "0201_viet_016",
+      "bbox": [
+        [
+          276,
+          1511
+        ],
+        [
+          1415,
+          1509
+        ],
+        [
+          1415,
+          1549
+        ],
+        [
+          276,
+          1551
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1666
+        ],
+        [
+          1415,
+          1664
+        ],
+        [
+          1415,
+          1704
+        ],
+        [
+          276,
+          1706
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1509,
+        1415,
+        1551
+      ],
+      "text": "Cũi nghì. giọt lầu (7) canh hà vừa cùngền: sạo trời (?) muôn tiếng đều",
+      "confidence": 0.8656
+    },
+    {
+      "line_id": "0201_viet_017",
+      "bbox": [
+        [
+          182,
+          1551
+        ],
+        [
+          1413,
+          1551
+        ],
+        [
+          1413,
+          1591
+        ],
+        [
+          182,
+          1591
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1706
+        ],
+        [
+          1413,
+          1706
+        ],
+        [
+          1413,
+          1746
+        ],
+        [
+          182,
+          1746
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1551,
+        1413,
+        1591
+      ],
+      "text": "im. Lục hòa (') tăng lữ họp đán nghiêm: một nên hương thơm lững pháp giới.",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0201_viet_018",
+      "bbox": [
+        [
+          276,
+          1599
+        ],
+        [
+          1418,
+          1597
+        ],
+        [
+          1418,
+          1637
+        ],
+        [
+          276,
+          1639
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1754
+        ],
+        [
+          1418,
+          1752
+        ],
+        [
+          1418,
+          1792
+        ],
+        [
+          276,
+          1794
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1597,
+        1418,
+        1639
+      ],
+      "text": "Hượng này, âm dương kết tụ: trời đất sinh, thành, Vun trồng náo phải",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0201_viet_019",
+      "bbox": [
+        [
+          182,
+          1640
+        ],
+        [
+          1417,
+          1638
+        ],
+        [
+          1417,
+          1677
+        ],
+        [
+          182,
+          1679
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1795
+        ],
+        [
+          1417,
+          1793
+        ],
+        [
+          1417,
+          1832
+        ],
+        [
+          182,
+          1834
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1638,
+        1417,
+        1679
+      ],
+      "text": "công một thế, gin giữ là nhờ sức trăm thần, Cội cành tươi tốt, mãi nhờ mưa",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0201_viet_020",
+      "bbox": [
+        [
+          183,
+          1680
+        ],
+        [
+          1416,
+          1675
+        ],
+        [
+          1416,
+          1715
+        ],
+        [
+          183,
+          1719
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1835
+        ],
+        [
+          1416,
+          1830
+        ],
+        [
+          1416,
+          1870
+        ],
+        [
+          183,
+          1874
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1675,
+        1416,
+        1719
+      ],
+      "text": "\"pháp chira chan, thể chắt thanh cao,cậy bởi máy lánh che chở, Gióng lạ chở",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0201_viet_021",
+      "bbox": [
+        [
+          183,
+          1720
+        ],
+        [
+          1416,
+          1717
+        ],
+        [
+          1416,
+          1754
+        ],
+        [
+          183,
+          1757
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1875
+        ],
+        [
+          1416,
+          1872
+        ],
+        [
+          1416,
+          1909
+        ],
+        [
+          183,
+          1912
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1717,
+        1416,
+        1757
+      ],
+      "text": "đem cây túc đọ ; bương thanh đầu đế kẻ phảm: hay, Đem, tới lõ: vàng, néu nén",
+      "confidence": 0.8646
+    },
+    {
+      "line_id": "0201_viet_022",
+      "bbox": [
+        [
+          184,
+          1758
+        ],
+        [
+          1415,
+          1756
+        ],
+        [
+          1415,
+          1793
+        ],
+        [
+          184,
+          1795
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1913
+        ],
+        [
+          1415,
+          1911
+        ],
+        [
+          1415,
+          1948
+        ],
+        [
+          184,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1756,
+        1415,
+        1795
+      ],
+      "text": "mức chăm, trên ngọn lửa, kết thành long bầu, tàng tàng bay mãi tận ngàn mảy.",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0201_viet_023",
+      "bbox": [
+        [
+          182,
+          1795
+        ],
+        [
+          1419,
+          1792
+        ],
+        [
+          1419,
+          1835
+        ],
+        [
+          182,
+          1838
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1950
+        ],
+        [
+          1419,
+          1947
+        ],
+        [
+          1419,
+          1990
+        ],
+        [
+          182,
+          1993
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1792,
+        1419,
+        1838
+      ],
+      "text": "Đám bày lê nghi cũng thành: gọi giải song tin kế phàm, Giữ đương lúc nửa đêm,",
+      "confidence": 0.8684
+    },
+    {
+      "line_id": "0201_viet_024",
+      "bbox": [
+        [
+          184,
+          1835
+        ],
+        [
+          533,
+          1839
+        ],
+        [
+          532,
+          1877
+        ],
+        [
+          184,
+          1873
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1990
+        ],
+        [
+          533,
+          1994
+        ],
+        [
+          532,
+          2032
+        ],
+        [
+          184,
+          2028
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1835,
+        533,
+        1877
+      ],
+      "text": "đốt hương dùng cũng",
+      "confidence": 0.8984
+    },
+    {
+      "line_id": "0201_viet_025",
+      "bbox": [
+        [
+          1121,
+          1873
+        ],
+        [
+          1326,
+          1873
+        ],
+        [
+          1326,
+          1908
+        ],
+        [
+          1121,
+          1908
+        ]
+      ],
+      "bbox_original": [
+        [
+          1121,
+          2028
+        ],
+        [
+          1326,
+          2028
+        ],
+        [
+          1326,
+          2063
+        ],
+        [
+          1121,
+          2063
+        ]
+      ],
+      "box_xyxy": [
+        1121,
+        1873,
+        1326,
+        1908
+      ],
+      "text": "RẰNG THANH",
+      "confidence": 0.8044
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "BÁN DẠ THÌ ()",
+      "(THÌ NỬA BÊM)",
+      "51",
+      "BẢN 1? ĐẠ CHÚC HƯƠNG",
+      "Phục dĩ, tam canh lậu chuyền, vậu lai thanh trần. Lục hòa tri lữ hội",
+      "nghiêm đàn, nhất biện bảo hương chu pháp? giới.",
+      "Thị hương đã. âm dương kết tu; thiên dịa sinh thành. Tài bồi phi nhất",
+      "thế chỉ công: thủ hộ thị bách thần chi lực. Cũn chu hạt tạy cửu tư pháp vũ 36",
+      "triêm nhu, thể chất cao tiêu trường lại tir vàn + ti ấm. Đị chúng mạc tương",
+      "phảm mộc tỉ; thanh phân \" - bất hứa tạc nhân trị, Niêm khỏi kim lô, phiến",
+      "phiến tài phâu ưr hòa diện; kết thành bảo cái, tầng tầng trực tiếp ứ vân đầu",
+      "Dung trần đối thành chi nghì: liêu biểu thông phảm chi tin. Dĩ kim bán % dạ,",
+      "phân hương cung dường"
+    ],
+    "dich_nghia_lines": [
+      "DÀNG HƯƠNG LÚC NỬA ĐÊM",
+      "Cũi nghì. giọt lầu (7) canh hà vừa cùngền: sạo trời (?) muôn tiếng đều",
+      "im. Lục hòa (') tăng lữ họp đán nghiêm: một nên hương thơm lững pháp giới.",
+      "Hượng này, âm dương kết tụ: trời đất sinh, thành, Vun trồng náo phải",
+      "công một thế, gin giữ là nhờ sức trăm thần, Cội cành tươi tốt, mãi nhờ mưa",
+      "\"pháp chira chan, thể chắt thanh cao,cậy bởi máy lánh che chở, Gióng lạ chở",
+      "đem cây túc đọ ; bương thanh đầu đế kẻ phảm: hay, Đem, tới lõ: vàng, néu nén",
+      "mức chăm, trên ngọn lửa, kết thành long bầu, tàng tàng bay mãi tận ngàn mảy.",
+      "Đám bày lê nghi cũng thành: gọi giải song tin kế phàm, Giữ đương lúc nửa đêm,",
+      "đốt hương dùng cũng",
+      "RẰNG THANH"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

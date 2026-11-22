@@ -2,13 +2,14 @@
 
 Implements Sections 2, 3, 6, 7, 8 of Guideline.pdf:
 - `validate_pairs`: validates technical formatting and semantic/alignment quality criteria
-  (`MISSING`, `OMISSION`, `ADDITION`, leftover markers, number consistency) and computes
+  (`MISSING`, `OMISSION`, `ADDITION`, leftover markers, number consistency) for both
+  2-column and unified 4-column `(Hán, Dịch âm, Dịch nghĩa, Dịch thơ)` rows and computes
   Section 8 acceptance metrics (`Tỷ lệ lỗi <= 30%`, internal target `<= 20%`).
-- `export_tsv`: writes `<CÂU_HÁN>\\t<CÂU_VIỆT>` in UTF-8 without index or header rows.
+- `export_tsv`: writes tab-separated rows in UTF-8 without index or header rows.
 - `export_xlsx_zero_dep`: writes a 100% standards-compliant OpenXML `.xlsx` archive
   using only Python's standard `zipfile` and `xml.etree.ElementTree`, with first sheet
-  `DONG_HANG` (row 1 headers `Hán` and `Việt`, row i+1 identical to line i of `.tsv`)
-  and optional second sheet `THONG_KE`.
+  `DONG_HANG` (row 1 headers `Hán` / `Việt` or `Hán` / `Dịch âm` / `Dịch nghĩa` / `Dịch thơ`,
+  row i+1 identical to line i of `.tsv`) and optional second sheet `THONG_KE`.
 - `read_xlsx_zero_dep`: reads `.xlsx` files using only `zipfile` and `xml.etree.ElementTree`
   to verify 100% content identity between `.tsv` and `.xlsx`.
 """
@@ -96,12 +97,13 @@ def validate_pairs(pairs: list[tuple[str, ...]]) -> dict[str, Any]:
 
     Supports:
     - 2-column pairs: `(han, viet)`
-    - 4-column rows (`HVTT`): `(han, dich_am, dich_nghia, dich_tho)` where `dich_nghia`
-      may be empty `""` for verse-only works (e.g., final poem *Thu dạ hoài ngâm* at
-      PDF 367-381) as long as `dich_am` and `dich_tho` are populated.
+    - 4-column rows: `(han, dich_am, dich_nghia, dich_tho)` allowing valid title rows
+      `(han, dich_am, "", "")` as well as works omitting `dich_am`, `dich_nghia`,
+      or `dich_tho` as long as `han` and at least one Vietnamese column are populated.
 
     Checks:
-    - `MISSING`: empty Hán or empty target translation, or missing CJK / Vietnamese letters.
+    - `MISSING`: empty Hán or all target Vietnamese columns empty, or missing CJK /
+      Vietnamese letters.
     - `FORMAT_ERROR`: embedded `\\t`, `\\n`, `\\r`, or multiple consecutive spaces.
     - `LEFTOVER_MARKER`: uncleaned footnote markers (`[1]`, `1*`, `(1)`) or section
       headers (`PHIÊN ÂM`, `DỊCH NGHĨA`).
@@ -146,13 +148,15 @@ def validate_pairs(pairs: list[tuple[str, ...]]) -> dict[str, Any]:
             dich_nghia = "" if pair[2] is None else str(pair[2])
             dich_tho = "" if pair[3] is None else str(pair[3])
             # Primary Vietnamese translation for semantic/ratio validation:
-            # prefer dich_nghia when present, otherwise fallback to dich_tho
-            viet = dich_nghia if dich_nghia.strip() else dich_tho
+            # prefer dich_nghia, then dich_tho, then dich_am (valid title rows)
+            viet = (
+                dich_nghia
+                if dich_nghia.strip()
+                else (dich_tho if dich_tho.strip() else dich_am)
+            )
             all_cells = (han, dich_am, dich_nghia, dich_tho)
-            has_missing_side = (
-                not han.strip()
-                or not dich_am.strip()
-                or (not dich_nghia.strip() and not dich_tho.strip())
+            has_missing_side = not han.strip() or not (
+                dich_am.strip() or dich_nghia.strip() or dich_tho.strip()
             )
         else:
             viet = "" if pair[1] is None else str(pair[1])
@@ -452,7 +456,7 @@ def export_xlsx_zero_dep(
     shared_str_map: dict[str, int] = {}
     shared_str_list: list[str] = []
 
-    is_four_col = bool(pairs and len(pairs[0]) >= 4)
+    is_four_col = any(len(r) >= 4 for r in pairs)
     if headers is None:
         headers = (
             ("Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ")
@@ -472,11 +476,13 @@ def export_xlsx_zero_dep(
     # Optional sheet2: THONG_KE
     has_stats_sheet = stats is not None
     sheet2_bytes: bytes | None = None
+    stat_cell_count = 0
     if has_stats_sheet and stats is not None:
         stat_rows: list[tuple[str, ...]] = [("Chỉ số", "Giá trị")]
         for k, v in stats.items():
             if isinstance(v, (int, float, str, bool)):
                 stat_rows.append((str(k), str(v)))
+        stat_cell_count = len(stat_rows) * 2
         sheet2_bytes = _build_worksheet_xml(
             stat_rows, shared_str_map, shared_str_list
         )
@@ -486,10 +492,7 @@ def export_xlsx_zero_dep(
         "sst",
         {
             "xmlns": _NS_MAIN,
-            "count": str(
-                len(dong_hang_rows) * len(headers)
-                + (len(stats) * 2 if stats else 0)
-            ),
+            "count": str(sum(len(r) for r in dong_hang_rows) + stat_cell_count),
             "uniqueCount": str(len(shared_str_list)),
         },
     )
@@ -680,21 +683,21 @@ def read_xlsx_zero_dep(
     xlsx_path: str,
     sheet_name: str = "DONG_HANG",
     include_header: bool = False,
-) -> list[tuple[str, str]]:
+) -> list[tuple[str, ...]]:
     """Read back an `.xlsx` file using only `zipfile` and `xml.etree.ElementTree`.
 
     Supports both `sharedStrings.xml` (`t="s"`) and inline strings (`t="inlineStr"`).
-    For `sheet_name == "DONG_HANG"`, verifies that row 1 has headers `("Hán", "Việt")`
-    and returns the data rows `[(han, viet), ...]` so the output can be compared
-    directly against `pairs` or `read_tsv(tsv_path)`.
+    For `sheet_name == "DONG_HANG"`, handles both 2-column `("Hán", "Việt")` and
+    4-column `("Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ")` headers and returns the
+    data rows so the output can be compared directly against `pairs` or `read_tsv(tsv_path)`.
 
     Args:
         xlsx_path: Path to the `.xlsx` file.
         sheet_name: Worksheet name to read (default `"DONG_HANG"`).
-        include_header: If True, includes row 1 `("Hán", "Việt")` at index 0.
+        include_header: If True, includes row 1 header tuple at index 0.
 
     Returns:
-        List of `(col_A, col_B)` string tuples.
+        List of 2-column or 4-column string tuples.
     """
     with zipfile.ZipFile(xlsx_path, "r") as zf:
         namelist = set(zf.namelist())

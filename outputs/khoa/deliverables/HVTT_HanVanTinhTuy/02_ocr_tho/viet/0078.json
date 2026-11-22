@@ -1,0 +1,1034 @@
+{
+  "page_id": "0078",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 78,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0078_viet_000",
+      "bbox": [
+        [
+          192,
+          28
+        ],
+        [
+          234,
+          28
+        ],
+        [
+          234,
+          63
+        ],
+        [
+          192,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          149
+        ],
+        [
+          234,
+          149
+        ],
+        [
+          234,
+          184
+        ],
+        [
+          192,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        28,
+        234,
+        63
+      ],
+      "text": "72",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0078_viet_001",
+      "bbox": [
+        [
+          666,
+          29
+        ],
+        [
+          987,
+          29
+        ],
+        [
+          987,
+          60
+        ],
+        [
+          666,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          150
+        ],
+        [
+          987,
+          150
+        ],
+        [
+          987,
+          181
+        ],
+        [
+          666,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        29,
+        987,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0078_viet_002",
+      "bbox": [
+        [
+          226,
+          178
+        ],
+        [
+          569,
+          176
+        ],
+        [
+          569,
+          217
+        ],
+        [
+          226,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          299
+        ],
+        [
+          569,
+          297
+        ],
+        [
+          569,
+          338
+        ],
+        [
+          226,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        176,
+        569,
+        219
+      ],
+      "text": "dĩ sự phụ nhân hô ?",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0078_viet_003",
+      "bbox": [
+        [
+          252,
+          224
+        ],
+        [
+          568,
+          224
+        ],
+        [
+          568,
+          262
+        ],
+        [
+          252,
+          262
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          345
+        ],
+        [
+          568,
+          345
+        ],
+        [
+          568,
+          383
+        ],
+        [
+          252,
+          383
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        224,
+        568,
+        262
+      ],
+      "text": "để phụng-sự đàn bà ?",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0078_viet_004",
+      "bbox": [
+        [
+          227,
+          336
+        ],
+        [
+          940,
+          337
+        ],
+        [
+          940,
+          376
+        ],
+        [
+          227,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          457
+        ],
+        [
+          940,
+          458
+        ],
+        [
+          940,
+          497
+        ],
+        [
+          227,
+          496
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        336,
+        940,
+        376
+      ],
+      "text": "Ninh liêm khiết chính trực dĩ tự thanh hồ",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0078_viet_005",
+      "bbox": [
+        [
+          250,
+          383
+        ],
+        [
+          914,
+          385
+        ],
+        [
+          914,
+          422
+        ],
+        [
+          250,
+          420
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          504
+        ],
+        [
+          914,
+          506
+        ],
+        [
+          914,
+          543
+        ],
+        [
+          250,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        383,
+        914,
+        422
+      ],
+      "text": "nên thanh liêm ngay thắng đề giữ trong sạch",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0078_viet_006",
+      "bbox": [
+        [
+          229,
+          497
+        ],
+        [
+          990,
+          499
+        ],
+        [
+          990,
+          537
+        ],
+        [
+          229,
+          535
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          618
+        ],
+        [
+          990,
+          620
+        ],
+        [
+          990,
+          658
+        ],
+        [
+          229,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        497,
+        990,
+        537
+      ],
+      "text": "Tương đột thê hoạt kê, như chi như vi, dĩ hiệp",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0078_viet_007",
+      "bbox": [
+        [
+          195,
+          543
+        ],
+        [
+          375,
+          543
+        ],
+        [
+          375,
+          579
+        ],
+        [
+          195,
+          579
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          664
+        ],
+        [
+          375,
+          664
+        ],
+        [
+          375,
+          700
+        ],
+        [
+          195,
+          700
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        543,
+        375,
+        579
+      ],
+      "text": "doanh hồ 2",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0078_viet_008",
+      "bbox": [
+        [
+          250,
+          586
+        ],
+        [
+          990,
+          582
+        ],
+        [
+          990,
+          623
+        ],
+        [
+          250,
+          626
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          707
+        ],
+        [
+          990,
+          703
+        ],
+        [
+          990,
+          744
+        ],
+        [
+          250,
+          747
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        582,
+        990,
+        626
+      ],
+      "text": "hay mềm mại tròn trặn, như mữ như da để cho",
+      "confidence": 0.9093
+    },
+    {
+      "line_id": "0078_viet_009",
+      "bbox": [
+        [
+          252,
+          630
+        ],
+        [
+          403,
+          630
+        ],
+        [
+          403,
+          668
+        ],
+        [
+          252,
+          668
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          751
+        ],
+        [
+          403,
+          751
+        ],
+        [
+          403,
+          789
+        ],
+        [
+          252,
+          789
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        630,
+        403,
+        668
+      ],
+      "text": "trơn cửa ?",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0078_viet_010",
+      "bbox": [
+        [
+          228,
+          745
+        ],
+        [
+          990,
+          745
+        ],
+        [
+          990,
+          785
+        ],
+        [
+          228,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          866
+        ],
+        [
+          990,
+          866
+        ],
+        [
+          990,
+          906
+        ],
+        [
+          228,
+          906
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        745,
+        990,
+        785
+      ],
+      "text": "Ninh ngang ngang nhược thiên lý chi câu hồ",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0078_viet_011",
+      "bbox": [
+        [
+          250,
+          788
+        ],
+        [
+          798,
+          790
+        ],
+        [
+          798,
+          829
+        ],
+        [
+          250,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          909
+        ],
+        [
+          798,
+          911
+        ],
+        [
+          798,
+          950
+        ],
+        [
+          250,
+          948
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        788,
+        798,
+        829
+      ],
+      "text": "nên tự đắc như ngựa chạy ngàn dặm",
+      "confidence": 0.9366
+    },
+    {
+      "line_id": "0078_viet_012",
+      "bbox": [
+        [
+          227,
+          901
+        ],
+        [
+          988,
+          900
+        ],
+        [
+          988,
+          940
+        ],
+        [
+          227,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1022
+        ],
+        [
+          988,
+          1021
+        ],
+        [
+          988,
+          1061
+        ],
+        [
+          227,
+          1062
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        900,
+        988,
+        941
+      ],
+      "text": "tương phiẽm phiêm nhược thủy trung chi phù,",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0078_viet_013",
+      "bbox": [
+        [
+          250,
+          944
+        ],
+        [
+          919,
+          943
+        ],
+        [
+          919,
+          980
+        ],
+        [
+          250,
+          981
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1065
+        ],
+        [
+          919,
+          1064
+        ],
+        [
+          919,
+          1101
+        ],
+        [
+          250,
+          1102
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        943,
+        919,
+        981
+      ],
+      "text": "hay nên lênh đênh như chim le ở dưới nước",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0078_viet_014",
+      "bbox": [
+        [
+          229,
+          1056
+        ],
+        [
+          957,
+          1055
+        ],
+        [
+          957,
+          1093
+        ],
+        [
+          229,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1177
+        ],
+        [
+          957,
+          1176
+        ],
+        [
+          957,
+          1214
+        ],
+        [
+          229,
+          1215
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1055,
+        957,
+        1094
+      ],
+      "text": "dữ ba thướng há, thâu dĩ toàn ngô khu hồ ?",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0078_viet_015",
+      "bbox": [
+        [
+          253,
+          1101
+        ],
+        [
+          868,
+          1101
+        ],
+        [
+          868,
+          1138
+        ],
+        [
+          253,
+          1138
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1222
+        ],
+        [
+          868,
+          1222
+        ],
+        [
+          868,
+          1259
+        ],
+        [
+          253,
+          1259
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1101,
+        868,
+        1138
+      ],
+      "text": "theo sóng nổi chìm, để giữ thân cho vẹn",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0078_viet_016",
+      "bbox": [
+        [
+          230,
+          1211
+        ],
+        [
+          733,
+          1210
+        ],
+        [
+          733,
+          1248
+        ],
+        [
+          230,
+          1249
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1332
+        ],
+        [
+          733,
+          1331
+        ],
+        [
+          733,
+          1369
+        ],
+        [
+          230,
+          1370
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1210,
+        733,
+        1249
+      ],
+      "text": "Ninh dữ ký ký kháng ách hồ",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0078_viet_017",
+      "bbox": [
+        [
+          248,
+          1256
+        ],
+        [
+          873,
+          1253
+        ],
+        [
+          873,
+          1295
+        ],
+        [
+          248,
+          1297
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1377
+        ],
+        [
+          873,
+          1374
+        ],
+        [
+          873,
+          1416
+        ],
+        [
+          248,
+          1418
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1253,
+        873,
+        1297
+      ],
+      "text": "nên cùng ngựa kỳ ngựa ký lộn ách chăng",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0078_viet_018",
+      "bbox": [
+        [
+          228,
+          1371
+        ],
+        [
+          737,
+          1368
+        ],
+        [
+          738,
+          1406
+        ],
+        [
+          228,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1492
+        ],
+        [
+          737,
+          1489
+        ],
+        [
+          738,
+          1527
+        ],
+        [
+          228,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1368,
+        738,
+        1409
+      ],
+      "text": "Tương tùy nô mã chi tích hồ ?",
+      "confidence": 0.9313
+    },
+    {
+      "line_id": "0078_viet_019",
+      "bbox": [
+        [
+          250,
+          1416
+        ],
+        [
+          702,
+          1414
+        ],
+        [
+          702,
+          1452
+        ],
+        [
+          250,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1537
+        ],
+        [
+          702,
+          1535
+        ],
+        [
+          702,
+          1573
+        ],
+        [
+          250,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1414,
+        702,
+        1454
+      ],
+      "text": "hay theo dầu chân ngựa xầu ?",
+      "confidence": 0.9205
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "dĩ sự phụ nhân hô ?",
+      "Ninh liêm khiết chính trực dĩ tự thanh hồ",
+      "Tương đột thê hoạt kê, như chi như vi, dĩ hiệp",
+      "Ninh ngang ngang nhược thiên lý chi câu hồ",
+      "tương phiẽm phiêm nhược thủy trung chi phù,",
+      "dữ ba thướng há, thâu dĩ toàn ngô khu hồ ?",
+      "Ninh dữ ký ký kháng ách hồ",
+      "Tương tùy nô mã chi tích hồ ?"
+    ],
+    "dich_nghia_lines": [
+      "để phụng-sự đàn bà ?",
+      "nên thanh liêm ngay thắng đề giữ trong sạch",
+      "doanh hồ 2 hay mềm mại tròn trặn, như mữ như da để cho trơn cửa ?",
+      "nên tự đắc như ngựa chạy ngàn dặm",
+      "hay nên lênh đênh như chim le ở dưới nước",
+      "theo sóng nổi chìm, để giữ thân cho vẹn",
+      "nên cùng ngựa kỳ ngựa ký lộn ách chăng",
+      "hay theo dầu chân ngựa xầu ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "以事婦人乎",
+        "phien_am": "dĩ sự phụ nhân hô ?",
+        "dich_nghia_gloss": "để phụng-sự đàn bà ?"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "寧廉潔正直以自清乎",
+        "phien_am": "Ninh liêm khiết chính trực dĩ tự thanh hồ",
+        "dich_nghia_gloss": "nên thanh liêm ngay thắng đề giữ trong sạch"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "將突梯滑稽如脂如韋以潔楹乎",
+        "phien_am": "Tương đột thê hoạt kê, như chi như vi, dĩ hiệp",
+        "dich_nghia_gloss": "doanh hồ 2 hay mềm mại tròn trặn, như mữ như da để cho trơn cửa ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "寧昴昴若千里之駒乎",
+        "phien_am": "Ninh ngang ngang nhược thiên lý chi câu hồ",
+        "dich_nghia_gloss": "nên tự đắc như ngựa chạy ngàn dặm"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "將汜汜若水中之鳧",
+        "phien_am": "tương phiẽm phiêm nhược thủy trung chi phù,",
+        "dich_nghia_gloss": "hay nên lênh đênh như chim le ở dưới nước"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "與波上下偷以全吾軀乎",
+        "phien_am": "dữ ba thướng há, thâu dĩ toàn ngô khu hồ ?",
+        "dich_nghia_gloss": "theo sóng nổi chìm, để giữ thân cho vẹn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "寧與騏騏亢軛乎",
+        "phien_am": "Ninh dữ ký ký kháng ách hồ",
+        "dich_nghia_gloss": "nên cùng ngựa kỳ ngựa ký lộn ách chăng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將隨駑馬之迹乎",
+        "phien_am": "Tương tùy nô mã chi tích hồ ?",
+        "dich_nghia_gloss": "hay theo dầu chân ngựa xầu ?"
+      }
+    ]
+  }
+}

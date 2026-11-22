@@ -1,0 +1,940 @@
+{
+  "page_id": "0046",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 46,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0046_viet_000",
+      "bbox": [
+        [
+          193,
+          28
+        ],
+        [
+          238,
+          28
+        ],
+        [
+          238,
+          67
+        ],
+        [
+          193,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          149
+        ],
+        [
+          238,
+          149
+        ],
+        [
+          238,
+          188
+        ],
+        [
+          193,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        28,
+        238,
+        67
+      ],
+      "text": "40",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0046_viet_001",
+      "bbox": [
+        [
+          665,
+          28
+        ],
+        [
+          992,
+          28
+        ],
+        [
+          992,
+          62
+        ],
+        [
+          665,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          149
+        ],
+        [
+          992,
+          149
+        ],
+        [
+          992,
+          183
+        ],
+        [
+          665,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        28,
+        992,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0046_viet_002",
+      "bbox": [
+        [
+          197,
+          186
+        ],
+        [
+          856,
+          185
+        ],
+        [
+          856,
+          223
+        ],
+        [
+          197,
+          224
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          307
+        ],
+        [
+          856,
+          306
+        ],
+        [
+          856,
+          344
+        ],
+        [
+          197,
+          345
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        185,
+        856,
+        224
+      ],
+      "text": "ngũ thập bộ nhi tiểu thái giả tử bất xá",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0046_viet_003",
+      "bbox": [
+        [
+          222,
+          229
+        ],
+        [
+          809,
+          233
+        ],
+        [
+          809,
+          271
+        ],
+        [
+          222,
+          267
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          350
+        ],
+        [
+          809,
+          354
+        ],
+        [
+          809,
+          392
+        ],
+        [
+          222,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        229,
+        809,
+        271
+      ],
+      "text": "50 bước mà đồn củi thì giết không tha.",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0046_viet_004",
+      "bbox": [
+        [
+          196,
+          354
+        ],
+        [
+          934,
+          354
+        ],
+        [
+          934,
+          395
+        ],
+        [
+          196,
+          395
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          475
+        ],
+        [
+          934,
+          475
+        ],
+        [
+          934,
+          516
+        ],
+        [
+          196,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        354,
+        934,
+        395
+      ],
+      "text": "Lệnh viết: hữu năng đắc Tề-vương đầu giả,",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0046_viet_005",
+      "bbox": [
+        [
+          223,
+          399
+        ],
+        [
+          787,
+          402
+        ],
+        [
+          787,
+          440
+        ],
+        [
+          223,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          520
+        ],
+        [
+          787,
+          523
+        ],
+        [
+          787,
+          561
+        ],
+        [
+          223,
+          558
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        399,
+        787,
+        440
+      ],
+      "text": "Lệnh nói: ai lầy được đầu Tề-vương",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0046_viet_006",
+      "bbox": [
+        [
+          197,
+          525
+        ],
+        [
+          766,
+          523
+        ],
+        [
+          767,
+          561
+        ],
+        [
+          197,
+          563
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          646
+        ],
+        [
+          766,
+          644
+        ],
+        [
+          767,
+          682
+        ],
+        [
+          197,
+          684
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        523,
+        767,
+        563
+      ],
+      "text": "phong vạn-hộ-hầu, tứ kim thiên dật",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0046_viet_007",
+      "bbox": [
+        [
+          223,
+          569
+        ],
+        [
+          914,
+          569
+        ],
+        [
+          914,
+          610
+        ],
+        [
+          223,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          690
+        ],
+        [
+          914,
+          690
+        ],
+        [
+          914,
+          731
+        ],
+        [
+          223,
+          731
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        569,
+        914,
+        610
+      ],
+      "text": "được phong vạn-hộ-hầu, thưởng ngàn dật vàng",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0046_viet_008",
+      "bbox": [
+        [
+          196,
+          692
+        ],
+        [
+          809,
+          692
+        ],
+        [
+          809,
+          732
+        ],
+        [
+          196,
+          732
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          813
+        ],
+        [
+          809,
+          813
+        ],
+        [
+          809,
+          853
+        ],
+        [
+          196,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        692,
+        809,
+        732
+      ],
+      "text": "Do thị quan chi: sinh vương chi đầu",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0046_viet_009",
+      "bbox": [
+        [
+          220,
+          735
+        ],
+        [
+          602,
+          738
+        ],
+        [
+          602,
+          778
+        ],
+        [
+          220,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          856
+        ],
+        [
+          602,
+          859
+        ],
+        [
+          602,
+          899
+        ],
+        [
+          220,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        735,
+        602,
+        778
+      ],
+      "text": "xem thể thì đầu vua sông",
+      "confidence": 0.9182
+    },
+    {
+      "line_id": "0046_viet_010",
+      "bbox": [
+        [
+          196,
+          862
+        ],
+        [
+          745,
+          862
+        ],
+        [
+          745,
+          899
+        ],
+        [
+          196,
+          899
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          983
+        ],
+        [
+          745,
+          983
+        ],
+        [
+          745,
+          1020
+        ],
+        [
+          196,
+          1020
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        862,
+        745,
+        899
+      ],
+      "text": "tăng bất nhược tử-sĩ chi lũng dã.",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0046_viet_011",
+      "bbox": [
+        [
+          222,
+          906
+        ],
+        [
+          705,
+          908
+        ],
+        [
+          705,
+          945
+        ],
+        [
+          222,
+          943
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1027
+        ],
+        [
+          705,
+          1029
+        ],
+        [
+          705,
+          1066
+        ],
+        [
+          222,
+          1064
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        906,
+        705,
+        945
+      ],
+      "text": "có khi không bằng mộ kẻ sĩ vậy",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0046_viet_012",
+      "bbox": [
+        [
+          194,
+          1027
+        ],
+        [
+          642,
+          1027
+        ],
+        [
+          642,
+          1068
+        ],
+        [
+          194,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1148
+        ],
+        [
+          642,
+          1148
+        ],
+        [
+          642,
+          1189
+        ],
+        [
+          194,
+          1189
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1027,
+        642,
+        1068
+      ],
+      "text": "Tuyên-vương viết: Ta hồ",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0046_viet_013",
+      "bbox": [
+        [
+          224,
+          1076
+        ],
+        [
+          650,
+          1076
+        ],
+        [
+          650,
+          1113
+        ],
+        [
+          224,
+          1113
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1197
+        ],
+        [
+          650,
+          1197
+        ],
+        [
+          650,
+          1234
+        ],
+        [
+          224,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1076,
+        650,
+        1113
+      ],
+      "text": "Tuyên-vương nói: Than ôi",
+      "confidence": 0.9051
+    },
+    {
+      "line_id": "0046_viet_014",
+      "bbox": [
+        [
+          194,
+          1198
+        ],
+        [
+          631,
+          1198
+        ],
+        [
+          631,
+          1238
+        ],
+        [
+          194,
+          1238
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1319
+        ],
+        [
+          631,
+          1319
+        ],
+        [
+          631,
+          1359
+        ],
+        [
+          194,
+          1359
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1198,
+        631,
+        1238
+      ],
+      "text": "Quân tử yên khả vụ tai",
+      "confidence": 0.9351
+    },
+    {
+      "line_id": "0046_viet_015",
+      "bbox": [
+        [
+          224,
+          1245
+        ],
+        [
+          752,
+          1245
+        ],
+        [
+          752,
+          1283
+        ],
+        [
+          224,
+          1283
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1366
+        ],
+        [
+          752,
+          1366
+        ],
+        [
+          752,
+          1404
+        ],
+        [
+          224,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1245,
+        752,
+        1283
+      ],
+      "text": "quân tử há có thể khinh được sao",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0046_viet_016",
+      "bbox": [
+        [
+          200,
+          1370
+        ],
+        [
+          647,
+          1370
+        ],
+        [
+          647,
+          1407
+        ],
+        [
+          200,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          1491
+        ],
+        [
+          647,
+          1491
+        ],
+        [
+          647,
+          1528
+        ],
+        [
+          200,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        1370,
+        647,
+        1407
+      ],
+      "text": "Quả nhân tự thủ bệnh nhĩ",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0046_viet_017",
+      "bbox": [
+        [
+          222,
+          1412
+        ],
+        [
+          616,
+          1415
+        ],
+        [
+          616,
+          1453
+        ],
+        [
+          222,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1533
+        ],
+        [
+          616,
+          1536
+        ],
+        [
+          616,
+          1574
+        ],
+        [
+          222,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1412,
+        616,
+        1453
+      ],
+      "text": "Trắm tự mua lỗi này vậy",
+      "confidence": 0.9055
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "ngũ thập bộ nhi tiểu thái giả tử bất xá",
+      "Lệnh viết: hữu năng đắc Tề-vương đầu giả,",
+      "phong vạn-hộ-hầu, tứ kim thiên dật",
+      "Do thị quan chi: sinh vương chi đầu",
+      "tăng bất nhược tử-sĩ chi lũng dã.",
+      "Tuyên-vương viết: Ta hồ",
+      "Quân tử yên khả vụ tai",
+      "Quả nhân tự thủ bệnh nhĩ"
+    ],
+    "dich_nghia_lines": [
+      "50 bước mà đồn củi thì giết không tha.",
+      "Lệnh nói: ai lầy được đầu Tề-vương",
+      "được phong vạn-hộ-hầu, thưởng ngàn dật vàng",
+      "xem thể thì đầu vua sông",
+      "có khi không bằng mộ kẻ sĩ vậy",
+      "Tuyên-vương nói: Than ôi",
+      "quân tử há có thể khinh được sao",
+      "Trắm tự mua lỗi này vậy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "五十步而樵採者死不赦",
+        "phien_am": "ngũ thập bộ nhi tiểu thái giả tử bất xá",
+        "dich_nghia_gloss": "50 bước mà đồn củi thì giết không tha."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "令曰有能得齊王頭者",
+        "phien_am": "Lệnh viết: hữu năng đắc Tề-vương đầu giả,",
+        "dich_nghia_gloss": "Lệnh nói: ai lầy được đầu Tề-vương"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "封萬户侯賜金千鎰",
+        "phien_am": "phong vạn-hộ-hầu, tứ kim thiên dật",
+        "dich_nghia_gloss": "được phong vạn-hộ-hầu, thưởng ngàn dật vàng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "由是觀之生王之頭",
+        "phien_am": "Do thị quan chi: sinh vương chi đầu",
+        "dich_nghia_gloss": "xem thể thì đầu vua sông"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "曾不若死士之壟也",
+        "phien_am": "tăng bất nhược tử-sĩ chi lũng dã.",
+        "dich_nghia_gloss": "có khi không bằng mộ kẻ sĩ vậy"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "宣王曰嗟乎",
+        "phien_am": "Tuyên-vương viết: Ta hồ",
+        "dich_nghia_gloss": "Tuyên-vương nói: Than ôi"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "君子焉可侮哉",
+        "phien_am": "Quân tử yên khả vụ tai",
+        "dich_nghia_gloss": "quân tử há có thể khinh được sao"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "寡人自取病耳",
+        "phien_am": "Quả nhân tự thủ bệnh nhĩ",
+        "dich_nghia_gloss": "Trắm tự mua lỗi này vậy"
+      }
+    ]
+  }
+}

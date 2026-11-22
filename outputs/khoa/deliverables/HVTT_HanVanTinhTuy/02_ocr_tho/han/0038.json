@@ -1,0 +1,243 @@
+{
+  "page_id": "0038",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 38,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0038_han_000",
+      "bbox": [
+        [
+          246,
+          169
+        ],
+        [
+          703,
+          169
+        ],
+        [
+          703,
+          216
+        ],
+        [
+          246,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          290
+        ],
+        [
+          703,
+          290
+        ],
+        [
+          703,
+          337
+        ],
+        [
+          246,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        169,
+        703,
+        216
+      ],
+      "text": "宣子拜稽首焉曰",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0038_han_001",
+      "bbox": [
+        [
+          247,
+          348
+        ],
+        [
+          772,
+          348
+        ],
+        [
+          772,
+          395
+        ],
+        [
+          247,
+          395
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          469
+        ],
+        [
+          772,
+          469
+        ],
+        [
+          772,
+          516
+        ],
+        [
+          247,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        348,
+        772,
+        395
+      ],
+      "text": "起也將亡賴子存之",
+      "confidence": 0.9826
+    },
+    {
+      "line_id": "0038_han_002",
+      "bbox": [
+        [
+          249,
+          524
+        ],
+        [
+          705,
+          522
+        ],
+        [
+          705,
+          569
+        ],
+        [
+          249,
+          572
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          645
+        ],
+        [
+          705,
+          643
+        ],
+        [
+          705,
+          690
+        ],
+        [
+          249,
+          693
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        522,
+        705,
+        572
+      ],
+      "text": "非起也敢惠承之",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0038_han_003",
+      "bbox": [
+        [
+          245,
+          701
+        ],
+        [
+          991,
+          701
+        ],
+        [
+          991,
+          748
+        ],
+        [
+          245,
+          748
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          822
+        ],
+        [
+          991,
+          822
+        ],
+        [
+          991,
+          869
+        ],
+        [
+          245,
+          869
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        701,
+        991,
+        748
+      ],
+      "text": "其自桓叔以下嘉吾子之賜",
+      "confidence": 0.9907
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "宣子拜稽首焉曰",
+      "起也將亡賴子存之",
+      "非起也敢惠承之",
+      "其自桓叔以下嘉吾子之賜"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "宣子拜稽首焉曰",
+        "phien_am": "Tuyên-tử bái khề thủ yên, viẽt",
+        "dich_nghia_gloss": "Tuyên-tử cúi đầu vái, nói"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "起也將亡賴子存之",
+        "phien_am": "Khởi dã tương vong, lại tử tồn chi",
+        "dich_nghia_gloss": "Khởi này sắp suy-sụp, nhờ bác giữ lại"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "非起也敢惠承之",
+        "phien_am": "phi Khởi dã cảm huệ thừa chi",
+        "dich_nghia_gloss": "không phải chỉ khởi này cảm ơn huệ bác mà thôi"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "其自桓叔以下嘉吾子之賜",
+        "phien_am": "kỳ tự Hoàn Thúc dĩ hạ, gia ngô tử chi tứ.",
+        "dich_nghia_gloss": "mà từ hoàn thúc trở xuồng đều chịu ơn bác."
+      }
+    ]
+  }
+}

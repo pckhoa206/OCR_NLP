@@ -1,0 +1,700 @@
+{
+  "page_id": "0176",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 176,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0176_viet_000",
+      "bbox": [
+        [
+          175,
+          3
+        ],
+        [
+          231,
+          3
+        ],
+        [
+          231,
+          44
+        ],
+        [
+          175,
+          44
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          158
+        ],
+        [
+          231,
+          158
+        ],
+        [
+          231,
+          199
+        ],
+        [
+          175,
+          199
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        3,
+        231,
+        44
+      ],
+      "text": "178",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0176_viet_001",
+      "bbox": [
+        [
+          613,
+          2
+        ],
+        [
+          987,
+          6
+        ],
+        [
+          986,
+          44
+        ],
+        [
+          613,
+          40
+        ]
+      ],
+      "bbox_original": [
+        [
+          613,
+          157
+        ],
+        [
+          987,
+          161
+        ],
+        [
+          986,
+          199
+        ],
+        [
+          613,
+          195
+        ]
+      ],
+      "box_xyxy": [
+        613,
+        2,
+        987,
+        44
+      ],
+      "text": "THƠ VĂN LÝ TRẦN (II)",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0176_viet_002",
+      "bbox": [
+        [
+          181,
+          120
+        ],
+        [
+          1412,
+          127
+        ],
+        [
+          1412,
+          167
+        ],
+        [
+          181,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          275
+        ],
+        [
+          1412,
+          282
+        ],
+        [
+          1412,
+          322
+        ],
+        [
+          181,
+          316
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        120,
+        1412,
+        167
+      ],
+      "text": "(6) Chía liên phầm: nguyên văn là cửu phầm, thuật ngữ đạo Phật, tên đầy đá là cửu phầm",
+      "confidence": 0.8995
+    },
+    {
+      "line_id": "0176_viet_003",
+      "bbox": [
+        [
+          244,
+          161
+        ],
+        [
+          1409,
+          169
+        ],
+        [
+          1409,
+          202
+        ],
+        [
+          243,
+          194
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          316
+        ],
+        [
+          1409,
+          324
+        ],
+        [
+          1409,
+          357
+        ],
+        [
+          243,
+          349
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        161,
+        1409,
+        202
+      ],
+      "text": "văng sinh, có nghĩa là chín bậc văng sinh của chúng sinh, được tượng trưng bằng chia",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0176_viet_004",
+      "bbox": [
+        [
+          245,
+          198
+        ],
+        [
+          1409,
+          205
+        ],
+        [
+          1409,
+          238
+        ],
+        [
+          244,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          353
+        ],
+        [
+          1409,
+          360
+        ],
+        [
+          1409,
+          393
+        ],
+        [
+          244,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        198,
+        1409,
+        238
+      ],
+      "text": "tầng hoa sen, Theo giáo lý của đạo Phật, chúng sinh muốn tới được cồi Tịnh độ (miền",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0176_viet_005",
+      "bbox": [
+        [
+          245,
+          234
+        ],
+        [
+          1408,
+          242
+        ],
+        [
+          1408,
+          276
+        ],
+        [
+          244,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          389
+        ],
+        [
+          1408,
+          397
+        ],
+        [
+          1408,
+          431
+        ],
+        [
+          244,
+          423
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        234,
+        1408,
+        276
+      ],
+      "text": "đất trong sạch, đứt hết mọi phiền não) của Phật A Đị Đà thì tủy theo sự giác ngộ,",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0176_viet_006",
+      "bbox": [
+        [
+          246,
+          274
+        ],
+        [
+          1181,
+          278
+        ],
+        [
+          1180,
+          309
+        ],
+        [
+          245,
+          305
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          429
+        ],
+        [
+          1181,
+          433
+        ],
+        [
+          1180,
+          464
+        ],
+        [
+          245,
+          460
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        274,
+        1181,
+        309
+      ],
+      "text": "tu trì của mình mà được văng sinh ở một trong chín bậc hoa sen đó.",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0176_viet_007",
+      "bbox": [
+        [
+          184,
+          319
+        ],
+        [
+          990,
+          320
+        ],
+        [
+          990,
+          355
+        ],
+        [
+          184,
+          354
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          474
+        ],
+        [
+          990,
+          475
+        ],
+        [
+          990,
+          510
+        ],
+        [
+          184,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        319,
+        990,
+        355
+      ],
+      "text": "(7) Dao-đài: theo truyền thuyết đó là nợi ở của thần tiên.",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0176_viet_008",
+      "bbox": [
+        [
+          184,
+          366
+        ],
+        [
+          1409,
+          371
+        ],
+        [
+          1409,
+          406
+        ],
+        [
+          184,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          521
+        ],
+        [
+          1409,
+          526
+        ],
+        [
+          1409,
+          561
+        ],
+        [
+          184,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        366,
+        1409,
+        406
+      ],
+      "text": "(8): Lậu : đồng hò;, người xưa đựng nước vào trong bình có khắc từng ngấn và có lỗ cho",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0176_viet_009",
+      "bbox": [
+        [
+          243,
+          405
+        ],
+        [
+          1273,
+          409
+        ],
+        [
+          1273,
+          443
+        ],
+        [
+          242,
+          439
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          560
+        ],
+        [
+          1273,
+          564
+        ],
+        [
+          1273,
+          598
+        ],
+        [
+          242,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        405,
+        1273,
+        443
+      ],
+      "text": "nước giỏ giọt đều điều, Nhìn ngấn nước trong bình: thì biết được thời gian.",
+      "confidence": 0.9002
+    },
+    {
+      "line_id": "0176_viet_010",
+      "bbox": [
+        [
+          183,
+          451
+        ],
+        [
+          1408,
+          456
+        ],
+        [
+          1408,
+          490
+        ],
+        [
+          183,
+          485
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          606
+        ],
+        [
+          1408,
+          611
+        ],
+        [
+          1408,
+          645
+        ],
+        [
+          183,
+          640
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        451,
+        1408,
+        490
+      ],
+      "text": "(9) Thùng tối (tất thống): theo quan niệm của đạo Phật, thàn thề con người chỉ gồm tử đại,",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0176_viet_011",
+      "bbox": [
+        [
+          244,
+          489
+        ],
+        [
+          1406,
+          495
+        ],
+        [
+          1406,
+          526
+        ],
+        [
+          243,
+          520
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          644
+        ],
+        [
+          1406,
+          650
+        ],
+        [
+          1406,
+          681
+        ],
+        [
+          243,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        489,
+        1406,
+        526
+      ],
+      "text": "không trong sạch, Trần Cảnh nhiều làn nói còn người ía chỉ là một tài đa thối, một",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0176_viet_012",
+      "bbox": [
+        [
+          245,
+          526
+        ],
+        [
+          1056,
+          530
+        ],
+        [
+          1056,
+          561
+        ],
+        [
+          244,
+          557
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          681
+        ],
+        [
+          1056,
+          685
+        ],
+        [
+          1056,
+          716
+        ],
+        [
+          244,
+          712
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        526,
+        1056,
+        561
+      ],
+      "text": "bao máu mủ, nhớp nhơ, hình tượng này cũng diễn tả y ấy.",
+      "confidence": 0.9057
+    },
+    {
+      "line_id": "0176_viet_013",
+      "bbox": [
+        [
+          767,
+          777
+        ],
+        [
+          832,
+          777
+        ],
+        [
+          832,
+          836
+        ],
+        [
+          767,
+          836
+        ]
+      ],
+      "bbox_original": [
+        [
+          767,
+          932
+        ],
+        [
+          832,
+          932
+        ],
+        [
+          832,
+          991
+        ],
+        [
+          767,
+          991
+        ]
+      ],
+      "box_xyxy": [
+        767,
+        777,
+        832,
+        836
+      ],
+      "text": "36",
+      "confidence": 0.9318
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "178",
+      "THƠ VĂN LÝ TRẦN (II)",
+      "(6) Chía liên phầm: nguyên văn là cửu phầm, thuật ngữ đạo Phật, tên đầy đá là cửu phầm",
+      "văng sinh, có nghĩa là chín bậc văng sinh của chúng sinh, được tượng trưng bằng chia",
+      "tầng hoa sen, Theo giáo lý của đạo Phật, chúng sinh muốn tới được cồi Tịnh độ (miền",
+      "đất trong sạch, đứt hết mọi phiền não) của Phật A Đị Đà thì tủy theo sự giác ngộ,",
+      "tu trì của mình mà được văng sinh ở một trong chín bậc hoa sen đó.",
+      "(7) Dao-đài: theo truyền thuyết đó là nợi ở của thần tiên.",
+      "(8): Lậu : đồng hò;, người xưa đựng nước vào trong bình có khắc từng ngấn và có lỗ cho",
+      "nước giỏ giọt đều điều, Nhìn ngấn nước trong bình: thì biết được thời gian.",
+      "(9) Thùng tối (tất thống): theo quan niệm của đạo Phật, thàn thề con người chỉ gồm tử đại,",
+      "không trong sạch, Trần Cảnh nhiều làn nói còn người ía chỉ là một tài đa thối, một",
+      "bao máu mủ, nhớp nhơ, hình tượng này cũng diễn tả y ấy.",
+      "36"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

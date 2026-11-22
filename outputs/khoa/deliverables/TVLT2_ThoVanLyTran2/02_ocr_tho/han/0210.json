@@ -1,0 +1,260 @@
+{
+  "page_id": "0210",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 210,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0210_han_000",
+      "bbox": [
+        [
+          164,
+          685
+        ],
+        [
+          516,
+          691
+        ],
+        [
+          515,
+          728
+        ],
+        [
+          164,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          840
+        ],
+        [
+          516,
+          846
+        ],
+        [
+          515,
+          883
+        ],
+        [
+          164,
+          878
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        685,
+        516,
+        728
+      ],
+      "text": "1° KHL1: suy suy 吹",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0210_han_001",
+      "bbox": [
+        [
+          163,
+          769
+        ],
+        [
+          409,
+          771
+        ],
+        [
+          408,
+          805
+        ],
+        [
+          163,
+          803
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          924
+        ],
+        [
+          409,
+          926
+        ],
+        [
+          408,
+          960
+        ],
+        [
+          163,
+          958
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        769,
+        409,
+        805
+      ],
+      "text": "3* KHL1 : ngó 遇",
+      "confidence": 0.8748
+    },
+    {
+      "line_id": "0210_han_002",
+      "bbox": [
+        [
+          173,
+          1140
+        ],
+        [
+          763,
+          1140
+        ],
+        [
+          763,
+          1186
+        ],
+        [
+          173,
+          1186
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1295
+        ],
+        [
+          763,
+          1295
+        ],
+        [
+          763,
+          1341
+        ],
+        [
+          173,
+          1341
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1140,
+        763,
+        1186
+      ],
+      "text": "(5) Kién cành hóe : cüng goi là giác möng Nam-kha, xuát xú tù Nam-kha ký 南可言 cúa",
+      "confidence": 0.9379
+    },
+    {
+      "line_id": "0210_han_003",
+      "bbox": [
+        [
+          232,
+          1179
+        ],
+        [
+          763,
+          1179
+        ],
+        [
+          763,
+          1221
+        ],
+        [
+          232,
+          1221
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1334
+        ],
+        [
+          763,
+          1334
+        ],
+        [
+          763,
+          1376
+        ],
+        [
+          232,
+          1376
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1179,
+        763,
+        1221
+      ],
+      "text": "Lý Cōng Tá 李公左 doi Đuòng. Bài ky kě truyèn Thuàn Vu Phàn 淳 于粉 ngǔ trura",
+      "confidence": 0.8824
+    },
+    {
+      "line_id": "0210_han_004",
+      "bbox": [
+        [
+          233,
+          1218
+        ],
+        [
+          763,
+          1218
+        ],
+        [
+          763,
+          1258
+        ],
+        [
+          233,
+          1258
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1373
+        ],
+        [
+          763,
+          1373
+        ],
+        [
+          763,
+          1413
+        ],
+        [
+          233,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1218,
+        763,
+        1258
+      ],
+      "text": "drori góc cày hòe, böng năm mo tháy minh dén nróe Đai-hòe-an 大  安 làm Thái thú",
+      "confidence": 0.9288
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

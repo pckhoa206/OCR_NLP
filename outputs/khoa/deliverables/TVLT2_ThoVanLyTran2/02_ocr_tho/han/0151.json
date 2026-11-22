@@ -1,0 +1,638 @@
+{
+  "page_id": "0151",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 151,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0151_han_000",
+      "bbox": [
+        [
+          226,
+          115
+        ],
+        [
+          763,
+          115
+        ],
+        [
+          763,
+          153
+        ],
+        [
+          226,
+          153
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          270
+        ],
+        [
+          763,
+          270
+        ],
+        [
+          763,
+          308
+        ],
+        [
+          226,
+          308
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        115,
+        763,
+        153
+      ],
+      "text": "hu; vò; diéc hiu, dièc vó; phi hu phi vó 有無。亦有 亦 無，非有非無。",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0151_han_001",
+      "bbox": [
+        [
+          224,
+          180
+        ],
+        [
+          763,
+          180
+        ],
+        [
+          763,
+          218
+        ],
+        [
+          224,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          335
+        ],
+        [
+          763,
+          335
+        ],
+        [
+          763,
+          373
+        ],
+        [
+          224,
+          373
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        180,
+        763,
+        218
+      ],
+      "text": "phikhóng有而不空，空而不有，亦有亦空，非有非空",
+      "confidence": 0.9552
+    },
+    {
+      "line_id": "0151_han_002",
+      "bbox": [
+        [
+          163,
+          365
+        ],
+        [
+          763,
+          365
+        ],
+        [
+          763,
+          416
+        ],
+        [
+          163,
+          416
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          520
+        ],
+        [
+          763,
+          520
+        ],
+        [
+          763,
+          571
+        ],
+        [
+          163,
+          571
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        365,
+        763,
+        416
+      ],
+      "text": "(21) Nam Tugèn : tire Thièn su Phō Nguyèn 普 原頁 (748 — 834), què  Trinh-chau. 奠",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0151_han_003",
+      "bbox": [
+        [
+          164,
+          729
+        ],
+        [
+          763,
+          729
+        ],
+        [
+          763,
+          779
+        ],
+        [
+          164,
+          779
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          884
+        ],
+        [
+          763,
+          884
+        ],
+        [
+          763,
+          934
+        ],
+        [
+          164,
+          934
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        729,
+        763,
+        779
+      ],
+      "text": "(25) Tràu bún (nè ngru) : theo Trugèn däng luc 傅 登 象môt hôm Döng Son 洞  höi",
+      "confidence": 0.8765
+    },
+    {
+      "line_id": "0151_han_004",
+      "bbox": [
+        [
+          230,
+          769
+        ],
+        [
+          728,
+          771
+        ],
+        [
+          728,
+          808
+        ],
+        [
+          230,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          924
+        ],
+        [
+          728,
+          926
+        ],
+        [
+          728,
+          963
+        ],
+        [
+          230,
+          961
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        769,
+        728,
+        808
+      ],
+      "text": "Höa thung Long Son 童  rǎng:",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0151_han_005",
+      "bbox": [
+        [
+          229,
+          1144
+        ],
+        [
+          763,
+          1144
+        ],
+        [
+          763,
+          1189
+        ],
+        [
+          229,
+          1189
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1299
+        ],
+        [
+          763,
+          1299
+        ],
+        [
+          763,
+          1344
+        ],
+        [
+          229,
+          1344
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1144,
+        763,
+        1189
+      ],
+      "text": "Hoán 雷 烟 làm chitre lènh  thành Phong  huyèn Dy chrong 象 章thròng",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0151_han_006",
+      "bbox": [
+        [
+          232,
+          1246
+        ],
+        [
+          763,
+          1246
+        ],
+        [
+          763,
+          1286
+        ],
+        [
+          232,
+          1286
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1401
+        ],
+        [
+          763,
+          1401
+        ],
+        [
+          763,
+          1441
+        ],
+        [
+          232,
+          1441
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1246,
+        763,
+        1286
+      ],
+      "text": "kiěm, mot thanh khǎc tèn Long tuyèn  泉 möt thanh khǎc těn Thái a 太 阿",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0151_han_007",
+      "bbox": [
+        [
+          164,
+          1312
+        ],
+        [
+          763,
+          1312
+        ],
+        [
+          763,
+          1368
+        ],
+        [
+          164,
+          1368
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          1467
+        ],
+        [
+          763,
+          1467
+        ],
+        [
+          763,
+          1523
+        ],
+        [
+          164,
+          1523
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        1312,
+        763,
+        1368
+      ],
+      "text": "(28) Vöng-xugén: thugc huyèn Lam-dièn 藍 田, tinh Thièm-tày P夹 西 , la noi rùng núi",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0151_han_008",
+      "bbox": [
+        [
+          231,
+          1363
+        ],
+        [
+          1406,
+          1360
+        ],
+        [
+          1406,
+          1397
+        ],
+        [
+          231,
+          1400
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1518
+        ],
+        [
+          1406,
+          1515
+        ],
+        [
+          1406,
+          1552
+        ],
+        [
+          231,
+          1555
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1360,
+        1406,
+        1400
+      ],
+      "text": "hiēm trǒ nhurng nhièu phong cănh dep. Vuong Duy 王 , mòt nhà tho, dòng thoi",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0151_han_009",
+      "bbox": [
+        [
+          234,
+          1433
+        ],
+        [
+          446,
+          1433
+        ],
+        [
+          446,
+          1471
+        ],
+        [
+          234,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1588
+        ],
+        [
+          446,
+          1588
+        ],
+        [
+          446,
+          1626
+        ],
+        [
+          234,
+          1626
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1433,
+        446,
+        1471
+      ],
+      "text": "dò川",
+      "confidence": 0.701
+    },
+    {
+      "line_id": "0151_han_010",
+      "bbox": [
+        [
+          170,
+          1623
+        ],
+        [
+          1408,
+          1620
+        ],
+        [
+          1408,
+          1660
+        ],
+        [
+          170,
+          1664
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1778
+        ],
+        [
+          1408,
+          1775
+        ],
+        [
+          1408,
+          1815
+        ],
+        [
+          170,
+          1819
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1620,
+        1408,
+        1664
+      ],
+      "text": "(32) Đóng Son: túe Thièn stu Lrong Gioi 良 Mi , thé hè thu tir dòng Thanh nguyên. Ong",
+      "confidence": 0.8863
+    },
+    {
+      "line_id": "0151_han_011",
+      "bbox": [
+        [
+          233,
+          1695
+        ],
+        [
+          763,
+          1695
+        ],
+        [
+          763,
+          1738
+        ],
+        [
+          233,
+          1738
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1850
+        ],
+        [
+          763,
+          1850
+        ],
+        [
+          763,
+          1893
+        ],
+        [
+          233,
+          1893
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1695,
+        763,
+        1738
+      ],
+      "text": "ho Du 俞, nguoi Cöi-kè 會 , vùng dát giáp giòi hai tính Giang-tò 工 và",
+      "confidence": 0.8952
+    },
+    {
+      "line_id": "0151_han_012",
+      "bbox": [
+        [
+          171,
+          1778
+        ],
+        [
+          763,
+          1778
+        ],
+        [
+          763,
+          1821
+        ],
+        [
+          171,
+          1821
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1933
+        ],
+        [
+          763,
+          1933
+        ],
+        [
+          763,
+          1976
+        ],
+        [
+          171,
+          1976
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1778,
+        763,
+        1821
+      ],
+      "text": "(33) Hién Tir: theo Ngù düng hói nguyén 五   元, là möt Hoa throng  phù Kinh",
+      "confidence": 0.8613
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "phikhóng有而不空，空而不有，亦有亦空，非有非空"
+    ],
+    "interlinear_triplets": []
+  }
+}

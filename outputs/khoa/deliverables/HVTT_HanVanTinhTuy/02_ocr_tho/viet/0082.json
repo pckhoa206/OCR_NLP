@@ -1,0 +1,736 @@
+{
+  "page_id": "0082",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 82,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0082_viet_000",
+      "bbox": [
+        [
+          192,
+          71
+        ],
+        [
+          233,
+          71
+        ],
+        [
+          233,
+          107
+        ],
+        [
+          192,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          192
+        ],
+        [
+          233,
+          192
+        ],
+        [
+          233,
+          228
+        ],
+        [
+          192,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        71,
+        233,
+        107
+      ],
+      "text": "76",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0082_viet_001",
+      "bbox": [
+        [
+          663,
+          69
+        ],
+        [
+          990,
+          69
+        ],
+        [
+          990,
+          103
+        ],
+        [
+          663,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          190
+        ],
+        [
+          990,
+          190
+        ],
+        [
+          990,
+          224
+        ],
+        [
+          663,
+          224
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        69,
+        990,
+        103
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0082_viet_002",
+      "bbox": [
+        [
+          227,
+          221
+        ],
+        [
+          883,
+          222
+        ],
+        [
+          883,
+          259
+        ],
+        [
+          227,
+          258
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          342
+        ],
+        [
+          883,
+          343
+        ],
+        [
+          883,
+          380
+        ],
+        [
+          227,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        221,
+        883,
+        259
+      ],
+      "text": "Thiềm-Doãn nãi thích sách nhi tạ viết:",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0082_viet_003",
+      "bbox": [
+        [
+          250,
+          265
+        ],
+        [
+          764,
+          267
+        ],
+        [
+          763,
+          304
+        ],
+        [
+          250,
+          302
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          386
+        ],
+        [
+          764,
+          388
+        ],
+        [
+          763,
+          425
+        ],
+        [
+          250,
+          423
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        265,
+        764,
+        304
+      ],
+      "text": "Thiểm-Doãn thu quẻ lại từ-tạ nói",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0082_viet_004",
+      "bbox": [
+        [
+          230,
+          380
+        ],
+        [
+          987,
+          382
+        ],
+        [
+          987,
+          419
+        ],
+        [
+          230,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          501
+        ],
+        [
+          987,
+          503
+        ],
+        [
+          987,
+          540
+        ],
+        [
+          230,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        380,
+        987,
+        419
+      ],
+      "text": "- Phù xích hữu sở đoàn, thôn hữu sở trường.",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0082_viet_005",
+      "bbox": [
+        [
+          254,
+          426
+        ],
+        [
+          766,
+          426
+        ],
+        [
+          766,
+          463
+        ],
+        [
+          254,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          547
+        ],
+        [
+          766,
+          547
+        ],
+        [
+          766,
+          584
+        ],
+        [
+          254,
+          584
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        426,
+        766,
+        463
+      ],
+      "text": "thước có khi ngắn, tác có khi dài.",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0082_viet_006",
+      "bbox": [
+        [
+          231,
+          540
+        ],
+        [
+          906,
+          540
+        ],
+        [
+          906,
+          578
+        ],
+        [
+          231,
+          578
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          661
+        ],
+        [
+          906,
+          661
+        ],
+        [
+          906,
+          699
+        ],
+        [
+          231,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        540,
+        906,
+        578
+      ],
+      "text": "Vật hữu sở bất túc, trí hữu sở bất minh.",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0082_viet_007",
+      "bbox": [
+        [
+          252,
+          583
+        ],
+        [
+          932,
+          584
+        ],
+        [
+          932,
+          625
+        ],
+        [
+          252,
+          624
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          704
+        ],
+        [
+          932,
+          705
+        ],
+        [
+          932,
+          746
+        ],
+        [
+          252,
+          745
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        583,
+        932,
+        625
+      ],
+      "text": "Vật có thứ không đủ, trí có chỗ không suốt.",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0082_viet_008",
+      "bbox": [
+        [
+          228,
+          697
+        ],
+        [
+          909,
+          700
+        ],
+        [
+          909,
+          738
+        ],
+        [
+          228,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          818
+        ],
+        [
+          909,
+          821
+        ],
+        [
+          909,
+          859
+        ],
+        [
+          228,
+          856
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        697,
+        909,
+        738
+      ],
+      "text": "Sõ hữu sở bất dãi, thần hữu sở bất thông.",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0082_viet_009",
+      "bbox": [
+        [
+          251,
+          740
+        ],
+        [
+          946,
+          744
+        ],
+        [
+          946,
+          785
+        ],
+        [
+          251,
+          781
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          861
+        ],
+        [
+          946,
+          865
+        ],
+        [
+          946,
+          906
+        ],
+        [
+          251,
+          902
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        740,
+        946,
+        785
+      ],
+      "text": "Sô có chỗ không kịp, thần có chỗ không thông.",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0082_viet_010",
+      "bbox": [
+        [
+          232,
+          860
+        ],
+        [
+          856,
+          860
+        ],
+        [
+          856,
+          897
+        ],
+        [
+          232,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          981
+        ],
+        [
+          856,
+          981
+        ],
+        [
+          856,
+          1018
+        ],
+        [
+          232,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        860,
+        856,
+        897
+      ],
+      "text": "Dụng quân chi tâm, hành quân chi ý;",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0082_viet_011",
+      "bbox": [
+        [
+          254,
+          903
+        ],
+        [
+          751,
+          903
+        ],
+        [
+          751,
+          940
+        ],
+        [
+          254,
+          940
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1024
+        ],
+        [
+          751,
+          1024
+        ],
+        [
+          751,
+          1061
+        ],
+        [
+          254,
+          1061
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        903,
+        751,
+        940
+      ],
+      "text": "Làm theo lòng ta, làm theo ý ta",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0082_viet_012",
+      "bbox": [
+        [
+          230,
+          1017
+        ],
+        [
+          793,
+          1014
+        ],
+        [
+          793,
+          1056
+        ],
+        [
+          230,
+          1059
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1138
+        ],
+        [
+          793,
+          1135
+        ],
+        [
+          793,
+          1177
+        ],
+        [
+          230,
+          1180
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1014,
+        793,
+        1059
+      ],
+      "text": "quy sách thành bãt năng tri thứ sị.",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0082_viet_013",
+      "bbox": [
+        [
+          254,
+          1060
+        ],
+        [
+          963,
+          1060
+        ],
+        [
+          963,
+          1100
+        ],
+        [
+          254,
+          1100
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1181
+        ],
+        [
+          963,
+          1181
+        ],
+        [
+          963,
+          1221
+        ],
+        [
+          254,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1060,
+        963,
+        1100
+      ],
+      "text": "Bói toán thật không thể biết được việc ông hỏi",
+      "confidence": 0.9316
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Thiềm-Doãn nãi thích sách nhi tạ viết:",
+      "- Phù xích hữu sở đoàn, thôn hữu sở trường.",
+      "Vật hữu sở bất túc, trí hữu sở bất minh.",
+      "Sõ hữu sở bất dãi, thần hữu sở bất thông.",
+      "Dụng quân chi tâm, hành quân chi ý;",
+      "quy sách thành bãt năng tri thứ sị."
+    ],
+    "dich_nghia_lines": [
+      "Thiểm-Doãn thu quẻ lại từ-tạ nói",
+      "thước có khi ngắn, tác có khi dài.",
+      "Vật có thứ không đủ, trí có chỗ không suốt.",
+      "Sô có chỗ không kịp, thần có chỗ không thông.",
+      "Làm theo lòng ta, làm theo ý ta",
+      "Bói toán thật không thể biết được việc ông hỏi"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "詹尹乃釋筴而謝曰",
+        "phien_am": "Thiềm-Doãn nãi thích sách nhi tạ viết:",
+        "dich_nghia_gloss": "Thiểm-Doãn thu quẻ lại từ-tạ nói"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "夫尺有所短寸有所長",
+        "phien_am": "- Phù xích hữu sở đoàn, thôn hữu sở trường.",
+        "dich_nghia_gloss": "thước có khi ngắn, tác có khi dài."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "物有所不足知有所不明",
+        "phien_am": "Vật hữu sở bất túc, trí hữu sở bất minh.",
+        "dich_nghia_gloss": "Vật có thứ không đủ, trí có chỗ không suốt."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "數有所不逮神有所不通",
+        "phien_am": "Sõ hữu sở bất dãi, thần hữu sở bất thông.",
+        "dich_nghia_gloss": "Sô có chỗ không kịp, thần có chỗ không thông."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "用君之心行君之意",
+        "phien_am": "Dụng quân chi tâm, hành quân chi ý;",
+        "dich_nghia_gloss": "Làm theo lòng ta, làm theo ý ta"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "龜策誠不能知此事",
+        "phien_am": "quy sách thành bãt năng tri thứ sị.",
+        "dich_nghia_gloss": "Bói toán thật không thể biết được việc ông hỏi"
+      }
+    ]
+  }
+}

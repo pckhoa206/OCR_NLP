@@ -1,0 +1,72 @@
+{
+  "page_id": "0186",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 186,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0186_han_000",
+      "bbox": [
+        [
+          177,
+          1215
+        ],
+        [
+          557,
+          1215
+        ],
+        [
+          557,
+          1256
+        ],
+        [
+          177,
+          1256
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1370
+        ],
+        [
+          557,
+          1370
+        ],
+        [
+          557,
+          1411
+        ],
+        [
+          177,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1215,
+        557,
+        1256
+      ],
+      "text": "1° KHL1: mðgiáp 某甲",
+      "confidence": 0.9044
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

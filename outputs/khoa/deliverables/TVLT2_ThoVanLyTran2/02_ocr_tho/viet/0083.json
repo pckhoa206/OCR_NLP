@@ -1,0 +1,2044 @@
+{
+  "page_id": "0083",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 83,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0083_viet_000",
+      "bbox": [
+        [
+          173,
+          75
+        ],
+        [
+          1408,
+          73
+        ],
+        [
+          1408,
+          121
+        ],
+        [
+          173,
+          124
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          230
+        ],
+        [
+          1408,
+          228
+        ],
+        [
+          1408,
+          276
+        ],
+        [
+          173,
+          279
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        73,
+        1408,
+        124
+      ],
+      "text": "gương hiện ảnh, như bóng theo hình. Cho nên thiền sử Vĩnh Gia (?) nói rằng:",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0083_viet_001",
+      "bbox": [
+        [
+          178,
+          117
+        ],
+        [
+          1295,
+          117
+        ],
+        [
+          1295,
+          158
+        ],
+        [
+          178,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          272
+        ],
+        [
+          1295,
+          272
+        ],
+        [
+          1295,
+          313
+        ],
+        [
+          178,
+          313
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        117,
+        1295,
+        158
+      ],
+      "text": "4 Ai chẳng có điều nghĩ, ai chẳng có điều nảy sinh p, là nói về việc đó.",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0083_viet_002",
+      "bbox": [
+        [
+          271,
+          167
+        ],
+        [
+          1410,
+          170
+        ],
+        [
+          1410,
+          210
+        ],
+        [
+          271,
+          207
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          322
+        ],
+        [
+          1410,
+          325
+        ],
+        [
+          1410,
+          365
+        ],
+        [
+          271,
+          362
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        167,
+        1410,
+        210
+      ],
+      "text": "Nay kẻ tu hành muốn khơi dậy ý nghĩ chân chính đề dập tất bai nghiệp (4)",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0083_viet_003",
+      "bbox": [
+        [
+          177,
+          208
+        ],
+        [
+          1413,
+          209
+        ],
+        [
+          1413,
+          249
+        ],
+        [
+          177,
+          248
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          363
+        ],
+        [
+          1413,
+          364
+        ],
+        [
+          1413,
+          404
+        ],
+        [
+          177,
+          403
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        208,
+        1413,
+        249
+      ],
+      "text": "cũng là nhờ công niệm Phật vậy: Niệm Phải đặp tất được ba nghiệp là cơ sao ?",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0083_viet_004",
+      "bbox": [
+        [
+          271,
+          258
+        ],
+        [
+          1412,
+          260
+        ],
+        [
+          1412,
+          301
+        ],
+        [
+          271,
+          299
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          413
+        ],
+        [
+          1412,
+          415
+        ],
+        [
+          1412,
+          456
+        ],
+        [
+          271,
+          454
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        258,
+        1412,
+        301
+      ],
+      "text": "Vi rằng trong lúc niệm phạt thân, thắng ngồi ngay, không làm việc tà,",
+      "confidence": 0.8964
+    },
+    {
+      "line_id": "0083_viet_005",
+      "bbox": [
+        [
+          177,
+          301
+        ],
+        [
+          1413,
+          302
+        ],
+        [
+          1413,
+          343
+        ],
+        [
+          177,
+          342
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          456
+        ],
+        [
+          1413,
+          457
+        ],
+        [
+          1413,
+          498
+        ],
+        [
+          177,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        301,
+        1413,
+        343
+      ],
+      "text": "như vậy là tất được nghiệp thân, Miệng tung lời chản chính, không nói điều",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0083_viet_006",
+      "bbox": [
+        [
+          177,
+          342
+        ],
+        [
+          1413,
+          343
+        ],
+        [
+          1413,
+          388
+        ],
+        [
+          177,
+          386
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          497
+        ],
+        [
+          1413,
+          498
+        ],
+        [
+          1413,
+          543
+        ],
+        [
+          177,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        342,
+        1413,
+        388
+      ],
+      "text": "xẳng hây, thể là tắt được nghiệp miệng, Y chăm chú ở sự tinh tiến, không này",
+      "confidence": 0.8873
+    },
+    {
+      "line_id": "0083_viet_007",
+      "bbox": [
+        [
+          175,
+          384
+        ],
+        [
+          1413,
+          387
+        ],
+        [
+          1413,
+          430
+        ],
+        [
+          175,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          539
+        ],
+        [
+          1413,
+          542
+        ],
+        [
+          1413,
+          585
+        ],
+        [
+          175,
+          583
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        384,
+        1413,
+        430
+      ],
+      "text": "sinh ý nghĩ tà, thế là tất được nghiệp y: Nhưng kẻ trí có ba hạng. Bắc thượng",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0083_viet_008",
+      "bbox": [
+        [
+          176,
+          429
+        ],
+        [
+          1412,
+          430
+        ],
+        [
+          1412,
+          471
+        ],
+        [
+          176,
+          470
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          584
+        ],
+        [
+          1412,
+          585
+        ],
+        [
+          1412,
+          626
+        ],
+        [
+          176,
+          625
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        429,
+        1412,
+        471
+      ],
+      "text": "trí thì tâm tức Phặt, không phải nhờ thêm sự tư hành: Y nghĩ là bui trần không",
+      "confidence": 0.9033
+    },
+    {
+      "line_id": "0083_viet_009",
+      "bbox": [
+        [
+          178,
+          473
+        ],
+        [
+          1413,
+          473
+        ],
+        [
+          1413,
+          513
+        ],
+        [
+          178,
+          513
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          628
+        ],
+        [
+          1413,
+          628
+        ],
+        [
+          1413,
+          668
+        ],
+        [
+          178,
+          668
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        473,
+        1413,
+        513
+      ],
+      "text": "vường một mảy, Y nghĩ bui trần vốn lịnh, cho nên nói - Như nhữ (?): không",
+      "confidence": 0.8877
+    },
+    {
+      "line_id": "0083_viet_010",
+      "bbox": [
+        [
+          177,
+          514
+        ],
+        [
+          1409,
+          515
+        ],
+        [
+          1409,
+          556
+        ],
+        [
+          177,
+          555
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          669
+        ],
+        [
+          1409,
+          670
+        ],
+        [
+          1409,
+          711
+        ],
+        [
+          177,
+          710
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        514,
+        1409,
+        556
+      ],
+      "text": "động tức là thàn Phật . Thân Phật tức là thần ta, không có bai tướng (?).",
+      "confidence": 0.8906
+    },
+    {
+      "line_id": "0083_viet_011",
+      "bbox": [
+        [
+          176,
+          559
+        ],
+        [
+          1412,
+          559
+        ],
+        [
+          1412,
+          599
+        ],
+        [
+          176,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          714
+        ],
+        [
+          1412,
+          714
+        ],
+        [
+          1412,
+          754
+        ],
+        [
+          176,
+          754
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        559,
+        1412,
+        599
+      ],
+      "text": "Tướng và tướng không phải là bại. lăng lễ tòn tại hằng thường, Tôn tại má",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0083_viet_012",
+      "bbox": [
+        [
+          178,
+          598
+        ],
+        [
+          625,
+          600
+        ],
+        [
+          625,
+          642
+        ],
+        [
+          178,
+          639
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          753
+        ],
+        [
+          625,
+          755
+        ],
+        [
+          625,
+          797
+        ],
+        [
+          178,
+          794
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        598,
+        625,
+        642
+      ],
+      "text": "không biết, đó là Phật sống.",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0083_viet_013",
+      "bbox": [
+        [
+          272,
+          653
+        ],
+        [
+          1409,
+          653
+        ],
+        [
+          1409,
+          693
+        ],
+        [
+          272,
+          693
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          808
+        ],
+        [
+          1409,
+          808
+        ],
+        [
+          1409,
+          848
+        ],
+        [
+          272,
+          848
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        653,
+        1409,
+        693
+      ],
+      "text": "Bậc trung trí ất nhờ vào miệm Phật, Chủ y tỉnh cần, Tuôn luôn niệm mà",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0083_viet_014",
+      "bbox": [
+        [
+          171,
+          697
+        ],
+        [
+          1413,
+          696
+        ],
+        [
+          1413,
+          737
+        ],
+        [
+          171,
+          738
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          852
+        ],
+        [
+          1413,
+          851
+        ],
+        [
+          1413,
+          892
+        ],
+        [
+          171,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        696,
+        1413,
+        738
+      ],
+      "text": "- không quên thì làm minh ất tự thuần thiện, Ý nghĩ thiện đã biện ra thì ý nghĩ",
+      "confidence": 0.9012
+    },
+    {
+      "line_id": "0083_viet_015",
+      "bbox": [
+        [
+          176,
+          740
+        ],
+        [
+          1413,
+          739
+        ],
+        [
+          1413,
+          780
+        ],
+        [
+          176,
+          781
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          895
+        ],
+        [
+          1413,
+          894
+        ],
+        [
+          1413,
+          935
+        ],
+        [
+          176,
+          936
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        739,
+        1413,
+        781
+      ],
+      "text": "ác sẽ bị tiêu tan; ý nghĩ ác đã bị tiểu tan thì chỉ còn ý nghĩ thiện. Dung ý nghĩ",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0083_viet_016",
+      "bbox": [
+        [
+          177,
+          783
+        ],
+        [
+          1416,
+          781
+        ],
+        [
+          1416,
+          822
+        ],
+        [
+          177,
+          824
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          938
+        ],
+        [
+          1416,
+          936
+        ],
+        [
+          1416,
+          977
+        ],
+        [
+          177,
+          979
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        781,
+        1416,
+        824
+      ],
+      "text": "mà ý thức về ý nghĩ thị mọi ý nghỉ đều bị diệt bết. Khi ý nghĩ đã bị tiêu diệt",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0083_viet_017",
+      "bbox": [
+        [
+          177,
+          824
+        ],
+        [
+          1415,
+          825
+        ],
+        [
+          1415,
+          866
+        ],
+        [
+          177,
+          865
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          979
+        ],
+        [
+          1415,
+          980
+        ],
+        [
+          1415,
+          1021
+        ],
+        [
+          177,
+          1020
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        824,
+        1415,
+        866
+      ],
+      "text": "ất, trở yề chính đạo; lúc mệnh hết qua đời sẽ được niêm vui côi niết-bản (?).",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0083_viet_018",
+      "bbox": [
+        [
+          178,
+          867
+        ],
+        [
+          844,
+          869
+        ],
+        [
+          844,
+          910
+        ],
+        [
+          178,
+          907
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1022
+        ],
+        [
+          844,
+          1024
+        ],
+        [
+          844,
+          1065
+        ],
+        [
+          178,
+          1062
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        867,
+        844,
+        910
+      ],
+      "text": "- Thường lạc ngã tịnh - () là đạo của Phật.",
+      "confidence": 0.8725
+    },
+    {
+      "line_id": "0083_viet_019",
+      "bbox": [
+        [
+          271,
+          921
+        ],
+        [
+          1413,
+          923
+        ],
+        [
+          1413,
+          964
+        ],
+        [
+          271,
+          962
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          1076
+        ],
+        [
+          1413,
+          1078
+        ],
+        [
+          1413,
+          1119
+        ],
+        [
+          271,
+          1117
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        921,
+        1413,
+        964
+      ],
+      "text": "Kẻ hạ trí miệng chuyên cần niệm lời phải, lòng mong thấy hình tướng",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0083_viet_020",
+      "bbox": [
+        [
+          177,
+          961
+        ],
+        [
+          1415,
+          962
+        ],
+        [
+          1415,
+          1003
+        ],
+        [
+          177,
+          1002
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1116
+        ],
+        [
+          1415,
+          1117
+        ],
+        [
+          1415,
+          1158
+        ],
+        [
+          177,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        961,
+        1415,
+        1003
+      ],
+      "text": "Phật, thân nguyễn sinh ở nước Phật, ngày, đêm tu bành chăm chi, không thoái",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0083_viet_021",
+      "bbox": [
+        [
+          176,
+          1000
+        ],
+        [
+          1416,
+          1001
+        ],
+        [
+          1416,
+          1042
+        ],
+        [
+          176,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1155
+        ],
+        [
+          1416,
+          1156
+        ],
+        [
+          1416,
+          1197
+        ],
+        [
+          176,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1000,
+        1416,
+        1042
+      ],
+      "text": "chỉ thay đổi, như vậy đến khi mệnh hết qua đời sẽ theo ý nghĩ thiện mà",
+      "confidence": 0.9061
+    },
+    {
+      "line_id": "0083_viet_022",
+      "bbox": [
+        [
+          176,
+          1039
+        ],
+        [
+          1416,
+          1040
+        ],
+        [
+          1416,
+          1081
+        ],
+        [
+          176,
+          1080
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1194
+        ],
+        [
+          1416,
+          1195
+        ],
+        [
+          1416,
+          1236
+        ],
+        [
+          176,
+          1235
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1039,
+        1416,
+        1081
+      ],
+      "text": "được sinh ở niước Phật; sau đó lĩnh hội được chính pháp mà chư Phật nêu",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0083_viet_023",
+      "bbox": [
+        [
+          175,
+          1078
+        ],
+        [
+          951,
+          1080
+        ],
+        [
+          951,
+          1120
+        ],
+        [
+          175,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1233
+        ],
+        [
+          951,
+          1235
+        ],
+        [
+          951,
+          1275
+        ],
+        [
+          175,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1078,
+        951,
+        1120
+      ],
+      "text": "ra và chứng được bồ-đề (o) cũng được Phật quả.",
+      "confidence": 0.8838
+    },
+    {
+      "line_id": "0083_viet_024",
+      "bbox": [
+        [
+          268,
+          1130
+        ],
+        [
+          1414,
+          1131
+        ],
+        [
+          1414,
+          1175
+        ],
+        [
+          268,
+          1174
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1285
+        ],
+        [
+          1414,
+          1286
+        ],
+        [
+          1414,
+          1330
+        ],
+        [
+          268,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1130,
+        1414,
+        1175
+      ],
+      "text": "Bạ hạng tri ấy giác ngộ nông sàu khác nhau nhưng cái nhận-được là",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0083_viet_025",
+      "bbox": [
+        [
+          176,
+          1175
+        ],
+        [
+          1411,
+          1177
+        ],
+        [
+          1411,
+          1217
+        ],
+        [
+          176,
+          1215
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1330
+        ],
+        [
+          1411,
+          1332
+        ],
+        [
+          1411,
+          1372
+        ],
+        [
+          176,
+          1370
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1175,
+        1411,
+        1217
+      ],
+      "text": "một, Nhưng bậc thượng trí nói thì dề, làm thì khó, Đời nay kẻ mnốn: theo: mà",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0083_viet_026",
+      "bbox": [
+        [
+          175,
+          1217
+        ],
+        [
+          1412,
+          1218
+        ],
+        [
+          1412,
+          1259
+        ],
+        [
+          175,
+          1258
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1372
+        ],
+        [
+          1412,
+          1373
+        ],
+        [
+          1412,
+          1414
+        ],
+        [
+          175,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1217,
+        1412,
+        1259
+      ],
+      "text": "học, vì không có thang bậc nâng đỡ nên hàu hết chỉ: nhìn bờ rồi, thoái lui,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0083_viet_027",
+      "bbox": [
+        [
+          174,
+          1259
+        ],
+        [
+          1413,
+          1260
+        ],
+        [
+          1413,
+          1301
+        ],
+        [
+          174,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1414
+        ],
+        [
+          1413,
+          1415
+        ],
+        [
+          1413,
+          1456
+        ],
+        [
+          174,
+          1455
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1259,
+        1413,
+        1301
+      ],
+      "text": "không đặt chân tới được. Bậc trung trí nếu có thể chăm chỉ tu bành như đã",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0083_viet_028",
+      "bbox": [
+        [
+          174,
+          1300
+        ],
+        [
+          1413,
+          1302
+        ],
+        [
+          1413,
+          1345
+        ],
+        [
+          174,
+          1343
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1455
+        ],
+        [
+          1413,
+          1457
+        ],
+        [
+          1413,
+          1500
+        ],
+        [
+          174,
+          1498
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1300,
+        1413,
+        1345
+      ],
+      "text": "nói ở trên thì lập tức thành Phật, Nhược hằng chựa giác ngộ hoàn toàn, đã",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0083_viet_029",
+      "bbox": [
+        [
+          171,
+          1342
+        ],
+        [
+          1413,
+          1345
+        ],
+        [
+          1413,
+          1389
+        ],
+        [
+          171,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1497
+        ],
+        [
+          1413,
+          1500
+        ],
+        [
+          1413,
+          1544
+        ],
+        [
+          171,
+          1541
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1342,
+        1413,
+        1389
+      ],
+      "text": "chết thì tùy theo nhân quả (1%) mà sinh trở lại, trên đời đề - nhân nghiệp thiện",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0083_viet_030",
+      "bbox": [
+        [
+          175,
+          1386
+        ],
+        [
+          1413,
+          1389
+        ],
+        [
+          1413,
+          1430
+        ],
+        [
+          175,
+          1427
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1541
+        ],
+        [
+          1413,
+          1544
+        ],
+        [
+          1413,
+          1585
+        ],
+        [
+          175,
+          1582
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1386,
+        1413,
+        1430
+      ],
+      "text": "báo ứng, Khi thiện bảo đã hết, nếu không có người cảnh: tỉnh, lại sẽ rời vào",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0083_viet_031",
+      "bbox": [
+        [
+          175,
+          1430
+        ],
+        [
+          1412,
+          1433
+        ],
+        [
+          1412,
+          1473
+        ],
+        [
+          175,
+          1470
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1585
+        ],
+        [
+          1412,
+          1588
+        ],
+        [
+          1412,
+          1628
+        ],
+        [
+          175,
+          1625
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1430,
+        1412,
+        1473
+      ],
+      "text": "xu hướng ác. Những người như thể thì cũng khó đắc đạo vậy. Kê hại trí lấy ý",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0083_viet_032",
+      "bbox": [
+        [
+          175,
+          1472
+        ],
+        [
+          1412,
+          1475
+        ],
+        [
+          1412,
+          1516
+        ],
+        [
+          175,
+          1513
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1627
+        ],
+        [
+          1412,
+          1630
+        ],
+        [
+          1412,
+          1671
+        ],
+        [
+          175,
+          1668
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1472,
+        1412,
+        1516
+      ],
+      "text": "nghĩ làm bậc, lấy sự tinh tiến làm thang, chú y đến thiện duyên, nguyện sinh",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0083_viet_033",
+      "bbox": [
+        [
+          175,
+          1514
+        ],
+        [
+          1412,
+          1517
+        ],
+        [
+          1412,
+          1558
+        ],
+        [
+          175,
+          1555
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1669
+        ],
+        [
+          1412,
+          1672
+        ],
+        [
+          1412,
+          1713
+        ],
+        [
+          175,
+          1710
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1514,
+        1412,
+        1558
+      ],
+      "text": "vào nước Phật, Nếu chuyên cần không mỏi, tảm: tính thuần thục thì sau khi",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0083_viet_034",
+      "bbox": [
+        [
+          176,
+          1556
+        ],
+        [
+          1414,
+          1559
+        ],
+        [
+          1414,
+          1600
+        ],
+        [
+          176,
+          1597
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1711
+        ],
+        [
+          1414,
+          1714
+        ],
+        [
+          1414,
+          1755
+        ],
+        [
+          176,
+          1752
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1556,
+        1414,
+        1600
+      ],
+      "text": "chết đi sẽ tùy theo điều ước mà được, sinh vào nước Phật, Đã-sinh ở nước",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0083_viet_035",
+      "bbox": [
+        [
+          177,
+          1599
+        ],
+        [
+          720,
+          1603
+        ],
+        [
+          719,
+          1640
+        ],
+        [
+          177,
+          1636
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1754
+        ],
+        [
+          720,
+          1758
+        ],
+        [
+          719,
+          1795
+        ],
+        [
+          177,
+          1791
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1599,
+        720,
+        1640
+      ],
+      "text": "Phật thì thân mình có mất đi dâu",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0083_viet_036",
+      "bbox": [
+        [
+          267,
+          1651
+        ],
+        [
+          1412,
+          1655
+        ],
+        [
+          1412,
+          1697
+        ],
+        [
+          267,
+          1693
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1806
+        ],
+        [
+          1412,
+          1810
+        ],
+        [
+          1412,
+          1852
+        ],
+        [
+          267,
+          1848
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1651,
+        1412,
+        1697
+      ],
+      "text": "Nay kê tu hành đã nhận lấy thân, ất ba nghiệp đền của Thế, mà không",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0083_viet_037",
+      "bbox": [
+        [
+          173,
+          1693
+        ],
+        [
+          1412,
+          1697
+        ],
+        [
+          1412,
+          1741
+        ],
+        [
+          173,
+          1737
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1848
+        ],
+        [
+          1412,
+          1852
+        ],
+        [
+          1412,
+          1896
+        ],
+        [
+          173,
+          1892
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1693,
+        1412,
+        1741
+      ],
+      "text": "niệm Phải đề cầu sinh vào nước Phật chẳng cũng khó sao 1 Như muốn niệm",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0083_viet_038",
+      "bbox": [
+        [
+          173,
+          1735
+        ],
+        [
+          1412,
+          1740
+        ],
+        [
+          1412,
+          1784
+        ],
+        [
+          173,
+          1779
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1890
+        ],
+        [
+          1412,
+          1895
+        ],
+        [
+          1412,
+          1939
+        ],
+        [
+          173,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1735,
+        1412,
+        1784
+      ],
+      "text": "Phật, hầy lấy cách của kẻ hạ trí làm đầu. Sao - vậy 7 Bởi vì có isự chú ý-mà",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0083_viet_039",
+      "bbox": [
+        [
+          170,
+          1778
+        ],
+        [
+          1416,
+          1780
+        ],
+        [
+          1416,
+          1827
+        ],
+        [
+          170,
+          1825
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1933
+        ],
+        [
+          1416,
+          1935
+        ],
+        [
+          1416,
+          1982
+        ],
+        [
+          170,
+          1980
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1778,
+        1416,
+        1827
+      ],
+      "text": "thôi - Ví như làm i một tòa lâu đài ba: tầng mà không làm tầng dưới trước, đó",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0083_viet_040",
+      "bbox": [
+        [
+          171,
+          1821
+        ],
+        [
+          587,
+          1828
+        ],
+        [
+          586,
+          1868
+        ],
+        [
+          171,
+          1861
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1976
+        ],
+        [
+          587,
+          1983
+        ],
+        [
+          586,
+          2023
+        ],
+        [
+          171,
+          2016
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1821,
+        587,
+        1868
+      ],
+      "text": "là điều chưa từng có vậy",
+      "confidence": 0.9358
+    },
+    {
+      "line_id": "0083_viet_041",
+      "bbox": [
+        [
+          1160,
+          1877
+        ],
+        [
+          1335,
+          1877
+        ],
+        [
+          1335,
+          1919
+        ],
+        [
+          1160,
+          1919
+        ]
+      ],
+      "bbox_original": [
+        [
+          1160,
+          2032
+        ],
+        [
+          1335,
+          2032
+        ],
+        [
+          1335,
+          2074
+        ],
+        [
+          1160,
+          2074
+        ]
+      ],
+      "box_xyxy": [
+        1160,
+        1877,
+        1335,
+        1919
+      ],
+      "text": "ĐỒ VĂN HỲ",
+      "confidence": 0.7612
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "gương hiện ảnh, như bóng theo hình. Cho nên thiền sử Vĩnh Gia (?) nói rằng:",
+      "4 Ai chẳng có điều nghĩ, ai chẳng có điều nảy sinh p, là nói về việc đó.",
+      "Nay kẻ tu hành muốn khơi dậy ý nghĩ chân chính đề dập tất bai nghiệp (4)",
+      "cũng là nhờ công niệm Phật vậy: Niệm Phải đặp tất được ba nghiệp là cơ sao ?",
+      "Vi rằng trong lúc niệm phạt thân, thắng ngồi ngay, không làm việc tà,",
+      "như vậy là tất được nghiệp thân, Miệng tung lời chản chính, không nói điều",
+      "xẳng hây, thể là tắt được nghiệp miệng, Y chăm chú ở sự tinh tiến, không này",
+      "sinh ý nghĩ tà, thế là tất được nghiệp y: Nhưng kẻ trí có ba hạng. Bắc thượng",
+      "trí thì tâm tức Phặt, không phải nhờ thêm sự tư hành: Y nghĩ là bui trần không",
+      "vường một mảy, Y nghĩ bui trần vốn lịnh, cho nên nói - Như nhữ (?): không",
+      "động tức là thàn Phật . Thân Phật tức là thần ta, không có bai tướng (?).",
+      "Tướng và tướng không phải là bại. lăng lễ tòn tại hằng thường, Tôn tại má",
+      "không biết, đó là Phật sống.",
+      "Bậc trung trí ất nhờ vào miệm Phật, Chủ y tỉnh cần, Tuôn luôn niệm mà",
+      "- không quên thì làm minh ất tự thuần thiện, Ý nghĩ thiện đã biện ra thì ý nghĩ",
+      "ác sẽ bị tiêu tan; ý nghĩ ác đã bị tiểu tan thì chỉ còn ý nghĩ thiện. Dung ý nghĩ",
+      "mà ý thức về ý nghĩ thị mọi ý nghỉ đều bị diệt bết. Khi ý nghĩ đã bị tiêu diệt",
+      "ất, trở yề chính đạo; lúc mệnh hết qua đời sẽ được niêm vui côi niết-bản (?).",
+      "- Thường lạc ngã tịnh - () là đạo của Phật.",
+      "Kẻ hạ trí miệng chuyên cần niệm lời phải, lòng mong thấy hình tướng",
+      "Phật, thân nguyễn sinh ở nước Phật, ngày, đêm tu bành chăm chi, không thoái",
+      "chỉ thay đổi, như vậy đến khi mệnh hết qua đời sẽ theo ý nghĩ thiện mà",
+      "được sinh ở niước Phật; sau đó lĩnh hội được chính pháp mà chư Phật nêu",
+      "ra và chứng được bồ-đề (o) cũng được Phật quả.",
+      "Bạ hạng tri ấy giác ngộ nông sàu khác nhau nhưng cái nhận-được là",
+      "một, Nhưng bậc thượng trí nói thì dề, làm thì khó, Đời nay kẻ mnốn: theo: mà",
+      "học, vì không có thang bậc nâng đỡ nên hàu hết chỉ: nhìn bờ rồi, thoái lui,",
+      "không đặt chân tới được. Bậc trung trí nếu có thể chăm chỉ tu bành như đã",
+      "nói ở trên thì lập tức thành Phật, Nhược hằng chựa giác ngộ hoàn toàn, đã",
+      "chết thì tùy theo nhân quả (1%) mà sinh trở lại, trên đời đề - nhân nghiệp thiện",
+      "báo ứng, Khi thiện bảo đã hết, nếu không có người cảnh: tỉnh, lại sẽ rời vào",
+      "xu hướng ác. Những người như thể thì cũng khó đắc đạo vậy. Kê hại trí lấy ý",
+      "nghĩ làm bậc, lấy sự tinh tiến làm thang, chú y đến thiện duyên, nguyện sinh",
+      "vào nước Phật, Nếu chuyên cần không mỏi, tảm: tính thuần thục thì sau khi",
+      "chết đi sẽ tùy theo điều ước mà được, sinh vào nước Phật, Đã-sinh ở nước",
+      "Phật thì thân mình có mất đi dâu",
+      "Nay kê tu hành đã nhận lấy thân, ất ba nghiệp đền của Thế, mà không",
+      "niệm Phải đề cầu sinh vào nước Phật chẳng cũng khó sao 1 Như muốn niệm",
+      "Phật, hầy lấy cách của kẻ hạ trí làm đầu. Sao - vậy 7 Bởi vì có isự chú ý-mà",
+      "thôi - Ví như làm i một tòa lâu đài ba: tầng mà không làm tầng dưới trước, đó",
+      "là điều chưa từng có vậy",
+      "ĐỒ VĂN HỲ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

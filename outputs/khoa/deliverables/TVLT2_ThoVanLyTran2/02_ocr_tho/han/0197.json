@@ -1,0 +1,166 @@
+{
+  "page_id": "0197",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 197,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0197_han_000",
+      "bbox": [
+        [
+          173,
+          1554
+        ],
+        [
+          556,
+          1554
+        ],
+        [
+          556,
+          1601
+        ],
+        [
+          173,
+          1601
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1709
+        ],
+        [
+          556,
+          1709
+        ],
+        [
+          556,
+          1756
+        ],
+        [
+          173,
+          1756
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1554,
+        556,
+        1601
+      ],
+      "text": "1* KIIL1 : mō giàp 某甲",
+      "confidence": 0.8499
+    },
+    {
+      "line_id": "0197_han_001",
+      "bbox": [
+        [
+          174,
+          1596
+        ],
+        [
+          439,
+          1599
+        ],
+        [
+          439,
+          1634
+        ],
+        [
+          174,
+          1631
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1751
+        ],
+        [
+          439,
+          1754
+        ],
+        [
+          439,
+          1789
+        ],
+        [
+          174,
+          1786
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1596,
+        439,
+        1634
+      ],
+      "text": "2* KHL1 : cäu 求",
+      "confidence": 0.9587
+    },
+    {
+      "line_id": "0197_han_002",
+      "bbox": [
+        [
+          512,
+          1624
+        ],
+        [
+          557,
+          1624
+        ],
+        [
+          557,
+          1672
+        ],
+        [
+          512,
+          1672
+        ]
+      ],
+      "bbox_original": [
+        [
+          512,
+          1779
+        ],
+        [
+          557,
+          1779
+        ],
+        [
+          557,
+          1827
+        ],
+        [
+          512,
+          1827
+        ]
+      ],
+      "box_xyxy": [
+        512,
+        1624,
+        557,
+        1672
+      ],
+      "text": "念",
+      "confidence": 0.9998
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

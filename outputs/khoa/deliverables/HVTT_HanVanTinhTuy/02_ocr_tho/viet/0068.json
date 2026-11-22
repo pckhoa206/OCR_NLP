@@ -1,0 +1,477 @@
+{
+  "page_id": "0068",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 68,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0068_viet_000",
+      "bbox": [
+        [
+          192,
+          70
+        ],
+        [
+          233,
+          70
+        ],
+        [
+          233,
+          106
+        ],
+        [
+          192,
+          106
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          191
+        ],
+        [
+          233,
+          191
+        ],
+        [
+          233,
+          227
+        ],
+        [
+          192,
+          227
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        70,
+        233,
+        106
+      ],
+      "text": "62",
+      "confidence": 0.9345
+    },
+    {
+      "line_id": "0068_viet_001",
+      "bbox": [
+        [
+          662,
+          67
+        ],
+        [
+          990,
+          69
+        ],
+        [
+          990,
+          105
+        ],
+        [
+          662,
+          102
+        ]
+      ],
+      "bbox_original": [
+        [
+          662,
+          188
+        ],
+        [
+          990,
+          190
+        ],
+        [
+          990,
+          226
+        ],
+        [
+          662,
+          223
+        ]
+      ],
+      "box_xyxy": [
+        662,
+        67,
+        990,
+        105
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0068_viet_002",
+      "bbox": [
+        [
+          264,
+          223
+        ],
+        [
+          630,
+          223
+        ],
+        [
+          630,
+          257
+        ],
+        [
+          264,
+          257
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          344
+        ],
+        [
+          630,
+          344
+        ],
+        [
+          630,
+          378
+        ],
+        [
+          264,
+          378
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        223,
+        630,
+        257
+      ],
+      "text": "Viết: u Vô hà chính....",
+      "confidence": 0.8658
+    },
+    {
+      "line_id": "0068_viet_003",
+      "bbox": [
+        [
+          250,
+          265
+        ],
+        [
+          990,
+          265
+        ],
+        [
+          990,
+          306
+        ],
+        [
+          250,
+          306
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          386
+        ],
+        [
+          990,
+          386
+        ],
+        [
+          990,
+          427
+        ],
+        [
+          250,
+          427
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        265,
+        990,
+        306
+      ],
+      "text": "Người đàn-bà đáp: a vì không có chính sách hà",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0068_viet_004",
+      "bbox": [
+        [
+          190,
+          307
+        ],
+        [
+          291,
+          307
+        ],
+        [
+          291,
+          348
+        ],
+        [
+          190,
+          348
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          428
+        ],
+        [
+          291,
+          428
+        ],
+        [
+          291,
+          469
+        ],
+        [
+          190,
+          469
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        307,
+        291,
+        348
+      ],
+      "text": "khắc ...",
+      "confidence": 0.7568
+    },
+    {
+      "line_id": "0068_viet_005",
+      "bbox": [
+        [
+          261,
+          427
+        ],
+        [
+          778,
+          427
+        ],
+        [
+          778,
+          461
+        ],
+        [
+          261,
+          461
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          548
+        ],
+        [
+          778,
+          548
+        ],
+        [
+          778,
+          582
+        ],
+        [
+          261,
+          582
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        427,
+        778,
+        461
+      ],
+      "text": "Phu-tử việt: a tiêu tử chí chi.",
+      "confidence": 0.8714
+    },
+    {
+      "line_id": "0068_viet_006",
+      "bbox": [
+        [
+          249,
+          469
+        ],
+        [
+          947,
+          469
+        ],
+        [
+          947,
+          509
+        ],
+        [
+          249,
+          509
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          590
+        ],
+        [
+          947,
+          590
+        ],
+        [
+          947,
+          630
+        ],
+        [
+          249,
+          630
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        469,
+        947,
+        509
+      ],
+      "text": "Phu-tử nói rằng: - Các trò ghi nhớ lầy điều đó.",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0068_viet_007",
+      "bbox": [
+        [
+          260,
+          585
+        ],
+        [
+          711,
+          585
+        ],
+        [
+          711,
+          622
+        ],
+        [
+          260,
+          622
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          706
+        ],
+        [
+          711,
+          706
+        ],
+        [
+          711,
+          743
+        ],
+        [
+          260,
+          743
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        585,
+        711,
+        622
+      ],
+      "text": "Hà chính mãnh ư hồ giũ....",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0068_viet_008",
+      "bbox": [
+        [
+          250,
+          626
+        ],
+        [
+          803,
+          630
+        ],
+        [
+          803,
+          667
+        ],
+        [
+          250,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          747
+        ],
+        [
+          803,
+          751
+        ],
+        [
+          803,
+          788
+        ],
+        [
+          250,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        626,
+        803,
+        667
+      ],
+      "text": "Chính-sách hà-khắc tàn-bạo hơn cọp 11",
+      "confidence": 0.9084
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Viết: u Vô hà chính....",
+      "Phu-tử việt: a tiêu tử chí chi.",
+      "Hà chính mãnh ư hồ giũ...."
+    ],
+    "dich_nghia_lines": [
+      "Người đàn-bà đáp: a vì không có chính sách hà khắc ...",
+      "Phu-tử nói rằng: - Các trò ghi nhớ lầy điều đó.",
+      "Chính-sách hà-khắc tàn-bạo hơn cọp 11"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "曰無苛政",
+        "phien_am": "Viết: u Vô hà chính....",
+        "dich_nghia_gloss": "Người đàn-bà đáp: a vì không có chính sách hà khắc ..."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "夫子曰小子識之",
+        "phien_am": "Phu-tử việt: a tiêu tử chí chi.",
+        "dich_nghia_gloss": "Phu-tử nói rằng: - Các trò ghi nhớ lầy điều đó."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苛政猛於虎也",
+        "phien_am": "Hà chính mãnh ư hồ giũ....",
+        "dich_nghia_gloss": "Chính-sách hà-khắc tàn-bạo hơn cọp 11"
+      }
+    ]
+  }
+}

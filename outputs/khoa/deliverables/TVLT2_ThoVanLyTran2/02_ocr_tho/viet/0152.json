@@ -1,0 +1,2428 @@
+{
+  "page_id": "0152",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 152,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0152_viet_000",
+      "bbox": [
+        [
+          175,
+          0
+        ],
+        [
+          219,
+          0
+        ],
+        [
+          219,
+          14
+        ],
+        [
+          175,
+          14
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          155
+        ],
+        [
+          219,
+          155
+        ],
+        [
+          219,
+          169
+        ],
+        [
+          175,
+          169
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        0,
+        219,
+        14
+      ],
+      "text": "1015",
+      "confidence": 0.3313
+    },
+    {
+      "line_id": "0152_viet_001",
+      "bbox": [
+        [
+          609,
+          0
+        ],
+        [
+          985,
+          0
+        ],
+        [
+          985,
+          17
+        ],
+        [
+          609,
+          17
+        ]
+      ],
+      "bbox_original": [
+        [
+          609,
+          155
+        ],
+        [
+          985,
+          155
+        ],
+        [
+          985,
+          172
+        ],
+        [
+          609,
+          172
+        ]
+      ],
+      "box_xyxy": [
+        609,
+        0,
+        985,
+        17
+      ],
+      "text": "1317 TRÊN ÁN 2011 THỊ 11",
+      "confidence": 0.585
+    },
+    {
+      "line_id": "0152_viet_002",
+      "bbox": [
+        [
+          167,
+          95
+        ],
+        [
+          1398,
+          94
+        ],
+        [
+          1398,
+          128
+        ],
+        [
+          167,
+          130
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          250
+        ],
+        [
+          1398,
+          249
+        ],
+        [
+          1398,
+          283
+        ],
+        [
+          167,
+          285
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        94,
+        1398,
+        130
+      ],
+      "text": "(31) Cải ý từ phường, Tây lại: nói về việc Bò Đề Đạt Ma, vị tổ thứ 28 của Phật giao ở Án dỏ",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0152_viet_003",
+      "bbox": [
+        [
+          233,
+          131
+        ],
+        [
+          1399,
+          131
+        ],
+        [
+          1399,
+          161
+        ],
+        [
+          233,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          286
+        ],
+        [
+          1399,
+          286
+        ],
+        [
+          1399,
+          316
+        ],
+        [
+          233,
+          316
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        131,
+        1399,
+        161
+      ],
+      "text": "sang Trung-quốc, sắng lập ra dòng Thiên tòng và trở thành vị tổ thứ nhất, Gàu hỏi",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0152_viet_004",
+      "bbox": [
+        [
+          235,
+          163
+        ],
+        [
+          1401,
+          163
+        ],
+        [
+          1401,
+          196
+        ],
+        [
+          235,
+          196
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          318
+        ],
+        [
+          1401,
+          318
+        ],
+        [
+          1401,
+          351
+        ],
+        [
+          235,
+          351
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        163,
+        1401,
+        196
+      ],
+      "text": "này thường được, đặt ra-trong rác huồi giảng thoại của Thiền tông, có ý hỏi về yếu chỉ",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0152_viet_005",
+      "bbox": [
+        [
+          238,
+          194
+        ],
+        [
+          440,
+          194
+        ],
+        [
+          440,
+          225
+        ],
+        [
+          238,
+          225
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          349
+        ],
+        [
+          440,
+          349
+        ],
+        [
+          440,
+          380
+        ],
+        [
+          238,
+          380
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        194,
+        440,
+        225
+      ],
+      "text": "của đạo Thiên",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0152_viet_006",
+      "bbox": [
+        [
+          174,
+          239
+        ],
+        [
+          722,
+          238
+        ],
+        [
+          722,
+          272
+        ],
+        [
+          174,
+          273
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          394
+        ],
+        [
+          722,
+          393
+        ],
+        [
+          722,
+          427
+        ],
+        [
+          174,
+          428
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        238,
+        722,
+        273
+      ],
+      "text": "(35) Quốc sưr Vô Nghiệp: chira rồ sự lịch.",
+      "confidence": 0.8566
+    },
+    {
+      "line_id": "0152_viet_007",
+      "bbox": [
+        [
+          731,
+          279
+        ],
+        [
+          1399,
+          279
+        ],
+        [
+          1399,
+          321
+        ],
+        [
+          731,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          434
+        ],
+        [
+          1399,
+          434
+        ],
+        [
+          1399,
+          476
+        ],
+        [
+          731,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        279,
+        1399,
+        321
+      ],
+      "text": "thương không thạnh giác 31 - lê đời tống",
+      "confidence": 0.8182
+    },
+    {
+      "line_id": "0152_viet_008",
+      "bbox": [
+        [
+          235,
+          316
+        ],
+        [
+          1199,
+          318
+        ],
+        [
+          1199,
+          351
+        ],
+        [
+          235,
+          349
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          471
+        ],
+        [
+          1199,
+          473
+        ],
+        [
+          1199,
+          506
+        ],
+        [
+          235,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        316,
+        1199,
+        351
+      ],
+      "text": "tu ở am Bạch-vàn, nên thành tên, là người lập ra phải Thiên Bạch-văn.",
+      "confidence": 0.92
+    },
+    {
+      "line_id": "0152_viet_009",
+      "bbox": [
+        [
+          731,
+          354
+        ],
+        [
+          1408,
+          354
+        ],
+        [
+          1408,
+          402
+        ],
+        [
+          731,
+          402
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          509
+        ],
+        [
+          1408,
+          509
+        ],
+        [
+          1408,
+          557
+        ],
+        [
+          731,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        354,
+        1408,
+        402
+      ],
+      "text": "người Phúc-chậu Tỗ % thuộc thế hệ thứ 6 dòng",
+      "confidence": 0.8558
+    },
+    {
+      "line_id": "0152_viet_010",
+      "bbox": [
+        [
+          236,
+          399
+        ],
+        [
+          1010,
+          399
+        ],
+        [
+          1010,
+          432
+        ],
+        [
+          236,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          554
+        ],
+        [
+          1010,
+          554
+        ],
+        [
+          1010,
+          587
+        ],
+        [
+          236,
+          587
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        399,
+        1010,
+        432
+      ],
+      "text": "Thanh nguyên. Mất năm 968. Xem hàng Phá hệ cuối sách",
+      "confidence": 0.8964
+    },
+    {
+      "line_id": "0152_viet_011",
+      "bbox": [
+        [
+          175,
+          445
+        ],
+        [
+          1405,
+          444
+        ],
+        [
+          1405,
+          478
+        ],
+        [
+          175,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          600
+        ],
+        [
+          1405,
+          599
+        ],
+        [
+          1405,
+          633
+        ],
+        [
+          175,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        444,
+        1405,
+        479
+      ],
+      "text": "(38) Tam muối: thuật: ngừ đạo Phật, cùng phiên âm là tam-na-địa, nguyên tiếng Phạn là",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0152_viet_012",
+      "bbox": [
+        [
+          236,
+          479
+        ],
+        [
+          1405,
+          479
+        ],
+        [
+          1405,
+          512
+        ],
+        [
+          236,
+          512
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          634
+        ],
+        [
+          1405,
+          634
+        ],
+        [
+          1405,
+          667
+        ],
+        [
+          236,
+          667
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        479,
+        1405,
+        512
+      ],
+      "text": "Samádhi, có nghĩa là ? nhập định a, một biện pháp đề tập trung suy nghì, phầm tinu",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0152_viet_013",
+      "bbox": [
+        [
+          238,
+          511
+        ],
+        [
+          462,
+          513
+        ],
+        [
+          462,
+          544
+        ],
+        [
+          237,
+          542
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          666
+        ],
+        [
+          462,
+          668
+        ],
+        [
+          462,
+          699
+        ],
+        [
+          237,
+          697
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        511,
+        462,
+        544
+      ],
+      "text": "đến sự giác ngọ",
+      "confidence": 0.8735
+    },
+    {
+      "line_id": "0152_viet_014",
+      "bbox": [
+        [
+          176,
+          559
+        ],
+        [
+          641,
+          559
+        ],
+        [
+          641,
+          590
+        ],
+        [
+          176,
+          590
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          714
+        ],
+        [
+          641,
+          714
+        ],
+        [
+          641,
+          745
+        ],
+        [
+          176,
+          745
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        559,
+        641,
+        590
+      ],
+      "text": "(39) Thụy Nham: chưa rõ lai lịch.",
+      "confidence": 0.8756
+    },
+    {
+      "line_id": "0152_viet_015",
+      "bbox": [
+        [
+          176,
+          604
+        ],
+        [
+          1134,
+          604
+        ],
+        [
+          1134,
+          638
+        ],
+        [
+          176,
+          638
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          759
+        ],
+        [
+          1134,
+          759
+        ],
+        [
+          1134,
+          793
+        ],
+        [
+          176,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        604,
+        1134,
+        638
+      ],
+      "text": "(40) Tam thánh: ba vị thành, Phật ở giữa, hai Bồ-tát hai bên. Vi như:",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0152_viet_016",
+      "bbox": [
+        [
+          291,
+          642
+        ],
+        [
+          1187,
+          644
+        ],
+        [
+          1187,
+          678
+        ],
+        [
+          291,
+          677
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          797
+        ],
+        [
+          1187,
+          799
+        ],
+        [
+          1187,
+          833
+        ],
+        [
+          291,
+          832
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        642,
+        1187,
+        678
+      ],
+      "text": "Hoa nghiêm tam thành gòm: Thích Ca, Phố Hiền, và Văn Thù",
+      "confidence": 0.8828
+    },
+    {
+      "line_id": "0152_viet_017",
+      "bbox": [
+        [
+          288,
+          682
+        ],
+        [
+          1309,
+          685
+        ],
+        [
+          1309,
+          719
+        ],
+        [
+          288,
+          716
+        ]
+      ],
+      "bbox_original": [
+        [
+          288,
+          837
+        ],
+        [
+          1309,
+          840
+        ],
+        [
+          1309,
+          874
+        ],
+        [
+          288,
+          871
+        ]
+      ],
+      "box_xyxy": [
+        288,
+        682,
+        1309,
+        719
+      ],
+      "text": "- Di Hà tau thành gòm: A Di Đà, Quan âm Bò-tát và Đại Thế Chỉ Bồ-tát:",
+      "confidence": 0.8639
+    },
+    {
+      "line_id": "0152_viet_018",
+      "bbox": [
+        [
+          289,
+          722
+        ],
+        [
+          1192,
+          724
+        ],
+        [
+          1191,
+          758
+        ],
+        [
+          289,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          289,
+          877
+        ],
+        [
+          1192,
+          879
+        ],
+        [
+          1191,
+          913
+        ],
+        [
+          289,
+          911
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        722,
+        1192,
+        758
+      ],
+      "text": "Không rõ ở đây là tên một người hay tác giả chỉ bộ ba tam thánh.",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0152_viet_019",
+      "bbox": [
+        [
+          731,
+          759
+        ],
+        [
+          1411,
+          759
+        ],
+        [
+          1411,
+          806
+        ],
+        [
+          731,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          914
+        ],
+        [
+          1411,
+          914
+        ],
+        [
+          1411,
+          961
+        ],
+        [
+          731,
+          961
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        759,
+        1411,
+        806
+      ],
+      "text": "Nhưng Nguy-phú GG F , thuộc thế",
+      "confidence": 0.7559
+    },
+    {
+      "line_id": "0152_viet_020",
+      "bbox": [
+        [
+          237,
+          801
+        ],
+        [
+          1407,
+          803
+        ],
+        [
+          1407,
+          839
+        ],
+        [
+          236,
+          837
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          956
+        ],
+        [
+          1407,
+          958
+        ],
+        [
+          1407,
+          994
+        ],
+        [
+          236,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        801,
+        1407,
+        839
+      ],
+      "text": "hệ thứ năm dòng Tào-khê, không rõ năm sinh năm mất. Xem bảng Phả hệ cuối sách.",
+      "confidence": 0.9008
+    },
+    {
+      "line_id": "0152_viet_021",
+      "bbox": [
+        [
+          177,
+          845
+        ],
+        [
+          1407,
+          846
+        ],
+        [
+          1407,
+          884
+        ],
+        [
+          177,
+          883
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1000
+        ],
+        [
+          1407,
+          1001
+        ],
+        [
+          1407,
+          1039
+        ],
+        [
+          177,
+          1038
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        845,
+        1407,
+        884
+      ],
+      "text": "(42) Đặng Ăn Phong - chưa 13 lai lịch, chỉ hiết là người đồng thời với Nam Tuyền, Mã Tô,",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0152_viet_022",
+      "bbox": [
+        [
+          238,
+          880
+        ],
+        [
+          872,
+          883
+        ],
+        [
+          871,
+          917
+        ],
+        [
+          237,
+          914
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1035
+        ],
+        [
+          872,
+          1038
+        ],
+        [
+          871,
+          1072
+        ],
+        [
+          237,
+          1069
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        880,
+        872,
+        917
+      ],
+      "text": "tức là sống vào khoảng cuối đời nhà Đường.",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0152_viet_023",
+      "bbox": [
+        [
+          731,
+          926
+        ],
+        [
+          1408,
+          926
+        ],
+        [
+          1408,
+          964
+        ],
+        [
+          731,
+          964
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1081
+        ],
+        [
+          1408,
+          1081
+        ],
+        [
+          1408,
+          1119
+        ],
+        [
+          731,
+          1119
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        926,
+        1408,
+        964
+      ],
+      "text": "Viên Ấp E (? 790). họ trần IR. là học trò của nhau",
+      "confidence": 0.7855
+    },
+    {
+      "line_id": "0152_viet_024",
+      "bbox": [
+        [
+          235,
+          960
+        ],
+        [
+          1409,
+          962
+        ],
+        [
+          1409,
+          996
+        ],
+        [
+          235,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1115
+        ],
+        [
+          1409,
+          1117
+        ],
+        [
+          1409,
+          1151
+        ],
+        [
+          235,
+          1149
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        960,
+        1409,
+        996
+      ],
+      "text": "Thiền, sư Hành Tư ÍTB. thuộc thế bệ thữ nhất dòng Thanh-nguyên, Trên núi Hành",
+      "confidence": 0.8739
+    },
+    {
+      "line_id": "0152_viet_025",
+      "bbox": [
+        [
+          238,
+          990
+        ],
+        [
+          1408,
+          995
+        ],
+        [
+          1408,
+          1032
+        ],
+        [
+          237,
+          1027
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1145
+        ],
+        [
+          1408,
+          1150
+        ],
+        [
+          1408,
+          1187
+        ],
+        [
+          237,
+          1182
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        990,
+        1408,
+        1032
+      ],
+      "text": "sơn [2] là thuộc tỉnh Hò-nam 76] đấy có một khói đã hình dáng như một, tòa đài, Tly",
+      "confidence": 0.8588
+    },
+    {
+      "line_id": "0152_viet_026",
+      "bbox": [
+        [
+          238,
+          1026
+        ],
+        [
+          1407,
+          1029
+        ],
+        [
+          1407,
+          1063
+        ],
+        [
+          237,
+          1060
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1181
+        ],
+        [
+          1407,
+          1184
+        ],
+        [
+          1407,
+          1218
+        ],
+        [
+          237,
+          1215
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1026,
+        1407,
+        1063
+      ],
+      "text": "Thiên kết am ở trên đề trụ trì, vì vậy người, đương thời gọi ông là Hòa, thượng Thạch",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0152_viet_027",
+      "bbox": [
+        [
+          238,
+          1057
+        ],
+        [
+          1315,
+          1061
+        ],
+        [
+          1315,
+          1098
+        ],
+        [
+          237,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1212
+        ],
+        [
+          1315,
+          1216
+        ],
+        [
+          1315,
+          1253
+        ],
+        [
+          237,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1057,
+        1315,
+        1098
+      ],
+      "text": "Đầu. Ông có tác phầm Tham dòng khí Rịt, Sĩ Xem bảng Phà hệ cuội sách.",
+      "confidence": 0.8446
+    },
+    {
+      "line_id": "0152_viet_028",
+      "bbox": [
+        [
+          175,
+          1101
+        ],
+        [
+          1411,
+          1104
+        ],
+        [
+          1411,
+          1143
+        ],
+        [
+          175,
+          1140
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1256
+        ],
+        [
+          1411,
+          1259
+        ],
+        [
+          1411,
+          1298
+        ],
+        [
+          175,
+          1295
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1101,
+        1411,
+        1143
+      ],
+      "text": "(44) Cảnh Giáp-sơn, có lẽ là, múi Vu.giáp t X . mơi vua Sở mơ thấy gặp tiện. Ý núi cảnh",
+      "confidence": 0.8348
+    },
+    {
+      "line_id": "0152_viet_029",
+      "bbox": [
+        [
+          238,
+          1138
+        ],
+        [
+          347,
+          1138
+        ],
+        [
+          347,
+          1171
+        ],
+        [
+          238,
+          1171
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1293
+        ],
+        [
+          347,
+          1293
+        ],
+        [
+          347,
+          1326
+        ],
+        [
+          238,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1138,
+        347,
+        1171
+      ],
+      "text": "hư ảo 7",
+      "confidence": 0.8031
+    },
+    {
+      "line_id": "0152_viet_030",
+      "bbox": [
+        [
+          182,
+          1188
+        ],
+        [
+          615,
+          1188
+        ],
+        [
+          615,
+          1219
+        ],
+        [
+          182,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1343
+        ],
+        [
+          615,
+          1343
+        ],
+        [
+          615,
+          1374
+        ],
+        [
+          182,
+          1374
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1188,
+        615,
+        1219
+      ],
+      "text": "(45) Mục Châu: chưa rõ lai lịch.",
+      "confidence": 0.8892
+    },
+    {
+      "line_id": "0152_viet_031",
+      "bbox": [
+        [
+          179,
+          1233
+        ],
+        [
+          1407,
+          1233
+        ],
+        [
+          1407,
+          1267
+        ],
+        [
+          179,
+          1267
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1388
+        ],
+        [
+          1407,
+          1388
+        ],
+        [
+          1407,
+          1422
+        ],
+        [
+          179,
+          1422
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1233,
+        1407,
+        1267
+      ],
+      "text": "(46) Trong phần Cứ này Trần Cảnh nhắc bị, một điền có: một hôm có một nhà sư hỏi Hòa",
+      "confidence": 0.9032
+    },
+    {
+      "line_id": "0152_viet_032",
+      "bbox": [
+        [
+          241,
+          1267
+        ],
+        [
+          1409,
+          1268
+        ],
+        [
+          1409,
+          1299
+        ],
+        [
+          240,
+          1298
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1422
+        ],
+        [
+          1409,
+          1423
+        ],
+        [
+          1409,
+          1454
+        ],
+        [
+          240,
+          1453
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1267,
+        1409,
+        1299
+      ],
+      "text": "thượng Tư về đại y của Phật pháp. Tư đáp lại bằng một càu hỏi: (Giá gạo Lu-lăng ra",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0152_viet_033",
+      "bbox": [
+        [
+          241,
+          1301
+        ],
+        [
+          1409,
+          1301
+        ],
+        [
+          1409,
+          1331
+        ],
+        [
+          241,
+          1331
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1456
+        ],
+        [
+          1409,
+          1456
+        ],
+        [
+          1409,
+          1486
+        ],
+        [
+          241,
+          1486
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1301,
+        1409,
+        1331
+      ],
+      "text": "sao 72 Nhà sự không biết, đành thủ nhận: - Không thể lường tinh được a, Ý Hóa",
+      "confidence": 0.871
+    },
+    {
+      "line_id": "0152_viet_034",
+      "bbox": [
+        [
+          240,
+          1331
+        ],
+        [
+          1411,
+          1333
+        ],
+        [
+          1411,
+          1366
+        ],
+        [
+          239,
+          1364
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1486
+        ],
+        [
+          1411,
+          1488
+        ],
+        [
+          1411,
+          1521
+        ],
+        [
+          239,
+          1519
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1331,
+        1411,
+        1366
+      ],
+      "text": "thương Tư muốn nói - Phật pháp huyền diệu khú lường như già gao ử chợ Lin-láng,",
+      "confidence": 0.8826
+    },
+    {
+      "line_id": "0152_viet_035",
+      "bbox": [
+        [
+          240,
+          1362
+        ],
+        [
+          1406,
+          1365
+        ],
+        [
+          1406,
+          1399
+        ],
+        [
+          239,
+          1396
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1517
+        ],
+        [
+          1406,
+          1520
+        ],
+        [
+          1406,
+          1554
+        ],
+        [
+          239,
+          1551
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1362,
+        1406,
+        1399
+      ],
+      "text": "không thề nói một, cách chắc chắn được...Do đó người: học phải lấy cài tầm thành mã",
+      "confidence": 0.8745
+    },
+    {
+      "line_id": "0152_viet_036",
+      "bbox": [
+        [
+          240,
+          1396
+        ],
+        [
+          917,
+          1398
+        ],
+        [
+          917,
+          1430
+        ],
+        [
+          239,
+          1428
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1551
+        ],
+        [
+          917,
+          1553
+        ],
+        [
+          917,
+          1585
+        ],
+        [
+          239,
+          1583
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1396,
+        917,
+        1430
+      ],
+      "text": "lĩnh hội chứ không thể suy lường típh toán được",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0152_viet_037",
+      "bbox": [
+        [
+          731,
+          1429
+        ],
+        [
+          1413,
+          1429
+        ],
+        [
+          1413,
+          1473
+        ],
+        [
+          731,
+          1473
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1584
+        ],
+        [
+          1413,
+          1584
+        ],
+        [
+          1413,
+          1628
+        ],
+        [
+          731,
+          1628
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1429,
+        1413,
+        1473
+      ],
+      "text": "Tính Tư áy Đ. Hiệu là Thanh Nguyên Hệ K, học",
+      "confidence": 0.7886
+    },
+    {
+      "line_id": "0152_viet_038",
+      "bbox": [
+        [
+          242,
+          1469
+        ],
+        [
+          1293,
+          1471
+        ],
+        [
+          1293,
+          1504
+        ],
+        [
+          241,
+          1502
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1624
+        ],
+        [
+          1293,
+          1626
+        ],
+        [
+          1293,
+          1659
+        ],
+        [
+          241,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1469,
+        1293,
+        1504
+      ],
+      "text": "trò Tuệ Năng, người mở đầu phải Thanh-nguyên. Xem bảng Phả hệ cuối sách.",
+      "confidence": 0.8864
+    },
+    {
+      "line_id": "0152_viet_039",
+      "bbox": [
+        [
+          182,
+          1517
+        ],
+        [
+          777,
+          1517
+        ],
+        [
+          777,
+          1550
+        ],
+        [
+          182,
+          1550
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1672
+        ],
+        [
+          777,
+          1672
+        ],
+        [
+          777,
+          1705
+        ],
+        [
+          182,
+          1705
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1517,
+        777,
+        1550
+      ],
+      "text": "(47) Giú gạo L1z-làng: xem Cht. 46, cũng bài.",
+      "confidence": 0.8392
+    },
+    {
+      "line_id": "0152_viet_040",
+      "bbox": [
+        [
+          181,
+          1561
+        ],
+        [
+          1411,
+          1562
+        ],
+        [
+          1411,
+          1596
+        ],
+        [
+          181,
+          1595
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1716
+        ],
+        [
+          1411,
+          1717
+        ],
+        [
+          1411,
+          1751
+        ],
+        [
+          181,
+          1750
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1561,
+        1411,
+        1596
+      ],
+      "text": "(48) Vụn pháp trở về một, pháp là các hiện tượng, biêu hiện của bản thế, một là bản thè.",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0152_viet_041",
+      "bbox": [
+        [
+          246,
+          1594
+        ],
+        [
+          1413,
+          1597
+        ],
+        [
+          1413,
+          1630
+        ],
+        [
+          245,
+          1627
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1749
+        ],
+        [
+          1413,
+          1752
+        ],
+        [
+          1413,
+          1785
+        ],
+        [
+          245,
+          1782
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1594,
+        1413,
+        1630
+      ],
+      "text": "Triết học Phật giao quân miệm bản thề vũ trụ (một) được biêu hiện thành muôn văn",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0152_viet_042",
+      "bbox": [
+        [
+          246,
+          1629
+        ],
+        [
+          1411,
+          1631
+        ],
+        [
+          1411,
+          1662
+        ],
+        [
+          246,
+          1660
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1784
+        ],
+        [
+          1411,
+          1786
+        ],
+        [
+          1411,
+          1817
+        ],
+        [
+          246,
+          1815
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1629,
+        1411,
+        1662
+      ],
+      "text": "hiện tượng (vạn pháp), nhưng sau quá trình chu chuyên biến đời, cuối cùng chủng lại",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0152_viet_043",
+      "bbox": [
+        [
+          248,
+          1660
+        ],
+        [
+          788,
+          1663
+        ],
+        [
+          788,
+          1693
+        ],
+        [
+          247,
+          1691
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1815
+        ],
+        [
+          788,
+          1818
+        ],
+        [
+          788,
+          1848
+        ],
+        [
+          247,
+          1846
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1660,
+        788,
+        1693
+      ],
+      "text": "trở về với bản thè cái một. riuy nhất.",
+      "confidence": 0.8693
+    },
+    {
+      "line_id": "0152_viet_044",
+      "bbox": [
+        [
+          183,
+          1704
+        ],
+        [
+          1416,
+          1708
+        ],
+        [
+          1416,
+          1741
+        ],
+        [
+          183,
+          1737
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1859
+        ],
+        [
+          1416,
+          1863
+        ],
+        [
+          1416,
+          1896
+        ],
+        [
+          183,
+          1892
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1704,
+        1416,
+        1741
+      ],
+      "text": "(49) Hoàng-hà: một con sông lớn rủa Trung-quốc, thường được nêu làm biêu tượng cho sự",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0152_viet_045",
+      "bbox": [
+        [
+          243,
+          1740
+        ],
+        [
+          713,
+          1740
+        ],
+        [
+          713,
+          1770
+        ],
+        [
+          243,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1895
+        ],
+        [
+          713,
+          1895
+        ],
+        [
+          713,
+          1925
+        ],
+        [
+          243,
+          1925
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1740,
+        713,
+        1770
+      ],
+      "text": "hùng vĩ, to rộng và cả sự khó khán.",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0152_viet_046",
+      "bbox": [
+        [
+          182,
+          1783
+        ],
+        [
+          1415,
+          1787
+        ],
+        [
+          1415,
+          1820
+        ],
+        [
+          182,
+          1816
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1938
+        ],
+        [
+          1415,
+          1942
+        ],
+        [
+          1415,
+          1975
+        ],
+        [
+          182,
+          1971
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1783,
+        1415,
+        1820
+      ],
+      "text": "(50) Thương-châu: bỗi xanh, nhưng ngtrời xưa và văn học phương Đông phần nhiều dùng tên",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0152_viet_047",
+      "bbox": [
+        [
+          242,
+          1816
+        ],
+        [
+          1349,
+          1820
+        ],
+        [
+          1348,
+          1851
+        ],
+        [
+          241,
+          1847
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1971
+        ],
+        [
+          1349,
+          1975
+        ],
+        [
+          1348,
+          2006
+        ],
+        [
+          241,
+          2002
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1816,
+        1349,
+        1851
+      ],
+      "text": "Thương-châu đề chỉ nơi người ân dật ở chứ không nói về một vùng đất cụ thể nào.",
+      "confidence": 0.8966
+    },
+    {
+      "line_id": "0152_viet_048",
+      "bbox": [
+        [
+          185,
+          1857
+        ],
+        [
+          1416,
+          1861
+        ],
+        [
+          1416,
+          1895
+        ],
+        [
+          185,
+          1891
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          2012
+        ],
+        [
+          1416,
+          2016
+        ],
+        [
+          1416,
+          2050
+        ],
+        [
+          185,
+          2046
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1857,
+        1416,
+        1895
+      ],
+      "text": "(51) Tân-la: tên một quốc gia thịnh nhất vào đời Hường, ử vào bán đảo Trêu-tiên, Thiên",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0152_viet_049",
+      "bbox": [
+        [
+          245,
+          1891
+        ],
+        [
+          1207,
+          1894
+        ],
+        [
+          1207,
+          1928
+        ],
+        [
+          244,
+          1924
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          2046
+        ],
+        [
+          1207,
+          2049
+        ],
+        [
+          1207,
+          2083
+        ],
+        [
+          244,
+          2079
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1891,
+        1207,
+        1928
+      ],
+      "text": "tông tir Trung-quốc đã qua Tân-la rồi sau đó mới truyền sang Nhật-bản",
+      "confidence": 0.8938
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "1015",
+      "1317 TRÊN ÁN 2011 THỊ 11",
+      "(31) Cải ý từ phường, Tây lại: nói về việc Bò Đề Đạt Ma, vị tổ thứ 28 của Phật giao ở Án dỏ",
+      "sang Trung-quốc, sắng lập ra dòng Thiên tòng và trở thành vị tổ thứ nhất, Gàu hỏi",
+      "này thường được, đặt ra-trong rác huồi giảng thoại của Thiền tông, có ý hỏi về yếu chỉ",
+      "của đạo Thiên",
+      "(35) Quốc sưr Vô Nghiệp: chira rồ sự lịch.",
+      "thương không thạnh giác 31 - lê đời tống",
+      "tu ở am Bạch-vàn, nên thành tên, là người lập ra phải Thiên Bạch-văn.",
+      "người Phúc-chậu Tỗ % thuộc thế hệ thứ 6 dòng",
+      "Thanh nguyên. Mất năm 968. Xem hàng Phá hệ cuối sách",
+      "(38) Tam muối: thuật: ngừ đạo Phật, cùng phiên âm là tam-na-địa, nguyên tiếng Phạn là",
+      "Samádhi, có nghĩa là ? nhập định a, một biện pháp đề tập trung suy nghì, phầm tinu",
+      "đến sự giác ngọ",
+      "(39) Thụy Nham: chưa rõ lai lịch.",
+      "(40) Tam thánh: ba vị thành, Phật ở giữa, hai Bồ-tát hai bên. Vi như:",
+      "Hoa nghiêm tam thành gòm: Thích Ca, Phố Hiền, và Văn Thù",
+      "- Di Hà tau thành gòm: A Di Đà, Quan âm Bò-tát và Đại Thế Chỉ Bồ-tát:",
+      "Không rõ ở đây là tên một người hay tác giả chỉ bộ ba tam thánh.",
+      "Nhưng Nguy-phú GG F , thuộc thế",
+      "hệ thứ năm dòng Tào-khê, không rõ năm sinh năm mất. Xem bảng Phả hệ cuối sách.",
+      "(42) Đặng Ăn Phong - chưa 13 lai lịch, chỉ hiết là người đồng thời với Nam Tuyền, Mã Tô,",
+      "tức là sống vào khoảng cuối đời nhà Đường.",
+      "Viên Ấp E (? 790). họ trần IR. là học trò của nhau",
+      "Thiền, sư Hành Tư ÍTB. thuộc thế bệ thữ nhất dòng Thanh-nguyên, Trên núi Hành",
+      "sơn [2] là thuộc tỉnh Hò-nam 76] đấy có một khói đã hình dáng như một, tòa đài, Tly",
+      "Thiên kết am ở trên đề trụ trì, vì vậy người, đương thời gọi ông là Hòa, thượng Thạch",
+      "Đầu. Ông có tác phầm Tham dòng khí Rịt, Sĩ Xem bảng Phà hệ cuội sách.",
+      "(44) Cảnh Giáp-sơn, có lẽ là, múi Vu.giáp t X . mơi vua Sở mơ thấy gặp tiện. Ý núi cảnh",
+      "hư ảo 7",
+      "(45) Mục Châu: chưa rõ lai lịch.",
+      "(46) Trong phần Cứ này Trần Cảnh nhắc bị, một điền có: một hôm có một nhà sư hỏi Hòa",
+      "thượng Tư về đại y của Phật pháp. Tư đáp lại bằng một càu hỏi: (Giá gạo Lu-lăng ra",
+      "sao 72 Nhà sự không biết, đành thủ nhận: - Không thể lường tinh được a, Ý Hóa",
+      "thương Tư muốn nói - Phật pháp huyền diệu khú lường như già gao ử chợ Lin-láng,",
+      "không thề nói một, cách chắc chắn được...Do đó người: học phải lấy cài tầm thành mã",
+      "lĩnh hội chứ không thể suy lường típh toán được",
+      "Tính Tư áy Đ. Hiệu là Thanh Nguyên Hệ K, học",
+      "trò Tuệ Năng, người mở đầu phải Thanh-nguyên. Xem bảng Phả hệ cuối sách.",
+      "(47) Giú gạo L1z-làng: xem Cht. 46, cũng bài.",
+      "(48) Vụn pháp trở về một, pháp là các hiện tượng, biêu hiện của bản thế, một là bản thè.",
+      "Triết học Phật giao quân miệm bản thề vũ trụ (một) được biêu hiện thành muôn văn",
+      "hiện tượng (vạn pháp), nhưng sau quá trình chu chuyên biến đời, cuối cùng chủng lại",
+      "trở về với bản thè cái một. riuy nhất.",
+      "(49) Hoàng-hà: một con sông lớn rủa Trung-quốc, thường được nêu làm biêu tượng cho sự",
+      "hùng vĩ, to rộng và cả sự khó khán.",
+      "(50) Thương-châu: bỗi xanh, nhưng ngtrời xưa và văn học phương Đông phần nhiều dùng tên",
+      "Thương-châu đề chỉ nơi người ân dật ở chứ không nói về một vùng đất cụ thể nào.",
+      "(51) Tân-la: tên một quốc gia thịnh nhất vào đời Hường, ử vào bán đảo Trêu-tiên, Thiên",
+      "tông tir Trung-quốc đã qua Tân-la rồi sau đó mới truyền sang Nhật-bản"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

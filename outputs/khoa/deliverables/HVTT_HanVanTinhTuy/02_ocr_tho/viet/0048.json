@@ -1,0 +1,940 @@
+{
+  "page_id": "0048",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 48,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0048_viet_000",
+      "bbox": [
+        [
+          191,
+          25
+        ],
+        [
+          236,
+          25
+        ],
+        [
+          236,
+          63
+        ],
+        [
+          191,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          146
+        ],
+        [
+          236,
+          146
+        ],
+        [
+          236,
+          184
+        ],
+        [
+          191,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        25,
+        236,
+        63
+      ],
+      "text": "42",
+      "confidence": 0.937
+    },
+    {
+      "line_id": "0048_viet_001",
+      "bbox": [
+        [
+          664,
+          28
+        ],
+        [
+          987,
+          28
+        ],
+        [
+          987,
+          59
+        ],
+        [
+          664,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          664,
+          149
+        ],
+        [
+          987,
+          149
+        ],
+        [
+          987,
+          180
+        ],
+        [
+          664,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        664,
+        28,
+        987,
+        59
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0048_viet_002",
+      "bbox": [
+        [
+          196,
+          184
+        ],
+        [
+          632,
+          184
+        ],
+        [
+          632,
+          221
+        ],
+        [
+          196,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          305
+        ],
+        [
+          632,
+          305
+        ],
+        [
+          632,
+          342
+        ],
+        [
+          196,
+          342
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        184,
+        632,
+        221
+      ],
+      "text": "Nguyện thỉnh thụ vi đệ-tử.",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0048_viet_003",
+      "bbox": [
+        [
+          223,
+          229
+        ],
+        [
+          577,
+          229
+        ],
+        [
+          577,
+          266
+        ],
+        [
+          223,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          350
+        ],
+        [
+          577,
+          350
+        ],
+        [
+          577,
+          387
+        ],
+        [
+          223,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        229,
+        577,
+        266
+      ],
+      "text": "xin thày thu làm đệ-tử,",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0048_viet_004",
+      "bbox": [
+        [
+          196,
+          350
+        ],
+        [
+          786,
+          354
+        ],
+        [
+          786,
+          391
+        ],
+        [
+          196,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          471
+        ],
+        [
+          786,
+          475
+        ],
+        [
+          786,
+          512
+        ],
+        [
+          196,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        350,
+        786,
+        391
+      ],
+      "text": "Thả Nhan tiên-sinh dữ quả-nhân du",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0048_viet_005",
+      "bbox": [
+        [
+          225,
+          399
+        ],
+        [
+          658,
+          399
+        ],
+        [
+          658,
+          436
+        ],
+        [
+          225,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          520
+        ],
+        [
+          658,
+          520
+        ],
+        [
+          658,
+          557
+        ],
+        [
+          225,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        399,
+        658,
+        436
+      ],
+      "text": "thày cùng trắm cùng đi chơi,",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0048_viet_006",
+      "bbox": [
+        [
+          197,
+          519
+        ],
+        [
+          766,
+          521
+        ],
+        [
+          765,
+          559
+        ],
+        [
+          197,
+          557
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          640
+        ],
+        [
+          766,
+          642
+        ],
+        [
+          765,
+          680
+        ],
+        [
+          197,
+          678
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        519,
+        766,
+        559
+      ],
+      "text": "thực tất thái-lao, xuất tất thừa xa,",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0048_viet_007",
+      "bbox": [
+        [
+          223,
+          566
+        ],
+        [
+          639,
+          569
+        ],
+        [
+          639,
+          607
+        ],
+        [
+          223,
+          605
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          687
+        ],
+        [
+          639,
+          690
+        ],
+        [
+          639,
+          728
+        ],
+        [
+          223,
+          726
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        566,
+        639,
+        607
+      ],
+      "text": "ăn cùng yên-tiệc đi cùng xe,",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0048_viet_008",
+      "bbox": [
+        [
+          199,
+          691
+        ],
+        [
+          527,
+          691
+        ],
+        [
+          527,
+          729
+        ],
+        [
+          199,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          812
+        ],
+        [
+          527,
+          812
+        ],
+        [
+          527,
+          850
+        ],
+        [
+          199,
+          850
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        691,
+        527,
+        729
+      ],
+      "text": "Thê-tử y-phục lệ đô",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0048_viet_009",
+      "bbox": [
+        [
+          222,
+          735
+        ],
+        [
+          577,
+          733
+        ],
+        [
+          577,
+          774
+        ],
+        [
+          222,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          856
+        ],
+        [
+          577,
+          854
+        ],
+        [
+          577,
+          895
+        ],
+        [
+          222,
+          897
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        733,
+        577,
+        776
+      ],
+      "text": "vợ con quần áo đẹp tôt.",
+      "confidence": 0.8801
+    },
+    {
+      "line_id": "0048_viet_010",
+      "bbox": [
+        [
+          200,
+          860
+        ],
+        [
+          774,
+          860
+        ],
+        [
+          774,
+          897
+        ],
+        [
+          200,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          981
+        ],
+        [
+          774,
+          981
+        ],
+        [
+          774,
+          1018
+        ],
+        [
+          200,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        860,
+        774,
+        897
+      ],
+      "text": "Xúc từ viết: phù ngọc sinh ư sơn",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0048_viet_011",
+      "bbox": [
+        [
+          227,
+          904
+        ],
+        [
+          789,
+          904
+        ],
+        [
+          789,
+          944
+        ],
+        [
+          227,
+          944
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1025
+        ],
+        [
+          789,
+          1025
+        ],
+        [
+          789,
+          1065
+        ],
+        [
+          227,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        904,
+        789,
+        944
+      ],
+      "text": "Xúc từ chồi nói: ngọc sinh trong núi",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0048_viet_012",
+      "bbox": [
+        [
+          198,
+          1028
+        ],
+        [
+          824,
+          1030
+        ],
+        [
+          824,
+          1068
+        ],
+        [
+          198,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1149
+        ],
+        [
+          824,
+          1151
+        ],
+        [
+          824,
+          1189
+        ],
+        [
+          198,
+          1188
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1028,
+        824,
+        1068
+      ],
+      "text": "chẽ tắc phá yên, phi phát bảo-quý hĩ",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0048_viet_013",
+      "bbox": [
+        [
+          226,
+          1074
+        ],
+        [
+          825,
+          1077
+        ],
+        [
+          825,
+          1114
+        ],
+        [
+          226,
+          1111
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1195
+        ],
+        [
+          825,
+          1198
+        ],
+        [
+          825,
+          1235
+        ],
+        [
+          226,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1074,
+        825,
+        1114
+      ],
+      "text": "đem mài rũa thì võ không còn quý nữa",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0048_viet_014",
+      "bbox": [
+        [
+          198,
+          1199
+        ],
+        [
+          625,
+          1199
+        ],
+        [
+          625,
+          1236
+        ],
+        [
+          198,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1320
+        ],
+        [
+          625,
+          1320
+        ],
+        [
+          625,
+          1357
+        ],
+        [
+          198,
+          1357
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1199,
+        625,
+        1236
+      ],
+      "text": "nhiên thái phác bất hoàn",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0048_viet_015",
+      "bbox": [
+        [
+          227,
+          1244
+        ],
+        [
+          646,
+          1244
+        ],
+        [
+          646,
+          1282
+        ],
+        [
+          227,
+          1282
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1365
+        ],
+        [
+          646,
+          1365
+        ],
+        [
+          646,
+          1403
+        ],
+        [
+          227,
+          1403
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        1244,
+        646,
+        1282
+      ],
+      "text": "mà cũng không còn toàn-vẹn",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0048_viet_016",
+      "bbox": [
+        [
+          198,
+          1372
+        ],
+        [
+          826,
+          1372
+        ],
+        [
+          826,
+          1406
+        ],
+        [
+          198,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1493
+        ],
+        [
+          826,
+          1493
+        ],
+        [
+          826,
+          1527
+        ],
+        [
+          198,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1372,
+        826,
+        1406
+      ],
+      "text": "Sĩ sinh hồ bi-dã, suy tuyền tắc lộc yên",
+      "confidence": 0.9061
+    },
+    {
+      "line_id": "0048_viet_017",
+      "bbox": [
+        [
+          224,
+          1413
+        ],
+        [
+          991,
+          1412
+        ],
+        [
+          991,
+          1452
+        ],
+        [
+          224,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1534
+        ],
+        [
+          991,
+          1533
+        ],
+        [
+          991,
+          1573
+        ],
+        [
+          224,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1412,
+        991,
+        1453
+      ],
+      "text": "kẻ sĩ sinh chồn quê mùa đem dùng thì có tước lộc",
+      "confidence": 0.9252
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Nguyện thỉnh thụ vi đệ-tử.",
+      "Thả Nhan tiên-sinh dữ quả-nhân du",
+      "thực tất thái-lao, xuất tất thừa xa,",
+      "Thê-tử y-phục lệ đô",
+      "Xúc từ viết: phù ngọc sinh ư sơn",
+      "chẽ tắc phá yên, phi phát bảo-quý hĩ",
+      "nhiên thái phác bất hoàn",
+      "Sĩ sinh hồ bi-dã, suy tuyền tắc lộc yên"
+    ],
+    "dich_nghia_lines": [
+      "xin thày thu làm đệ-tử,",
+      "thày cùng trắm cùng đi chơi,",
+      "ăn cùng yên-tiệc đi cùng xe,",
+      "vợ con quần áo đẹp tôt.",
+      "Xúc từ chồi nói: ngọc sinh trong núi",
+      "đem mài rũa thì võ không còn quý nữa",
+      "mà cũng không còn toàn-vẹn",
+      "kẻ sĩ sinh chồn quê mùa đem dùng thì có tước lộc"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "願請受為弟子",
+        "phien_am": "Nguyện thỉnh thụ vi đệ-tử.",
+        "dich_nghia_gloss": "xin thày thu làm đệ-tử,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "且顏先生與寡人遊",
+        "phien_am": "Thả Nhan tiên-sinh dữ quả-nhân du",
+        "dich_nghia_gloss": "thày cùng trắm cùng đi chơi,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "食必太牢出必乘車",
+        "phien_am": "thực tất thái-lao, xuất tất thừa xa,",
+        "dich_nghia_gloss": "ăn cùng yên-tiệc đi cùng xe,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "妻子衣服麗都",
+        "phien_am": "Thê-tử y-phục lệ đô",
+        "dich_nghia_gloss": "vợ con quần áo đẹp tôt."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "斶辭曰夫玉生於山",
+        "phien_am": "Xúc từ viết: phù ngọc sinh ư sơn",
+        "dich_nghia_gloss": "Xúc từ chồi nói: ngọc sinh trong núi"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "制則破焉非弗寶貴矣",
+        "phien_am": "chẽ tắc phá yên, phi phát bảo-quý hĩ",
+        "dich_nghia_gloss": "đem mài rũa thì võ không còn quý nữa"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "然太璞不完",
+        "phien_am": "nhiên thái phác bất hoàn",
+        "dich_nghia_gloss": "mà cũng không còn toàn-vẹn"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "士生乎鄙野推選則祿焉",
+        "phien_am": "Sĩ sinh hồ bi-dã, suy tuyền tắc lộc yên",
+        "dich_nghia_gloss": "kẻ sĩ sinh chồn quê mùa đem dùng thì có tước lộc"
+      }
+    ]
+  }
+}

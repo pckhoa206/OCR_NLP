@@ -1,0 +1,307 @@
+{
+  "page_id": "0163",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 163,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0163_han_000",
+      "bbox": [
+        [
+          176,
+          1695
+        ],
+        [
+          578,
+          1702
+        ],
+        [
+          577,
+          1739
+        ],
+        [
+          176,
+          1733
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1850
+        ],
+        [
+          578,
+          1857
+        ],
+        [
+          577,
+          1894
+        ],
+        [
+          176,
+          1888
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1695,
+        578,
+        1739
+      ],
+      "text": "1º KHL1: thèm chü vän 文",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0163_han_001",
+      "bbox": [
+        [
+          174,
+          1732
+        ],
+        [
+          441,
+          1735
+        ],
+        [
+          441,
+          1772
+        ],
+        [
+          174,
+          1769
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1887
+        ],
+        [
+          441,
+          1890
+        ],
+        [
+          441,
+          1927
+        ],
+        [
+          174,
+          1924
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1732,
+        441,
+        1772
+      ],
+      "text": "2 KHL1: chu 舟",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0163_han_002",
+      "bbox": [
+        [
+          170,
+          1767
+        ],
+        [
+          561,
+          1761
+        ],
+        [
+          562,
+          1813
+        ],
+        [
+          171,
+          1819
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1922
+        ],
+        [
+          561,
+          1916
+        ],
+        [
+          562,
+          1968
+        ],
+        [
+          171,
+          1974
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1761,
+        562,
+        1819
+      ],
+      "text": "3* KHL1 : tr phùng 兹蓬",
+      "confidence": 0.8703
+    },
+    {
+      "line_id": "0163_han_003",
+      "bbox": [
+        [
+          174,
+          1809
+        ],
+        [
+          427,
+          1813
+        ],
+        [
+          426,
+          1850
+        ],
+        [
+          174,
+          1846
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1964
+        ],
+        [
+          427,
+          1968
+        ],
+        [
+          426,
+          2005
+        ],
+        [
+          174,
+          2001
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1809,
+        427,
+        1850
+      ],
+      "text": "4*KHL1:u于",
+      "confidence": 0.8027
+    },
+    {
+      "line_id": "0163_han_004",
+      "bbox": [
+        [
+          173,
+          1842
+        ],
+        [
+          447,
+          1847
+        ],
+        [
+          447,
+          1892
+        ],
+        [
+          172,
+          1886
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1997
+        ],
+        [
+          447,
+          2002
+        ],
+        [
+          447,
+          2047
+        ],
+        [
+          172,
+          2041
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1842,
+        447,
+        1892
+      ],
+      "text": "5° KHL1:bão 寶",
+      "confidence": 0.8146
+    },
+    {
+      "line_id": "0163_han_005",
+      "bbox": [
+        [
+          174,
+          1883
+        ],
+        [
+          587,
+          1886
+        ],
+        [
+          587,
+          1928
+        ],
+        [
+          174,
+          1924
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          2038
+        ],
+        [
+          587,
+          2041
+        ],
+        [
+          587,
+          2083
+        ],
+        [
+          174,
+          2079
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1883,
+        587,
+        1928
+      ],
+      "text": "6• KiLa : thèm chü dâng 等",
+      "confidence": 0.8621
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "page_id": "0197",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 197,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0197_viet_000",
+      "bbox": [
+        [
+          143,
+          5
+        ],
+        [
+          435,
+          5
+        ],
+        [
+          435,
+          43
+        ],
+        [
+          143,
+          43
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          120
+        ],
+        [
+          435,
+          120
+        ],
+        [
+          435,
+          158
+        ],
+        [
+          143,
+          158
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        5,
+        435,
+        43
+      ],
+      "text": "Bảng treo cổng trời,",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0197_viet_001",
+      "bbox": [
+        [
+          140,
+          48
+        ],
+        [
+          534,
+          51
+        ],
+        [
+          534,
+          91
+        ],
+        [
+          140,
+          88
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          163
+        ],
+        [
+          534,
+          166
+        ],
+        [
+          534,
+          206
+        ],
+        [
+          140,
+          203
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        48,
+        534,
+        91
+      ],
+      "text": "Đất bằng một hồi sấm giật.",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0197_viet_002",
+      "bbox": [
+        [
+          139,
+          99
+        ],
+        [
+          548,
+          102
+        ],
+        [
+          548,
+          140
+        ],
+        [
+          139,
+          137
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          214
+        ],
+        [
+          548,
+          217
+        ],
+        [
+          548,
+          255
+        ],
+        [
+          139,
+          252
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        99,
+        548,
+        140
+      ],
+      "text": "Nhũ vàng tin tức bay nhanh,",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0197_viet_003",
+      "bbox": [
+        [
+          140,
+          148
+        ],
+        [
+          343,
+          148
+        ],
+        [
+          343,
+          186
+        ],
+        [
+          140,
+          186
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          263
+        ],
+        [
+          343,
+          263
+        ],
+        [
+          343,
+          301
+        ],
+        [
+          140,
+          301
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        148,
+        343,
+        186
+      ],
+      "text": "Cha mẹ thích.",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0197_viet_004",
+      "bbox": [
+        [
+          139,
+          238
+        ],
+        [
+          429,
+          241
+        ],
+        [
+          428,
+          286
+        ],
+        [
+          138,
+          283
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          353
+        ],
+        [
+          429,
+          356
+        ],
+        [
+          428,
+          401
+        ],
+        [
+          138,
+          398
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        238,
+        429,
+        286
+      ],
+      "text": "Côn biến vẩy phàm,",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0197_viet_005",
+      "bbox": [
+        [
+          140,
+          290
+        ],
+        [
+          467,
+          293
+        ],
+        [
+          467,
+          334
+        ],
+        [
+          139,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          405
+        ],
+        [
+          467,
+          408
+        ],
+        [
+          467,
+          449
+        ],
+        [
+          139,
+          445
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        290,
+        467,
+        334
+      ],
+      "text": "Bằng tung cánh mạnh",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0197_viet_006",
+      "bbox": [
+        [
+          137,
+          341
+        ],
+        [
+          637,
+          338
+        ],
+        [
+          637,
+          382
+        ],
+        [
+          137,
+          384
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          456
+        ],
+        [
+          637,
+          453
+        ],
+        [
+          637,
+          497
+        ],
+        [
+          137,
+          499
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        338,
+        637,
+        384
+      ],
+      "text": "Rạng rỡ mây hồng trong gang tắc",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0197_viet_007",
+      "bbox": [
+        [
+          137,
+          390
+        ],
+        [
+          422,
+          392
+        ],
+        [
+          422,
+          431
+        ],
+        [
+          137,
+          429
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          505
+        ],
+        [
+          422,
+          507
+        ],
+        [
+          422,
+          546
+        ],
+        [
+          137,
+          544
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        390,
+        422,
+        431
+      ],
+      "text": "Khéo giúp đạo vua,",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0197_viet_008",
+      "bbox": [
+        [
+          138,
+          437
+        ],
+        [
+          560,
+          439
+        ],
+        [
+          560,
+          480
+        ],
+        [
+          138,
+          477
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          552
+        ],
+        [
+          560,
+          554
+        ],
+        [
+          560,
+          595
+        ],
+        [
+          138,
+          592
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        437,
+        560,
+        480
+      ],
+      "text": "Khắp chúng dân nhờ ơn đức.",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0197_viet_009",
+      "bbox": [
+        [
+          138,
+          486
+        ],
+        [
+          430,
+          490
+        ],
+        [
+          429,
+          529
+        ],
+        [
+          137,
+          526
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          601
+        ],
+        [
+          430,
+          605
+        ],
+        [
+          429,
+          644
+        ],
+        [
+          137,
+          641
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        486,
+        430,
+        529
+      ],
+      "text": "Khuê, cổn ghi công,",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0197_viet_010",
+      "bbox": [
+        [
+          139,
+          535
+        ],
+        [
+          370,
+          535
+        ],
+        [
+          370,
+          576
+        ],
+        [
+          139,
+          576
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          650
+        ],
+        [
+          370,
+          650
+        ],
+        [
+          370,
+          691
+        ],
+        [
+          139,
+          691
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        535,
+        370,
+        576
+      ],
+      "text": "Truyền sử sách.",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0197_viet_011",
+      "bbox": [
+        [
+          247,
+          650
+        ],
+        [
+          869,
+          654
+        ],
+        [
+          868,
+          698
+        ],
+        [
+          246,
+          694
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          765
+        ],
+        [
+          869,
+          769
+        ],
+        [
+          868,
+          813
+        ],
+        [
+          246,
+          809
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        650,
+        869,
+        698
+      ],
+      "text": "NGUYỄN NGỌC THIÊM (THẾ KỈ XVIII)",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0197_viet_012",
+      "bbox": [
+        [
+          137,
+          731
+        ],
+        [
+          1041,
+          729
+        ],
+        [
+          1041,
+          769
+        ],
+        [
+          137,
+          771
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          846
+        ],
+        [
+          1041,
+          844
+        ],
+        [
+          1041,
+          884
+        ],
+        [
+          137,
+          886
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        729,
+        1041,
+        771
+      ],
+      "text": "Chưa rõ năm sinh, năm mất và hành trạng cụ thể, chỉ biết",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0197_viet_013",
+      "bbox": [
+        [
+          77,
+          771
+        ],
+        [
+          1042,
+          775
+        ],
+        [
+          1042,
+          816
+        ],
+        [
+          77,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          77,
+          886
+        ],
+        [
+          1042,
+          890
+        ],
+        [
+          1042,
+          931
+        ],
+        [
+          77,
+          927
+        ]
+      ],
+      "box_xyxy": [
+        77,
+        771,
+        1042,
+        816
+      ],
+      "text": "rằng ông là người Hoà Mậu, Sơn Tây, sống cùng thời với tác giả",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0197_viet_014",
+      "bbox": [
+        [
+          74,
+          815
+        ],
+        [
+          1042,
+          818
+        ],
+        [
+          1042,
+          858
+        ],
+        [
+          74,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          930
+        ],
+        [
+          1042,
+          933
+        ],
+        [
+          1042,
+          973
+        ],
+        [
+          74,
+          970
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        815,
+        1042,
+        858
+      ],
+      "text": "Đặng Trần Còn (thế ki XVIII). Các bài từ dưới đây do ông ngấm",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0197_viet_015",
+      "bbox": [
+        [
+          74,
+          859
+        ],
+        [
+          1042,
+          858
+        ],
+        [
+          1042,
+          898
+        ],
+        [
+          74,
+          899
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          974
+        ],
+        [
+          1042,
+          973
+        ],
+        [
+          1042,
+          1013
+        ],
+        [
+          74,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        858,
+        1042,
+        899
+      ],
+      "text": "hoạ cùng Đặng Trần Côn, theo 4 đề mục: 1/ Xuân nhật hoài tình",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0197_viet_016",
+      "bbox": [
+        [
+          75,
+          901
+        ],
+        [
+          1043,
+          904
+        ],
+        [
+          1043,
+          943
+        ],
+        [
+          75,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          75,
+          1016
+        ],
+        [
+          1043,
+          1019
+        ],
+        [
+          1043,
+          1058
+        ],
+        [
+          75,
+          1056
+        ]
+      ],
+      "box_xyxy": [
+        75,
+        901,
+        1043,
+        943
+      ],
+      "text": "nhân (đã R IRtế - Ngày xuân nhớ người yêu), 21 Thú phụ ki",
+      "confidence": 0.8469
+    },
+    {
+      "line_id": "0197_viet_017",
+      "bbox": [
+        [
+          75,
+          950
+        ],
+        [
+          1041,
+          952
+        ],
+        [
+          1041,
+          992
+        ],
+        [
+          75,
+          990
+        ]
+      ],
+      "bbox_original": [
+        [
+          75,
+          1065
+        ],
+        [
+          1041,
+          1067
+        ],
+        [
+          1041,
+          1107
+        ],
+        [
+          75,
+          1105
+        ]
+      ],
+      "box_xyxy": [
+        75,
+        950,
+        1041,
+        992
+      ],
+      "text": "chinh phu (để tế F lík - Vợ người lính thú gửi chồng xa), 3/",
+      "confidence": 0.8683
+    },
+    {
+      "line_id": "0197_viet_018",
+      "bbox": [
+        [
+          76,
+          998
+        ],
+        [
+          1040,
+          999
+        ],
+        [
+          1040,
+          1039
+        ],
+        [
+          76,
+          1038
+        ]
+      ],
+      "bbox_original": [
+        [
+          76,
+          1113
+        ],
+        [
+          1040,
+          1114
+        ],
+        [
+          1040,
+          1154
+        ],
+        [
+          76,
+          1153
+        ]
+      ],
+      "box_xyxy": [
+        76,
+        998,
+        1040,
+        1039
+      ],
+      "text": "Chinh phu kí hoàn (lê k Fx: ? Chinh phu gửi về), 4/ Đoạt cầm",
+      "confidence": 0.8404
+    },
+    {
+      "line_id": "0197_viet_019",
+      "bbox": [
+        [
+          77,
+          1047
+        ],
+        [
+          1039,
+          1047
+        ],
+        [
+          1039,
+          1087
+        ],
+        [
+          77,
+          1087
+        ]
+      ],
+      "bbox_original": [
+        [
+          77,
+          1162
+        ],
+        [
+          1039,
+          1162
+        ],
+        [
+          1039,
+          1202
+        ],
+        [
+          77,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        77,
+        1047,
+        1039,
+        1087
+      ],
+      "text": "vinh quy (lệ 42 (đặ ? Đoạt áo gấm vẻ vang quay về), tất cả gồm",
+      "confidence": 0.8715
+    },
+    {
+      "line_id": "0197_viet_020",
+      "bbox": [
+        [
+          74,
+          1094
+        ],
+        [
+          1039,
+          1097
+        ],
+        [
+          1039,
+          1137
+        ],
+        [
+          74,
+          1134
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          1209
+        ],
+        [
+          1039,
+          1212
+        ],
+        [
+          1039,
+          1252
+        ],
+        [
+          74,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        1094,
+        1039,
+        1137
+      ],
+      "text": "8 bài, được chép trong phần Phủ chưởng tân thư (dê (đí (s),",
+      "confidence": 0.8592
+    },
+    {
+      "line_id": "0197_viet_021",
+      "bbox": [
+        [
+          74,
+          1143
+        ],
+        [
+          768,
+          1144
+        ],
+        [
+          768,
+          1183
+        ],
+        [
+          74,
+          1182
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          1258
+        ],
+        [
+          768,
+          1259
+        ],
+        [
+          768,
+          1298
+        ],
+        [
+          74,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        1143,
+        768,
+        1183
+      ],
+      "text": "sách Danh ngôn tạp trước (Z ? M %, A.1073).",
+      "confidence": 0.8554
+    },
+    {
+      "line_id": "0197_viet_022",
+      "bbox": [
+        [
+          140,
+          1249
+        ],
+        [
+          175,
+          1249
+        ],
+        [
+          175,
+          1288
+        ],
+        [
+          140,
+          1288
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          1364
+        ],
+        [
+          175,
+          1364
+        ],
+        [
+          175,
+          1403
+        ],
+        [
+          140,
+          1403
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        1249,
+        175,
+        1288
+      ],
+      "text": "I.",
+      "confidence": 0.6916
+    },
+    {
+      "line_id": "0197_viet_023",
+      "bbox": [
+        [
+          71,
+          1427
+        ],
+        [
+          137,
+          1427
+        ],
+        [
+          137,
+          1469
+        ],
+        [
+          71,
+          1469
+        ]
+      ],
+      "bbox_original": [
+        [
+          71,
+          1542
+        ],
+        [
+          137,
+          1542
+        ],
+        [
+          137,
+          1584
+        ],
+        [
+          71,
+          1584
+        ]
+      ],
+      "box_xyxy": [
+        71,
+        1427,
+        137,
+        1469
+      ],
+      "text": "190",
+      "confidence": 0.9247
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Bảng treo cổng trời,",
+      "Đất bằng một hồi sấm giật.",
+      "Nhũ vàng tin tức bay nhanh,",
+      "Cha mẹ thích.",
+      "Côn biến vẩy phàm,",
+      "Bằng tung cánh mạnh",
+      "Rạng rỡ mây hồng trong gang tắc",
+      "Khéo giúp đạo vua,",
+      "Khắp chúng dân nhờ ơn đức.",
+      "Khuê, cổn ghi công,",
+      "Truyền sử sách.",
+      "NGUYỄN NGỌC THIÊM (THẾ KỈ XVIII)",
+      "Chưa rõ năm sinh, năm mất và hành trạng cụ thể, chỉ biết",
+      "rằng ông là người Hoà Mậu, Sơn Tây, sống cùng thời với tác giả",
+      "Đặng Trần Còn (thế ki XVIII). Các bài từ dưới đây do ông ngấm",
+      "hoạ cùng Đặng Trần Côn, theo 4 đề mục: 1/ Xuân nhật hoài tình",
+      "nhân (đã R IRtế - Ngày xuân nhớ người yêu), 21 Thú phụ ki",
+      "chinh phu (để tế F lík - Vợ người lính thú gửi chồng xa), 3/",
+      "Chinh phu kí hoàn (lê k Fx: ? Chinh phu gửi về), 4/ Đoạt cầm",
+      "vinh quy (lệ 42 (đặ ? Đoạt áo gấm vẻ vang quay về), tất cả gồm",
+      "8 bài, được chép trong phần Phủ chưởng tân thư (dê (đí (s),",
+      "sách Danh ngôn tạp trước (Z ? M %, A.1073).",
+      "I.",
+      "190"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

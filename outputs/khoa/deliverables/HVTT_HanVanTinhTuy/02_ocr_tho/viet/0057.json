@@ -1,0 +1,497 @@
+{
+  "page_id": "0057",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 57,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0057_viet_000",
+      "bbox": [
+        [
+          196,
+          61
+        ],
+        [
+          635,
+          61
+        ],
+        [
+          635,
+          101
+        ],
+        [
+          196,
+          101
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          182
+        ],
+        [
+          635,
+          182
+        ],
+        [
+          635,
+          222
+        ],
+        [
+          196,
+          222
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        61,
+        635,
+        101
+      ],
+      "text": "TRIỆU-UY-HẬU VĂN TẾ-SỨ",
+      "confidence": 0.8939
+    },
+    {
+      "line_id": "0057_viet_001",
+      "bbox": [
+        [
+          944,
+          64
+        ],
+        [
+          995,
+          64
+        ],
+        [
+          995,
+          101
+        ],
+        [
+          944,
+          101
+        ]
+      ],
+      "bbox_original": [
+        [
+          944,
+          185
+        ],
+        [
+          995,
+          185
+        ],
+        [
+          995,
+          222
+        ],
+        [
+          944,
+          222
+        ]
+      ],
+      "box_xyxy": [
+        944,
+        64,
+        995,
+        101
+      ],
+      "text": "81",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0057_viet_002",
+      "bbox": [
+        [
+          365,
+          238
+        ],
+        [
+          887,
+          240
+        ],
+        [
+          887,
+          278
+        ],
+        [
+          365,
+          276
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          359
+        ],
+        [
+          887,
+          361
+        ],
+        [
+          887,
+          399
+        ],
+        [
+          365,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        238,
+        887,
+        278
+      ],
+      "text": "Hậu rằng - Đâu phải ta quên,",
+      "confidence": 0.8769
+    },
+    {
+      "line_id": "0057_viet_003",
+      "bbox": [
+        [
+          264,
+          397
+        ],
+        [
+          986,
+          398
+        ],
+        [
+          986,
+          438
+        ],
+        [
+          264,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          518
+        ],
+        [
+          986,
+          519
+        ],
+        [
+          986,
+          559
+        ],
+        [
+          264,
+          558
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        397,
+        986,
+        438
+      ],
+      "text": "a mùa-màng chảng được, dân đen chết mòn",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0057_viet_004",
+      "bbox": [
+        [
+          363,
+          557
+        ],
+        [
+          859,
+          559
+        ],
+        [
+          859,
+          598
+        ],
+        [
+          363,
+          596
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          678
+        ],
+        [
+          859,
+          680
+        ],
+        [
+          859,
+          719
+        ],
+        [
+          363,
+          717
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        557,
+        859,
+        598
+      ],
+      "text": "a hết dân, vua cũng chẳng còn,",
+      "confidence": 0.8784
+    },
+    {
+      "line_id": "0057_viet_005",
+      "bbox": [
+        [
+          260,
+          717
+        ],
+        [
+          902,
+          720
+        ],
+        [
+          902,
+          757
+        ],
+        [
+          260,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          838
+        ],
+        [
+          902,
+          841
+        ],
+        [
+          902,
+          878
+        ],
+        [
+          260,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        717,
+        902,
+        757
+      ],
+      "text": "a cho nên mới hỏi từ nguồn tới sông v.",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0057_viet_006",
+      "bbox": [
+        [
+          361,
+          877
+        ],
+        [
+          817,
+          879
+        ],
+        [
+          817,
+          916
+        ],
+        [
+          361,
+          914
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          998
+        ],
+        [
+          817,
+          1000
+        ],
+        [
+          817,
+          1037
+        ],
+        [
+          361,
+          1035
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        877,
+        817,
+        916
+      ],
+      "text": "Nói rồi, hậu lại hỏi thông",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0057_viet_007",
+      "bbox": [
+        [
+          262,
+          1046
+        ],
+        [
+          932,
+          1046
+        ],
+        [
+          932,
+          1086
+        ],
+        [
+          262,
+          1086
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1167
+        ],
+        [
+          932,
+          1167
+        ],
+        [
+          932,
+          1207
+        ],
+        [
+          262,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1046,
+        932,
+        1086
+      ],
+      "text": "- Ngươi Chung-li-tử vẫn lỏng yên vui ?",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0057_viet_008",
+      "bbox": [
+        [
+          363,
+          1214
+        ],
+        [
+          800,
+          1216
+        ],
+        [
+          800,
+          1258
+        ],
+        [
+          363,
+          1255
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1335
+        ],
+        [
+          800,
+          1337
+        ],
+        [
+          800,
+          1379
+        ],
+        [
+          363,
+          1376
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1214,
+        800,
+        1258
+      ],
+      "text": "a Áo cơm lo tính cho đời,",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0057_viet_009",
+      "bbox": [
+        [
+          260,
+          1379
+        ],
+        [
+          984,
+          1382
+        ],
+        [
+          984,
+          1419
+        ],
+        [
+          260,
+          1416
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1500
+        ],
+        [
+          984,
+          1503
+        ],
+        [
+          984,
+          1540
+        ],
+        [
+          260,
+          1537
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        1379,
+        984,
+        1419
+      ],
+      "text": "a có thời cùng có, không thời cùng không",
+      "confidence": 0.9246
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

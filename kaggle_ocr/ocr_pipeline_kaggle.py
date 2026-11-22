@@ -28,6 +28,7 @@ import argparse
 import json
 import os
 import re
+import statistics
 import subprocess
 import sys
 import unicodedata
@@ -68,8 +69,9 @@ DEFAULT_MIN_SEPARATOR_WIDTH_RATIO = 0.15
 
 # Regex patterns for section headers in TVLT2 / TLTVN / HVTT
 _STOP_HEADER_RE = re.compile(
-    r"^\s*(?:DỊCH\s*THƠ|Dịch\s*thơ|DỊCH\s*THEO\s*NGUYÊN\s*ĐIỆU|Dịch\s*theo\s*nguyên\s*điệu|"
-    r"KHẢO\s*ĐÍNH|Khảo\s*đính|CÁC\s*DỊ\s*BẢN|Các\s*dị\s*bản|CHÚ\s*THÍCH|Chú\s*thích|LỜI\s*BÀN|Lời\s*bàn)\s*[:：.]?",
+    r"^\s*(?:KHẢO\s*ĐÍNH|Khảo\s*đính|VĂN\s*BẢN\s*KHẢO\s*ĐÍNH|Văn\s*bản\s*khảo\s*đính|"
+    r"CÁC\s*DỊ\s*BẢN|Các\s*dị\s*bản|CHÚ\s*:?\s*THÍCH|Chú\s*:?\s*thích|"
+    r"CÁC\s*THÍCH|Các\s*thích|LỜI\s*BÀN|Lời\s*bàn|BÌNH\s*CHÚ|Bình\s*chú)\b\s*[:：.]?",
     flags=re.IGNORECASE,
 )
 _DICH_THO_HEADER_RE = re.compile(
@@ -85,8 +87,66 @@ _DICH_NGHIA_HEADER_RE = re.compile(
     flags=re.IGNORECASE,
 )
 
-# CJK detection regex for distinguishing Han lines from Vietnamese lines
+# Diacritic-folded regexes to tolerate noisy OCR section headers
+_FOLDED_STOP_HEADER_RE = re.compile(
+    r"^\s*(?:KHAO\s*(?:DINH|HINH|DI)|KI\s*AO\s*DINH|VAN\s*BAN\s*KHAO|CAC\s*DI\s*BAN|"
+    r"CHU\s*:?\s*TH[IA]CH|[CG][HI]U\s*TH[IA]CH|CAC\s*THICH|LOI\s*BAN|BINH\s*CHU)\b\s*[:：.]?\s*(.*)$",
+    flags=re.IGNORECASE,
+)
+_FOLDED_DICH_THO_HEADER_RE = re.compile(
+    r"^\s*DI[CG]H\s*(?:TH[O0G]|TR[OY]|THEO\s*NGUYEN\s*DIEU)\b\s*[:：.]?\s*(.*)$",
+    flags=re.IGNORECASE,
+)
+_FOLDED_PHIEN_AM_HEADER_RE = re.compile(
+    r"^\s*PH[I1]EN\s*(?:AM|ANH)\b\s*[:：.]?\s*(.*)$",
+    flags=re.IGNORECASE,
+)
+_FOLDED_DICH_NGHIA_HEADER_RE = re.compile(
+    r"^\s*D[I1]CH\s*(?:NGH[I1]A|NG[I1]TA|XU[O0][I1])\b\s*[:：.]?\s*(.*)$",
+    flags=re.IGNORECASE,
+)
+_FOLDED_TIEU_DAN_RE = re.compile(r"^\s*TIEU[\s\-]*(?:DAN|TRUYEN)\b", flags=re.IGNORECASE)
+_HVTT_RUNNING_HEADER_RE = re.compile(r"HAN[\s\-]*VAN\s+TINH[\s\-]*TUY", flags=re.IGNORECASE)
+_PAGE_NUM_RE = re.compile(r"^\d{1,3}$")
+_TLTVN_NUMBERED_FOOTNOTE_RE = re.compile(r"^\d{1,2}\s+[A-Z\u00C0-\u024F\u1E00-\u1EFF]")
+
+# CJK & Latin detection regexes for distinguishing Han lines from Vietnamese lines
 _CJK_CHAR_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
+_LATIN_CHAR_RE = re.compile(r"[A-Za-z\u00C0-\u024F\u1E00-\u1EFF]")
+
+
+def _fold_ascii_header(text: str) -> str:
+    """Fold Vietnamese diacritics (including `đ`/`Đ`) to ASCII for tolerant header matching."""
+    if not text:
+        return ""
+    decomposed = unicodedata.normalize("NFD", text.replace("đ", "d").replace("Đ", "D"))
+    stripped = "".join(ch for ch in decomposed if unicodedata.category(ch) != "Mn")
+    return unicodedata.normalize("NFC", stripped).strip()
+
+
+def _count_cjk_and_latin(text: str) -> Tuple[int, int]:
+    """Return `(cjk_char_count, latin_char_count)` for a text line."""
+    if not text:
+        return (0, 0)
+    return len(_CJK_CHAR_RE.findall(text)), len(_LATIN_CHAR_RE.findall(text))
+
+
+def _is_primary_han_line(text: str) -> bool:
+    """Return True if a line is predominantly Classical Chinese rather than Vietnamese prose with inline CJK."""
+    cjk_cnt, latin_cnt = _count_cjk_and_latin(text)
+    return cjk_cnt >= 1 and (latin_cnt == 0 or cjk_cnt >= latin_cnt)
+
+
+def _is_hvtt_running_header(text: str, y1: float) -> bool:
+    """Return True if an HVTT OCR line is a running page title or page number at the top margin."""
+    folded = _fold_ascii_header(text)
+    if not folded:
+        return True
+    if _HVTT_RUNNING_HEADER_RE.search(folded):
+        return True
+    if y1 < 90.0 and _PAGE_NUM_RE.match(folded):
+        return True
+    return False
 
 
 # ---------------------------------------------------------------------------
@@ -298,7 +358,7 @@ def preprocess_page_image(
     separator_y_original: Optional[int] = None
 
     if should_detect_fn and after_header_h > 0:
-        separator_y_cropped = detect_footnote_separator(cropped_img)
+        separator_y_cropped = detect_footnote_separator(cropped_img, lower_half_start=0.20)
         if separator_y_cropped is not None:
             separator_y_original = crop_top_px + separator_y_cropped
             cropped_img = slice_image_vertical(cropped_img, 0, separator_y_cropped)
@@ -325,25 +385,92 @@ def preprocess_page_image(
 
 
 def is_stop_section_header(text: str) -> bool:
-    """Return True if `text` starts a non-corpus section (`DỊCH THƠ :`, `KHẢO ĐÍNH :`, `CHÚ THÍCH :`)."""
+    """Return True if `text` starts a true apparatus/stop section (`KHẢO ĐÍNH :`, `CHÚ THÍCH :`, etc.)."""
     if not text:
         return False
-    normalized = unicodedata.normalize("NFC", text.strip())
-    return bool(_STOP_HEADER_RE.match(normalized))
+    folded = _fold_ascii_header(text)
+    return bool(_STOP_HEADER_RE.match(unicodedata.normalize("NFC", text.strip())) or _FOLDED_STOP_HEADER_RE.match(folded))
+
+
+def _extract_header_remainder(text: str, folded_pattern: re.Pattern[str]) -> Tuple[bool, str]:
+    """Match a folded header regex and return `(matched, original_unicode_remainder)`."""
+    if not text:
+        return (False, "")
+    nfc = unicodedata.normalize("NFC", text.strip())
+    folded = _fold_ascii_header(nfc)
+    m = folded_pattern.match(folded)
+    if not m:
+        return (False, "")
+    rest_folded = m.group(1).strip() if m.lastindex and m.lastindex >= 1 else ""
+    if not rest_folded:
+        return (True, "")
+    if len(folded) == len(nfc):
+        return (True, nfc[m.start(1):].strip())
+    for sep in (":", "：", "."):
+        if sep in nfc:
+            return (True, nfc.split(sep, 1)[1].strip())
+    return (True, rest_folded)
 
 
 def classify_section_header(text: str) -> Optional[str]:
-    """Classify a line as `'stop'`, `'phien_am'`, `'dich_nghia'`, or `None`."""
+    """Classify a line as `'stop'`, `'dich_tho'`, `'phien_am'`, `'dich_nghia'`, or `None`."""
     if not text:
         return None
-    normalized = unicodedata.normalize("NFC", text.strip())
-    if _STOP_HEADER_RE.match(normalized):
+    nfc = unicodedata.normalize("NFC", text.strip())
+    folded = _fold_ascii_header(nfc)
+    if is_stop_section_header(nfc):
         return "stop"
-    if _PHIEN_AM_HEADER_RE.match(normalized):
+    if _DICH_THO_HEADER_RE.match(nfc) or _FOLDED_DICH_THO_HEADER_RE.match(folded):
+        return "dich_tho"
+    if _PHIEN_AM_HEADER_RE.match(nfc) or _FOLDED_PHIEN_AM_HEADER_RE.match(folded):
         return "phien_am"
-    if _DICH_NGHIA_HEADER_RE.match(normalized):
+    if _DICH_NGHIA_HEADER_RE.match(nfc) or _FOLDED_DICH_NGHIA_HEADER_RE.match(folded):
         return "dich_nghia"
     return None
+
+
+def _word_count(text: str) -> int:
+    """Count lexical word tokens in `text`, ignoring standalone punctuation like `'-'`."""
+    if not text:
+        return 0
+    return sum(1 for tok in unicodedata.normalize("NFC", text).split() if any(ch.isalnum() for ch in tok))
+
+
+def deduplicate_overlapping_items(
+    items: Sequence[Dict[str, Any]],
+    y_threshold: float = 12.0,
+) -> List[Dict[str, Any]]:
+    """Drop duplicate overlapping OCR boxes that share normalized text within `|dy| < y_threshold`."""
+    kept: List[Tuple[str, float, float, float, float, float, int, Dict[str, Any]]] = []
+    for idx, item in enumerate(items):
+        raw_text = unicodedata.normalize("NFC", str(item.get("text", "")))
+        norm_text = " ".join(raw_text.split())
+        if not norm_text:
+            continue
+        x1, y1, x2, y2 = _box_bounds(item)
+        yc = 0.5 * (y1 + y2)
+        conf = float(item.get("confidence", 0.0) or 0.0)
+
+        dup_idx: Optional[int] = None
+        for k_idx, (k_txt, k_x1, k_y1, k_x2, _k_y2, k_yc, _k_conf, _k_item) in enumerate(kept):
+            if k_txt != norm_text:
+                continue
+            if abs(y1 - k_y1) >= y_threshold and abs(yc - k_yc) >= y_threshold:
+                continue
+            x_overlaps = min(x2, k_x2) > max(x1, k_x1) - 20.0
+            if x_overlaps or abs(x1 - k_x1) < 60.0:
+                dup_idx = k_idx
+                break
+
+        if dup_idx is None:
+            kept.append((norm_text, x1, y1, x2, y2, yc, conf, item))
+        else:
+            prev = kept[dup_idx]
+            prev_w = prev[3] - prev[1]
+            cur_w = x2 - x1
+            if (conf, cur_w) > (prev[6], prev_w):
+                kept[dup_idx] = (norm_text, x1, y1, x2, y2, yc, conf, item)
+    return [entry[7] for entry in kept]
 
 
 def _box_bounds(item: Dict[str, Any]) -> Tuple[float, float, float, float]:
@@ -376,97 +503,253 @@ def group_layout_blocks(
     page_num: int = 2,
     page_width: int = 2000,
 ) -> Dict[str, Any]:
-    """Group OCR items into structured `Chữ Hán`, `Phiên âm`, and `Dịch nghĩa` blocks per book type.
+    """Group OCR items into structured `Chữ Hán`, `Phiên âm`, `Dịch nghĩa`, and `Dịch thơ` blocks.
 
     Book Rules:
     - `HVTT` (*Hán Văn Tinh Túy*):
-      * Odd pages (`page_num % 2 == 1`) are commentary pages (`Chú thích` / `Lời bàn`) -> skipped.
-      * Even pages (`page_num % 2 == 0`) contain 3-line interlinear triplets
-        (`Line 1: Chữ Hán`, `Line 2: Phiên âm`, `Line 3: Dịch nghĩa` gloss) followed by a
-        full `Dịch nghĩa` translation block at the bottom of the page.
+      * Odd pages (`page_num % 2 == 1`):
+        - Title pages (containing primary Han title): extract `title_block` (`odd_title_page`).
+        - Facing verse pages without Han: strip 2-item top running header and collect
+          `dich_tho_lines` + `dich_tho_y_centers` (`odd_page_dich_tho`), unless full-width
+          biography prose (`odd_page_bio_prose_skipped`).
+      * Even pages (`page_num % 2 == 0`):
+        - Skip pages with no primary Han (`even_page_non_han_skipped`).
+        - Otherwise strip top running header and group 3-line interlinear triplets, merging
+          wrapped 2-line `Phiên âm` in vertical bands and flagging `has_dich_nghia`.
     - `TLTVN` (*Thể loại từ VN thời trung đại*):
-      * Sequential blocks: `Chữ Hán` -> `Phiên âm:` -> `Dịch nghĩa:`, stopping if `Dịch thơ:`
-        or a stop header is encountered.
+      * Sequential blocks: `Chữ Hán` -> `Phiên âm:` -> `Dịch nghĩa:` -> `Dịch thơ:`, stopping
+        only at numbered footnotes or true apparatus headers (`KHẢO ĐÍNH`, `CHÚ THÍCH`, etc.).
     - `TVLT2` (*Thơ văn Lý – Trần Tập II*):
-      * Supports 2-column side-by-side poetry (left column `x_center < 0.5 * page_width` for
-        `Chữ Hán`, right column `x_center >= 0.5 * page_width` for `Phiên âm`, followed by
-        full-width `DỊCH NGHĨA :`) as well as sequential prose (`Chữ Hán` -> `PHIÊN ÂM :` ->
-        `DỊCH NGHĨA :`), stopping immediately at `DỊCH THƠ :` / `KHẢO ĐÍNH :` / `CHÚ THÍCH :`.
+      * Supports 2-column side-by-side poetry or sequential prose, extracting `DỊCH THƠ :`
+        into `dich_tho_lines` and stopping only at true apparatus headers (`KHẢO ĐÍNH`, `CHÚ THÍCH`).
     """
     book_key = book_type.upper().strip()
-    sorted_han = _sort_items_reading_order(han_items)
-    sorted_viet = _sort_items_reading_order(viet_items)
+    sorted_han = deduplicate_overlapping_items(_sort_items_reading_order(han_items))
+    sorted_viet = deduplicate_overlapping_items(_sort_items_reading_order(viet_items))
 
-    # 1. HVTT: 3-line interlinear blocks on even pages + Dịch thơ on facing odd pages (or inline)
+    # 1. HVTT: odd title/bio/facing-verse pages + even 3-line interlinear pages
     if book_key == "HVTT":
+        han_nodes = [
+            it for it in sorted_han
+            if _is_primary_han_line(it.get("text", ""))
+        ]
+
         if page_num % 2 != 0:
+            # Odd title page: centered Han title + Phiên âm + Dịch nghĩa before TIỂU-DẪN
+            if han_nodes:
+                title_han_node = han_nodes[0]
+                title_chu_han = unicodedata.normalize("NFC", title_han_node.get("text", "").strip())
+                _, han_y1, _, han_y2 = _box_bounds(title_han_node)
+                stop_han_y1: Optional[float] = _box_bounds(han_nodes[1])[1] if len(han_nodes) > 1 else None
+
+                title_phien_am = ""
+                title_dn_parts: List[str] = []
+                for it in sorted_viet:
+                    txt = unicodedata.normalize("NFC", it.get("text", "").strip())
+                    if not txt or _is_primary_han_line(txt):
+                        continue
+                    v_x1, v_y1, _, _ = _box_bounds(it)
+                    if _is_hvtt_running_header(txt, v_y1):
+                        continue
+                    if v_y1 <= han_y1:
+                        continue
+                    if stop_han_y1 is not None and v_y1 >= stop_han_y1:
+                        break
+                    folded = _fold_ascii_header(txt)
+                    if _FOLDED_TIEU_DAN_RE.match(folded):
+                        break
+                    if v_x1 >= 0.54 * float(page_width):
+                        continue
+                    if not title_phien_am:
+                        if v_y1 - han_y2 <= 70.0:
+                            title_phien_am = txt
+                    else:
+                        title_dn_parts.append(txt)
+
+                return {
+                    "book_type": "HVTT",
+                    "page_num": page_num,
+                    "layout_mode": "odd_title_page",
+                    "title_block": {
+                        "chu_han": title_chu_han,
+                        "phien_am": title_phien_am,
+                        "dich_nghia": " ".join(title_dn_parts).strip(),
+                    },
+                    "interlinear_triplets": [],
+                    "chu_han_lines": [],
+                    "phien_am_lines": [],
+                    "dich_nghia_lines": [],
+                    "dich_tho_lines": [],
+                    "dich_tho_y_centers": [],
+                }
+
+            # Odd non-title page without Han: strip 2-item top running header pair band
+            viet_odd_source = list(sorted_viet)
+            if len(viet_odd_source) >= 2:
+                v0_x1, v0_y1, _, _ = _box_bounds(viet_odd_source[0])
+                v1_x1, v1_y1, _, _ = _box_bounds(viet_odd_source[1])
+                if abs(v0_y1 - v1_y1) <= 25.0 and (
+                    (v0_x1 < 0.22 * float(page_width) and v1_x1 >= 0.75 * float(page_width))
+                    or (v1_x1 < 0.22 * float(page_width) and v0_x1 >= 0.75 * float(page_width))
+                ):
+                    viet_odd_source = viet_odd_source[2:]
+
+            has_explicit_dich_tho = any(
+                _extract_header_remainder(
+                    unicodedata.normalize("NFC", it.get("text", "").strip()),
+                    _FOLDED_DICH_THO_HEADER_RE,
+                )[0]
+                or it.get("role", "") == "dich_tho"
+                for it in viet_odd_source
+            )
+
             dich_tho_lines: List[str] = []
-            in_dich_tho = False
-            for it in sorted_viet:
+            dich_tho_y_centers: List[float] = []
+            if has_explicit_dich_tho:
+                in_dich_tho = False
+                for it in viet_odd_source:
+                    txt = unicodedata.normalize("NFC", it.get("text", "").strip())
+                    _, y1, _, y2 = _box_bounds(it)
+                    if not txt or _is_primary_han_line(txt) or _is_hvtt_running_header(txt, y1):
+                        continue
+                    is_dt_hdr, dt_rest = _extract_header_remainder(txt, _FOLDED_DICH_THO_HEADER_RE)
+                    if is_dt_hdr:
+                        in_dich_tho = True
+                        if dt_rest:
+                            dich_tho_lines.append(dt_rest)
+                            dich_tho_y_centers.append(0.5 * (y1 + y2))
+                        continue
+                    if is_stop_section_header(txt):
+                        in_dich_tho = False
+                        continue
+                    if in_dich_tho or it.get("role", "") == "dich_tho":
+                        dich_tho_lines.append(txt)
+                        dich_tho_y_centers.append(0.5 * (y1 + y2))
+
+                return {
+                    "book_type": "HVTT",
+                    "page_num": page_num,
+                    "layout_mode": "odd_page_dich_tho",
+                    "interlinear_triplets": [],
+                    "chu_han_lines": [],
+                    "phien_am_lines": [],
+                    "dich_nghia_lines": [],
+                    "dich_tho_lines": dich_tho_lines,
+                    "dich_tho_y_centers": dich_tho_y_centers,
+                }
+
+            body_entries: List[Tuple[Dict[str, Any], str, float]] = []
+            for it in viet_odd_source:
                 txt = unicodedata.normalize("NFC", it.get("text", "").strip())
-                if not txt or _CJK_CHAR_RE.search(txt):
+                _, y1, _, y2 = _box_bounds(it)
+                if not txt or _is_primary_han_line(txt) or _is_hvtt_running_header(txt, y1):
                     continue
-                m_dt = _DICH_THO_HEADER_RE.match(txt)
-                if m_dt:
-                    in_dich_tho = True
-                    rest = m_dt.group(1).strip()
-                    if rest:
-                        dich_tho_lines.append(rest)
-                    continue
-                if _STOP_HEADER_RE.match(txt):
-                    in_dich_tho = False
-                    continue
-                if in_dich_tho or it.get("role", "") == "dich_tho":
-                    dich_tho_lines.append(txt)
+                if is_stop_section_header(txt):
+                    break
+                body_entries.append((it, txt, 0.5 * (y1 + y2)))
+
+            if body_entries:
+                x1s = [_box_bounds(it)[0] for it, _, _ in body_entries]
+                x2s = [_box_bounds(it)[2] for it, _, _ in body_entries]
+                has_real_coords = any(x2 > 0.0 for x2 in x2s)
+                if (
+                    has_real_coords
+                    and len(body_entries) >= 12
+                    and statistics.median(x1s) < 0.20 * float(page_width)
+                    and max(x2s) > 0.80 * float(page_width)
+                ):
+                    return {
+                        "book_type": "HVTT",
+                        "page_num": page_num,
+                        "layout_mode": "odd_page_bio_prose_skipped",
+                        "interlinear_triplets": [],
+                        "chu_han_lines": [],
+                        "phien_am_lines": [],
+                        "dich_nghia_lines": [],
+                        "dich_tho_lines": [],
+                        "dich_tho_y_centers": [],
+                    }
 
             return {
                 "book_type": "HVTT",
                 "page_num": page_num,
-                "layout_mode": "odd_page_commentary_skipped",
+                "layout_mode": "odd_page_dich_tho" if body_entries else "odd_page_commentary_skipped",
                 "interlinear_triplets": [],
                 "chu_han_lines": [],
                 "phien_am_lines": [],
                 "dich_nghia_lines": [],
-                "dich_tho_lines": dich_tho_lines,
+                "dich_tho_lines": [txt for _, txt, _ in body_entries],
+                "dich_tho_y_centers": [yc for _, _, yc in body_entries],
             }
 
-        # Filter out non-CJK noise from han lines
-        han_lines = [
-            it["text"].strip()
-            for it in sorted_han
-            if _CJK_CHAR_RE.search(it.get("text", ""))
-        ]
+        # Even HVTT page
+        if not han_nodes:
+            return {
+                "book_type": "HVTT",
+                "page_num": page_num,
+                "layout_mode": "even_page_non_han_skipped",
+                "interlinear_triplets": [],
+                "chu_han_lines": [],
+                "phien_am_lines": [],
+                "dich_nghia_lines": [],
+                "dich_tho_lines": [],
+                "has_dich_nghia": False,
+            }
 
-        # Separate interlinear Vietnamese lines (Phiên âm + word-by-word gloss) from bottom Dịch nghĩa / Dịch thơ
+        han_lines = [unicodedata.normalize("NFC", it.get("text", "").strip()) for it in han_nodes]
+        han_y_centers = [0.5 * (_box_bounds(it)[1] + _box_bounds(it)[3]) for it in han_nodes]
+        han_y1_min = _box_bounds(han_nodes[0])[1]
+        has_real_boxes = bool(han_nodes) and any(_box_bounds(h)[3] > 0.0 for h in han_nodes)
+        has_explicit_roles = any(
+            it.get("role") in ("phien_am", "dich_nghia_gloss", "dich_tho")
+            for it in sorted_viet
+        )
+        use_vertical_bands = has_real_boxes and not has_explicit_roles
+
+        # Strip top 2-item even-page running header pair band above the first Han line
+        viet_even_source = list(sorted_viet)
+        if has_real_boxes and len(viet_even_source) >= 2:
+            v0_x1, v0_y1, _, v0_y2 = _box_bounds(viet_even_source[0])
+            v1_x1, v1_y1, _, v1_y2 = _box_bounds(viet_even_source[1])
+            if (
+                abs(v0_y1 - v1_y1) <= 25.0
+                and max(v0_y2, v1_y2) < han_y1_min - 5.0
+                and (
+                    (v0_x1 < 0.22 * float(page_width) and v1_x1 >= 0.50 * float(page_width))
+                    or (v1_x1 < 0.22 * float(page_width) and v0_x1 >= 0.50 * float(page_width))
+                )
+            ):
+                viet_even_source = viet_even_source[2:]
+
         phien_am_lines: List[str] = []
         gloss_lines: List[str] = []
         bottom_dich_nghia: List[str] = []
         dich_tho_lines = []
+        band_items: List[List[Tuple[Dict[str, Any], str]]] = [[] for _ in han_nodes]
         in_bottom_dich_nghia = False
         in_dich_tho = False
         is_final_no_dich_nghia_page = page_num >= 367
 
-        for it in sorted_viet:
+        for it in viet_even_source:
             txt = unicodedata.normalize("NFC", it.get("text", "").strip())
-            if not txt or _CJK_CHAR_RE.search(txt):
+            _, y1, _, y2 = _box_bounds(it)
+            if not txt or _is_primary_han_line(txt) or _is_hvtt_running_header(txt, y1):
                 continue
-            m_dt = _DICH_THO_HEADER_RE.match(txt)
-            if m_dt:
+            is_dt_hdr, dt_rest = _extract_header_remainder(txt, _FOLDED_DICH_THO_HEADER_RE)
+            if is_dt_hdr:
                 in_dich_tho = True
                 in_bottom_dich_nghia = False
-                rest = m_dt.group(1).strip()
-                if rest:
-                    dich_tho_lines.append(rest)
+                if dt_rest:
+                    dich_tho_lines.append(dt_rest)
                 continue
-            if _STOP_HEADER_RE.match(txt):
+            if is_stop_section_header(txt):
                 break
-            m_dn = _DICH_NGHIA_HEADER_RE.match(txt)
-            if m_dn:
+            is_dn_hdr, dn_rest = _extract_header_remainder(txt, _FOLDED_DICH_NGHIA_HEADER_RE)
+            if is_dn_hdr:
                 in_bottom_dich_nghia = True
                 in_dich_tho = False
-                rest = m_dn.group(1).strip()
-                if rest and not is_final_no_dich_nghia_page:
-                    bottom_dich_nghia.append(rest)
+                if dn_rest and not is_final_no_dich_nghia_page:
+                    bottom_dich_nghia.append(dn_rest)
                 continue
 
             role = it.get("role", "")
@@ -475,6 +758,15 @@ def group_layout_blocks(
             elif in_bottom_dich_nghia:
                 if not is_final_no_dich_nghia_page:
                     bottom_dich_nghia.append(txt)
+            elif use_vertical_bands:
+                y_center = 0.5 * (y1 + y2)
+                if y_center < han_y_centers[0] - 5.0:
+                    continue
+                band_idx = 0
+                for cand_idx, h_yc in enumerate(han_y_centers):
+                    if y_center >= h_yc - 5.0:
+                        band_idx = cand_idx
+                band_items[band_idx].append((it, txt))
             else:
                 if role == "phien_am":
                     phien_am_lines.append(txt)
@@ -482,7 +774,6 @@ def group_layout_blocks(
                     if not is_final_no_dich_nghia_page:
                         gloss_lines.append(txt)
                 else:
-                    # Alternate between Phiên âm (line 2 of triplet) and gloss (line 3 of triplet)
                     if is_final_no_dich_nghia_page:
                         phien_am_lines.append(txt)
                     elif len(phien_am_lines) <= len(gloss_lines) and len(phien_am_lines) < len(han_lines):
@@ -492,10 +783,47 @@ def group_layout_blocks(
                     else:
                         bottom_dich_nghia.append(txt)
 
+        no_gloss_by_bands = (
+            use_vertical_bands
+            and len(band_items) > 0
+            and sum(1 for b in band_items if len(b) == 1) >= 0.8 * len(band_items)
+        )
+        has_dich_nghia = not (is_final_no_dich_nghia_page or no_gloss_by_bands)
+
+        if use_vertical_bands:
+            phien_am_lines = []
+            gloss_lines = []
+            for b_idx, b in enumerate(band_items):
+                if not b:
+                    phien_am_lines.append("")
+                    gloss_lines.append("")
+                    continue
+                pa_txt = b[0][1]
+                gl_items = b[1:]
+                if len(b) >= 3:
+                    l0_x1, _, l0_x2, _ = _box_bounds(b[0][0])
+                    l1_x1, _, _, _ = _box_bounds(b[1][0])
+                    l2_x1, _, _, _ = _box_bounds(b[2][0])
+                    han_char_count = _count_cjk_and_latin(han_lines[b_idx])[0]
+                    w0 = _word_count(b[0][1])
+                    w1 = _word_count(b[1][1])
+                    if (
+                        l0_x2 >= 0.80 * float(page_width)
+                        and w1 <= 5
+                        and (
+                            (l1_x1 <= l0_x1 - 18.0 and l1_x1 <= l2_x1 - 18.0)
+                            or (l1_x1 <= l2_x1 - 18.0 and w0 < han_char_count)
+                        )
+                    ):
+                        pa_txt = f"{b[0][1]} {b[1][1]}".strip()
+                        gl_items = b[2:]
+                phien_am_lines.append(pa_txt)
+                gloss_lines.append("" if not has_dich_nghia else " ".join(txt for _it, txt in gl_items))
+
         triplets = []
         for idx, h_line in enumerate(han_lines):
             pa_line = phien_am_lines[idx] if idx < len(phien_am_lines) else ""
-            gl_line = "" if is_final_no_dich_nghia_page else (gloss_lines[idx] if idx < len(gloss_lines) else "")
+            gl_line = "" if not has_dich_nghia else (gloss_lines[idx] if idx < len(gloss_lines) else "")
             triplets.append({
                 "triplet_index": idx,
                 "chu_han": h_line,
@@ -510,42 +838,58 @@ def group_layout_blocks(
             "interlinear_triplets": triplets,
             "chu_han_lines": han_lines,
             "phien_am_lines": phien_am_lines,
-            "dich_nghia_lines": [] if is_final_no_dich_nghia_page else (bottom_dich_nghia if bottom_dich_nghia else gloss_lines),
+            "dich_nghia_lines": [] if not has_dich_nghia else (bottom_dich_nghia if bottom_dich_nghia else gloss_lines),
             "dich_tho_lines": dich_tho_lines,
+            "has_dich_nghia": has_dich_nghia,
         }
 
-    # 2. TLTVN: Sequential Chữ Hán -> Phiên âm: -> Dịch nghĩa:
+    # 2. TLTVN: Sequential Chữ Hán -> Phiên âm: -> Dịch nghĩa: -> Dịch thơ:
     if book_key == "TLTVN":
         han_lines = [
-            it["text"].strip()
+            unicodedata.normalize("NFC", it.get("text", "").strip())
             for it in sorted_han
-            if _CJK_CHAR_RE.search(it.get("text", ""))
+            if _is_primary_han_line(it.get("text", ""))
         ]
         phien_am_lines = []
         dich_nghia_lines = []
+        dich_tho_lines = []
         current_section = "phien_am"
+        prev_viet_y2: Optional[float] = None
 
         for it in sorted_viet:
             txt = unicodedata.normalize("NFC", it.get("text", "").strip())
-            if not txt or _CJK_CHAR_RE.search(txt):
+            if not txt or _is_primary_han_line(txt):
                 continue
+            _, y1, _, y2 = _box_bounds(it)
+            if prev_viet_y2 is not None and (y1 - prev_viet_y2) > 55.0 and _TLTVN_NUMBERED_FOOTNOTE_RE.match(txt):
+                break
+            prev_viet_y2 = y2
+
             header_type = classify_section_header(txt)
             if header_type == "stop":
                 break
             if header_type == "phien_am":
                 current_section = "phien_am"
-                rest = _PHIEN_AM_HEADER_RE.sub("", txt).strip()
+                _, rest = _extract_header_remainder(txt, _FOLDED_PHIEN_AM_HEADER_RE)
                 if rest:
                     phien_am_lines.append(rest)
                 continue
             if header_type == "dich_nghia":
                 current_section = "dich_nghia"
-                rest = _DICH_NGHIA_HEADER_RE.sub("", txt).strip()
+                _, rest = _extract_header_remainder(txt, _FOLDED_DICH_NGHIA_HEADER_RE)
                 if rest:
                     dich_nghia_lines.append(rest)
                 continue
+            if header_type == "dich_tho":
+                current_section = "dich_tho"
+                _, rest = _extract_header_remainder(txt, _FOLDED_DICH_THO_HEADER_RE)
+                if rest:
+                    dich_tho_lines.append(rest)
+                continue
 
-            if current_section == "dich_nghia":
+            if current_section == "dich_tho":
+                dich_tho_lines.append(txt)
+            elif current_section == "dich_nghia":
                 dich_nghia_lines.append(txt)
             else:
                 phien_am_lines.append(txt)
@@ -557,31 +901,34 @@ def group_layout_blocks(
             "chu_han_lines": han_lines,
             "phien_am_lines": phien_am_lines,
             "dich_nghia_lines": dich_nghia_lines,
+            "dich_tho_lines": dich_tho_lines,
         }
 
-    # 3. TVLT2: 2-column side-by-side poetry OR sequential prose, stopping at DỊCH THƠ / KHẢO ĐÍNH / CHÚ THÍCH
+    # 3. TVLT2: 2-column side-by-side poetry OR sequential prose, stopping only at KHẢO ĐÍNH / CHÚ THÍCH
     mid_x = 0.5 * float(page_width)
 
-    # First find the vertical y-cutoff where a stop header (DỊCH THƠ / KHẢO ĐÍNH / CHÚ THÍCH) appears
     stop_y: Optional[float] = None
+    first_prose_sec_y: Optional[float] = None
     for it in sorted_viet:
         txt = unicodedata.normalize("NFC", it.get("text", "").strip())
-        if is_stop_section_header(txt):
-            _, y1, _, _ = _box_bounds(it)
+        _, y1, _, _ = _box_bounds(it)
+        hdr = classify_section_header(txt)
+        if hdr == "stop" and stop_y is None:
             stop_y = y1
             break
+        if hdr in ("dich_nghia", "dich_tho") and first_prose_sec_y is None:
+            first_prose_sec_y = y1
 
     active_han_items = []
     for it in sorted_han:
-        txt = it.get("text", "").strip()
-        if not _CJK_CHAR_RE.search(txt):
+        txt = unicodedata.normalize("NFC", it.get("text", "").strip())
+        if not _is_primary_han_line(txt):
             continue
-        x1, y1, x2, y2 = _box_bounds(it)
+        _x1, y1, _x2, _y2 = _box_bounds(it)
         if stop_y is not None and y1 >= stop_y:
             continue
         active_han_items.append(it)
 
-    # Detect if Han items are predominantly in the left column (2-column poetry layout)
     left_col_han = [
         it for it in active_han_items
         if 0.5 * (_box_bounds(it)[0] + _box_bounds(it)[2]) < mid_x
@@ -593,18 +940,20 @@ def group_layout_blocks(
             0.5 * (_box_bounds(vit)[0] + _box_bounds(vit)[2]) >= mid_x
             for vit in sorted_viet
             if (stop_y is None or _box_bounds(vit)[1] < stop_y)
-            and not _DICH_NGHIA_HEADER_RE.match(unicodedata.normalize("NFC", vit.get("text", "").strip()))
+            and (first_prose_sec_y is None or _box_bounds(vit)[1] < first_prose_sec_y)
+            and classify_section_header(unicodedata.normalize("NFC", vit.get("text", "").strip())) not in ("dich_nghia", "dich_tho", "stop")
         )
     )
 
-    han_lines = [it["text"].strip() for it in active_han_items]
+    han_lines = [unicodedata.normalize("NFC", it.get("text", "").strip()) for it in active_han_items]
     phien_am_lines = []
     dich_nghia_lines = []
+    dich_tho_lines = []
     current_section = "phien_am"
 
     for it in sorted_viet:
         txt = unicodedata.normalize("NFC", it.get("text", "").strip())
-        if not txt or _CJK_CHAR_RE.search(txt):
+        if not txt or _is_primary_han_line(txt):
             continue
         x1, y1, x2, _y2 = _box_bounds(it)
         if stop_y is not None and y1 >= stop_y:
@@ -615,18 +964,26 @@ def group_layout_blocks(
             break
         if header_type == "phien_am":
             current_section = "phien_am"
-            rest = _PHIEN_AM_HEADER_RE.sub("", txt).strip()
+            _, rest = _extract_header_remainder(txt, _FOLDED_PHIEN_AM_HEADER_RE)
             if rest:
                 phien_am_lines.append(rest)
             continue
         if header_type == "dich_nghia":
             current_section = "dich_nghia"
-            rest = _DICH_NGHIA_HEADER_RE.sub("", txt).strip()
+            _, rest = _extract_header_remainder(txt, _FOLDED_DICH_NGHIA_HEADER_RE)
             if rest:
                 dich_nghia_lines.append(rest)
             continue
+        if header_type == "dich_tho":
+            current_section = "dich_tho"
+            _, rest = _extract_header_remainder(txt, _FOLDED_DICH_THO_HEADER_RE)
+            if rest:
+                dich_tho_lines.append(rest)
+            continue
 
-        if current_section == "dich_nghia":
+        if current_section == "dich_tho":
+            dich_tho_lines.append(txt)
+        elif current_section == "dich_nghia":
             dich_nghia_lines.append(txt)
         elif is_two_column_poetry:
             x_center = 0.5 * (x1 + x2)
@@ -643,6 +1000,7 @@ def group_layout_blocks(
         "chu_han_lines": han_lines,
         "phien_am_lines": phien_am_lines,
         "dich_nghia_lines": dich_nghia_lines,
+        "dich_tho_lines": dich_tho_lines,
     }
 
 
@@ -668,9 +1026,152 @@ def build_mock_ocr_for_page(
     """Generate deterministic mock OCR output (`han_items`, `viet_items`) for local dry-run/testing."""
     book_key = book_type.upper().strip()
     crop_top_px = int((preprocess_meta or {}).get("crop_top_px", 140))
+    page_w = int((preprocess_meta or {}).get("effective_width") or 2000)
 
     if book_key == "HVTT":
-        if page_num == 10:
+        if page_num == 7:
+            han_raw = [
+                {
+                    "bbox": [[int(0.32 * page_w), 140], [int(0.62 * page_w), 140], [int(0.62 * page_w), 210], [int(0.32 * page_w), 210]],
+                    "text": "子 產 論 政",
+                    "confidence": 0.992,
+                },
+                {
+                    "bbox": [[int(0.68 * page_w), 420], [int(0.86 * page_w), 420], [int(0.86 * page_w), 470], [int(0.68 * page_w), 470]],
+                    "text": "左 丘 明",
+                    "confidence": 0.990,
+                },
+            ]
+            viet_raw = [
+                {
+                    "bbox": [[int(0.28 * page_w), 240], [int(0.66 * page_w), 240], [int(0.66 * page_w), 285], [int(0.28 * page_w), 285]],
+                    "text": "TỬ-SẢN LUẬN CHÍNH",
+                    "confidence": 0.988,
+                },
+                {
+                    "bbox": [[int(0.26 * page_w), 310], [int(0.68 * page_w), 310], [int(0.68 * page_w), 355], [int(0.26 * page_w), 355]],
+                    "text": "Tử-Sản bàn về việc chính-trị.",
+                    "confidence": 0.985,
+                },
+                {
+                    "bbox": [[int(0.68 * page_w), 485], [int(0.86 * page_w), 485], [int(0.86 * page_w), 530], [int(0.68 * page_w), 530]],
+                    "text": "Tả Khâu Minh",
+                    "confidence": 0.984,
+                },
+                {
+                    "bbox": [[int(0.14 * page_w), 610], [int(0.86 * page_w), 610], [int(0.86 * page_w), 655], [int(0.14 * page_w), 655]],
+                    "text": "TIỂU-DẪN. — Tả Khâu-Minh là sử-quan nước Lỗ đời Xuân-Thu.",
+                    "confidence": 0.981,
+                },
+            ]
+        elif page_num == 9:
+            han_raw = []
+            viet_raw = [
+                {
+                    "bbox": [[int(0.08 * page_w), 30], [int(0.32 * page_w), 30], [int(0.32 * page_w), 65], [int(0.08 * page_w), 65]],
+                    "text": "HÁN-VĂN TINH-TUÝ",
+                    "confidence": 0.989,
+                },
+                {
+                    "bbox": [[int(0.86 * page_w), 30], [int(0.92 * page_w), 30], [int(0.92 * page_w), 65], [int(0.86 * page_w), 65]],
+                    "text": "3",
+                    "confidence": 0.990,
+                },
+                {
+                    "bbox": [[int(0.20 * page_w), 180], [int(0.75 * page_w), 180], [int(0.75 * page_w), 225], [int(0.20 * page_w), 225]],
+                    "text": "Lâm nguy dặn trẻ giữ khoan hòa,",
+                    "confidence": 0.983,
+                },
+                {
+                    "bbox": [[int(0.20 * page_w), 240], [int(0.75 * page_w), 240], [int(0.75 * page_w), 285], [int(0.20 * page_w), 285]],
+                    "text": "Đức lớn yên dân ấy chính tà.",
+                    "confidence": 0.982,
+                },
+            ]
+        elif page_num == 367:
+            han_raw = [
+                {
+                    "bbox": [[int(0.30 * page_w), 140], [int(0.64 * page_w), 140], [int(0.64 * page_w), 210], [int(0.30 * page_w), 210]],
+                    "text": "秋 夜 旅 懷 吟",
+                    "confidence": 0.991,
+                },
+                {
+                    "bbox": [[int(0.68 * page_w), 430], [int(0.84 * page_w), 430], [int(0.84 * page_w), 480], [int(0.68 * page_w), 480]],
+                    "text": "奇 童",
+                    "confidence": 0.989,
+                },
+            ]
+            viet_raw = [
+                {
+                    "bbox": [[int(0.28 * page_w), 240], [int(0.66 * page_w), 240], [int(0.66 * page_w), 285], [int(0.28 * page_w), 285]],
+                    "text": "THU DẠ HOÀI NGÂM",
+                    "confidence": 0.988,
+                },
+                {
+                    "bbox": [[int(0.24 * page_w), 310], [int(0.70 * page_w), 310], [int(0.70 * page_w), 355], [int(0.24 * page_w), 355]],
+                    "text": "KHÚC NGÂM CẢM HOÀI ĐÊM THU",
+                    "confidence": 0.986,
+                },
+                {
+                    "bbox": [[int(0.68 * page_w), 495], [int(0.84 * page_w), 495], [int(0.84 * page_w), 540], [int(0.68 * page_w), 540]],
+                    "text": "Kỳ-Đồng",
+                    "confidence": 0.984,
+                },
+                {
+                    "bbox": [[int(0.14 * page_w), 610], [int(0.86 * page_w), 610], [int(0.86 * page_w), 655], [int(0.14 * page_w), 655]],
+                    "text": "TIỂU-DẪN. — Kỳ-Đồng nguyên tên là Nguyễn-văn-Cẩm,",
+                    "confidence": 0.981,
+                },
+            ]
+        elif page_num >= 369 and page_num % 2 == 1:
+            han_raw = []
+            viet_raw = [
+                {
+                    "bbox": [[int(0.08 * page_w), 30], [int(0.32 * page_w), 30], [int(0.32 * page_w), 65], [int(0.08 * page_w), 65]],
+                    "text": "HÁN-VĂN TINH-TUÝ",
+                    "confidence": 0.989,
+                },
+                {
+                    "bbox": [[int(0.84 * page_w), 30], [int(0.92 * page_w), 30], [int(0.92 * page_w), 65], [int(0.84 * page_w), 65]],
+                    "text": str(page_num - 4),
+                    "confidence": 0.988,
+                },
+                {
+                    "bbox": [[int(0.18 * page_w), 160], [int(0.82 * page_w), 160], [int(0.82 * page_w), 205], [int(0.18 * page_w), 205]],
+                    "text": "Đêm trung-thu trời mây trong trẻo, Sương đầm đầm lạnh lẽo bốn bên.",
+                    "confidence": 0.982,
+                },
+                {
+                    "bbox": [[int(0.18 * page_w), 230], [int(0.82 * page_w), 230], [int(0.82 * page_w), 275], [int(0.18 * page_w), 275]],
+                    "text": "Thanh-nhàn riêng một cảnh tiên, Mảng vui cờ thánh rượu hiền tiêu-dao !",
+                    "confidence": 0.980,
+                },
+            ]
+        elif page_num % 2 == 1:
+            han_raw = []
+            viet_raw = [
+                {
+                    "bbox": [[int(0.08 * page_w), 30], [int(0.32 * page_w), 30], [int(0.32 * page_w), 65], [int(0.08 * page_w), 65]],
+                    "text": "HÁN-VĂN TINH-TUÝ",
+                    "confidence": 0.989,
+                },
+                {
+                    "bbox": [[int(0.84 * page_w), 30], [int(0.92 * page_w), 30], [int(0.92 * page_w), 65], [int(0.84 * page_w), 65]],
+                    "text": str(max(1, page_num - 4)),
+                    "confidence": 0.988,
+                },
+                {
+                    "bbox": [[int(0.15 * page_w), 160], [int(0.45 * page_w), 160], [int(0.45 * page_w), 205], [int(0.15 * page_w), 205]],
+                    "text": "CHÚ THÍCH :",
+                    "confidence": 0.990,
+                },
+                {
+                    "bbox": [[int(0.15 * page_w), 220], [int(0.85 * page_w), 220], [int(0.85 * page_w), 265], [int(0.15 * page_w), 265]],
+                    "text": "1) Chú giải văn bản cổ.",
+                    "confidence": 0.980,
+                },
+            ]
+        elif page_num == 10:
             han_raw = [
                 {"bbox": [[180, 120], [1620, 120], [1620, 175], [180, 175]], "text": "不 忍 猛 而 寬", "confidence": 0.992},
                 {"bbox": [[180, 300], [1620, 300], [1620, 355], [180, 355]], "text": "鄭 國 多 盜", "confidence": 0.991},
@@ -730,7 +1231,7 @@ def build_mock_ocr_for_page(
                 {"bbox": [[180, 1565], [1620, 1565], [1620, 1610], [180, 1610]], "text": "Thi chi dĩ khoan dã.", "confidence": 0.986, "role": "phien_am"},
                 {"bbox": [[180, 1620], [1620, 1620], [1620, 1665], [180, 1665]], "text": "Ấy là lấy « khoan » mà thi-hành vậy.", "confidence": 0.982, "role": "dich_nghia_gloss"},
             ]
-        elif page_num >= 367:
+        elif page_num >= 368:
             # Bài cuối (Thu dạ hoài ngâm): chỉ có Hán - Dịch âm - Dịch thơ, cột Dịch nghĩa để trống
             han_raw = [
                 {"bbox": [[180, 160], [1620, 160], [1620, 215], [180, 215]], "text": "天 氣 入 中 秋 之 夜 蕭 條 經 四 坐 霜 寒", "confidence": 0.990},
@@ -811,6 +1312,8 @@ def build_mock_ocr_for_page(
                 {"bbox": [[180, 560], [1780, 560], [1780, 605], [180, 605]], "text": "Gió thu trước đầu ngựa thổi vào thanh gươm, Ánh trăng lọt qua rường nhà (3) dọi vào phòng sách.", "confidence": 0.984},
                 {"bbox": [[180, 615], [1780, 615], [1780, 660], [180, 660]], "text": "Màn trống khó ngăn chim én về phương Bắc, Đất ấm buồn nghe chim nhạn biệt phương Nam.", "confidence": 0.984},
                 {"bbox": [[180, 670], [1780, 670], [1780, 715], [180, 715]], "text": "Lần đi này chưa biết ngày nào mới có dịp nghiêng lọng (4), Xin vì cuộc chuyện trò tao nhã mà có một bài thơ.", "confidence": 0.983},
+                {"bbox": [[180, 735], [600, 735], [600, 780], [180, 780]], "text": "DỊCH THƠ :", "confidence": 0.992},
+                {"bbox": [[180, 790], [1400, 790], [1400, 840], [180, 840]], "text": "Nghĩ chẳng ngọc quỳnh đáp tấm lòng, Bến giang man mác nỗi hoài trông.", "confidence": 0.980},
             ]
         elif page_num in (22, 23, 24, 26):
             han_raw = [
@@ -879,7 +1382,10 @@ def build_mock_ocr_for_page(
 
 
 class KaggleDualOCREngine:
-    """Wrapper around GPU PaddleOCR (`chinese_cht`) and VietOCR (`vgg_transformer`)."""
+    """Wrapper around GPU PaddleOCR (`chinese_cht` / `vi`) and optional VietOCR (`vgg_transformer`).
+
+    Compatible with both PaddleOCR 2.x and PaddleOCR 3.x APIs on Kaggle Python 3.13+.
+    """
 
     def __init__(self, use_gpu: bool = True, mock: bool = False) -> None:
         self.use_gpu = use_gpu
@@ -892,27 +1398,119 @@ class KaggleDualOCREngine:
     def _is_kaggle_runtime() -> bool:
         return bool(os.environ.get("KAGGLE_KERNEL_RUN_TYPE") or Path("/kaggle/working").exists())
 
+    @staticmethod
+    def _create_paddle_ocr(lang: str, effective_gpu: bool) -> Any:
+        from paddleocr import PaddleOCR  # type: ignore
+
+        device_str = "gpu:0" if effective_gpu else "cpu"
+        try:
+            return PaddleOCR(
+                lang=lang,
+                device=device_str,
+                use_doc_orientation_classify=False,
+                use_doc_unwarping=False,
+                use_textline_orientation=False,
+            )
+        except (TypeError, ValueError):
+            try:
+                return PaddleOCR(
+                    use_angle_cls=False,
+                    lang=lang,
+                    use_gpu=effective_gpu,
+                    show_log=False,
+                )
+            except (TypeError, ValueError):
+                return PaddleOCR(lang=lang)
+
+    @staticmethod
+    def _run_paddle_ocr(ocr_obj: Any, image_bgr: Any) -> List[Tuple[List[List[int]], str, float]]:
+        """Run OCR across PaddleOCR 2.x `.ocr()` and 3.x `.predict()` interfaces."""
+        parsed: List[Tuple[List[List[int]], str, float]] = []
+        if hasattr(ocr_obj, "predict"):
+            try:
+                preds = ocr_obj.predict(image_bgr)
+                for res in preds or []:
+                    payload = getattr(res, "json", None)
+                    if callable(payload):
+                        payload = payload()
+                    data = payload.get("res", payload) if isinstance(payload, dict) else (
+                        res if isinstance(res, dict) else {}
+                    )
+                    polys = data.get("dt_polys")
+                    if polys is None or len(polys) == 0:
+                        polys = data.get("rec_polys")
+                    if polys is None:
+                        polys = []
+                    texts = data.get("rec_texts")
+                    if texts is None:
+                        texts = []
+                    scores = data.get("rec_scores")
+                    if scores is None:
+                        scores = []
+                    for poly, txt, sc in zip(polys, texts, scores):
+                        pts = [[int(round(float(pt[0]))), int(round(float(pt[1])))] for pt in poly]
+                        parsed.append((pts, str(txt), float(sc)))
+                if parsed:
+                    return parsed
+            except Exception:
+                parsed = []
+
+        raw: Any = []
+        if hasattr(ocr_obj, "ocr"):
+            try:
+                raw = ocr_obj.ocr(image_bgr, cls=True)
+            except TypeError:
+                raw = ocr_obj.ocr(image_bgr)
+        lines = raw[0] if raw and raw[0] else []
+        for line in lines:
+            pts = [[int(round(float(pt[0]))), int(round(float(pt[1])))] for pt in line[0]]
+            txt, sc = str(line[1][0]), float(line[1][1])
+            parsed.append((pts, txt, sc))
+        return parsed
+
     def _lazy_init_gpu_engines(self) -> None:
         if self.mock or self._han_ocr is not None:
             return
 
+        global cv2, np, Image
         try:
-            import paddleocr  # type: ignore  # noqa: F401
-            import vietocr  # type: ignore  # noqa: F401
+            try:
+                import torch  # type: ignore  # noqa: F401
+            except Exception:
+                pass
+            import paddle  # type: ignore  # noqa: F401
+            from paddleocr import PaddleOCR  # type: ignore  # noqa: F401
         except ImportError:
             if self._is_kaggle_runtime():
                 _install_kaggle_dependencies_if_needed()
+                try:
+                    import cv2 as _cv2  # type: ignore
+                    import numpy as _np  # type: ignore
+                    from PIL import Image as _Image  # type: ignore
+                    cv2 = _cv2
+                    np = _np
+                    Image = _Image
+                except ImportError:
+                    pass
             else:
                 raise RuntimeError(
-                    "Live OCR requires `paddleocr`, `vietocr`, and `opencv-python-headless`. "
+                    "Live OCR requires `paddleocr` and `opencv-python-headless`. "
                     "Install them or run via Kaggle GPU (`./kaggle_ocr/deploy_to_kaggle.sh`) "
                     "or use `--mock` / `--dry-run` locally."
                 )
 
+        if Image is None:
+            try:
+                from PIL import Image as _Image  # type: ignore
+                Image = _Image
+            except ImportError:
+                pass
+
+        try:
+            import torch  # type: ignore  # noqa: F401
+        except Exception:
+            pass
         import paddle  # type: ignore
-        from paddleocr import PaddleOCR  # type: ignore
-        from vietocr.tool.config import Cfg  # type: ignore
-        from vietocr.tool.predictor import Predictor  # type: ignore
 
         effective_gpu = bool(
             self.use_gpu
@@ -920,22 +1518,85 @@ class KaggleDualOCREngine:
             and paddle.device.cuda.device_count() > 0
         )
 
-        self._han_ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang="chinese_cht",
-            use_gpu=effective_gpu,
-            show_log=False,
-        )
-        self._viet_det_ocr = PaddleOCR(
-            use_angle_cls=True,
-            lang="vi",
-            use_gpu=effective_gpu,
-            show_log=False,
-        )
-        cfg = Cfg.load_config_from_name("vgg_transformer")
-        cfg["cnn"]["pretrained"] = True
-        cfg["device"] = "cuda:0" if effective_gpu else "cpu"
-        self._viet_predictor = Predictor(cfg)
+        self._han_ocr = self._create_paddle_ocr("chinese_cht", effective_gpu)
+
+        # Pillow 10+/13 compatibility shim for legacy Image.ANTIALIAS in VietOCR
+        if Image is not None and not hasattr(Image, "ANTIALIAS"):
+            resampling = getattr(Image, "Resampling", Image)
+            Image.ANTIALIAS = getattr(resampling, "LANCZOS")  # type: ignore[attr-defined]
+
+        # PyTorch 2.6+ defaults `weights_only=True`, which breaks legacy VietOCR checkpoints
+        orig_torch_load = None
+        torch_mod = None
+        try:
+            import torch  # type: ignore
+            torch_mod = torch
+            orig_torch_load = torch.load
+
+            def _compat_torch_load(*args: Any, **kwargs: Any) -> Any:
+                kwargs.setdefault("weights_only", False)
+                return orig_torch_load(*args, **kwargs)
+
+            torch.load = _compat_torch_load  # type: ignore[assignment]
+
+            from vietocr.tool.config import Cfg  # type: ignore
+            from vietocr.tool.predictor import Predictor  # type: ignore
+
+            cfg = Cfg.load_config_from_name("vgg_transformer")
+            cfg["cnn"]["pretrained"] = True
+            target_device = "cuda:0" if (effective_gpu and torch.cuda.is_available()) else "cpu"
+            cfg["device"] = target_device
+            self._viet_predictor = Predictor(cfg)
+            print(
+                f"[ocr_pipeline_kaggle] Initialized VietOCR vgg_transformer on {target_device}.",
+                flush=True,
+            )
+        except Exception as exc:
+            print(
+                f"[ocr_pipeline_kaggle] Notice: VietOCR unavailable ({exc}); "
+                "using PaddleOCR Vietnamese recognizer.",
+                flush=True,
+            )
+            self._viet_predictor = None
+        finally:
+            if torch_mod is not None and orig_torch_load is not None:
+                torch_mod.load = orig_torch_load
+
+        if self._viet_predictor is None:
+            self._viet_det_ocr = self._create_paddle_ocr("vi", effective_gpu)
+        else:
+            self._viet_det_ocr = None
+
+    def _predict_viet_crop(
+        self,
+        ocr_input: Any,
+        cx1: int,
+        cy1: int,
+        cx2: int,
+        cy2: int,
+        fallback_text: str,
+        fallback_conf: float,
+    ) -> Tuple[str, float]:
+        """Run VietOCR inference on an `[cy1:cy2, cx1:cx2]` BGR crop, falling back safely on errors."""
+        if (
+            self._viet_predictor is None
+            or Image is None
+            or not hasattr(ocr_input, "shape")
+            or cx2 <= cx1
+            or cy2 <= cy1
+        ):
+            return fallback_text, fallback_conf
+        crop_patch = ocr_input[cy1:cy2, cx1:cx2]
+        if getattr(crop_patch, "size", 0) <= 0:
+            return fallback_text, fallback_conf
+        try:
+            pil_patch = Image.fromarray(crop_patch[:, :, ::-1] if crop_patch.ndim == 3 else crop_patch)
+            pred = self._viet_predictor.predict(pil_patch, return_prob=True)
+            if isinstance(pred, tuple) and len(pred) == 2:
+                return str(pred[0]), float(pred[1])
+            return str(pred), fallback_conf
+        except Exception:
+            return fallback_text, fallback_conf
 
     def recognize_page(
         self,
@@ -965,13 +1626,102 @@ class KaggleDualOCREngine:
         crop_top_px = int(preprocess_meta.get("crop_top_px", 0))
         img_h, img_w = get_image_dimensions(ocr_input)
 
-        # 1. PaddleOCR (chinese_cht) pass for Chữ Hán
-        han_result = self._han_ocr.ocr(ocr_input, cls=True)
+        # 1. PaddleOCR (`chinese_cht`) pass for detection + Classical Chinese recognition
+        raw_han_lines = self._run_paddle_ocr(self._han_ocr, ocr_input)
         han_items: List[Dict[str, Any]] = []
-        raw_han_lines = han_result[0] if han_result and han_result[0] else []
-        for idx, line in enumerate(raw_han_lines):
-            bbox_pts = [[int(round(pt[0])), int(round(pt[1]))] for pt in line[0]]
-            text, conf = str(line[1][0]), float(line[1][1])
+        viet_items: List[Dict[str, Any]] = []
+
+        if self._viet_predictor is not None:
+            is_tvlt2 = book_type.upper().strip() == "TVLT2"
+            for bbox_pts, raw_text, raw_conf in raw_han_lines:
+                x1, y1, x2, y2 = _box_bounds({"bbox": bbox_pts})
+                ix1 = max(0, min(img_w - 1, int(x1)))
+                iy1 = max(0, min(img_h - 1, int(y1)))
+                ix2 = max(ix1 + 1, min(img_w, int(x2)))
+                iy2 = max(iy1 + 1, min(img_h, int(y2)))
+                cjk_cnt, latin_cnt = _count_cjk_and_latin(raw_text)
+
+                if (
+                    is_tvlt2
+                    and x1 < 0.45 * img_w
+                    and x2 > 0.55 * img_w
+                    and cjk_cnt >= 2
+                    and latin_cnt >= 4
+                ):
+                    # Split merged 2-column TVLT2 poetry row into left CJK and right Vietnamese crop
+                    m_lead = re.match(
+                        r"^\s*([\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\s，。、；：？！「」『』（）]+?)"
+                        r"(?=\s*[A-Za-z\u00C0-\u024F\u1E00-\u1EFF])",
+                        raw_text,
+                    )
+                    han_seg = m_lead.group(1).strip() if m_lead else raw_text
+                    split_x = max(ix1 + 1, min(img_w, int(0.48 * img_w)))
+                    han_bbox = [[ix1, iy1], [split_x, iy1], [split_x, iy2], [ix1, iy2]]
+                    han_items.append({
+                        "line_id": f"{page_id}_han_{len(han_items):03d}",
+                        "bbox": han_bbox,
+                        "bbox_original": _offset_bbox_to_original(han_bbox, crop_top_px),
+                        "box_xyxy": [ix1, iy1, split_x, iy2],
+                        "text": han_seg,
+                        "confidence": round(float(raw_conf), 4),
+                    })
+
+                    vx1 = max(ix1, int(0.46 * img_w))
+                    pad_y = max(4, int(0.14 * (iy2 - iy1)))
+                    vy1 = max(0, iy1 - pad_y)
+                    vy2 = min(img_h, iy2 + pad_y)
+                    v_bbox = [[vx1, iy1], [ix2, iy1], [ix2, iy2], [vx1, iy2]]
+                    recognized_text, v_conf = self._predict_viet_crop(
+                        ocr_input, vx1, vy1, ix2, vy2, fallback_text=raw_text, fallback_conf=float(raw_conf)
+                    )
+                    viet_items.append({
+                        "line_id": f"{page_id}_viet_{len(viet_items):03d}",
+                        "bbox": v_bbox,
+                        "bbox_original": _offset_bbox_to_original(v_bbox, crop_top_px),
+                        "box_xyxy": [vx1, iy1, ix2, iy2],
+                        "text": unicodedata.normalize("NFC", recognized_text),
+                        "confidence": round(float(v_conf), 4),
+                    })
+                elif cjk_cnt >= 1 and (latin_cnt == 0 or cjk_cnt >= 3 * latin_cnt):
+                    han_items.append({
+                        "line_id": f"{page_id}_han_{len(han_items):03d}",
+                        "bbox": bbox_pts,
+                        "bbox_original": _offset_bbox_to_original(bbox_pts, crop_top_px),
+                        "box_xyxy": [ix1, iy1, ix2, iy2],
+                        "text": raw_text,
+                        "confidence": round(float(raw_conf), 4),
+                    })
+                else:
+                    if cjk_cnt >= 1:
+                        han_items.append({
+                            "line_id": f"{page_id}_han_{len(han_items):03d}",
+                            "bbox": bbox_pts,
+                            "bbox_original": _offset_bbox_to_original(bbox_pts, crop_top_px),
+                            "box_xyxy": [ix1, iy1, ix2, iy2],
+                            "text": raw_text,
+                            "confidence": round(float(raw_conf), 4),
+                        })
+                    pad_y = max(4, int(0.14 * (iy2 - iy1)))
+                    pad_x = max(4, int(0.02 * (ix2 - ix1)))
+                    cx1 = max(0, ix1 - pad_x)
+                    cy1 = max(0, iy1 - pad_y)
+                    cx2 = min(img_w, ix2 + pad_x)
+                    cy2 = min(img_h, iy2 + pad_y)
+                    recognized_text, v_conf = self._predict_viet_crop(
+                        ocr_input, cx1, cy1, cx2, cy2, fallback_text=raw_text, fallback_conf=float(raw_conf)
+                    )
+                    viet_items.append({
+                        "line_id": f"{page_id}_viet_{len(viet_items):03d}",
+                        "bbox": bbox_pts,
+                        "bbox_original": _offset_bbox_to_original(bbox_pts, crop_top_px),
+                        "box_xyxy": [ix1, iy1, ix2, iy2],
+                        "text": unicodedata.normalize("NFC", recognized_text),
+                        "confidence": round(float(v_conf), 4),
+                    })
+            return han_items, viet_items
+
+        # Fallback path when VietOCR is unavailable: populate han_items + PaddleOCR(`vi`)
+        for idx, (bbox_pts, text, conf) in enumerate(raw_han_lines):
             x1, y1, x2, y2 = _box_bounds({"bbox": bbox_pts})
             han_items.append({
                 "line_id": f"{page_id}_han_{idx:03d}",
@@ -982,38 +1732,20 @@ class KaggleDualOCREngine:
                 "confidence": round(conf, 4),
             })
 
-        # 2. PaddleOCR detector + VietOCR recognizer pass for Phiên âm & Dịch nghĩa
-        viet_det_result = self._viet_det_ocr.ocr(ocr_input, cls=True)
-        viet_items: List[Dict[str, Any]] = []
-        raw_viet_lines = viet_det_result[0] if viet_det_result and viet_det_result[0] else []
-        for idx, line in enumerate(raw_viet_lines):
-            bbox_pts = [[int(round(pt[0])), int(round(pt[1]))] for pt in line[0]]
-            fallback_text, det_conf = str(line[1][0]), float(line[1][1])
+        raw_viet_lines = self._run_paddle_ocr(self._viet_det_ocr, ocr_input)
+        for idx, (bbox_pts, fallback_text, det_conf) in enumerate(raw_viet_lines):
             x1, y1, x2, y2 = _box_bounds({"bbox": bbox_pts})
             ix1 = max(0, min(img_w - 1, int(x1)))
             iy1 = max(0, min(img_h - 1, int(y1)))
             ix2 = max(ix1 + 1, min(img_w, int(x2)))
             iy2 = max(iy1 + 1, min(img_h, int(y2)))
-
-            recognized_text = fallback_text
-            conf = det_conf
-            if Image is not None and hasattr(ocr_input, "shape"):
-                crop_patch = ocr_input[iy1:iy2, ix1:ix2]
-                if crop_patch.size > 0:
-                    pil_patch = Image.fromarray(crop_patch[:, :, ::-1] if crop_patch.ndim == 3 else crop_patch)
-                    pred = self._viet_predictor.predict(pil_patch, return_prob=True)
-                    if isinstance(pred, tuple) and len(pred) == 2:
-                        recognized_text, conf = str(pred[0]), float(pred[1])
-                    else:
-                        recognized_text = str(pred)
-
             viet_items.append({
                 "line_id": f"{page_id}_viet_{idx:03d}",
                 "bbox": bbox_pts,
                 "bbox_original": _offset_bbox_to_original(bbox_pts, crop_top_px),
                 "box_xyxy": [ix1, iy1, ix2, iy2],
-                "text": unicodedata.normalize("NFC", recognized_text),
-                "confidence": round(conf, 4),
+                "text": unicodedata.normalize("NFC", fallback_text),
+                "confidence": round(det_conf, 4),
             })
 
         return han_items, viet_items
@@ -1108,6 +1840,21 @@ def save_page_ocr_outputs(
             "dich_nghia_lines": layout_summary.get("dich_nghia_lines", []),
             "dich_tho_lines": layout_summary.get("dich_tho_lines", []),
             "interlinear_triplets": layout_summary.get("interlinear_triplets", []),
+            **(
+                {"title_block": layout_summary["title_block"]}
+                if "title_block" in layout_summary
+                else {}
+            ),
+            **(
+                {"dich_tho_y_centers": layout_summary["dich_tho_y_centers"]}
+                if "dich_tho_y_centers" in layout_summary
+                else {}
+            ),
+            **(
+                {"has_dich_nghia": layout_summary["has_dich_nghia"]}
+                if "has_dich_nghia" in layout_summary
+                else {}
+            ),
         },
     }
 
@@ -1306,7 +2053,8 @@ def _write_jsonl_records(output_dir: Path, results: Sequence[Dict[str, Any]]) ->
         by_book.setdefault(b_folder, []).append(res)
 
     for b_folder, book_results in by_book.items():
-        book_jsonl_path = output_dir / "deliverables" / b_folder / "02_ocr_tho" / "ocr_results.jsonl"
+        book_han_dir, _ = resolve_ocr_output_dirs(output_dir, book_folder=b_folder)
+        book_jsonl_path = book_han_dir.parent / "ocr_results.jsonl"
         book_jsonl_path.parent.mkdir(parents=True, exist_ok=True)
         with book_jsonl_path.open("w", encoding="utf-8") as f:
             for item in book_results:
@@ -1324,14 +2072,80 @@ def _write_jsonl_records(output_dir: Path, results: Sequence[Dict[str, Any]]) ->
 
 
 def _install_kaggle_dependencies_if_needed() -> None:
-    """Install PaddleOCR and VietOCR inside a Kaggle GPU kernel when requested."""
-    pkgs = [
-        "paddlepaddle-gpu",
-        "paddleocr>=2.7.0",
-        "vietocr",
-        "opencv-python-headless",
+    """Install PaddlePaddle, PaddleOCR, and best-effort VietOCR inside a Kaggle kernel."""
+    pip_base = [sys.executable, "-m", "pip", "install", "-q"]
+    subprocess.check_call([*pip_base, "opencv-python-headless", "paddleocr"])
+
+    paddle_installed = subprocess.call(
+        [sys.executable, "-c", "import paddle"],
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    ) == 0
+    if not paddle_installed:
+        gpu_indexes = [
+            "https://www.paddlepaddle.org.cn/packages/stable/cu126/",
+            "https://www.paddlepaddle.org.cn/packages/stable/cu118/",
+        ]
+        installed = False
+        for idx_url in gpu_indexes:
+            if subprocess.call([*pip_base, "paddlepaddle-gpu", "-i", idx_url]) == 0:
+                installed = True
+                break
+        if not installed and subprocess.call([*pip_base, "paddlepaddle-gpu"]) == 0:
+            installed = True
+        if not installed:
+            print("[install] Falling back to CPU paddlepaddle wheel.", flush=True)
+            subprocess.check_call([*pip_base, "paddlepaddle"])
+
+    verify_cmd = [
+        sys.executable,
+        "-c",
+        "import paddle; from paddleocr import PaddleOCR",
     ]
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", *pkgs])
+    if subprocess.call(verify_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL) != 0:
+        print(
+            "[install] PaddleOCR import verification failed (likely NCCL/PyTorch mismatch); "
+            "upgrading nvidia-nccl-cu12>=2.27.3...",
+            flush=True,
+        )
+        subprocess.call([*pip_base, "--upgrade", "nvidia-nccl-cu12>=2.27.3"])
+        if subprocess.call(verify_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL) != 0:
+            # Some containers also need PyTorch aligned when modelscope pulls in torch.
+            torch_first_cmd = [
+                sys.executable,
+                "-c",
+                "import torch; import paddle; from paddleocr import PaddleOCR",
+            ]
+            if subprocess.call(torch_first_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL) != 0:
+                print("[install] Re-aligning torch with CUDA NCCL...", flush=True)
+                subprocess.call([*pip_base, "--upgrade", "torch", "nvidia-nccl-cu12>=2.27.3"])
+
+    subprocess.check_call([*pip_base, "einops", "gdown"])
+    vietocr_rc = subprocess.call([*pip_base, "--no-deps", "vietocr"])
+    if vietocr_rc != 0:
+        print(
+            f"[install] Warning: `pip install --no-deps vietocr` exited with {vietocr_rc}; "
+            "falling back to PaddleOCR Vietnamese recognizer.",
+            flush=True,
+        )
+    else:
+        viet_verify = subprocess.run(
+            [
+                sys.executable,
+                "-c",
+                "from vietocr.tool.config import Cfg; from vietocr.tool.predictor import Predictor",
+            ],
+            capture_output=True,
+            text=True,
+        )
+        if viet_verify.returncode == 0:
+            print("[install] VietOCR (with --no-deps) verified cleanly.", flush=True)
+        else:
+            print(
+                "[install] Warning: VietOCR import verification failed: "
+                f"{(viet_verify.stderr or viet_verify.stdout).strip()}",
+                flush=True,
+            )
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -1476,12 +2290,13 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     out_dir_path = Path(args.output_dir)
     _write_jsonl_records(out_dir_path, results)
 
+    run_mode_label = "mock" if is_mock else "kaggle_gpu"
     summary_path = out_dir_path / "02_ocr_tho" / "ocr_run_summary.json"
     summary_path.parent.mkdir(parents=True, exist_ok=True)
     with summary_path.open("w", encoding="utf-8") as f:
         json.dump(
             {
-                "mode": "mock" if is_mock else "kaggle_gpu",
+                "mode": run_mode_label,
                 "pages_processed": len(results),
                 "pages": results,
             },
@@ -1489,6 +2304,34 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             ensure_ascii=False,
             indent=2,
         )
+
+    by_book_meta: Dict[str, List[Dict[str, Any]]] = {}
+    for res in results:
+        b_folder = str(res.get("book_folder") or _resolve_book_folder(str(res.get("book_type", "TVLT2"))))
+        by_book_meta.setdefault(b_folder, []).append({
+            "page_id": res.get("page_id"),
+            "book_type": res.get("book_type"),
+            "page_num": res.get("page_num"),
+            "han_json": res.get("han_json"),
+            "viet_json": res.get("viet_json"),
+        })
+    for b_folder, book_pages in by_book_meta.items():
+        book_han_dir, _ = resolve_ocr_output_dirs(out_dir_path, book_folder=b_folder)
+        book_summary_path = book_han_dir.parent / "ocr_run_summary.json"
+        if book_summary_path != summary_path:
+            book_summary_path.parent.mkdir(parents=True, exist_ok=True)
+            with book_summary_path.open("w", encoding="utf-8") as bf:
+                json.dump(
+                    {
+                        "mode": run_mode_label,
+                        "book_folder": b_folder,
+                        "pages_processed": len(book_pages),
+                        "pages": book_pages,
+                    },
+                    bf,
+                    ensure_ascii=False,
+                    indent=2,
+                )
 
     print(f"[ocr_pipeline_kaggle] Processed {len(results)} page(s) (mode={'mock' if is_mock else 'gpu'}).")
 
@@ -1500,11 +2343,37 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
             input_path,
             Path("/kaggle/input/han-viet-parallel-corpus-pages"),
         ]
+        kaggle_input_dir = Path("/kaggle/input")
+        if kaggle_input_dir.is_dir():
+            for found_cp in sorted(kaggle_input_dir.glob("**/src/corpus_pipeline.py")):
+                cand_root = found_cp.parent.parent
+                if cand_root not in candidate_code_roots:
+                    candidate_code_roots.append(cand_root)
+
         for root_cand in candidate_code_roots:
             if (root_cand / "src" / "corpus_pipeline.py").is_file():
                 if str(root_cand) not in sys.path:
                     sys.path.insert(0, str(root_cand))
+                try:
+                    import kaggle_ocr.ocr_pipeline_kaggle  # type: ignore  # noqa: F401
+                except ImportError:
+                    import types
+                    pkg_mod = sys.modules.get("kaggle_ocr")
+                    if pkg_mod is None:
+                        pkg_mod = types.ModuleType("kaggle_ocr")
+                        pkg_mod.__path__ = [str(Path(__file__).resolve().parent)]  # type: ignore[attr-defined]
+                        sys.modules["kaggle_ocr"] = pkg_mod
+                    self_mod = sys.modules[__name__]
+                    setattr(pkg_mod, "ocr_pipeline_kaggle", self_mod)
+                    sys.modules["kaggle_ocr.ocr_pipeline_kaggle"] = self_mod
                 from src.corpus_pipeline import run_corpus_from_ocr  # type: ignore
+
+                supp_rel = Path("deliverables") / "TVLT2_ThoVanLyTran2" / "01_nguon" / "bai_03_thien_tong_chi_nam_tu_dich_nghia.txt"
+                src_supp = root_cand / supp_rel
+                dst_supp = out_dir_path / supp_rel
+                if src_supp.is_file() and not dst_supp.is_file():
+                    dst_supp.parent.mkdir(parents=True, exist_ok=True)
+                    dst_supp.write_text(src_supp.read_text(encoding="utf-8"), encoding="utf-8")
 
                 manifest_candidate = (
                     root_cand / "config" / "book_manifest.json"

@@ -1,0 +1,652 @@
+{
+  "page_id": "0224",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 224,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 737,
+    "footnote_separator_y_original": 852,
+    "effective_width": 1122,
+    "effective_height": 737
+  },
+  "items": [
+    {
+      "line_id": "0224_viet_000",
+      "bbox": [
+        [
+          129,
+          8
+        ],
+        [
+          651,
+          5
+        ],
+        [
+          651,
+          45
+        ],
+        [
+          129,
+          48
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          123
+        ],
+        [
+          651,
+          120
+        ],
+        [
+          651,
+          160
+        ],
+        [
+          129,
+          163
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        5,
+        651,
+        48
+      ],
+      "text": "Trời cao chẳng phụ người đọc sách,",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0224_viet_001",
+      "bbox": [
+        [
+          129,
+          55
+        ],
+        [
+          674,
+          51
+        ],
+        [
+          674,
+          92
+        ],
+        [
+          129,
+          96
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          170
+        ],
+        [
+          674,
+          166
+        ],
+        [
+          674,
+          207
+        ],
+        [
+          129,
+          211
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        51,
+        674,
+        96
+      ],
+      "text": "Thiếp nhũ vàng, tin thi đỗ kíp bay về",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0224_viet_002",
+      "bbox": [
+        [
+          129,
+          101
+        ],
+        [
+          375,
+          101
+        ],
+        [
+          375,
+          143
+        ],
+        [
+          129,
+          143
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          216
+        ],
+        [
+          375,
+          216
+        ],
+        [
+          375,
+          258
+        ],
+        [
+          129,
+          258
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        101,
+        375,
+        143
+      ],
+      "text": "Đắc ý nơi đế đô,",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0224_viet_003",
+      "bbox": [
+        [
+          131,
+          153
+        ],
+        [
+          482,
+          153
+        ],
+        [
+          482,
+          191
+        ],
+        [
+          131,
+          191
+        ]
+      ],
+      "bbox_original": [
+        [
+          131,
+          268
+        ],
+        [
+          482,
+          268
+        ],
+        [
+          482,
+          306
+        ],
+        [
+          131,
+          306
+        ]
+      ],
+      "box_xyxy": [
+        131,
+        153,
+        482,
+        191
+      ],
+      "text": "Ghi danh nơi giáp bảng,",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0224_viet_004",
+      "bbox": [
+        [
+          128,
+          197
+        ],
+        [
+          586,
+          194
+        ],
+        [
+          586,
+          236
+        ],
+        [
+          128,
+          239
+        ]
+      ],
+      "bbox_original": [
+        [
+          128,
+          312
+        ],
+        [
+          586,
+          309
+        ],
+        [
+          586,
+          351
+        ],
+        [
+          128,
+          354
+        ]
+      ],
+      "box_xyxy": [
+        128,
+        194,
+        586,
+        239
+      ],
+      "text": "Đem niềm vui an ủi song thân?",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0224_viet_005",
+      "bbox": [
+        [
+          129,
+          296
+        ],
+        [
+          828,
+          295
+        ],
+        [
+          828,
+          336
+        ],
+        [
+          129,
+          337
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          411
+        ],
+        [
+          828,
+          410
+        ],
+        [
+          828,
+          451
+        ],
+        [
+          129,
+          452
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        295,
+        828,
+        337
+      ],
+      "text": "Nghĩ công danh, ngàn năm chính ở lúc này đây,",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0224_viet_006",
+      "bbox": [
+        [
+          128,
+          344
+        ],
+        [
+          757,
+          339
+        ],
+        [
+          757,
+          383
+        ],
+        [
+          128,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          128,
+          459
+        ],
+        [
+          757,
+          454
+        ],
+        [
+          757,
+          498
+        ],
+        [
+          128,
+          503
+        ]
+      ],
+      "box_xyxy": [
+        128,
+        339,
+        757,
+        388
+      ],
+      "text": "Bèn ruổi sức ngựa hèn, mài lưõi dao nhụt,",
+      "confidence": 0.8913
+    },
+    {
+      "line_id": "0224_viet_007",
+      "bbox": [
+        [
+          130,
+          394
+        ],
+        [
+          783,
+          386
+        ],
+        [
+          784,
+          430
+        ],
+        [
+          131,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          509
+        ],
+        [
+          783,
+          501
+        ],
+        [
+          784,
+          545
+        ],
+        [
+          131,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        386,
+        784,
+        438
+      ],
+      "text": "[Quản chi] vẽ bần tường vôi], rút sợi tổ kén?",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0224_viet_008",
+      "bbox": [
+        [
+          130,
+          442
+        ],
+        [
+          655,
+          440
+        ],
+        [
+          655,
+          481
+        ],
+        [
+          130,
+          483
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          557
+        ],
+        [
+          655,
+          555
+        ],
+        [
+          655,
+          596
+        ],
+        [
+          130,
+          598
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        440,
+        655,
+        483
+      ],
+      "text": "Khi đông, khi tây, khi nam, khi bắc,",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0224_viet_009",
+      "bbox": [
+        [
+          129,
+          492
+        ],
+        [
+          942,
+          486
+        ],
+        [
+          943,
+          530
+        ],
+        [
+          129,
+          536
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          607
+        ],
+        [
+          942,
+          601
+        ],
+        [
+          943,
+          645
+        ],
+        [
+          129,
+          651
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        486,
+        943,
+        536
+      ],
+      "text": "Miệt mài làm quan lúc thì trong triều, khi thì ngoài trấn",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0224_viet_010",
+      "bbox": [
+        [
+          131,
+          540
+        ],
+        [
+          819,
+          540
+        ],
+        [
+          819,
+          580
+        ],
+        [
+          131,
+          580
+        ]
+      ],
+      "bbox_original": [
+        [
+          131,
+          655
+        ],
+        [
+          819,
+          655
+        ],
+        [
+          819,
+          695
+        ],
+        [
+          131,
+          695
+        ]
+      ],
+      "box_xyxy": [
+        131,
+        540,
+        819,
+        580
+      ],
+      "text": "Khi làm Tham mưu, Tán lí, lập chiến công lớn,",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0224_viet_011",
+      "bbox": [
+        [
+          129,
+          588
+        ],
+        [
+          790,
+          586
+        ],
+        [
+          790,
+          626
+        ],
+        [
+          129,
+          628
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          703
+        ],
+        [
+          790,
+          701
+        ],
+        [
+          790,
+          741
+        ],
+        [
+          129,
+          743
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        586,
+        790,
+        628
+      ],
+      "text": "Lại làm khách hoàng hoa? mang cờ tiết đi xa.",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0224_viet_012",
+      "bbox": [
+        [
+          132,
+          632
+        ],
+        [
+          433,
+          632
+        ],
+        [
+          433,
+          676
+        ],
+        [
+          132,
+          676
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          747
+        ],
+        [
+          433,
+          747
+        ],
+        [
+          433,
+          791
+        ],
+        [
+          132,
+          791
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        632,
+        433,
+        676
+      ],
+      "text": "Trở về nhà lục dã?,",
+      "confidence": 0.876
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Trời cao chẳng phụ người đọc sách,",
+      "Thiếp nhũ vàng, tin thi đỗ kíp bay về",
+      "Đắc ý nơi đế đô,",
+      "Ghi danh nơi giáp bảng,",
+      "Đem niềm vui an ủi song thân?",
+      "Nghĩ công danh, ngàn năm chính ở lúc này đây,",
+      "Bèn ruổi sức ngựa hèn, mài lưõi dao nhụt,",
+      "[Quản chi] vẽ bần tường vôi], rút sợi tổ kén?",
+      "Khi đông, khi tây, khi nam, khi bắc,",
+      "Miệt mài làm quan lúc thì trong triều, khi thì ngoài trấn",
+      "Khi làm Tham mưu, Tán lí, lập chiến công lớn,",
+      "Lại làm khách hoàng hoa? mang cờ tiết đi xa.",
+      "Trở về nhà lục dã?,"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

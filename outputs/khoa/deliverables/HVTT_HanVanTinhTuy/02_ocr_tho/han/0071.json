@@ -1,0 +1,119 @@
+{
+  "page_id": "0071",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 71,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0071_han_000",
+      "bbox": [
+        [
+          547,
+          160
+        ],
+        [
+          655,
+          160
+        ],
+        [
+          655,
+          213
+        ],
+        [
+          547,
+          213
+        ]
+      ],
+      "bbox_original": [
+        [
+          547,
+          281
+        ],
+        [
+          655,
+          281
+        ],
+        [
+          655,
+          334
+        ],
+        [
+          547,
+          334
+        ]
+      ],
+      "box_xyxy": [
+        547,
+        160,
+        655,
+        213
+      ],
+      "text": "卜居",
+      "confidence": 0.9915
+    },
+    {
+      "line_id": "0071_han_001",
+      "bbox": [
+        [
+          781,
+          449
+        ],
+        [
+          900,
+          449
+        ],
+        [
+          900,
+          505
+        ],
+        [
+          781,
+          505
+        ]
+      ],
+      "bbox_original": [
+        [
+          781,
+          570
+        ],
+        [
+          900,
+          570
+        ],
+        [
+          900,
+          626
+        ],
+        [
+          781,
+          626
+        ]
+      ],
+      "box_xyxy": [
+        781,
+        449,
+        900,
+        505
+      ],
+      "text": "屈平",
+      "confidence": 0.9993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

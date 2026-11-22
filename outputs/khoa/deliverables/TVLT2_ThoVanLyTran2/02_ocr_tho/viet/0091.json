@@ -1,0 +1,1563 @@
+{
+  "page_id": "0091",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 91,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0091_viet_000",
+      "bbox": [
+        [
+          178,
+          455
+        ],
+        [
+          347,
+          455
+        ],
+        [
+          347,
+          493
+        ],
+        [
+          178,
+          493
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          610
+        ],
+        [
+          347,
+          610
+        ],
+        [
+          347,
+          648
+        ],
+        [
+          178,
+          648
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        455,
+        347,
+        493
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0091_viet_001",
+      "bbox": [
+        [
+          620,
+          507
+        ],
+        [
+          965,
+          507
+        ],
+        [
+          965,
+          545
+        ],
+        [
+          620,
+          545
+        ]
+      ],
+      "bbox_original": [
+        [
+          620,
+          662
+        ],
+        [
+          965,
+          662
+        ],
+        [
+          965,
+          700
+        ],
+        [
+          620,
+          700
+        ]
+      ],
+      "box_xyxy": [
+        620,
+        507,
+        965,
+        545
+      ],
+      "text": "GIỚI SÁT SINH VĂN",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0091_viet_002",
+      "bbox": [
+        [
+          274,
+          578
+        ],
+        [
+          1411,
+          578
+        ],
+        [
+          1411,
+          618
+        ],
+        [
+          274,
+          618
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          733
+        ],
+        [
+          1411,
+          733
+        ],
+        [
+          1411,
+          773
+        ],
+        [
+          274,
+          773
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        578,
+        1411,
+        618
+      ],
+      "text": "Phù noãn, thai, thấp, hóa tỉnh đông, kiên, văn, giác, tri khởi dị, Chi",
+      "confidence": 0.8831
+    },
+    {
+      "line_id": "0091_viet_003",
+      "bbox": [
+        [
+          178,
+          618
+        ],
+        [
+          1411,
+          616
+        ],
+        [
+          1411,
+          658
+        ],
+        [
+          178,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          773
+        ],
+        [
+          1411,
+          771
+        ],
+        [
+          1411,
+          813
+        ],
+        [
+          178,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        616,
+        1411,
+        660
+      ],
+      "text": "nhân tạo nghiệp lích oan; có thu dị đanh biệt hiện, Tích nhật bản nhân luân",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0091_viet_004",
+      "bbox": [
+        [
+          177,
+          657
+        ],
+        [
+          1410,
+          658
+        ],
+        [
+          1410,
+          699
+        ],
+        [
+          177,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          812
+        ],
+        [
+          1410,
+          813
+        ],
+        [
+          1410,
+          854
+        ],
+        [
+          177,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        657,
+        1410,
+        699
+      ],
+      "text": "chỉ loại: kim sinh vi: tbù: đại: chi quân. Hoặc hữu hoặc bằng; thị huynh thị đệ.",
+      "confidence": 0.8923
+    },
+    {
+      "line_id": "0091_viet_005",
+      "bbox": [
+        [
+          179,
+          699
+        ],
+        [
+          1410,
+          699
+        ],
+        [
+          1410,
+          736
+        ],
+        [
+          179,
+          736
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          854
+        ],
+        [
+          1410,
+          854
+        ],
+        [
+          1410,
+          891
+        ],
+        [
+          179,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        699,
+        1410,
+        736
+      ],
+      "text": "Hoán khước y thường quan đời, biến vi lân  giáp vũ: mao, Thê, vong phư nhi",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0091_viet_006",
+      "bbox": [
+        [
+          175,
+          736
+        ],
+        [
+          1411,
+          732
+        ],
+        [
+          1411,
+          776
+        ],
+        [
+          175,
+          780
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          891
+        ],
+        [
+          1411,
+          887
+        ],
+        [
+          1411,
+          931
+        ],
+        [
+          175,
+          935
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        732,
+        1411,
+        780
+      ],
+      "text": "phú vòng thế: từ khuê thân nhi thân khué tử. kỳ kiến cải đầu dị diện, khiên",
+      "confidence": 0.8615
+    },
+    {
+      "line_id": "0091_viet_007",
+      "bbox": [
+        [
+          174,
+          774
+        ],
+        [
+          1409,
+          775
+        ],
+        [
+          1409,
+          816
+        ],
+        [
+          174,
+          815
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          929
+        ],
+        [
+          1409,
+          930
+        ],
+        [
+          1409,
+          971
+        ],
+        [
+          174,
+          970
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        774,
+        1409,
+        816
+      ],
+      "text": "lai đoạn túc khoa trường, không hoài úy tử tham, sinh;, vò cánh ngôn thương",
+      "confidence": 0.8811
+    },
+    {
+      "line_id": "0091_viet_008",
+      "bbox": [
+        [
+          175,
+          814
+        ],
+        [
+          1408,
+          813
+        ],
+        [
+          1408,
+          854
+        ],
+        [
+          175,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          969
+        ],
+        [
+          1408,
+          968
+        ],
+        [
+          1408,
+          1009
+        ],
+        [
+          175,
+          1010
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        813,
+        1408,
+        855
+      ],
+      "text": "cáo thống: Nhì sát tha nhi tha hoàn sát nhì, cử thực nhữ nbi nhữ phản thực",
+      "confidence": 0.8911
+    },
+    {
+      "line_id": "0091_viet_009",
+      "bbox": [
+        [
+          175,
+          853
+        ],
+        [
+          1407,
+          852
+        ],
+        [
+          1407,
+          893
+        ],
+        [
+          175,
+          894
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1008
+        ],
+        [
+          1407,
+          1007
+        ],
+        [
+          1407,
+          1048
+        ],
+        [
+          175,
+          1049
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        852,
+        1407,
+        894
+      ],
+      "text": "cử. vĩnh một liêu kỳ: trường vì oàn trái, Sinh, sinh hò, báo, thế thế lương thù,",
+      "confidence": 0.86
+    },
+    {
+      "line_id": "0091_viet_010",
+      "bbox": [
+        [
+          177,
+          894
+        ],
+        [
+          1269,
+          894
+        ],
+        [
+          1269,
+          935
+        ],
+        [
+          177,
+          935
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1049
+        ],
+        [
+          1269,
+          1049
+        ],
+        [
+          1269,
+          1090
+        ],
+        [
+          177,
+          1090
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        894,
+        1269,
+        935
+      ],
+      "text": "Hồi đầu gia hoàn trước gia hương, tùng tàm giá vĩnh trầm địa ngué:",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0091_viet_011",
+      "bbox": [
+        [
+          270,
+          944
+        ],
+        [
+          1405,
+          945
+        ],
+        [
+          1405,
+          985
+        ],
+        [
+          270,
+          984
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1099
+        ],
+        [
+          1405,
+          1100
+        ],
+        [
+          1405,
+          1140
+        ],
+        [
+          270,
+          1139
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        944,
+        1405,
+        985
+      ],
+      "text": "Nho điền thi nhân bố dức; Đạo kinh ái vật hiếu sinh. Phật duy giới sát",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0091_viet_012",
+      "bbox": [
+        [
+          180,
+          989
+        ],
+        [
+          728,
+          989
+        ],
+        [
+          728,
+          1023
+        ],
+        [
+          180,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1144
+        ],
+        [
+          728,
+          1144
+        ],
+        [
+          728,
+          1178
+        ],
+        [
+          180,
+          1178
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        989,
+        728,
+        1023
+      ],
+      "text": "thị trì, nhữ ý tuần hành vật phạm",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0091_viet_013",
+      "bbox": [
+        [
+          270,
+          1041
+        ],
+        [
+          407,
+          1041
+        ],
+        [
+          407,
+          1084
+        ],
+        [
+          270,
+          1084
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1196
+        ],
+        [
+          407,
+          1196
+        ],
+        [
+          407,
+          1239
+        ],
+        [
+          270,
+          1239
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1041,
+        407,
+        1084
+      ],
+      "text": "Kế Viết",
+      "confidence": 0.7819
+    },
+    {
+      "line_id": "0091_viet_014",
+      "bbox": [
+        [
+          537,
+          1076
+        ],
+        [
+          1026,
+          1074
+        ],
+        [
+          1027,
+          1121
+        ],
+        [
+          537,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          1231
+        ],
+        [
+          1026,
+          1229
+        ],
+        [
+          1027,
+          1276
+        ],
+        [
+          537,
+          1278
+        ]
+      ],
+      "box_xyxy": [
+        537,
+        1074,
+        1027,
+        1123
+      ],
+      "text": "Vũ meô lần giáp tận ham lĩnh;",
+      "confidence": 0.819
+    },
+    {
+      "line_id": "0091_viet_015",
+      "bbox": [
+        [
+          539,
+          1126
+        ],
+        [
+          1003,
+          1126
+        ],
+        [
+          1003,
+          1167
+        ],
+        [
+          539,
+          1167
+        ]
+      ],
+      "bbox_original": [
+        [
+          539,
+          1281
+        ],
+        [
+          1003,
+          1281
+        ],
+        [
+          1003,
+          1322
+        ],
+        [
+          539,
+          1322
+        ]
+      ],
+      "box_xyxy": [
+        539,
+        1126,
+        1003,
+        1167
+      ],
+      "text": "Uy từ tham sinh khởi dị tinh",
+      "confidence": 0.8895
+    },
+    {
+      "line_id": "0091_viet_016",
+      "bbox": [
+        [
+          539,
+          1173
+        ],
+        [
+          1039,
+          1173
+        ],
+        [
+          1039,
+          1213
+        ],
+        [
+          539,
+          1213
+        ]
+      ],
+      "bbox_original": [
+        [
+          539,
+          1328
+        ],
+        [
+          1039,
+          1328
+        ],
+        [
+          1039,
+          1368
+        ],
+        [
+          539,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        539,
+        1173,
+        1039,
+        1213
+      ],
+      "text": "Tự cổ thanh hiền hoài bãi nhân,",
+      "confidence": 0.8869
+    },
+    {
+      "line_id": "0091_viet_017",
+      "bbox": [
+        [
+          540,
+          1221
+        ],
+        [
+          1042,
+          1219
+        ],
+        [
+          1042,
+          1257
+        ],
+        [
+          540,
+          1259
+        ]
+      ],
+      "bbox_original": [
+        [
+          540,
+          1376
+        ],
+        [
+          1042,
+          1374
+        ],
+        [
+          1042,
+          1412
+        ],
+        [
+          540,
+          1414
+        ]
+      ],
+      "box_xyxy": [
+        540,
+        1219,
+        1042,
+        1259
+      ],
+      "text": "Yên năng kiến tử dữ tham sinh",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0091_viet_018",
+      "bbox": [
+        [
+          175,
+          1312
+        ],
+        [
+          367,
+          1312
+        ],
+        [
+          367,
+          1347
+        ],
+        [
+          175,
+          1347
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1467
+        ],
+        [
+          367,
+          1467
+        ],
+        [
+          367,
+          1502
+        ],
+        [
+          175,
+          1502
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1312,
+        367,
+        1347
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0091_viet_019",
+      "bbox": [
+        [
+          592,
+          1352
+        ],
+        [
+          961,
+          1354
+        ],
+        [
+          961,
+          1399
+        ],
+        [
+          592,
+          1396
+        ]
+      ],
+      "bbox_original": [
+        [
+          592,
+          1507
+        ],
+        [
+          961,
+          1509
+        ],
+        [
+          961,
+          1554
+        ],
+        [
+          592,
+          1551
+        ]
+      ],
+      "box_xyxy": [
+        592,
+        1352,
+        961,
+        1399
+      ],
+      "text": "VĂN RĂN SÁT SINH (?)",
+      "confidence": 0.8873
+    },
+    {
+      "line_id": "0091_viet_020",
+      "bbox": [
+        [
+          268,
+          1431
+        ],
+        [
+          1409,
+          1429
+        ],
+        [
+          1409,
+          1470
+        ],
+        [
+          268,
+          1472
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1586
+        ],
+        [
+          1409,
+          1584
+        ],
+        [
+          1409,
+          1625
+        ],
+        [
+          268,
+          1627
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1429,
+        1409,
+        1472
+      ],
+      "text": "Phảm các loài sinh ra từ trứng. thai, âm, hóa (-), thề tinh đều giống",
+      "confidence": 0.876
+    },
+    {
+      "line_id": "0091_viet_021",
+      "bbox": [
+        [
+          174,
+          1475
+        ],
+        [
+          1408,
+          1469
+        ],
+        [
+          1408,
+          1507
+        ],
+        [
+          174,
+          1513
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1630
+        ],
+        [
+          1408,
+          1624
+        ],
+        [
+          1408,
+          1662
+        ],
+        [
+          174,
+          1668
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1469,
+        1408,
+        1513
+      ],
+      "text": "nhau, sư hiểu, biết, nhìm, nghe nào khác. Chỉ vì gày nghiệp chứa oan, nên",
+      "confidence": 0.902
+    },
+    {
+      "line_id": "0091_viet_022",
+      "bbox": [
+        [
+          173,
+          1514
+        ],
+        [
+          1406,
+          1509
+        ],
+        [
+          1406,
+          1547
+        ],
+        [
+          173,
+          1552
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1669
+        ],
+        [
+          1406,
+          1664
+        ],
+        [
+          1406,
+          1702
+        ],
+        [
+          173,
+          1707
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1509,
+        1406,
+        1552
+      ],
+      "text": "chìa khác tên khác biệu. Ngày trước vòa cũng loại nhận tuần (?); này đã sinh",
+      "confidence": 0.8761
+    },
+    {
+      "line_id": "0091_viet_023",
+      "bbox": [
+        [
+          171,
+          1554
+        ],
+        [
+          1409,
+          1547
+        ],
+        [
+          1409,
+          1584
+        ],
+        [
+          171,
+          1591
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1709
+        ],
+        [
+          1409,
+          1702
+        ],
+        [
+          1409,
+          1739
+        ],
+        [
+          171,
+          1746
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1547,
+        1409,
+        1591
+      ],
+      "text": "thành hảy khác lạ. Hoặc hệ hoặc bịnh, là, anh là cm, Thay đồi áo xiêm đại mã;",
+      "confidence": 0.8682
+    },
+    {
+      "line_id": "0091_viet_024",
+      "bbox": [
+        [
+          171,
+          1592
+        ],
+        [
+          1408,
+          1587
+        ],
+        [
+          1408,
+          1625
+        ],
+        [
+          171,
+          1630
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1747
+        ],
+        [
+          1408,
+          1742
+        ],
+        [
+          1408,
+          1780
+        ],
+        [
+          171,
+          1785
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1587,
+        1408,
+        1630
+      ],
+      "text": "biên thành mai vây cảnh lông. Vợ quên chống mà chộng quên vợ: con lia cha",
+      "confidence": 0.8686
+    },
+    {
+      "line_id": "0091_viet_025",
+      "bbox": [
+        [
+          171,
+          1629
+        ],
+        [
+          1405,
+          1623
+        ],
+        [
+          1405,
+          1663
+        ],
+        [
+          171,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1784
+        ],
+        [
+          1405,
+          1778
+        ],
+        [
+          1405,
+          1818
+        ],
+        [
+          171,
+          1825
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1623,
+        1405,
+        1670
+      ],
+      "text": "ma cha lia con, Đã thấy khác đầu lạ hật: đổi về mỗ bụng chải chân. Thâm",
+      "confidence": 0.8676
+    },
+    {
+      "line_id": "0091_viet_026",
+      "bbox": [
+        [
+          170,
+          1671
+        ],
+        [
+          1403,
+          1663
+        ],
+        [
+          1403,
+          1702
+        ],
+        [
+          170,
+          1709
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1826
+        ],
+        [
+          1403,
+          1818
+        ],
+        [
+          1403,
+          1857
+        ],
+        [
+          170,
+          1864
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1663,
+        1403,
+        1709
+      ],
+      "text": "sông: sọ chết, thành nội lo suông; kêu khô, nói: thương, thỏi đánh cũng bết.",
+      "confidence": 0.8598
+    },
+    {
+      "line_id": "0091_viet_027",
+      "bbox": [
+        [
+          169,
+          1708
+        ],
+        [
+          1409,
+          1702
+        ],
+        [
+          1409,
+          1742
+        ],
+        [
+          169,
+          1748
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1863
+        ],
+        [
+          1409,
+          1857
+        ],
+        [
+          1409,
+          1897
+        ],
+        [
+          169,
+          1903
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1702,
+        1409,
+        1748
+      ],
+      "text": "Người giết kê khác thi kê: khác giết người: nó ăn thít mày thì mày cũng nhai",
+      "confidence": 0.8604
+    },
+    {
+      "line_id": "0091_viet_028",
+      "bbox": [
+        [
+          170,
+          1748
+        ],
+        [
+          1406,
+          1743
+        ],
+        [
+          1406,
+          1780
+        ],
+        [
+          170,
+          1785
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1903
+        ],
+        [
+          1406,
+          1898
+        ],
+        [
+          1406,
+          1935
+        ],
+        [
+          170,
+          1940
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1743,
+        1406,
+        1785
+      ],
+      "text": "nó. Hạn kỳ làu mắi; vàn trái còn dài: Đời đời bảo oán, kiếp kiếp tra thu, Quay",
+      "confidence": 0.856
+    },
+    {
+      "line_id": "0091_viet_029",
+      "bbox": [
+        [
+          171,
+          1787
+        ],
+        [
+          1282,
+          1784
+        ],
+        [
+          1282,
+          1821
+        ],
+        [
+          171,
+          1824
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1942
+        ],
+        [
+          1282,
+          1939
+        ],
+        [
+          1282,
+          1976
+        ],
+        [
+          171,
+          1979
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1784,
+        1282,
+        1824
+      ],
+      "text": "đầu lại, thi về dược quê hương, buông thả làm thị chìm sàu địa ngục",
+      "confidence": 0.8903
+    },
+    {
+      "line_id": "0091_viet_030",
+      "bbox": [
+        [
+          265,
+          1834
+        ],
+        [
+          1409,
+          1831
+        ],
+        [
+          1409,
+          1868
+        ],
+        [
+          265,
+          1871
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1989
+        ],
+        [
+          1409,
+          1986
+        ],
+        [
+          1409,
+          2023
+        ],
+        [
+          265,
+          2026
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1831,
+        1409,
+        1871
+      ],
+      "text": "Điền nhà nho thì thị nhân bà dực, kinh của Đao, thì yêu vật thượng",
+      "confidence": 0.889
+    },
+    {
+      "line_id": "0091_viet_031",
+      "bbox": [
+        [
+          168,
+          1873
+        ],
+        [
+          1411,
+          1868
+        ],
+        [
+          1411,
+          1909
+        ],
+        [
+          168,
+          1915
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          2028
+        ],
+        [
+          1411,
+          2023
+        ],
+        [
+          1411,
+          2064
+        ],
+        [
+          168,
+          2070
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1868,
+        1411,
+        1915
+      ],
+      "text": "sinh, duy nhà Phát chỉ giữ lòng giới sát: Các ngữ rơi hấy tnàn theo chố phụm",
+      "confidence": 0.841
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "GIỚI SÁT SINH VĂN",
+      "Phù noãn, thai, thấp, hóa tỉnh đông, kiên, văn, giác, tri khởi dị, Chi",
+      "nhân tạo nghiệp lích oan; có thu dị đanh biệt hiện, Tích nhật bản nhân luân",
+      "chỉ loại: kim sinh vi: tbù: đại: chi quân. Hoặc hữu hoặc bằng; thị huynh thị đệ.",
+      "Hoán khước y thường quan đời, biến vi lân  giáp vũ: mao, Thê, vong phư nhi",
+      "phú vòng thế: từ khuê thân nhi thân khué tử. kỳ kiến cải đầu dị diện, khiên",
+      "lai đoạn túc khoa trường, không hoài úy tử tham, sinh;, vò cánh ngôn thương",
+      "cáo thống: Nhì sát tha nhi tha hoàn sát nhì, cử thực nhữ nbi nhữ phản thực",
+      "cử. vĩnh một liêu kỳ: trường vì oàn trái, Sinh, sinh hò, báo, thế thế lương thù,",
+      "Hồi đầu gia hoàn trước gia hương, tùng tàm giá vĩnh trầm địa ngué:",
+      "Nho điền thi nhân bố dức; Đạo kinh ái vật hiếu sinh. Phật duy giới sát",
+      "thị trì, nhữ ý tuần hành vật phạm",
+      "Kế Viết",
+      "Vũ meô lần giáp tận ham lĩnh;",
+      "Uy từ tham sinh khởi dị tinh",
+      "Tự cổ thanh hiền hoài bãi nhân,",
+      "Yên năng kiến tử dữ tham sinh"
+    ],
+    "dich_nghia_lines": [
+      "VĂN RĂN SÁT SINH (?)",
+      "Phảm các loài sinh ra từ trứng. thai, âm, hóa (-), thề tinh đều giống",
+      "nhau, sư hiểu, biết, nhìm, nghe nào khác. Chỉ vì gày nghiệp chứa oan, nên",
+      "chìa khác tên khác biệu. Ngày trước vòa cũng loại nhận tuần (?); này đã sinh",
+      "thành hảy khác lạ. Hoặc hệ hoặc bịnh, là, anh là cm, Thay đồi áo xiêm đại mã;",
+      "biên thành mai vây cảnh lông. Vợ quên chống mà chộng quên vợ: con lia cha",
+      "ma cha lia con, Đã thấy khác đầu lạ hật: đổi về mỗ bụng chải chân. Thâm",
+      "sông: sọ chết, thành nội lo suông; kêu khô, nói: thương, thỏi đánh cũng bết.",
+      "Người giết kê khác thi kê: khác giết người: nó ăn thít mày thì mày cũng nhai",
+      "nó. Hạn kỳ làu mắi; vàn trái còn dài: Đời đời bảo oán, kiếp kiếp tra thu, Quay",
+      "đầu lại, thi về dược quê hương, buông thả làm thị chìm sàu địa ngục",
+      "Điền nhà nho thì thị nhân bà dực, kinh của Đao, thì yêu vật thượng",
+      "sinh, duy nhà Phát chỉ giữ lòng giới sát: Các ngữ rơi hấy tnàn theo chố phụm"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

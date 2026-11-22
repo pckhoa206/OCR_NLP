@@ -1,0 +1,354 @@
+{
+  "page_id": "0195",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 195,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0195_han_000",
+      "bbox": [
+        [
+          178,
+          923
+        ],
+        [
+          572,
+          915
+        ],
+        [
+          573,
+          962
+        ],
+        [
+          178,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1078
+        ],
+        [
+          572,
+          1070
+        ],
+        [
+          573,
+          1117
+        ],
+        [
+          178,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        915,
+        573,
+        970
+      ],
+      "text": "1° KHLt thêm chü vän 文",
+      "confidence": 0.8243
+    },
+    {
+      "line_id": "0195_han_001",
+      "bbox": [
+        [
+          180,
+          1009
+        ],
+        [
+          595,
+          1012
+        ],
+        [
+          595,
+          1052
+        ],
+        [
+          180,
+          1049
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1164
+        ],
+        [
+          595,
+          1167
+        ],
+        [
+          595,
+          1207
+        ],
+        [
+          180,
+          1204
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1009,
+        595,
+        1052
+      ],
+      "text": "3ª KiLi : thêm chü dâng 等",
+      "confidence": 0.8643
+    },
+    {
+      "line_id": "0195_han_002",
+      "bbox": [
+        [
+          179,
+          1054
+        ],
+        [
+          428,
+          1054
+        ],
+        [
+          428,
+          1092
+        ],
+        [
+          179,
+          1092
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1209
+        ],
+        [
+          428,
+          1209
+        ],
+        [
+          428,
+          1247
+        ],
+        [
+          179,
+          1247
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1054,
+        428,
+        1092
+      ],
+      "text": "4° KHL1 : bó 步",
+      "confidence": 0.799
+    },
+    {
+      "line_id": "0195_han_003",
+      "bbox": [
+        [
+          176,
+          1226
+        ],
+        [
+          763,
+          1226
+        ],
+        [
+          763,
+          1276
+        ],
+        [
+          176,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1381
+        ],
+        [
+          763,
+          1381
+        ],
+        [
+          763,
+          1431
+        ],
+        [
+          176,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1226,
+        763,
+        1276
+      ],
+      "text": "(3) Hài Phugng-hoàng : δ phia Nam huyn Giang-ninh 江 寧 tinh Giang-tò 江 .",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0195_han_004",
+      "bbox": [
+        [
+          239,
+          1269
+        ],
+        [
+          1411,
+          1267
+        ],
+        [
+          1411,
+          1308
+        ],
+        [
+          240,
+          1310
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1424
+        ],
+        [
+          1411,
+          1422
+        ],
+        [
+          1411,
+          1463
+        ],
+        [
+          240,
+          1465
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1267,
+        1411,
+        1310
+      ],
+      "text": "Trung-quóc. Ly Bach có bài tho Phugng-hoàng dài 厚  , trong dó có hai càu :",
+      "confidence": 0.9473
+    },
+    {
+      "line_id": "0195_han_005",
+      "bbox": [
+        [
+          242,
+          1304
+        ],
+        [
+          763,
+          1304
+        ],
+        [
+          763,
+          1349
+        ],
+        [
+          242,
+          1349
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1459
+        ],
+        [
+          763,
+          1459
+        ],
+        [
+          763,
+          1504
+        ],
+        [
+          242,
+          1504
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1304,
+        763,
+        1349
+      ],
+      "text": "鳳凰臺上鳳凰遊.凤去臺空江自流.Phuong-hoàng dài thuong",
+      "confidence": 0.8789
+    },
+    {
+      "line_id": "0195_han_006",
+      "bbox": [
+        [
+          244,
+          1452
+        ],
+        [
+          723,
+          1456
+        ],
+        [
+          722,
+          1493
+        ],
+        [
+          243,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1607
+        ],
+        [
+          723,
+          1611
+        ],
+        [
+          722,
+          1648
+        ],
+        [
+          243,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1452,
+        723,
+        1493
+      ],
+      "text": "同谷 thuöc tinh Cam-túc 甘",
+      "confidence": 0.8887
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

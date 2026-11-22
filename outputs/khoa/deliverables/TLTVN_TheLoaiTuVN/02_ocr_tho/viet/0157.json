@@ -1,0 +1,508 @@
+{
+  "page_id": "0157",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 157,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1104,
+    "footnote_separator_y_original": 1219,
+    "effective_width": 1122,
+    "effective_height": 1104
+  },
+  "items": [
+    {
+      "line_id": "0157_viet_000",
+      "bbox": [
+        [
+          164,
+          1
+        ],
+        [
+          538,
+          0
+        ],
+        [
+          538,
+          33
+        ],
+        [
+          164,
+          36
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          116
+        ],
+        [
+          538,
+          115
+        ],
+        [
+          538,
+          148
+        ],
+        [
+          164,
+          151
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        0,
+        538,
+        36
+      ],
+      "text": "Ríu rít giọng hoàng oanh",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0157_viet_001",
+      "bbox": [
+        [
+          165,
+          47
+        ],
+        [
+          397,
+          47
+        ],
+        [
+          397,
+          81
+        ],
+        [
+          165,
+          81
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          162
+        ],
+        [
+          397,
+          162
+        ],
+        [
+          397,
+          196
+        ],
+        [
+          165,
+          196
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        47,
+        397,
+        81
+      ],
+      "text": "Cùng bảo nhau:",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0157_viet_002",
+      "bbox": [
+        [
+          163,
+          88
+        ],
+        [
+          907,
+          89
+        ],
+        [
+          907,
+          131
+        ],
+        [
+          163,
+          130
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          203
+        ],
+        [
+          907,
+          204
+        ],
+        [
+          907,
+          246
+        ],
+        [
+          163,
+          245
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        88,
+        907,
+        131
+      ],
+      "text": "Chúa xuân nay đã về mất chừ, còn gì hay nữa đâu?",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0157_viet_003",
+      "bbox": [
+        [
+          163,
+          184
+        ],
+        [
+          488,
+          186
+        ],
+        [
+          488,
+          227
+        ],
+        [
+          163,
+          225
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          299
+        ],
+        [
+          488,
+          301
+        ],
+        [
+          488,
+          342
+        ],
+        [
+          163,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        184,
+        488,
+        227
+      ],
+      "text": "Cảnh sắc như thế này,",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0157_viet_004",
+      "bbox": [
+        [
+          165,
+          233
+        ],
+        [
+          675,
+          238
+        ],
+        [
+          675,
+          276
+        ],
+        [
+          164,
+          272
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          348
+        ],
+        [
+          675,
+          353
+        ],
+        [
+          675,
+          391
+        ],
+        [
+          164,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        233,
+        675,
+        276
+      ],
+      "text": "Thêm dấy lên một phen ngao ngán",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0157_viet_005",
+      "bbox": [
+        [
+          161,
+          282
+        ],
+        [
+          557,
+          280
+        ],
+        [
+          557,
+          325
+        ],
+        [
+          161,
+          327
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          397
+        ],
+        [
+          557,
+          395
+        ],
+        [
+          557,
+          440
+        ],
+        [
+          161,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        280,
+        557,
+        327
+      ],
+      "text": "May sao thần chúc Dung",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0157_viet_006",
+      "bbox": [
+        [
+          163,
+          331
+        ],
+        [
+          611,
+          328
+        ],
+        [
+          611,
+          369
+        ],
+        [
+          163,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          446
+        ],
+        [
+          611,
+          443
+        ],
+        [
+          611,
+          484
+        ],
+        [
+          163,
+          487
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        328,
+        611,
+        372
+      ],
+      "text": "Gảy một khúc đàn nam huân?",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0157_viet_007",
+      "bbox": [
+        [
+          164,
+          380
+        ],
+        [
+          647,
+          385
+        ],
+        [
+          647,
+          422
+        ],
+        [
+          163,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          495
+        ],
+        [
+          647,
+          500
+        ],
+        [
+          647,
+          537
+        ],
+        [
+          163,
+          533
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        380,
+        647,
+        422
+      ],
+      "text": "Đích thân đưa hương sen bay tới,",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0157_viet_008",
+      "bbox": [
+        [
+          163,
+          426
+        ],
+        [
+          572,
+          430
+        ],
+        [
+          572,
+          472
+        ],
+        [
+          162,
+          468
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          541
+        ],
+        [
+          572,
+          545
+        ],
+        [
+          572,
+          587
+        ],
+        [
+          162,
+          583
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        426,
+        572,
+        472
+      ],
+      "text": "Nỗi thương tâm ngày trước,",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0157_viet_009",
+      "bbox": [
+        [
+          164,
+          480
+        ],
+        [
+          458,
+          480
+        ],
+        [
+          458,
+          519
+        ],
+        [
+          164,
+          519
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          595
+        ],
+        [
+          458,
+          595
+        ],
+        [
+          458,
+          634
+        ],
+        [
+          164,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        480,
+        458,
+        519
+      ],
+      "text": "Theo gió cuốn sạch.",
+      "confidence": 0.9167
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Ríu rít giọng hoàng oanh",
+      "Cùng bảo nhau:",
+      "Chúa xuân nay đã về mất chừ, còn gì hay nữa đâu?",
+      "Cảnh sắc như thế này,",
+      "Thêm dấy lên một phen ngao ngán",
+      "May sao thần chúc Dung",
+      "Gảy một khúc đàn nam huân?",
+      "Đích thân đưa hương sen bay tới,",
+      "Nỗi thương tâm ngày trước,",
+      "Theo gió cuốn sạch."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

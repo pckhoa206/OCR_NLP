@@ -1,0 +1,213 @@
+{
+  "page_id": "0032",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 32,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0032_han_000",
+      "bbox": [
+        [
+          175,
+          1319
+        ],
+        [
+          1411,
+          1310
+        ],
+        [
+          1411,
+          1364
+        ],
+        [
+          175,
+          1373
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1474
+        ],
+        [
+          1411,
+          1465
+        ],
+        [
+          1411,
+          1519
+        ],
+        [
+          175,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1310,
+        1411,
+        1373
+      ],
+      "text": "1* Nguyèn vǎn : nhi r khòng có nghīa. KL2 chú: nhi khúng tràr n  单；",
+      "confidence": 0.8728
+    },
+    {
+      "line_id": "0032_han_001",
+      "bbox": [
+        [
+          174,
+          1386
+        ],
+        [
+          763,
+          1386
+        ],
+        [
+          763,
+          1457
+        ],
+        [
+          174,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1541
+        ],
+        [
+          763,
+          1541
+        ],
+        [
+          763,
+          1612
+        ],
+        [
+          174,
+          1612
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1386,
+        763,
+        1457
+      ],
+      "text": "2* Nguyèn vän : kinh 故, khöng có nghia : Kll2 chū: khüng khǎi 千愁 启, nghīa",
+      "confidence": 0.8473
+    },
+    {
+      "line_id": "0032_han_002",
+      "bbox": [
+        [
+          178,
+          1569
+        ],
+        [
+          763,
+          1569
+        ],
+        [
+          763,
+          1638
+        ],
+        [
+          178,
+          1638
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1724
+        ],
+        [
+          763,
+          1724
+        ],
+        [
+          763,
+          1793
+        ],
+        [
+          178,
+          1793
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1569,
+        763,
+        1638
+      ],
+      "text": "(1) Kim crong tam muói : tèn dày dù la Kim cuong bàt-nhā ba-la-mat-da 金 周 股 若",
+      "confidence": 0.8772
+    },
+    {
+      "line_id": "0032_han_003",
+      "bbox": [
+        [
+          229,
+          1612
+        ],
+        [
+          763,
+          1612
+        ],
+        [
+          763,
+          1669
+        ],
+        [
+          229,
+          1669
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1767
+        ],
+        [
+          763,
+          1767
+        ],
+        [
+          763,
+          1824
+        ],
+        [
+          229,
+          1824
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1612,
+        763,
+        1669
+      ],
+      "text": "波 羅 密 多",
+      "confidence": 0.8993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

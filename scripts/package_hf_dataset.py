@@ -82,8 +82,12 @@ def load_all_records() -> List[Dict[str, Any]]:
                 rec["sino_vietnamese_reading"] = row[1]
                 rec["vietnamese_prose_translation"] = row[2]
                 rec["vietnamese_verse_translation"] = row[3]
-                # Canonical target text (prose translation if present, otherwise verse translation)
-                rec["vietnamese_translation"] = row[2] if row[2].strip() else row[3]
+                # Canonical target text: prose -> verse -> Sino-Vietnamese reading (title rows)
+                rec["vietnamese_translation"] = (
+                    row[2]
+                    if row[2].strip()
+                    else (row[3] if row[3].strip() else row[1])
+                )
             else:
                 rec["sino_vietnamese_reading"] = ""
                 rec["vietnamese_prose_translation"] = row[1] if len(row) > 1 else ""

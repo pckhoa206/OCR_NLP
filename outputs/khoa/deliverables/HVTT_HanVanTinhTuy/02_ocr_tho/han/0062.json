@@ -1,0 +1,243 @@
+{
+  "page_id": "0062",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 62,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0062_han_000",
+      "bbox": [
+        [
+          244,
+          420
+        ],
+        [
+          855,
+          420
+        ],
+        [
+          855,
+          471
+        ],
+        [
+          244,
+          471
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          541
+        ],
+        [
+          855,
+          541
+        ],
+        [
+          855,
+          592
+        ],
+        [
+          244,
+          592
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        420,
+        855,
+        471
+      ],
+      "text": "其爲人也上不臣於王",
+      "confidence": 0.963
+    },
+    {
+      "line_id": "0062_han_001",
+      "bbox": [
+        [
+          248,
+          603
+        ],
+        [
+          989,
+          605
+        ],
+        [
+          989,
+          652
+        ],
+        [
+          248,
+          650
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          724
+        ],
+        [
+          989,
+          726
+        ],
+        [
+          989,
+          773
+        ],
+        [
+          248,
+          771
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        603,
+        989,
+        652
+      ],
+      "text": "下不治其家中不索交諸候",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0062_han_002",
+      "bbox": [
+        [
+          247,
+          829
+        ],
+        [
+          856,
+          829
+        ],
+        [
+          856,
+          876
+        ],
+        [
+          247,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          950
+        ],
+        [
+          856,
+          950
+        ],
+        [
+          856,
+          997
+        ],
+        [
+          247,
+          997
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        829,
+        856,
+        876
+      ],
+      "text": "此率民而出於無用者",
+      "confidence": 0.994
+    },
+    {
+      "line_id": "0062_han_003",
+      "bbox": [
+        [
+          249,
+          1008
+        ],
+        [
+          714,
+          1008
+        ],
+        [
+          714,
+          1057
+        ],
+        [
+          249,
+          1057
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1129
+        ],
+        [
+          714,
+          1129
+        ],
+        [
+          714,
+          1178
+        ],
+        [
+          249,
+          1178
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1008,
+        714,
+        1057
+      ],
+      "text": "何爲至今不殺乎",
+      "confidence": 0.9418
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "其爲人也上不臣於王",
+      "下不治其家中不索交諸候",
+      "此率民而出於無用者",
+      "何爲至今不殺乎"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "其爲人也上不臣於王",
+        "phien_am": "Kỳ vi nhân dã: thượng bất thần ư vương",
+        "dich_nghia_gloss": "Ây là người trên không biết thờ vua"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "下不治其家中不索交諸候",
+        "phien_am": "hạ bãt trì kỳ gia, trung bãt sách giao chư hầu",
+        "dich_nghia_gloss": "dưới không biết trị gia, giữa không biết giao hảo chư hầu."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "此率民而出於無用者",
+        "phien_am": "Thử suất dân nhi xuất ư vô-dụng giả",
+        "dich_nghia_gloss": "Thiệt là đồ vô dụng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "何爲至今不殺乎",
+        "phien_am": "hà vi chi kim bất sát hồ ?",
+        "dich_nghia_gloss": "sao đền nay còn chưa giết ?"
+      }
+    ]
+  }
+}

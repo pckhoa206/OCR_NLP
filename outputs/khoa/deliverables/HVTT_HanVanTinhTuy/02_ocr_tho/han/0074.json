@@ -1,0 +1,459 @@
+{
+  "page_id": "0074",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 74,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0074_han_000",
+      "bbox": [
+        [
+          230,
+          129
+        ],
+        [
+          921,
+          129
+        ],
+        [
+          921,
+          173
+        ],
+        [
+          230,
+          173
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          250
+        ],
+        [
+          921,
+          250
+        ],
+        [
+          921,
+          294
+        ],
+        [
+          230,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        129,
+        921,
+        173
+      ],
+      "text": "屈原放三年不得復見",
+      "confidence": 0.9786
+    },
+    {
+      "line_id": "0074_han_001",
+      "bbox": [
+        [
+          246,
+          322
+        ],
+        [
+          851,
+          322
+        ],
+        [
+          851,
+          370
+        ],
+        [
+          246,
+          370
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          443
+        ],
+        [
+          851,
+          443
+        ],
+        [
+          851,
+          491
+        ],
+        [
+          246,
+          491
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        322,
+        851,
+        370
+      ],
+      "text": "竭智盡忠而蔽障於說",
+      "confidence": 0.9596
+    },
+    {
+      "line_id": "0074_han_002",
+      "bbox": [
+        [
+          244,
+          477
+        ],
+        [
+          780,
+          475
+        ],
+        [
+          780,
+          519
+        ],
+        [
+          244,
+          521
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          598
+        ],
+        [
+          780,
+          596
+        ],
+        [
+          780,
+          640
+        ],
+        [
+          244,
+          642
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        475,
+        780,
+        521
+      ],
+      "text": "心煩意亂不知所從",
+      "confidence": 0.9976
+    },
+    {
+      "line_id": "0074_han_003",
+      "bbox": [
+        [
+          239,
+          625
+        ],
+        [
+          851,
+          625
+        ],
+        [
+          851,
+          672
+        ],
+        [
+          239,
+          672
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          746
+        ],
+        [
+          851,
+          746
+        ],
+        [
+          851,
+          793
+        ],
+        [
+          239,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        625,
+        851,
+        672
+      ],
+      "text": "乃往見太卜鄭詹尹曰",
+      "confidence": 0.991
+    },
+    {
+      "line_id": "0074_han_004",
+      "bbox": [
+        [
+          246,
+          824
+        ],
+        [
+          923,
+          824
+        ],
+        [
+          923,
+          871
+        ],
+        [
+          246,
+          871
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          945
+        ],
+        [
+          923,
+          945
+        ],
+        [
+          923,
+          992
+        ],
+        [
+          246,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        824,
+        923,
+        871
+      ],
+      "text": "余有所疑願因先生决之",
+      "confidence": 0.9937
+    },
+    {
+      "line_id": "0074_han_005",
+      "bbox": [
+        [
+          250,
+          1018
+        ],
+        [
+          779,
+          1018
+        ],
+        [
+          779,
+          1067
+        ],
+        [
+          250,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1139
+        ],
+        [
+          779,
+          1139
+        ],
+        [
+          779,
+          1188
+        ],
+        [
+          250,
+          1188
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1018,
+        779,
+        1067
+      ],
+      "text": "詹尹乃端筴拂龜曰",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0074_han_006",
+      "bbox": [
+        [
+          252,
+          1171
+        ],
+        [
+          648,
+          1173
+        ],
+        [
+          648,
+          1217
+        ],
+        [
+          252,
+          1215
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1292
+        ],
+        [
+          648,
+          1294
+        ],
+        [
+          648,
+          1338
+        ],
+        [
+          252,
+          1336
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1171,
+        648,
+        1217
+      ],
+      "text": "君將何以教之",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0074_han_007",
+      "bbox": [
+        [
+          254,
+          1319
+        ],
+        [
+          434,
+          1319
+        ],
+        [
+          434,
+          1365
+        ],
+        [
+          254,
+          1365
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1440
+        ],
+        [
+          434,
+          1440
+        ],
+        [
+          434,
+          1486
+        ],
+        [
+          254,
+          1486
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1319,
+        434,
+        1365
+      ],
+      "text": "屈原曰",
+      "confidence": 0.9988
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "屈原放三年不得復見",
+      "竭智盡忠而蔽障於說",
+      "心煩意亂不知所從",
+      "乃往見太卜鄭詹尹曰",
+      "余有所疑願因先生决之",
+      "詹尹乃端筴拂龜曰",
+      "君將何以教之",
+      "屈原曰"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "屈原放三年不得復見",
+        "phien_am": "Khuất Nguyên ký phóng, tam niên bãt đắc phục",
+        "dich_nghia_gloss": "kiẽn. Khuất-Nguyên bị đuổi, 3 năm không được thầy vua"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "竭智盡忠而蔽障於說",
+        "phien_am": "Kiệt trí tận trung, nhi tẽ chướng ư sàm",
+        "dich_nghia_gloss": "Hết sức trung thành nhưng bị kẻ sàm-báng hại"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "心煩意亂不知所從",
+        "phien_am": "Tâm phiền ý loạn, bãt tri sở tùng",
+        "dich_nghia_gloss": "Lòng buồn ý loạn, không biết theo đâu"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "乃往見太卜鄭詹尹曰",
+        "phien_am": "Nãi vãng kiên thái bốc trịnh thiềm-Doãn",
+        "dich_nghia_gloss": "viêt: Bèn đến gặp Thái-bồc Trịnh-Thiểm-Doãn, nói:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "余有所疑願因先生决之",
+        "phien_am": "- Dư hữu sở nghi, nguyện nhân tiên sinh",
+        "dich_nghia_gloss": "quyẽt chi. Tôi có chỗ ngờ, xin thấy quyết đoán cho"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "詹尹乃端筴拂龜曰",
+        "phien_am": "Thiêm-Doãn nãi đoan sách phát quy viết:",
+        "dich_nghia_gloss": "Thiểm-Doãn bèn giở thẻ ra đề gieo quẻ, hỏi:"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "君將何以教之",
+        "phien_am": "- Quân tương hà dĩ giáo chi ?",
+        "dich_nghia_gloss": "Nhà thày muôn hỏi điều gì ?"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "屈原曰",
+        "phien_am": "Khuất Nguyên viết:",
+        "dich_nghia_gloss": "Khuất Nguyên nói"
+      }
+    ]
+  }
+}

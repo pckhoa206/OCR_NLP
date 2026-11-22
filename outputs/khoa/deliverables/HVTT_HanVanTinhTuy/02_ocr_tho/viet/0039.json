@@ -1,0 +1,309 @@
+{
+  "page_id": "0039",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 39,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0039_viet_000",
+      "bbox": [
+        [
+          195,
+          69
+        ],
+        [
+          684,
+          67
+        ],
+        [
+          684,
+          104
+        ],
+        [
+          195,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          190
+        ],
+        [
+          684,
+          188
+        ],
+        [
+          684,
+          225
+        ],
+        [
+          195,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        67,
+        684,
+        107
+      ],
+      "text": "THÚC-HƯỚNG HẠ TUYÊN-TỮ",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0039_viet_001",
+      "bbox": [
+        [
+          952,
+          71
+        ],
+        [
+          994,
+          71
+        ],
+        [
+          994,
+          107
+        ],
+        [
+          952,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          952,
+          192
+        ],
+        [
+          994,
+          192
+        ],
+        [
+          994,
+          228
+        ],
+        [
+          952,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        952,
+        71,
+        994,
+        107
+      ],
+      "text": "33",
+      "confidence": 0.9387
+    },
+    {
+      "line_id": "0039_viet_002",
+      "bbox": [
+        [
+          294,
+          239
+        ],
+        [
+          902,
+          240
+        ],
+        [
+          902,
+          278
+        ],
+        [
+          294,
+          277
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          360
+        ],
+        [
+          902,
+          361
+        ],
+        [
+          902,
+          399
+        ],
+        [
+          294,
+          398
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        239,
+        902,
+        278
+      ],
+      "text": "Hàn-Tuyên nói: a Đương con ăm-ức,",
+      "confidence": 0.8952
+    },
+    {
+      "line_id": "0039_viet_003",
+      "bbox": [
+        [
+          300,
+          407
+        ],
+        [
+          883,
+          406
+        ],
+        [
+          883,
+          444
+        ],
+        [
+          300,
+          445
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          528
+        ],
+        [
+          883,
+          527
+        ],
+        [
+          883,
+          565
+        ],
+        [
+          300,
+          566
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        406,
+        883,
+        445
+      ],
+      "text": "a Quên tu nhân tích đức, lo nghèo,",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0039_viet_004",
+      "bbox": [
+        [
+          365,
+          575
+        ],
+        [
+          886,
+          575
+        ],
+        [
+          886,
+          609
+        ],
+        [
+          365,
+          609
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          696
+        ],
+        [
+          886,
+          696
+        ],
+        [
+          886,
+          730
+        ],
+        [
+          365,
+          730
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        575,
+        886,
+        609
+      ],
+      "text": "- Diệt vong một sớm, một chiều,",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0039_viet_005",
+      "bbox": [
+        [
+          263,
+          738
+        ],
+        [
+          951,
+          738
+        ],
+        [
+          951,
+          775
+        ],
+        [
+          263,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          859
+        ],
+        [
+          951,
+          859
+        ],
+        [
+          951,
+          896
+        ],
+        [
+          263,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        738,
+        951,
+        775
+      ],
+      "text": "a Hiếu sinh bác nhắc mãy điều, xin ghi [...",
+      "confidence": 0.8707
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

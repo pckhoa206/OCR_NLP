@@ -1,0 +1,459 @@
+{
+  "page_id": "0076",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 76,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0076_han_000",
+      "bbox": [
+        [
+          244,
+          127
+        ],
+        [
+          921,
+          127
+        ],
+        [
+          921,
+          174
+        ],
+        [
+          244,
+          174
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          248
+        ],
+        [
+          921,
+          248
+        ],
+        [
+          921,
+          295
+        ],
+        [
+          244,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        127,
+        921,
+        174
+      ],
+      "text": "吾寧悃悃欵欵樸以忠乎",
+      "confidence": 0.9522
+    },
+    {
+      "line_id": "0076_han_001",
+      "bbox": [
+        [
+          244,
+          335
+        ],
+        [
+          852,
+          335
+        ],
+        [
+          852,
+          383
+        ],
+        [
+          244,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          456
+        ],
+        [
+          852,
+          456
+        ],
+        [
+          852,
+          504
+        ],
+        [
+          244,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        335,
+        852,
+        383
+      ],
+      "text": "將送往勞来斯無窮乎",
+      "confidence": 0.8588
+    },
+    {
+      "line_id": "0076_han_002",
+      "bbox": [
+        [
+          248,
+          497
+        ],
+        [
+          851,
+          497
+        ],
+        [
+          851,
+          544
+        ],
+        [
+          248,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          618
+        ],
+        [
+          851,
+          618
+        ],
+        [
+          851,
+          665
+        ],
+        [
+          248,
+          665
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        497,
+        851,
+        544
+      ],
+      "text": "寧誅鋤草茆以力耕乎",
+      "confidence": 0.9754
+    },
+    {
+      "line_id": "0076_han_003",
+      "bbox": [
+        [
+          245,
+          665
+        ],
+        [
+          784,
+          662
+        ],
+        [
+          785,
+          706
+        ],
+        [
+          245,
+          709
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          786
+        ],
+        [
+          784,
+          783
+        ],
+        [
+          785,
+          827
+        ],
+        [
+          245,
+          830
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        662,
+        785,
+        709
+      ],
+      "text": "將遊大人以成名乎",
+      "confidence": 0.959
+    },
+    {
+      "line_id": "0076_han_004",
+      "bbox": [
+        [
+          247,
+          827
+        ],
+        [
+          854,
+          825
+        ],
+        [
+          854,
+          873
+        ],
+        [
+          247,
+          875
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          948
+        ],
+        [
+          854,
+          946
+        ],
+        [
+          854,
+          994
+        ],
+        [
+          247,
+          996
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        825,
+        854,
+        875
+      ],
+      "text": "寧正言不諱以危身乎",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0076_han_005",
+      "bbox": [
+        [
+          246,
+          990
+        ],
+        [
+          854,
+          990
+        ],
+        [
+          854,
+          1038
+        ],
+        [
+          246,
+          1038
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1111
+        ],
+        [
+          854,
+          1111
+        ],
+        [
+          854,
+          1159
+        ],
+        [
+          246,
+          1159
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        990,
+        854,
+        1038
+      ],
+      "text": "將從俗富貴以媮生乎",
+      "confidence": 0.9625
+    },
+    {
+      "line_id": "0076_han_006",
+      "bbox": [
+        [
+          249,
+          1154
+        ],
+        [
+          856,
+          1154
+        ],
+        [
+          856,
+          1201
+        ],
+        [
+          249,
+          1201
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1275
+        ],
+        [
+          856,
+          1275
+        ],
+        [
+          856,
+          1322
+        ],
+        [
+          249,
+          1322
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1154,
+        856,
+        1201
+      ],
+      "text": "寧超然高舉以保真乎",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0076_han_007",
+      "bbox": [
+        [
+          250,
+          1320
+        ],
+        [
+          855,
+          1320
+        ],
+        [
+          855,
+          1367
+        ],
+        [
+          250,
+          1367
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1441
+        ],
+        [
+          855,
+          1441
+        ],
+        [
+          855,
+          1488
+        ],
+        [
+          250,
+          1488
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1320,
+        855,
+        1367
+      ],
+      "text": "將啶訾慄斯喔咿喘呪",
+      "confidence": 0.8453
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "吾寧悃悃欵欵樸以忠乎",
+      "將送往勞来斯無窮乎",
+      "寧誅鋤草茆以力耕乎",
+      "將遊大人以成名乎",
+      "寧正言不諱以危身乎",
+      "將從俗富貴以媮生乎",
+      "寧超然高舉以保真乎",
+      "將啶訾慄斯喔咿喘呪"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "吾寧悃悃欵欵樸以忠乎",
+        "phien_am": "- Ngô ninh khồn-khồn khoản-khoản phác di",
+        "dich_nghia_gloss": "trung hồ; Tôi nên cồ công giữ lòng trung"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "將送往勞来斯無窮乎",
+        "phien_am": "tương tõng văng lạo lai, ty vô cùng hồ ?",
+        "dich_nghia_gloss": "hay nên đưa đón để khỏi cùng khôn ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "寧誅鋤草茆以力耕乎",
+        "phien_am": "Ninh tru sử thảo muo dĩ lực canh hô;",
+        "dich_nghia_gloss": "Nên về nơi thảo dã cày bừa"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "將遊大人以成名乎",
+        "phien_am": "tương du đại nhân di thành danh hồ ?",
+        "dich_nghia_gloss": "hay bôn tầu theo người sang để cầu danh ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "寧正言不諱以危身乎",
+        "phien_am": "Ninh chinh ngôn bãt húy dĩ nguy thân hồ",
+        "dich_nghia_gloss": "nên nói thắng không kiêng kị, để nguy vào thân"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "將從俗富貴以媮生乎",
+        "phien_am": "tương tùng tục phú qui dĩ thâu sinh hồ",
+        "dich_nghia_gloss": "hay theo lồi phú-quý mà trộm lầy sồng ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "寧超然高舉以保真乎",
+        "phien_am": "Ninh siêu nhiên cao cử di bảo chân hồ",
+        "dich_nghia_gloss": "nên cư-xử cao-siêu đề giữ lầy chân-tính"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將啶訾慄斯喔咿喘呪",
+        "phien_am": "tương túc tư lật ty, ốc y nhu nhi,",
+        "dich_nghia_gloss": "hay nên vuốt ve mơn trớn, cười gần nịnh bợ."
+      }
+    ]
+  }
+}

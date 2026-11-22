@@ -1,0 +1,675 @@
+{
+  "page_id": "0100",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 100,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0100_han_000",
+      "bbox": [
+        [
+          433,
+          127
+        ],
+        [
+          759,
+          127
+        ],
+        [
+          759,
+          175
+        ],
+        [
+          433,
+          175
+        ]
+      ],
+      "bbox_original": [
+        [
+          433,
+          248
+        ],
+        [
+          759,
+          248
+        ],
+        [
+          759,
+          296
+        ],
+        [
+          433,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        433,
+        127,
+        759,
+        175
+      ],
+      "text": "暮投石壕邨",
+      "confidence": 0.9971
+    },
+    {
+      "line_id": "0100_han_001",
+      "bbox": [
+        [
+          432,
+          239
+        ],
+        [
+          758,
+          239
+        ],
+        [
+          758,
+          287
+        ],
+        [
+          432,
+          287
+        ]
+      ],
+      "bbox_original": [
+        [
+          432,
+          360
+        ],
+        [
+          758,
+          360
+        ],
+        [
+          758,
+          408
+        ],
+        [
+          432,
+          408
+        ]
+      ],
+      "box_xyxy": [
+        432,
+        239,
+        758,
+        287
+      ],
+      "text": "有吏夜捉人",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0100_han_002",
+      "bbox": [
+        [
+          431,
+          350
+        ],
+        [
+          758,
+          350
+        ],
+        [
+          758,
+          398
+        ],
+        [
+          431,
+          398
+        ]
+      ],
+      "bbox_original": [
+        [
+          431,
+          471
+        ],
+        [
+          758,
+          471
+        ],
+        [
+          758,
+          519
+        ],
+        [
+          431,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        431,
+        350,
+        758,
+        398
+      ],
+      "text": "老翁踰墙走",
+      "confidence": 0.9958
+    },
+    {
+      "line_id": "0100_han_003",
+      "bbox": [
+        [
+          431,
+          460
+        ],
+        [
+          758,
+          458
+        ],
+        [
+          759,
+          506
+        ],
+        [
+          432,
+          508
+        ]
+      ],
+      "bbox_original": [
+        [
+          431,
+          581
+        ],
+        [
+          758,
+          579
+        ],
+        [
+          759,
+          627
+        ],
+        [
+          432,
+          629
+        ]
+      ],
+      "box_xyxy": [
+        431,
+        458,
+        759,
+        508
+      ],
+      "text": "老婦出門迎",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0100_han_004",
+      "bbox": [
+        [
+          434,
+          573
+        ],
+        [
+          758,
+          573
+        ],
+        [
+          758,
+          619
+        ],
+        [
+          434,
+          619
+        ]
+      ],
+      "bbox_original": [
+        [
+          434,
+          694
+        ],
+        [
+          758,
+          694
+        ],
+        [
+          758,
+          740
+        ],
+        [
+          434,
+          740
+        ]
+      ],
+      "box_xyxy": [
+        434,
+        573,
+        758,
+        619
+      ],
+      "text": "吏呼一何怒",
+      "confidence": 0.996
+    },
+    {
+      "line_id": "0100_han_005",
+      "bbox": [
+        [
+          428,
+          686
+        ],
+        [
+          759,
+          688
+        ],
+        [
+          758,
+          733
+        ],
+        [
+          427,
+          731
+        ]
+      ],
+      "bbox_original": [
+        [
+          428,
+          807
+        ],
+        [
+          759,
+          809
+        ],
+        [
+          758,
+          854
+        ],
+        [
+          427,
+          852
+        ]
+      ],
+      "box_xyxy": [
+        427,
+        686,
+        759,
+        733
+      ],
+      "text": "婦啼一何苦",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0100_han_006",
+      "bbox": [
+        [
+          430,
+          797
+        ],
+        [
+          760,
+          797
+        ],
+        [
+          760,
+          846
+        ],
+        [
+          430,
+          846
+        ]
+      ],
+      "bbox_original": [
+        [
+          430,
+          918
+        ],
+        [
+          760,
+          918
+        ],
+        [
+          760,
+          967
+        ],
+        [
+          430,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        430,
+        797,
+        760,
+        846
+      ],
+      "text": "聽婦前致辭",
+      "confidence": 0.9978
+    },
+    {
+      "line_id": "0100_han_007",
+      "bbox": [
+        [
+          427,
+          910
+        ],
+        [
+          763,
+          910
+        ],
+        [
+          763,
+          958
+        ],
+        [
+          427,
+          958
+        ]
+      ],
+      "bbox_original": [
+        [
+          427,
+          1031
+        ],
+        [
+          763,
+          1031
+        ],
+        [
+          763,
+          1079
+        ],
+        [
+          427,
+          1079
+        ]
+      ],
+      "box_xyxy": [
+        427,
+        910,
+        763,
+        958
+      ],
+      "text": "三男鄴城戌",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0100_han_008",
+      "bbox": [
+        [
+          430,
+          1022
+        ],
+        [
+          762,
+          1022
+        ],
+        [
+          762,
+          1074
+        ],
+        [
+          430,
+          1074
+        ]
+      ],
+      "bbox_original": [
+        [
+          430,
+          1143
+        ],
+        [
+          762,
+          1143
+        ],
+        [
+          762,
+          1195
+        ],
+        [
+          430,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        430,
+        1022,
+        762,
+        1074
+      ],
+      "text": "一男附畫至",
+      "confidence": 0.9442
+    },
+    {
+      "line_id": "0100_han_009",
+      "bbox": [
+        [
+          433,
+          1137
+        ],
+        [
+          762,
+          1137
+        ],
+        [
+          762,
+          1185
+        ],
+        [
+          433,
+          1185
+        ]
+      ],
+      "bbox_original": [
+        [
+          433,
+          1258
+        ],
+        [
+          762,
+          1258
+        ],
+        [
+          762,
+          1306
+        ],
+        [
+          433,
+          1306
+        ]
+      ],
+      "box_xyxy": [
+        433,
+        1137,
+        762,
+        1185
+      ],
+      "text": "二男新戰死",
+      "confidence": 0.9936
+    },
+    {
+      "line_id": "0100_han_010",
+      "bbox": [
+        [
+          431,
+          1249
+        ],
+        [
+          758,
+          1249
+        ],
+        [
+          758,
+          1298
+        ],
+        [
+          431,
+          1298
+        ]
+      ],
+      "bbox_original": [
+        [
+          431,
+          1370
+        ],
+        [
+          758,
+          1370
+        ],
+        [
+          758,
+          1419
+        ],
+        [
+          431,
+          1419
+        ]
+      ],
+      "box_xyxy": [
+        431,
+        1249,
+        758,
+        1298
+      ],
+      "text": "存者且偷生",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0100_han_011",
+      "bbox": [
+        [
+          431,
+          1365
+        ],
+        [
+          758,
+          1365
+        ],
+        [
+          758,
+          1409
+        ],
+        [
+          431,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          431,
+          1486
+        ],
+        [
+          758,
+          1486
+        ],
+        [
+          758,
+          1530
+        ],
+        [
+          431,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        431,
+        1365,
+        758,
+        1409
+      ],
+      "text": "死者長已矣",
+      "confidence": 0.9664
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "暮投石壕邨",
+      "有吏夜捉人",
+      "老翁踰墙走",
+      "老婦出門迎",
+      "吏呼一何怒",
+      "婦啼一何苦",
+      "聽婦前致辭",
+      "三男鄴城戌",
+      "一男附畫至",
+      "二男新戰死",
+      "存者且偷生",
+      "死者長已矣"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "暮投石壕邨",
+        "phien_am": "Mộ đầu Thạch-hào-thôn,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "有吏夜捉人",
+        "phien_am": "Hữu lại dạ tróc nhân,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "老翁踰墙走",
+        "phien_am": "Lào ông du tường tần",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "老婦出門迎",
+        "phien_am": "Lão phụ xuất môn nghênh.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吏呼一何怒",
+        "phien_am": "Lại hô nhất hà nộ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "婦啼一何苦",
+        "phien_am": "Phụ đề nhất hà khồ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "聽婦前致辭",
+        "phien_am": "Thính phụ tiền chi tíc",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "三男鄴城戌",
+        "phien_am": "Tam nam Nghiệp thành thú",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "一男附畫至",
+        "phien_am": "Nhất nam phụ thư chí:",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "二男新戰死",
+        "phien_am": "Nhị nam tân chiến tử",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "存者且偷生",
+        "phien_am": "Tồn giả thả thâu sinh,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "死者長已矣",
+        "phien_am": "Tử giả trường dĩ hĩ.",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

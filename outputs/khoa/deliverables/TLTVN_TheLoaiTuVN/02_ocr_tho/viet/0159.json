@@ -1,0 +1,507 @@
+{
+  "page_id": "0159",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 159,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0159_viet_000",
+      "bbox": [
+        [
+          168,
+          4
+        ],
+        [
+          707,
+          6
+        ],
+        [
+          707,
+          48
+        ],
+        [
+          168,
+          46
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          119
+        ],
+        [
+          707,
+          121
+        ],
+        [
+          707,
+          163
+        ],
+        [
+          168,
+          161
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        4,
+        707,
+        48
+      ],
+      "text": "Cây cối đọng sương hồng nhuốm lục.",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0159_viet_001",
+      "bbox": [
+        [
+          165,
+          103
+        ],
+        [
+          692,
+          105
+        ],
+        [
+          692,
+          146
+        ],
+        [
+          165,
+          144
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          218
+        ],
+        [
+          692,
+          220
+        ],
+        [
+          692,
+          261
+        ],
+        [
+          165,
+          259
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        103,
+        692,
+        146
+      ],
+      "text": "Sáng loá cung Hằng khôn chợp mắt,",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0159_viet_002",
+      "bbox": [
+        [
+          168,
+          152
+        ],
+        [
+          696,
+          157
+        ],
+        [
+          696,
+          198
+        ],
+        [
+          167,
+          192
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          267
+        ],
+        [
+          696,
+          272
+        ],
+        [
+          696,
+          313
+        ],
+        [
+          167,
+          307
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        152,
+        696,
+        198
+      ],
+      "text": "Thềm ngọc một mình thu luống giục.",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0159_viet_003",
+      "bbox": [
+        [
+          168,
+          200
+        ],
+        [
+          817,
+          207
+        ],
+        [
+          816,
+          247
+        ],
+        [
+          167,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          315
+        ],
+        [
+          817,
+          322
+        ],
+        [
+          816,
+          362
+        ],
+        [
+          167,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        200,
+        817,
+        247
+      ],
+      "text": "Chẳng bằng đến bên bờ dậu cúc đưa hương.",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0159_viet_004",
+      "bbox": [
+        [
+          169,
+          254
+        ],
+        [
+          659,
+          258
+        ],
+        [
+          659,
+          293
+        ],
+        [
+          168,
+          289
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          369
+        ],
+        [
+          659,
+          373
+        ],
+        [
+          659,
+          408
+        ],
+        [
+          168,
+          404
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        254,
+        659,
+        293
+      ],
+      "text": "Thanh thoả ôm đàn đạo một khúc",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0159_viet_005",
+      "bbox": [
+        [
+          160,
+          1183
+        ],
+        [
+          324,
+          1186
+        ],
+        [
+          323,
+          1224
+        ],
+        [
+          159,
+          1222
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1298
+        ],
+        [
+          324,
+          1301
+        ],
+        [
+          323,
+          1339
+        ],
+        [
+          159,
+          1337
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        1183,
+        324,
+        1224
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0159_viet_006",
+      "bbox": [
+        [
+          160,
+          1228
+        ],
+        [
+          333,
+          1230
+        ],
+        [
+          332,
+          1273
+        ],
+        [
+          159,
+          1271
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1343
+        ],
+        [
+          333,
+          1345
+        ],
+        [
+          332,
+          1388
+        ],
+        [
+          159,
+          1386
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        1228,
+        333,
+        1273
+      ],
+      "text": "ĐÔNG TỪ",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0159_viet_007",
+      "bbox": [
+        [
+          162,
+          1280
+        ],
+        [
+          397,
+          1282
+        ],
+        [
+          396,
+          1328
+        ],
+        [
+          161,
+          1325
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1395
+        ],
+        [
+          397,
+          1397
+        ],
+        [
+          396,
+          1443
+        ],
+        [
+          161,
+          1440
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1280,
+        397,
+        1328
+      ],
+      "text": "(Nhất tiễn mai)",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0159_viet_008",
+      "bbox": [
+        [
+          162,
+          1330
+        ],
+        [
+          680,
+          1337
+        ],
+        [
+          680,
+          1377
+        ],
+        [
+          161,
+          1371
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1445
+        ],
+        [
+          680,
+          1452
+        ],
+        [
+          680,
+          1492
+        ],
+        [
+          161,
+          1486
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1330,
+        680,
+        1377
+      ],
+      "text": "Huyền Mĩnh bá lệnh mãn quan san,",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0159_viet_009",
+      "bbox": [
+        [
+          97,
+          1426
+        ],
+        [
+          166,
+          1426
+        ],
+        [
+          166,
+          1473
+        ],
+        [
+          97,
+          1473
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          1541
+        ],
+        [
+          166,
+          1541
+        ],
+        [
+          166,
+          1588
+        ],
+        [
+          97,
+          1588
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        1426,
+        166,
+        1473
+      ],
+      "text": "152",
+      "confidence": 0.9257
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Cây cối đọng sương hồng nhuốm lục.",
+      "Sáng loá cung Hằng khôn chợp mắt,",
+      "Thềm ngọc một mình thu luống giục.",
+      "Chẳng bằng đến bên bờ dậu cúc đưa hương.",
+      "Thanh thoả ôm đàn đạo một khúc",
+      "ĐÔNG TỪ",
+      "(Nhất tiễn mai)",
+      "Huyền Mĩnh bá lệnh mãn quan san,",
+      "152"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

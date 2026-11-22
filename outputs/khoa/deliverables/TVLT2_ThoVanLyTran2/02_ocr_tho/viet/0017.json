@@ -1,0 +1,1612 @@
+{
+  "page_id": "0017",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 17,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0017_viet_000",
+      "bbox": [
+        [
+          665,
+          326
+        ],
+        [
+          936,
+          326
+        ],
+        [
+          936,
+          378
+        ],
+        [
+          665,
+          378
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          481
+        ],
+        [
+          936,
+          481
+        ],
+        [
+          936,
+          533
+        ],
+        [
+          665,
+          533
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        326,
+        936,
+        378
+      ],
+      "text": "TRẦN CẢNH",
+      "confidence": 0.9335
+    },
+    {
+      "line_id": "0017_viet_001",
+      "bbox": [
+        [
+          694,
+          464
+        ],
+        [
+          892,
+          464
+        ],
+        [
+          892,
+          510
+        ],
+        [
+          694,
+          510
+        ]
+      ],
+      "bbox_original": [
+        [
+          694,
+          619
+        ],
+        [
+          892,
+          619
+        ],
+        [
+          892,
+          665
+        ],
+        [
+          694,
+          665
+        ]
+      ],
+      "box_xyxy": [
+        694,
+        464,
+        892,
+        510
+      ],
+      "text": "THÁI TÒNG",
+      "confidence": 0.8679
+    },
+    {
+      "line_id": "0017_viet_002",
+      "bbox": [
+        [
+          679,
+          557
+        ],
+        [
+          907,
+          555
+        ],
+        [
+          907,
+          603
+        ],
+        [
+          679,
+          605
+        ]
+      ],
+      "bbox_original": [
+        [
+          679,
+          712
+        ],
+        [
+          907,
+          710
+        ],
+        [
+          907,
+          758
+        ],
+        [
+          679,
+          760
+        ]
+      ],
+      "box_xyxy": [
+        679,
+        555,
+        907,
+        605
+      ],
+      "text": "4218-1277)",
+      "confidence": 0.7881
+    },
+    {
+      "line_id": "0017_viet_003",
+      "bbox": [
+        [
+          731,
+          698
+        ],
+        [
+          1409,
+          698
+        ],
+        [
+          1409,
+          752
+        ],
+        [
+          731,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          853
+        ],
+        [
+          1409,
+          853
+        ],
+        [
+          1409,
+          907
+        ],
+        [
+          731,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        698,
+        1409,
+        752
+      ],
+      "text": "Thừa BR XK. sinh ngày 16 tháng sau",
+      "confidence": 0.8573
+    },
+    {
+      "line_id": "0017_viet_004",
+      "bbox": [
+        [
+          178,
+          746
+        ],
+        [
+          1202,
+          748
+        ],
+        [
+          1202,
+          788
+        ],
+        [
+          178,
+          786
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          901
+        ],
+        [
+          1202,
+          903
+        ],
+        [
+          1202,
+          943
+        ],
+        [
+          178,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        746,
+        1202,
+        788
+      ],
+      "text": "năm mậu dần, niên: hiệu kiến Gia thứ tâm triều Ly (10-VJI-1218).",
+      "confidence": 0.8774
+    },
+    {
+      "line_id": "0017_viet_005",
+      "bbox": [
+        [
+          267,
+          794
+        ],
+        [
+          1410,
+          795
+        ],
+        [
+          1410,
+          845
+        ],
+        [
+          267,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          949
+        ],
+        [
+          1410,
+          950
+        ],
+        [
+          1410,
+          1000
+        ],
+        [
+          267,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        794,
+        1410,
+        845
+      ],
+      "text": "Họ Trần vồn quê ở hương Tức-mặc Bp R. - phủ Thiên-Trường",
+      "confidence": 0.8696
+    },
+    {
+      "line_id": "0017_viet_006",
+      "bbox": [
+        [
+          731,
+          838
+        ],
+        [
+          1406,
+          838
+        ],
+        [
+          1406,
+          885
+        ],
+        [
+          731,
+          885
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          993
+        ],
+        [
+          1406,
+          993
+        ],
+        [
+          1406,
+          1040
+        ],
+        [
+          731,
+          1040
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        838,
+        1406,
+        885
+      ],
+      "text": "Đến đời Lý Cao Tông Á",
+      "confidence": 0.8445
+    },
+    {
+      "line_id": "0017_viet_007",
+      "bbox": [
+        [
+          176,
+          877
+        ],
+        [
+          1408,
+          878
+        ],
+        [
+          1408,
+          923
+        ],
+        [
+          176,
+          922
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1032
+        ],
+        [
+          1408,
+          1033
+        ],
+        [
+          1408,
+          1078
+        ],
+        [
+          176,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        877,
+        1408,
+        923
+      ],
+      "text": "nhờ công đánh dẹp Quách Bóc Tỹ 1, dần dân có thể lực trong triều con",
+      "confidence": 0.8938
+    },
+    {
+      "line_id": "0017_viet_008",
+      "bbox": [
+        [
+          178,
+          918
+        ],
+        [
+          1408,
+          918
+        ],
+        [
+          1408,
+          961
+        ],
+        [
+          178,
+          961
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1073
+        ],
+        [
+          1408,
+          1073
+        ],
+        [
+          1408,
+          1116
+        ],
+        [
+          178,
+          1116
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        918,
+        1408,
+        961
+      ],
+      "text": "gái họ Trần là Trần Thị Dung rấk á X trở thành hoàng hậu của Lý Huệ",
+      "confidence": 0.8804
+    },
+    {
+      "line_id": "0017_viet_009",
+      "bbox": [
+        [
+          731,
+          955
+        ],
+        [
+          1409,
+          955
+        ],
+        [
+          1409,
+          998
+        ],
+        [
+          731,
+          998
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1110
+        ],
+        [
+          1409,
+          1110
+        ],
+        [
+          1409,
+          1153
+        ],
+        [
+          731,
+          1153
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        955,
+        1409,
+        998
+      ],
+      "text": "Độ PX F E được làm Điện tiên chỉ trị",
+      "confidence": 0.7443
+    },
+    {
+      "line_id": "0017_viet_010",
+      "bbox": [
+        [
+          731,
+          993
+        ],
+        [
+          1408,
+          993
+        ],
+        [
+          1408,
+          1041
+        ],
+        [
+          731,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1148
+        ],
+        [
+          1408,
+          1148
+        ],
+        [
+          1408,
+          1196
+        ],
+        [
+          731,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        993,
+        1408,
+        1041
+      ],
+      "text": "được ban tước Minh tự, quản lĩnh quân",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0017_viet_011",
+      "bbox": [
+        [
+          177,
+          1039
+        ],
+        [
+          1407,
+          1038
+        ],
+        [
+          1407,
+          1079
+        ],
+        [
+          177,
+          1080
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1194
+        ],
+        [
+          1407,
+          1193
+        ],
+        [
+          1407,
+          1234
+        ],
+        [
+          177,
+          1235
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1038,
+        1407,
+        1080
+      ],
+      "text": "đội hoàng gia.. Vì thế Trần Cảnh mời tâm tuổi đã được nhận chức Chỉ hậu",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0017_viet_012",
+      "bbox": [
+        [
+          731,
+          1076
+        ],
+        [
+          1408,
+          1076
+        ],
+        [
+          1408,
+          1121
+        ],
+        [
+          731,
+          1121
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1231
+        ],
+        [
+          1408,
+          1231
+        ],
+        [
+          1408,
+          1276
+        ],
+        [
+          731,
+          1276
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1076,
+        1408,
+        1121
+      ],
+      "text": "hoàng 7 - 12 7 Do sự vận động, bổ",
+      "confidence": 0.8109
+    },
+    {
+      "line_id": "0017_viet_013",
+      "bbox": [
+        [
+          177,
+          1119
+        ],
+        [
+          1406,
+          1119
+        ],
+        [
+          1406,
+          1160
+        ],
+        [
+          177,
+          1160
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1274
+        ],
+        [
+          1406,
+          1274
+        ],
+        [
+          1406,
+          1315
+        ],
+        [
+          177,
+          1315
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1119,
+        1406,
+        1160
+      ],
+      "text": "trí của Trần, Thủ Độ (chủ Trần Cảnh), Chiều Hoàng đã lấy Trần Cảnh lâm",
+      "confidence": 0.8708
+    },
+    {
+      "line_id": "0017_viet_014",
+      "bbox": [
+        [
+          175,
+          1155
+        ],
+        [
+          1407,
+          1158
+        ],
+        [
+          1407,
+          1201
+        ],
+        [
+          175,
+          1199
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1310
+        ],
+        [
+          1407,
+          1313
+        ],
+        [
+          1407,
+          1356
+        ],
+        [
+          175,
+          1354
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1155,
+        1407,
+        1201
+      ],
+      "text": "chông và ít làu, sau, ngày 11 tháng Chạp năm Ất đậu (10-1-1226), Chiều Hoàng",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0017_viet_015",
+      "bbox": [
+        [
+          176,
+          1199
+        ],
+        [
+          1407,
+          1199
+        ],
+        [
+          1407,
+          1239
+        ],
+        [
+          176,
+          1239
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1354
+        ],
+        [
+          1407,
+          1354
+        ],
+        [
+          1407,
+          1394
+        ],
+        [
+          176,
+          1394
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1199,
+        1407,
+        1239
+      ],
+      "text": "nhường ngôi cho ông. Tuy nhiên cuộc tỉnh duyên giữa bai người không được",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0017_viet_016",
+      "bbox": [
+        [
+          175,
+          1236
+        ],
+        [
+          1406,
+          1237
+        ],
+        [
+          1406,
+          1277
+        ],
+        [
+          175,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1391
+        ],
+        [
+          1406,
+          1392
+        ],
+        [
+          1406,
+          1432
+        ],
+        [
+          175,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1236,
+        1406,
+        1277
+      ],
+      "text": "lâu dài: vì chậm có cou, năm 1237, Trần Thủ Độ ép Trần Cảnh giáng Chiêu",
+      "confidence": 0.8993
+    },
+    {
+      "line_id": "0017_viet_017",
+      "bbox": [
+        [
+          731,
+          1275
+        ],
+        [
+          1407,
+          1275
+        ],
+        [
+          1407,
+          1318
+        ],
+        [
+          731,
+          1318
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1430
+        ],
+        [
+          1407,
+          1430
+        ],
+        [
+          1407,
+          1473
+        ],
+        [
+          731,
+          1473
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1275,
+        1407,
+        1318
+      ],
+      "text": "Thiên Mỹ - Vợ Trần Liễu Pháp, Anh",
+      "confidence": 0.8045
+    },
+    {
+      "line_id": "0017_viet_018",
+      "bbox": [
+        [
+          174,
+          1312
+        ],
+        [
+          1404,
+          1315
+        ],
+        [
+          1404,
+          1356
+        ],
+        [
+          174,
+          1353
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1467
+        ],
+        [
+          1404,
+          1470
+        ],
+        [
+          1404,
+          1511
+        ],
+        [
+          174,
+          1508
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1312,
+        1404,
+        1356
+      ],
+      "text": "ruột Tràn Cảnh, lúc đô đã có thai ba tháng lầm hoàng hậu, Có thể biện pháp",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0017_viet_019",
+      "bbox": [
+        [
+          175,
+          1353
+        ],
+        [
+          1406,
+          1353
+        ],
+        [
+          1406,
+          1393
+        ],
+        [
+          175,
+          1393
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1508
+        ],
+        [
+          1406,
+          1508
+        ],
+        [
+          1406,
+          1548
+        ],
+        [
+          175,
+          1548
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1353,
+        1406,
+        1393
+      ],
+      "text": "khác nghiệt này là cần thiết cho việc giữ gìn ngôi vùa, cũng có nghĩa là bão",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0017_viet_020",
+      "bbox": [
+        [
+          173,
+          1394
+        ],
+        [
+          1405,
+          1394
+        ],
+        [
+          1405,
+          1435
+        ],
+        [
+          173,
+          1435
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1549
+        ],
+        [
+          1405,
+          1549
+        ],
+        [
+          1405,
+          1590
+        ],
+        [
+          173,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1394,
+        1405,
+        1435
+      ],
+      "text": "đảm sự thống nhất quyền lực của dòng họ Trần trong những năm dần nắm",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0017_viet_021",
+      "bbox": [
+        [
+          174,
+          1434
+        ],
+        [
+          1403,
+          1434
+        ],
+        [
+          1403,
+          1474
+        ],
+        [
+          174,
+          1474
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1589
+        ],
+        [
+          1403,
+          1589
+        ],
+        [
+          1403,
+          1629
+        ],
+        [
+          174,
+          1629
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1434,
+        1403,
+        1474
+      ],
+      "text": "chính quyền. Có điều sự kiện đồ cũng là môi bi kịch trong gia đình - họ Trần.",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0017_viet_022",
+      "bbox": [
+        [
+          175,
+          1472
+        ],
+        [
+          1406,
+          1473
+        ],
+        [
+          1406,
+          1511
+        ],
+        [
+          175,
+          1510
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1627
+        ],
+        [
+          1406,
+          1628
+        ],
+        [
+          1406,
+          1666
+        ],
+        [
+          175,
+          1665
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1472,
+        1406,
+        1511
+      ],
+      "text": "Riêng đối với Trần Cảnh, câu chuyện này đã để lại trong tâm tư ông một",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0017_viet_023",
+      "bbox": [
+        [
+          172,
+          1510
+        ],
+        [
+          1409,
+          1512
+        ],
+        [
+          1409,
+          1552
+        ],
+        [
+          172,
+          1550
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1665
+        ],
+        [
+          1409,
+          1667
+        ],
+        [
+          1409,
+          1707
+        ],
+        [
+          172,
+          1705
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1510,
+        1409,
+        1552
+      ],
+      "text": "niềm khắc khoải khiến cho thơ văn ông, đặc biệt là: tác phầm Khóa hư lực,",
+      "confidence": 0.8903
+    },
+    {
+      "line_id": "0017_viet_024",
+      "bbox": [
+        [
+          174,
+          1551
+        ],
+        [
+          1075,
+          1549
+        ],
+        [
+          1075,
+          1590
+        ],
+        [
+          174,
+          1592
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1706
+        ],
+        [
+          1075,
+          1704
+        ],
+        [
+          1075,
+          1745
+        ],
+        [
+          174,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1549,
+        1075,
+        1592
+      ],
+      "text": "mang y vị ngàm ngùi khi triết lý về thân thế con người",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0017_viet_025",
+      "bbox": [
+        [
+          267,
+          1603
+        ],
+        [
+          1406,
+          1605
+        ],
+        [
+          1406,
+          1645
+        ],
+        [
+          267,
+          1643
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1758
+        ],
+        [
+          1406,
+          1760
+        ],
+        [
+          1406,
+          1800
+        ],
+        [
+          267,
+          1798
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1603,
+        1406,
+        1645
+      ],
+      "text": "Là một ông vua dầu tiên của: nhà Trần, Trần Cảnh có công trong việc",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0017_viet_026",
+      "bbox": [
+        [
+          174,
+          1641
+        ],
+        [
+          1408,
+          1644
+        ],
+        [
+          1408,
+          1685
+        ],
+        [
+          174,
+          1682
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1796
+        ],
+        [
+          1408,
+          1799
+        ],
+        [
+          1408,
+          1840
+        ],
+        [
+          174,
+          1837
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1641,
+        1408,
+        1685
+      ],
+      "text": "ôn định và đưa xã hội Việt-nam bước dần vào giai đoạn thịnh vượng sau thời",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0017_viet_027",
+      "bbox": [
+        [
+          176,
+          1685
+        ],
+        [
+          1405,
+          1685
+        ],
+        [
+          1405,
+          1722
+        ],
+        [
+          176,
+          1722
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1840
+        ],
+        [
+          1405,
+          1840
+        ],
+        [
+          1405,
+          1877
+        ],
+        [
+          176,
+          1877
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1685,
+        1405,
+        1722
+      ],
+      "text": "kỳ lộn xón cuối nhà 1,ý. Đắc biệt ông đã đặt vấn đề xảy dựng chế độ thi cử,",
+      "confidence": 0.9013
+    },
+    {
+      "line_id": "0017_viet_028",
+      "bbox": [
+        [
+          174,
+          1725
+        ],
+        [
+          1407,
+          1723
+        ],
+        [
+          1407,
+          1764
+        ],
+        [
+          174,
+          1766
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1880
+        ],
+        [
+          1407,
+          1878
+        ],
+        [
+          1407,
+          1919
+        ],
+        [
+          174,
+          1921
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1723,
+        1407,
+        1766
+      ],
+      "text": "góp phần mở màng việc học ở Việt-nam và cũng là người lãnh đạo thông lợi",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0017_viet_029",
+      "bbox": [
+        [
+          173,
+          1765
+        ],
+        [
+          1408,
+          1765
+        ],
+        [
+          1408,
+          1805
+        ],
+        [
+          173,
+          1805
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1920
+        ],
+        [
+          1408,
+          1920
+        ],
+        [
+          1408,
+          1960
+        ],
+        [
+          173,
+          1960
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1765,
+        1408,
+        1805
+      ],
+      "text": "cuộc đọ sực lần thứ nhất với quân xàm lược Mỏng-cố ý t - năm 1257: Trong",
+      "confidence": 0.8843
+    },
+    {
+      "line_id": "0017_viet_030",
+      "bbox": [
+        [
+          175,
+          1806
+        ],
+        [
+          1407,
+          1806
+        ],
+        [
+          1407,
+          1840
+        ],
+        [
+          175,
+          1840
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1961
+        ],
+        [
+          1407,
+          1961
+        ],
+        [
+          1407,
+          1995
+        ],
+        [
+          175,
+          1995
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1806,
+        1407,
+        1840
+      ],
+      "text": "cuộc chiến đấu này, Tràn Cảnh địch thân tham gia chỉ buy nhiều trận, có mặt",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0017_viet_031",
+      "bbox": [
+        [
+          173,
+          1842
+        ],
+        [
+          1407,
+          1843
+        ],
+        [
+          1407,
+          1880
+        ],
+        [
+          173,
+          1879
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1997
+        ],
+        [
+          1407,
+          1998
+        ],
+        [
+          1407,
+          2035
+        ],
+        [
+          173,
+          2034
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1842,
+        1407,
+        1880
+      ],
+      "text": "ở cả, những nơi nguy hiếm, đem, lại niềm tín tưởng cho quân sĩ, và miềm tự",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0017_viet_032",
+      "bbox": [
+        [
+          176,
+          1879
+        ],
+        [
+          438,
+          1881
+        ],
+        [
+          438,
+          1917
+        ],
+        [
+          176,
+          1914
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          2034
+        ],
+        [
+          438,
+          2036
+        ],
+        [
+          438,
+          2072
+        ],
+        [
+          176,
+          2069
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1879,
+        438,
+        1917
+      ],
+      "text": "hào cho dàn tọc",
+      "confidence": 0.881
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRẦN CẢNH",
+      "THÁI TÒNG",
+      "4218-1277)",
+      "Thừa BR XK. sinh ngày 16 tháng sau",
+      "năm mậu dần, niên: hiệu kiến Gia thứ tâm triều Ly (10-VJI-1218).",
+      "Họ Trần vồn quê ở hương Tức-mặc Bp R. - phủ Thiên-Trường",
+      "Đến đời Lý Cao Tông Á",
+      "nhờ công đánh dẹp Quách Bóc Tỹ 1, dần dân có thể lực trong triều con",
+      "gái họ Trần là Trần Thị Dung rấk á X trở thành hoàng hậu của Lý Huệ",
+      "Độ PX F E được làm Điện tiên chỉ trị",
+      "được ban tước Minh tự, quản lĩnh quân",
+      "đội hoàng gia.. Vì thế Trần Cảnh mời tâm tuổi đã được nhận chức Chỉ hậu",
+      "hoàng 7 - 12 7 Do sự vận động, bổ",
+      "trí của Trần, Thủ Độ (chủ Trần Cảnh), Chiều Hoàng đã lấy Trần Cảnh lâm",
+      "chông và ít làu, sau, ngày 11 tháng Chạp năm Ất đậu (10-1-1226), Chiều Hoàng",
+      "nhường ngôi cho ông. Tuy nhiên cuộc tỉnh duyên giữa bai người không được",
+      "lâu dài: vì chậm có cou, năm 1237, Trần Thủ Độ ép Trần Cảnh giáng Chiêu",
+      "Thiên Mỹ - Vợ Trần Liễu Pháp, Anh",
+      "ruột Tràn Cảnh, lúc đô đã có thai ba tháng lầm hoàng hậu, Có thể biện pháp",
+      "khác nghiệt này là cần thiết cho việc giữ gìn ngôi vùa, cũng có nghĩa là bão",
+      "đảm sự thống nhất quyền lực của dòng họ Trần trong những năm dần nắm",
+      "chính quyền. Có điều sự kiện đồ cũng là môi bi kịch trong gia đình - họ Trần.",
+      "Riêng đối với Trần Cảnh, câu chuyện này đã để lại trong tâm tư ông một",
+      "niềm khắc khoải khiến cho thơ văn ông, đặc biệt là: tác phầm Khóa hư lực,",
+      "mang y vị ngàm ngùi khi triết lý về thân thế con người",
+      "Là một ông vua dầu tiên của: nhà Trần, Trần Cảnh có công trong việc",
+      "ôn định và đưa xã hội Việt-nam bước dần vào giai đoạn thịnh vượng sau thời",
+      "kỳ lộn xón cuối nhà 1,ý. Đắc biệt ông đã đặt vấn đề xảy dựng chế độ thi cử,",
+      "góp phần mở màng việc học ở Việt-nam và cũng là người lãnh đạo thông lợi",
+      "cuộc đọ sực lần thứ nhất với quân xàm lược Mỏng-cố ý t - năm 1257: Trong",
+      "cuộc chiến đấu này, Tràn Cảnh địch thân tham gia chỉ buy nhiều trận, có mặt",
+      "ở cả, những nơi nguy hiếm, đem, lại niềm tín tưởng cho quân sĩ, và miềm tự",
+      "hào cho dàn tọc"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

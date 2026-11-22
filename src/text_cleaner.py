@@ -34,6 +34,46 @@ _SUPERSCRIPTS_RE = re.compile(
     r"[¹²³⁴⁵⁶⁷⁸⁹⁰⁺⁻⁼⁽⁾\u2460-\u2473\u24ea\u3251-\u325f\u32b1-\u32bf]+"
 )
 
+# Lowercase and all-case Latin/Vietnamese letter classes (strictly excluding uppercase
+# extended Latin letters such as Đ, Ơ, Ư, Ạ inside \u00E0-\u024F / \u1E00-\u1EFF)
+_LOWER_LATIN_CHARS = "".join(
+    chr(cp)
+    for cp in (*range(0x0061, 0x007B), *range(0x00DF, 0x0250), *range(0x1E00, 0x1F00))
+    if chr(cp).islower()
+)
+_ALL_LATIN_CHARS = "".join(
+    chr(cp)
+    for cp in (
+        *range(0x0041, 0x005B),
+        *range(0x0061, 0x007B),
+        *range(0x00C0, 0x0250),
+        *range(0x1E00, 0x1F00),
+    )
+    if chr(cp).isalpha()
+)
+
+# OCR-corrupted parenthesized footnote markers: (?), (??), ('), (""), (%), (1?), (1%), (1*), (s), (t), (l)
+_OCR_PAREN_NOISE_RE = re.compile(
+    r"\(\s*(?:\?{1,3}|'{1,2}|\"{1,2}|’{1,2}|“{1,2}|”{1,2}|%+|\d{1,2}\s*[*?%]+|[stl])\s*\)"
+)
+
+# Attached trailing superscript digits after lowercase Vietnamese letters (e.g., đế5 -> đế, hương2. -> hương.)
+# Protects uppercase-terminated acronyms/sigla such as TVTL2, KHL1, VNGVHS1, NĐ60.
+_TRAILING_SUPERSCRIPT_DIGIT_RE = re.compile(
+    rf"([{_LOWER_LATIN_CHARS}])\d{{1,2}}(?=[,.;:!?'\"”’)\]\s]|$)"
+)
+
+# Standalone OCR variant markers like `1?` or `4%` (preserves pure numbers like `45 tuổi`)
+_OCR_NUM_MARKER_RE = re.compile(r"(?<!\S)\d{1,2}[%?]+(?=\s|[,.;:]|$)")
+
+# Mid-sentence OCR `?` replacing footnote superscripts:
+# - `con hiếu?,` -> `con hiếu,`
+# - `Chim thước? màu trắng` -> `Chim thước màu trắng` (keeps genuine questions before Uppercase or EOS)
+_OCR_Q_BEFORE_PUNCT_RE = re.compile(r"\?+(?=[,.;:])")
+_OCR_Q_MID_SENTENCE_RE = re.compile(
+    rf"(?<=[{_ALL_LATIN_CHARS}])\?(?=\s+[{_LOWER_LATIN_CHARS}])"
+)
+
 # Allowed CJK characters and CJK punctuation (including lacunae □ ■)
 _VALID_HAN_CHAR_RE = re.compile(
     r"[\u3007\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
@@ -55,10 +95,12 @@ _REPEATED_CJK_PUNCT_RE = re.compile(r"([，。！？；：、])\1+")
 _LEADING_CJK_PUNCT_RE = re.compile(r"^[，。！？；：、）》〉】」』]+")
 
 # Running headers, footers, and standalone page numbers in Vietnamese OCR/PDF
+_VIET_PAGE_NUM_LINE_RE = re.compile(
+    r"^\s*[-—–~·•*\s]*\d{1,3}[-—–~·•*\s]*\s*$"
+)
 _VIET_HEADER_FOOTER_LINE_RE = re.compile(
     r"^\s*(?:"
     r"(?:Trang|Page)\s*\d+\s*|"
-    r"[-—–~·•*\s]*\d{1,4}[-—–~·•*\s]*|"
     r"(?:\d+\s+)?HÁN[\s\-—–]+VĂN\s+TINH[\s\-—–]+T(?:ÚY|UÝ)(?:\s*[-—–]\s*[^\n]*)?(?:\s+\d+)?|"
     r"(?:\d+\s+)?THƠ\s+VĂN\s+LÝ[\s\-—–]+TRẦN[^\n]*|"
     r"(?:\d+\s+)?THỂ\s+LOẠI\s+TỪ\s+(?:VIỆT\s+NAM|VN)\s+THỜI\s+TRUNG\s+ĐẠI[^\n]*|"
@@ -220,11 +262,14 @@ def clean_viet_text(text: str) -> str:
         return ""
     out = normalize_unicode_nfc(text)
 
-    # Drop standalone header/footer/page-number lines when multi-line input is given
+    # Drop standalone header/footer lines (and standalone page numbers on multi-line input)
     lines = out.split("\n")
+    is_multiline = len(lines) > 1
     cleaned_lines: list[str] = []
     for line in lines:
         if _VIET_HEADER_FOOTER_LINE_RE.match(line):
+            continue
+        if is_multiline and _VIET_PAGE_NUM_LINE_RE.match(line):
             continue
         # Deduplicate consecutive identical OCR lines (Step 5)
         if cleaned_lines and line.strip() and line.strip() == cleaned_lines[-1].strip():
@@ -235,11 +280,16 @@ def clean_viet_text(text: str) -> str:
     # Merge hyphenated line wraps across page/line breaks
     out = _LINE_WRAP_HYPHEN_RE.sub(r"\1\2", out)
 
-    # Remove section labels and footnote markers
+    # Remove section labels, footnote markers, and OCR superscript/marker noise
     out = _VIET_SECTION_LABEL_RE.sub("", out)
+    out = _OCR_PAREN_NOISE_RE.sub("", out)
     out = _FOOTNOTE_BRACKET_RE.sub("", out)
     out = _FOOTNOTE_STAR_RE.sub("", out)
     out = _SUPERSCRIPTS_RE.sub("", out)
+    out = _OCR_NUM_MARKER_RE.sub("", out)
+    out = _TRAILING_SUPERSCRIPT_DIGIT_RE.sub(r"\1", out)
+    out = _OCR_Q_BEFORE_PUNCT_RE.sub("", out)
+    out = _OCR_Q_MID_SENTENCE_RE.sub("", out)
 
     # Remove any stray CJK characters that leaked into the Vietnamese side
     out = _CJK_IDEOGRAPH_RE.sub("", out)
@@ -252,9 +302,9 @@ def clean_viet_text(text: str) -> str:
     out = re.sub(r"([(\[])\s+", r"\1", out)
     out = re.sub(r"([,;!?])(?=[A-Za-zÀ-ỹà-ỹ])", r"\1 ", out)
 
-    # Collapse multiple spaces
+    # Collapse multiple spaces and guarantee Unicode NFC
     out = re.sub(r" {2,}", " ", out)
-    return out.strip()
+    return unicodedata.normalize("NFC", out.strip())
 
 
 def split_han_sentences(text: str, mode: str = "clause_or_sent") -> list[str]:
@@ -336,14 +386,18 @@ def split_viet_sentences(text: str, mode: str = "clause_or_sent") -> list[str]:
     norm = normalize_unicode_nfc(text)
 
     if mode == "line":
+        raw_lines = norm.split("\n")
+        is_multiline = len(raw_lines) > 1
         results: list[str] = []
-        for ln in norm.split("\n"):
+        for ln in raw_lines:
+            if is_multiline and _VIET_PAGE_NUM_LINE_RE.match(ln):
+                continue
             cleaned = clean_viet_text(ln)
             if cleaned:
                 results.append(cleaned)
         return results
 
-    # Pre-clean headers, footers, section labels, and line-wrap hyphens
+    # Pre-clean headers, footers, section labels, footnote/OCR noise, and line-wrap hyphens
     cleaned_full = clean_viet_text(norm)
     if not cleaned_full:
         return []

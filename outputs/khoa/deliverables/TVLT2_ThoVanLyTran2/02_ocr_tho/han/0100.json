@@ -1,0 +1,260 @@
+{
+  "page_id": "0100",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 100,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0100_han_000",
+      "bbox": [
+        [
+          179,
+          1486
+        ],
+        [
+          1419,
+          1487
+        ],
+        [
+          1419,
+          1531
+        ],
+        [
+          179,
+          1530
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1641
+        ],
+        [
+          1419,
+          1642
+        ],
+        [
+          1419,
+          1686
+        ],
+        [
+          179,
+          1685
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1486,
+        1419,
+        1531
+      ],
+      "text": "(2) Dqi Vū: vua dàu nhà Ha 夏, dugc Thuán  nhurong ngōi. Thco truyèn thuyět",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0100_han_001",
+      "bbox": [
+        [
+          246,
+          1647
+        ],
+        [
+          1416,
+          1648
+        ],
+        [
+          1416,
+          1687
+        ],
+        [
+          246,
+          1686
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1802
+        ],
+        [
+          1416,
+          1803
+        ],
+        [
+          1416,
+          1842
+        ],
+        [
+          246,
+          1841
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1647,
+        1416,
+        1687
+      ],
+      "text": "mê ruou chè săn băn, vè sau bi vua nưòc Hūu-cùng 有z cróp ngōi. Khi Thái",
+      "confidence": 0.8892
+    },
+    {
+      "line_id": "0100_han_002",
+      "bbox": [
+        [
+          248,
+          1685
+        ],
+        [
+          1416,
+          1686
+        ],
+        [
+          1416,
+          1723
+        ],
+        [
+          248,
+          1722
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1840
+        ],
+        [
+          1416,
+          1841
+        ],
+        [
+          1416,
+          1878
+        ],
+        [
+          248,
+          1877
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1685,
+        1416,
+        1723
+      ],
+      "text": "Khang mát móe anh em ōng có làm bài Ngú tù chi ca 五    oán ōng. Doàn",
+      "confidence": 0.8481
+    },
+    {
+      "line_id": "0100_han_003",
+      "bbox": [
+        [
+          248,
+          1719
+        ],
+        [
+          1415,
+          1723
+        ],
+        [
+          1415,
+          1760
+        ],
+        [
+          247,
+          1756
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1874
+        ],
+        [
+          1415,
+          1878
+        ],
+        [
+          1415,
+          1915
+        ],
+        [
+          247,
+          1911
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1719,
+        1415,
+        1760
+      ],
+      "text": "Ngoc Tai  王  thi cho răng Ngù tù khòng phǎi là năm nguòi mà là nguói em",
+      "confidence": 0.8939
+    },
+    {
+      "line_id": "0100_han_004",
+      "bbox": [
+        [
+          249,
+          1757
+        ],
+        [
+          689,
+          1759
+        ],
+        [
+          689,
+          1797
+        ],
+        [
+          248,
+          1795
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1912
+        ],
+        [
+          689,
+          1914
+        ],
+        [
+          689,
+          1952
+        ],
+        [
+          248,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1757,
+        689,
+        1797
+      ],
+      "text": "thù năm cía Thái Khang. 太康",
+      "confidence": 0.9162
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

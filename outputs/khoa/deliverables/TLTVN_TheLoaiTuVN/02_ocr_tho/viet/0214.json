@@ -1,0 +1,1372 @@
+{
+  "page_id": "0214",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 214,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0214_viet_000",
+      "bbox": [
+        [
+          117,
+          2
+        ],
+        [
+          523,
+          4
+        ],
+        [
+          523,
+          41
+        ],
+        [
+          117,
+          39
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          117
+        ],
+        [
+          523,
+          119
+        ],
+        [
+          523,
+          156
+        ],
+        [
+          117,
+          154
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        2,
+        523,
+        41
+      ],
+      "text": "Hùng bút thảo trường thiên,",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0214_viet_001",
+      "bbox": [
+        [
+          117,
+          49
+        ],
+        [
+          571,
+          49
+        ],
+        [
+          571,
+          88
+        ],
+        [
+          117,
+          88
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          164
+        ],
+        [
+          571,
+          164
+        ],
+        [
+          571,
+          203
+        ],
+        [
+          117,
+          203
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        49,
+        571,
+        88
+      ],
+      "text": "Đệ nhất rừng nho một bậc tiên",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0214_viet_002",
+      "bbox": [
+        [
+          116,
+          97
+        ],
+        [
+          493,
+          94
+        ],
+        [
+          493,
+          135
+        ],
+        [
+          116,
+          138
+        ]
+      ],
+      "bbox_original": [
+        [
+          116,
+          212
+        ],
+        [
+          493,
+          209
+        ],
+        [
+          493,
+          250
+        ],
+        [
+          116,
+          253
+        ]
+      ],
+      "box_xyxy": [
+        116,
+        94,
+        493,
+        138
+      ],
+      "text": "Rạng rõ họ tên vừa đắc ý,",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0214_viet_003",
+      "bbox": [
+        [
+          115,
+          147
+        ],
+        [
+          257,
+          147
+        ],
+        [
+          257,
+          185
+        ],
+        [
+          115,
+          185
+        ]
+      ],
+      "bbox_original": [
+        [
+          115,
+          262
+        ],
+        [
+          257,
+          262
+        ],
+        [
+          257,
+          300
+        ],
+        [
+          115,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        115,
+        147,
+        257,
+        185
+      ],
+      "text": "An nhiên",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0214_viet_004",
+      "bbox": [
+        [
+          117,
+          196
+        ],
+        [
+          579,
+          194
+        ],
+        [
+          579,
+          231
+        ],
+        [
+          117,
+          233
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          311
+        ],
+        [
+          579,
+          309
+        ],
+        [
+          579,
+          346
+        ],
+        [
+          117,
+          348
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        194,
+        579,
+        233
+      ],
+      "text": "Bệ ngọc vút trời mưa móc thêm.",
+      "confidence": 0.9182
+    },
+    {
+      "line_id": "0214_viet_005",
+      "bbox": [
+        [
+          118,
+          290
+        ],
+        [
+          516,
+          290
+        ],
+        [
+          516,
+          330
+        ],
+        [
+          118,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          405
+        ],
+        [
+          516,
+          405
+        ],
+        [
+          516,
+          445
+        ],
+        [
+          118,
+          445
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        290,
+        516,
+        330
+      ],
+      "text": "Mặt trắng xứng thanh niên,",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0214_viet_006",
+      "bbox": [
+        [
+          119,
+          339
+        ],
+        [
+          614,
+          339
+        ],
+        [
+          614,
+          379
+        ],
+        [
+          119,
+          379
+        ]
+      ],
+      "bbox_original": [
+        [
+          119,
+          454
+        ],
+        [
+          614,
+          454
+        ],
+        [
+          614,
+          494
+        ],
+        [
+          119,
+          494
+        ]
+      ],
+      "box_xyxy": [
+        119,
+        339,
+        614,
+        379
+      ],
+      "text": "Cưỡi ngựa về quê gió ngát hương.",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0214_viet_007",
+      "bbox": [
+        [
+          119,
+          387
+        ],
+        [
+          635,
+          387
+        ],
+        [
+          635,
+          427
+        ],
+        [
+          119,
+          427
+        ]
+      ],
+      "bbox_original": [
+        [
+          119,
+          502
+        ],
+        [
+          635,
+          502
+        ],
+        [
+          635,
+          542
+        ],
+        [
+          119,
+          542
+        ]
+      ],
+      "box_xyxy": [
+        119,
+        387,
+        635,
+        427
+      ],
+      "text": "Trú Cẩm đường trống tiêu giục giã,",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0214_viet_008",
+      "bbox": [
+        [
+          118,
+          439
+        ],
+        [
+          271,
+          439
+        ],
+        [
+          271,
+          474
+        ],
+        [
+          118,
+          474
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          554
+        ],
+        [
+          271,
+          554
+        ],
+        [
+          271,
+          589
+        ],
+        [
+          118,
+          589
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        439,
+        271,
+        474
+      ],
+      "text": "Liên miên",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0214_viet_009",
+      "bbox": [
+        [
+          118,
+          486
+        ],
+        [
+          565,
+          486
+        ],
+        [
+          565,
+          523
+        ],
+        [
+          118,
+          523
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          601
+        ],
+        [
+          565,
+          601
+        ],
+        [
+          565,
+          638
+        ],
+        [
+          118,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        486,
+        565,
+        523
+      ],
+      "text": "Gái trẻ bên đèn cùng đảo điên",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0214_viet_010",
+      "bbox": [
+        [
+          241,
+          608
+        ],
+        [
+          810,
+          610
+        ],
+        [
+          810,
+          653
+        ],
+        [
+          240,
+          651
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          723
+        ],
+        [
+          810,
+          725
+        ],
+        [
+          810,
+          768
+        ],
+        [
+          240,
+          766
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        608,
+        810,
+        653
+      ],
+      "text": "NGUYỄN HUY OÁNH (1713 ? 1789)",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0214_viet_011",
+      "bbox": [
+        [
+          103,
+          688
+        ],
+        [
+          1008,
+          687
+        ],
+        [
+          1008,
+          728
+        ],
+        [
+          103,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          803
+        ],
+        [
+          1008,
+          802
+        ],
+        [
+          1008,
+          843
+        ],
+        [
+          103,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        687,
+        1008,
+        729
+      ],
+      "text": "Nguyễn Huy Oánh tự là Kính Hoa, hiệu là Lựu Trai và Thạc",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0214_viet_012",
+      "bbox": [
+        [
+          45,
+          733
+        ],
+        [
+          1009,
+          732
+        ],
+        [
+          1009,
+          769
+        ],
+        [
+          45,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          848
+        ],
+        [
+          1009,
+          847
+        ],
+        [
+          1009,
+          884
+        ],
+        [
+          45,
+          885
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        732,
+        1009,
+        770
+      ],
+      "text": "Đình, người làng trường Lưu, xã Lai Thạch, huyện La Sơn, phủ",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0214_viet_013",
+      "bbox": [
+        [
+          45,
+          774
+        ],
+        [
+          1016,
+          773
+        ],
+        [
+          1016,
+          811
+        ],
+        [
+          45,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          889
+        ],
+        [
+          1016,
+          888
+        ],
+        [
+          1016,
+          926
+        ],
+        [
+          45,
+          927
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        773,
+        1016,
+        812
+      ],
+      "text": "Đức Quang, trấn nghệ An (nay là xã Trường Lộc, huyện Can Lộc,",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0214_viet_014",
+      "bbox": [
+        [
+          44,
+          816
+        ],
+        [
+          1010,
+          813
+        ],
+        [
+          1010,
+          853
+        ],
+        [
+          44,
+          856
+        ]
+      ],
+      "bbox_original": [
+        [
+          44,
+          931
+        ],
+        [
+          1010,
+          928
+        ],
+        [
+          1010,
+          968
+        ],
+        [
+          44,
+          971
+        ]
+      ],
+      "box_xyxy": [
+        44,
+        813,
+        1010,
+        856
+      ],
+      "text": "tỉnh hà tĩnh), năm 1732, ông đỗ đầu kì thi hương, rồi được bổ",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0214_viet_015",
+      "bbox": [
+        [
+          44,
+          859
+        ],
+        [
+          1009,
+          856
+        ],
+        [
+          1009,
+          895
+        ],
+        [
+          44,
+          898
+        ]
+      ],
+      "bbox_original": [
+        [
+          44,
+          974
+        ],
+        [
+          1009,
+          971
+        ],
+        [
+          1009,
+          1010
+        ],
+        [
+          44,
+          1013
+        ]
+      ],
+      "box_xyxy": [
+        44,
+        856,
+        1009,
+        898
+      ],
+      "text": "làm tri phủ trường khánh. năm 1748, ông đỗ đầu kì thi đình,",
+      "confidence": 0.901
+    },
+    {
+      "line_id": "0214_viet_016",
+      "bbox": [
+        [
+          45,
+          900
+        ],
+        [
+          1010,
+          900
+        ],
+        [
+          1010,
+          939
+        ],
+        [
+          45,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          1015
+        ],
+        [
+          1010,
+          1015
+        ],
+        [
+          1010,
+          1054
+        ],
+        [
+          45,
+          1054
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        900,
+        1010,
+        939
+      ],
+      "text": "lĩnh chức Hàn lâm viện Đãi chế, Ông từng trải qua nhiều chức vụ",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0214_viet_017",
+      "bbox": [
+        [
+          44,
+          944
+        ],
+        [
+          1009,
+          940
+        ],
+        [
+          1009,
+          981
+        ],
+        [
+          44,
+          985
+        ]
+      ],
+      "bbox_original": [
+        [
+          44,
+          1059
+        ],
+        [
+          1009,
+          1055
+        ],
+        [
+          1009,
+          1096
+        ],
+        [
+          44,
+          1100
+        ]
+      ],
+      "box_xyxy": [
+        44,
+        940,
+        1009,
+        985
+      ],
+      "text": "khác nhau, như: tham mưu đạo thanh hoa, hiệp đồng trấn",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0214_viet_018",
+      "bbox": [
+        [
+          46,
+          988
+        ],
+        [
+          1009,
+          988
+        ],
+        [
+          1009,
+          1025
+        ],
+        [
+          46,
+          1025
+        ]
+      ],
+      "bbox_original": [
+        [
+          46,
+          1103
+        ],
+        [
+          1009,
+          1103
+        ],
+        [
+          1009,
+          1140
+        ],
+        [
+          46,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        46,
+        988,
+        1009,
+        1025
+      ],
+      "text": "Nghệ An, Tán trị thừa chính sứ tỉ xứ Nam Sơn, Nhập nội thị",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0214_viet_019",
+      "bbox": [
+        [
+          46,
+          1030
+        ],
+        [
+          1011,
+          1028
+        ],
+        [
+          1011,
+          1067
+        ],
+        [
+          46,
+          1069
+        ]
+      ],
+      "bbox_original": [
+        [
+          46,
+          1145
+        ],
+        [
+          1011,
+          1143
+        ],
+        [
+          1011,
+          1182
+        ],
+        [
+          46,
+          1184
+        ]
+      ],
+      "box_xyxy": [
+        46,
+        1028,
+        1011,
+        1069
+      ],
+      "text": "giảng kiêm Tư nghiệp Quốc Tử Giám, Thiêm đô ngự sử Ngự sử",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0214_viet_020",
+      "bbox": [
+        [
+          47,
+          1072
+        ],
+        [
+          1010,
+          1073
+        ],
+        [
+          1010,
+          1110
+        ],
+        [
+          47,
+          1109
+        ]
+      ],
+      "bbox_original": [
+        [
+          47,
+          1187
+        ],
+        [
+          1010,
+          1188
+        ],
+        [
+          1010,
+          1225
+        ],
+        [
+          47,
+          1224
+        ]
+      ],
+      "box_xyxy": [
+        47,
+        1072,
+        1010,
+        1110
+      ],
+      "text": "đài, hữu thị lang bộ công, thượng thư bộ hộ, Tham tụng, từng",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0214_viet_021",
+      "bbox": [
+        [
+          45,
+          1116
+        ],
+        [
+          519,
+          1112
+        ],
+        [
+          519,
+          1153
+        ],
+        [
+          45,
+          1157
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          1231
+        ],
+        [
+          519,
+          1227
+        ],
+        [
+          519,
+          1268
+        ],
+        [
+          45,
+          1272
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        1112,
+        519,
+        1157
+      ],
+      "text": "làm chánh sứ sang trung quốc",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0214_viet_022",
+      "bbox": [
+        [
+          106,
+          1159
+        ],
+        [
+          1009,
+          1160
+        ],
+        [
+          1009,
+          1203
+        ],
+        [
+          106,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          1274
+        ],
+        [
+          1009,
+          1275
+        ],
+        [
+          1009,
+          1318
+        ],
+        [
+          106,
+          1317
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        1159,
+        1009,
+        1203
+      ],
+      "text": "Ông trước tác phong phú, có giá trị trên nhiều phương diện",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0214_viet_023",
+      "bbox": [
+        [
+          45,
+          1205
+        ],
+        [
+          1011,
+          1202
+        ],
+        [
+          1011,
+          1242
+        ],
+        [
+          45,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          1320
+        ],
+        [
+          1011,
+          1317
+        ],
+        [
+          1011,
+          1357
+        ],
+        [
+          45,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        1202,
+        1011,
+        1245
+      ],
+      "text": "Tác phẩm hiện còn có: Bắc dư tiện lãm, Quốc sử toàn yếu, Huấn",
+      "confidence": 0.9234
+    },
+    {
+      "line_id": "0214_viet_024",
+      "bbox": [
+        [
+          45,
+          1248
+        ],
+        [
+          1010,
+          1247
+        ],
+        [
+          1010,
+          1284
+        ],
+        [
+          45,
+          1285
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          1363
+        ],
+        [
+          1010,
+          1362
+        ],
+        [
+          1010,
+          1399
+        ],
+        [
+          45,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        1247,
+        1010,
+        1285
+      ],
+      "text": "nữ tử ca, Phụng sứ yên kinh tổng ca, Thạc Đình di thảo, Dược",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0214_viet_025",
+      "bbox": [
+        [
+          45,
+          1289
+        ],
+        [
+          1011,
+          1287
+        ],
+        [
+          1011,
+          1326
+        ],
+        [
+          45,
+          1328
+        ]
+      ],
+      "bbox_original": [
+        [
+          45,
+          1404
+        ],
+        [
+          1011,
+          1402
+        ],
+        [
+          1011,
+          1441
+        ],
+        [
+          45,
+          1443
+        ]
+      ],
+      "box_xyxy": [
+        45,
+        1287,
+        1011,
+        1328
+      ],
+      "text": "tính ca quát. Các sáng tác từ của Nguyễn Huy Oánh gồm 9 bài,",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0214_viet_026",
+      "bbox": [
+        [
+          47,
+          1331
+        ],
+        [
+          977,
+          1331
+        ],
+        [
+          977,
+          1368
+        ],
+        [
+          47,
+          1368
+        ]
+      ],
+      "bbox_original": [
+        [
+          47,
+          1446
+        ],
+        [
+          977,
+          1446
+        ],
+        [
+          977,
+          1483
+        ],
+        [
+          47,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        47,
+        1331,
+        977,
+        1368
+      ],
+      "text": "nằm trong mục ? Thi dư? thuộc sách Thạc Đình di cảo (A.3135).",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0214_viet_027",
+      "bbox": [
+        [
+          945,
+          1423
+        ],
+        [
+          1015,
+          1423
+        ],
+        [
+          1015,
+          1465
+        ],
+        [
+          945,
+          1465
+        ]
+      ],
+      "bbox_original": [
+        [
+          945,
+          1538
+        ],
+        [
+          1015,
+          1538
+        ],
+        [
+          1015,
+          1580
+        ],
+        [
+          945,
+          1580
+        ]
+      ],
+      "box_xyxy": [
+        945,
+        1423,
+        1015,
+        1465
+      ],
+      "text": "207",
+      "confidence": 0.929
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Hùng bút thảo trường thiên,",
+      "Đệ nhất rừng nho một bậc tiên",
+      "Rạng rõ họ tên vừa đắc ý,",
+      "An nhiên",
+      "Bệ ngọc vút trời mưa móc thêm.",
+      "Mặt trắng xứng thanh niên,",
+      "Cưỡi ngựa về quê gió ngát hương.",
+      "Trú Cẩm đường trống tiêu giục giã,",
+      "Liên miên",
+      "Gái trẻ bên đèn cùng đảo điên",
+      "NGUYỄN HUY OÁNH (1713 ? 1789)",
+      "Nguyễn Huy Oánh tự là Kính Hoa, hiệu là Lựu Trai và Thạc",
+      "Đình, người làng trường Lưu, xã Lai Thạch, huyện La Sơn, phủ",
+      "Đức Quang, trấn nghệ An (nay là xã Trường Lộc, huyện Can Lộc,",
+      "tỉnh hà tĩnh), năm 1732, ông đỗ đầu kì thi hương, rồi được bổ",
+      "làm tri phủ trường khánh. năm 1748, ông đỗ đầu kì thi đình,",
+      "lĩnh chức Hàn lâm viện Đãi chế, Ông từng trải qua nhiều chức vụ",
+      "khác nhau, như: tham mưu đạo thanh hoa, hiệp đồng trấn",
+      "Nghệ An, Tán trị thừa chính sứ tỉ xứ Nam Sơn, Nhập nội thị",
+      "giảng kiêm Tư nghiệp Quốc Tử Giám, Thiêm đô ngự sử Ngự sử",
+      "đài, hữu thị lang bộ công, thượng thư bộ hộ, Tham tụng, từng",
+      "làm chánh sứ sang trung quốc",
+      "Ông trước tác phong phú, có giá trị trên nhiều phương diện",
+      "Tác phẩm hiện còn có: Bắc dư tiện lãm, Quốc sử toàn yếu, Huấn",
+      "nữ tử ca, Phụng sứ yên kinh tổng ca, Thạc Đình di thảo, Dược",
+      "tính ca quát. Các sáng tác từ của Nguyễn Huy Oánh gồm 9 bài,",
+      "nằm trong mục ? Thi dư? thuộc sách Thạc Đình di cảo (A.3135).",
+      "207"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

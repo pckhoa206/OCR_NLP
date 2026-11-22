@@ -1,0 +1,1996 @@
+{
+  "page_id": "0206",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 206,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0206_viet_000",
+      "bbox": [
+        [
+          172,
+          1
+        ],
+        [
+          220,
+          1
+        ],
+        [
+          220,
+          16
+        ],
+        [
+          172,
+          16
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          156
+        ],
+        [
+          220,
+          156
+        ],
+        [
+          220,
+          171
+        ],
+        [
+          172,
+          171
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1,
+        220,
+        16
+      ],
+      "text": "2118",
+      "confidence": 0.6966
+    },
+    {
+      "line_id": "0206_viet_001",
+      "bbox": [
+        [
+          612,
+          0
+        ],
+        [
+          981,
+          1
+        ],
+        [
+          981,
+          21
+        ],
+        [
+          612,
+          19
+        ]
+      ],
+      "bbox_original": [
+        [
+          612,
+          155
+        ],
+        [
+          981,
+          156
+        ],
+        [
+          981,
+          176
+        ],
+        [
+          612,
+          174
+        ]
+      ],
+      "box_xyxy": [
+        612,
+        0,
+        981,
+        21
+      ],
+      "text": "- HỮ, VĂN LÝ THAN (III)",
+      "confidence": 0.6765
+    },
+    {
+      "line_id": "0206_viet_002",
+      "bbox": [
+        [
+          268,
+          100
+        ],
+        [
+          1410,
+          99
+        ],
+        [
+          1410,
+          140
+        ],
+        [
+          268,
+          141
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          255
+        ],
+        [
+          1410,
+          254
+        ],
+        [
+          1410,
+          295
+        ],
+        [
+          268,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        99,
+        1410,
+        141
+      ],
+      "text": "Thàu đạo nghiệp giả, kiến tha tài bảo: thiết khởi tư tâm. Kích tỏa khai",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0206_viet_003",
+      "bbox": [
+        [
+          174,
+          145
+        ],
+        [
+          1410,
+          144
+        ],
+        [
+          1410,
+          184
+        ],
+        [
+          174,
+          185
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          300
+        ],
+        [
+          1410,
+          299
+        ],
+        [
+          1410,
+          339
+        ],
+        [
+          174,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        144,
+        1410,
+        185
+      ],
+      "text": "phong; thảm nang khứ nip. Kiến Phải thường tru: tham kế tư sinh; đoạt tác",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0206_viet_004",
+      "bbox": [
+        [
+          173,
+          187
+        ],
+        [
+          1410,
+          188
+        ],
+        [
+          1410,
+          228
+        ],
+        [
+          173,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          342
+        ],
+        [
+          1410,
+          343
+        ],
+        [
+          1410,
+          383
+        ],
+        [
+          173,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        187,
+        1410,
+        228
+      ],
+      "text": "gia tư, bất kinh thần hộ: Phi đản, kim ngọc, nhì chi trọng khiên, cập chí thảo",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0206_viet_005",
+      "bbox": [
+        [
+          174,
+          230
+        ],
+        [
+          633,
+          233
+        ],
+        [
+          633,
+          270
+        ],
+        [
+          174,
+          267
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          385
+        ],
+        [
+          633,
+          388
+        ],
+        [
+          633,
+          425
+        ],
+        [
+          174,
+          422
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        230,
+        633,
+        270
+      ],
+      "text": "châm, diệc thành đạo nghiệp",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0206_viet_006",
+      "bbox": [
+        [
+          269,
+          281
+        ],
+        [
+          1411,
+          283
+        ],
+        [
+          1411,
+          323
+        ],
+        [
+          269,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          436
+        ],
+        [
+          1411,
+          438
+        ],
+        [
+          1411,
+          478
+        ],
+        [
+          269,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        281,
+        1411,
+        323
+      ],
+      "text": "Tà dấm nghiệp giả, tâm mè thanh sắc, nhân trước duyên hoa. Bặt cố",
+      "confidence": 0.8929
+    },
+    {
+      "line_id": "0206_viet_007",
+      "bbox": [
+        [
+          174,
+          325
+        ],
+        [
+          1411,
+          328
+        ],
+        [
+          1411,
+          365
+        ],
+        [
+          174,
+          362
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          480
+        ],
+        [
+          1411,
+          483
+        ],
+        [
+          1411,
+          520
+        ],
+        [
+          174,
+          517
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        325,
+        1411,
+        365
+      ],
+      "text": "Liêm trình, khúc sinh tư dục, Hoặc ir tịnh địa, Phất viện tăng đường, cận sự",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0206_viet_008",
+      "bbox": [
+        [
+          175,
+          369
+        ],
+        [
+          1408,
+          370
+        ],
+        [
+          1408,
+          408
+        ],
+        [
+          175,
+          407
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          524
+        ],
+        [
+          1408,
+          525
+        ],
+        [
+          1408,
+          563
+        ],
+        [
+          175,
+          562
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        369,
+        1408,
+        408
+      ],
+      "text": "nữ nam, cộng tương điều \" tiểu, Lộng hoa trịch quả, đạp túc phụ kiên, Toàn",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0206_viet_009",
+      "bbox": [
+        [
+          177,
+          414
+        ],
+        [
+          818,
+          414
+        ],
+        [
+          818,
+          451
+        ],
+        [
+          177,
+          451
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          569
+        ],
+        [
+          818,
+          569
+        ],
+        [
+          818,
+          606
+        ],
+        [
+          177,
+          606
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        414,
+        818,
+        451
+      ],
+      "text": "huyệt du tường giai thành dàm nghiệp.",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0206_viet_010",
+      "bbox": [
+        [
+          267,
+          462
+        ],
+        [
+          1411,
+          464
+        ],
+        [
+          1411,
+          504
+        ],
+        [
+          267,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          617
+        ],
+        [
+          1411,
+          619
+        ],
+        [
+          1411,
+          659
+        ],
+        [
+          267,
+          657
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        462,
+        1411,
+        504
+      ],
+      "text": "Như tr. đằng tội, vô lượng vô biên, Cập chi mệnh chung, nhập vụ ôn",
+      "confidence": 0.8861
+    },
+    {
+      "line_id": "0206_viet_011",
+      "bbox": [
+        [
+          178,
+          507
+        ],
+        [
+          1410,
+          508
+        ],
+        [
+          1410,
+          545
+        ],
+        [
+          178,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          662
+        ],
+        [
+          1410,
+          663
+        ],
+        [
+          1410,
+          700
+        ],
+        [
+          178,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        507,
+        1410,
+        545
+      ],
+      "text": "địa ngục. Nam bẽo dòng tru, nữ ngọa thiết sang. Vạn kiếp phương sinh;, hoàn",
+      "confidence": 0.8722
+    },
+    {
+      "line_id": "0206_viet_012",
+      "bbox": [
+        [
+          176,
+          547
+        ],
+        [
+          1410,
+          549
+        ],
+        [
+          1410,
+          589
+        ],
+        [
+          176,
+          587
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          702
+        ],
+        [
+          1410,
+          704
+        ],
+        [
+          1410,
+          744
+        ],
+        [
+          176,
+          742
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        547,
+        1410,
+        589
+      ],
+      "text": "tao tội bảo, Nhược bất sảm hối, hà di tiêu trừ. Kim đối phật tiên, tất giai",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0206_viet_013",
+      "bbox": [
+        [
+          178,
+          594
+        ],
+        [
+          313,
+          594
+        ],
+        [
+          313,
+          626
+        ],
+        [
+          178,
+          626
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          749
+        ],
+        [
+          313,
+          749
+        ],
+        [
+          313,
+          781
+        ],
+        [
+          178,
+          781
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        594,
+        313,
+        626
+      ],
+      "text": "sám hồi.",
+      "confidence": 0.8142
+    },
+    {
+      "line_id": "0206_viet_014",
+      "bbox": [
+        [
+          181,
+          685
+        ],
+        [
+          372,
+          685
+        ],
+        [
+          372,
+          723
+        ],
+        [
+          181,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          840
+        ],
+        [
+          372,
+          840
+        ],
+        [
+          372,
+          878
+        ],
+        [
+          181,
+          878
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        685,
+        372,
+        723
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.9055
+    },
+    {
+      "line_id": "0206_viet_015",
+      "bbox": [
+        [
+          551,
+          724
+        ],
+        [
+          1035,
+          724
+        ],
+        [
+          1035,
+          764
+        ],
+        [
+          551,
+          764
+        ]
+      ],
+      "bbox_original": [
+        [
+          551,
+          879
+        ],
+        [
+          1035,
+          879
+        ],
+        [
+          1035,
+          919
+        ],
+        [
+          551,
+          919
+        ]
+      ],
+      "box_xyxy": [
+        551,
+        724,
+        1035,
+        764
+      ],
+      "text": "SÁM HỐI TỘI CĂN DO THÂN",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0206_viet_016",
+      "bbox": [
+        [
+          264,
+          798
+        ],
+        [
+          1412,
+          799
+        ],
+        [
+          1412,
+          839
+        ],
+        [
+          264,
+          838
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          953
+        ],
+        [
+          1412,
+          954
+        ],
+        [
+          1412,
+          994
+        ],
+        [
+          264,
+          993
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        798,
+        1412,
+        839
+      ],
+      "text": "Dốc lòng sám hối, họn chủng tôi từ bao kiếp tới nay, quên mất: bản",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0206_viet_017",
+      "bbox": [
+        [
+          179,
+          840
+        ],
+        [
+          1414,
+          843
+        ],
+        [
+          1414,
+          884
+        ],
+        [
+          179,
+          881
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          995
+        ],
+        [
+          1414,
+          998
+        ],
+        [
+          1414,
+          1039
+        ],
+        [
+          179,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        840,
+        1414,
+        884
+      ],
+      "text": "tâm, không biết chính đạo, Đọa bá đường (?) khô; hởi sáu căn (?) sai, Không",
+      "confidence": 0.8756
+    },
+    {
+      "line_id": "0206_viet_018",
+      "bbox": [
+        [
+          183,
+          888
+        ],
+        [
+          685,
+          888
+        ],
+        [
+          685,
+          923
+        ],
+        [
+          183,
+          923
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1043
+        ],
+        [
+          685,
+          1043
+        ],
+        [
+          685,
+          1078
+        ],
+        [
+          183,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        888,
+        685,
+        923
+      ],
+      "text": "sám hồi trước; khó ăn năn sau",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0206_viet_019",
+      "bbox": [
+        [
+          273,
+          937
+        ],
+        [
+          1413,
+          939
+        ],
+        [
+          1413,
+          979
+        ],
+        [
+          273,
+          977
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1092
+        ],
+        [
+          1413,
+          1094
+        ],
+        [
+          1413,
+          1134
+        ],
+        [
+          273,
+          1132
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        937,
+        1413,
+        979
+      ],
+      "text": "Nghiệp thân căn là: Tỉnh cha huyết mẹ, giả hợp nên bình; năm tạng (3)",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0206_viet_020",
+      "bbox": [
+        [
+          182,
+          983
+        ],
+        [
+          1410,
+          983
+        ],
+        [
+          1410,
+          1020
+        ],
+        [
+          182,
+          1020
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1138
+        ],
+        [
+          1410,
+          1138
+        ],
+        [
+          1410,
+          1175
+        ],
+        [
+          182,
+          1175
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        983,
+        1410,
+        1020
+      ],
+      "text": "trăm thân, cùng nhau kết hợp, Nhận minh là thực; quên mất pháp thàn (?).",
+      "confidence": 0.8929
+    },
+    {
+      "line_id": "0206_viet_021",
+      "bbox": [
+        [
+          182,
+          1024
+        ],
+        [
+          1294,
+          1026
+        ],
+        [
+          1294,
+          1064
+        ],
+        [
+          182,
+          1062
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1179
+        ],
+        [
+          1294,
+          1181
+        ],
+        [
+          1294,
+          1219
+        ],
+        [
+          182,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1024,
+        1294,
+        1064
+      ],
+      "text": "Bởi ham giết, ăn trộm, tà dàm, nên phải đọa thành ba nghiệp chương.",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0206_viet_022",
+      "bbox": [
+        [
+          240,
+          1075
+        ],
+        [
+          1413,
+          1076
+        ],
+        [
+          1413,
+          1116
+        ],
+        [
+          239,
+          1115
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1230
+        ],
+        [
+          1413,
+          1231
+        ],
+        [
+          1413,
+          1271
+        ],
+        [
+          239,
+          1270
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1075,
+        1413,
+        1116
+      ],
+      "text": "Nghiệp sát sinh là: luòn làm điều bạo ngược, không nghĩ đến từ tâm.",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0206_viet_023",
+      "bbox": [
+        [
+          181,
+          1118
+        ],
+        [
+          1415,
+          1120
+        ],
+        [
+          1415,
+          1158
+        ],
+        [
+          181,
+          1155
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1273
+        ],
+        [
+          1415,
+          1275
+        ],
+        [
+          1415,
+          1313
+        ],
+        [
+          181,
+          1310
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1118,
+        1415,
+        1158
+      ],
+      "text": "Giết hại cả bốn loài: biết đàu cùng một thề, Lỡ táy hay cổ sát; mình làm hoặc",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0206_viet_024",
+      "bbox": [
+        [
+          180,
+          1163
+        ],
+        [
+          1413,
+          1162
+        ],
+        [
+          1413,
+          1199
+        ],
+        [
+          180,
+          1200
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1318
+        ],
+        [
+          1413,
+          1317
+        ],
+        [
+          1413,
+          1354
+        ],
+        [
+          180,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1162,
+        1413,
+        1200
+      ],
+      "text": "sai người, Hoặc tim thày lấy bùa, đém về yếm đảo, hoặc làm ra tbuốc độc, đề",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0206_viet_025",
+      "bbox": [
+        [
+          180,
+          1202
+        ],
+        [
+          1416,
+          1205
+        ],
+        [
+          1416,
+          1245
+        ],
+        [
+          180,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1357
+        ],
+        [
+          1416,
+          1360
+        ],
+        [
+          1416,
+          1400
+        ],
+        [
+          180,
+          1397
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1202,
+        1416,
+        1245
+      ],
+      "text": "hại sinh linh, Chỉ cốt hại nhân, không hề thương vật, Hoặc thiêu đốt núi rừng;",
+      "confidence": 0.9146
+    },
+    {
+      "line_id": "0206_viet_026",
+      "bbox": [
+        [
+          180,
+          1244
+        ],
+        [
+          1416,
+          1246
+        ],
+        [
+          1416,
+          1287
+        ],
+        [
+          180,
+          1285
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1399
+        ],
+        [
+          1416,
+          1401
+        ],
+        [
+          1416,
+          1442
+        ],
+        [
+          180,
+          1440
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1244,
+        1416,
+        1287
+      ],
+      "text": "hoặc tát cạn khe suối, Buông chài bủa lười; đuổi chỏ thả cbim. Thấy nghe",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0206_viet_027",
+      "bbox": [
+        [
+          182,
+          1291
+        ],
+        [
+          1137,
+          1289
+        ],
+        [
+          1137,
+          1326
+        ],
+        [
+          182,
+          1328
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1446
+        ],
+        [
+          1137,
+          1444
+        ],
+        [
+          1137,
+          1481
+        ],
+        [
+          182,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1289,
+        1137,
+        1328
+      ],
+      "text": "tùy thích, nghĩ ra là làm, cử động vần xoay, đều tội này cả.",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0206_viet_028",
+      "bbox": [
+        [
+          273,
+          1340
+        ],
+        [
+          1417,
+          1341
+        ],
+        [
+          1417,
+          1382
+        ],
+        [
+          273,
+          1381
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1495
+        ],
+        [
+          1417,
+          1496
+        ],
+        [
+          1417,
+          1537
+        ],
+        [
+          273,
+          1536
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        1340,
+        1417,
+        1382
+      ],
+      "text": "Nghiệp ăn trộm là: thấy của người khác, nổi dạ riêng tư. Phá khóa cạy",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0206_viet_029",
+      "bbox": [
+        [
+          183,
+          1385
+        ],
+        [
+          1414,
+          1385
+        ],
+        [
+          1414,
+          1423
+        ],
+        [
+          183,
+          1423
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1540
+        ],
+        [
+          1414,
+          1540
+        ],
+        [
+          1414,
+          1578
+        ],
+        [
+          183,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1385,
+        1414,
+        1423
+      ],
+      "text": "then; sờ bao này tráp. Thấy của nha Phật, sinh lòng gian tham; trộm của nhà",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0206_viet_030",
+      "bbox": [
+        [
+          181,
+          1428
+        ],
+        [
+          1415,
+          1429
+        ],
+        [
+          1415,
+          1467
+        ],
+        [
+          181,
+          1466
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1583
+        ],
+        [
+          1415,
+          1584
+        ],
+        [
+          1415,
+          1622
+        ],
+        [
+          181,
+          1621
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1428,
+        1415,
+        1467
+      ],
+      "text": "chùa, không sợ thần giàn, Chẳng riêng vàng, ngọc, mới thành tội to, ngọn cỏ",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0206_viet_031",
+      "bbox": [
+        [
+          181,
+          1470
+        ],
+        [
+          623,
+          1472
+        ],
+        [
+          623,
+          1509
+        ],
+        [
+          181,
+          1507
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1625
+        ],
+        [
+          623,
+          1627
+        ],
+        [
+          623,
+          1664
+        ],
+        [
+          181,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1470,
+        623,
+        1509
+      ],
+      "text": "cái kim, đều là nghiệp trộin",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0206_viet_032",
+      "bbox": [
+        [
+          274,
+          1523
+        ],
+        [
+          1418,
+          1522
+        ],
+        [
+          1418,
+          1562
+        ],
+        [
+          274,
+          1563
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1678
+        ],
+        [
+          1418,
+          1677
+        ],
+        [
+          1418,
+          1717
+        ],
+        [
+          274,
+          1718
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1522,
+        1418,
+        1563
+      ],
+      "text": "Nghiệp tà dâm là: lòng mẻ thanh sắc; mắt đắm phấn son, Chẳng đoài",
+      "confidence": 0.8716
+    },
+    {
+      "line_id": "0206_viet_033",
+      "bbox": [
+        [
+          181,
+          1564
+        ],
+        [
+          1419,
+          1565
+        ],
+        [
+          1419,
+          1605
+        ],
+        [
+          181,
+          1604
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1719
+        ],
+        [
+          1419,
+          1720
+        ],
+        [
+          1419,
+          1760
+        ],
+        [
+          181,
+          1759
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1564,
+        1419,
+        1605
+      ],
+      "text": "đức liêm trinh: riêng sinh lòng thami dục, Hoặc nơi, đất Phật, điện thờ phòng",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0206_viet_034",
+      "bbox": [
+        [
+          182,
+          1607
+        ],
+        [
+          1420,
+          1607
+        ],
+        [
+          1420,
+          1650
+        ],
+        [
+          182,
+          1650
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1762
+        ],
+        [
+          1420,
+          1762
+        ],
+        [
+          1420,
+          1805
+        ],
+        [
+          182,
+          1805
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1607,
+        1420,
+        1650
+      ],
+      "text": "tăng; trai gái cùng nhau, dụng chạm đùa bởn. Tung hoa ném quả: dẫm cẳng",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0206_viet_035",
+      "bbox": [
+        [
+          183,
+          1650
+        ],
+        [
+          1019,
+          1651
+        ],
+        [
+          1019,
+          1690
+        ],
+        [
+          183,
+          1689
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1805
+        ],
+        [
+          1019,
+          1806
+        ],
+        [
+          1019,
+          1845
+        ],
+        [
+          183,
+          1844
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1650,
+        1019,
+        1690
+      ],
+      "text": "kề vai. Khoét ngạch trèo tường: đều là dâm nghiệp.",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0206_viet_036",
+      "bbox": [
+        [
+          276,
+          1705
+        ],
+        [
+          1417,
+          1705
+        ],
+        [
+          1417,
+          1742
+        ],
+        [
+          276,
+          1742
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1860
+        ],
+        [
+          1417,
+          1860
+        ],
+        [
+          1417,
+          1897
+        ],
+        [
+          276,
+          1897
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1705,
+        1417,
+        1742
+      ],
+      "text": "Những tội như thế, vô lượng vò biên, đến lúc mệnh tàn, phải vào địa",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0206_viet_037",
+      "bbox": [
+        [
+          184,
+          1748
+        ],
+        [
+          1420,
+          1745
+        ],
+        [
+          1420,
+          1783
+        ],
+        [
+          184,
+          1786
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1903
+        ],
+        [
+          1420,
+          1900
+        ],
+        [
+          1420,
+          1938
+        ],
+        [
+          184,
+          1941
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1745,
+        1420,
+        1786
+      ],
+      "text": "ngục Gái nằm giường sắt, trai: ôm cột đông, Muôn kiếp mới, sinh, lại chịu tội",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0206_viet_038",
+      "bbox": [
+        [
+          184,
+          1789
+        ],
+        [
+          1418,
+          1789
+        ],
+        [
+          1418,
+          1826
+        ],
+        [
+          184,
+          1826
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1944
+        ],
+        [
+          1418,
+          1944
+        ],
+        [
+          1418,
+          1981
+        ],
+        [
+          184,
+          1981
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1789,
+        1418,
+        1826
+      ],
+      "text": "báo, nếu không sảm hói, sao được tiêu trừ, Nay trước Phật đài, thảy đều",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0206_viet_039",
+      "bbox": [
+        [
+          187,
+          1830
+        ],
+        [
+          324,
+          1830
+        ],
+        [
+          324,
+          1868
+        ],
+        [
+          187,
+          1868
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1985
+        ],
+        [
+          324,
+          1985
+        ],
+        [
+          324,
+          2023
+        ],
+        [
+          187,
+          2023
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1830,
+        324,
+        1868
+      ],
+      "text": "sám hồi.",
+      "confidence": 0.8158
+    },
+    {
+      "line_id": "0206_viet_040",
+      "bbox": [
+        [
+          1144,
+          1881
+        ],
+        [
+          1326,
+          1881
+        ],
+        [
+          1326,
+          1923
+        ],
+        [
+          1144,
+          1923
+        ]
+      ],
+      "bbox_original": [
+        [
+          1144,
+          2036
+        ],
+        [
+          1326,
+          2036
+        ],
+        [
+          1326,
+          2078
+        ],
+        [
+          1144,
+          2078
+        ]
+      ],
+      "box_xyxy": [
+        1144,
+        1881,
+        1326,
+        1923
+      ],
+      "text": "ĐỎ VĂN HỲ",
+      "confidence": 0.8143
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "2118",
+      "- HỮ, VĂN LÝ THAN (III)",
+      "Thàu đạo nghiệp giả, kiến tha tài bảo: thiết khởi tư tâm. Kích tỏa khai",
+      "phong; thảm nang khứ nip. Kiến Phải thường tru: tham kế tư sinh; đoạt tác",
+      "gia tư, bất kinh thần hộ: Phi đản, kim ngọc, nhì chi trọng khiên, cập chí thảo",
+      "châm, diệc thành đạo nghiệp",
+      "Tà dấm nghiệp giả, tâm mè thanh sắc, nhân trước duyên hoa. Bặt cố",
+      "Liêm trình, khúc sinh tư dục, Hoặc ir tịnh địa, Phất viện tăng đường, cận sự",
+      "nữ nam, cộng tương điều \" tiểu, Lộng hoa trịch quả, đạp túc phụ kiên, Toàn",
+      "huyệt du tường giai thành dàm nghiệp.",
+      "Như tr. đằng tội, vô lượng vô biên, Cập chi mệnh chung, nhập vụ ôn",
+      "địa ngục. Nam bẽo dòng tru, nữ ngọa thiết sang. Vạn kiếp phương sinh;, hoàn",
+      "tao tội bảo, Nhược bất sảm hối, hà di tiêu trừ. Kim đối phật tiên, tất giai",
+      "sám hồi."
+    ],
+    "dich_nghia_lines": [
+      "SÁM HỐI TỘI CĂN DO THÂN",
+      "Dốc lòng sám hối, họn chủng tôi từ bao kiếp tới nay, quên mất: bản",
+      "tâm, không biết chính đạo, Đọa bá đường (?) khô; hởi sáu căn (?) sai, Không",
+      "sám hồi trước; khó ăn năn sau",
+      "Nghiệp thân căn là: Tỉnh cha huyết mẹ, giả hợp nên bình; năm tạng (3)",
+      "trăm thân, cùng nhau kết hợp, Nhận minh là thực; quên mất pháp thàn (?).",
+      "Bởi ham giết, ăn trộm, tà dàm, nên phải đọa thành ba nghiệp chương.",
+      "Nghiệp sát sinh là: luòn làm điều bạo ngược, không nghĩ đến từ tâm.",
+      "Giết hại cả bốn loài: biết đàu cùng một thề, Lỡ táy hay cổ sát; mình làm hoặc",
+      "sai người, Hoặc tim thày lấy bùa, đém về yếm đảo, hoặc làm ra tbuốc độc, đề",
+      "hại sinh linh, Chỉ cốt hại nhân, không hề thương vật, Hoặc thiêu đốt núi rừng;",
+      "hoặc tát cạn khe suối, Buông chài bủa lười; đuổi chỏ thả cbim. Thấy nghe",
+      "tùy thích, nghĩ ra là làm, cử động vần xoay, đều tội này cả.",
+      "Nghiệp ăn trộm là: thấy của người khác, nổi dạ riêng tư. Phá khóa cạy",
+      "then; sờ bao này tráp. Thấy của nha Phật, sinh lòng gian tham; trộm của nhà",
+      "chùa, không sợ thần giàn, Chẳng riêng vàng, ngọc, mới thành tội to, ngọn cỏ",
+      "cái kim, đều là nghiệp trộin",
+      "Nghiệp tà dâm là: lòng mẻ thanh sắc; mắt đắm phấn son, Chẳng đoài",
+      "đức liêm trinh: riêng sinh lòng thami dục, Hoặc nơi, đất Phật, điện thờ phòng",
+      "tăng; trai gái cùng nhau, dụng chạm đùa bởn. Tung hoa ném quả: dẫm cẳng",
+      "kề vai. Khoét ngạch trèo tường: đều là dâm nghiệp.",
+      "Những tội như thế, vô lượng vò biên, đến lúc mệnh tàn, phải vào địa",
+      "ngục Gái nằm giường sắt, trai: ôm cột đông, Muôn kiếp mới, sinh, lại chịu tội",
+      "báo, nếu không sảm hói, sao được tiêu trừ, Nay trước Phật đài, thảy đều",
+      "sám hồi.",
+      "ĐỎ VĂN HỲ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

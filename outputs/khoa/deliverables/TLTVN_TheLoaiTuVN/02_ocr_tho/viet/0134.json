@@ -1,0 +1,940 @@
+{
+  "page_id": "0134",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 134,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0134_viet_000",
+      "bbox": [
+        [
+          462,
+          12
+        ],
+        [
+          662,
+          12
+        ],
+        [
+          662,
+          65
+        ],
+        [
+          462,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          127
+        ],
+        [
+          662,
+          127
+        ],
+        [
+          662,
+          180
+        ],
+        [
+          462,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        12,
+        662,
+        65
+      ],
+      "text": "Phần ba",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0134_viet_001",
+      "bbox": [
+        [
+          126,
+          72
+        ],
+        [
+          998,
+          75
+        ],
+        [
+          998,
+          129
+        ],
+        [
+          126,
+          127
+        ]
+      ],
+      "bbox_original": [
+        [
+          126,
+          187
+        ],
+        [
+          998,
+          190
+        ],
+        [
+          998,
+          244
+        ],
+        [
+          126,
+          242
+        ]
+      ],
+      "box_xyxy": [
+        126,
+        72,
+        998,
+        129
+      ],
+      "text": "TUYỂN TẬP TỪ VIỆT NAM THỜI TRUNG ĐẠI",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0134_viet_002",
+      "bbox": [
+        [
+          326,
+          210
+        ],
+        [
+          795,
+          210
+        ],
+        [
+          795,
+          250
+        ],
+        [
+          326,
+          250
+        ]
+      ],
+      "bbox_original": [
+        [
+          326,
+          325
+        ],
+        [
+          795,
+          325
+        ],
+        [
+          795,
+          365
+        ],
+        [
+          326,
+          365
+        ]
+      ],
+      "box_xyxy": [
+        326,
+        210,
+        795,
+        250
+      ],
+      "text": "NGÔ CHÂN LƯU (933 ? 1011)",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0134_viet_003",
+      "bbox": [
+        [
+          139,
+          290
+        ],
+        [
+          1044,
+          288
+        ],
+        [
+          1044,
+          325
+        ],
+        [
+          139,
+          327
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          405
+        ],
+        [
+          1044,
+          403
+        ],
+        [
+          1044,
+          440
+        ],
+        [
+          139,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        288,
+        1044,
+        327
+      ],
+      "text": "Ngô Chân Lưu người hương cát lợi, huyện thường Lạc",
+      "confidence": 0.8854
+    },
+    {
+      "line_id": "0134_viet_004",
+      "bbox": [
+        [
+          80,
+          333
+        ],
+        [
+          1041,
+          331
+        ],
+        [
+          1041,
+          367
+        ],
+        [
+          80,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          448
+        ],
+        [
+          1041,
+          446
+        ],
+        [
+          1041,
+          482
+        ],
+        [
+          80,
+          484
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        331,
+        1041,
+        369
+      ],
+      "text": "Ngô Chân Lưu lúc nhỏ học đạo Nho, sau ra thành Đại La học đạo",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0134_viet_005",
+      "bbox": [
+        [
+          78,
+          372
+        ],
+        [
+          1043,
+          368
+        ],
+        [
+          1043,
+          411
+        ],
+        [
+          78,
+          415
+        ]
+      ],
+      "bbox_original": [
+        [
+          78,
+          487
+        ],
+        [
+          1043,
+          483
+        ],
+        [
+          1043,
+          526
+        ],
+        [
+          78,
+          530
+        ]
+      ],
+      "box_xyxy": [
+        78,
+        368,
+        1043,
+        415
+      ],
+      "text": "Phật với thiền sư Vân Phong tại chùa Khai Quốc, trở thành thế hệ",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0134_viet_006",
+      "bbox": [
+        [
+          78,
+          413
+        ],
+        [
+          1043,
+          411
+        ],
+        [
+          1043,
+          455
+        ],
+        [
+          78,
+          457
+        ]
+      ],
+      "bbox_original": [
+        [
+          78,
+          528
+        ],
+        [
+          1043,
+          526
+        ],
+        [
+          1043,
+          570
+        ],
+        [
+          78,
+          572
+        ]
+      ],
+      "box_xyxy": [
+        78,
+        411,
+        1043,
+        457
+      ],
+      "text": "thứ tư của dòng thiền Quan Bích. Đến năm 40 tuổi, ông nổi tiếng",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0134_viet_007",
+      "bbox": [
+        [
+          79,
+          459
+        ],
+        [
+          1044,
+          456
+        ],
+        [
+          1044,
+          496
+        ],
+        [
+          79,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          574
+        ],
+        [
+          1044,
+          571
+        ],
+        [
+          1044,
+          611
+        ],
+        [
+          79,
+          614
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        456,
+        1044,
+        499
+      ],
+      "text": "là người tinh thông thiền học, được vua Đinh Tiên Hoàng mời về",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0134_viet_008",
+      "bbox": [
+        [
+          80,
+          503
+        ],
+        [
+          1041,
+          500
+        ],
+        [
+          1041,
+          538
+        ],
+        [
+          80,
+          541
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          618
+        ],
+        [
+          1041,
+          615
+        ],
+        [
+          1041,
+          653
+        ],
+        [
+          80,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        500,
+        1041,
+        541
+      ],
+      "text": "Hoa Lư, phong làm Tăng thống, ban hiệu là Khuông Việt đại sư.",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0134_viet_009",
+      "bbox": [
+        [
+          83,
+          543
+        ],
+        [
+          1042,
+          543
+        ],
+        [
+          1042,
+          583
+        ],
+        [
+          83,
+          583
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          658
+        ],
+        [
+          1042,
+          658
+        ],
+        [
+          1042,
+          698
+        ],
+        [
+          83,
+          698
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        543,
+        1042,
+        583
+      ],
+      "text": "Ông được triều đình đặc biệt trọng đãi, trao cho nhiều trọng trách.",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0134_viet_010",
+      "bbox": [
+        [
+          81,
+          587
+        ],
+        [
+          1043,
+          586
+        ],
+        [
+          1043,
+          623
+        ],
+        [
+          81,
+          625
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          702
+        ],
+        [
+          1043,
+          701
+        ],
+        [
+          1043,
+          738
+        ],
+        [
+          81,
+          740
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        586,
+        1043,
+        625
+      ],
+      "text": "Tác phẩm hiện còn gồm một bài từ, hai câu thơ giải thích cho học",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0134_viet_011",
+      "bbox": [
+        [
+          80,
+          629
+        ],
+        [
+          1044,
+          626
+        ],
+        [
+          1044,
+          663
+        ],
+        [
+          80,
+          666
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          744
+        ],
+        [
+          1044,
+          741
+        ],
+        [
+          1044,
+          778
+        ],
+        [
+          80,
+          781
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        626,
+        1044,
+        666
+      ],
+      "text": "trò là Đa Bảo về Phật học, hai bài kệ đọc trước khi mất. Bài từ",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0134_viet_012",
+      "bbox": [
+        [
+          80,
+          671
+        ],
+        [
+          1045,
+          667
+        ],
+        [
+          1045,
+          708
+        ],
+        [
+          80,
+          712
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          786
+        ],
+        [
+          1045,
+          782
+        ],
+        [
+          1045,
+          823
+        ],
+        [
+          80,
+          827
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        667,
+        1045,
+        712
+      ],
+      "text": "dưới đây do tác giả sáng tác nhân dịp tiễn sứ giả nhà Tống là",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0134_viet_013",
+      "bbox": [
+        [
+          80,
+          713
+        ],
+        [
+          1040,
+          713
+        ],
+        [
+          1040,
+          753
+        ],
+        [
+          80,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          828
+        ],
+        [
+          1040,
+          828
+        ],
+        [
+          1040,
+          868
+        ],
+        [
+          80,
+          868
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        713,
+        1040,
+        753
+      ],
+      "text": "Lý Giác về nước, được ghi trong các bản Thiền uyển tập anh,",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0134_viet_014",
+      "bbox": [
+        [
+          82,
+          759
+        ],
+        [
+          439,
+          759
+        ],
+        [
+          439,
+          792
+        ],
+        [
+          82,
+          792
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          874
+        ],
+        [
+          439,
+          874
+        ],
+        [
+          439,
+          907
+        ],
+        [
+          82,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        759,
+        439,
+        792
+      ],
+      "text": "Đại Việt sử kí toàn thu...",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0134_viet_015",
+      "bbox": [
+        [
+          139,
+          800
+        ],
+        [
+          1044,
+          800
+        ],
+        [
+          1044,
+          843
+        ],
+        [
+          139,
+          843
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          915
+        ],
+        [
+          1044,
+          915
+        ],
+        [
+          1044,
+          958
+        ],
+        [
+          139,
+          958
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        800,
+        1044,
+        843
+      ],
+      "text": "Văn bản giới thiệu dưới đây lấy Thiền uyển tập anh (A.3144)",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0134_viet_016",
+      "bbox": [
+        [
+          80,
+          847
+        ],
+        [
+          1044,
+          844
+        ],
+        [
+          1044,
+          881
+        ],
+        [
+          80,
+          884
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          962
+        ],
+        [
+          1044,
+          959
+        ],
+        [
+          1044,
+          996
+        ],
+        [
+          80,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        844,
+        1044,
+        884
+      ],
+      "text": "làm bản nền, tham khảo Đại Việt sử kí toàn thư để hiệu chỉnh và",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0134_viet_017",
+      "bbox": [
+        [
+          78,
+          888
+        ],
+        [
+          202,
+          888
+        ],
+        [
+          202,
+          930
+        ],
+        [
+          78,
+          930
+        ]
+      ],
+      "bbox_original": [
+        [
+          78,
+          1003
+        ],
+        [
+          202,
+          1003
+        ],
+        [
+          202,
+          1045
+        ],
+        [
+          78,
+          1045
+        ]
+      ],
+      "box_xyxy": [
+        78,
+        888,
+        202,
+        930
+      ],
+      "text": "khảo dị.",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0134_viet_018",
+      "bbox": [
+        [
+          985,
+          1423
+        ],
+        [
+          1048,
+          1423
+        ],
+        [
+          1048,
+          1464
+        ],
+        [
+          985,
+          1464
+        ]
+      ],
+      "bbox_original": [
+        [
+          985,
+          1538
+        ],
+        [
+          1048,
+          1538
+        ],
+        [
+          1048,
+          1579
+        ],
+        [
+          985,
+          1579
+        ]
+      ],
+      "box_xyxy": [
+        985,
+        1423,
+        1048,
+        1464
+      ],
+      "text": "127",
+      "confidence": 0.9269
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phần ba",
+      "TUYỂN TẬP TỪ VIỆT NAM THỜI TRUNG ĐẠI",
+      "NGÔ CHÂN LƯU (933 ? 1011)",
+      "Ngô Chân Lưu người hương cát lợi, huyện thường Lạc",
+      "Ngô Chân Lưu lúc nhỏ học đạo Nho, sau ra thành Đại La học đạo",
+      "Phật với thiền sư Vân Phong tại chùa Khai Quốc, trở thành thế hệ",
+      "thứ tư của dòng thiền Quan Bích. Đến năm 40 tuổi, ông nổi tiếng",
+      "là người tinh thông thiền học, được vua Đinh Tiên Hoàng mời về",
+      "Hoa Lư, phong làm Tăng thống, ban hiệu là Khuông Việt đại sư.",
+      "Ông được triều đình đặc biệt trọng đãi, trao cho nhiều trọng trách.",
+      "Tác phẩm hiện còn gồm một bài từ, hai câu thơ giải thích cho học",
+      "trò là Đa Bảo về Phật học, hai bài kệ đọc trước khi mất. Bài từ",
+      "dưới đây do tác giả sáng tác nhân dịp tiễn sứ giả nhà Tống là",
+      "Lý Giác về nước, được ghi trong các bản Thiền uyển tập anh,",
+      "Đại Việt sử kí toàn thu...",
+      "Văn bản giới thiệu dưới đây lấy Thiền uyển tập anh (A.3144)",
+      "làm bản nền, tham khảo Đại Việt sử kí toàn thư để hiệu chỉnh và",
+      "khảo dị.",
+      "127"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

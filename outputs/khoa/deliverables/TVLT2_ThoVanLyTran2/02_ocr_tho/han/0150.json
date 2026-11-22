@@ -1,0 +1,404 @@
+{
+  "page_id": "0150",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 150,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0150_han_000",
+      "bbox": [
+        [
+          224,
+          295
+        ],
+        [
+          763,
+          295
+        ],
+        [
+          763,
+          343
+        ],
+        [
+          224,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          450
+        ],
+        [
+          763,
+          450
+        ],
+        [
+          763,
+          498
+        ],
+        [
+          224,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        295,
+        763,
+        343
+      ],
+      "text": "tròi, môt tay chi xuöng dát, nói: Thién thrgng dia ha, duy ngā dóc tón 天 上 地",
+      "confidence": 0.8984
+    },
+    {
+      "line_id": "0150_han_001",
+      "bbox": [
+        [
+          229,
+          331
+        ],
+        [
+          763,
+          331
+        ],
+        [
+          763,
+          379
+        ],
+        [
+          229,
+          379
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          486
+        ],
+        [
+          763,
+          486
+        ],
+        [
+          763,
+          534
+        ],
+        [
+          229,
+          534
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        331,
+        763,
+        379
+      ],
+      "text": "下。唯 我 獨 尊 ; nghía là: troi trèn, dát durói, rièng ta là cao cà.",
+      "confidence": 0.8637
+    },
+    {
+      "line_id": "0150_han_002",
+      "bbox": [
+        [
+          161,
+          1083
+        ],
+        [
+          1390,
+          1093
+        ],
+        [
+          1390,
+          1129
+        ],
+        [
+          161,
+          1119
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1238
+        ],
+        [
+          1390,
+          1248
+        ],
+        [
+          1390,
+          1284
+        ],
+        [
+          161,
+          1274
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1083,
+        1390,
+        1129
+      ],
+      "text": "(12) Nróc Ké-tán : mt quőc gia vùng Tày-yye  x或 vào thoi nhà Hán. Có lě thuc vùng",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0150_han_003",
+      "bbox": [
+        [
+          158,
+          1257
+        ],
+        [
+          763,
+          1257
+        ],
+        [
+          763,
+          1300
+        ],
+        [
+          158,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1412
+        ],
+        [
+          763,
+          1412
+        ],
+        [
+          763,
+          1455
+        ],
+        [
+          158,
+          1455
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1257,
+        763,
+        1300
+      ],
+      "text": "(15) Chim bàng..: láy dièn  sách Trang Tù 莊子 ; thièn Tièu dao du 逍 送 ",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0150_han_004",
+      "bbox": [
+        [
+          217,
+          1291
+        ],
+        [
+          763,
+          1291
+        ],
+        [
+          763,
+          1344
+        ],
+        [
+          217,
+          1344
+        ]
+      ],
+      "bbox_original": [
+        [
+          217,
+          1446
+        ],
+        [
+          763,
+          1446
+        ],
+        [
+          763,
+          1499
+        ],
+        [
+          217,
+          1499
+        ]
+      ],
+      "box_xyxy": [
+        217,
+        1291,
+        763,
+        1344
+      ],
+      "text": "Nguyènvǎn：鵬之徙於南溟也。水繫三千里。搏扶摇而上者",
+      "confidence": 0.9023
+    },
+    {
+      "line_id": "0150_han_005",
+      "bbox": [
+        [
+          240,
+          1329
+        ],
+        [
+          763,
+          1329
+        ],
+        [
+          763,
+          1378
+        ],
+        [
+          240,
+          1378
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1484
+        ],
+        [
+          763,
+          1484
+        ],
+        [
+          763,
+          1533
+        ],
+        [
+          240,
+          1533
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1329,
+        763,
+        1378
+      ],
+      "text": "九 萬 里",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0150_han_006",
+      "bbox": [
+        [
+          220,
+          1525
+        ],
+        [
+          763,
+          1525
+        ],
+        [
+          763,
+          1568
+        ],
+        [
+          220,
+          1568
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1680
+        ],
+        [
+          763,
+          1680
+        ],
+        [
+          763,
+          1723
+        ],
+        [
+          220,
+          1723
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1525,
+        763,
+        1568
+      ],
+      "text": "giǎng kinh A Di Đà  弓角 P它 至, nguoi dā tö loi khen và khuyèn chúng sinh nèn",
+      "confidence": 0.8998
+    },
+    {
+      "line_id": "0150_han_007",
+      "bbox": [
+        [
+          218,
+          1738
+        ],
+        [
+          763,
+          1738
+        ],
+        [
+          763,
+          1784
+        ],
+        [
+          218,
+          1784
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1893
+        ],
+        [
+          763,
+          1893
+        ],
+        [
+          763,
+          1939
+        ],
+        [
+          218,
+          1939
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        1738,
+        763,
+        1784
+      ],
+      "text": "Trièu 肖 tèn là Linh Huu  右 (771 —853). hoc trò cǔa Hoai Hǎi. Öng trù tri",
+      "confidence": 0.9256
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "Nguyènvǎn：鵬之徙於南溟也。水繫三千里。搏扶摇而上者",
+      "九 萬 里"
+    ],
+    "interlinear_triplets": []
+  }
+}

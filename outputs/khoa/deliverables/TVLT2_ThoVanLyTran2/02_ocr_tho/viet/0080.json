@@ -1,0 +1,1499 @@
+{
+  "page_id": "0080",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 80,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0080_viet_000",
+      "bbox": [
+        [
+          176,
+          0
+        ],
+        [
+          215,
+          0
+        ],
+        [
+          215,
+          29
+        ],
+        [
+          176,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          155
+        ],
+        [
+          215,
+          155
+        ],
+        [
+          215,
+          184
+        ],
+        [
+          176,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        0,
+        215,
+        29
+      ],
+      "text": "52",
+      "confidence": 0.5393
+    },
+    {
+      "line_id": "0080_viet_001",
+      "bbox": [
+        [
+          608,
+          0
+        ],
+        [
+          983,
+          0
+        ],
+        [
+          983,
+          30
+        ],
+        [
+          608,
+          28
+        ]
+      ],
+      "bbox_original": [
+        [
+          608,
+          155
+        ],
+        [
+          983,
+          155
+        ],
+        [
+          983,
+          185
+        ],
+        [
+          608,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        608,
+        0,
+        983,
+        30
+      ],
+      "text": "THƠ VĂN LY - TRẦN (I)",
+      "confidence": 0.8509
+    },
+    {
+      "line_id": "0080_viet_002",
+      "bbox": [
+        [
+          268,
+          106
+        ],
+        [
+          1407,
+          108
+        ],
+        [
+          1407,
+          150
+        ],
+        [
+          268,
+          148
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          261
+        ],
+        [
+          1407,
+          263
+        ],
+        [
+          1407,
+          305
+        ],
+        [
+          268,
+          303
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        106,
+        1407,
+        150
+      ],
+      "text": "Kinh nói rằng: Giới như mặt đất bằng, mọi điều thiện từ đó sinh ra",
+      "confidence": 0.9227
+    },
+    {
+      "line_id": "0080_viet_003",
+      "bbox": [
+        [
+          176,
+          150
+        ],
+        [
+          1408,
+          152
+        ],
+        [
+          1408,
+          192
+        ],
+        [
+          176,
+          190
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          305
+        ],
+        [
+          1408,
+          307
+        ],
+        [
+          1408,
+          347
+        ],
+        [
+          176,
+          345
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        150,
+        1408,
+        192
+      ],
+      "text": "Giới như thày thuốc giỏi chữa được các bệnh, Giới như hạt minh châu, phá vờ",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0080_viet_004",
+      "bbox": [
+        [
+          167,
+          192
+        ],
+        [
+          1409,
+          194
+        ],
+        [
+          1409,
+          235
+        ],
+        [
+          167,
+          233
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          347
+        ],
+        [
+          1409,
+          349
+        ],
+        [
+          1409,
+          390
+        ],
+        [
+          167,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        192,
+        1409,
+        235
+      ],
+      "text": "- mội tối tăm, Giới như thuyền bè, vượt qua bề khổ (?). Giới như chuổi ngọc",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0080_viet_005",
+      "bbox": [
+        [
+          176,
+          237
+        ],
+        [
+          1408,
+          237
+        ],
+        [
+          1408,
+          277
+        ],
+        [
+          176,
+          277
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          392
+        ],
+        [
+          1408,
+          392
+        ],
+        [
+          1408,
+          432
+        ],
+        [
+          176,
+          432
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        237,
+        1408,
+        277
+      ],
+      "text": "làm pháp thàn (-) trang nghiệm. Kẻ có tội cần sảm bối, Nếu không sảm hồi, tội",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0080_viet_006",
+      "bbox": [
+        [
+          176,
+          278
+        ],
+        [
+          1405,
+          279
+        ],
+        [
+          1405,
+          320
+        ],
+        [
+          176,
+          319
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          433
+        ],
+        [
+          1405,
+          434
+        ],
+        [
+          1405,
+          475
+        ],
+        [
+          176,
+          474
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        278,
+        1405,
+        320
+      ],
+      "text": "càng sàu thêm. Một làu bò mất thàn minh thi muôn kiếp không thể tim lại.",
+      "confidence": 0.9093
+    },
+    {
+      "line_id": "0080_viet_007",
+      "bbox": [
+        [
+          181,
+          323
+        ],
+        [
+          742,
+          321
+        ],
+        [
+          742,
+          361
+        ],
+        [
+          181,
+          363
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          478
+        ],
+        [
+          742,
+          476
+        ],
+        [
+          742,
+          516
+        ],
+        [
+          181,
+          518
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        321,
+        742,
+        363
+      ],
+      "text": "Ngày nay tuy yên, mai sau khỏ giữ",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0080_viet_008",
+      "bbox": [
+        [
+          269,
+          375
+        ],
+        [
+          1405,
+          375
+        ],
+        [
+          1405,
+          419
+        ],
+        [
+          269,
+          419
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          530
+        ],
+        [
+          1405,
+          530
+        ],
+        [
+          1405,
+          574
+        ],
+        [
+          269,
+          574
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        375,
+        1405,
+        419
+      ],
+      "text": "Vậy nên giữ phép này, vượt mau qua đường sinh tử, thừ Phật làm thầy,",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0080_viet_009",
+      "bbox": [
+        [
+          178,
+          415
+        ],
+        [
+          644,
+          418
+        ],
+        [
+          644,
+          459
+        ],
+        [
+          178,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          570
+        ],
+        [
+          644,
+          573
+        ],
+        [
+          644,
+          614
+        ],
+        [
+          178,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        415,
+        644,
+        459
+      ],
+      "text": "trước hết tuân theo giới luật.",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0080_viet_010",
+      "bbox": [
+        [
+          270,
+          471
+        ],
+        [
+          1407,
+          473
+        ],
+        [
+          1407,
+          514
+        ],
+        [
+          270,
+          512
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          626
+        ],
+        [
+          1407,
+          628
+        ],
+        [
+          1407,
+          669
+        ],
+        [
+          270,
+          667
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        471,
+        1407,
+        514
+      ],
+      "text": "Bạc Cổ đức (ý) có nói - quả sông nên dùng mắng. đến bến bết cần thuyên",
+      "confidence": 0.8755
+    },
+    {
+      "line_id": "0080_viet_011",
+      "bbox": [
+        [
+          176,
+          516
+        ],
+        [
+          1409,
+          518
+        ],
+        [
+          1409,
+          558
+        ],
+        [
+          176,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          671
+        ],
+        [
+          1409,
+          673
+        ],
+        [
+          1409,
+          713
+        ],
+        [
+          176,
+          711
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        516,
+        1409,
+        558
+      ],
+      "text": "Như vày người xưa coi giới là thuyền là mảng, Ngày nay những người không",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0080_viet_012",
+      "bbox": [
+        [
+          176,
+          559
+        ],
+        [
+          1406,
+          560
+        ],
+        [
+          1406,
+          600
+        ],
+        [
+          176,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          714
+        ],
+        [
+          1406,
+          715
+        ],
+        [
+          1406,
+          755
+        ],
+        [
+          176,
+          754
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        559,
+        1406,
+        600
+      ],
+      "text": "dùng phương liện dỏ qua sòng mà tời được bờ bên kia (?) thì thực là hiếm vậy.",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0080_viet_013",
+      "bbox": [
+        [
+          928,
+          625
+        ],
+        [
+          1343,
+          628
+        ],
+        [
+          1342,
+          669
+        ],
+        [
+          928,
+          667
+        ]
+      ],
+      "bbox_original": [
+        [
+          928,
+          780
+        ],
+        [
+          1343,
+          783
+        ],
+        [
+          1342,
+          824
+        ],
+        [
+          928,
+          822
+        ]
+      ],
+      "box_xyxy": [
+        928,
+        625,
+        1343,
+        669
+      ],
+      "text": "ĐỖ VĂN HỲ ? BĂNG THANH",
+      "confidence": 0.8596
+    },
+    {
+      "line_id": "0080_viet_014",
+      "bbox": [
+        [
+          183,
+          718
+        ],
+        [
+          366,
+          718
+        ],
+        [
+          366,
+          756
+        ],
+        [
+          183,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          873
+        ],
+        [
+          366,
+          873
+        ],
+        [
+          366,
+          911
+        ],
+        [
+          183,
+          911
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        718,
+        366,
+        756
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.8555
+    },
+    {
+      "line_id": "0080_viet_015",
+      "bbox": [
+        [
+          681,
+          766
+        ],
+        [
+          922,
+          766
+        ],
+        [
+          922,
+          803
+        ],
+        [
+          681,
+          803
+        ]
+      ],
+      "bbox_original": [
+        [
+          681,
+          921
+        ],
+        [
+          922,
+          921
+        ],
+        [
+          922,
+          958
+        ],
+        [
+          681,
+          958
+        ]
+      ],
+      "box_xyxy": [
+        681,
+        766,
+        922,
+        803
+      ],
+      "text": "XUẤT XỨ KHL2",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0080_viet_016",
+      "bbox": [
+        [
+          181,
+          836
+        ],
+        [
+          1407,
+          837
+        ],
+        [
+          1407,
+          874
+        ],
+        [
+          181,
+          873
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          991
+        ],
+        [
+          1407,
+          992
+        ],
+        [
+          1407,
+          1029
+        ],
+        [
+          181,
+          1028
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        836,
+        1407,
+        874
+      ],
+      "text": "(] Thu giới, thuật ngữ đạo Phật, có nghĩa là người tu hành, tiếp nhàn giơi luật, của Phật",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0080_viet_017",
+      "bbox": [
+        [
+          239,
+          871
+        ],
+        [
+          1110,
+          875
+        ],
+        [
+          1110,
+          913
+        ],
+        [
+          238,
+          908
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1026
+        ],
+        [
+          1110,
+          1030
+        ],
+        [
+          1110,
+          1068
+        ],
+        [
+          238,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        871,
+        1110,
+        913
+      ],
+      "text": "giao, Giới: Xcm Cht. 1, bài Giới, dịnh tuệ luân, số 9, cùng tác giả",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0080_viet_018",
+      "bbox": [
+        [
+          180,
+          923
+        ],
+        [
+          1413,
+          927
+        ],
+        [
+          1413,
+          964
+        ],
+        [
+          180,
+          960
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1078
+        ],
+        [
+          1413,
+          1082
+        ],
+        [
+          1413,
+          1119
+        ],
+        [
+          180,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        923,
+        1413,
+        964
+      ],
+      "text": "(2), Tỉnh giới: chng gọi là thanh, tịch giời, là giới, hạnh đây đủ của người, tụ hành, Thận",
+      "confidence": 0.878
+    },
+    {
+      "line_id": "0080_viet_019",
+      "bbox": [
+        [
+          241,
+          959
+        ],
+        [
+          1413,
+          963
+        ],
+        [
+          1413,
+          1000
+        ],
+        [
+          240,
+          996
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1114
+        ],
+        [
+          1413,
+          1118
+        ],
+        [
+          1413,
+          1155
+        ],
+        [
+          240,
+          1151
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        959,
+        1413,
+        1000
+      ],
+      "text": "thề, lời nói, tàm ý nhờ theo giới luật, mà, trở nên, thanh tịnh, do đó thoạt khỏi mọi",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0080_viet_020",
+      "bbox": [
+        [
+          242,
+          998
+        ],
+        [
+          957,
+          1000
+        ],
+        [
+          957,
+          1034
+        ],
+        [
+          241,
+          1032
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1153
+        ],
+        [
+          957,
+          1155
+        ],
+        [
+          957,
+          1189
+        ],
+        [
+          241,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        998,
+        957,
+        1034
+      ],
+      "text": "phiên não, tham dục, làm lạc mà đến, được niết-bàn",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0080_viet_021",
+      "bbox": [
+        [
+          180,
+          1046
+        ],
+        [
+          1090,
+          1050
+        ],
+        [
+          1090,
+          1087
+        ],
+        [
+          180,
+          1083
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1201
+        ],
+        [
+          1090,
+          1205
+        ],
+        [
+          1090,
+          1242
+        ],
+        [
+          180,
+          1238
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1046,
+        1090,
+        1087
+      ],
+      "text": "(3) Bề kho. Xem Cht. 8, bài Phồ thuyết túc sơn, số 5, cùng tác, giả.",
+      "confidence": 0.8578
+    },
+    {
+      "line_id": "0080_viet_022",
+      "bbox": [
+        [
+          178,
+          1096
+        ],
+        [
+          1143,
+          1101
+        ],
+        [
+          1143,
+          1138
+        ],
+        [
+          178,
+          1133
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1251
+        ],
+        [
+          1143,
+          1256
+        ],
+        [
+          1143,
+          1293
+        ],
+        [
+          178,
+          1288
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1096,
+        1143,
+        1138
+      ],
+      "text": "(4) Pháp thân: Xem Cht. 8, bài Phổ thuyết sắc thản, số 6, cũng tác giả.",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0080_viet_023",
+      "bbox": [
+        [
+          181,
+          1147
+        ],
+        [
+          1410,
+          1153
+        ],
+        [
+          1410,
+          1191
+        ],
+        [
+          181,
+          1186
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1302
+        ],
+        [
+          1410,
+          1308
+        ],
+        [
+          1410,
+          1346
+        ],
+        [
+          181,
+          1341
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1147,
+        1410,
+        1191
+      ],
+      "text": "Cổ cổ dức ' trong Phật giáo Cô đức là tên gọi chung các cao tàng nyên thẩm đời trườc;",
+      "confidence": 0.8581
+    },
+    {
+      "line_id": "0080_viet_024",
+      "bbox": [
+        [
+          223,
+          1187
+        ],
+        [
+          1411,
+          1189
+        ],
+        [
+          1411,
+          1226
+        ],
+        [
+          223,
+          1224
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1342
+        ],
+        [
+          1411,
+          1344
+        ],
+        [
+          1411,
+          1381
+        ],
+        [
+          223,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1187,
+        1411,
+        1226
+      ],
+      "text": "Và cũng có nghĩa nhir-e tiên bồi s, Cầu này để gặp trong bài Thám dò hiện quyết của",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0080_viet_025",
+      "bbox": [
+        [
+          237,
+          1218
+        ],
+        [
+          1412,
+          1225
+        ],
+        [
+          1412,
+          1266
+        ],
+        [
+          236,
+          1259
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1373
+        ],
+        [
+          1412,
+          1380
+        ],
+        [
+          1412,
+          1421
+        ],
+        [
+          236,
+          1414
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1218,
+        1412,
+        1266
+      ],
+      "text": "- thiên sir Viên Chiếu lgì 44, Xem bài Thám, đồ hiện quyết, số 43, Thơ văn Lý-Trần tập 1.",
+      "confidence": 0.8467
+    },
+    {
+      "line_id": "0080_viet_026",
+      "bbox": [
+        [
+          179,
+          1270
+        ],
+        [
+          1411,
+          1276
+        ],
+        [
+          1411,
+          1317
+        ],
+        [
+          179,
+          1311
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1425
+        ],
+        [
+          1411,
+          1431
+        ],
+        [
+          1411,
+          1472
+        ],
+        [
+          179,
+          1466
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1270,
+        1411,
+        1317
+      ],
+      "text": "(6) - Bừ bên kìa (bì ngạn) - cũng là giác ngân (bờ giác), thuật ngữ đạo Phật, tiếng Phạn lễ",
+      "confidence": 0.869
+    },
+    {
+      "line_id": "0080_viet_027",
+      "bbox": [
+        [
+          243,
+          1312
+        ],
+        [
+          1410,
+          1315
+        ],
+        [
+          1410,
+          1349
+        ],
+        [
+          242,
+          1346
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1467
+        ],
+        [
+          1410,
+          1470
+        ],
+        [
+          1410,
+          1504
+        ],
+        [
+          242,
+          1501
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1312,
+        1410,
+        1349
+      ],
+      "text": "para, chỉ cái đích người tu hành đạt đến, Phật giáo coi côi đời tà bè khô. Con người",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0080_viet_028",
+      "bbox": [
+        [
+          243,
+          1348
+        ],
+        [
+          1412,
+          1353
+        ],
+        [
+          1412,
+          1387
+        ],
+        [
+          242,
+          1382
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1503
+        ],
+        [
+          1412,
+          1508
+        ],
+        [
+          1412,
+          1542
+        ],
+        [
+          242,
+          1537
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1348,
+        1412,
+        1387
+      ],
+      "text": "\"còn phải ở tròng vòng : sịnh tử liên thời là bờ bến i này: (thứ ingạn): mọt phiến não mè",
+      "confidence": 0.8472
+    },
+    {
+      "line_id": "0080_viet_029",
+      "bbox": [
+        [
+          241,
+          1383
+        ],
+        [
+          1415,
+          1388
+        ],
+        [
+          1415,
+          1426
+        ],
+        [
+          240,
+          1420
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1538
+        ],
+        [
+          1415,
+          1543
+        ],
+        [
+          1415,
+          1581
+        ],
+        [
+          240,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1383,
+        1415,
+        1426
+      ],
+      "text": "hoặc là: dòng isông, Con người phải vượt qua muôn-trùng sóng gió trện sông-mê đỏ: mới.",
+      "confidence": 0.8735
+    },
+    {
+      "line_id": "0080_viet_030",
+      "bbox": [
+        [
+          241,
+          1421
+        ],
+        [
+          989,
+          1426
+        ],
+        [
+          989,
+          1459
+        ],
+        [
+          240,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1576
+        ],
+        [
+          989,
+          1581
+        ],
+        [
+          989,
+          1614
+        ],
+        [
+          240,
+          1610
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1421,
+        989,
+        1459
+      ],
+      "text": "sang điược bờ bên-kia - bờ giác - nơi mãi mãi an lạe.",
+      "confidence": 0.888
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "52",
+      "THƠ VĂN LY - TRẦN (I)",
+      "Kinh nói rằng: Giới như mặt đất bằng, mọi điều thiện từ đó sinh ra",
+      "Giới như thày thuốc giỏi chữa được các bệnh, Giới như hạt minh châu, phá vờ",
+      "- mội tối tăm, Giới như thuyền bè, vượt qua bề khổ (?). Giới như chuổi ngọc",
+      "làm pháp thàn (-) trang nghiệm. Kẻ có tội cần sảm bối, Nếu không sảm hồi, tội",
+      "càng sàu thêm. Một làu bò mất thàn minh thi muôn kiếp không thể tim lại.",
+      "Ngày nay tuy yên, mai sau khỏ giữ",
+      "Vậy nên giữ phép này, vượt mau qua đường sinh tử, thừ Phật làm thầy,",
+      "trước hết tuân theo giới luật.",
+      "Bạc Cổ đức (ý) có nói - quả sông nên dùng mắng. đến bến bết cần thuyên",
+      "Như vày người xưa coi giới là thuyền là mảng, Ngày nay những người không",
+      "dùng phương liện dỏ qua sòng mà tời được bờ bên kia (?) thì thực là hiếm vậy.",
+      "ĐỖ VĂN HỲ ? BĂNG THANH"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,6 +1,6 @@
 # WAYFINDER — Bản đồ Phụ thuộc Nhiệm vụ (Task Dependency Graph)
 
-- **Tổng số Ticket**: `16` | **DONE**: `16` | **IN_PROGRESS**: `0` | **READY (Mở khóa)**: `0` | **BLOCKED**: `0`
+- **Tổng số Ticket**: `21` | **DONE**: `21` | **IN_PROGRESS**: `0` | **READY (Mở khóa)**: `0` | **BLOCKED**: `0`
 - **Tệp dữ liệu gốc**: [`config/tickets.json`](../config/tickets.json)
 
 ## 1. Sơ đồ Phụ thuộc (Mermaid DAG)
@@ -23,6 +23,11 @@ flowchart TD
     T16["T16: Nghiên cứu Phương pháp SOTA Toàn cầu, Đánh giá Thực nghiệm & Báo cáo Tối ưu Hóa Hệ thống [DONE]"]
     T17["T17: Mở rộng 105+ Cụm Nhầm lẫn Chữ Hán, Xử lý Chữ Đa âm & Engine Word-Level Coverage Alignment [DONE]"]
     T18["T18: Xây dựng CAT Workbench: Bộ công cụ Hiệu đính Tương tác (Split/Merge/Edit) & Báo cáo Chẩn đoán Dịch thuật [DONE]"]
+    T19["T19: Mở rộng Manifest 4 cột, Trích xuất PDF tr.7 HVTT & Chuẩn hóa 01_nguon/{han,viet} [DONE]"]
+    T20["T20: Nâng cấp Text Cleaner (giữ niên hiệu/số), Schema QA 4 cột, Workbench & HF Packaging [DONE]"]
+    T21["T21: Nâng cấp Layout HVTT (Tiêu đề/Dịch thơ/Wrap) & State Machine Tách Tác phẩm TVLT2/TLTVN [DONE]"]
+    T22["T22: Dóng hàng 4 cột, Thêm dòng tiêu đề, Tái tạo Demo & Chạy lại 397(+1) trang Khoa [DONE]"]
+    T23["T23: Kiểm định TDD Toàn diện, Cổng review_evaluator.py, Hậu kiểm lỗi & Handoff [DONE]"]
     T01 --> T02
     T01 --> T03
     T02 --> T04
@@ -40,6 +45,12 @@ flowchart TD
     T15 --> T16
     T16 --> T17
     T17 --> T18
+    T18 --> T19
+    T19 --> T20
+    T19 --> T21
+    T20 --> T22
+    T21 --> T22
+    T22 --> T23
 ```
 
 ## 2. Bảng Điều phối Chi tiết
@@ -61,7 +72,12 @@ flowchart TD
 | `T15` | Phase 10: Downstream Packaging & Final Gate | **Đóng gói Hugging Face Dataset, NMT Translation Benchmark & Kiểm định Độc lập Tổng thể** | `plan_code_reviewer` | `T14` | `T16` | **`DONE`** |
 | `T16` | Phase 11: SOTA Synthesis, Long-running Empirical Verification & Optimization | **Nghiên cứu Phương pháp SOTA Toàn cầu, Đánh giá Thực nghiệm & Báo cáo Tối ưu Hóa Hệ thống** | `plan_code_reviewer` | `T15` | `T17` | **`DONE`** |
 | `T17` | Phase 12: Advanced Linguistic Grounding & Word-Level Coverage | **Mở rộng 105+ Cụm Nhầm lẫn Chữ Hán, Xử lý Chữ Đa âm & Engine Word-Level Coverage Alignment** | `alignment_qa_engineer` | `T16` | `T18` | **`DONE`** |
-| `T18` | Phase 13: Interactive CAT Workbench & Lexical Diagnostic Engine | **Xây dựng CAT Workbench: Bộ công cụ Hiệu đính Tương tác (Split/Merge/Edit) & Báo cáo Chẩn đoán Dịch thuật** | `alignment_qa_engineer` | `T17` | — | **`DONE`** |
+| `T18` | Phase 13: Interactive CAT Workbench & Lexical Diagnostic Engine | **Xây dựng CAT Workbench: Bộ công cụ Hiệu đính Tương tác (Split/Merge/Edit) & Báo cáo Chẩn đoán Dịch thuật** | `alignment_qa_engineer` | `T17` | `T19` | **`DONE`** |
+| `T19` | Phase 14: Schema Upgrade & Source Completeness | **Mở rộng Manifest 4 cột, Trích xuất PDF tr.7 HVTT & Chuẩn hóa 01_nguon/{han,viet}** | `data_architect` | `T18` | `T20`, `T21` | **`DONE`** |
+| `T20` | Phase 14: Schema Upgrade & Source Completeness | **Nâng cấp Text Cleaner (giữ niên hiệu/số), Schema QA 4 cột, Workbench & HF Packaging** | `alignment_qa_engineer` | `T19` | `T22` | **`DONE`** |
+| `T21` | Phase 15: Layout & Work Segmentation State Machine | **Nâng cấp Layout HVTT (Tiêu đề/Dịch thơ/Wrap) & State Machine Tách Tác phẩm TVLT2/TLTVN** | `kaggle_ocr_engineer` | `T19` | `T22` | **`DONE`** |
+| `T22` | Phase 16: Unified 4-Column Alignment & Demo Regeneration | **Dóng hàng 4 cột, Thêm dòng tiêu đề, Tái tạo Demo & Chạy lại 397(+1) trang Khoa** | `alignment_qa_engineer` | `T20`, `T21` | `T23` | **`DONE`** |
+| `T23` | Phase 17: Final Verification Gate & Handoff | **Kiểm định TDD Toàn diện, Cổng review_evaluator.py, Hậu kiểm lỗi & Handoff** | `plan_code_reviewer` | `T22` | — | **`DONE`** |
 
 ## 3. Bước Kế tiếp Tối ưu Nhất (Next Unblocked Tickets)
 

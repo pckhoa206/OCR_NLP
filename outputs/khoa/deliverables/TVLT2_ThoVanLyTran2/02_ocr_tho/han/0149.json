@@ -1,0 +1,307 @@
+{
+  "page_id": "0149",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 149,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0149_han_000",
+      "bbox": [
+        [
+          237,
+          425
+        ],
+        [
+          606,
+          425
+        ],
+        [
+          606,
+          456
+        ],
+        [
+          237,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          580
+        ],
+        [
+          606,
+          580
+        ],
+        [
+          606,
+          611
+        ],
+        [
+          237,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        425,
+        606,
+        456
+      ],
+      "text": "chü thi 待, tam thêm vào.",
+      "confidence": 0.8811
+    },
+    {
+      "line_id": "0149_han_001",
+      "bbox": [
+        [
+          236,
+          501
+        ],
+        [
+          763,
+          501
+        ],
+        [
+          763,
+          544
+        ],
+        [
+          236,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          656
+        ],
+        [
+          763,
+          656
+        ],
+        [
+          763,
+          699
+        ],
+        [
+          236,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        501,
+        763,
+        544
+      ],
+      "text": "下恐有字",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0149_han_002",
+      "bbox": [
+        [
+          233,
+          551
+        ],
+        [
+          1399,
+          551
+        ],
+        [
+          1399,
+          588
+        ],
+        [
+          233,
+          588
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          706
+        ],
+        [
+          1399,
+          706
+        ],
+        [
+          1399,
+          743
+        ],
+        [
+          233,
+          743
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        551,
+        1399,
+        588
+      ],
+      "text": "Băn cǔ là nghich im ; ngù nghich 五 i, thuāt ngǔ dao Phāt, là năm tòi ác lon nhuu",
+      "confidence": 0.8759
+    },
+    {
+      "line_id": "0149_han_003",
+      "bbox": [
+        [
+          235,
+          625
+        ],
+        [
+          595,
+          625
+        ],
+        [
+          595,
+          660
+        ],
+        [
+          235,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          780
+        ],
+        [
+          595,
+          780
+        ],
+        [
+          595,
+          815
+        ],
+        [
+          235,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        625,
+        595,
+        660
+      ],
+      "text": "dinh cüa KHL2 : nguyët 月",
+      "confidence": 0.94
+    },
+    {
+      "line_id": "0149_han_004",
+      "bbox": [
+        [
+          225,
+          744
+        ],
+        [
+          1402,
+          746
+        ],
+        [
+          1402,
+          793
+        ],
+        [
+          225,
+          791
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          899
+        ],
+        [
+          1402,
+          901
+        ],
+        [
+          1402,
+          948
+        ],
+        [
+          225,
+          946
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        744,
+        1402,
+        793
+      ],
+      "text": "KH12 hoán nhāt pát — 物, sra lai theo kět cáu cåu vān doan trēn cho rö nghīa :",
+      "confidence": 0.8592
+    },
+    {
+      "line_id": "0149_han_005",
+      "bbox": [
+        [
+          233,
+          789
+        ],
+        [
+          707,
+          789
+        ],
+        [
+          707,
+          826
+        ],
+        [
+          233,
+          826
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          944
+        ],
+        [
+          707,
+          944
+        ],
+        [
+          707,
+          981
+        ],
+        [
+          233,
+          981
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        789,
+        707,
+        826
+      ],
+      "text": "hoán tác nhát pat  作一 物。",
+      "confidence": 0.7613
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

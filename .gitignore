@@ -88,6 +88,13 @@ deliverables/**/01_nguon/*.png
 !deliverables/TLTVN_TheLoaiTuVN/01_nguon/0137.png
 !deliverables/TLTVN_TheLoaiTuVN/01_nguon/0200.png
 !deliverables/TLTVN_TheLoaiTuVN/01_nguon/0300.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0007.png
+!deliverables/HVTT_HanVanTinhTuy/01_nguon/0367.png
 
 # Keep text files in 01_nguon
 !deliverables/**/01_nguon/*.txt
+
+# Ignore large extracted source PNGs & runtime logs under outputs/ (retain JSON/TSV/XLSX/TXT outputs)
+outputs/**/*.png
+outputs/**/*.log
+

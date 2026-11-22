@@ -1,0 +1,459 @@
+{
+  "page_id": "0056",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 56,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0056_han_000",
+      "bbox": [
+        [
+          244,
+          131
+        ],
+        [
+          573,
+          128
+        ],
+        [
+          573,
+          175
+        ],
+        [
+          244,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          252
+        ],
+        [
+          573,
+          249
+        ],
+        [
+          573,
+          296
+        ],
+        [
+          244,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        128,
+        573,
+        177
+      ],
+      "text": "威后曰不然",
+      "confidence": 0.9938
+    },
+    {
+      "line_id": "0056_han_001",
+      "bbox": [
+        [
+          248,
+          296
+        ],
+        [
+          647,
+          296
+        ],
+        [
+          647,
+          343
+        ],
+        [
+          248,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          417
+        ],
+        [
+          647,
+          417
+        ],
+        [
+          647,
+          464
+        ],
+        [
+          248,
+          464
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        296,
+        647,
+        343
+      ],
+      "text": "苟無歲何有民",
+      "confidence": 0.9778
+    },
+    {
+      "line_id": "0056_han_002",
+      "bbox": [
+        [
+          247,
+          463
+        ],
+        [
+          647,
+          463
+        ],
+        [
+          647,
+          511
+        ],
+        [
+          247,
+          511
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          584
+        ],
+        [
+          647,
+          584
+        ],
+        [
+          647,
+          632
+        ],
+        [
+          247,
+          632
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        463,
+        647,
+        511
+      ],
+      "text": "苟无民何有君",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0056_han_003",
+      "bbox": [
+        [
+          244,
+          630
+        ],
+        [
+          925,
+          628
+        ],
+        [
+          925,
+          675
+        ],
+        [
+          244,
+          677
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          751
+        ],
+        [
+          925,
+          749
+        ],
+        [
+          925,
+          796
+        ],
+        [
+          244,
+          798
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        628,
+        925,
+        677
+      ],
+      "text": "故有問舍本而問末者耶",
+      "confidence": 0.9918
+    },
+    {
+      "line_id": "0056_han_004",
+      "bbox": [
+        [
+          245,
+          800
+        ],
+        [
+          644,
+          800
+        ],
+        [
+          644,
+          848
+        ],
+        [
+          245,
+          848
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          921
+        ],
+        [
+          644,
+          921
+        ],
+        [
+          644,
+          969
+        ],
+        [
+          245,
+          969
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        800,
+        644,
+        848
+      ],
+      "text": "乃進而問之曰",
+      "confidence": 0.9931
+    },
+    {
+      "line_id": "0056_han_005",
+      "bbox": [
+        [
+          244,
+          967
+        ],
+        [
+          991,
+          967
+        ],
+        [
+          991,
+          1017
+        ],
+        [
+          244,
+          1017
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1088
+        ],
+        [
+          991,
+          1088
+        ],
+        [
+          991,
+          1138
+        ],
+        [
+          244,
+          1138
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        967,
+        991,
+        1017
+      ],
+      "text": "齊有處士曰鍾離子無恙耶",
+      "confidence": 0.9972
+    },
+    {
+      "line_id": "0056_han_006",
+      "bbox": [
+        [
+          243,
+          1137
+        ],
+        [
+          929,
+          1141
+        ],
+        [
+          929,
+          1192
+        ],
+        [
+          243,
+          1188
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1258
+        ],
+        [
+          929,
+          1262
+        ],
+        [
+          929,
+          1313
+        ],
+        [
+          243,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1137,
+        929,
+        1192
+      ],
+      "text": "是其為人也有糧者亦食",
+      "confidence": 0.986
+    },
+    {
+      "line_id": "0056_han_007",
+      "bbox": [
+        [
+          245,
+          1311
+        ],
+        [
+          575,
+          1311
+        ],
+        [
+          575,
+          1362
+        ],
+        [
+          245,
+          1362
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1432
+        ],
+        [
+          575,
+          1432
+        ],
+        [
+          575,
+          1483
+        ],
+        [
+          245,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1311,
+        575,
+        1362
+      ],
+      "text": "無糧者亦食",
+      "confidence": 0.9997
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "威后曰不然",
+      "苟無歲何有民",
+      "苟无民何有君",
+      "故有問舍本而問末者耶",
+      "乃進而問之曰",
+      "齊有處士曰鍾離子無恙耶",
+      "是其為人也有糧者亦食",
+      "無糧者亦食"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "威后曰不然",
+        "phien_am": "Uy-hậu viễt: bất nhiên",
+        "dich_nghia_gloss": "Uy-hậu nói: không phải thê"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "苟無歲何有民",
+        "phien_am": "Cầu vô tuẽ, hà hữu dân?",
+        "dich_nghia_gloss": "nêu không được mùa, thì sao có dân ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苟无民何有君",
+        "phien_am": "Cầu vô dân, hà hữu quân ?",
+        "dich_nghia_gloss": "không có dân thì sao có vua ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "故有問舍本而問末者耶",
+        "phien_am": "Cõ hữu văn xả bản nhi văn mạt giả da",
+        "dich_nghia_gloss": "Nên bỏ gọc mà hỏi ngọn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "乃進而問之曰",
+        "phien_am": "Nãi tiền nhi văn chi viết:",
+        "dich_nghia_gloss": "Bèn lại hỏi sứ rằng:"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "齊有處士曰鍾離子無恙耶",
+        "phien_am": "Tề hữu xử-sĩ viết Chung-li-tử vô dạng da ?",
+        "dich_nghia_gloss": "Tê có xử-sĩ Chung-li-tử có bình yên chăng ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "是其為人也有糧者亦食",
+        "phien_am": "Thị kỳ vi nhân dã, hữu lương giả diệc tự",
+        "dich_nghia_gloss": "ông ây là người kẻ có lương cũng nuôi,"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "無糧者亦食",
+        "phien_am": "Vô lương giả diệc tự,",
+        "dich_nghia_gloss": "Kẻ không lương cũng nuôi,"
+      }
+    ]
+  }
+}

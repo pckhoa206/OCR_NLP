@@ -1,0 +1,403 @@
+{
+  "page_id": "0059",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 59,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0059_viet_000",
+      "bbox": [
+        [
+          195,
+          66
+        ],
+        [
+          635,
+          64
+        ],
+        [
+          635,
+          104
+        ],
+        [
+          195,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          187
+        ],
+        [
+          635,
+          185
+        ],
+        [
+          635,
+          225
+        ],
+        [
+          195,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        64,
+        635,
+        107
+      ],
+      "text": "TRIỆU-UY-HẬU VẦN TẾ-SÚ",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0059_viet_001",
+      "bbox": [
+        [
+          953,
+          70
+        ],
+        [
+          994,
+          70
+        ],
+        [
+          994,
+          105
+        ],
+        [
+          953,
+          105
+        ]
+      ],
+      "bbox_original": [
+        [
+          953,
+          191
+        ],
+        [
+          994,
+          191
+        ],
+        [
+          994,
+          226
+        ],
+        [
+          953,
+          226
+        ]
+      ],
+      "box_xyxy": [
+        953,
+        70,
+        994,
+        105
+      ],
+      "text": "63",
+      "confidence": 0.8496
+    },
+    {
+      "line_id": "0059_viet_002",
+      "bbox": [
+        [
+          368,
+          240
+        ],
+        [
+          851,
+          240
+        ],
+        [
+          851,
+          277
+        ],
+        [
+          368,
+          277
+        ]
+      ],
+      "bbox_original": [
+        [
+          368,
+          361
+        ],
+        [
+          851,
+          361
+        ],
+        [
+          851,
+          398
+        ],
+        [
+          368,
+          398
+        ]
+      ],
+      "box_xyxy": [
+        368,
+        240,
+        851,
+        277
+      ],
+      "text": "a cùng dân cùng giữ lễ công,",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0059_viet_003",
+      "bbox": [
+        [
+          264,
+          466
+        ],
+        [
+          987,
+          466
+        ],
+        [
+          987,
+          503
+        ],
+        [
+          264,
+          503
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          587
+        ],
+        [
+          987,
+          587
+        ],
+        [
+          987,
+          624
+        ],
+        [
+          264,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        466,
+        987,
+        503
+      ],
+      "text": "- Nuôi dân như thẽ, chưa phong chức nào ?",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0059_viet_004",
+      "bbox": [
+        [
+          365,
+          695
+        ],
+        [
+          887,
+          694
+        ],
+        [
+          887,
+          732
+        ],
+        [
+          365,
+          733
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          816
+        ],
+        [
+          887,
+          815
+        ],
+        [
+          887,
+          853
+        ],
+        [
+          365,
+          854
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        694,
+        887,
+        733
+      ],
+      "text": "a còn nghiệp-dương-tử ở đầu ?",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0059_viet_005",
+      "bbox": [
+        [
+          263,
+          920
+        ],
+        [
+          900,
+          920
+        ],
+        [
+          900,
+          957
+        ],
+        [
+          263,
+          957
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          1041
+        ],
+        [
+          900,
+          1041
+        ],
+        [
+          900,
+          1078
+        ],
+        [
+          263,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        920,
+        900,
+        957
+      ],
+      "text": "a Thường lo cho kẻ khó nghèo có ăn,",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0059_viet_006",
+      "bbox": [
+        [
+          367,
+          1150
+        ],
+        [
+          853,
+          1150
+        ],
+        [
+          853,
+          1187
+        ],
+        [
+          367,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          367,
+          1271
+        ],
+        [
+          853,
+          1271
+        ],
+        [
+          853,
+          1308
+        ],
+        [
+          367,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        367,
+        1150,
+        853,
+        1187
+      ],
+      "text": "a có công trong việc yên dân",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0059_viet_007",
+      "bbox": [
+        [
+          262,
+          1376
+        ],
+        [
+          988,
+          1375
+        ],
+        [
+          988,
+          1413
+        ],
+        [
+          262,
+          1414
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1497
+        ],
+        [
+          988,
+          1496
+        ],
+        [
+          988,
+          1534
+        ],
+        [
+          262,
+          1535
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1375,
+        988,
+        1414
+      ],
+      "text": "a mà ơn vua thấy được phần nào không ?",
+      "confidence": 0.8873
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

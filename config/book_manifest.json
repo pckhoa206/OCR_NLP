@@ -17,27 +17,27 @@
       "format": "PDF Scan",
       "layout": "interlinear_4col_even_odd_pages",
       "columns": ["Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ"],
-      "layout_description": "Trang chẵn sách (PDF trang chẵn 8..380) in từng câu: Chữ Hán + Dịch âm + Dịch nghĩa (riêng bài cuối PDF 368..380 và 4 bài thơ cổ chỉ có Chữ Hán + Dịch âm, cột Dịch nghĩa để trống). Trang lẻ đối diện chứa phần Dịch thơ.",
+      "layout_description": "Trang lẻ chứa tiêu đề tác phẩm (có Hán + Dịch âm + Dịch nghĩa + Tiểu dẫn) hoặc bản Dịch thơ đối diện. Trang chẵn sách (PDF trang chẵn 8..380) in từng câu: Chữ Hán + Dịch âm + Dịch nghĩa (riêng bài Thạch Hào lại PDF 100 và Thu dạ hoài ngâm PDF 368..380 chỉ có Chữ Hán + Dịch âm, cột Dịch nghĩa để trống).",
       "offset_formula": "pdf_page = book_page + 6",
       "book_to_pdf_offset": 6,
       "pdf_to_book_offset": -6,
       "valid_range": {
-        "book_page_start": 2,
+        "book_page_start": 1,
         "book_page_end": 375,
-        "pdf_page_start": 8,
+        "pdf_page_start": 7,
         "pdf_page_end": 381,
         "step": 1,
         "parity": "all",
-        "valid_pdf_page_count": 374,
+        "valid_pdf_page_count": 375,
         "even_han_page_count": 187,
-        "description": "Book pages 2..375 (PDF pages 8..381) containing 4-column Hán - Dịch âm - Dịch nghĩa - Dịch thơ (including final work Thu dạ hoài ngâm at PDF 368..381 with empty Dịch nghĩa)."
+        "description": "Book pages 1..375 (PDF pages 7..381) containing 4-column Hán - Dịch âm - Dịch nghĩa - Dịch thơ (including odd title pages p.7..367 and final work Thu dạ hoài ngâm at PDF 367..381 with empty Dịch nghĩa)."
       },
       "excluded_ranges": [
         {
           "pdf_page_start": 1,
-          "pdf_page_end": 7,
-          "book_pages": "Front matter & p.1",
-          "reason": "Bìa, lời nói đầu và trang tiêu đề (không có nội dung song ngữ)."
+          "pdf_page_end": 6,
+          "book_pages": "Front matter",
+          "reason": "Bìa và lời nói đầu (không có nội dung song ngữ)."
         },
         {
           "pdf_page_start": 382,
@@ -47,8 +47,8 @@
           "reason": "Mục lục cuối sách."
         }
       ],
-      "pilot_pages": [8, 9, 10, 11, 12, 13, 50, 312, 326, 368, 369],
-      "pilot_book_pages": [2, 3, 4, 5, 6, 7, 44, 306, 320, 362, 363]
+      "pilot_pages": [7, 8, 9, 10, 11, 12, 13, 50, 312, 326, 367, 368, 369],
+      "pilot_book_pages": [1, 2, 3, 4, 5, 6, 7, 44, 306, 320, 361, 362, 363]
     },
     "TVLT2": {
       "book_id": "TVLT2",
@@ -64,6 +64,7 @@
       "total_pdf_pages": 965,
       "format": "PDF Scan",
       "layout": "sequential_section_blocks",
+      "columns": ["Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ"],
       "layout_description": "Mỗi tác phẩm trình bày lần lượt theo khối: Nguyên tác chữ Hán -> Phiên âm Hán-Việt -> Dịch nghĩa -> Dịch thơ -> Chú thích.",
       "offset_formula": "book_page = pdf_page + 2 (for PDF pages >= 7)",
       "book_to_pdf_offset": -2,
@@ -159,6 +160,7 @@
       "total_pdf_pages": 645,
       "format": "PDF Scan",
       "layout": "sequential_section_blocks",
+      "columns": ["Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ"],
       "layout_description": "Phần Ba (Tuyển dịch): mỗi bài từ gồm Nguyên chữ Hán -> Phiên âm -> Dịch nghĩa -> Dịch thơ -> Chú thích.",
       "offset_formula": "pdf_page = book_page + 7 (for book pages 1..593)",
       "book_to_pdf_offset": 7,

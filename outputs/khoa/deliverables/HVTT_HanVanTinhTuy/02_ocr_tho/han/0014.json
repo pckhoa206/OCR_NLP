@@ -1,0 +1,405 @@
+{
+  "page_id": "0014",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 14,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0014_han_000",
+      "bbox": [
+        [
+          244,
+          127
+        ],
+        [
+          977,
+          129
+        ],
+        [
+          977,
+          174
+        ],
+        [
+          244,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          248
+        ],
+        [
+          977,
+          250
+        ],
+        [
+          977,
+          295
+        ],
+        [
+          244,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        127,
+        977,
+        174
+      ],
+      "text": "母從詭隨以謹無良式遏寇虐",
+      "confidence": 0.9584
+    },
+    {
+      "line_id": "0014_han_001",
+      "bbox": [
+        [
+          244,
+          362
+        ],
+        [
+          853,
+          362
+        ],
+        [
+          853,
+          406
+        ],
+        [
+          244,
+          406
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          483
+        ],
+        [
+          853,
+          483
+        ],
+        [
+          853,
+          527
+        ],
+        [
+          244,
+          527
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        362,
+        853,
+        406
+      ],
+      "text": "慘不畏明糾之以猛也",
+      "confidence": 0.9584
+    },
+    {
+      "line_id": "0014_han_002",
+      "bbox": [
+        [
+          248,
+          510
+        ],
+        [
+          990,
+          510
+        ],
+        [
+          990,
+          551
+        ],
+        [
+          248,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          631
+        ],
+        [
+          990,
+          631
+        ],
+        [
+          990,
+          672
+        ],
+        [
+          248,
+          672
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        510,
+        990,
+        551
+      ],
+      "text": "柔遠能邇以定我王平之以和也",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0014_han_003",
+      "bbox": [
+        [
+          246,
+          704
+        ],
+        [
+          924,
+          704
+        ],
+        [
+          924,
+          745
+        ],
+        [
+          246,
+          745
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          825
+        ],
+        [
+          924,
+          825
+        ],
+        [
+          924,
+          866
+        ],
+        [
+          246,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        704,
+        924,
+        745
+      ],
+      "text": "又曰不競不綠不剛不柔",
+      "confidence": 0.9394
+    },
+    {
+      "line_id": "0014_han_004",
+      "bbox": [
+        [
+          248,
+          936
+        ],
+        [
+          992,
+          934
+        ],
+        [
+          992,
+          978
+        ],
+        [
+          248,
+          980
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1057
+        ],
+        [
+          992,
+          1055
+        ],
+        [
+          992,
+          1099
+        ],
+        [
+          248,
+          1101
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        934,
+        992,
+        980
+      ],
+      "text": "布政優優百祿是道和之至也",
+      "confidence": 0.9751
+    },
+    {
+      "line_id": "0014_han_005",
+      "bbox": [
+        [
+          246,
+          1126
+        ],
+        [
+          989,
+          1124
+        ],
+        [
+          989,
+          1169
+        ],
+        [
+          246,
+          1171
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1247
+        ],
+        [
+          989,
+          1245
+        ],
+        [
+          989,
+          1290
+        ],
+        [
+          246,
+          1292
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1124,
+        989,
+        1171
+      ],
+      "text": "及子產卒仲尼聞之出涕曰",
+      "confidence": 0.9939
+    },
+    {
+      "line_id": "0014_han_006",
+      "bbox": [
+        [
+          246,
+          1319
+        ],
+        [
+          573,
+          1319
+        ],
+        [
+          573,
+          1364
+        ],
+        [
+          246,
+          1364
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1440
+        ],
+        [
+          573,
+          1440
+        ],
+        [
+          573,
+          1485
+        ],
+        [
+          246,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1319,
+        573,
+        1364
+      ],
+      "text": "古之遺愛也",
+      "confidence": 0.9957
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "母從詭隨以謹無良式遏寇虐",
+      "慘不畏明糾之以猛也",
+      "柔遠能邇以定我王平之以和也",
+      "又曰不競不綠不剛不柔",
+      "布政優優百祿是道和之至也",
+      "及子產卒仲尼聞之出涕曰",
+      "古之遺愛也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "母從詭隨以謹無良式遏寇虐",
+        "phien_am": "vô tòng ngụy tùy, dĩ cần vô lương, thức át",
+        "dich_nghia_gloss": "khẩu ngược Không nghe kẻ giồi trá, loại trừ kẻ vô lương, trộm cướp sẽ yên được."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "慘不畏明糾之以猛也",
+        "phien_am": "thao bất úy minh, củ chi di mãnh dã",
+        "dich_nghia_gloss": "Không xong sẽ dùng sức mạnh"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "柔遠能邇以定我王平之以和也",
+        "phien_am": "Nhu viễn năng nhĩ, dĩ định ngã vương, bình",
+        "dich_nghia_gloss": "chi di hòa dã. Mềm mỏng với dân ở xa. Thân thiện với dân ở gần"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "又曰不競不綠不剛不柔",
+        "phien_am": "Hựu viết: bắt cạnh, bãt cầu, bãt cương, bãt nhu.",
+        "dich_nghia_gloss": "Lại nói: a Không tranh, không vội, không cứng, không mềm, thi chính hòa-thuận êm đềm, trăm lộc sẽ tụ họp đến thêm n đó là sự a hòa n đền mức vậy."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "布政優優百祿是道和之至也",
+        "phien_am": "bõ chinh ưu-ưu, bách lộc thị tù hòa chi chí dã.",
+        "dich_nghia_gloss": "để định việc lớn của mình, đó là làm quân bình sự hòa thuận trong dân gian"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "及子產卒仲尼聞之出涕曰",
+        "phien_am": "Cập Tử-Sản tốt, Trọng Ni văn chi, xuất thẽ viết:",
+        "dich_nghia_gloss": "Tử-Sản biết thương dân, được dân yêu mền, là có phong thái của cổ-nhân sót lại"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "古之遺愛也",
+        "phien_am": "Cồ chi di ái dã",
+        "dich_nghia_gloss": "Chỉ cổ nhân mới biết thương người như tử sản"
+      }
+    ]
+  }
+}

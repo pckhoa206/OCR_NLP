@@ -1,0 +1,1276 @@
+{
+  "page_id": "0150",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 150,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1255,
+    "footnote_separator_y_original": 1370,
+    "effective_width": 1122,
+    "effective_height": 1255
+  },
+  "items": [
+    {
+      "line_id": "0150_viet_000",
+      "bbox": [
+        [
+          140,
+          7
+        ],
+        [
+          524,
+          10
+        ],
+        [
+          524,
+          51
+        ],
+        [
+          140,
+          48
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          122
+        ],
+        [
+          524,
+          125
+        ],
+        [
+          524,
+          166
+        ],
+        [
+          140,
+          163
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        7,
+        524,
+        51
+      ],
+      "text": "Yếu thực ngã Quan Trung.",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0150_viet_001",
+      "bbox": [
+        [
+          138,
+          59
+        ],
+        [
+          548,
+          59
+        ],
+        [
+          548,
+          100
+        ],
+        [
+          138,
+          100
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          174
+        ],
+        [
+          548,
+          174
+        ],
+        [
+          548,
+          215
+        ],
+        [
+          138,
+          215
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        59,
+        548,
+        100
+      ],
+      "text": "Sậu gia chức sĩ quan phong.",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0150_viet_002",
+      "bbox": [
+        [
+          138,
+          103
+        ],
+        [
+          349,
+          103
+        ],
+        [
+          349,
+          145
+        ],
+        [
+          138,
+          145
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          218
+        ],
+        [
+          349,
+          218
+        ],
+        [
+          349,
+          260
+        ],
+        [
+          138,
+          260
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        103,
+        349,
+        145
+      ],
+      "text": "Bái mệnh liễu,",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0150_viet_003",
+      "bbox": [
+        [
+          140,
+          154
+        ],
+        [
+          472,
+          154
+        ],
+        [
+          472,
+          191
+        ],
+        [
+          140,
+          191
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          269
+        ],
+        [
+          472,
+          269
+        ],
+        [
+          472,
+          306
+        ],
+        [
+          140,
+          306
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        154,
+        472,
+        191
+      ],
+      "text": "Giá hành thiều thu túc,",
+      "confidence": 0.9223
+    },
+    {
+      "line_id": "0150_viet_004",
+      "bbox": [
+        [
+          140,
+          204
+        ],
+        [
+          476,
+          204
+        ],
+        [
+          476,
+          241
+        ],
+        [
+          140,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          319
+        ],
+        [
+          476,
+          319
+        ],
+        [
+          476,
+          356
+        ],
+        [
+          140,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        204,
+        476,
+        241
+      ],
+      "text": "Trước cước xuân nùng.",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0150_viet_005",
+      "bbox": [
+        [
+          139,
+          252
+        ],
+        [
+          465,
+          252
+        ],
+        [
+          465,
+          290
+        ],
+        [
+          139,
+          290
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          367
+        ],
+        [
+          465,
+          367
+        ],
+        [
+          465,
+          405
+        ],
+        [
+          139,
+          405
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        252,
+        465,
+        290
+      ],
+      "text": "Đáo ta quận, ta thành,",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0150_viet_006",
+      "bbox": [
+        [
+          139,
+          302
+        ],
+        [
+          409,
+          302
+        ],
+        [
+          409,
+          340
+        ],
+        [
+          139,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          417
+        ],
+        [
+          409,
+          417
+        ],
+        [
+          409,
+          455
+        ],
+        [
+          139,
+          455
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        302,
+        409,
+        340
+      ],
+      "text": "Nhạc sơn uy động.",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0150_viet_007",
+      "bbox": [
+        [
+          140,
+          351
+        ],
+        [
+          454,
+          351
+        ],
+        [
+          454,
+          385
+        ],
+        [
+          140,
+          385
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          466
+        ],
+        [
+          454,
+          466
+        ],
+        [
+          454,
+          500
+        ],
+        [
+          140,
+          500
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        351,
+        454,
+        385
+      ],
+      "text": "Nhược dân nhược lại",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0150_viet_008",
+      "bbox": [
+        [
+          139,
+          398
+        ],
+        [
+          395,
+          398
+        ],
+        [
+          395,
+          436
+        ],
+        [
+          139,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          513
+        ],
+        [
+          395,
+          513
+        ],
+        [
+          395,
+          551
+        ],
+        [
+          139,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        398,
+        395,
+        436
+      ],
+      "text": "Bỉ thử tình thông.",
+      "confidence": 0.8795
+    },
+    {
+      "line_id": "0150_viet_009",
+      "bbox": [
+        [
+          140,
+          447
+        ],
+        [
+          403,
+          447
+        ],
+        [
+          403,
+          486
+        ],
+        [
+          140,
+          486
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          562
+        ],
+        [
+          403,
+          562
+        ],
+        [
+          403,
+          601
+        ],
+        [
+          140,
+          601
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        447,
+        403,
+        486
+      ],
+      "text": "Biên cảnh phủ an,",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0150_viet_010",
+      "bbox": [
+        [
+          140,
+          491
+        ],
+        [
+          414,
+          494
+        ],
+        [
+          413,
+          536
+        ],
+        [
+          139,
+          533
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          606
+        ],
+        [
+          414,
+          609
+        ],
+        [
+          413,
+          651
+        ],
+        [
+          139,
+          648
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        491,
+        414,
+        536
+      ],
+      "text": "Triều đình ý trọng.",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0150_viet_011",
+      "bbox": [
+        [
+          139,
+          540
+        ],
+        [
+          623,
+          542
+        ],
+        [
+          623,
+          583
+        ],
+        [
+          139,
+          581
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          655
+        ],
+        [
+          623,
+          657
+        ],
+        [
+          623,
+          698
+        ],
+        [
+          139,
+          696
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        540,
+        623,
+        583
+      ],
+      "text": "Phù thuỳ bất viết dụng Nho công",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0150_viet_012",
+      "bbox": [
+        [
+          141,
+          591
+        ],
+        [
+          554,
+          588
+        ],
+        [
+          554,
+          629
+        ],
+        [
+          141,
+          633
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          706
+        ],
+        [
+          554,
+          703
+        ],
+        [
+          554,
+          744
+        ],
+        [
+          141,
+          748
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        588,
+        554,
+        633
+      ],
+      "text": "Vọng lai nhật biến tinh thần,",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0150_viet_013",
+      "bbox": [
+        [
+          139,
+          640
+        ],
+        [
+          330,
+          640
+        ],
+        [
+          330,
+          678
+        ],
+        [
+          139,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          755
+        ],
+        [
+          330,
+          755
+        ],
+        [
+          330,
+          793
+        ],
+        [
+          139,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        640,
+        330,
+        678
+      ],
+      "text": "Duệ li thánh,",
+      "confidence": 0.8909
+    },
+    {
+      "line_id": "0150_viet_014",
+      "bbox": [
+        [
+          141,
+          688
+        ],
+        [
+          406,
+          688
+        ],
+        [
+          406,
+          729
+        ],
+        [
+          141,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          803
+        ],
+        [
+          406,
+          803
+        ],
+        [
+          406,
+          844
+        ],
+        [
+          141,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        688,
+        406,
+        729
+      ],
+      "text": "Quyến điệp mông",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0150_viet_015",
+      "bbox": [
+        [
+          140,
+          738
+        ],
+        [
+          325,
+          738
+        ],
+        [
+          325,
+          776
+        ],
+        [
+          140,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          853
+        ],
+        [
+          325,
+          853
+        ],
+        [
+          325,
+          891
+        ],
+        [
+          140,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        738,
+        325,
+        776
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0150_viet_016",
+      "bbox": [
+        [
+          140,
+          778
+        ],
+        [
+          1034,
+          775
+        ],
+        [
+          1034,
+          820
+        ],
+        [
+          140,
+          823
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          893
+        ],
+        [
+          1034,
+          890
+        ],
+        [
+          1034,
+          935
+        ],
+        [
+          140,
+          938
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        775,
+        1034,
+        823
+      ],
+      "text": "TIỀN ĐÀM CÔNG ĐI LÀM QUAN HIÊN SÁT NGHỆ AN",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0150_viet_017",
+      "bbox": [
+        [
+          142,
+          832
+        ],
+        [
+          496,
+          832
+        ],
+        [
+          496,
+          873
+        ],
+        [
+          142,
+          873
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          947
+        ],
+        [
+          496,
+          947
+        ],
+        [
+          496,
+          988
+        ],
+        [
+          142,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        832,
+        496,
+        873
+      ],
+      "text": "(Điệu Thấm viên xuân)",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0150_viet_018",
+      "bbox": [
+        [
+          138,
+          881
+        ],
+        [
+          1044,
+          878
+        ],
+        [
+          1044,
+          918
+        ],
+        [
+          138,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          996
+        ],
+        [
+          1044,
+          993
+        ],
+        [
+          1044,
+          1033
+        ],
+        [
+          138,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        878,
+        1044,
+        921
+      ],
+      "text": "Nay đương lúc Đàm công là bậc hào kiệt Việt Nam, là bậc",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0150_viet_019",
+      "bbox": [
+        [
+          82,
+          926
+        ],
+        [
+          1044,
+          922
+        ],
+        [
+          1044,
+          960
+        ],
+        [
+          82,
+          964
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1041
+        ],
+        [
+          1044,
+          1037
+        ],
+        [
+          1044,
+          1075
+        ],
+        [
+          82,
+          1079
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        922,
+        1044,
+        964
+      ],
+      "text": "danh vọng trong giới nhà nho ở Giang Tây, gia đình trâm anh, đời",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0150_viet_020",
+      "bbox": [
+        [
+          79,
+          964
+        ],
+        [
+          1047,
+          961
+        ],
+        [
+          1047,
+          1006
+        ],
+        [
+          79,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          1079
+        ],
+        [
+          1047,
+          1076
+        ],
+        [
+          1047,
+          1121
+        ],
+        [
+          79,
+          1124
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        961,
+        1047,
+        1009
+      ],
+      "text": "đời vinh hiển. Phong vân nghìn thuở, đích thân gặp vận hội tốt",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0150_viet_021",
+      "bbox": [
+        [
+          80,
+          1009
+        ],
+        [
+          1045,
+          1008
+        ],
+        [
+          1045,
+          1048
+        ],
+        [
+          80,
+          1049
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1124
+        ],
+        [
+          1045,
+          1123
+        ],
+        [
+          1045,
+          1163
+        ],
+        [
+          80,
+          1164
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1008,
+        1045,
+        1049
+      ],
+      "text": "lành. Tài kinh bang tế thế được thi hành rộng nhắm vào việc thực",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0150_viet_022",
+      "bbox": [
+        [
+          82,
+          1052
+        ],
+        [
+          1045,
+          1050
+        ],
+        [
+          1045,
+          1090
+        ],
+        [
+          82,
+          1092
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1167
+        ],
+        [
+          1045,
+          1165
+        ],
+        [
+          1045,
+          1205
+        ],
+        [
+          82,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1050,
+        1045,
+        1092
+      ],
+      "text": "dụng, được tiến cử, ngợi khen nên rào bước trên đường hoa. Tên",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0150_viet_023",
+      "bbox": [
+        [
+          81,
+          1094
+        ],
+        [
+          1045,
+          1091
+        ],
+        [
+          1045,
+          1132
+        ],
+        [
+          81,
+          1135
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1209
+        ],
+        [
+          1045,
+          1206
+        ],
+        [
+          1045,
+          1247
+        ],
+        [
+          81,
+          1250
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1091,
+        1045,
+        1135
+      ],
+      "text": "tuổi rạng trong triều, quan lại tiến cử vì có tài làm việc, gia quyền",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0150_viet_024",
+      "bbox": [
+        [
+          82,
+          1138
+        ],
+        [
+          1044,
+          1138
+        ],
+        [
+          1044,
+          1176
+        ],
+        [
+          82,
+          1176
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1253
+        ],
+        [
+          1044,
+          1253
+        ],
+        [
+          1044,
+          1291
+        ],
+        [
+          82,
+          1291
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1138,
+        1044,
+        1176
+      ],
+      "text": "làm hiến sát tỉnh ngoài, giới tấn thân vui mừng vì đã chọn được",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0150_viet_025",
+      "bbox": [
+        [
+          80,
+          1181
+        ],
+        [
+          1018,
+          1177
+        ],
+        [
+          1018,
+          1217
+        ],
+        [
+          80,
+          1221
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1296
+        ],
+        [
+          1018,
+          1292
+        ],
+        [
+          1018,
+          1332
+        ],
+        [
+          80,
+          1336
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1177,
+        1018,
+        1221
+      ],
+      "text": "người. Đang lúc bày tiệc tiến chân, lại hát khúc Thấm viên xuân",
+      "confidence": 0.9157
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Yếu thực ngã Quan Trung.",
+      "Sậu gia chức sĩ quan phong.",
+      "Bái mệnh liễu,",
+      "Giá hành thiều thu túc,",
+      "Trước cước xuân nùng.",
+      "Đáo ta quận, ta thành,",
+      "Nhạc sơn uy động.",
+      "Nhược dân nhược lại",
+      "Bỉ thử tình thông.",
+      "Biên cảnh phủ an,",
+      "Triều đình ý trọng.",
+      "Phù thuỳ bất viết dụng Nho công",
+      "Vọng lai nhật biến tinh thần,",
+      "Duệ li thánh,",
+      "Quyến điệp mông"
+    ],
+    "dich_nghia_lines": [
+      "TIỀN ĐÀM CÔNG ĐI LÀM QUAN HIÊN SÁT NGHỆ AN",
+      "(Điệu Thấm viên xuân)",
+      "Nay đương lúc Đàm công là bậc hào kiệt Việt Nam, là bậc",
+      "danh vọng trong giới nhà nho ở Giang Tây, gia đình trâm anh, đời",
+      "đời vinh hiển. Phong vân nghìn thuở, đích thân gặp vận hội tốt",
+      "lành. Tài kinh bang tế thế được thi hành rộng nhắm vào việc thực",
+      "dụng, được tiến cử, ngợi khen nên rào bước trên đường hoa. Tên",
+      "tuổi rạng trong triều, quan lại tiến cử vì có tài làm việc, gia quyền",
+      "làm hiến sát tỉnh ngoài, giới tấn thân vui mừng vì đã chọn được",
+      "người. Đang lúc bày tiệc tiến chân, lại hát khúc Thấm viên xuân"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

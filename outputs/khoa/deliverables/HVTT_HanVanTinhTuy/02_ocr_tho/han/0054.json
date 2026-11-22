@@ -1,0 +1,405 @@
+{
+  "page_id": "0054",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 54,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0054_han_000",
+      "bbox": [
+        [
+          243,
+          123
+        ],
+        [
+          846,
+          127
+        ],
+        [
+          846,
+          175
+        ],
+        [
+          243,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          244
+        ],
+        [
+          846,
+          248
+        ],
+        [
+          846,
+          296
+        ],
+        [
+          243,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        123,
+        846,
+        175
+      ],
+      "text": "齊王使使者問趙威后",
+      "confidence": 0.9841
+    },
+    {
+      "line_id": "0054_han_001",
+      "bbox": [
+        [
+          247,
+          301
+        ],
+        [
+          846,
+          301
+        ],
+        [
+          846,
+          349
+        ],
+        [
+          247,
+          349
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          422
+        ],
+        [
+          846,
+          422
+        ],
+        [
+          846,
+          470
+        ],
+        [
+          247,
+          470
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        301,
+        846,
+        349
+      ],
+      "text": "書未發威后問使者曰",
+      "confidence": 0.9903
+    },
+    {
+      "line_id": "0054_han_002",
+      "bbox": [
+        [
+          244,
+          475
+        ],
+        [
+          920,
+          473
+        ],
+        [
+          920,
+          520
+        ],
+        [
+          244,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          596
+        ],
+        [
+          920,
+          594
+        ],
+        [
+          920,
+          641
+        ],
+        [
+          244,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        473,
+        920,
+        522
+      ],
+      "text": "歲亦無恙耶民亦無恙耶",
+      "confidence": 0.9951
+    },
+    {
+      "line_id": "0054_han_003",
+      "bbox": [
+        [
+          248,
+          654
+        ],
+        [
+          570,
+          654
+        ],
+        [
+          570,
+          699
+        ],
+        [
+          248,
+          699
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          775
+        ],
+        [
+          570,
+          775
+        ],
+        [
+          570,
+          820
+        ],
+        [
+          248,
+          820
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        654,
+        570,
+        699
+      ],
+      "text": "王亦無恙耶",
+      "confidence": 0.9971
+    },
+    {
+      "line_id": "0054_han_004",
+      "bbox": [
+        [
+          244,
+          827
+        ],
+        [
+          987,
+          829
+        ],
+        [
+          987,
+          876
+        ],
+        [
+          244,
+          874
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          948
+        ],
+        [
+          987,
+          950
+        ],
+        [
+          987,
+          997
+        ],
+        [
+          244,
+          995
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        827,
+        987,
+        876
+      ],
+      "text": "使者不悦曰臣奉使使威后",
+      "confidence": 0.9926
+    },
+    {
+      "line_id": "0054_han_005",
+      "bbox": [
+        [
+          241,
+          1091
+        ],
+        [
+          928,
+          1093
+        ],
+        [
+          928,
+          1140
+        ],
+        [
+          241,
+          1138
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1212
+        ],
+        [
+          928,
+          1214
+        ],
+        [
+          928,
+          1261
+        ],
+        [
+          241,
+          1259
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1091,
+        928,
+        1140
+      ],
+      "text": "今不問王而先問歲與民",
+      "confidence": 0.9961
+    },
+    {
+      "line_id": "0054_han_006",
+      "bbox": [
+        [
+          246,
+          1312
+        ],
+        [
+          852,
+          1310
+        ],
+        [
+          852,
+          1358
+        ],
+        [
+          246,
+          1360
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1433
+        ],
+        [
+          852,
+          1431
+        ],
+        [
+          852,
+          1479
+        ],
+        [
+          246,
+          1481
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1310,
+        852,
+        1360
+      ],
+      "text": "豈先賤而後尊貴者乎",
+      "confidence": 0.9976
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "齊王使使者問趙威后",
+      "書未發威后問使者曰",
+      "歲亦無恙耶民亦無恙耶",
+      "王亦無恙耶",
+      "使者不悦曰臣奉使使威后",
+      "今不問王而先問歲與民",
+      "豈先賤而後尊貴者乎"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "齊王使使者問趙威后",
+        "phien_am": "Tề-vương xử sứ-giả văn Triệu-uy-hậu.",
+        "dich_nghia_gloss": "Vua Tế cho sứ sang thăm Triệu-Uy-hậu."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "書未發威后問使者曰",
+        "phien_am": "Thư vị phát, Uy-hậu văn sứ-giả viết:",
+        "dich_nghia_gloss": "Thơ chưa mở, Uy-hậu hỏi sứ giả:"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "歲亦無恙耶民亦無恙耶",
+        "phien_am": "Tuẽ diệc vô dạng da ? Dân diệc vô dạng da ?",
+        "dich_nghia_gloss": "Mùa năm nay được chứ ? Dân bình yên chứ ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王亦無恙耶",
+        "phien_am": "Vương diệc vô dạng da ?",
+        "dich_nghia_gloss": "Vua cũng bình yên chứ ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "使者不悦曰臣奉使使威后",
+        "phien_am": "Sứ-giả bãt duyệt, viết: Thần phụng sứ sứ Uy.",
+        "dich_nghia_gloss": "hậu, Sứ giả không vui, nói: Thần phụng mệnh sang sứ Uy-hậu"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "今不問王而先問歲與民",
+        "phien_am": "Kim bãt văn vương nhi tiên văn tuẽ dữ dân,",
+        "dich_nghia_gloss": "nay lệnh-bà không hỏi vua, lại hỏi mùa với dân trước."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "豈先賤而後尊貴者乎",
+        "phien_am": "Khởi tiên tiện nhi hậu tôn quý giả hồ ?",
+        "dich_nghia_gloss": "Há chẳng là hỏi hèn trước rồi mới đên sang?"
+      }
+    ]
+  }
+}

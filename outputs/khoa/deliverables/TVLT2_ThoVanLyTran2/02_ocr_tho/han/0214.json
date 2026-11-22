@@ -1,0 +1,260 @@
+{
+  "page_id": "0214",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 214,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0214_han_000",
+      "bbox": [
+        [
+          188,
+          545
+        ],
+        [
+          528,
+          543
+        ],
+        [
+          528,
+          577
+        ],
+        [
+          188,
+          579
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          700
+        ],
+        [
+          528,
+          698
+        ],
+        [
+          528,
+          732
+        ],
+        [
+          188,
+          734
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        543,
+        528,
+        579
+      ],
+      "text": "1* KHL1: thêm vän 文",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0214_han_001",
+      "bbox": [
+        [
+          189,
+          586
+        ],
+        [
+          475,
+          586
+        ],
+        [
+          475,
+          620
+        ],
+        [
+          189,
+          620
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          741
+        ],
+        [
+          475,
+          741
+        ],
+        [
+          475,
+          775
+        ],
+        [
+          189,
+          775
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        586,
+        475,
+        620
+      ],
+      "text": "2= KHL1: hành 行",
+      "confidence": 0.9427
+    },
+    {
+      "line_id": "0214_han_002",
+      "bbox": [
+        [
+          185,
+          619
+        ],
+        [
+          532,
+          619
+        ],
+        [
+          532,
+          664
+        ],
+        [
+          185,
+          664
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          774
+        ],
+        [
+          532,
+          774
+        ],
+        [
+          532,
+          819
+        ],
+        [
+          185,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        619,
+        532,
+        664
+      ],
+      "text": "3 KHL1: thêm dång 等",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0214_han_003",
+      "bbox": [
+        [
+          186,
+          664
+        ],
+        [
+          449,
+          661
+        ],
+        [
+          449,
+          700
+        ],
+        [
+          186,
+          702
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          819
+        ],
+        [
+          449,
+          816
+        ],
+        [
+          449,
+          855
+        ],
+        [
+          186,
+          857
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        661,
+        449,
+        702
+      ],
+      "text": "KHL1: dǎc 得",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0214_han_004",
+      "bbox": [
+        [
+          186,
+          704
+        ],
+        [
+          427,
+          704
+        ],
+        [
+          427,
+          741
+        ],
+        [
+          186,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          859
+        ],
+        [
+          427,
+          859
+        ],
+        [
+          427,
+          896
+        ],
+        [
+          186,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        704,
+        427,
+        741
+      ],
+      "text": "5* KHL1: vó 無",
+      "confidence": 0.8402
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

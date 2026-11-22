@@ -1,0 +1,169 @@
+{
+  "total_pairs": 275,
+  "valid_pairs": 275,
+  "valid_checked_pairs": 275,
+  "error_pairs": 8,
+  "num_error_pairs": 8,
+  "clean_pairs": 267,
+  "error_rate": 0.029091,
+  "passes_acceptance_threshold": true,
+  "passes_threshold_30pct": true,
+  "passes_internal_target": true,
+  "passes_target_20pct": true,
+  "is_valid": true,
+  "error_counts_by_type": {
+    "MISSING": 0,
+    "OMISSION": 8,
+    "ADDITION": 0,
+    "FORMAT_ERROR": 0,
+    "LEFTOVER_MARKER": 0,
+    "NUMBER_MISMATCH": 0
+  },
+  "error_breakdown": {
+    "MISSING": 0,
+    "OMISSION": 8,
+    "ADDITION": 0,
+    "FORMAT_ERROR": 0,
+    "LEFTOVER_MARKER": 0,
+    "NUMBER_MISMATCH": 0
+  },
+  "missing_count": 0,
+  "omission_count": 8,
+  "addition_count": 0,
+  "format_error_count": 0,
+  "leftover_marker_count": 0,
+  "number_mismatch_count": 0,
+  "issues": [
+    {
+      "row_index": 26,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
+      "han": "慘不畏明，糾之以猛也",
+      "viet": "Không xong sẽ dùng sức mạnh"
+    },
+    {
+      "row_index": 55,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "民之有口也，",
+      "viet": "Dân có miệng"
+    },
+    {
+      "row_index": 119,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.50 < 0.7 (3 Viet words / 6 Han chars).",
+      "han": "王忿然作色，曰：",
+      "viet": "Vua giận, nói"
+    },
+    {
+      "row_index": 159,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
+      "han": "故有聞舍本而聞末者耶",
+      "viet": "Nên bỏ gọc mà hỏi ngọn"
+    },
+    {
+      "row_index": 175,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.43 < 0.7 (3 Viet words / 7 Han chars).",
+      "han": "而出於孝情者也",
+      "viet": "hiều cho dân"
+    },
+    {
+      "row_index": 182,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
+      "han": "此率民而出於無用者",
+      "viet": "Thiệt là đồ vô dụng"
+    },
+    {
+      "row_index": 228,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.64 < 0.7 (7 Viet words / 11 Han chars).",
+      "han": "吁嗟默默兮，誰知吾之廉貞",
+      "viet": "Buồn thay, ai biết ta liêm-trinh"
+    },
+    {
+      "row_index": 253,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "墮而折其髀",
+      "viet": "té gẫy đùi."
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    {
+      "row_index": 26,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
+      "han": "慘不畏明，糾之以猛也",
+      "viet": "Không xong sẽ dùng sức mạnh"
+    },
+    {
+      "row_index": 55,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "民之有口也，",
+      "viet": "Dân có miệng"
+    },
+    {
+      "row_index": 119,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.50 < 0.7 (3 Viet words / 6 Han chars).",
+      "han": "王忿然作色，曰：",
+      "viet": "Vua giận, nói"
+    },
+    {
+      "row_index": 159,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
+      "han": "故有聞舍本而聞末者耶",
+      "viet": "Nên bỏ gọc mà hỏi ngọn"
+    },
+    {
+      "row_index": 175,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.43 < 0.7 (3 Viet words / 7 Han chars).",
+      "han": "而出於孝情者也",
+      "viet": "hiều cho dân"
+    },
+    {
+      "row_index": 182,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
+      "han": "此率民而出於無用者",
+      "viet": "Thiệt là đồ vô dụng"
+    },
+    {
+      "row_index": 228,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.64 < 0.7 (7 Viet words / 11 Han chars).",
+      "han": "吁嗟默默兮，誰知吾之廉貞",
+      "viet": "Buồn thay, ai biết ta liêm-trinh"
+    },
+    {
+      "row_index": 253,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "墮而折其髀",
+      "viet": "té gẫy đùi."
+    }
+  ]
+}

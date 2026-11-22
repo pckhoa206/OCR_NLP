@@ -1,0 +1,2043 @@
+{
+  "page_id": "0082",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 82,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0082_viet_000",
+      "bbox": [
+        [
+          181,
+          76
+        ],
+        [
+          332,
+          76
+        ],
+        [
+          332,
+          114
+        ],
+        [
+          181,
+          114
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          231
+        ],
+        [
+          332,
+          231
+        ],
+        [
+          332,
+          269
+        ],
+        [
+          181,
+          269
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        76,
+        332,
+        114
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0082_viet_001",
+      "bbox": [
+        [
+          649,
+          126
+        ],
+        [
+          944,
+          126
+        ],
+        [
+          944,
+          165
+        ],
+        [
+          649,
+          165
+        ]
+      ],
+      "bbox_original": [
+        [
+          649,
+          281
+        ],
+        [
+          944,
+          281
+        ],
+        [
+          944,
+          320
+        ],
+        [
+          649,
+          320
+        ]
+      ],
+      "box_xyxy": [
+        649,
+        126,
+        944,
+        165
+      ],
+      "text": "NIỆM PHẬT LUẬN",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0082_viet_002",
+      "bbox": [
+        [
+          272,
+          199
+        ],
+        [
+          1415,
+          204
+        ],
+        [
+          1415,
+          245
+        ],
+        [
+          272,
+          240
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          354
+        ],
+        [
+          1415,
+          359
+        ],
+        [
+          1415,
+          400
+        ],
+        [
+          272,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        199,
+        1415,
+        245
+      ],
+      "text": "Phù niệm Phật giả, do tâm sở khởi, Tâm khởi ư iniện lắc vì thiện niệm",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0082_viet_003",
+      "bbox": [
+        [
+          179,
+          238
+        ],
+        [
+          1413,
+          244
+        ],
+        [
+          1413,
+          284
+        ],
+        [
+          179,
+          278
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          393
+        ],
+        [
+          1413,
+          399
+        ],
+        [
+          1413,
+          439
+        ],
+        [
+          179,
+          433
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        238,
+        1413,
+        284
+      ],
+      "text": "Thiên niệm chi khỏi tắc thiện nghiệp báo chi. Tâm khởi ứ ác tác vi ác niệm.",
+      "confidence": 0.8837
+    },
+    {
+      "line_id": "0082_viet_004",
+      "bbox": [
+        [
+          180,
+          278
+        ],
+        [
+          1414,
+          284
+        ],
+        [
+          1414,
+          324
+        ],
+        [
+          180,
+          318
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          433
+        ],
+        [
+          1414,
+          439
+        ],
+        [
+          1414,
+          479
+        ],
+        [
+          180,
+          473
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        278,
+        1414,
+        324
+      ],
+      "text": "Ác niệm chi sinh đắc ác, nghiệp ứng chì, Như kinh hiện, tượng, tự ảnh tùy",
+      "confidence": 0.8965
+    },
+    {
+      "line_id": "0082_viet_005",
+      "bbox": [
+        [
+          182,
+          318
+        ],
+        [
+          1413,
+          324
+        ],
+        [
+          1413,
+          361
+        ],
+        [
+          182,
+          355
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          473
+        ],
+        [
+          1413,
+          479
+        ],
+        [
+          1413,
+          516
+        ],
+        [
+          182,
+          510
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        318,
+        1413,
+        361
+      ],
+      "text": "hình, có vĩnh gia, thiên sự hữu vân, Thùy, vò niệm, thùy. vộ sinh, Thứ chi. vị",
+      "confidence": 0.8598
+    },
+    {
+      "line_id": "0082_viet_006",
+      "bbox": [
+        [
+          181,
+          356
+        ],
+        [
+          1415,
+          362
+        ],
+        [
+          1415,
+          403
+        ],
+        [
+          181,
+          396
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          511
+        ],
+        [
+          1415,
+          517
+        ],
+        [
+          1415,
+          558
+        ],
+        [
+          181,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        356,
+        1415,
+        403
+      ],
+      "text": "dã. Kim bọc giả dục khởi chính niệm dĩ tức tam nghiệp giá, điệc gia niệm Phật",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0082_viet_007",
+      "bbox": [
+        [
+          180,
+          395
+        ],
+        [
+          1021,
+          399
+        ],
+        [
+          1020,
+          440
+        ],
+        [
+          180,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          550
+        ],
+        [
+          1021,
+          554
+        ],
+        [
+          1020,
+          595
+        ],
+        [
+          180,
+          592
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        395,
+        1021,
+        440
+      ],
+      "text": "chi công dã. Vân hà niệm Phát đắc tức tam nghiệp ?",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0082_viet_008",
+      "bbox": [
+        [
+          274,
+          447
+        ],
+        [
+          1413,
+          453
+        ],
+        [
+          1413,
+          490
+        ],
+        [
+          274,
+          484
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          602
+        ],
+        [
+          1413,
+          608
+        ],
+        [
+          1413,
+          645
+        ],
+        [
+          274,
+          639
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        447,
+        1413,
+        490
+      ],
+      "text": "U niệm Phạt tbi chính thân đoan toa, bắt hành tà hạnh, thị tức thân",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0082_viet_009",
+      "bbox": [
+        [
+          181,
+          489
+        ],
+        [
+          1414,
+          493
+        ],
+        [
+          1414,
+          530
+        ],
+        [
+          181,
+          526
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          644
+        ],
+        [
+          1414,
+          648
+        ],
+        [
+          1414,
+          685
+        ],
+        [
+          181,
+          681
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        489,
+        1414,
+        530
+      ],
+      "text": "nghiệp dã. Khẩu tụng chân ngôn, bất đạo ta ngữ, thị, tức khầu: nghiệp, dã, Ý",
+      "confidence": 0.8887
+    },
+    {
+      "line_id": "0082_viet_010",
+      "bbox": [
+        [
+          179,
+          525
+        ],
+        [
+          1416,
+          531
+        ],
+        [
+          1416,
+          571
+        ],
+        [
+          179,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          680
+        ],
+        [
+          1416,
+          686
+        ],
+        [
+          1416,
+          726
+        ],
+        [
+          179,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        525,
+        1416,
+        571
+      ],
+      "text": "tồn tinh tiến, bất khởi ta niệm, thi tức ý nghiệp dâ. Nhiên tri giả hữu tam.",
+      "confidence": 0.8762
+    },
+    {
+      "line_id": "0082_viet_011",
+      "bbox": [
+        [
+          180,
+          564
+        ],
+        [
+          1415,
+          570
+        ],
+        [
+          1415,
+          610
+        ],
+        [
+          180,
+          604
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          719
+        ],
+        [
+          1415,
+          725
+        ],
+        [
+          1415,
+          765
+        ],
+        [
+          180,
+          759
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        564,
+        1415,
+        610
+      ],
+      "text": "Thượng trì giả: tành tức thị Phài, bất giả tư thiêm, Niệm tức thi trầu, bát dụng",
+      "confidence": 0.8951
+    },
+    {
+      "line_id": "0082_viet_012",
+      "bbox": [
+        [
+          181,
+          602
+        ],
+        [
+          1415,
+          608
+        ],
+        [
+          1415,
+          649
+        ],
+        [
+          181,
+          642
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          757
+        ],
+        [
+          1415,
+          763
+        ],
+        [
+          1415,
+          804
+        ],
+        [
+          181,
+          797
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        602,
+        1415,
+        649
+      ],
+      "text": "nhất điềm. Trận niệm bản tịnh, có viết như như bất động, tức thị Phật thần",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0082_viet_013",
+      "bbox": [
+        [
+          180,
+          641
+        ],
+        [
+          1412,
+          649
+        ],
+        [
+          1412,
+          689
+        ],
+        [
+          180,
+          682
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          796
+        ],
+        [
+          1412,
+          804
+        ],
+        [
+          1412,
+          844
+        ],
+        [
+          180,
+          837
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        641,
+        1412,
+        689
+      ],
+      "text": "Phật thân tức ngã thàn thì, vò hữu nhị tướng, tướng tướng vô nhị, tích, nhiên",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0082_viet_014",
+      "bbox": [
+        [
+          178,
+          682
+        ],
+        [
+          896,
+          684
+        ],
+        [
+          896,
+          724
+        ],
+        [
+          178,
+          722
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          837
+        ],
+        [
+          896,
+          839
+        ],
+        [
+          896,
+          879
+        ],
+        [
+          178,
+          877
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        682,
+        896,
+        724
+      ],
+      "text": "thường tôn, tôn nhi bắt trì, thị vi, hoạt Phật",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0082_viet_015",
+      "bbox": [
+        [
+          273,
+          731
+        ],
+        [
+          1416,
+          736
+        ],
+        [
+          1416,
+          777
+        ],
+        [
+          273,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          886
+        ],
+        [
+          1416,
+          891
+        ],
+        [
+          1416,
+          932
+        ],
+        [
+          273,
+          927
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        731,
+        1416,
+        777
+      ],
+      "text": "Trung irí giá, tát tạ niệm: Phật, chủ y tỉnh cần, niệm niệm bất vong, tự",
+      "confidence": 0.8876
+    },
+    {
+      "line_id": "0082_viet_016",
+      "bbox": [
+        [
+          180,
+          772
+        ],
+        [
+          1415,
+          778
+        ],
+        [
+          1415,
+          816
+        ],
+        [
+          180,
+          810
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          927
+        ],
+        [
+          1415,
+          933
+        ],
+        [
+          1415,
+          971
+        ],
+        [
+          180,
+          965
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        772,
+        1415,
+        816
+      ],
+      "text": "tàm thuần thiện, Thiện niệm ký hiện, ác việm tiện tiêu, ác niệm ký tiêu, duy",
+      "confidence": 0.9017
+    },
+    {
+      "line_id": "0082_viet_017",
+      "bbox": [
+        [
+          180,
+          811
+        ],
+        [
+          1416,
+          816
+        ],
+        [
+          1416,
+          854
+        ],
+        [
+          180,
+          849
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          966
+        ],
+        [
+          1416,
+          971
+        ],
+        [
+          1416,
+          1009
+        ],
+        [
+          180,
+          1004
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        811,
+        1416,
+        854
+      ],
+      "text": "tòn thiện niệm, Dĩ niệm y niệm, niệm hiệm diệt chi. Niệm điệt chi thì, tất",
+      "confidence": 0.8917
+    },
+    {
+      "line_id": "0082_viet_018",
+      "bbox": [
+        [
+          176,
+          848
+        ],
+        [
+          1415,
+          853
+        ],
+        [
+          1415,
+          898
+        ],
+        [
+          176,
+          892
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1003
+        ],
+        [
+          1415,
+          1008
+        ],
+        [
+          1415,
+          1053
+        ],
+        [
+          176,
+          1047
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        848,
+        1415,
+        898
+      ],
+      "text": "quy chính đạo, Mệnh chung chi thì, đắc niết-bàn lạc, Thường lạc, ngã tịnh,",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0082_viet_019",
+      "bbox": [
+        [
+          182,
+          889
+        ],
+        [
+          442,
+          892
+        ],
+        [
+          442,
+          930
+        ],
+        [
+          182,
+          928
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1044
+        ],
+        [
+          442,
+          1047
+        ],
+        [
+          442,
+          1085
+        ],
+        [
+          182,
+          1083
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        889,
+        442,
+        930
+      ],
+      "text": "Phật chi đạo dã.",
+      "confidence": 0.889
+    },
+    {
+      "line_id": "0082_viet_020",
+      "bbox": [
+        [
+          271,
+          941
+        ],
+        [
+          1414,
+          946
+        ],
+        [
+          1414,
+          987
+        ],
+        [
+          271,
+          982
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          1096
+        ],
+        [
+          1414,
+          1101
+        ],
+        [
+          1414,
+          1142
+        ],
+        [
+          271,
+          1137
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        941,
+        1414,
+        987
+      ],
+      "text": "Hạ trí già, khầu cần niệm phật ngữ, tâm dục kiến Phật tưởng. thân",
+      "confidence": 0.8756
+    },
+    {
+      "line_id": "0082_viet_021",
+      "bbox": [
+        [
+          179,
+          982
+        ],
+        [
+          1415,
+          987
+        ],
+        [
+          1415,
+          1027
+        ],
+        [
+          179,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1137
+        ],
+        [
+          1415,
+          1142
+        ],
+        [
+          1415,
+          1182
+        ],
+        [
+          179,
+          1177
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        982,
+        1415,
+        1027
+      ],
+      "text": "nguyện sinh Phật quốc, trú dạ cần tù, vỏ hữu thoái chuyển, Mệnh chung chi",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0082_viet_022",
+      "bbox": [
+        [
+          181,
+          1023
+        ],
+        [
+          1415,
+          1027
+        ],
+        [
+          1415,
+          1064
+        ],
+        [
+          181,
+          1060
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1178
+        ],
+        [
+          1415,
+          1182
+        ],
+        [
+          1415,
+          1219
+        ],
+        [
+          181,
+          1215
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1023,
+        1415,
+        1064
+      ],
+      "text": "bàu, tùy kỳ thiện niệm đắc sinh Phật quốc; bậu đắc chư Phải sở tuyên chính",
+      "confidence": 0.8919
+    },
+    {
+      "line_id": "0082_viet_023",
+      "bbox": [
+        [
+          181,
+          1058
+        ],
+        [
+          872,
+          1062
+        ],
+        [
+          871,
+          1103
+        ],
+        [
+          181,
+          1099
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1213
+        ],
+        [
+          872,
+          1217
+        ],
+        [
+          871,
+          1258
+        ],
+        [
+          181,
+          1254
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1058,
+        872,
+        1103
+      ],
+      "text": "pháp, chứng đắc bồ-đề, diệc nhập Phật quả.",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0082_viet_024",
+      "bbox": [
+        [
+          273,
+          1106
+        ],
+        [
+          1415,
+          1112
+        ],
+        [
+          1415,
+          1157
+        ],
+        [
+          273,
+          1150
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1261
+        ],
+        [
+          1415,
+          1267
+        ],
+        [
+          1415,
+          1312
+        ],
+        [
+          273,
+          1305
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        1106,
+        1415,
+        1157
+      ],
+      "text": "Tam giả thâm thiên bất đồng, sở đắc nhất đã: Nhiên thường trí giả, ngôn",
+      "confidence": 0.8944
+    },
+    {
+      "line_id": "0082_viet_025",
+      "bbox": [
+        [
+          181,
+          1148
+        ],
+        [
+          1415,
+          1156
+        ],
+        [
+          1415,
+          1194
+        ],
+        [
+          181,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1303
+        ],
+        [
+          1415,
+          1311
+        ],
+        [
+          1415,
+          1349
+        ],
+        [
+          181,
+          1342
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1148,
+        1415,
+        1194
+      ],
+      "text": "chi tắc đị, hành chỉ tắc nan. Kim thế chỉ nhấn dực xũ nhi học gia, khong vô",
+      "confidence": 0.8797
+    },
+    {
+      "line_id": "0082_viet_026",
+      "bbox": [
+        [
+          181,
+          1189
+        ],
+        [
+          1415,
+          1196
+        ],
+        [
+          1415,
+          1233
+        ],
+        [
+          181,
+          1226
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1344
+        ],
+        [
+          1415,
+          1351
+        ],
+        [
+          1415,
+          1388
+        ],
+        [
+          181,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1189,
+        1415,
+        1233
+      ],
+      "text": "thê thác, lậu vọng nhai nêi thoài, vựu nam thổ túc dã, Trung in, giả nhược",
+      "confidence": 0.8647
+    },
+    {
+      "line_id": "0082_viet_027",
+      "bbox": [
+        [
+          179,
+          1229
+        ],
+        [
+          1415,
+          1234
+        ],
+        [
+          1415,
+          1271
+        ],
+        [
+          179,
+          1266
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1384
+        ],
+        [
+          1415,
+          1389
+        ],
+        [
+          1415,
+          1426
+        ],
+        [
+          179,
+          1421
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1229,
+        1415,
+        1271
+      ],
+      "text": "năng cần tu như thượng chỉ thuyết, các lập địa nhi thành Phật, Như lậu vị tân",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0082_viet_028",
+      "bbox": [
+        [
+          178,
+          1266
+        ],
+        [
+          1414,
+          1272
+        ],
+        [
+          1414,
+          1313
+        ],
+        [
+          178,
+          1307
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1421
+        ],
+        [
+          1414,
+          1427
+        ],
+        [
+          1414,
+          1468
+        ],
+        [
+          178,
+          1462
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1266,
+        1414,
+        1313
+      ],
+      "text": "nhi chung chì, juy kv quả ứng, hoàn sinh vu thế, thu kỳ thiện bảo, Thiện báo",
+      "confidence": 0.8977
+    },
+    {
+      "line_id": "0082_viet_029",
+      "bbox": [
+        [
+          179,
+          1305
+        ],
+        [
+          1414,
+          1310
+        ],
+        [
+          1414,
+          1350
+        ],
+        [
+          179,
+          1345
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1460
+        ],
+        [
+          1414,
+          1465
+        ],
+        [
+          1414,
+          1505
+        ],
+        [
+          179,
+          1500
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1305,
+        1414,
+        1350
+      ],
+      "text": "ký tận, vô nhân cảnh ngô, hoàn lạc ác thứ, như thứ chi, giả, điệc vị nấu đã",
+      "confidence": 0.8334
+    },
+    {
+      "line_id": "0082_viet_030",
+      "bbox": [
+        [
+          179,
+          1343
+        ],
+        [
+          1416,
+          1351
+        ],
+        [
+          1416,
+          1391
+        ],
+        [
+          179,
+          1383
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1498
+        ],
+        [
+          1416,
+          1506
+        ],
+        [
+          1416,
+          1546
+        ],
+        [
+          179,
+          1538
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1343,
+        1416,
+        1391
+      ],
+      "text": "Hạ trí gia, dĩ niệu vì giai, đi, tỉnh tiền vì thế, chủ y thiện, duyên, nguyện sinh",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0082_viet_031",
+      "bbox": [
+        [
+          179,
+          1382
+        ],
+        [
+          1417,
+          1389
+        ],
+        [
+          1417,
+          1431
+        ],
+        [
+          179,
+          1423
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1537
+        ],
+        [
+          1417,
+          1544
+        ],
+        [
+          1417,
+          1586
+        ],
+        [
+          179,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1382,
+        1417,
+        1431
+      ],
+      "text": "Phật quốc, càn nhi bãi đãi, làm linh thuần thục, Mệnh chung chi lần, tùy y sở",
+      "confidence": 0.8765
+    },
+    {
+      "line_id": "0082_viet_032",
+      "bbox": [
+        [
+          179,
+          1423
+        ],
+        [
+          1414,
+          1429
+        ],
+        [
+          1414,
+          1469
+        ],
+        [
+          179,
+          1464
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1578
+        ],
+        [
+          1414,
+          1584
+        ],
+        [
+          1414,
+          1624
+        ],
+        [
+          179,
+          1619
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1423,
+        1414,
+        1469
+      ],
+      "text": "nguyện, đắc sinh Phật quốc, Kỳ sinh: Phải quốc, ír kỳ thàn giả hà thất còi hữu",
+      "confidence": 0.8597
+    },
+    {
+      "line_id": "0082_viet_033",
+      "bbox": [
+        [
+          271,
+          1473
+        ],
+        [
+          1416,
+          1477
+        ],
+        [
+          1416,
+          1518
+        ],
+        [
+          271,
+          1514
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          1628
+        ],
+        [
+          1416,
+          1632
+        ],
+        [
+          1416,
+          1673
+        ],
+        [
+          271,
+          1669
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        1473,
+        1416,
+        1518
+      ],
+      "text": "Kim chỉ học giải - kỳ thụ nhân thần, tam nghiệp tinh hữu, nhi bái di",
+      "confidence": 0.8564
+    },
+    {
+      "line_id": "0082_viet_034",
+      "bbox": [
+        [
+          180,
+          1514
+        ],
+        [
+          1416,
+          1519
+        ],
+        [
+          1416,
+          1557
+        ],
+        [
+          180,
+          1552
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1669
+        ],
+        [
+          1416,
+          1674
+        ],
+        [
+          1416,
+          1712
+        ],
+        [
+          180,
+          1707
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1514,
+        1416,
+        1557
+      ],
+      "text": "niệm, Phật cầu, sinh, Phật quốc giả, bất diệc nan hồ 7 Như dục niệm, Phật, tức",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0082_viet_035",
+      "bbox": [
+        [
+          178,
+          1551
+        ],
+        [
+          1416,
+          1557
+        ],
+        [
+          1416,
+          1597
+        ],
+        [
+          178,
+          1591
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1706
+        ],
+        [
+          1416,
+          1712
+        ],
+        [
+          1416,
+          1752
+        ],
+        [
+          178,
+          1746
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1551,
+        1416,
+        1597
+      ],
+      "text": "dĩ hạ trị ví tiên, Ila giả 7 Vị hữu chủ y có dà. Thì như tác lam tổng cài đài",
+      "confidence": 0.8594
+    },
+    {
+      "line_id": "0082_viet_036",
+      "bbox": [
+        [
+          181,
+          1590
+        ],
+        [
+          820,
+          1594
+        ],
+        [
+          820,
+          1634
+        ],
+        [
+          181,
+          1630
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1745
+        ],
+        [
+          820,
+          1749
+        ],
+        [
+          820,
+          1789
+        ],
+        [
+          181,
+          1785
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1590,
+        820,
+        1634
+      ],
+      "text": "nhi bất dĩ hạ tăng vi tiên, vị chi hữu đã",
+      "confidence": 0.8839
+    },
+    {
+      "line_id": "0082_viet_037",
+      "bbox": [
+        [
+          181,
+          1678
+        ],
+        [
+          377,
+          1678
+        ],
+        [
+          377,
+          1716
+        ],
+        [
+          181,
+          1716
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1833
+        ],
+        [
+          377,
+          1833
+        ],
+        [
+          377,
+          1871
+        ],
+        [
+          181,
+          1871
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1678,
+        377,
+        1716
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0082_viet_038",
+      "bbox": [
+        [
+          636,
+          1724
+        ],
+        [
+          960,
+          1726
+        ],
+        [
+          960,
+          1764
+        ],
+        [
+          636,
+          1762
+        ]
+      ],
+      "bbox_original": [
+        [
+          636,
+          1879
+        ],
+        [
+          960,
+          1881
+        ],
+        [
+          960,
+          1919
+        ],
+        [
+          636,
+          1917
+        ]
+      ],
+      "box_xyxy": [
+        636,
+        1724,
+        960,
+        1764
+      ],
+      "text": "BAN VỀ NIỆM PHẤT",
+      "confidence": 0.9018
+    },
+    {
+      "line_id": "0082_viet_039",
+      "bbox": [
+        [
+          272,
+          1798
+        ],
+        [
+          1413,
+          1803
+        ],
+        [
+          1413,
+          1841
+        ],
+        [
+          272,
+          1836
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1953
+        ],
+        [
+          1413,
+          1958
+        ],
+        [
+          1413,
+          1996
+        ],
+        [
+          272,
+          1991
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1798,
+        1413,
+        1841
+      ],
+      "text": "Niệm Phật là diệu khởi dày do tâm. Tâm khởi dày diều thiệu tức là ý",
+      "confidence": 0.8808
+    },
+    {
+      "line_id": "0082_viet_040",
+      "bbox": [
+        [
+          178,
+          1836
+        ],
+        [
+          1414,
+          1842
+        ],
+        [
+          1414,
+          1882
+        ],
+        [
+          178,
+          1876
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1991
+        ],
+        [
+          1414,
+          1997
+        ],
+        [
+          1414,
+          2037
+        ],
+        [
+          178,
+          2031
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1836,
+        1414,
+        1882
+      ],
+      "text": "nghĩ thiện. Y nghĩ thiện khởi đậy thì thiện nghiệp () bảo lại. Tâm khởi dây",
+      "confidence": 0.8794
+    },
+    {
+      "line_id": "0082_viet_041",
+      "bbox": [
+        [
+          175,
+          1873
+        ],
+        [
+          1416,
+          1880
+        ],
+        [
+          1416,
+          1924
+        ],
+        [
+          175,
+          1916
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          2028
+        ],
+        [
+          1416,
+          2035
+        ],
+        [
+          1416,
+          2079
+        ],
+        [
+          175,
+          2071
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1873,
+        1416,
+        1924
+      ],
+      "text": "diều ác tức lữ y nghĩ các. Ý nghĩ ác này sinh thì ác nghiệp (?) ứng theo. Như",
+      "confidence": 0.8683
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "NIỆM PHẬT LUẬN",
+      "Phù niệm Phật giả, do tâm sở khởi, Tâm khởi ư iniện lắc vì thiện niệm",
+      "Thiên niệm chi khỏi tắc thiện nghiệp báo chi. Tâm khởi ứ ác tác vi ác niệm.",
+      "Ác niệm chi sinh đắc ác, nghiệp ứng chì, Như kinh hiện, tượng, tự ảnh tùy",
+      "hình, có vĩnh gia, thiên sự hữu vân, Thùy, vò niệm, thùy. vộ sinh, Thứ chi. vị",
+      "dã. Kim bọc giả dục khởi chính niệm dĩ tức tam nghiệp giá, điệc gia niệm Phật",
+      "chi công dã. Vân hà niệm Phát đắc tức tam nghiệp ?",
+      "U niệm Phạt tbi chính thân đoan toa, bắt hành tà hạnh, thị tức thân",
+      "nghiệp dã. Khẩu tụng chân ngôn, bất đạo ta ngữ, thị, tức khầu: nghiệp, dã, Ý",
+      "tồn tinh tiến, bất khởi ta niệm, thi tức ý nghiệp dâ. Nhiên tri giả hữu tam.",
+      "Thượng trì giả: tành tức thị Phài, bất giả tư thiêm, Niệm tức thi trầu, bát dụng",
+      "nhất điềm. Trận niệm bản tịnh, có viết như như bất động, tức thị Phật thần",
+      "Phật thân tức ngã thàn thì, vò hữu nhị tướng, tướng tướng vô nhị, tích, nhiên",
+      "thường tôn, tôn nhi bắt trì, thị vi, hoạt Phật",
+      "Trung irí giá, tát tạ niệm: Phật, chủ y tỉnh cần, niệm niệm bất vong, tự",
+      "tàm thuần thiện, Thiện niệm ký hiện, ác việm tiện tiêu, ác niệm ký tiêu, duy",
+      "tòn thiện niệm, Dĩ niệm y niệm, niệm hiệm diệt chi. Niệm điệt chi thì, tất",
+      "quy chính đạo, Mệnh chung chi thì, đắc niết-bàn lạc, Thường lạc, ngã tịnh,",
+      "Phật chi đạo dã.",
+      "Hạ trí già, khầu cần niệm phật ngữ, tâm dục kiến Phật tưởng. thân",
+      "nguyện sinh Phật quốc, trú dạ cần tù, vỏ hữu thoái chuyển, Mệnh chung chi",
+      "bàu, tùy kỳ thiện niệm đắc sinh Phật quốc; bậu đắc chư Phải sở tuyên chính",
+      "pháp, chứng đắc bồ-đề, diệc nhập Phật quả.",
+      "Tam giả thâm thiên bất đồng, sở đắc nhất đã: Nhiên thường trí giả, ngôn",
+      "chi tắc đị, hành chỉ tắc nan. Kim thế chỉ nhấn dực xũ nhi học gia, khong vô",
+      "thê thác, lậu vọng nhai nêi thoài, vựu nam thổ túc dã, Trung in, giả nhược",
+      "năng cần tu như thượng chỉ thuyết, các lập địa nhi thành Phật, Như lậu vị tân",
+      "nhi chung chì, juy kv quả ứng, hoàn sinh vu thế, thu kỳ thiện bảo, Thiện báo",
+      "ký tận, vô nhân cảnh ngô, hoàn lạc ác thứ, như thứ chi, giả, điệc vị nấu đã",
+      "Hạ trí gia, dĩ niệu vì giai, đi, tỉnh tiền vì thế, chủ y thiện, duyên, nguyện sinh",
+      "Phật quốc, càn nhi bãi đãi, làm linh thuần thục, Mệnh chung chi lần, tùy y sở",
+      "nguyện, đắc sinh Phật quốc, Kỳ sinh: Phải quốc, ír kỳ thàn giả hà thất còi hữu",
+      "Kim chỉ học giải - kỳ thụ nhân thần, tam nghiệp tinh hữu, nhi bái di",
+      "niệm, Phật cầu, sinh, Phật quốc giả, bất diệc nan hồ 7 Như dục niệm, Phật, tức",
+      "dĩ hạ trị ví tiên, Ila giả 7 Vị hữu chủ y có dà. Thì như tác lam tổng cài đài",
+      "nhi bất dĩ hạ tăng vi tiên, vị chi hữu đã"
+    ],
+    "dich_nghia_lines": [
+      "BAN VỀ NIỆM PHẤT",
+      "Niệm Phật là diệu khởi dày do tâm. Tâm khởi dày diều thiệu tức là ý",
+      "nghĩ thiện. Y nghĩ thiện khởi đậy thì thiện nghiệp () bảo lại. Tâm khởi dây",
+      "diều ác tức lữ y nghĩ các. Ý nghĩ ác này sinh thì ác nghiệp (?) ứng theo. Như"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,987 @@
+{
+  "page_id": "0030",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 30,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0030_viet_000",
+      "bbox": [
+        [
+          189,
+          26
+        ],
+        [
+          236,
+          29
+        ],
+        [
+          233,
+          67
+        ],
+        [
+          186,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          147
+        ],
+        [
+          236,
+          150
+        ],
+        [
+          233,
+          188
+        ],
+        [
+          186,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        26,
+        236,
+        67
+      ],
+      "text": "24",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0030_viet_001",
+      "bbox": [
+        [
+          663,
+          30
+        ],
+        [
+          991,
+          30
+        ],
+        [
+          991,
+          61
+        ],
+        [
+          663,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          151
+        ],
+        [
+          991,
+          151
+        ],
+        [
+          991,
+          182
+        ],
+        [
+          663,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        30,
+        991,
+        61
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0030_viet_002",
+      "bbox": [
+        [
+          229,
+          183
+        ],
+        [
+          766,
+          183
+        ],
+        [
+          766,
+          217
+        ],
+        [
+          229,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          304
+        ],
+        [
+          766,
+          304
+        ],
+        [
+          766,
+          338
+        ],
+        [
+          229,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        183,
+        766,
+        217
+      ],
+      "text": "Thúc-Hướng kiến hàn tuyên-tử.",
+      "confidence": 0.867
+    },
+    {
+      "line_id": "0030_viet_003",
+      "bbox": [
+        [
+          251,
+          229
+        ],
+        [
+          750,
+          229
+        ],
+        [
+          750,
+          266
+        ],
+        [
+          251,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          350
+        ],
+        [
+          750,
+          350
+        ],
+        [
+          750,
+          387
+        ],
+        [
+          251,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        229,
+        750,
+        266
+      ],
+      "text": "Thúc-Hướng thăm hàn tuyên-tử",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0030_viet_004",
+      "bbox": [
+        [
+          227,
+          340
+        ],
+        [
+          855,
+          342
+        ],
+        [
+          855,
+          382
+        ],
+        [
+          227,
+          381
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          461
+        ],
+        [
+          855,
+          463
+        ],
+        [
+          855,
+          503
+        ],
+        [
+          227,
+          502
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        340,
+        855,
+        382
+      ],
+      "text": "Tuyên-tử ưu bần, Thúc-Hướng hạ chi.",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0030_viet_005",
+      "bbox": [
+        [
+          249,
+          388
+        ],
+        [
+          943,
+          390
+        ],
+        [
+          943,
+          430
+        ],
+        [
+          249,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          509
+        ],
+        [
+          943,
+          511
+        ],
+        [
+          943,
+          551
+        ],
+        [
+          249,
+          549
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        388,
+        943,
+        430
+      ],
+      "text": "Tuyên-tử lo nghèo, Thúc-Hướng ngỏ lời mừng",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0030_viet_006",
+      "bbox": [
+        [
+          226,
+          504
+        ],
+        [
+          887,
+          503
+        ],
+        [
+          887,
+          540
+        ],
+        [
+          226,
+          541
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          625
+        ],
+        [
+          887,
+          624
+        ],
+        [
+          887,
+          661
+        ],
+        [
+          226,
+          662
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        503,
+        887,
+        541
+      ],
+      "text": "Tuyên-tử viết: ngô hữu khanh chi danh",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0030_viet_007",
+      "bbox": [
+        [
+          249,
+          549
+        ],
+        [
+          868,
+          550
+        ],
+        [
+          868,
+          591
+        ],
+        [
+          249,
+          590
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          670
+        ],
+        [
+          868,
+          671
+        ],
+        [
+          868,
+          712
+        ],
+        [
+          249,
+          711
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        549,
+        868,
+        591
+      ],
+      "text": "Tuyên-tử nói: ta có danh là khanh-tướng",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0030_viet_008",
+      "bbox": [
+        [
+          225,
+          667
+        ],
+        [
+          883,
+          666
+        ],
+        [
+          883,
+          703
+        ],
+        [
+          225,
+          704
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          788
+        ],
+        [
+          883,
+          787
+        ],
+        [
+          883,
+          824
+        ],
+        [
+          225,
+          825
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        666,
+        883,
+        704
+      ],
+      "text": "nhi vô kỳ thực, vô dĩ tòng nhị tam tử",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0030_viet_009",
+      "bbox": [
+        [
+          249,
+          713
+        ],
+        [
+          987,
+          713
+        ],
+        [
+          987,
+          753
+        ],
+        [
+          249,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          834
+        ],
+        [
+          987,
+          834
+        ],
+        [
+          987,
+          874
+        ],
+        [
+          249,
+          874
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        713,
+        987,
+        753
+      ],
+      "text": "nhưng không có thực, không lầy gì theo được bạn",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0030_viet_010",
+      "bbox": [
+        [
+          225,
+          828
+        ],
+        [
+          813,
+          827
+        ],
+        [
+          813,
+          865
+        ],
+        [
+          225,
+          866
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          949
+        ],
+        [
+          813,
+          948
+        ],
+        [
+          813,
+          986
+        ],
+        [
+          225,
+          987
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        827,
+        813,
+        866
+      ],
+      "text": "Ngô thị dĩ ưu. Tử hạ ngã, hà cõ ?",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0030_viet_011",
+      "bbox": [
+        [
+          249,
+          872
+        ],
+        [
+          812,
+          874
+        ],
+        [
+          812,
+          914
+        ],
+        [
+          249,
+          912
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          993
+        ],
+        [
+          812,
+          995
+        ],
+        [
+          812,
+          1035
+        ],
+        [
+          249,
+          1033
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        872,
+        812,
+        914
+      ],
+      "text": "Bởi thề nên lo. Bác mừng ta là lý gì ?",
+      "confidence": 0.9093
+    },
+    {
+      "line_id": "0030_viet_012",
+      "bbox": [
+        [
+          227,
+          990
+        ],
+        [
+          936,
+          990
+        ],
+        [
+          936,
+          1024
+        ],
+        [
+          227,
+          1024
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1111
+        ],
+        [
+          936,
+          1111
+        ],
+        [
+          936,
+          1145
+        ],
+        [
+          227,
+          1145
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        990,
+        936,
+        1024
+      ],
+      "text": "Viêt: Tích Loan-vũ-tử vô nhất tốt chi diền",
+      "confidence": 0.9018
+    },
+    {
+      "line_id": "0030_viet_013",
+      "bbox": [
+        [
+          249,
+          1037
+        ],
+        [
+          988,
+          1037
+        ],
+        [
+          988,
+          1074
+        ],
+        [
+          249,
+          1074
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1158
+        ],
+        [
+          988,
+          1158
+        ],
+        [
+          988,
+          1195
+        ],
+        [
+          249,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1037,
+        988,
+        1074
+      ],
+      "text": "Nói: Xưa Loan-vũ-tử ruộng không có đủ",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0030_viet_014",
+      "bbox": [
+        [
+          191,
+          1082
+        ],
+        [
+          365,
+          1082
+        ],
+        [
+          365,
+          1121
+        ],
+        [
+          191,
+          1121
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1203
+        ],
+        [
+          365,
+          1203
+        ],
+        [
+          365,
+          1242
+        ],
+        [
+          191,
+          1242
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1082,
+        365,
+        1121
+      ],
+      "text": "trăm người,",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0030_viet_015",
+      "bbox": [
+        [
+          225,
+          1199
+        ],
+        [
+          678,
+          1198
+        ],
+        [
+          678,
+          1236
+        ],
+        [
+          225,
+          1237
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1320
+        ],
+        [
+          678,
+          1319
+        ],
+        [
+          678,
+          1357
+        ],
+        [
+          225,
+          1358
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1198,
+        678,
+        1237
+      ],
+      "text": "kỳ quan bãt bị kỳ tông-khi",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0030_viet_016",
+      "bbox": [
+        [
+          247,
+          1246
+        ],
+        [
+          694,
+          1246
+        ],
+        [
+          694,
+          1287
+        ],
+        [
+          247,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1367
+        ],
+        [
+          694,
+          1367
+        ],
+        [
+          694,
+          1408
+        ],
+        [
+          247,
+          1408
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1246,
+        694,
+        1287
+      ],
+      "text": "lộc không đủ cúng tê cha mẹ",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0030_viet_017",
+      "bbox": [
+        [
+          228,
+          1364
+        ],
+        [
+          840,
+          1364
+        ],
+        [
+          840,
+          1401
+        ],
+        [
+          228,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1485
+        ],
+        [
+          840,
+          1485
+        ],
+        [
+          840,
+          1522
+        ],
+        [
+          228,
+          1522
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1364,
+        840,
+        1401
+      ],
+      "text": "Tuyên kỳ đức hạnh thuận kỳ hiễn tắc",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0030_viet_018",
+      "bbox": [
+        [
+          250,
+          1412
+        ],
+        [
+          943,
+          1412
+        ],
+        [
+          943,
+          1449
+        ],
+        [
+          250,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1533
+        ],
+        [
+          943,
+          1533
+        ],
+        [
+          943,
+          1570
+        ],
+        [
+          250,
+          1570
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1412,
+        943,
+        1449
+      ],
+      "text": "đức hạnh được tuyên dương, thuận phép nước",
+      "confidence": 0.936
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Thúc-Hướng kiến hàn tuyên-tử.",
+      "Tuyên-tử ưu bần, Thúc-Hướng hạ chi.",
+      "Tuyên-tử viết: ngô hữu khanh chi danh",
+      "nhi vô kỳ thực, vô dĩ tòng nhị tam tử",
+      "Ngô thị dĩ ưu. Tử hạ ngã, hà cõ ?",
+      "Viêt: Tích Loan-vũ-tử vô nhất tốt chi diền",
+      "kỳ quan bãt bị kỳ tông-khi",
+      "Tuyên kỳ đức hạnh thuận kỳ hiễn tắc"
+    ],
+    "dich_nghia_lines": [
+      "Thúc-Hướng thăm hàn tuyên-tử",
+      "Tuyên-tử lo nghèo, Thúc-Hướng ngỏ lời mừng",
+      "Tuyên-tử nói: ta có danh là khanh-tướng",
+      "nhưng không có thực, không lầy gì theo được bạn",
+      "Bởi thề nên lo. Bác mừng ta là lý gì ?",
+      "Nói: Xưa Loan-vũ-tử ruộng không có đủ trăm người,",
+      "lộc không đủ cúng tê cha mẹ",
+      "đức hạnh được tuyên dương, thuận phép nước"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "叔向見韓宣子",
+        "phien_am": "Thúc-Hướng kiến hàn tuyên-tử.",
+        "dich_nghia_gloss": "Thúc-Hướng thăm hàn tuyên-tử"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "宣子憂貧叔向賀之",
+        "phien_am": "Tuyên-tử ưu bần, Thúc-Hướng hạ chi.",
+        "dich_nghia_gloss": "Tuyên-tử lo nghèo, Thúc-Hướng ngỏ lời mừng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "宣子曰吾有卿之名",
+        "phien_am": "Tuyên-tử viết: ngô hữu khanh chi danh",
+        "dich_nghia_gloss": "Tuyên-tử nói: ta có danh là khanh-tướng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "而無其實無以從二三子",
+        "phien_am": "nhi vô kỳ thực, vô dĩ tòng nhị tam tử",
+        "dich_nghia_gloss": "nhưng không có thực, không lầy gì theo được bạn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾是以憂子賀我何故",
+        "phien_am": "Ngô thị dĩ ưu. Tử hạ ngã, hà cõ ?",
+        "dich_nghia_gloss": "Bởi thề nên lo. Bác mừng ta là lý gì ?"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "曰昔欒武子無一卒之田",
+        "phien_am": "Viêt: Tích Loan-vũ-tử vô nhất tốt chi diền",
+        "dich_nghia_gloss": "Nói: Xưa Loan-vũ-tử ruộng không có đủ trăm người,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "其官不備其宗器",
+        "phien_am": "kỳ quan bãt bị kỳ tông-khi",
+        "dich_nghia_gloss": "lộc không đủ cúng tê cha mẹ"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "宣其德行順其憲則",
+        "phien_am": "Tuyên kỳ đức hạnh thuận kỳ hiễn tắc",
+        "dich_nghia_gloss": "đức hạnh được tuyên dương, thuận phép nước"
+      }
+    ]
+  }
+}

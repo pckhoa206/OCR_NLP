@@ -1,0 +1,987 @@
+{
+  "page_id": "0036",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 36,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0036_viet_000",
+      "bbox": [
+        [
+          191,
+          26
+        ],
+        [
+          233,
+          26
+        ],
+        [
+          233,
+          61
+        ],
+        [
+          191,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          147
+        ],
+        [
+          233,
+          147
+        ],
+        [
+          233,
+          182
+        ],
+        [
+          191,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        26,
+        233,
+        61
+      ],
+      "text": "30",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0036_viet_001",
+      "bbox": [
+        [
+          666,
+          24
+        ],
+        [
+          989,
+          24
+        ],
+        [
+          989,
+          58
+        ],
+        [
+          666,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          145
+        ],
+        [
+          989,
+          145
+        ],
+        [
+          989,
+          179
+        ],
+        [
+          666,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        24,
+        989,
+        58
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0036_viet_002",
+      "bbox": [
+        [
+          229,
+          180
+        ],
+        [
+          661,
+          180
+        ],
+        [
+          661,
+          217
+        ],
+        [
+          229,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          301
+        ],
+        [
+          661,
+          301
+        ],
+        [
+          661,
+          338
+        ],
+        [
+          229,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        180,
+        661,
+        217
+      ],
+      "text": "tam khanh, kỳ sủng đại hì",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0036_viet_003",
+      "bbox": [
+        [
+          248,
+          222
+        ],
+        [
+          844,
+          225
+        ],
+        [
+          844,
+          266
+        ],
+        [
+          248,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          343
+        ],
+        [
+          844,
+          346
+        ],
+        [
+          844,
+          387
+        ],
+        [
+          248,
+          384
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        222,
+        844,
+        266
+      ],
+      "text": "ba làm quan khanh, vua yêu đã cực vậy",
+      "confidence": 0.9352
+    },
+    {
+      "line_id": "0036_viet_004",
+      "bbox": [
+        [
+          230,
+          345
+        ],
+        [
+          791,
+          348
+        ],
+        [
+          791,
+          386
+        ],
+        [
+          230,
+          384
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          466
+        ],
+        [
+          791,
+          469
+        ],
+        [
+          791,
+          507
+        ],
+        [
+          230,
+          505
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        345,
+        791,
+        386
+      ],
+      "text": "Nhất triêu nhi diệt, mạc chi ai dã",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0036_viet_005",
+      "bbox": [
+        [
+          253,
+          391
+        ],
+        [
+          796,
+          393
+        ],
+        [
+          796,
+          431
+        ],
+        [
+          253,
+          429
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          512
+        ],
+        [
+          796,
+          514
+        ],
+        [
+          796,
+          552
+        ],
+        [
+          253,
+          550
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        391,
+        796,
+        431
+      ],
+      "text": "một sớm diệt vong, không ai thương",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0036_viet_006",
+      "bbox": [
+        [
+          227,
+          513
+        ],
+        [
+          475,
+          511
+        ],
+        [
+          476,
+          549
+        ],
+        [
+          227,
+          552
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          634
+        ],
+        [
+          475,
+          632
+        ],
+        [
+          476,
+          670
+        ],
+        [
+          227,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        511,
+        476,
+        552
+      ],
+      "text": "duy vô đức dã.",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0036_viet_007",
+      "bbox": [
+        [
+          250,
+          554
+        ],
+        [
+          618,
+          558
+        ],
+        [
+          618,
+          599
+        ],
+        [
+          250,
+          595
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          675
+        ],
+        [
+          618,
+          679
+        ],
+        [
+          618,
+          720
+        ],
+        [
+          250,
+          716
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        554,
+        618,
+        599
+      ],
+      "text": "chỉ vì không có đức vậy",
+      "confidence": 0.936
+    },
+    {
+      "line_id": "0036_viet_008",
+      "bbox": [
+        [
+          232,
+          677
+        ],
+        [
+          851,
+          677
+        ],
+        [
+          851,
+          714
+        ],
+        [
+          232,
+          714
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          798
+        ],
+        [
+          851,
+          798
+        ],
+        [
+          851,
+          835
+        ],
+        [
+          232,
+          835
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        677,
+        851,
+        714
+      ],
+      "text": "Kim ngô tử hữu Loan-vũ-tử chi bần",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0036_viet_009",
+      "bbox": [
+        [
+          254,
+          721
+        ],
+        [
+          717,
+          721
+        ],
+        [
+          717,
+          758
+        ],
+        [
+          254,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          842
+        ],
+        [
+          717,
+          842
+        ],
+        [
+          717,
+          879
+        ],
+        [
+          254,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        721,
+        717,
+        758
+      ],
+      "text": "Nay bác nghèo như Loan-vũ-tử",
+      "confidence": 0.9286
+    },
+    {
+      "line_id": "0036_viet_010",
+      "bbox": [
+        [
+          232,
+          840
+        ],
+        [
+          824,
+          839
+        ],
+        [
+          824,
+          877
+        ],
+        [
+          232,
+          878
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          961
+        ],
+        [
+          824,
+          960
+        ],
+        [
+          824,
+          998
+        ],
+        [
+          232,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        839,
+        824,
+        878
+      ],
+      "text": "ngô dĩ vi năng kỳ đức hĩ, thị dĩ hạ.",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0036_viet_011",
+      "bbox": [
+        [
+          253,
+          883
+        ],
+        [
+          992,
+          882
+        ],
+        [
+          992,
+          920
+        ],
+        [
+          253,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1004
+        ],
+        [
+          992,
+          1003
+        ],
+        [
+          992,
+          1041
+        ],
+        [
+          253,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        882,
+        992,
+        921
+      ],
+      "text": "nhưng cái đức cũng sánh Loan-vũ-tử, nên chúc",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0036_viet_012",
+      "bbox": [
+        [
+          193,
+          924
+        ],
+        [
+          293,
+          924
+        ],
+        [
+          293,
+          972
+        ],
+        [
+          193,
+          972
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1045
+        ],
+        [
+          293,
+          1045
+        ],
+        [
+          293,
+          1093
+        ],
+        [
+          193,
+          1093
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        924,
+        293,
+        972
+      ],
+      "text": "mừng",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0036_viet_013",
+      "bbox": [
+        [
+          232,
+          1047
+        ],
+        [
+          742,
+          1047
+        ],
+        [
+          742,
+          1084
+        ],
+        [
+          232,
+          1084
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1168
+        ],
+        [
+          742,
+          1168
+        ],
+        [
+          742,
+          1205
+        ],
+        [
+          232,
+          1205
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1047,
+        742,
+        1084
+      ],
+      "text": "Nhược bất ưu đức chi bất kiên",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0036_viet_014",
+      "bbox": [
+        [
+          256,
+          1090
+        ],
+        [
+          581,
+          1090
+        ],
+        [
+          581,
+          1128
+        ],
+        [
+          256,
+          1128
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          1211
+        ],
+        [
+          581,
+          1211
+        ],
+        [
+          581,
+          1249
+        ],
+        [
+          256,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        1090,
+        581,
+        1128
+      ],
+      "text": "Nêu không lo sửa đức",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0036_viet_015",
+      "bbox": [
+        [
+          231,
+          1207
+        ],
+        [
+          649,
+          1210
+        ],
+        [
+          649,
+          1249
+        ],
+        [
+          231,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1328
+        ],
+        [
+          649,
+          1331
+        ],
+        [
+          649,
+          1370
+        ],
+        [
+          231,
+          1366
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1207,
+        649,
+        1249
+      ],
+      "text": "nhi hoạn hóa chi bắt túc,",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0036_viet_016",
+      "bbox": [
+        [
+          253,
+          1250
+        ],
+        [
+          628,
+          1253
+        ],
+        [
+          628,
+          1294
+        ],
+        [
+          253,
+          1292
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1371
+        ],
+        [
+          628,
+          1374
+        ],
+        [
+          628,
+          1415
+        ],
+        [
+          253,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1250,
+        628,
+        1294
+      ],
+      "text": "chỉ sợ của cải không đủ",
+      "confidence": 0.9364
+    },
+    {
+      "line_id": "0036_viet_017",
+      "bbox": [
+        [
+          231,
+          1374
+        ],
+        [
+          809,
+          1374
+        ],
+        [
+          809,
+          1411
+        ],
+        [
+          231,
+          1411
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1495
+        ],
+        [
+          809,
+          1495
+        ],
+        [
+          809,
+          1532
+        ],
+        [
+          231,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1374,
+        809,
+        1411
+      ],
+      "text": "tương điều bất hạ, hà hạ chi hữu?",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0036_viet_018",
+      "bbox": [
+        [
+          253,
+          1414
+        ],
+        [
+          858,
+          1417
+        ],
+        [
+          858,
+          1457
+        ],
+        [
+          253,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1535
+        ],
+        [
+          858,
+          1538
+        ],
+        [
+          858,
+          1578
+        ],
+        [
+          253,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1414,
+        858,
+        1457
+      ],
+      "text": "thì phải chia buồn, chứ có gì mà mừng",
+      "confidence": 0.9306
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "tam khanh, kỳ sủng đại hì",
+      "Nhất triêu nhi diệt, mạc chi ai dã",
+      "duy vô đức dã.",
+      "Kim ngô tử hữu Loan-vũ-tử chi bần",
+      "ngô dĩ vi năng kỳ đức hĩ, thị dĩ hạ.",
+      "Nhược bất ưu đức chi bất kiên",
+      "nhi hoạn hóa chi bắt túc,",
+      "tương điều bất hạ, hà hạ chi hữu?"
+    ],
+    "dich_nghia_lines": [
+      "ba làm quan khanh, vua yêu đã cực vậy",
+      "một sớm diệt vong, không ai thương",
+      "chỉ vì không có đức vậy",
+      "Nay bác nghèo như Loan-vũ-tử",
+      "nhưng cái đức cũng sánh Loan-vũ-tử, nên chúc mừng",
+      "Nêu không lo sửa đức",
+      "chỉ sợ của cải không đủ",
+      "thì phải chia buồn, chứ có gì mà mừng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "三卿其寵大矣",
+        "phien_am": "tam khanh, kỳ sủng đại hì",
+        "dich_nghia_gloss": "ba làm quan khanh, vua yêu đã cực vậy"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "一朝而滅莫之哀也",
+        "phien_am": "Nhất triêu nhi diệt, mạc chi ai dã",
+        "dich_nghia_gloss": "một sớm diệt vong, không ai thương"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "唯無德也",
+        "phien_am": "duy vô đức dã.",
+        "dich_nghia_gloss": "chỉ vì không có đức vậy"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "今吾子有欒武子之貧",
+        "phien_am": "Kim ngô tử hữu Loan-vũ-tử chi bần",
+        "dich_nghia_gloss": "Nay bác nghèo như Loan-vũ-tử"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾以爲能其德矣是以賀",
+        "phien_am": "ngô dĩ vi năng kỳ đức hĩ, thị dĩ hạ.",
+        "dich_nghia_gloss": "nhưng cái đức cũng sánh Loan-vũ-tử, nên chúc mừng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "若不憂德之不建",
+        "phien_am": "Nhược bất ưu đức chi bất kiên",
+        "dich_nghia_gloss": "Nêu không lo sửa đức"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "而患貨之不足",
+        "phien_am": "nhi hoạn hóa chi bắt túc,",
+        "dich_nghia_gloss": "chỉ sợ của cải không đủ"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "將弔不暇何賀之有",
+        "phien_am": "tương điều bất hạ, hà hạ chi hữu?",
+        "dich_nghia_gloss": "thì phải chia buồn, chứ có gì mà mừng"
+      }
+    ]
+  }
+}

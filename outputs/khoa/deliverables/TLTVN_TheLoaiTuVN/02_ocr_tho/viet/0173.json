@@ -1,0 +1,1180 @@
+{
+  "page_id": "0173",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 173,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1269,
+    "footnote_separator_y_original": 1384,
+    "effective_width": 1122,
+    "effective_height": 1269
+  },
+  "items": [
+    {
+      "line_id": "0173_viet_000",
+      "bbox": [
+        [
+          163,
+          1
+        ],
+        [
+          563,
+          0
+        ],
+        [
+          563,
+          37
+        ],
+        [
+          163,
+          39
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          116
+        ],
+        [
+          563,
+          115
+        ],
+        [
+          563,
+          152
+        ],
+        [
+          163,
+          154
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        0,
+        563,
+        39
+      ],
+      "text": "Điệu Cung trung điệu tiểu",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0173_viet_001",
+      "bbox": [
+        [
+          163,
+          44
+        ],
+        [
+          329,
+          47
+        ],
+        [
+          328,
+          85
+        ],
+        [
+          162,
+          83
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          159
+        ],
+        [
+          329,
+          162
+        ],
+        [
+          328,
+          200
+        ],
+        [
+          162,
+          198
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        44,
+        329,
+        85
+      ],
+      "text": "Đêm xuân,",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0173_viet_002",
+      "bbox": [
+        [
+          162,
+          90
+        ],
+        [
+          329,
+          92
+        ],
+        [
+          328,
+          134
+        ],
+        [
+          161,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          205
+        ],
+        [
+          329,
+          207
+        ],
+        [
+          328,
+          249
+        ],
+        [
+          161,
+          247
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        90,
+        329,
+        134
+      ],
+      "text": "Đêm xuân,",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0173_viet_003",
+      "bbox": [
+        [
+          164,
+          139
+        ],
+        [
+          793,
+          141
+        ],
+        [
+          793,
+          181
+        ],
+        [
+          164,
+          179
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          254
+        ],
+        [
+          793,
+          256
+        ],
+        [
+          793,
+          296
+        ],
+        [
+          164,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        139,
+        793,
+        181
+      ],
+      "text": "Ca hát, thổi tiêu, nhà ai đương xướng hoạ?",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0173_viet_004",
+      "bbox": [
+        [
+          165,
+          187
+        ],
+        [
+          827,
+          187
+        ],
+        [
+          827,
+          227
+        ],
+        [
+          165,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          302
+        ],
+        [
+          827,
+          302
+        ],
+        [
+          827,
+          342
+        ],
+        [
+          165,
+          342
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        187,
+        827,
+        227
+      ],
+      "text": "Có thể chịu được bao nhiêu khúc ?tân thanh?",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0173_viet_005",
+      "bbox": [
+        [
+          161,
+          233
+        ],
+        [
+          941,
+          229
+        ],
+        [
+          941,
+          276
+        ],
+        [
+          161,
+          280
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          348
+        ],
+        [
+          941,
+          344
+        ],
+        [
+          941,
+          391
+        ],
+        [
+          161,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        229,
+        941,
+        280
+      ],
+      "text": "Khiến tứ thơ của người phổ vào đàn tranh nước Tần",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0173_viet_006",
+      "bbox": [
+        [
+          162,
+          283
+        ],
+        [
+          466,
+          283
+        ],
+        [
+          466,
+          323
+        ],
+        [
+          162,
+          323
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          398
+        ],
+        [
+          466,
+          398
+        ],
+        [
+          466,
+          438
+        ],
+        [
+          162,
+          438
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        283,
+        466,
+        323
+      ],
+      "text": "Đàn tranh nước Tần",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0173_viet_007",
+      "bbox": [
+        [
+          161,
+          331
+        ],
+        [
+          466,
+          329
+        ],
+        [
+          466,
+          371
+        ],
+        [
+          161,
+          373
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          446
+        ],
+        [
+          466,
+          444
+        ],
+        [
+          466,
+          486
+        ],
+        [
+          161,
+          488
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        329,
+        466,
+        373
+      ],
+      "text": "Đàn tranh nước Tần",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0173_viet_008",
+      "bbox": [
+        [
+          158,
+          379
+        ],
+        [
+          753,
+          377
+        ],
+        [
+          753,
+          420
+        ],
+        [
+          158,
+          422
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          494
+        ],
+        [
+          753,
+          492
+        ],
+        [
+          753,
+          535
+        ],
+        [
+          158,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        377,
+        753,
+        422
+      ],
+      "text": "Một khúc về Vu Sơn? hãy còn chưa viết",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0173_viet_009",
+      "bbox": [
+        [
+          319,
+          498
+        ],
+        [
+          850,
+          500
+        ],
+        [
+          849,
+          543
+        ],
+        [
+          319,
+          541
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          613
+        ],
+        [
+          850,
+          615
+        ],
+        [
+          849,
+          658
+        ],
+        [
+          319,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        319,
+        498,
+        850,
+        543
+      ],
+      "text": "ĐẶNG TRẦN CÔN (THẾ KỈ XVIII)",
+      "confidence": 0.9264
+    },
+    {
+      "line_id": "0173_viet_010",
+      "bbox": [
+        [
+          160,
+          576
+        ],
+        [
+          1068,
+          577
+        ],
+        [
+          1068,
+          618
+        ],
+        [
+          160,
+          617
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          691
+        ],
+        [
+          1068,
+          692
+        ],
+        [
+          1068,
+          733
+        ],
+        [
+          160,
+          732
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        576,
+        1068,
+        618
+      ],
+      "text": "Đặng Trần Côn hiệu là Dao Cầm Lãn Phu, người làng nhân",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0173_viet_011",
+      "bbox": [
+        [
+          101,
+          620
+        ],
+        [
+          1074,
+          621
+        ],
+        [
+          1074,
+          660
+        ],
+        [
+          101,
+          659
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          735
+        ],
+        [
+          1074,
+          736
+        ],
+        [
+          1074,
+          775
+        ],
+        [
+          101,
+          774
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        620,
+        1074,
+        660
+      ],
+      "text": "Mục, xứ sơn nam (nay thuộc phường hạ Đình, quận Thanh Xuân,",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0173_viet_012",
+      "bbox": [
+        [
+          101,
+          660
+        ],
+        [
+          1069,
+          661
+        ],
+        [
+          1069,
+          702
+        ],
+        [
+          101,
+          701
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          775
+        ],
+        [
+          1069,
+          776
+        ],
+        [
+          1069,
+          817
+        ],
+        [
+          101,
+          816
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        660,
+        1069,
+        702
+      ],
+      "text": "thành phố hà nội). Ông sống và hoạt động chủ yếu vào nửa đầu",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0173_viet_013",
+      "bbox": [
+        [
+          100,
+          700
+        ],
+        [
+          1069,
+          702
+        ],
+        [
+          1069,
+          746
+        ],
+        [
+          100,
+          744
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          815
+        ],
+        [
+          1069,
+          817
+        ],
+        [
+          1069,
+          861
+        ],
+        [
+          100,
+          859
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        700,
+        1069,
+        746
+      ],
+      "text": "thế ki XVIII, song về năm sinh năm mất từng có nhiều ý kiến",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0173_viet_014",
+      "bbox": [
+        [
+          100,
+          745
+        ],
+        [
+          1069,
+          746
+        ],
+        [
+          1069,
+          786
+        ],
+        [
+          100,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          860
+        ],
+        [
+          1069,
+          861
+        ],
+        [
+          1069,
+          901
+        ],
+        [
+          100,
+          900
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        745,
+        1069,
+        786
+      ],
+      "text": "không thống nhất, chỉ biết chắc chắn ông mất sau tháng 9 năm thứ",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0173_viet_015",
+      "bbox": [
+        [
+          100,
+          787
+        ],
+        [
+          1068,
+          791
+        ],
+        [
+          1068,
+          831
+        ],
+        [
+          100,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          902
+        ],
+        [
+          1068,
+          906
+        ],
+        [
+          1068,
+          946
+        ],
+        [
+          100,
+          942
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        787,
+        1068,
+        831
+      ],
+      "text": "9 niên hiệu Cảnh Hưng (1748), vì trong sách Nguyễn thị gia tàng",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0173_viet_016",
+      "bbox": [
+        [
+          101,
+          831
+        ],
+        [
+          1068,
+          834
+        ],
+        [
+          1068,
+          873
+        ],
+        [
+          101,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          946
+        ],
+        [
+          1068,
+          949
+        ],
+        [
+          1068,
+          988
+        ],
+        [
+          101,
+          985
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        831,
+        1068,
+        873
+      ],
+      "text": "(ETRR Riắt, sách tư gia) của dòng họ nguyễn huy ở Trường Lưu",
+      "confidence": 0.836
+    },
+    {
+      "line_id": "0173_viet_017",
+      "bbox": [
+        [
+          101,
+          878
+        ],
+        [
+          1066,
+          879
+        ],
+        [
+          1066,
+          919
+        ],
+        [
+          101,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          993
+        ],
+        [
+          1066,
+          994
+        ],
+        [
+          1066,
+          1034
+        ],
+        [
+          101,
+          1033
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        878,
+        1066,
+        919
+      ],
+      "text": "(nay là xã Trường Lộc, huyện Can Lộc, tỉnh Hà Tĩnh) còn chép",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0173_viet_018",
+      "bbox": [
+        [
+          98,
+          920
+        ],
+        [
+          1066,
+          922
+        ],
+        [
+          1066,
+          965
+        ],
+        [
+          98,
+          963
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1035
+        ],
+        [
+          1066,
+          1037
+        ],
+        [
+          1066,
+          1080
+        ],
+        [
+          98,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        920,
+        1066,
+        965
+      ],
+      "text": "một bài Tự (N St Hồ R XPI % Ax Hạ Nguyễn quý hầu cập",
+      "confidence": 0.7955
+    },
+    {
+      "line_id": "0173_viet_019",
+      "bbox": [
+        [
+          100,
+          968
+        ],
+        [
+          1067,
+          968
+        ],
+        [
+          1067,
+          1010
+        ],
+        [
+          100,
+          1010
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          1083
+        ],
+        [
+          1067,
+          1083
+        ],
+        [
+          1067,
+          1125
+        ],
+        [
+          100,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        968,
+        1067,
+        1010
+      ],
+      "text": "đệ gia môn vinh thịnh tự ? Bài tựa chúc mừng Nguyễn quý hầu đỗ",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0173_viet_020",
+      "bbox": [
+        [
+          100,
+          1011
+        ],
+        [
+          1066,
+          1012
+        ],
+        [
+          1066,
+          1053
+        ],
+        [
+          100,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          1126
+        ],
+        [
+          1066,
+          1127
+        ],
+        [
+          1066,
+          1168
+        ],
+        [
+          100,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        1011,
+        1066,
+        1053
+      ],
+      "text": "đại khoa, gia môn vẻ vang thịnh vượng) do Đặng Trần Côn thay",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0173_viet_021",
+      "bbox": [
+        [
+          99,
+          1056
+        ],
+        [
+          1066,
+          1056
+        ],
+        [
+          1066,
+          1096
+        ],
+        [
+          99,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1171
+        ],
+        [
+          1066,
+          1171
+        ],
+        [
+          1066,
+          1211
+        ],
+        [
+          99,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        1056,
+        1066,
+        1096
+      ],
+      "text": "mặt các quan viên huyện La Sơn chúc mừng Nguyễn quý hầu, tức",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0173_viet_022",
+      "bbox": [
+        [
+          98,
+          1094
+        ],
+        [
+          1067,
+          1098
+        ],
+        [
+          1067,
+          1138
+        ],
+        [
+          98,
+          1135
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1209
+        ],
+        [
+          1067,
+          1213
+        ],
+        [
+          1067,
+          1253
+        ],
+        [
+          98,
+          1250
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        1094,
+        1067,
+        1138
+      ],
+      "text": "Nguyễn Huy Oánh (1713 ? 1789) nhân dịp đỗ Thám hoa khoa thi",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0173_viet_023",
+      "bbox": [
+        [
+          99,
+          1138
+        ],
+        [
+          432,
+          1141
+        ],
+        [
+          432,
+          1179
+        ],
+        [
+          99,
+          1176
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1253
+        ],
+        [
+          432,
+          1256
+        ],
+        [
+          432,
+          1294
+        ],
+        [
+          99,
+          1291
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        1138,
+        432,
+        1179
+      ],
+      "text": "năm mậu thìn (1748).",
+      "confidence": 0.9027
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Điệu Cung trung điệu tiểu",
+      "Đêm xuân,",
+      "Đêm xuân,",
+      "Ca hát, thổi tiêu, nhà ai đương xướng hoạ?",
+      "Có thể chịu được bao nhiêu khúc ?tân thanh?",
+      "Khiến tứ thơ của người phổ vào đàn tranh nước Tần",
+      "Đàn tranh nước Tần",
+      "Đàn tranh nước Tần",
+      "Một khúc về Vu Sơn? hãy còn chưa viết",
+      "ĐẶNG TRẦN CÔN (THẾ KỈ XVIII)",
+      "Đặng Trần Côn hiệu là Dao Cầm Lãn Phu, người làng nhân",
+      "Mục, xứ sơn nam (nay thuộc phường hạ Đình, quận Thanh Xuân,",
+      "thành phố hà nội). Ông sống và hoạt động chủ yếu vào nửa đầu",
+      "thế ki XVIII, song về năm sinh năm mất từng có nhiều ý kiến",
+      "không thống nhất, chỉ biết chắc chắn ông mất sau tháng 9 năm thứ",
+      "9 niên hiệu Cảnh Hưng (1748), vì trong sách Nguyễn thị gia tàng",
+      "(ETRR Riắt, sách tư gia) của dòng họ nguyễn huy ở Trường Lưu",
+      "(nay là xã Trường Lộc, huyện Can Lộc, tỉnh Hà Tĩnh) còn chép",
+      "một bài Tự (N St Hồ R XPI % Ax Hạ Nguyễn quý hầu cập",
+      "đệ gia môn vinh thịnh tự ? Bài tựa chúc mừng Nguyễn quý hầu đỗ",
+      "đại khoa, gia môn vẻ vang thịnh vượng) do Đặng Trần Côn thay",
+      "mặt các quan viên huyện La Sơn chúc mừng Nguyễn quý hầu, tức",
+      "Nguyễn Huy Oánh (1713 ? 1789) nhân dịp đỗ Thám hoa khoa thi",
+      "năm mậu thìn (1748)."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

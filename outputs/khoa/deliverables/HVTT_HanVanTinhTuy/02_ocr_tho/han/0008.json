@@ -1,0 +1,459 @@
+{
+  "page_id": "0008",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 8,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0008_han_000",
+      "bbox": [
+        [
+          242,
+          122
+        ],
+        [
+          918,
+          125
+        ],
+        [
+          918,
+          173
+        ],
+        [
+          242,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          243
+        ],
+        [
+          918,
+          246
+        ],
+        [
+          918,
+          294
+        ],
+        [
+          242,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        122,
+        918,
+        173
+      ],
+      "text": "鄭子產有疾謂子太叔曰",
+      "confidence": 0.9966
+    },
+    {
+      "line_id": "0008_han_001",
+      "bbox": [
+        [
+          243,
+          283
+        ],
+        [
+          642,
+          281
+        ],
+        [
+          642,
+          329
+        ],
+        [
+          243,
+          332
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          404
+        ],
+        [
+          642,
+          402
+        ],
+        [
+          642,
+          450
+        ],
+        [
+          243,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        281,
+        642,
+        332
+      ],
+      "text": "我死子必為政",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0008_han_002",
+      "bbox": [
+        [
+          243,
+          443
+        ],
+        [
+          852,
+          441
+        ],
+        [
+          852,
+          488
+        ],
+        [
+          243,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          564
+        ],
+        [
+          852,
+          562
+        ],
+        [
+          852,
+          609
+        ],
+        [
+          243,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        441,
+        852,
+        490
+      ],
+      "text": "惟有德者能以寬服民",
+      "confidence": 0.9978
+    },
+    {
+      "line_id": "0008_han_003",
+      "bbox": [
+        [
+          239,
+          601
+        ],
+        [
+          574,
+          601
+        ],
+        [
+          574,
+          649
+        ],
+        [
+          239,
+          649
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          722
+        ],
+        [
+          574,
+          722
+        ],
+        [
+          574,
+          770
+        ],
+        [
+          239,
+          770
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        601,
+        574,
+        649
+      ],
+      "text": "其次莫如猛",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0008_han_004",
+      "bbox": [
+        [
+          239,
+          757
+        ],
+        [
+          990,
+          755
+        ],
+        [
+          990,
+          806
+        ],
+        [
+          239,
+          809
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          878
+        ],
+        [
+          990,
+          876
+        ],
+        [
+          990,
+          927
+        ],
+        [
+          239,
+          930
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        755,
+        990,
+        809
+      ],
+      "text": "夫火烈民望而畏之故鮮死焉",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0008_han_005",
+      "bbox": [
+        [
+          244,
+          964
+        ],
+        [
+          990,
+          958
+        ],
+        [
+          990,
+          1005
+        ],
+        [
+          244,
+          1012
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1085
+        ],
+        [
+          990,
+          1079
+        ],
+        [
+          990,
+          1126
+        ],
+        [
+          244,
+          1133
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        958,
+        990,
+        1012
+      ],
+      "text": "水懦弱民狎而翫之則多死焉",
+      "confidence": 0.9932
+    },
+    {
+      "line_id": "0008_han_006",
+      "bbox": [
+        [
+          242,
+          1160
+        ],
+        [
+          435,
+          1160
+        ],
+        [
+          435,
+          1213
+        ],
+        [
+          242,
+          1213
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1281
+        ],
+        [
+          435,
+          1281
+        ],
+        [
+          435,
+          1334
+        ],
+        [
+          242,
+          1334
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1160,
+        435,
+        1213
+      ],
+      "text": "故寬難",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0008_han_007",
+      "bbox": [
+        [
+          246,
+          1320
+        ],
+        [
+          856,
+          1315
+        ],
+        [
+          856,
+          1363
+        ],
+        [
+          246,
+          1368
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1441
+        ],
+        [
+          856,
+          1436
+        ],
+        [
+          856,
+          1484
+        ],
+        [
+          246,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1315,
+        856,
+        1368
+      ],
+      "text": "疾數月而卒太叔爲政",
+      "confidence": 0.968
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "鄭子產有疾謂子太叔曰",
+      "我死子必為政",
+      "惟有德者能以寬服民",
+      "其次莫如猛",
+      "夫火烈民望而畏之故鮮死焉",
+      "水懦弱民狎而翫之則多死焉",
+      "故寬難",
+      "疾數月而卒太叔爲政"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "鄭子產有疾謂子太叔曰",
+        "phien_am": "Trịnh Tử-Sản hữu tật, vị tử Thái-Thúc viết",
+        "dich_nghia_gloss": "Trịnh Tử-Sản bệnh nặng, bảo con là Thái-Thúc rằng"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "我死子必為政",
+        "phien_am": "Ngã tử, tử tất vi chính",
+        "dich_nghia_gloss": "Ta chết, con sẽ giữ chính-quyền"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "惟有德者能以寬服民",
+        "phien_am": "Duy hữu đức giả, năng dĩ khoan phục dân",
+        "dich_nghia_gloss": "Chỉ kẻ có đức mới có thể lầy khoan hòa cho dân phục"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "其次莫如猛",
+        "phien_am": "Kỳ thứ mạc như mãnh.",
+        "dich_nghia_gloss": "còn thì không gì bằng chính-sách mạnh"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "夫火烈民望而畏之故鮮死焉",
+        "phien_am": "Phù hỏa liệt, dân vọng nhi úy chi, cõ tiền tử",
+        "dich_nghia_gloss": "yên như lửa cháy, dân trông là sợ, nên ít kẻ chết vì lửa"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "水懦弱民狎而翫之則多死焉",
+        "phien_am": "Thủy nhu nhược, dân hạp nhi ngoạn chi, tắc đa",
+        "dich_nghia_gloss": "tử yên Nước mém yêu, dân ưa đùa-rõn, nên chết nhiều"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "故寬難",
+        "phien_am": "Cõ khoan nan",
+        "dich_nghia_gloss": "Vì thế khoan hồng là khó"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "疾數月而卒太叔爲政",
+        "phien_am": "Tật số nguyệt nhi tốt, Thái Thúc vi chính",
+        "dich_nghia_gloss": "Đầu mây tháng rồi chết, Thái-Thúc lên cầm quyền"
+      }
+    ]
+  }
+}

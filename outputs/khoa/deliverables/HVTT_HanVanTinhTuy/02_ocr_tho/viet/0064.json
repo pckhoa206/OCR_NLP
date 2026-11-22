@@ -1,0 +1,76 @@
+{
+  "page_id": "0064",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 64,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0064_viet_000",
+      "bbox": [
+        [
+          348,
+          1266
+        ],
+        [
+          800,
+          1269
+        ],
+        [
+          800,
+          1312
+        ],
+        [
+          348,
+          1310
+        ]
+      ],
+      "bbox_original": [
+        [
+          348,
+          1387
+        ],
+        [
+          800,
+          1390
+        ],
+        [
+          800,
+          1433
+        ],
+        [
+          348,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        348,
+        1266,
+        800,
+        1312
+      ],
+      "text": "Sai Tử-Lộ hỏi thăm duyên-cớ..",
+      "confidence": 0.9018
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "Sai Tử-Lộ hỏi thăm duyên-cớ.."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

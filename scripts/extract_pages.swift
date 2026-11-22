@@ -47,6 +47,7 @@ enum ExtractionMode {
 struct CLIOptions {
     var mode: ExtractionMode = .pilot
     var bookFilter: String? = nil
+    var explicitPages: [Int]? = nil
     var dpi: CGFloat = 216.0 // 3.0x standard 72 DPI points
     var manifestPath: String = "config/book_manifest.json"
     var force: Bool = false
@@ -70,6 +71,15 @@ func parseArgs() -> CLIOptions {
                 opts.bookFilter = args[i + 1].uppercased()
                 i += 1
             }
+        case "--pages":
+            if i + 1 < args.count {
+                let raw = args[i + 1]
+                let nums = raw.split(separator: ",").compactMap { Int($0.trimmingCharacters(in: .whitespaces)) }
+                if !nums.isEmpty {
+                    opts.explicitPages = nums
+                }
+                i += 1
+            }
         case "--dpi":
             if i + 1 < args.count, let val = Double(args[i + 1]), val > 0 {
                 opts.dpi = CGFloat(val)
@@ -91,16 +101,21 @@ func parseArgs() -> CLIOptions {
 // MARK: - PDF Page Rendering
 
 func resolvePDFURL(filename: String, workspaceRoot: URL) -> URL? {
-    let directURL = workspaceRoot.appendingPathComponent(filename)
-    if FileManager.default.fileExists(atPath: directURL.path) {
-        return directURL
-    }
-    // Fallback: match by Unicode NFC/NFD normalized filename in workspaceRoot
+    let searchDirs = [
+        workspaceRoot,
+        workspaceRoot.appendingPathComponent("data")
+    ]
     let targetNFC = filename.precomposedStringWithCanonicalMapping
-    if let items = try? FileManager.default.contentsOfDirectory(at: workspaceRoot, includingPropertiesForKeys: nil) {
-        for item in items {
-            if item.lastPathComponent.precomposedStringWithCanonicalMapping == targetNFC {
-                return item
+    for dir in searchDirs {
+        let directURL = dir.appendingPathComponent(filename)
+        if FileManager.default.fileExists(atPath: directURL.path) {
+            return directURL
+        }
+        if let items = try? FileManager.default.contentsOfDirectory(at: dir, includingPropertiesForKeys: nil) {
+            for item in items {
+                if item.lastPathComponent.precomposedStringWithCanonicalMapping == targetNFC {
+                    return item
+                }
             }
         }
     }
@@ -241,7 +256,7 @@ for key in bookOrder {
         continue
     }
     
-    let targetPages = pagesToExtract(for: book, mode: options.mode)
+    let targetPages = options.explicitPages ?? pagesToExtract(for: book, mode: options.mode)
     let totalForBook = targetPages.count
     print("[\(book.book_id)] Extracting \(totalForBook) pages (\(options.mode == .pilot ? "pilot" : "all-valid")) from '\(book.title)' (PDF pages: \(pdfDoc.pageCount))...")
     fflush(stdout)

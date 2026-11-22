@@ -1,0 +1,1179 @@
+{
+  "page_id": "0159",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 159,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0159_viet_000",
+      "bbox": [
+        [
+          630,
+          1
+        ],
+        [
+          944,
+          1
+        ],
+        [
+          944,
+          21
+        ],
+        [
+          630,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          630,
+          156
+        ],
+        [
+          944,
+          156
+        ],
+        [
+          944,
+          176
+        ],
+        [
+          630,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        630,
+        1,
+        944,
+        21
+      ],
+      "text": "PHÓ VĂN 1.5 - TRẦN",
+      "confidence": 0.8046
+    },
+    {
+      "line_id": "0159_viet_001",
+      "bbox": [
+        [
+          1359,
+          0
+        ],
+        [
+          1408,
+          0
+        ],
+        [
+          1408,
+          21
+        ],
+        [
+          1359,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          1359,
+          155
+        ],
+        [
+          1408,
+          155
+        ],
+        [
+          1408,
+          176
+        ],
+        [
+          1359,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        1359,
+        0,
+        1408,
+        21
+      ],
+      "text": "161",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0159_viet_002",
+      "bbox": [
+        [
+          740,
+          45
+        ],
+        [
+          803,
+          45
+        ],
+        [
+          803,
+          103
+        ],
+        [
+          740,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          740,
+          200
+        ],
+        [
+          803,
+          200
+        ],
+        [
+          803,
+          258
+        ],
+        [
+          740,
+          258
+        ]
+      ],
+      "box_xyxy": [
+        740,
+        45,
+        803,
+        103
+      ],
+      "text": "24",
+      "confidence": 0.9352
+    },
+    {
+      "line_id": "0159_viet_003",
+      "bbox": [
+        [
+          181,
+          589
+        ],
+        [
+          344,
+          587
+        ],
+        [
+          345,
+          625
+        ],
+        [
+          181,
+          628
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          744
+        ],
+        [
+          344,
+          742
+        ],
+        [
+          345,
+          780
+        ],
+        [
+          181,
+          783
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        587,
+        345,
+        628
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0159_viet_004",
+      "bbox": [
+        [
+          594,
+          636
+        ],
+        [
+          1028,
+          633
+        ],
+        [
+          1029,
+          678
+        ],
+        [
+          594,
+          680
+        ]
+      ],
+      "bbox_original": [
+        [
+          594,
+          791
+        ],
+        [
+          1028,
+          788
+        ],
+        [
+          1029,
+          833
+        ],
+        [
+          594,
+          835
+        ]
+      ],
+      "box_xyxy": [
+        594,
+        633,
+        1029,
+        680
+      ],
+      "text": "SƠ NHẬT ? CHÚC HƯƠNG",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0159_viet_005",
+      "bbox": [
+        [
+          275,
+          715
+        ],
+        [
+          1410,
+          711
+        ],
+        [
+          1410,
+          751
+        ],
+        [
+          275,
+          755
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          870
+        ],
+        [
+          1410,
+          866
+        ],
+        [
+          1410,
+          906
+        ],
+        [
+          275,
+          910
+        ]
+      ],
+      "box_xyxy": [
+        275,
+        711,
+        1410,
+        755
+      ],
+      "text": "Phục dĩ thiêm luân tây một, long chúc dòng sinh ?- Phạn diễn hội thanh",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0159_viet_006",
+      "bbox": [
+        [
+          181,
+          759
+        ],
+        [
+          1411,
+          753
+        ],
+        [
+          1411,
+          793
+        ],
+        [
+          181,
+          799
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          914
+        ],
+        [
+          1411,
+          908
+        ],
+        [
+          1411,
+          948
+        ],
+        [
+          181,
+          954
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        753,
+        1411,
+        799
+      ],
+      "text": "lịnh chỉ lưu; không giới lễ thánh hiền chỉ chúng, Dục thông đàn tin, cần nhiệt 30",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0159_viet_007",
+      "bbox": [
+        [
+          180,
+          806
+        ],
+        [
+          364,
+          806
+        ],
+        [
+          364,
+          844
+        ],
+        [
+          180,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          961
+        ],
+        [
+          364,
+          961
+        ],
+        [
+          364,
+          999
+        ],
+        [
+          180,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        806,
+        364,
+        844
+      ],
+      "text": "hào hương",
+      "confidence": 0.8262
+    },
+    {
+      "line_id": "0159_viet_008",
+      "bbox": [
+        [
+          269,
+          854
+        ],
+        [
+          1411,
+          847
+        ],
+        [
+          1411,
+          890
+        ],
+        [
+          269,
+          898
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          1009
+        ],
+        [
+          1411,
+          1002
+        ],
+        [
+          1411,
+          1045
+        ],
+        [
+          269,
+          1053
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        847,
+        1411,
+        898
+      ],
+      "text": "- Thị hường đã, chủng tự giời làm, giản chị ? đĩ- thiền định chỉ thủy;",
+      "confidence": 0.8534
+    },
+    {
+      "line_id": "0159_viet_009",
+      "bbox": [
+        [
+          178,
+          901
+        ],
+        [
+          1408,
+          892
+        ],
+        [
+          1408,
+          934
+        ],
+        [
+          178,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1056
+        ],
+        [
+          1408,
+          1047
+        ],
+        [
+          1408,
+          1089
+        ],
+        [
+          178,
+          1097
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        892,
+        1408,
+        942
+      ],
+      "text": "phạt lòng tuệ uyến, tước chi ? đi giải thoát chỉ đào. Bất do nhân lực phù cân",
+      "confidence": 0.8897
+    },
+    {
+      "line_id": "0159_viet_010",
+      "bbox": [
+        [
+          178,
+          944
+        ],
+        [
+          1409,
+          937
+        ],
+        [
+          1409,
+          977
+        ],
+        [
+          178,
+          984
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1099
+        ],
+        [
+          1409,
+          1092
+        ],
+        [
+          1409,
+          1132
+        ],
+        [
+          178,
+          1139
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        937,
+        1409,
+        984
+      ],
+      "text": "tự xuất thiên nhiên hình thế. Nhiệt tri kiến chỉ bảo triệu, kết quảng minh chỉ",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0159_viet_011",
+      "bbox": [
+        [
+          177,
+          986
+        ],
+        [
+          1239,
+          983
+        ],
+        [
+          1239,
+          1023
+        ],
+        [
+          177,
+          1026
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1141
+        ],
+        [
+          1239,
+          1138
+        ],
+        [
+          1239,
+          1178
+        ],
+        [
+          177,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        983,
+        1239,
+        1026
+      ],
+      "text": "vàn đài. Phiêu thời mẫn địa thanh phân; tán xứ phò thiên nùng úc.",
+      "confidence": 0.9146
+    },
+    {
+      "line_id": "0159_viet_012",
+      "bbox": [
+        [
+          272,
+          1041
+        ],
+        [
+          929,
+          1041
+        ],
+        [
+          929,
+          1078
+        ],
+        [
+          272,
+          1078
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1196
+        ],
+        [
+          929,
+          1196
+        ],
+        [
+          929,
+          1233
+        ],
+        [
+          272,
+          1233
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1041,
+        929,
+        1078
+      ],
+      "text": "Dĩ kim nhật sơ, phân hương cung dưỡng",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0159_viet_013",
+      "bbox": [
+        [
+          187,
+          1144
+        ],
+        [
+          379,
+          1141
+        ],
+        [
+          380,
+          1179
+        ],
+        [
+          187,
+          1182
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          1299
+        ],
+        [
+          379,
+          1296
+        ],
+        [
+          380,
+          1334
+        ],
+        [
+          187,
+          1337
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1141,
+        380,
+        1182
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0159_viet_014",
+      "bbox": [
+        [
+          589,
+          1194
+        ],
+        [
+          1005,
+          1191
+        ],
+        [
+          1006,
+          1232
+        ],
+        [
+          590,
+          1235
+        ]
+      ],
+      "bbox_original": [
+        [
+          589,
+          1349
+        ],
+        [
+          1005,
+          1346
+        ],
+        [
+          1006,
+          1387
+        ],
+        [
+          590,
+          1390
+        ]
+      ],
+      "box_xyxy": [
+        589,
+        1191,
+        1006,
+        1235
+      ],
+      "text": "DÂNG HƯƠNG BUỒI SỚM",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0159_viet_015",
+      "bbox": [
+        [
+          274,
+          1271
+        ],
+        [
+          1416,
+          1269
+        ],
+        [
+          1416,
+          1309
+        ],
+        [
+          274,
+          1311
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1426
+        ],
+        [
+          1416,
+          1424
+        ],
+        [
+          1416,
+          1464
+        ],
+        [
+          274,
+          1466
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1269,
+        1416,
+        1311
+      ],
+      "text": "Cùi nghĩ: vừng thiềm (1) non tây vừa lặn, đuốc ròng (?) phương Đóng",
+      "confidence": 0.8854
+    },
+    {
+      "line_id": "0159_viet_016",
+      "bbox": [
+        [
+          182,
+          1314
+        ],
+        [
+          1416,
+          1310
+        ],
+        [
+          1416,
+          1351
+        ],
+        [
+          182,
+          1355
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1469
+        ],
+        [
+          1416,
+          1465
+        ],
+        [
+          1416,
+          1506
+        ],
+        [
+          182,
+          1510
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1310,
+        1416,
+        1355
+      ],
+      "text": "thời lên: Ghiếu, Phạn họp những người thanh tịnh, côi, không lễ chư vị thánh",
+      "confidence": 0.8829
+    },
+    {
+      "line_id": "0159_viet_017",
+      "bbox": [
+        [
+          182,
+          1357
+        ],
+        [
+          986,
+          1356
+        ],
+        [
+          986,
+          1396
+        ],
+        [
+          182,
+          1397
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1512
+        ],
+        [
+          986,
+          1511
+        ],
+        [
+          986,
+          1551
+        ],
+        [
+          182,
+          1552
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1356,
+        986,
+        1397
+      ],
+      "text": "biên. mong thấu lòng thành, kinh dàng hương bầu",
+      "confidence": 0.8907
+    },
+    {
+      "line_id": "0159_viet_018",
+      "bbox": [
+        [
+          272,
+          1409
+        ],
+        [
+          1415,
+          1403
+        ],
+        [
+          1415,
+          1448
+        ],
+        [
+          272,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1564
+        ],
+        [
+          1415,
+          1558
+        ],
+        [
+          1415,
+          1603
+        ],
+        [
+          272,
+          1608
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1403,
+        1415,
+        1453
+      ],
+      "text": "Hương này, trồng tử ở rừng tu, nước thiên định đã ting tưới bôn. Chặt",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0159_viet_019",
+      "bbox": [
+        [
+          181,
+          1453
+        ],
+        [
+          1414,
+          1449
+        ],
+        [
+          1414,
+          1489
+        ],
+        [
+          181,
+          1493
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1608
+        ],
+        [
+          1414,
+          1604
+        ],
+        [
+          1414,
+          1644
+        ],
+        [
+          181,
+          1648
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1449,
+        1414,
+        1493
+      ],
+      "text": "về tử vườn tuệ, dao giải thoát (?) chuốt bào, Bủa rìu không hời sức người;",
+      "confidence": 0.9051
+    },
+    {
+      "line_id": "0159_viet_020",
+      "bbox": [
+        [
+          180,
+          1495
+        ],
+        [
+          1411,
+          1492
+        ],
+        [
+          1411,
+          1533
+        ],
+        [
+          180,
+          1536
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1650
+        ],
+        [
+          1411,
+          1647
+        ],
+        [
+          1411,
+          1688
+        ],
+        [
+          180,
+          1691
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1492,
+        1411,
+        1536
+      ],
+      "text": "hình thế tự nhiên này nử, Đót nén hương trí tuế (1) : kết đài mày quang minh.",
+      "confidence": 0.8813
+    },
+    {
+      "line_id": "0159_viet_021",
+      "bbox": [
+        [
+          178,
+          1538
+        ],
+        [
+          1269,
+          1536
+        ],
+        [
+          1269,
+          1577
+        ],
+        [
+          178,
+          1579
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1693
+        ],
+        [
+          1269,
+          1691
+        ],
+        [
+          1269,
+          1732
+        ],
+        [
+          178,
+          1734
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1536,
+        1269,
+        1579
+      ],
+      "text": "Khi hương báy kháp chón ngạt ngào, nơi khỏi tỏa đầy trời sực nức.",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0159_viet_022",
+      "bbox": [
+        [
+          270,
+          1591
+        ],
+        [
+          934,
+          1593
+        ],
+        [
+          934,
+          1633
+        ],
+        [
+          270,
+          1631
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1746
+        ],
+        [
+          934,
+          1748
+        ],
+        [
+          934,
+          1788
+        ],
+        [
+          270,
+          1786
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1591,
+        934,
+        1633
+      ],
+      "text": "Viên lúc rạng ngày, đốt hương dàng cũng",
+      "confidence": 0.8735
+    },
+    {
+      "line_id": "0159_viet_023",
+      "bbox": [
+        [
+          1022,
+          1651
+        ],
+        [
+          1297,
+          1651
+        ],
+        [
+          1297,
+          1693
+        ],
+        [
+          1022,
+          1693
+        ]
+      ],
+      "bbox_original": [
+        [
+          1022,
+          1806
+        ],
+        [
+          1297,
+          1806
+        ],
+        [
+          1297,
+          1848
+        ],
+        [
+          1022,
+          1848
+        ]
+      ],
+      "box_xyxy": [
+        1022,
+        1651,
+        1297,
+        1693
+      ],
+      "text": "NGUYỄN ĐỨC VĂN",
+      "confidence": 0.9047
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "PHÓ VĂN 1.5 - TRẦN",
+      "161",
+      "24",
+      "SƠ NHẬT ? CHÚC HƯƠNG",
+      "Phục dĩ thiêm luân tây một, long chúc dòng sinh ?- Phạn diễn hội thanh",
+      "lịnh chỉ lưu; không giới lễ thánh hiền chỉ chúng, Dục thông đàn tin, cần nhiệt 30",
+      "hào hương",
+      "- Thị hường đã, chủng tự giời làm, giản chị ? đĩ- thiền định chỉ thủy;",
+      "phạt lòng tuệ uyến, tước chi ? đi giải thoát chỉ đào. Bất do nhân lực phù cân",
+      "tự xuất thiên nhiên hình thế. Nhiệt tri kiến chỉ bảo triệu, kết quảng minh chỉ",
+      "vàn đài. Phiêu thời mẫn địa thanh phân; tán xứ phò thiên nùng úc.",
+      "Dĩ kim nhật sơ, phân hương cung dưỡng"
+    ],
+    "dich_nghia_lines": [
+      "DÂNG HƯƠNG BUỒI SỚM",
+      "Cùi nghĩ: vừng thiềm (1) non tây vừa lặn, đuốc ròng (?) phương Đóng",
+      "thời lên: Ghiếu, Phạn họp những người thanh tịnh, côi, không lễ chư vị thánh",
+      "biên. mong thấu lòng thành, kinh dàng hương bầu",
+      "Hương này, trồng tử ở rừng tu, nước thiên định đã ting tưới bôn. Chặt",
+      "về tử vườn tuệ, dao giải thoát (?) chuốt bào, Bủa rìu không hời sức người;",
+      "hình thế tự nhiên này nử, Đót nén hương trí tuế (1) : kết đài mày quang minh.",
+      "Khi hương báy kháp chón ngạt ngào, nơi khỏi tỏa đầy trời sực nức.",
+      "Viên lúc rạng ngày, đốt hương dàng cũng",
+      "NGUYỄN ĐỨC VĂN"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

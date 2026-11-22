@@ -1,0 +1,450 @@
+{
+  "page_id": "0011",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 11,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0011_viet_000",
+      "bbox": [
+        [
+          195,
+          49
+        ],
+        [
+          541,
+          49
+        ],
+        [
+          541,
+          87
+        ],
+        [
+          195,
+          87
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          170
+        ],
+        [
+          541,
+          170
+        ],
+        [
+          541,
+          208
+        ],
+        [
+          195,
+          208
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        49,
+        541,
+        87
+      ],
+      "text": "TỬ SẢN THỤ CHÍNH",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0011_viet_001",
+      "bbox": [
+        [
+          968,
+          52
+        ],
+        [
+          997,
+          52
+        ],
+        [
+          997,
+          87
+        ],
+        [
+          968,
+          87
+        ]
+      ],
+      "bbox_original": [
+        [
+          968,
+          173
+        ],
+        [
+          997,
+          173
+        ],
+        [
+          997,
+          208
+        ],
+        [
+          968,
+          208
+        ]
+      ],
+      "box_xyxy": [
+        968,
+        52,
+        997,
+        87
+      ],
+      "text": "s",
+      "confidence": 0.7145
+    },
+    {
+      "line_id": "0011_viet_002",
+      "bbox": [
+        [
+          364,
+          198
+        ],
+        [
+          862,
+          201
+        ],
+        [
+          862,
+          239
+        ],
+        [
+          364,
+          236
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          319
+        ],
+        [
+          862,
+          322
+        ],
+        [
+          862,
+          360
+        ],
+        [
+          364,
+          357
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        198,
+        862,
+        239
+      ],
+      "text": "Con lên mở lượng khoan-hồng,",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0011_viet_003",
+      "bbox": [
+        [
+          261,
+          396
+        ],
+        [
+          858,
+          399
+        ],
+        [
+          858,
+          439
+        ],
+        [
+          261,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          517
+        ],
+        [
+          858,
+          520
+        ],
+        [
+          858,
+          560
+        ],
+        [
+          261,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        396,
+        858,
+        439
+      ],
+      "text": "Thẽ là giặc cướp nồi cùng khắp nơi.",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0011_viet_004",
+      "bbox": [
+        [
+          295,
+          593
+        ],
+        [
+          898,
+          600
+        ],
+        [
+          898,
+          637
+        ],
+        [
+          295,
+          631
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          714
+        ],
+        [
+          898,
+          721
+        ],
+        [
+          898,
+          758
+        ],
+        [
+          295,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        593,
+        898,
+        637
+      ],
+      "text": "Thái Thúc hối: a Theo lời cha dạy",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0011_viet_005",
+      "bbox": [
+        [
+          295,
+          794
+        ],
+        [
+          854,
+          798
+        ],
+        [
+          854,
+          835
+        ],
+        [
+          295,
+          832
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          915
+        ],
+        [
+          854,
+          919
+        ],
+        [
+          854,
+          956
+        ],
+        [
+          295,
+          953
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        794,
+        854,
+        835
+      ],
+      "text": "a Thì có đầu đến nỗi nước này 1 n",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0011_viet_006",
+      "bbox": [
+        [
+          360,
+          993
+        ],
+        [
+          847,
+          997
+        ],
+        [
+          847,
+          1039
+        ],
+        [
+          360,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          1114
+        ],
+        [
+          847,
+          1118
+        ],
+        [
+          847,
+          1160
+        ],
+        [
+          360,
+          1155
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        993,
+        847,
+        1039
+      ],
+      "text": "Đem quân tuần-tiêu đi ngay,",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0011_viet_007",
+      "bbox": [
+        [
+          259,
+          1192
+        ],
+        [
+          883,
+          1195
+        ],
+        [
+          883,
+          1235
+        ],
+        [
+          259,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1313
+        ],
+        [
+          883,
+          1316
+        ],
+        [
+          883,
+          1356
+        ],
+        [
+          259,
+          1353
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1192,
+        883,
+        1235
+      ],
+      "text": "Bao nhiêu giặc cướp từ đây hết liên",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0011_viet_008",
+      "bbox": [
+        [
+          292,
+          1393
+        ],
+        [
+          884,
+          1392
+        ],
+        [
+          884,
+          1429
+        ],
+        [
+          292,
+          1430
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1514
+        ],
+        [
+          884,
+          1513
+        ],
+        [
+          884,
+          1550
+        ],
+        [
+          292,
+          1551
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1392,
+        884,
+        1430
+      ],
+      "text": "Không-Tử nói: a Khá khen Tử-Sản",
+      "confidence": 0.9055
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

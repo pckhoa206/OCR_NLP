@@ -1,0 +1,2176 @@
+{
+  "page_id": "0098",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 98,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0098_viet_000",
+      "bbox": [
+        [
+          175,
+          5
+        ],
+        [
+          225,
+          5
+        ],
+        [
+          225,
+          37
+        ],
+        [
+          175,
+          37
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          160
+        ],
+        [
+          225,
+          160
+        ],
+        [
+          225,
+          192
+        ],
+        [
+          175,
+          192
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        5,
+        225,
+        37
+      ],
+      "text": "100",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0098_viet_001",
+      "bbox": [
+        [
+          603,
+          0
+        ],
+        [
+          980,
+          0
+        ],
+        [
+          980,
+          37
+        ],
+        [
+          603,
+          34
+        ]
+      ],
+      "bbox_original": [
+        [
+          603,
+          155
+        ],
+        [
+          980,
+          155
+        ],
+        [
+          980,
+          192
+        ],
+        [
+          603,
+          189
+        ]
+      ],
+      "box_xyxy": [
+        603,
+        0,
+        980,
+        37
+      ],
+      "text": "THƠ VĂN LY. - TRẦN (II)",
+      "confidence": 0.876
+    },
+    {
+      "line_id": "0098_viet_002",
+      "bbox": [
+        [
+          178,
+          113
+        ],
+        [
+          330,
+          113
+        ],
+        [
+          330,
+          149
+        ],
+        [
+          178,
+          149
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          268
+        ],
+        [
+          330,
+          268
+        ],
+        [
+          330,
+          304
+        ],
+        [
+          178,
+          304
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        113,
+        330,
+        149
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9351
+    },
+    {
+      "line_id": "0098_viet_003",
+      "bbox": [
+        [
+          606,
+          135
+        ],
+        [
+          971,
+          132
+        ],
+        [
+          971,
+          178
+        ],
+        [
+          606,
+          180
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          290
+        ],
+        [
+          971,
+          287
+        ],
+        [
+          971,
+          333
+        ],
+        [
+          606,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        132,
+        971,
+        180
+      ],
+      "text": "GIỚI VỌNG NGỮ VĂN",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0098_viet_004",
+      "bbox": [
+        [
+          268,
+          195
+        ],
+        [
+          1409,
+          196
+        ],
+        [
+          1409,
+          240
+        ],
+        [
+          268,
+          239
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          350
+        ],
+        [
+          1409,
+          351
+        ],
+        [
+          1409,
+          395
+        ],
+        [
+          268,
+          394
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        195,
+        1409,
+        240
+      ],
+      "text": "Phù tám vì thiện ác chi bảu: khầu vị họa phúc chi mồn. Tư nhất hiệm",
+      "confidence": 0.858
+    },
+    {
+      "line_id": "0098_viet_005",
+      "bbox": [
+        [
+          174,
+          235
+        ],
+        [
+          1411,
+          236
+        ],
+        [
+          1411,
+          283
+        ],
+        [
+          174,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          390
+        ],
+        [
+          1411,
+          391
+        ],
+        [
+          1411,
+          438
+        ],
+        [
+          174,
+          437
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        235,
+        1411,
+        283
+      ],
+      "text": "hưởng ứng vộ sai, khởi nhất ngôn ảnh tùy bất mâu. Quản từ trọng ngôn",
+      "confidence": 0.8674
+    },
+    {
+      "line_id": "0098_viet_006",
+      "bbox": [
+        [
+          175,
+          274
+        ],
+        [
+          1409,
+          276
+        ],
+        [
+          1409,
+          320
+        ],
+        [
+          175,
+          318
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          429
+        ],
+        [
+          1409,
+          431
+        ],
+        [
+          1409,
+          475
+        ],
+        [
+          175,
+          473
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        274,
+        1409,
+        320
+      ],
+      "text": "nhược biện; cồ nhân phòng ngữ như binh. Ngôn chi tắc dĩ trực dĩ công",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0098_viet_007",
+      "bbox": [
+        [
+          174,
+          312
+        ],
+        [
+          1410,
+          315
+        ],
+        [
+          1410,
+          358
+        ],
+        [
+          174,
+          355
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          467
+        ],
+        [
+          1410,
+          470
+        ],
+        [
+          1410,
+          513
+        ],
+        [
+          174,
+          510
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        312,
+        1410,
+        358
+      ],
+      "text": "chi tắc vô a vô khúc. Vông đạo thứ trường bì đoàn, bát luận kỳ thị nhần phí.",
+      "confidence": 0.8781
+    },
+    {
+      "line_id": "0098_viet_008",
+      "bbox": [
+        [
+          175,
+          351
+        ],
+        [
+          1412,
+          353
+        ],
+        [
+          1412,
+          398
+        ],
+        [
+          175,
+          396
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          506
+        ],
+        [
+          1412,
+          508
+        ],
+        [
+          1412,
+          553
+        ],
+        [
+          175,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        351,
+        1412,
+        398
+      ],
+      "text": "Khởi cảm dao thiệt, lòng thầu, có nãi cần ngôn thận khầu, Thả thân trung chi",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0098_viet_009",
+      "bbox": [
+        [
+          175,
+          390
+        ],
+        [
+          1411,
+          394
+        ],
+        [
+          1411,
+          441
+        ],
+        [
+          175,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          545
+        ],
+        [
+          1411,
+          549
+        ],
+        [
+          1411,
+          596
+        ],
+        [
+          175,
+          593
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        390,
+        1411,
+        441
+      ],
+      "text": "nghiệp sở trọng, nhiên khẩu nói chi quá vì tiên, Phi duy ngữ gia vọng ngôn",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0098_viet_010",
+      "bbox": [
+        [
+          176,
+          430
+        ],
+        [
+          1410,
+          434
+        ],
+        [
+          1410,
+          478
+        ],
+        [
+          176,
+          474
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          585
+        ],
+        [
+          1410,
+          589
+        ],
+        [
+          1410,
+          633
+        ],
+        [
+          176,
+          629
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        430,
+        1410,
+        478
+      ],
+      "text": "irc sử văn chi loạn tác. Kim thế vi nhân khinh liện: tử hậu bị nghiệp khiên",
+      "confidence": 0.8952
+    },
+    {
+      "line_id": "0098_viet_011",
+      "bbox": [
+        [
+          174,
+          469
+        ],
+        [
+          1410,
+          473
+        ],
+        [
+          1410,
+          517
+        ],
+        [
+          174,
+          513
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          624
+        ],
+        [
+          1410,
+          628
+        ],
+        [
+          1410,
+          672
+        ],
+        [
+          174,
+          668
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        469,
+        1410,
+        517
+      ],
+      "text": "triên. Hoác thiết kiêm bạt thiệt nhi cam: thụ tân toàn; hoặc dương đồng quân",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0098_viet_012",
+      "bbox": [
+        [
+          178,
+          511
+        ],
+        [
+          690,
+          511
+        ],
+        [
+          690,
+          551
+        ],
+        [
+          178,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          666
+        ],
+        [
+          690,
+          666
+        ],
+        [
+          690,
+          706
+        ],
+        [
+          178,
+          706
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        511,
+        690,
+        551
+      ],
+      "text": "khầu nhi trường hoài khô thông",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0098_viet_013",
+      "bbox": [
+        [
+          271,
+          561
+        ],
+        [
+          390,
+          561
+        ],
+        [
+          390,
+          601
+        ],
+        [
+          271,
+          601
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          716
+        ],
+        [
+          390,
+          716
+        ],
+        [
+          390,
+          756
+        ],
+        [
+          271,
+          756
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        561,
+        390,
+        601
+      ],
+      "text": "Kệ viết",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0098_viet_014",
+      "bbox": [
+        [
+          498,
+          591
+        ],
+        [
+          1043,
+          591
+        ],
+        [
+          1043,
+          631
+        ],
+        [
+          498,
+          631
+        ]
+      ],
+      "bbox_original": [
+        [
+          498,
+          746
+        ],
+        [
+          1043,
+          746
+        ],
+        [
+          1043,
+          786
+        ],
+        [
+          498,
+          786
+        ]
+      ],
+      "box_xyxy": [
+        498,
+        591,
+        1043,
+        631
+      ],
+      "text": "Hiếp kiên xiêm tiêu thiệt dao thần",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0098_viet_015",
+      "bbox": [
+        [
+          496,
+          633
+        ],
+        [
+          1056,
+          638
+        ],
+        [
+          1056,
+          678
+        ],
+        [
+          496,
+          674
+        ]
+      ],
+      "bbox_original": [
+        [
+          496,
+          788
+        ],
+        [
+          1056,
+          793
+        ],
+        [
+          1056,
+          833
+        ],
+        [
+          496,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        496,
+        633,
+        1056,
+        678
+      ],
+      "text": "Vĩnh tác trần hoàn vọng ngữ nhân",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0098_viet_016",
+      "bbox": [
+        [
+          497,
+          680
+        ],
+        [
+          906,
+          680
+        ],
+        [
+          906,
+          720
+        ],
+        [
+          497,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          497,
+          835
+        ],
+        [
+          906,
+          835
+        ],
+        [
+          906,
+          875
+        ],
+        [
+          497,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        497,
+        680,
+        906,
+        720
+      ],
+      "text": "Từ y cầu hoan xu thế lợi,",
+      "confidence": 0.8884
+    },
+    {
+      "line_id": "0098_viet_017",
+      "bbox": [
+        [
+          494,
+          721
+        ],
+        [
+          1098,
+          724
+        ],
+        [
+          1098,
+          764
+        ],
+        [
+          494,
+          761
+        ]
+      ],
+      "bbox_original": [
+        [
+          494,
+          876
+        ],
+        [
+          1098,
+          879
+        ],
+        [
+          1098,
+          919
+        ],
+        [
+          494,
+          916
+        ]
+      ],
+      "box_xyxy": [
+        494,
+        721,
+        1098,
+        764
+      ],
+      "text": "Đáo đầu tranh miễn nghiệp triền thân",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0098_viet_018",
+      "bbox": [
+        [
+          182,
+          792
+        ],
+        [
+          370,
+          792
+        ],
+        [
+          370,
+          830
+        ],
+        [
+          182,
+          830
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          947
+        ],
+        [
+          370,
+          947
+        ],
+        [
+          370,
+          985
+        ],
+        [
+          182,
+          985
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        792,
+        370,
+        830
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0098_viet_019",
+      "bbox": [
+        [
+          642,
+          818
+        ],
+        [
+          949,
+          818
+        ],
+        [
+          949,
+          859
+        ],
+        [
+          642,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          642,
+          973
+        ],
+        [
+          949,
+          973
+        ],
+        [
+          949,
+          1014
+        ],
+        [
+          642,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        642,
+        818,
+        949,
+        859
+      ],
+      "text": "VĂN RĂN NÓI CẦN",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0098_viet_020",
+      "bbox": [
+        [
+          272,
+          877
+        ],
+        [
+          1409,
+          884
+        ],
+        [
+          1409,
+          924
+        ],
+        [
+          272,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1032
+        ],
+        [
+          1409,
+          1039
+        ],
+        [
+          1409,
+          1079
+        ],
+        [
+          272,
+          1073
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        877,
+        1409,
+        924
+      ],
+      "text": "Phảm tâm là gốc của thiện ác; miệng là cửa của phúc họa. Nghỉ một ý",
+      "confidence": 0.8845
+    },
+    {
+      "line_id": "0098_viet_021",
+      "bbox": [
+        [
+          179,
+          919
+        ],
+        [
+          1410,
+          923
+        ],
+        [
+          1410,
+          964
+        ],
+        [
+          179,
+          960
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1074
+        ],
+        [
+          1410,
+          1078
+        ],
+        [
+          1410,
+          1119
+        ],
+        [
+          179,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        919,
+        1410,
+        964
+      ],
+      "text": "thì ảnh hưởng không lầm; huông một lời thì hệ quả chẳng lẫn (') Quân tử",
+      "confidence": 0.8989
+    },
+    {
+      "line_id": "0098_viet_022",
+      "bbox": [
+        [
+          179,
+          959
+        ],
+        [
+          1410,
+          962
+        ],
+        [
+          1410,
+          1002
+        ],
+        [
+          179,
+          999
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1114
+        ],
+        [
+          1410,
+          1117
+        ],
+        [
+          1410,
+          1157
+        ],
+        [
+          179,
+          1154
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        959,
+        1410,
+        1002
+      ],
+      "text": "trọng lời nói, như biện luận, người xưa giữ môm miệng kin như bình",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0098_viet_023",
+      "bbox": [
+        [
+          179,
+          995
+        ],
+        [
+          1411,
+          1002
+        ],
+        [
+          1411,
+          1042
+        ],
+        [
+          179,
+          1035
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1150
+        ],
+        [
+          1411,
+          1157
+        ],
+        [
+          1411,
+          1197
+        ],
+        [
+          179,
+          1190
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        995,
+        1411,
+        1042
+      ],
+      "text": "Nói thi thắng thần, công bằng, kè thì không cong không vẹo. Không nói",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0098_viet_024",
+      "bbox": [
+        [
+          180,
+          1036
+        ],
+        [
+          1411,
+          1041
+        ],
+        [
+          1411,
+          1079
+        ],
+        [
+          180,
+          1074
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1191
+        ],
+        [
+          1411,
+          1196
+        ],
+        [
+          1411,
+          1234
+        ],
+        [
+          180,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1036,
+        1411,
+        1079
+      ],
+      "text": "kẻ hay người đờ, chẳng bàu minh dùng người sai, Há dám khua môi mùa",
+      "confidence": 0.8813
+    },
+    {
+      "line_id": "0098_viet_025",
+      "bbox": [
+        [
+          178,
+          1073
+        ],
+        [
+          1409,
+          1079
+        ],
+        [
+          1409,
+          1120
+        ],
+        [
+          178,
+          1114
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1228
+        ],
+        [
+          1409,
+          1234
+        ],
+        [
+          1409,
+          1275
+        ],
+        [
+          178,
+          1269
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1073,
+        1409,
+        1120
+      ],
+      "text": "lưỡi, nên phải giữ miệng giữ lời. Và cài nặng của nghiệp chương trong thân",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0098_viet_026",
+      "bbox": [
+        [
+          178,
+          1113
+        ],
+        [
+          1409,
+          1118
+        ],
+        [
+          1409,
+          1159
+        ],
+        [
+          178,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1268
+        ],
+        [
+          1409,
+          1273
+        ],
+        [
+          1409,
+          1314
+        ],
+        [
+          178,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1113,
+        1409,
+        1159
+      ],
+      "text": "thì họa cửa miệng dứng đầu, không những kể nói, mói cản, còn khiến người",
+      "confidence": 0.8905
+    },
+    {
+      "line_id": "0098_viet_027",
+      "bbox": [
+        [
+          177,
+          1150
+        ],
+        [
+          1412,
+          1157
+        ],
+        [
+          1412,
+          1200
+        ],
+        [
+          177,
+          1194
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1305
+        ],
+        [
+          1412,
+          1312
+        ],
+        [
+          1412,
+          1355
+        ],
+        [
+          177,
+          1349
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1150,
+        1412,
+        1200
+      ],
+      "text": "nghe làm hậy. Nay sống thì bị người khinh rõ, sau chết thi nghiệp chường",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0098_viet_028",
+      "bbox": [
+        [
+          180,
+          1192
+        ],
+        [
+          1412,
+          1197
+        ],
+        [
+          1412,
+          1237
+        ],
+        [
+          180,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1347
+        ],
+        [
+          1412,
+          1352
+        ],
+        [
+          1412,
+          1392
+        ],
+        [
+          180,
+          1387
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1192,
+        1412,
+        1237
+      ],
+      "text": "buộc ràng, Hoặc kim sắt kéo lưới phải cam chịu chùa cay; hoặc nước đông rổt",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0098_viet_029",
+      "bbox": [
+        [
+          180,
+          1234
+        ],
+        [
+          635,
+          1234
+        ],
+        [
+          635,
+          1271
+        ],
+        [
+          180,
+          1271
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1389
+        ],
+        [
+          635,
+          1389
+        ],
+        [
+          635,
+          1426
+        ],
+        [
+          180,
+          1426
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1234,
+        635,
+        1271
+      ],
+      "text": "miệng mà lòng mãi đau đớn",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0098_viet_030",
+      "bbox": [
+        [
+          432,
+          1276
+        ],
+        [
+          1035,
+          1280
+        ],
+        [
+          1034,
+          1318
+        ],
+        [
+          432,
+          1314
+        ]
+      ],
+      "bbox_original": [
+        [
+          432,
+          1431
+        ],
+        [
+          1035,
+          1435
+        ],
+        [
+          1034,
+          1473
+        ],
+        [
+          432,
+          1469
+        ]
+      ],
+      "box_xyxy": [
+        432,
+        1276,
+        1035,
+        1318
+      ],
+      "text": "So vai ctrời nịnh khua lưỡi múa mép.",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0098_viet_031",
+      "bbox": [
+        [
+          435,
+          1316
+        ],
+        [
+          990,
+          1319
+        ],
+        [
+          990,
+          1356
+        ],
+        [
+          435,
+          1353
+        ]
+      ],
+      "bbox_original": [
+        [
+          435,
+          1471
+        ],
+        [
+          990,
+          1474
+        ],
+        [
+          990,
+          1511
+        ],
+        [
+          435,
+          1508
+        ]
+      ],
+      "box_xyxy": [
+        435,
+        1316,
+        990,
+        1356
+      ],
+      "text": "Mãi mãi là kê nói cản trên cối đời.",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0098_viet_032",
+      "bbox": [
+        [
+          433,
+          1357
+        ],
+        [
+          1209,
+          1359
+        ],
+        [
+          1209,
+          1396
+        ],
+        [
+          433,
+          1394
+        ]
+      ],
+      "bbox_original": [
+        [
+          433,
+          1512
+        ],
+        [
+          1209,
+          1514
+        ],
+        [
+          1209,
+          1551
+        ],
+        [
+          433,
+          1549
+        ]
+      ],
+      "box_xyxy": [
+        433,
+        1357,
+        1209,
+        1396
+      ],
+      "text": "Lựa ý, cầu yoi chạy: theo môi lợi trong cuộc thế,",
+      "confidence": 0.8699
+    },
+    {
+      "line_id": "0098_viet_033",
+      "bbox": [
+        [
+          433,
+          1394
+        ],
+        [
+          1361,
+          1398
+        ],
+        [
+          1361,
+          1439
+        ],
+        [
+          433,
+          1435
+        ]
+      ],
+      "bbox_original": [
+        [
+          433,
+          1549
+        ],
+        [
+          1361,
+          1553
+        ],
+        [
+          1361,
+          1594
+        ],
+        [
+          433,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        433,
+        1394,
+        1361,
+        1439
+      ],
+      "text": "Cuối cung không tránh được nghiệp chương buộc vào thân",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0098_viet_034",
+      "bbox": [
+        [
+          181,
+          1455
+        ],
+        [
+          341,
+          1455
+        ],
+        [
+          341,
+          1489
+        ],
+        [
+          181,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1610
+        ],
+        [
+          341,
+          1610
+        ],
+        [
+          341,
+          1644
+        ],
+        [
+          181,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1455,
+        341,
+        1489
+      ],
+      "text": "DỊCH THƠ",
+      "confidence": 0.9023
+    },
+    {
+      "line_id": "0098_viet_035",
+      "bbox": [
+        [
+          499,
+          1482
+        ],
+        [
+          1006,
+          1485
+        ],
+        [
+          1006,
+          1523
+        ],
+        [
+          499,
+          1520
+        ]
+      ],
+      "bbox_original": [
+        [
+          499,
+          1637
+        ],
+        [
+          1006,
+          1640
+        ],
+        [
+          1006,
+          1678
+        ],
+        [
+          499,
+          1675
+        ]
+      ],
+      "box_xyxy": [
+        499,
+        1482,
+        1006,
+        1523
+      ],
+      "text": "So vai cười ninh khua môi lười,",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0098_viet_036",
+      "bbox": [
+        [
+          504,
+          1527
+        ],
+        [
+          1029,
+          1527
+        ],
+        [
+          1029,
+          1564
+        ],
+        [
+          504,
+          1564
+        ]
+      ],
+      "bbox_original": [
+        [
+          504,
+          1682
+        ],
+        [
+          1029,
+          1682
+        ],
+        [
+          1029,
+          1719
+        ],
+        [
+          504,
+          1719
+        ]
+      ],
+      "box_xyxy": [
+        504,
+        1527,
+        1029,
+        1564
+      ],
+      "text": "Mang tiếng điệu toa khắp côi trần",
+      "confidence": 0.89
+    },
+    {
+      "line_id": "0098_viet_037",
+      "bbox": [
+        [
+          502,
+          1568
+        ],
+        [
+          961,
+          1570
+        ],
+        [
+          961,
+          1608
+        ],
+        [
+          502,
+          1606
+        ]
+      ],
+      "bbox_original": [
+        [
+          502,
+          1723
+        ],
+        [
+          961,
+          1725
+        ],
+        [
+          961,
+          1763
+        ],
+        [
+          502,
+          1761
+        ]
+      ],
+      "box_xyxy": [
+        502,
+        1568,
+        961,
+        1608
+      ],
+      "text": "Lựa ý cầu vui mong được lợi.",
+      "confidence": 0.8931
+    },
+    {
+      "line_id": "0098_viet_038",
+      "bbox": [
+        [
+          501,
+          1608
+        ],
+        [
+          1125,
+          1612
+        ],
+        [
+          1125,
+          1654
+        ],
+        [
+          501,
+          1649
+        ]
+      ],
+      "bbox_original": [
+        [
+          501,
+          1763
+        ],
+        [
+          1125,
+          1767
+        ],
+        [
+          1125,
+          1809
+        ],
+        [
+          501,
+          1804
+        ]
+      ],
+      "box_xyxy": [
+        501,
+        1608,
+        1125,
+        1654
+      ],
+      "text": "Tránh sao nghiệp chương buộc vào thần",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0098_viet_039",
+      "bbox": [
+        [
+          884,
+          1656
+        ],
+        [
+          1310,
+          1661
+        ],
+        [
+          1309,
+          1702
+        ],
+        [
+          883,
+          1697
+        ]
+      ],
+      "bbox_original": [
+        [
+          884,
+          1811
+        ],
+        [
+          1310,
+          1816
+        ],
+        [
+          1309,
+          1857
+        ],
+        [
+          883,
+          1852
+        ]
+      ],
+      "box_xyxy": [
+        883,
+        1656,
+        1310,
+        1702
+      ],
+      "text": "ĐỖ VĂN HỲ BẰNG THANII",
+      "confidence": 0.8696
+    },
+    {
+      "line_id": "0098_viet_040",
+      "bbox": [
+        [
+          185,
+          1712
+        ],
+        [
+          368,
+          1714
+        ],
+        [
+          367,
+          1753
+        ],
+        [
+          185,
+          1751
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1867
+        ],
+        [
+          368,
+          1869
+        ],
+        [
+          367,
+          1908
+        ],
+        [
+          185,
+          1906
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1712,
+        368,
+        1753
+      ],
+      "text": "CHÚ THÍCH:",
+      "confidence": 0.8735
+    },
+    {
+      "line_id": "0098_viet_041",
+      "bbox": [
+        [
+          670,
+          1741
+        ],
+        [
+          926,
+          1743
+        ],
+        [
+          926,
+          1781
+        ],
+        [
+          670,
+          1779
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          1896
+        ],
+        [
+          926,
+          1898
+        ],
+        [
+          926,
+          1936
+        ],
+        [
+          670,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        1741,
+        926,
+        1781
+      ],
+      "text": "XUẤT XỨ: KHL2",
+      "confidence": 0.832
+    },
+    {
+      "line_id": "0098_viet_042",
+      "bbox": [
+        [
+          183,
+          1791
+        ],
+        [
+          1413,
+          1797
+        ],
+        [
+          1413,
+          1834
+        ],
+        [
+          183,
+          1828
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1946
+        ],
+        [
+          1413,
+          1952
+        ],
+        [
+          1413,
+          1989
+        ],
+        [
+          183,
+          1983
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1791,
+        1413,
+        1834
+      ],
+      "text": "(1) Hai câu này tác giải muốn ỉ nói đến sự nghiêm, khắc của luật báo ứng nhân quả. một ý",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0098_viet_043",
+      "bbox": [
+        [
+          245,
+          1826
+        ],
+        [
+          1413,
+          1832
+        ],
+        [
+          1413,
+          1866
+        ],
+        [
+          244,
+          1860
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1981
+        ],
+        [
+          1413,
+          1987
+        ],
+        [
+          1413,
+          2021
+        ],
+        [
+          244,
+          2015
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1826,
+        1413,
+        1866
+      ],
+      "text": "nghĩ, một lời nói tót lành sẽ được nhận phúc nghiệp; một lới nói, một ý nghĩ xấu",
+      "confidence": 0.9005
+    },
+    {
+      "line_id": "0098_viet_044",
+      "bbox": [
+        [
+          244,
+          1858
+        ],
+        [
+          1188,
+          1863
+        ],
+        [
+          1187,
+          1897
+        ],
+        [
+          243,
+          1892
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2013
+        ],
+        [
+          1188,
+          2018
+        ],
+        [
+          1187,
+          2052
+        ],
+        [
+          243,
+          2047
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1858,
+        1188,
+        1897
+      ],
+      "text": "hoặc sai, sẽ phải chịu tội nghiệp, sự Đảo, ứng không bao giờ lâm lần",
+      "confidence": 0.8865
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "100",
+      "THƠ VĂN LY. - TRẦN (II)",
+      "GIỚI VỌNG NGỮ VĂN",
+      "Phù tám vì thiện ác chi bảu: khầu vị họa phúc chi mồn. Tư nhất hiệm",
+      "hưởng ứng vộ sai, khởi nhất ngôn ảnh tùy bất mâu. Quản từ trọng ngôn",
+      "nhược biện; cồ nhân phòng ngữ như binh. Ngôn chi tắc dĩ trực dĩ công",
+      "chi tắc vô a vô khúc. Vông đạo thứ trường bì đoàn, bát luận kỳ thị nhần phí.",
+      "Khởi cảm dao thiệt, lòng thầu, có nãi cần ngôn thận khầu, Thả thân trung chi",
+      "nghiệp sở trọng, nhiên khẩu nói chi quá vì tiên, Phi duy ngữ gia vọng ngôn",
+      "irc sử văn chi loạn tác. Kim thế vi nhân khinh liện: tử hậu bị nghiệp khiên",
+      "triên. Hoác thiết kiêm bạt thiệt nhi cam: thụ tân toàn; hoặc dương đồng quân",
+      "khầu nhi trường hoài khô thông",
+      "Kệ viết",
+      "Hiếp kiên xiêm tiêu thiệt dao thần",
+      "Vĩnh tác trần hoàn vọng ngữ nhân",
+      "Từ y cầu hoan xu thế lợi,",
+      "Đáo đầu tranh miễn nghiệp triền thân"
+    ],
+    "dich_nghia_lines": [
+      "VĂN RĂN NÓI CẦN",
+      "Phảm tâm là gốc của thiện ác; miệng là cửa của phúc họa. Nghỉ một ý",
+      "thì ảnh hưởng không lầm; huông một lời thì hệ quả chẳng lẫn (') Quân tử",
+      "trọng lời nói, như biện luận, người xưa giữ môm miệng kin như bình",
+      "Nói thi thắng thần, công bằng, kè thì không cong không vẹo. Không nói",
+      "kẻ hay người đờ, chẳng bàu minh dùng người sai, Há dám khua môi mùa",
+      "lưỡi, nên phải giữ miệng giữ lời. Và cài nặng của nghiệp chương trong thân",
+      "thì họa cửa miệng dứng đầu, không những kể nói, mói cản, còn khiến người",
+      "nghe làm hậy. Nay sống thì bị người khinh rõ, sau chết thi nghiệp chường",
+      "buộc ràng, Hoặc kim sắt kéo lưới phải cam chịu chùa cay; hoặc nước đông rổt",
+      "miệng mà lòng mãi đau đớn",
+      "So vai ctrời nịnh khua lưỡi múa mép.",
+      "Mãi mãi là kê nói cản trên cối đời.",
+      "Lựa ý, cầu yoi chạy: theo môi lợi trong cuộc thế,",
+      "Cuối cung không tránh được nghiệp chương buộc vào thân"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -45,7 +45,7 @@ BOOK_METADATA = {
         "tsv": ROOT_DIR / "deliverables" / "TVLT2_ThoVanLyTran2" / "04_dong_hang" / "TVLT2_ThoVanLyTran2_parallel.tsv",
         "xlsx": ROOT_DIR / "deliverables" / "TVLT2_ThoVanLyTran2" / "04_dong_hang" / "TVLT2_ThoVanLyTran2_parallel.xlsx",
         "img_dir": ROOT_DIR / "deliverables" / "TVLT2_ThoVanLyTran2" / "01_nguon",
-        "is_four_col": False,
+        "is_four_col": True,
     },
     "TLTVN": {
         "title": "Thể loại từ VN thời trung đại",
@@ -54,7 +54,7 @@ BOOK_METADATA = {
         "tsv": ROOT_DIR / "deliverables" / "TLTVN_TheLoaiTuVN" / "04_dong_hang" / "TLTVN_TheLoaiTuVN_parallel.tsv",
         "xlsx": ROOT_DIR / "deliverables" / "TLTVN_TheLoaiTuVN" / "04_dong_hang" / "TLTVN_TheLoaiTuVN_parallel.xlsx",
         "img_dir": ROOT_DIR / "deliverables" / "TLTVN_TheLoaiTuVN" / "01_nguon",
-        "is_four_col": False,
+        "is_four_col": True,
     },
 }
 
@@ -155,7 +155,8 @@ def run_streamlit_app() -> None:
         han_txt = r[0]
         if meta["is_four_col"] and len(r) >= 4:
             combined_v = f"{r[1]} {r[2]} {r[3]}".strip()
-            w_res = align_words_in_pair(han_txt, combined_v)
+            primary_v = r[2] if r[2].strip() else (r[3] if r[3].strip() else r[1])
+            w_res = align_words_in_pair(han_txt, combined_v, length_text=primary_v)
             conf_val = w_res["confidence_score"]
             badge = f"{conf_val:.2f} ({'Cao' if conf_val >= 0.8 else 'TB'})"
             table_data.append({

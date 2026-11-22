@@ -1,0 +1,172 @@
+{
+  "page_id": "0101",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 101,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0101_viet_000",
+      "bbox": [
+        [
+          645,
+          0
+        ],
+        [
+          963,
+          0
+        ],
+        [
+          963,
+          23
+        ],
+        [
+          645,
+          23
+        ]
+      ],
+      "bbox_original": [
+        [
+          645,
+          155
+        ],
+        [
+          963,
+          155
+        ],
+        [
+          963,
+          178
+        ],
+        [
+          645,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        645,
+        0,
+        963,
+        23
+      ],
+      "text": "THƠ NĂN Y VÀ TRAN",
+      "confidence": 0.7789
+    },
+    {
+      "line_id": "0101_viet_001",
+      "bbox": [
+        [
+          1376,
+          0
+        ],
+        [
+          1432,
+          0
+        ],
+        [
+          1432,
+          30
+        ],
+        [
+          1376,
+          30
+        ]
+      ],
+      "bbox_original": [
+        [
+          1376,
+          155
+        ],
+        [
+          1432,
+          155
+        ],
+        [
+          1432,
+          185
+        ],
+        [
+          1376,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        1376,
+        0,
+        1432,
+        30
+      ],
+      "text": "103",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0101_viet_002",
+      "bbox": [
+        [
+          731,
+          76
+        ],
+        [
+          802,
+          76
+        ],
+        [
+          802,
+          139
+        ],
+        [
+          731,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          231
+        ],
+        [
+          802,
+          231
+        ],
+        [
+          802,
+          294
+        ],
+        [
+          731,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        76,
+        802,
+        139
+      ],
+      "text": "20",
+      "confidence": 0.9264
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "THƠ NĂN Y VÀ TRAN",
+      "103",
+      "20"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

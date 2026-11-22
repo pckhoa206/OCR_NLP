@@ -1,0 +1,967 @@
+{
+  "page_id": "0074",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 74,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0074_han_000",
+      "bbox": [
+        [
+          169,
+          73
+        ],
+        [
+          763,
+          73
+        ],
+        [
+          763,
+          129
+        ],
+        [
+          169,
+          129
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          228
+        ],
+        [
+          763,
+          228
+        ],
+        [
+          763,
+          284
+        ],
+        [
+          169,
+          284
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        73,
+        763,
+        129
+      ],
+      "text": "(5) Thú Son: túc thièn su Tinh Nièm 省 念 (? — 992),  Nhü-chàu 汝. tǐnh Hà-nam",
+      "confidence": 0.8957
+    },
+    {
+      "line_id": "0074_han_001",
+      "bbox": [
+        [
+          239,
+          124
+        ],
+        [
+          1310,
+          121
+        ],
+        [
+          1310,
+          159
+        ],
+        [
+          240,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          279
+        ],
+        [
+          1310,
+          276
+        ],
+        [
+          1310,
+          314
+        ],
+        [
+          240,
+          316
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        121,
+        1310,
+        161
+      ],
+      "text": "河 , thuoc thé hè thú 8 dòng Thiěn Tào-khê. Xem băng Phå hè cuói sách",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0074_han_002",
+      "bbox": [
+        [
+          172,
+          174
+        ],
+        [
+          1404,
+          168
+        ],
+        [
+          1404,
+          206
+        ],
+        [
+          172,
+          212
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          329
+        ],
+        [
+          1404,
+          323
+        ],
+        [
+          1404,
+          361
+        ],
+        [
+          172,
+          367
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        168,
+        1404,
+        212
+      ],
+      "text": "(6) Triéu Cháu (778 — 897): tc thièn su Tòng Thàm  念 doi Duòng, nguòi xú Tào-chàu",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0074_han_003",
+      "bbox": [
+        [
+          251,
+          205
+        ],
+        [
+          763,
+          205
+        ],
+        [
+          763,
+          250
+        ],
+        [
+          251,
+          250
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          360
+        ],
+        [
+          763,
+          360
+        ],
+        [
+          763,
+          405
+        ],
+        [
+          251,
+          405
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        205,
+        763,
+        250
+      ],
+      "text": "曹,tinh Son-dòng 山 東 ho Hác 赤p. Ong di tu tù nhö, tirng tim dén thièn sur",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0074_han_004",
+      "bbox": [
+        [
+          231,
+          242
+        ],
+        [
+          763,
+          242
+        ],
+        [
+          763,
+          284
+        ],
+        [
+          231,
+          284
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          397
+        ],
+        [
+          763,
+          397
+        ],
+        [
+          763,
+          439
+        ],
+        [
+          231,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        242,
+        763,
+        284
+      ],
+      "text": "Nam Tuyèn 南 泉 dè höi dao ; nghe xong dón ngò, óng lèn núi Tung-nhac 高 ,",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0074_han_005",
+      "bbox": [
+        [
+          166,
+          391
+        ],
+        [
+          763,
+          391
+        ],
+        [
+          763,
+          446
+        ],
+        [
+          166,
+          446
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          546
+        ],
+        [
+          763,
+          546
+        ],
+        [
+          763,
+          601
+        ],
+        [
+          166,
+          601
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        391,
+        763,
+        446
+      ],
+      "text": "(7) Ván Món túre tnièn su Vǎn Yèn 文 偃 (?  949), xú Thièu-chàu 音召州 tinh Quǎng-",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0074_han_006",
+      "bbox": [
+        [
+          230,
+          436
+        ],
+        [
+          763,
+          436
+        ],
+        [
+          763,
+          481
+        ],
+        [
+          230,
+          481
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          591
+        ],
+        [
+          763,
+          591
+        ],
+        [
+          763,
+          636
+        ],
+        [
+          230,
+          636
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        436,
+        763,
+        481
+      ],
+      "text": "đông 廣 束, hoc trò thièn su Tuyét Phong là Tô phái Văn-mòn. Thièn phái nay tru tri",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0074_han_007",
+      "bbox": [
+        [
+          229,
+          516
+        ],
+        [
+          1326,
+          510
+        ],
+        [
+          1326,
+          547
+        ],
+        [
+          230,
+          553
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          671
+        ],
+        [
+          1326,
+          665
+        ],
+        [
+          1326,
+          702
+        ],
+        [
+          230,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        510,
+        1326,
+        553
+      ],
+      "text": "mòt chū, vi vày còn có tên là Nhát tu quan 字 . Xem băng Phă hè cuói sách.",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0074_han_008",
+      "bbox": [
+        [
+          170,
+          551
+        ],
+        [
+          763,
+          551
+        ],
+        [
+          763,
+          600
+        ],
+        [
+          170,
+          600
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          706
+        ],
+        [
+          763,
+          706
+        ],
+        [
+          763,
+          755
+        ],
+        [
+          170,
+          755
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        551,
+        763,
+        600
+      ],
+      "text": "(8) Dire Son : tre thièn su Tuyèn Giám 宣  (?865), xú Lăng-chau 良州, thuòe thé",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0074_han_009",
+      "bbox": [
+        [
+          167,
+          717
+        ],
+        [
+          763,
+          717
+        ],
+        [
+          763,
+          792
+        ],
+        [
+          167,
+          792
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          872
+        ],
+        [
+          763,
+          872
+        ],
+        [
+          763,
+          947
+        ],
+        [
+          167,
+          947
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        717,
+        763,
+        792
+      ],
+      "text": "(9) Làm Te : túe thièn su Nghīa Huyěn 義玄 (?— 866), tu è bèn sòng Hô-dà 沱",
+      "confidence": 0.8802
+    },
+    {
+      "line_id": "0074_han_010",
+      "bbox": [
+        [
+          233,
+          776
+        ],
+        [
+          1405,
+          773
+        ],
+        [
+          1405,
+          810
+        ],
+        [
+          233,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          931
+        ],
+        [
+          1405,
+          928
+        ],
+        [
+          1405,
+          965
+        ],
+        [
+          233,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        773,
+        1405,
+        813
+      ],
+      "text": "Trán-châu 真 , la Tō phái Thièn Làm-té. Dòng Lâm-té này xuát phát tù Hoài",
+      "confidence": 0.8983
+    },
+    {
+      "line_id": "0074_han_011",
+      "bbox": [
+        [
+          233,
+          810
+        ],
+        [
+          763,
+          810
+        ],
+        [
+          763,
+          851
+        ],
+        [
+          233,
+          851
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          965
+        ],
+        [
+          763,
+          965
+        ],
+        [
+          763,
+          1006
+        ],
+        [
+          233,
+          1006
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        810,
+        763,
+        851
+      ],
+      "text": "Nhuong 衣言, phuong pháp truyèn giáo là quát. Lâm Té dè ra thuyět tam huyèn,",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0074_han_012",
+      "bbox": [
+        [
+          232,
+          967
+        ],
+        [
+          763,
+          967
+        ],
+        [
+          763,
+          1006
+        ],
+        [
+          232,
+          1006
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1122
+        ],
+        [
+          763,
+          1122
+        ],
+        [
+          763,
+          1161
+        ],
+        [
+          232,
+          1161
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        967,
+        763,
+        1006
+      ],
+      "text": "khi thành dao, Thich Ca có dén núi này, giǎng kinh Dièu pháp lièn hoa 少法",
+      "confidence": 0.9548
+    },
+    {
+      "line_id": "0074_han_013",
+      "bbox": [
+        [
+          237,
+          1004
+        ],
+        [
+          369,
+          1004
+        ],
+        [
+          369,
+          1047
+        ],
+        [
+          237,
+          1047
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1159
+        ],
+        [
+          369,
+          1159
+        ],
+        [
+          369,
+          1202
+        ],
+        [
+          237,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1004,
+        369,
+        1047
+      ],
+      "text": "蓮花",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0074_han_014",
+      "bbox": [
+        [
+          167,
+          1048
+        ],
+        [
+          1408,
+          1042
+        ],
+        [
+          1408,
+          1088
+        ],
+        [
+          167,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          1203
+        ],
+        [
+          1408,
+          1197
+        ],
+        [
+          1408,
+          1243
+        ],
+        [
+          167,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        1042,
+        1408,
+        1094
+      ],
+      "text": "(11) Thiéu-thát : môt ngon phía Tày núi Tung-nhac 嵩  thuc tinh Ha-nam.  day có",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0074_han_015",
+      "bbox": [
+        [
+          229,
+          1090
+        ],
+        [
+          1405,
+          1088
+        ],
+        [
+          1405,
+          1126
+        ],
+        [
+          229,
+          1128
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1245
+        ],
+        [
+          1405,
+          1243
+        ],
+        [
+          1405,
+          1281
+        ],
+        [
+          229,
+          1283
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1088,
+        1405,
+        1128
+      ],
+      "text": "chùa Thiéu-lâm 少 , noi Dat Ma  chin năm lièn ngöi quay māt vào vách ròi",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0074_han_016",
+      "bbox": [
+        [
+          230,
+          1128
+        ],
+        [
+          1077,
+          1126
+        ],
+        [
+          1077,
+          1164
+        ],
+        [
+          230,
+          1166
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1283
+        ],
+        [
+          1077,
+          1281
+        ],
+        [
+          1077,
+          1319
+        ],
+        [
+          230,
+          1321
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1126,
+        1077,
+        1166
+      ],
+      "text": "truyěn pháp cho Tu Khå  可 . Xem thêm Cht. 13, cùng bài.",
+      "confidence": 0.9425
+    },
+    {
+      "line_id": "0074_han_017",
+      "bbox": [
+        [
+          234,
+          1353
+        ],
+        [
+          1405,
+          1352
+        ],
+        [
+          1405,
+          1386
+        ],
+        [
+          234,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1508
+        ],
+        [
+          1405,
+          1507
+        ],
+        [
+          1405,
+          1541
+        ],
+        [
+          234,
+          1542
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1352,
+        1405,
+        1387
+      ],
+      "text": "Lirong là Kién-khang  康 thuyét pháp cho Lurong Vù Đé nghe, nhung täng chúng",
+      "confidence": 0.9375
+    },
+    {
+      "line_id": "0074_han_018",
+      "bbox": [
+        [
+          231,
+          1494
+        ],
+        [
+          763,
+          1494
+        ],
+        [
+          763,
+          1533
+        ],
+        [
+          231,
+          1533
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1649
+        ],
+        [
+          763,
+          1649
+        ],
+        [
+          763,
+          1688
+        ],
+        [
+          231,
+          1688
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1494,
+        763,
+        1533
+      ],
+      "text": "di,tinh diét vi lac 生减巳。寂减 ,nghia là dā dirt bö duoc y nièm",
+      "confidence": 0.8357
+    },
+    {
+      "line_id": "0074_han_019",
+      "bbox": [
+        [
+          233,
+          1561
+        ],
+        [
+          763,
+          1561
+        ],
+        [
+          763,
+          1600
+        ],
+        [
+          233,
+          1600
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1716
+        ],
+        [
+          763,
+          1716
+        ],
+        [
+          763,
+          1755
+        ],
+        [
+          233,
+          1755
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1561,
+        763,
+        1600
+      ],
+      "text": "trirc giài 般若  直 角 giǎng bát lir là: ma-ha-bát-nhă ba-la-màt-da, phièn àm",
+      "confidence": 0.9049
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "蓮花"
+    ],
+    "interlinear_triplets": []
+  }
+}

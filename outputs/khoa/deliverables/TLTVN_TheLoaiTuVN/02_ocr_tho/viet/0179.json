@@ -1,0 +1,124 @@
+{
+  "page_id": "0179",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 179,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0179_viet_000",
+      "bbox": [
+        [
+          139,
+          48
+        ],
+        [
+          177,
+          48
+        ],
+        [
+          177,
+          92
+        ],
+        [
+          139,
+          92
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          163
+        ],
+        [
+          177,
+          163
+        ],
+        [
+          177,
+          207
+        ],
+        [
+          139,
+          207
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        48,
+        177,
+        92
+      ],
+      "text": "I.",
+      "confidence": 0.7224
+    },
+    {
+      "line_id": "0179_viet_001",
+      "bbox": [
+        [
+          74,
+          1417
+        ],
+        [
+          145,
+          1417
+        ],
+        [
+          145,
+          1463
+        ],
+        [
+          74,
+          1463
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          1532
+        ],
+        [
+          145,
+          1532
+        ],
+        [
+          145,
+          1578
+        ],
+        [
+          74,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        1417,
+        145,
+        1463
+      ],
+      "text": "172",
+      "confidence": 0.9275
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "I.",
+      "172"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

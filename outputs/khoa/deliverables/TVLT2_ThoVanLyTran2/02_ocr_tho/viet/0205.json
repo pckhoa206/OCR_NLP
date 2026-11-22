@@ -1,0 +1,747 @@
+{
+  "page_id": "0205",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 205,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0205_viet_000",
+      "bbox": [
+        [
+          775,
+          85
+        ],
+        [
+          840,
+          85
+        ],
+        [
+          840,
+          145
+        ],
+        [
+          775,
+          145
+        ]
+      ],
+      "bbox_original": [
+        [
+          775,
+          240
+        ],
+        [
+          840,
+          240
+        ],
+        [
+          840,
+          300
+        ],
+        [
+          775,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        775,
+        85,
+        840,
+        145
+      ],
+      "text": "53",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0205_viet_001",
+      "bbox": [
+        [
+          183,
+          1302
+        ],
+        [
+          348,
+          1304
+        ],
+        [
+          347,
+          1343
+        ],
+        [
+          183,
+          1341
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1457
+        ],
+        [
+          348,
+          1459
+        ],
+        [
+          347,
+          1498
+        ],
+        [
+          183,
+          1496
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1302,
+        348,
+        1343
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9366
+    },
+    {
+      "line_id": "0205_viet_002",
+      "bbox": [
+        [
+          593,
+          1347
+        ],
+        [
+          997,
+          1347
+        ],
+        [
+          997,
+          1388
+        ],
+        [
+          593,
+          1388
+        ]
+      ],
+      "bbox_original": [
+        [
+          593,
+          1502
+        ],
+        [
+          997,
+          1502
+        ],
+        [
+          997,
+          1543
+        ],
+        [
+          593,
+          1543
+        ]
+      ],
+      "box_xyxy": [
+        593,
+        1347,
+        997,
+        1388
+      ],
+      "text": "SÁM HỒI THÂN CĂN TỘI",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0205_viet_003",
+      "bbox": [
+        [
+          272,
+          1416
+        ],
+        [
+          1411,
+          1424
+        ],
+        [
+          1411,
+          1468
+        ],
+        [
+          272,
+          1461
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1571
+        ],
+        [
+          1411,
+          1579
+        ],
+        [
+          1411,
+          1623
+        ],
+        [
+          272,
+          1616
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1416,
+        1411,
+        1468
+      ],
+      "text": "Chỉ tàm sám hói, thần mỗ tở dắng, tự tổng vô thủy vô lượng kiếp lại,",
+      "confidence": 0.8641
+    },
+    {
+      "line_id": "0205_viet_004",
+      "bbox": [
+        [
+          182,
+          1460
+        ],
+        [
+          1410,
+          1464
+        ],
+        [
+          1410,
+          1504
+        ],
+        [
+          182,
+          1500
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1615
+        ],
+        [
+          1410,
+          1619
+        ],
+        [
+          1410,
+          1659
+        ],
+        [
+          182,
+          1655
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1460,
+        1410,
+        1504
+      ],
+      "text": "vong khước bản làm; vồng trì chính đạo. Đọa tam đồ khồ: do lục căn phị.",
+      "confidence": 0.8654
+    },
+    {
+      "line_id": "0205_viet_005",
+      "bbox": [
+        [
+          182,
+          1499
+        ],
+        [
+          789,
+          1505
+        ],
+        [
+          789,
+          1542
+        ],
+        [
+          182,
+          1536
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1654
+        ],
+        [
+          789,
+          1660
+        ],
+        [
+          789,
+          1697
+        ],
+        [
+          182,
+          1691
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1499,
+        789,
+        1542
+      ],
+      "text": "Nhược bất sâm tiền  nan truy hối bậu",
+      "confidence": 0.8426
+    },
+    {
+      "line_id": "0205_viet_006",
+      "bbox": [
+        [
+          271,
+          1546
+        ],
+        [
+          1413,
+          1551
+        ],
+        [
+          1413,
+          1595
+        ],
+        [
+          271,
+          1590
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          1701
+        ],
+        [
+          1413,
+          1706
+        ],
+        [
+          1413,
+          1750
+        ],
+        [
+          271,
+          1745
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        1546,
+        1413,
+        1595
+      ],
+      "text": "Thân cần nghiệp giả, phú tinh mẫu huyết 2% giả hợp thành hình: ngũ",
+      "confidence": 0.8926
+    },
+    {
+      "line_id": "0205_viet_007",
+      "bbox": [
+        [
+          182,
+          1590
+        ],
+        [
+          1412,
+          1593
+        ],
+        [
+          1412,
+          1631
+        ],
+        [
+          182,
+          1628
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1745
+        ],
+        [
+          1412,
+          1748
+        ],
+        [
+          1412,
+          1786
+        ],
+        [
+          182,
+          1783
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1590,
+        1412,
+        1631
+      ],
+      "text": "tạng bách hải, cộng tương kết tụ. Chấp vì ngã thể, vong khước pháp thân",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0205_viet_008",
+      "bbox": [
+        [
+          180,
+          1627
+        ],
+        [
+          868,
+          1633
+        ],
+        [
+          867,
+          1671
+        ],
+        [
+          180,
+          1664
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1782
+        ],
+        [
+          868,
+          1788
+        ],
+        [
+          867,
+          1826
+        ],
+        [
+          180,
+          1819
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1627,
+        868,
+        1671
+      ],
+      "text": "Sát, đạo, dâm sinh toại thành-tam nghiệp.",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0205_viet_009",
+      "bbox": [
+        [
+          270,
+          1674
+        ],
+        [
+          1412,
+          1678
+        ],
+        [
+          1412,
+          1722
+        ],
+        [
+          270,
+          1719
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1829
+        ],
+        [
+          1412,
+          1833
+        ],
+        [
+          1412,
+          1877
+        ],
+        [
+          270,
+          1874
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1674,
+        1412,
+        1722
+      ],
+      "text": "Sát sinh ?%: nghiệp giả, thường hành khốc:ngược: bất khởi từ: nhân. Tàn",
+      "confidence": 0.8838
+    },
+    {
+      "line_id": "0205_viet_010",
+      "bbox": [
+        [
+          180,
+          1716
+        ],
+        [
+          1413,
+          1721
+        ],
+        [
+          1413,
+          1760
+        ],
+        [
+          180,
+          1755
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1871
+        ],
+        [
+          1413,
+          1876
+        ],
+        [
+          1413,
+          1915
+        ],
+        [
+          180,
+          1910
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1716,
+        1413,
+        1760
+      ],
+      "text": "hại tự sinh, khởi tri nhất, thề. Ngỳ, thương có. sát: tự tác, giao, thá, Hoặc thảo",
+      "confidence": 0.8687
+    },
+    {
+      "line_id": "0205_viet_011",
+      "bbox": [
+        [
+          180,
+          1754
+        ],
+        [
+          1413,
+          1759
+        ],
+        [
+          1413,
+          1799
+        ],
+        [
+          180,
+          1794
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1909
+        ],
+        [
+          1413,
+          1914
+        ],
+        [
+          1413,
+          1954
+        ],
+        [
+          180,
+          1949
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1754,
+        1413,
+        1799
+      ],
+      "text": "phù sự, dị, hành yếm đảo, hoặc vị cưu độc, dĩ hại: sinh linh, Duy vụ: nhận",
+      "confidence": 0.8601
+    },
+    {
+      "line_id": "0205_viet_012",
+      "bbox": [
+        [
+          181,
+          1793
+        ],
+        [
+          1416,
+          1799
+        ],
+        [
+          1416,
+          1839
+        ],
+        [
+          181,
+          1833
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1948
+        ],
+        [
+          1416,
+          1954
+        ],
+        [
+          1416,
+          1994
+        ],
+        [
+          181,
+          1988
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1793,
+        1416,
+        1839
+      ],
+      "text": "nhân: bất hoài mẫn vật, hoặc phần sơn táu, hoặc kiệt khẻ nguyên, Thiết, vông",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0205_viet_013",
+      "bbox": [
+        [
+          180,
+          1832
+        ],
+        [
+          1417,
+          1837
+        ],
+        [
+          1417,
+          1878
+        ],
+        [
+          180,
+          1873
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1987
+        ],
+        [
+          1417,
+          1992
+        ],
+        [
+          1417,
+          2033
+        ],
+        [
+          180,
+          2028
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1832,
+        1417,
+        1878
+      ],
+      "text": "trương la: phi trng lầu cầu, Kiến văn tùy hỹ, niệm khỏi tưởng hành: cử động",
+      "confidence": 0.8954
+    },
+    {
+      "line_id": "0205_viet_014",
+      "bbox": [
+        [
+          184,
+          1871
+        ],
+        [
+          517,
+          1874
+        ],
+        [
+          517,
+          1913
+        ],
+        [
+          184,
+          1909
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          2026
+        ],
+        [
+          517,
+          2029
+        ],
+        [
+          517,
+          2068
+        ],
+        [
+          184,
+          2064
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1871,
+        517,
+        1913
+      ],
+      "text": "vận vi, vô phi thị tội",
+      "confidence": 0.894
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "53",
+      "SÁM HỒI THÂN CĂN TỘI",
+      "Chỉ tàm sám hói, thần mỗ tở dắng, tự tổng vô thủy vô lượng kiếp lại,",
+      "vong khước bản làm; vồng trì chính đạo. Đọa tam đồ khồ: do lục căn phị.",
+      "Nhược bất sâm tiền  nan truy hối bậu",
+      "Thân cần nghiệp giả, phú tinh mẫu huyết 2% giả hợp thành hình: ngũ",
+      "tạng bách hải, cộng tương kết tụ. Chấp vì ngã thể, vong khước pháp thân",
+      "Sát, đạo, dâm sinh toại thành-tam nghiệp.",
+      "Sát sinh ?%: nghiệp giả, thường hành khốc:ngược: bất khởi từ: nhân. Tàn",
+      "hại tự sinh, khởi tri nhất, thề. Ngỳ, thương có. sát: tự tác, giao, thá, Hoặc thảo",
+      "phù sự, dị, hành yếm đảo, hoặc vị cưu độc, dĩ hại: sinh linh, Duy vụ: nhận",
+      "nhân: bất hoài mẫn vật, hoặc phần sơn táu, hoặc kiệt khẻ nguyên, Thiết, vông",
+      "trương la: phi trng lầu cầu, Kiến văn tùy hỹ, niệm khỏi tưởng hành: cử động",
+      "vận vi, vô phi thị tội"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

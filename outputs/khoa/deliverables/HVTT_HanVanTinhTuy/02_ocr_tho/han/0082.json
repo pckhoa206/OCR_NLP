@@ -1,0 +1,351 @@
+{
+  "page_id": "0082",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 82,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0082_han_000",
+      "bbox": [
+        [
+          247,
+          170
+        ],
+        [
+          780,
+          168
+        ],
+        [
+          781,
+          218
+        ],
+        [
+          247,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          291
+        ],
+        [
+          780,
+          289
+        ],
+        [
+          781,
+          339
+        ],
+        [
+          247,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        168,
+        781,
+        220
+      ],
+      "text": "詹尹乃釋筴而謝曰",
+      "confidence": 0.9741
+    },
+    {
+      "line_id": "0082_han_001",
+      "bbox": [
+        [
+          246,
+          330
+        ],
+        [
+          853,
+          326
+        ],
+        [
+          853,
+          375
+        ],
+        [
+          246,
+          378
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          451
+        ],
+        [
+          853,
+          447
+        ],
+        [
+          853,
+          496
+        ],
+        [
+          246,
+          499
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        326,
+        853,
+        378
+      ],
+      "text": "夫尺有所短寸有所長",
+      "confidence": 0.9833
+    },
+    {
+      "line_id": "0082_han_002",
+      "bbox": [
+        [
+          245,
+          489
+        ],
+        [
+          924,
+          486
+        ],
+        [
+          924,
+          533
+        ],
+        [
+          245,
+          536
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          610
+        ],
+        [
+          924,
+          607
+        ],
+        [
+          924,
+          654
+        ],
+        [
+          245,
+          657
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        486,
+        924,
+        536
+      ],
+      "text": "物有所不足知有所不明",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0082_han_003",
+      "bbox": [
+        [
+          247,
+          647
+        ],
+        [
+          927,
+          647
+        ],
+        [
+          927,
+          694
+        ],
+        [
+          247,
+          694
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          768
+        ],
+        [
+          927,
+          768
+        ],
+        [
+          927,
+          815
+        ],
+        [
+          247,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        647,
+        927,
+        694
+      ],
+      "text": "數有所不逮神有所不通",
+      "confidence": 0.9737
+    },
+    {
+      "line_id": "0082_han_004",
+      "bbox": [
+        [
+          250,
+          804
+        ],
+        [
+          789,
+          807
+        ],
+        [
+          789,
+          855
+        ],
+        [
+          250,
+          853
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          925
+        ],
+        [
+          789,
+          928
+        ],
+        [
+          789,
+          976
+        ],
+        [
+          250,
+          974
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        804,
+        789,
+        855
+      ],
+      "text": "用君之心行君之意",
+      "confidence": 1.0
+    },
+    {
+      "line_id": "0082_han_005",
+      "bbox": [
+        [
+          249,
+          965
+        ],
+        [
+          785,
+          963
+        ],
+        [
+          785,
+          1011
+        ],
+        [
+          249,
+          1013
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1086
+        ],
+        [
+          785,
+          1084
+        ],
+        [
+          785,
+          1132
+        ],
+        [
+          249,
+          1134
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        963,
+        785,
+        1013
+      ],
+      "text": "龜策誠不能知此事",
+      "confidence": 0.9921
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "詹尹乃釋筴而謝曰",
+      "夫尺有所短寸有所長",
+      "物有所不足知有所不明",
+      "數有所不逮神有所不通",
+      "用君之心行君之意",
+      "龜策誠不能知此事"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "詹尹乃釋筴而謝曰",
+        "phien_am": "Thiềm-Doãn nãi thích sách nhi tạ viết:",
+        "dich_nghia_gloss": "Thiểm-Doãn thu quẻ lại từ-tạ nói"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "夫尺有所短寸有所長",
+        "phien_am": "- Phù xích hữu sở đoàn, thôn hữu sở trường.",
+        "dich_nghia_gloss": "thước có khi ngắn, tác có khi dài."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "物有所不足知有所不明",
+        "phien_am": "Vật hữu sở bất túc, trí hữu sở bất minh.",
+        "dich_nghia_gloss": "Vật có thứ không đủ, trí có chỗ không suốt."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "數有所不逮神有所不通",
+        "phien_am": "Sõ hữu sở bất dãi, thần hữu sở bất thông.",
+        "dich_nghia_gloss": "Sô có chỗ không kịp, thần có chỗ không thông."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "用君之心行君之意",
+        "phien_am": "Dụng quân chi tâm, hành quân chi ý;",
+        "dich_nghia_gloss": "Làm theo lòng ta, làm theo ý ta"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "龜策誠不能知此事",
+        "phien_am": "quy sách thành bãt năng tri thứ sị.",
+        "dich_nghia_gloss": "Bói toán thật không thể biết được việc ông hỏi"
+      }
+    ]
+  }
+}

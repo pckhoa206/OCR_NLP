@@ -1,0 +1,542 @@
+{
+  "page_id": "0068",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 68,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0068_han_000",
+      "bbox": [
+        [
+          225,
+          213
+        ],
+        [
+          763,
+          213
+        ],
+        [
+          763,
+          261
+        ],
+        [
+          225,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          368
+        ],
+        [
+          763,
+          368
+        ],
+        [
+          763,
+          416
+        ],
+        [
+          225,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        213,
+        763,
+        261
+      ],
+      "text": "月 源, sau duge Quy Son y  giác ngò và tr thành oóng tō phái Nguōng-son",
+      "confidence": 0.8726
+    },
+    {
+      "line_id": "0068_han_001",
+      "bbox": [
+        [
+          162,
+          403
+        ],
+        [
+          763,
+          403
+        ],
+        [
+          763,
+          463
+        ],
+        [
+          162,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          558
+        ],
+        [
+          763,
+          558
+        ],
+        [
+          763,
+          618
+        ],
+        [
+          162,
+          618
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        403,
+        763,
+        463
+      ],
+      "text": "(36) Kinh-son: la ngon núi phia Bǎc huyèn Dur-hang 尔亢 tinh Chiét-giang 江. Núi",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0068_han_002",
+      "bbox": [
+        [
+          225,
+          448
+        ],
+        [
+          763,
+          448
+        ],
+        [
+          763,
+          495
+        ],
+        [
+          225,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          603
+        ],
+        [
+          763,
+          603
+        ],
+        [
+          763,
+          650
+        ],
+        [
+          225,
+          650
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        448,
+        763,
+        495
+      ],
+      "text": "này có thé thòng tori núi Thièn-muc 天 且  Tay bǎc huyèn Làm-an 安 cùng",
+      "confidence": 0.8755
+    },
+    {
+      "line_id": "0068_han_003",
+      "bbox": [
+        [
+          229,
+          485
+        ],
+        [
+          763,
+          485
+        ],
+        [
+          763,
+          530
+        ],
+        [
+          229,
+          530
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          640
+        ],
+        [
+          763,
+          640
+        ],
+        [
+          763,
+          685
+        ],
+        [
+          229,
+          685
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        485,
+        763,
+        530
+      ],
+      "text": "tính. là noi Chièu Minh Thái ti 昭 明 太子 (ture Lurong Vu Dé 梁 武 帝) hay",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0068_han_004",
+      "bbox": [
+        [
+          229,
+          564
+        ],
+        [
+          1399,
+          559
+        ],
+        [
+          1399,
+          597
+        ],
+        [
+          229,
+          602
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          719
+        ],
+        [
+          1399,
+          714
+        ],
+        [
+          1399,
+          752
+        ],
+        [
+          229,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        559,
+        1399,
+        602
+      ],
+      "text": "cua ngon phía Tay là Long-vrong-tinh  王 . Tèn Long-vurong-tinh này chác có",
+      "confidence": 0.9203
+    },
+    {
+      "line_id": "0068_han_005",
+      "bbox": [
+        [
+          168,
+          761
+        ],
+        [
+          763,
+          761
+        ],
+        [
+          763,
+          812
+        ],
+        [
+          168,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          916
+        ],
+        [
+          763,
+          916
+        ],
+        [
+          763,
+          967
+        ],
+        [
+          168,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        761,
+        763,
+        812
+      ],
+      "text": "(38) Tuget Phong: tirc thièn sur Nghia Tön  存 (? — 908), nguoi Phuc-chàu 福) ",
+      "confidence": 0.8658
+    },
+    {
+      "line_id": "0068_han_006",
+      "bbox": [
+        [
+          305,
+          1186
+        ],
+        [
+          763,
+          1186
+        ],
+        [
+          763,
+          1233
+        ],
+        [
+          305,
+          1233
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          1341
+        ],
+        [
+          763,
+          1341
+        ],
+        [
+          763,
+          1388
+        ],
+        [
+          305,
+          1388
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        1186,
+        763,
+        1233
+      ],
+      "text": "Bách Trurong tèn là Hoài Hăi  (? — 814), hoc trò cua Mā Dao Nhát 馬 道",
+      "confidence": 0.8817
+    },
+    {
+      "line_id": "0068_han_007",
+      "bbox": [
+        [
+          292,
+          1228
+        ],
+        [
+          763,
+          1228
+        ],
+        [
+          763,
+          1269
+        ],
+        [
+          292,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1383
+        ],
+        [
+          763,
+          1383
+        ],
+        [
+          763,
+          1424
+        ],
+        [
+          292,
+          1424
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1228,
+        763,
+        1269
+      ],
+      "text": ", nguòi doi Drong, tác giä quyèn Bách Trugng thanh quy 百 丈 清 规 Xem",
+      "confidence": 0.8464
+    },
+    {
+      "line_id": "0068_han_008",
+      "bbox": [
+        [
+          166,
+          1398
+        ],
+        [
+          1406,
+          1389
+        ],
+        [
+          1406,
+          1430
+        ],
+        [
+          166,
+          1439
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1553
+        ],
+        [
+          1406,
+          1544
+        ],
+        [
+          1406,
+          1585
+        ],
+        [
+          166,
+          1594
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1389,
+        1406,
+        1439
+      ],
+      "text": "(41) Miròi nghin cá: chmra rō xuát xúr. Năm trăm doi: Táy-mre kú  或 chép :  bò",
+      "confidence": 0.8598
+    },
+    {
+      "line_id": "0068_han_009",
+      "bbox": [
+        [
+          230,
+          1509
+        ],
+        [
+          1404,
+          1503
+        ],
+        [
+          1404,
+          1540
+        ],
+        [
+          231,
+          1546
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1664
+        ],
+        [
+          1404,
+          1658
+        ],
+        [
+          1404,
+          1695
+        ],
+        [
+          231,
+          1701
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1503,
+        1404,
+        1546
+      ],
+      "text": "có nguòi doc kinb A-kgj-dat-ma P 奇  , doi bi lra dót nóng nhurng mài nghe",
+      "confidence": 0.8632
+    },
+    {
+      "line_id": "0068_han_010",
+      "bbox": [
+        [
+          165,
+          1627
+        ],
+        [
+          1395,
+          1616
+        ],
+        [
+          1395,
+          1659
+        ],
+        [
+          165,
+          1671
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1782
+        ],
+        [
+          1395,
+          1771
+        ],
+        [
+          1395,
+          1814
+        ],
+        [
+          165,
+          1826
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        1616,
+        1395,
+        1671
+      ],
+      "text": "(42) Trăn nghe säm mà durgc lén troi : cùng theo Phúe Dièn. Larong Vù Dé   帝",
+      "confidence": 0.9005
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

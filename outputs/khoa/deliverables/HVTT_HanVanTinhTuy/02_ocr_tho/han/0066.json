@@ -1,0 +1,459 @@
+{
+  "page_id": "0066",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 66,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0066_han_000",
+      "bbox": [
+        [
+          268,
+          125
+        ],
+        [
+          664,
+          125
+        ],
+        [
+          664,
+          172
+        ],
+        [
+          268,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          246
+        ],
+        [
+          664,
+          246
+        ],
+        [
+          664,
+          293
+        ],
+        [
+          268,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        125,
+        664,
+        172
+      ],
+      "text": "孔子過泰山側",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0066_han_001",
+      "bbox": [
+        [
+          268,
+          291
+        ],
+        [
+          877,
+          291
+        ],
+        [
+          877,
+          338
+        ],
+        [
+          268,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          412
+        ],
+        [
+          877,
+          412
+        ],
+        [
+          877,
+          459
+        ],
+        [
+          268,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        291,
+        877,
+        338
+      ],
+      "text": "有婦人哭於墓者而哀",
+      "confidence": 0.998
+    },
+    {
+      "line_id": "0066_han_002",
+      "bbox": [
+        [
+          263,
+          455
+        ],
+        [
+          596,
+          457
+        ],
+        [
+          596,
+          505
+        ],
+        [
+          263,
+          503
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          576
+        ],
+        [
+          596,
+          578
+        ],
+        [
+          596,
+          626
+        ],
+        [
+          263,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        455,
+        596,
+        505
+      ],
+      "text": "夫子式聽之",
+      "confidence": 0.9588
+    },
+    {
+      "line_id": "0066_han_003",
+      "bbox": [
+        [
+          265,
+          622
+        ],
+        [
+          943,
+          622
+        ],
+        [
+          943,
+          669
+        ],
+        [
+          265,
+          669
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          743
+        ],
+        [
+          943,
+          743
+        ],
+        [
+          943,
+          790
+        ],
+        [
+          265,
+          790
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        622,
+        943,
+        669
+      ],
+      "text": "使子路問之曰子之哭也",
+      "confidence": 0.9922
+    },
+    {
+      "line_id": "0066_han_004",
+      "bbox": [
+        [
+          268,
+          784
+        ],
+        [
+          665,
+          784
+        ],
+        [
+          665,
+          832
+        ],
+        [
+          268,
+          832
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          905
+        ],
+        [
+          665,
+          905
+        ],
+        [
+          665,
+          953
+        ],
+        [
+          268,
+          953
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        784,
+        665,
+        832
+      ],
+      "text": "壹似重有哀者",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0066_han_005",
+      "bbox": [
+        [
+          266,
+          948
+        ],
+        [
+          944,
+          948
+        ],
+        [
+          944,
+          995
+        ],
+        [
+          266,
+          995
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1069
+        ],
+        [
+          944,
+          1069
+        ],
+        [
+          944,
+          1116
+        ],
+        [
+          266,
+          1116
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        948,
+        944,
+        995
+      ],
+      "text": "乃曰然昔者吾舅死於虎",
+      "confidence": 0.9984
+    },
+    {
+      "line_id": "0066_han_006",
+      "bbox": [
+        [
+          265,
+          1158
+        ],
+        [
+          989,
+          1156
+        ],
+        [
+          989,
+          1203
+        ],
+        [
+          265,
+          1205
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1279
+        ],
+        [
+          989,
+          1277
+        ],
+        [
+          989,
+          1324
+        ],
+        [
+          265,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1156,
+        989,
+        1205
+      ],
+      "text": "吾夫又死焉今吾子又死焉",
+      "confidence": 0.9887
+    },
+    {
+      "line_id": "0066_han_007",
+      "bbox": [
+        [
+          268,
+          1320
+        ],
+        [
+          807,
+          1320
+        ],
+        [
+          807,
+          1367
+        ],
+        [
+          268,
+          1367
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1441
+        ],
+        [
+          807,
+          1441
+        ],
+        [
+          807,
+          1488
+        ],
+        [
+          268,
+          1488
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1320,
+        807,
+        1367
+      ],
+      "text": "夫子曰何爲不去也",
+      "confidence": 0.9756
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "孔子過泰山側",
+      "有婦人哭於墓者而哀",
+      "夫子式聽之",
+      "使子路問之曰子之哭也",
+      "壹似重有哀者",
+      "乃曰然昔者吾舅死於虎",
+      "吾夫又死焉今吾子又死焉",
+      "夫子曰何爲不去也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "孔子過泰山側",
+        "phien_am": "Khồng-tử quá Thái-sơn trắc,",
+        "dich_nghia_gloss": "Khổng-tử đi qua bên núi thái-sơn"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "有婦人哭於墓者而哀",
+        "phien_am": "hữu phụ nhân khốc ư mộ giả nhi ai.",
+        "dich_nghia_gloss": "có một người đàn-bà khóc ở mộ rất thảm-thương"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "夫子式聽之",
+        "phien_am": "Phu-tử thức thính chi,",
+        "dich_nghia_gloss": "Phu-tử cúi đầu xuông tầm gỗ trên xc mà nghe,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "使子路問之曰子之哭也",
+        "phien_am": "sử tử-Lộ văn chi viết: a tử chi khốc dã,",
+        "dich_nghia_gloss": "sai tử-Lộ hỏi rằng: a tiêng khóc của bà"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "壹似重有哀者",
+        "phien_am": "nhất tự trùng hữu ai giả....",
+        "dich_nghia_gloss": "dường như có nhiều nỗi đau buôn ? .."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "乃曰然昔者吾舅死於虎",
+        "phien_am": "Nãi viết: a Nhiên. Tích giả ngô cĩru tử ư hồ,",
+        "dich_nghia_gloss": "Người đàn-bà liền trả lời rằng: a Đúng thè Ngày trước cha chồng tôi chết vì cọp"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "吾夫又死焉今吾子又死焉",
+        "phien_am": "ngô phu hưu tử yên, kim ngô tử hựu tử yên. 1,",
+        "dich_nghia_gloss": "chóng tôi chết vì cọp, nay con tôi lại chết vì cọp s."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "夫子曰何爲不去也",
+        "phien_am": "Phu-tử việt: n hà vi bất khứ dã Pn",
+        "dich_nghia_gloss": "Phu-tử nói rằng: a tại sao bà không bỏ đi 7..."
+      }
+    ]
+  }
+}

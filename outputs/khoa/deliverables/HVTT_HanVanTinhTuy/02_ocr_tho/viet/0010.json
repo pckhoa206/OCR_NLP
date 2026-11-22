@@ -1,0 +1,940 @@
+{
+  "page_id": "0010",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 10,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0010_viet_000",
+      "bbox": [
+        [
+          193,
+          35
+        ],
+        [
+          220,
+          35
+        ],
+        [
+          220,
+          66
+        ],
+        [
+          193,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          156
+        ],
+        [
+          220,
+          156
+        ],
+        [
+          220,
+          187
+        ],
+        [
+          193,
+          187
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        35,
+        220,
+        66
+      ],
+      "text": "4",
+      "confidence": 0.9398
+    },
+    {
+      "line_id": "0010_viet_001",
+      "bbox": [
+        [
+          661,
+          31
+        ],
+        [
+          991,
+          31
+        ],
+        [
+          991,
+          65
+        ],
+        [
+          661,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          152
+        ],
+        [
+          991,
+          152
+        ],
+        [
+          991,
+          186
+        ],
+        [
+          661,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        31,
+        991,
+        65
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0010_viet_002",
+      "bbox": [
+        [
+          227,
+          184
+        ],
+        [
+          651,
+          184
+        ],
+        [
+          651,
+          218
+        ],
+        [
+          227,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          305
+        ],
+        [
+          651,
+          305
+        ],
+        [
+          651,
+          339
+        ],
+        [
+          227,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        184,
+        651,
+        218
+      ],
+      "text": "bắt nhăn mãnh nhi khoan",
+      "confidence": 0.8889
+    },
+    {
+      "line_id": "0010_viet_003",
+      "bbox": [
+        [
+          223,
+          231
+        ],
+        [
+          689,
+          231
+        ],
+        [
+          689,
+          268
+        ],
+        [
+          223,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          352
+        ],
+        [
+          689,
+          352
+        ],
+        [
+          689,
+          389
+        ],
+        [
+          223,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        231,
+        689,
+        268
+      ],
+      "text": "Không nữ mạnh nên khoan hòa",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0010_viet_004",
+      "bbox": [
+        [
+          227,
+          355
+        ],
+        [
+          525,
+          355
+        ],
+        [
+          525,
+          393
+        ],
+        [
+          227,
+          393
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          476
+        ],
+        [
+          525,
+          476
+        ],
+        [
+          525,
+          514
+        ],
+        [
+          227,
+          514
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        355,
+        525,
+        393
+      ],
+      "text": "Trịnh-quốc đa đạo",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0010_viet_005",
+      "bbox": [
+        [
+          220,
+          400
+        ],
+        [
+          658,
+          402
+        ],
+        [
+          658,
+          440
+        ],
+        [
+          220,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          521
+        ],
+        [
+          658,
+          523
+        ],
+        [
+          658,
+          561
+        ],
+        [
+          220,
+          559
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        400,
+        658,
+        440
+      ],
+      "text": "Nước Trịnh nhiều trộm cướp",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0010_viet_006",
+      "bbox": [
+        [
+          228,
+          522
+        ],
+        [
+          719,
+          522
+        ],
+        [
+          719,
+          556
+        ],
+        [
+          228,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          643
+        ],
+        [
+          719,
+          643
+        ],
+        [
+          719,
+          677
+        ],
+        [
+          228,
+          677
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        522,
+        719,
+        556
+      ],
+      "text": "Thủ nhân ư hoàn bồ chi trạch",
+      "confidence": 0.9346
+    },
+    {
+      "line_id": "0010_viet_007",
+      "bbox": [
+        [
+          220,
+          568
+        ],
+        [
+          929,
+          565
+        ],
+        [
+          929,
+          606
+        ],
+        [
+          220,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          689
+        ],
+        [
+          929,
+          686
+        ],
+        [
+          929,
+          727
+        ],
+        [
+          220,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        565,
+        929,
+        608
+      ],
+      "text": "Bắt người lương thiện ở nơi bãi chằm um tùm.",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0010_viet_008",
+      "bbox": [
+        [
+          225,
+          690
+        ],
+        [
+          623,
+          692
+        ],
+        [
+          623,
+          729
+        ],
+        [
+          225,
+          727
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          811
+        ],
+        [
+          623,
+          813
+        ],
+        [
+          623,
+          850
+        ],
+        [
+          225,
+          848
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        690,
+        623,
+        729
+      ],
+      "text": "Thái Thúc hồi chi, viết:",
+      "confidence": 0.8631
+    },
+    {
+      "line_id": "0010_viet_009",
+      "bbox": [
+        [
+          220,
+          739
+        ],
+        [
+          554,
+          739
+        ],
+        [
+          554,
+          776
+        ],
+        [
+          220,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          860
+        ],
+        [
+          554,
+          860
+        ],
+        [
+          554,
+          897
+        ],
+        [
+          220,
+          897
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        739,
+        554,
+        776
+      ],
+      "text": "Thái Thúc ăn-năn, nói:",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0010_viet_010",
+      "bbox": [
+        [
+          223,
+          859
+        ],
+        [
+          769,
+          856
+        ],
+        [
+          770,
+          896
+        ],
+        [
+          223,
+          899
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          980
+        ],
+        [
+          769,
+          977
+        ],
+        [
+          770,
+          1017
+        ],
+        [
+          223,
+          1020
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        856,
+        770,
+        899
+      ],
+      "text": "ngô tảo tòng phu-tử, bãt cập thử",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0010_viet_011",
+      "bbox": [
+        [
+          218,
+          904
+        ],
+        [
+          834,
+          905
+        ],
+        [
+          834,
+          942
+        ],
+        [
+          218,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1025
+        ],
+        [
+          834,
+          1026
+        ],
+        [
+          834,
+          1063
+        ],
+        [
+          218,
+          1062
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        904,
+        834,
+        942
+      ],
+      "text": "ta sớm biết theo lời cha đâu đền nỗi này",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0010_viet_012",
+      "bbox": [
+        [
+          223,
+          1028
+        ],
+        [
+          883,
+          1027
+        ],
+        [
+          883,
+          1068
+        ],
+        [
+          223,
+          1069
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1149
+        ],
+        [
+          883,
+          1148
+        ],
+        [
+          883,
+          1189
+        ],
+        [
+          223,
+          1190
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1027,
+        883,
+        1069
+      ],
+      "text": "Hưng đồ binh dĩ công hoàn bồ chi đạo",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0010_viet_013",
+      "bbox": [
+        [
+          216,
+          1074
+        ],
+        [
+          693,
+          1078
+        ],
+        [
+          693,
+          1119
+        ],
+        [
+          216,
+          1115
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1195
+        ],
+        [
+          693,
+          1199
+        ],
+        [
+          693,
+          1240
+        ],
+        [
+          216,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1074,
+        693,
+        1119
+      ],
+      "text": "Đem binh đi tiểu trừ trộm cướp",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0010_viet_014",
+      "bbox": [
+        [
+          225,
+          1197
+        ],
+        [
+          653,
+          1197
+        ],
+        [
+          653,
+          1234
+        ],
+        [
+          225,
+          1234
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1318
+        ],
+        [
+          653,
+          1318
+        ],
+        [
+          653,
+          1355
+        ],
+        [
+          225,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1197,
+        653,
+        1234
+      ],
+      "text": "Tận sát chì. Đạo thiều chỉ",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0010_viet_015",
+      "bbox": [
+        [
+          220,
+          1244
+        ],
+        [
+          593,
+          1244
+        ],
+        [
+          593,
+          1283
+        ],
+        [
+          220,
+          1283
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1365
+        ],
+        [
+          593,
+          1365
+        ],
+        [
+          593,
+          1404
+        ],
+        [
+          220,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1244,
+        593,
+        1283
+      ],
+      "text": "Giết hết. Cướp trộm yên",
+      "confidence": 0.8901
+    },
+    {
+      "line_id": "0010_viet_016",
+      "bbox": [
+        [
+          225,
+          1364
+        ],
+        [
+          668,
+          1364
+        ],
+        [
+          668,
+          1401
+        ],
+        [
+          225,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1485
+        ],
+        [
+          668,
+          1485
+        ],
+        [
+          668,
+          1522
+        ],
+        [
+          225,
+          1522
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1364,
+        668,
+        1401
+      ],
+      "text": "Trọng Ni viết: Thiện tai 1",
+      "confidence": 0.8772
+    },
+    {
+      "line_id": "0010_viet_017",
+      "bbox": [
+        [
+          219,
+          1410
+        ],
+        [
+          597,
+          1412
+        ],
+        [
+          597,
+          1450
+        ],
+        [
+          219,
+          1448
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1531
+        ],
+        [
+          597,
+          1533
+        ],
+        [
+          597,
+          1571
+        ],
+        [
+          219,
+          1569
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1410,
+        597,
+        1450
+      ],
+      "text": "Khổng tử nói: giỏi thay",
+      "confidence": 0.9257
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "bắt nhăn mãnh nhi khoan",
+      "Trịnh-quốc đa đạo",
+      "Thủ nhân ư hoàn bồ chi trạch",
+      "Thái Thúc hồi chi, viết:",
+      "ngô tảo tòng phu-tử, bãt cập thử",
+      "Hưng đồ binh dĩ công hoàn bồ chi đạo",
+      "Tận sát chì. Đạo thiều chỉ",
+      "Trọng Ni viết: Thiện tai 1"
+    ],
+    "dich_nghia_lines": [
+      "Không nữ mạnh nên khoan hòa",
+      "Nước Trịnh nhiều trộm cướp",
+      "Bắt người lương thiện ở nơi bãi chằm um tùm.",
+      "Thái Thúc ăn-năn, nói:",
+      "ta sớm biết theo lời cha đâu đền nỗi này",
+      "Đem binh đi tiểu trừ trộm cướp",
+      "Giết hết. Cướp trộm yên",
+      "Khổng tử nói: giỏi thay"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "不忍猛而寬",
+        "phien_am": "bắt nhăn mãnh nhi khoan",
+        "dich_nghia_gloss": "Không nữ mạnh nên khoan hòa"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "鄭國多盜",
+        "phien_am": "Trịnh-quốc đa đạo",
+        "dich_nghia_gloss": "Nước Trịnh nhiều trộm cướp"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "取人於翟苻之澤",
+        "phien_am": "Thủ nhân ư hoàn bồ chi trạch",
+        "dich_nghia_gloss": "Bắt người lương thiện ở nơi bãi chằm um tùm."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "太叔悔之曰",
+        "phien_am": "Thái Thúc hồi chi, viết:",
+        "dich_nghia_gloss": "Thái Thúc ăn-năn, nói:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾早從夫子不及此",
+        "phien_am": "ngô tảo tòng phu-tử, bãt cập thử",
+        "dich_nghia_gloss": "ta sớm biết theo lời cha đâu đền nỗi này"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "興徒兵以攻萑苻之盜",
+        "phien_am": "Hưng đồ binh dĩ công hoàn bồ chi đạo",
+        "dich_nghia_gloss": "Đem binh đi tiểu trừ trộm cướp"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "盡殺之盜少止",
+        "phien_am": "Tận sát chì. Đạo thiều chỉ",
+        "dich_nghia_gloss": "Giết hết. Cướp trộm yên"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "仲尼曰善哉",
+        "phien_am": "Trọng Ni viết: Thiện tai 1",
+        "dich_nghia_gloss": "Khổng tử nói: giỏi thay"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "page_id": "0135",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 135,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 385,
+    "footnote_separator_y_original": 500,
+    "effective_width": 1122,
+    "effective_height": 385
+  },
+  "items": [
+    {
+      "line_id": "0135_han_000",
+      "bbox": [
+        [
+          149,
+          1
+        ],
+        [
+          420,
+          3
+        ],
+        [
+          420,
+          38
+        ],
+        [
+          149,
+          36
+        ]
+      ],
+      "bbox_original": [
+        [
+          149,
+          116
+        ],
+        [
+          420,
+          118
+        ],
+        [
+          420,
+          153
+        ],
+        [
+          149,
+          151
+        ]
+      ],
+      "box_xyxy": [
+        149,
+        1,
+        420,
+        38
+      ],
+      "text": "願將深意為南疆，",
+      "confidence": 0.9381
+    },
+    {
+      "line_id": "0135_han_001",
+      "bbox": [
+        [
+          146,
+          53
+        ],
+        [
+          339,
+          53
+        ],
+        [
+          339,
+          94
+        ],
+        [
+          146,
+          94
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          168
+        ],
+        [
+          339,
+          168
+        ],
+        [
+          339,
+          209
+        ],
+        [
+          146,
+          209
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        53,
+        339,
+        94
+      ],
+      "text": "分明報我皇.",
+      "confidence": 0.9927
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "願將深意為南疆，",
+      "分明報我皇."
+    ],
+    "interlinear_triplets": []
+  }
+}

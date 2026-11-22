@@ -1,0 +1,260 @@
+{
+  "page_id": "0094",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 94,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0094_han_000",
+      "bbox": [
+        [
+          173,
+          855
+        ],
+        [
+          763,
+          855
+        ],
+        [
+          763,
+          901
+        ],
+        [
+          173,
+          901
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1010
+        ],
+        [
+          763,
+          1010
+        ],
+        [
+          763,
+          1056
+        ],
+        [
+          173,
+          1056
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        855,
+        763,
+        901
+      ],
+      "text": "1* Nguyên ván : finh 青 khōng thuān nghīa ;  day theo hièu dinh cúa KHL2 : tài 才",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0094_han_001",
+      "bbox": [
+        [
+          214,
+          903
+        ],
+        [
+          763,
+          903
+        ],
+        [
+          763,
+          947
+        ],
+        [
+          214,
+          947
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1058
+        ],
+        [
+          763,
+          1058
+        ],
+        [
+          763,
+          1102
+        ],
+        [
+          214,
+          1102
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        903,
+        763,
+        947
+      ],
+      "text": "Nguyên văn ; bó can 甫 月干, nghīa là ǎn gan, không hop nghīa câu ;  dày theo hiu",
+      "confidence": 0.8751
+    },
+    {
+      "line_id": "0094_han_002",
+      "bbox": [
+        [
+          235,
+          944
+        ],
+        [
+          763,
+          944
+        ],
+        [
+          763,
+          984
+        ],
+        [
+          235,
+          984
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1099
+        ],
+        [
+          763,
+          1099
+        ],
+        [
+          763,
+          1139
+        ],
+        [
+          235,
+          1139
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        944,
+        763,
+        984
+      ],
+      "text": "dinh cǔa KHL2 : bó can甫 千 nghia là dánh bå chó.",
+      "confidence": 0.8606
+    },
+    {
+      "line_id": "0094_han_003",
+      "bbox": [
+        [
+          283,
+          1163
+        ],
+        [
+          1406,
+          1158
+        ],
+        [
+          1406,
+          1202
+        ],
+        [
+          283,
+          1206
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          1318
+        ],
+        [
+          1406,
+          1313
+        ],
+        [
+          1406,
+          1357
+        ],
+        [
+          283,
+          1361
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        1158,
+        1406,
+        1206
+      ],
+      "text": "Luong thugng quán tìù : kè tròm. Xuát xú tù càu nói cua Tràn Thyc 柬  làm",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0094_han_004",
+      "bbox": [
+        [
+          235,
+          1198
+        ],
+        [
+          763,
+          1198
+        ],
+        [
+          763,
+          1241
+        ],
+        [
+          235,
+          1241
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1353
+        ],
+        [
+          763,
+          1353
+        ],
+        [
+          763,
+          1396
+        ],
+        [
+          235,
+          1396
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1198,
+        763,
+        1241
+      ],
+      "text": "chúc truöng vùng Thái-khàu 太 立 doi Hàu Hán   (Trung-quóc). Môt dèm ông",
+      "confidence": 0.8855
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

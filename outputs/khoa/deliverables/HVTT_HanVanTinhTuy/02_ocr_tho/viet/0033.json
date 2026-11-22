@@ -1,0 +1,356 @@
+{
+  "page_id": "0033",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 33,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0033_viet_000",
+      "bbox": [
+        [
+          193,
+          70
+        ],
+        [
+          684,
+          69
+        ],
+        [
+          684,
+          107
+        ],
+        [
+          193,
+          108
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          191
+        ],
+        [
+          684,
+          190
+        ],
+        [
+          684,
+          228
+        ],
+        [
+          193,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        69,
+        684,
+        108
+      ],
+      "text": "THÚC-HƯỚNG HẠ TUYÊN-TỬ",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0033_viet_001",
+      "bbox": [
+        [
+          951,
+          71
+        ],
+        [
+          998,
+          71
+        ],
+        [
+          998,
+          110
+        ],
+        [
+          951,
+          110
+        ]
+      ],
+      "bbox_original": [
+        [
+          951,
+          192
+        ],
+        [
+          998,
+          192
+        ],
+        [
+          998,
+          231
+        ],
+        [
+          951,
+          231
+        ]
+      ],
+      "box_xyxy": [
+        951,
+        71,
+        998,
+        110
+      ],
+      "text": "27",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0033_viet_002",
+      "bbox": [
+        [
+          260,
+          441
+        ],
+        [
+          953,
+          446
+        ],
+        [
+          953,
+          484
+        ],
+        [
+          260,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          562
+        ],
+        [
+          953,
+          567
+        ],
+        [
+          953,
+          605
+        ],
+        [
+          260,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        441,
+        953,
+        484
+      ],
+      "text": "a rợ nhung bái phục, chư-hầu ngợi khen",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0033_viet_003",
+      "bbox": [
+        [
+          293,
+          617
+        ],
+        [
+          903,
+          624
+        ],
+        [
+          903,
+          662
+        ],
+        [
+          293,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          738
+        ],
+        [
+          903,
+          745
+        ],
+        [
+          903,
+          783
+        ],
+        [
+          293,
+          776
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        617,
+        903,
+        662
+      ],
+      "text": "a con: hoàn tử đã quên gương quý,",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0033_viet_004",
+      "bbox": [
+        [
+          296,
+          795
+        ],
+        [
+          834,
+          800
+        ],
+        [
+          834,
+          838
+        ],
+        [
+          296,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          916
+        ],
+        [
+          834,
+          921
+        ],
+        [
+          834,
+          959
+        ],
+        [
+          296,
+          955
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        795,
+        834,
+        838
+      ],
+      "text": "- Lại kiêu-căng, xa-xỉ, tham-tàn;",
+      "confidence": 0.899
+    },
+    {
+      "line_id": "0033_viet_005",
+      "bbox": [
+        [
+          360,
+          972
+        ],
+        [
+          824,
+          976
+        ],
+        [
+          824,
+          1018
+        ],
+        [
+          360,
+          1013
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          1093
+        ],
+        [
+          824,
+          1097
+        ],
+        [
+          824,
+          1139
+        ],
+        [
+          360,
+          1134
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        972,
+        824,
+        1018
+      ],
+      "text": "- Đến khi gặp phải tai-nàn,",
+      "confidence": 0.902
+    },
+    {
+      "line_id": "0033_viet_006",
+      "bbox": [
+        [
+          259,
+          1151
+        ],
+        [
+          935,
+          1153
+        ],
+        [
+          935,
+          1190
+        ],
+        [
+          259,
+          1188
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1272
+        ],
+        [
+          935,
+          1274
+        ],
+        [
+          935,
+          1311
+        ],
+        [
+          259,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1151,
+        935,
+        1190
+      ],
+      "text": "- May nhờ âm-đức, chết toàn được thân.",
+      "confidence": 0.9023
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

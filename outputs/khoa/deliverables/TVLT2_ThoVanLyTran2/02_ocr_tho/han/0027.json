@@ -1,0 +1,166 @@
+{
+  "page_id": "0027",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 27,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0027_han_000",
+      "bbox": [
+        [
+          168,
+          1723
+        ],
+        [
+          763,
+          1723
+        ],
+        [
+          763,
+          1784
+        ],
+        [
+          168,
+          1784
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1878
+        ],
+        [
+          763,
+          1878
+        ],
+        [
+          763,
+          1939
+        ],
+        [
+          168,
+          1939
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1723,
+        763,
+        1784
+      ],
+      "text": "1. Klz: quj 贵 và chú: qug khūng trách 贵 责 nghīa là chū quù e là chù trách.",
+      "confidence": 0.8786
+    },
+    {
+      "line_id": "0027_han_001",
+      "bbox": [
+        [
+          179,
+          1812
+        ],
+        [
+          1410,
+          1813
+        ],
+        [
+          1410,
+          1854
+        ],
+        [
+          179,
+          1853
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1967
+        ],
+        [
+          1410,
+          1968
+        ],
+        [
+          1410,
+          2009
+        ],
+        [
+          179,
+          2008
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1812,
+        1410,
+        1854
+      ],
+      "text": "2. KLz khòng có hai chǔ mgc bāt  不 nhung ghi chú bèn canh: thi hu khung hüu",
+      "confidence": 0.8608
+    },
+    {
+      "line_id": "0027_han_002",
+      "bbox": [
+        [
+          216,
+          1851
+        ],
+        [
+          766,
+          1851
+        ],
+        [
+          766,
+          1891
+        ],
+        [
+          216,
+          1891
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2006
+        ],
+        [
+          766,
+          2006
+        ],
+        [
+          766,
+          2046
+        ],
+        [
+          216,
+          2046
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1851,
+        766,
+        1891
+      ],
+      "text": "mac bt uhi tur 庶下恐有莫不二字",
+      "confidence": 0.8037
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

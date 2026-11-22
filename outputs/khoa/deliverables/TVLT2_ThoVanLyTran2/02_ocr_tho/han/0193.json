@@ -1,0 +1,260 @@
+{
+  "page_id": "0193",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 193,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0193_han_000",
+      "bbox": [
+        [
+          183,
+          1297
+        ],
+        [
+          403,
+          1299
+        ],
+        [
+          402,
+          1337
+        ],
+        [
+          183,
+          1335
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1452
+        ],
+        [
+          403,
+          1454
+        ],
+        [
+          402,
+          1492
+        ],
+        [
+          183,
+          1490
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1297,
+        403,
+        1337
+      ],
+      "text": "2* KHL1: r 自",
+      "confidence": 0.7944
+    },
+    {
+      "line_id": "0193_han_001",
+      "bbox": [
+        [
+          181,
+          1330
+        ],
+        [
+          582,
+          1328
+        ],
+        [
+          582,
+          1375
+        ],
+        [
+          181,
+          1377
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1485
+        ],
+        [
+          582,
+          1483
+        ],
+        [
+          582,
+          1530
+        ],
+        [
+          181,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1328,
+        582,
+        1377
+      ],
+      "text": "3* KHL1: long lhàn 龍 神",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0193_han_002",
+      "bbox": [
+        [
+          181,
+          1613
+        ],
+        [
+          763,
+          1613
+        ],
+        [
+          763,
+          1656
+        ],
+        [
+          181,
+          1656
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1768
+        ],
+        [
+          763,
+          1768
+        ],
+        [
+          763,
+          1811
+        ],
+        [
+          181,
+          1811
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1613,
+        763,
+        1656
+      ],
+      "text": "(3) Rirng nguu dàu : tire nguu dàu chièn dàn 牛 頭 方 檀 là tên môt loài cày hrong",
+      "confidence": 0.8813
+    },
+    {
+      "line_id": "0193_han_003",
+      "bbox": [
+        [
+          245,
+          1651
+        ],
+        [
+          763,
+          1651
+        ],
+        [
+          763,
+          1689
+        ],
+        [
+          245,
+          1689
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1806
+        ],
+        [
+          763,
+          1806
+        ],
+        [
+          763,
+          1844
+        ],
+        [
+          245,
+          1844
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1651,
+        763,
+        1689
+      ],
+      "text": "lieu i Tay vre; có hai thuyét. Theo Quan Phat tam muói hái kinh 见 佛 三 未",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0193_han_004",
+      "bbox": [
+        [
+          244,
+          1716
+        ],
+        [
+          763,
+          1716
+        ],
+        [
+          763,
+          1756
+        ],
+        [
+          244,
+          1756
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1871
+        ],
+        [
+          763,
+          1871
+        ],
+        [
+          763,
+          1911
+        ],
+        [
+          244,
+          1911
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1716,
+        763,
+        1756
+      ],
+      "text": "loai hrong rát nòi tiéng. Chinh pháp nièm kinh 正 法   thi nói cò mòt ngon",
+      "confidence": 0.9489
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

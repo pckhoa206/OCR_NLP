@@ -1,0 +1,940 @@
+{
+  "page_id": "0034",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 34,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0034_viet_000",
+      "bbox": [
+        [
+          191,
+          25
+        ],
+        [
+          233,
+          25
+        ],
+        [
+          233,
+          61
+        ],
+        [
+          191,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          146
+        ],
+        [
+          233,
+          146
+        ],
+        [
+          233,
+          182
+        ],
+        [
+          191,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        25,
+        233,
+        61
+      ],
+      "text": "28",
+      "confidence": 0.9402
+    },
+    {
+      "line_id": "0034_viet_001",
+      "bbox": [
+        [
+          659,
+          23
+        ],
+        [
+          985,
+          25
+        ],
+        [
+          985,
+          59
+        ],
+        [
+          659,
+          57
+        ]
+      ],
+      "bbox_original": [
+        [
+          659,
+          144
+        ],
+        [
+          985,
+          146
+        ],
+        [
+          985,
+          180
+        ],
+        [
+          659,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        659,
+        23,
+        985,
+        59
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0034_viet_002",
+      "bbox": [
+        [
+          229,
+          183
+        ],
+        [
+          733,
+          183
+        ],
+        [
+          733,
+          220
+        ],
+        [
+          229,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          304
+        ],
+        [
+          733,
+          304
+        ],
+        [
+          733,
+          341
+        ],
+        [
+          229,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        183,
+        733,
+        220
+      ],
+      "text": "cập Hoài tử cải Hoàn chi hạnh",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0034_viet_003",
+      "bbox": [
+        [
+          248,
+          227
+        ],
+        [
+          834,
+          230
+        ],
+        [
+          834,
+          268
+        ],
+        [
+          248,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          348
+        ],
+        [
+          834,
+          351
+        ],
+        [
+          834,
+          389
+        ],
+        [
+          248,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        227,
+        834,
+        268
+      ],
+      "text": "Đên Hoài-tử sửa lại nết xâu của hoàn,",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0034_viet_004",
+      "bbox": [
+        [
+          228,
+          349
+        ],
+        [
+          837,
+          354
+        ],
+        [
+          837,
+          392
+        ],
+        [
+          228,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          470
+        ],
+        [
+          837,
+          475
+        ],
+        [
+          837,
+          513
+        ],
+        [
+          228,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        349,
+        837,
+        392
+      ],
+      "text": "nhi tu Vũ chi đức, khả dĩ miễn ư nạn",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0034_viet_005",
+      "bbox": [
+        [
+          251,
+          398
+        ],
+        [
+          855,
+          401
+        ],
+        [
+          855,
+          438
+        ],
+        [
+          251,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          519
+        ],
+        [
+          855,
+          522
+        ],
+        [
+          855,
+          559
+        ],
+        [
+          251,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        398,
+        855,
+        438
+      ],
+      "text": "tu lây đức của Vũ, có thể tránh được nạn",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0034_viet_006",
+      "bbox": [
+        [
+          229,
+          520
+        ],
+        [
+          769,
+          522
+        ],
+        [
+          768,
+          560
+        ],
+        [
+          229,
+          558
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          641
+        ],
+        [
+          769,
+          643
+        ],
+        [
+          768,
+          681
+        ],
+        [
+          229,
+          679
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        520,
+        769,
+        560
+      ],
+      "text": "nhi li Hoàn chi tội dĩ vong ư Sở",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0034_viet_007",
+      "bbox": [
+        [
+          250,
+          567
+        ],
+        [
+          957,
+          568
+        ],
+        [
+          957,
+          609
+        ],
+        [
+          250,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          688
+        ],
+        [
+          957,
+          689
+        ],
+        [
+          957,
+          730
+        ],
+        [
+          250,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        567,
+        957,
+        609
+      ],
+      "text": "mà tránh tội của hoàn, phải lưu vong sang sở",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0034_viet_008",
+      "bbox": [
+        [
+          229,
+          691
+        ],
+        [
+          954,
+          692
+        ],
+        [
+          954,
+          730
+        ],
+        [
+          229,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          812
+        ],
+        [
+          954,
+          813
+        ],
+        [
+          954,
+          851
+        ],
+        [
+          229,
+          850
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        691,
+        954,
+        730
+      ],
+      "text": "Phù Khước-chiêu-tử, kỳ phú bán công-thất",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0034_viet_009",
+      "bbox": [
+        [
+          252,
+          738
+        ],
+        [
+          836,
+          741
+        ],
+        [
+          836,
+          779
+        ],
+        [
+          252,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          859
+        ],
+        [
+          836,
+          862
+        ],
+        [
+          836,
+          900
+        ],
+        [
+          252,
+          897
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        738,
+        836,
+        779
+      ],
+      "text": "Khước chiêu-tử giâu có bằng nửa nước",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0034_viet_010",
+      "bbox": [
+        [
+          230,
+          862
+        ],
+        [
+          573,
+          864
+        ],
+        [
+          573,
+          902
+        ],
+        [
+          230,
+          900
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          983
+        ],
+        [
+          573,
+          985
+        ],
+        [
+          573,
+          1023
+        ],
+        [
+          230,
+          1021
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        862,
+        573,
+        902
+      ],
+      "text": "kỳ gia bán tam quân,",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0034_viet_011",
+      "bbox": [
+        [
+          252,
+          910
+        ],
+        [
+          810,
+          908
+        ],
+        [
+          810,
+          948
+        ],
+        [
+          252,
+          950
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1031
+        ],
+        [
+          810,
+          1029
+        ],
+        [
+          810,
+          1069
+        ],
+        [
+          252,
+          1071
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        908,
+        810,
+        950
+      ],
+      "text": "người nhà đông bằng nửa số quân-đội",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0034_viet_012",
+      "bbox": [
+        [
+          232,
+          1034
+        ],
+        [
+          735,
+          1034
+        ],
+        [
+          735,
+          1071
+        ],
+        [
+          232,
+          1071
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1155
+        ],
+        [
+          735,
+          1155
+        ],
+        [
+          735,
+          1192
+        ],
+        [
+          232,
+          1192
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1034,
+        735,
+        1071
+      ],
+      "text": "thị kỳ phú sủng dĩ thái ư quốc",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0034_viet_013",
+      "bbox": [
+        [
+          257,
+          1082
+        ],
+        [
+          629,
+          1082
+        ],
+        [
+          629,
+          1120
+        ],
+        [
+          257,
+          1120
+        ]
+      ],
+      "bbox_original": [
+        [
+          257,
+          1203
+        ],
+        [
+          629,
+          1203
+        ],
+        [
+          629,
+          1241
+        ],
+        [
+          257,
+          1241
+        ]
+      ],
+      "box_xyxy": [
+        257,
+        1082,
+        629,
+        1120
+      ],
+      "text": "giầu có lại được vua yêu,",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0034_viet_014",
+      "bbox": [
+        [
+          231,
+          1198
+        ],
+        [
+          896,
+          1200
+        ],
+        [
+          896,
+          1240
+        ],
+        [
+          231,
+          1238
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1319
+        ],
+        [
+          896,
+          1321
+        ],
+        [
+          896,
+          1361
+        ],
+        [
+          231,
+          1359
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1198,
+        896,
+        1240
+      ],
+      "text": "kỳ thân thi ư triều, kỳ tông diệt ư Giáng",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0034_viet_015",
+      "bbox": [
+        [
+          254,
+          1246
+        ],
+        [
+          990,
+          1245
+        ],
+        [
+          990,
+          1287
+        ],
+        [
+          254,
+          1288
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1367
+        ],
+        [
+          990,
+          1366
+        ],
+        [
+          990,
+          1408
+        ],
+        [
+          254,
+          1409
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1245,
+        990,
+        1288
+      ],
+      "text": "bị phơi thây ở triều, dòng họ bị diệt ở kinh-thành.",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0034_viet_016",
+      "bbox": [
+        [
+          233,
+          1367
+        ],
+        [
+          889,
+          1369
+        ],
+        [
+          889,
+          1407
+        ],
+        [
+          233,
+          1405
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1488
+        ],
+        [
+          889,
+          1490
+        ],
+        [
+          889,
+          1528
+        ],
+        [
+          233,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1367,
+        889,
+        1407
+      ],
+      "text": "Bắt nhiên phù bát khước: ngũ đại phu",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0034_viet_017",
+      "bbox": [
+        [
+          258,
+          1416
+        ],
+        [
+          888,
+          1416
+        ],
+        [
+          888,
+          1453
+        ],
+        [
+          258,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          1537
+        ],
+        [
+          888,
+          1537
+        ],
+        [
+          888,
+          1574
+        ],
+        [
+          258,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        1416,
+        888,
+        1453
+      ],
+      "text": "Tám người họ khước thì năm làm đại-phu,",
+      "confidence": 0.9214
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "cập Hoài tử cải Hoàn chi hạnh",
+      "nhi tu Vũ chi đức, khả dĩ miễn ư nạn",
+      "nhi li Hoàn chi tội dĩ vong ư Sở",
+      "Phù Khước-chiêu-tử, kỳ phú bán công-thất",
+      "kỳ gia bán tam quân,",
+      "thị kỳ phú sủng dĩ thái ư quốc",
+      "kỳ thân thi ư triều, kỳ tông diệt ư Giáng",
+      "Bắt nhiên phù bát khước: ngũ đại phu"
+    ],
+    "dich_nghia_lines": [
+      "Đên Hoài-tử sửa lại nết xâu của hoàn,",
+      "tu lây đức của Vũ, có thể tránh được nạn",
+      "mà tránh tội của hoàn, phải lưu vong sang sở",
+      "Khước chiêu-tử giâu có bằng nửa nước",
+      "người nhà đông bằng nửa số quân-đội",
+      "giầu có lại được vua yêu,",
+      "bị phơi thây ở triều, dòng họ bị diệt ở kinh-thành.",
+      "Tám người họ khước thì năm làm đại-phu,"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "及懷子改桓之行",
+        "phien_am": "cập Hoài tử cải Hoàn chi hạnh",
+        "dich_nghia_gloss": "Đên Hoài-tử sửa lại nết xâu của hoàn,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "而修武之德可以免於難",
+        "phien_am": "nhi tu Vũ chi đức, khả dĩ miễn ư nạn",
+        "dich_nghia_gloss": "tu lây đức của Vũ, có thể tránh được nạn"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "而離桓之罪以亡於楚",
+        "phien_am": "nhi li Hoàn chi tội dĩ vong ư Sở",
+        "dich_nghia_gloss": "mà tránh tội của hoàn, phải lưu vong sang sở"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "夫卻昭子其富半公室",
+        "phien_am": "Phù Khước-chiêu-tử, kỳ phú bán công-thất",
+        "dich_nghia_gloss": "Khước chiêu-tử giâu có bằng nửa nước"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "其家半三軍",
+        "phien_am": "kỳ gia bán tam quân,",
+        "dich_nghia_gloss": "người nhà đông bằng nửa số quân-đội"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "恃其富寵以泰於國",
+        "phien_am": "thị kỳ phú sủng dĩ thái ư quốc",
+        "dich_nghia_gloss": "giầu có lại được vua yêu,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "其身尸於朝其宗滅於絳",
+        "phien_am": "kỳ thân thi ư triều, kỳ tông diệt ư Giáng",
+        "dich_nghia_gloss": "bị phơi thây ở triều, dòng họ bị diệt ở kinh-thành."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "不然夫八卻五大夫",
+        "phien_am": "Bắt nhiên phù bát khước: ngũ đại phu",
+        "dich_nghia_gloss": "Tám người họ khước thì năm làm đại-phu,"
+      }
+    ]
+  }
+}

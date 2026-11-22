@@ -1,0 +1,987 @@
+{
+  "page_id": "0020",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 20,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0020_viet_000",
+      "bbox": [
+        [
+          190,
+          28
+        ],
+        [
+          232,
+          28
+        ],
+        [
+          232,
+          63
+        ],
+        [
+          190,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          149
+        ],
+        [
+          232,
+          149
+        ],
+        [
+          232,
+          184
+        ],
+        [
+          190,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        28,
+        232,
+        63
+      ],
+      "text": "14",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0020_viet_001",
+      "bbox": [
+        [
+          666,
+          27
+        ],
+        [
+          989,
+          27
+        ],
+        [
+          989,
+          58
+        ],
+        [
+          666,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          148
+        ],
+        [
+          989,
+          148
+        ],
+        [
+          989,
+          179
+        ],
+        [
+          666,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        27,
+        989,
+        58
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0020_viet_002",
+      "bbox": [
+        [
+          228,
+          178
+        ],
+        [
+          830,
+          178
+        ],
+        [
+          830,
+          218
+        ],
+        [
+          228,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          299
+        ],
+        [
+          830,
+          299
+        ],
+        [
+          830,
+          339
+        ],
+        [
+          228,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        178,
+        830,
+        218
+      ],
+      "text": "Thiệu-công viết: thị chướng chi dã.",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0020_viet_003",
+      "bbox": [
+        [
+          253,
+          227
+        ],
+        [
+          823,
+          227
+        ],
+        [
+          823,
+          264
+        ],
+        [
+          253,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          348
+        ],
+        [
+          823,
+          348
+        ],
+        [
+          823,
+          385
+        ],
+        [
+          253,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        227,
+        823,
+        264
+      ],
+      "text": "Chiêu-công nói: ây là che lập vậy thôi",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0020_viet_004",
+      "bbox": [
+        [
+          229,
+          344
+        ],
+        [
+          934,
+          346
+        ],
+        [
+          934,
+          384
+        ],
+        [
+          229,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          465
+        ],
+        [
+          934,
+          467
+        ],
+        [
+          934,
+          505
+        ],
+        [
+          229,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        344,
+        934,
+        384
+      ],
+      "text": "Phòng dân chi khầu thậm ư phòng xuyên",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0020_viet_005",
+      "bbox": [
+        [
+          252,
+          394
+        ],
+        [
+          810,
+          394
+        ],
+        [
+          810,
+          434
+        ],
+        [
+          252,
+          434
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          515
+        ],
+        [
+          810,
+          515
+        ],
+        [
+          810,
+          555
+        ],
+        [
+          252,
+          555
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        394,
+        810,
+        434
+      ],
+      "text": "ngừa miệng dân cũng như ngừa sông",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0020_viet_006",
+      "bbox": [
+        [
+          231,
+          508
+        ],
+        [
+          901,
+          508
+        ],
+        [
+          901,
+          545
+        ],
+        [
+          231,
+          545
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          629
+        ],
+        [
+          901,
+          629
+        ],
+        [
+          901,
+          666
+        ],
+        [
+          231,
+          666
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        508,
+        901,
+        545
+      ],
+      "text": "Xuyên úng nhi hội thương nhân tất da.",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0020_viet_007",
+      "bbox": [
+        [
+          253,
+          554
+        ],
+        [
+          762,
+          554
+        ],
+        [
+          762,
+          595
+        ],
+        [
+          253,
+          595
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          675
+        ],
+        [
+          762,
+          675
+        ],
+        [
+          762,
+          716
+        ],
+        [
+          253,
+          716
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        554,
+        762,
+        595
+      ],
+      "text": "Sông úng võ đê thì hại rất nhiều",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0020_viet_008",
+      "bbox": [
+        [
+          230,
+          670
+        ],
+        [
+          525,
+          670
+        ],
+        [
+          525,
+          707
+        ],
+        [
+          230,
+          707
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          791
+        ],
+        [
+          525,
+          791
+        ],
+        [
+          525,
+          828
+        ],
+        [
+          230,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        670,
+        525,
+        707
+      ],
+      "text": "Dân diệc như chi.",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0020_viet_009",
+      "bbox": [
+        [
+          249,
+          714
+        ],
+        [
+          608,
+          717
+        ],
+        [
+          608,
+          758
+        ],
+        [
+          249,
+          755
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          835
+        ],
+        [
+          608,
+          838
+        ],
+        [
+          608,
+          879
+        ],
+        [
+          249,
+          876
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        714,
+        608,
+        758
+      ],
+      "text": "Dân cũng như sông vậy",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0020_viet_010",
+      "bbox": [
+        [
+          228,
+          834
+        ],
+        [
+          855,
+          835
+        ],
+        [
+          855,
+          875
+        ],
+        [
+          228,
+          874
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          955
+        ],
+        [
+          855,
+          956
+        ],
+        [
+          855,
+          996
+        ],
+        [
+          228,
+          995
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        834,
+        855,
+        875
+      ],
+      "text": "Thị cõ vị xuyên giả quyết chi xử đạo",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0020_viet_011",
+      "bbox": [
+        [
+          250,
+          881
+        ],
+        [
+          795,
+          884
+        ],
+        [
+          795,
+          922
+        ],
+        [
+          250,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1002
+        ],
+        [
+          795,
+          1005
+        ],
+        [
+          795,
+          1043
+        ],
+        [
+          250,
+          1040
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        881,
+        795,
+        922
+      ],
+      "text": "Cho nên vì sông, thì phải khơi dòng",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0020_viet_012",
+      "bbox": [
+        [
+          230,
+          996
+        ],
+        [
+          718,
+          998
+        ],
+        [
+          718,
+          1037
+        ],
+        [
+          230,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1117
+        ],
+        [
+          718,
+          1119
+        ],
+        [
+          718,
+          1158
+        ],
+        [
+          230,
+          1155
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        996,
+        718,
+        1037
+      ],
+      "text": "Vị dân giả tuyên chi xử ngôn",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0020_viet_013",
+      "bbox": [
+        [
+          251,
+          1042
+        ],
+        [
+          667,
+          1045
+        ],
+        [
+          667,
+          1083
+        ],
+        [
+          251,
+          1081
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1163
+        ],
+        [
+          667,
+          1166
+        ],
+        [
+          667,
+          1204
+        ],
+        [
+          251,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1042,
+        667,
+        1083
+      ],
+      "text": "vì dân phải lầy lời mà tỏ ra",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0020_viet_014",
+      "bbox": [
+        [
+          251,
+          1088
+        ],
+        [
+          699,
+          1091
+        ],
+        [
+          699,
+          1129
+        ],
+        [
+          251,
+          1126
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1209
+        ],
+        [
+          699,
+          1212
+        ],
+        [
+          699,
+          1250
+        ],
+        [
+          251,
+          1247
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1088,
+        699,
+        1129
+      ],
+      "text": "vì dân, cho tự đáy lòng nói ra,",
+      "confidence": 0.9345
+    },
+    {
+      "line_id": "0020_viet_015",
+      "bbox": [
+        [
+          229,
+          1203
+        ],
+        [
+          630,
+          1205
+        ],
+        [
+          630,
+          1242
+        ],
+        [
+          229,
+          1240
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1324
+        ],
+        [
+          630,
+          1326
+        ],
+        [
+          630,
+          1363
+        ],
+        [
+          229,
+          1361
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1203,
+        630,
+        1242
+      ],
+      "text": "Cõ thiên-tử thính chính,",
+      "confidence": 0.8977
+    },
+    {
+      "line_id": "0020_viet_016",
+      "bbox": [
+        [
+          251,
+          1250
+        ],
+        [
+          546,
+          1253
+        ],
+        [
+          546,
+          1292
+        ],
+        [
+          251,
+          1290
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1371
+        ],
+        [
+          546,
+          1374
+        ],
+        [
+          546,
+          1413
+        ],
+        [
+          251,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1250,
+        546,
+        1292
+      ],
+      "text": "nên vua ngồi cai trị",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0020_viet_017",
+      "bbox": [
+        [
+          228,
+          1368
+        ],
+        [
+          839,
+          1367
+        ],
+        [
+          839,
+          1404
+        ],
+        [
+          228,
+          1405
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1489
+        ],
+        [
+          839,
+          1488
+        ],
+        [
+          839,
+          1525
+        ],
+        [
+          228,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1367,
+        839,
+        1405
+      ],
+      "text": "Xử công khanh chí ư liệt sĩ hiền thi",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0020_viet_018",
+      "bbox": [
+        [
+          253,
+          1417
+        ],
+        [
+          771,
+          1417
+        ],
+        [
+          771,
+          1451
+        ],
+        [
+          253,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1538
+        ],
+        [
+          771,
+          1538
+        ],
+        [
+          771,
+          1572
+        ],
+        [
+          253,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1417,
+        771,
+        1451
+      ],
+      "text": "cho các quan cùng kẻ sĩ dâng thơ",
+      "confidence": 0.9318
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Thiệu-công viết: thị chướng chi dã.",
+      "Phòng dân chi khầu thậm ư phòng xuyên",
+      "Xuyên úng nhi hội thương nhân tất da.",
+      "Dân diệc như chi.",
+      "Thị cõ vị xuyên giả quyết chi xử đạo",
+      "Vị dân giả tuyên chi xử ngôn",
+      "Cõ thiên-tử thính chính,",
+      "Xử công khanh chí ư liệt sĩ hiền thi"
+    ],
+    "dich_nghia_lines": [
+      "Chiêu-công nói: ây là che lập vậy thôi",
+      "ngừa miệng dân cũng như ngừa sông",
+      "Sông úng võ đê thì hại rất nhiều",
+      "Dân cũng như sông vậy",
+      "Cho nên vì sông, thì phải khơi dòng",
+      "vì dân phải lầy lời mà tỏ ra vì dân, cho tự đáy lòng nói ra,",
+      "nên vua ngồi cai trị",
+      "cho các quan cùng kẻ sĩ dâng thơ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "召公曰是障之也",
+        "phien_am": "Thiệu-công viết: thị chướng chi dã.",
+        "dich_nghia_gloss": "Chiêu-công nói: ây là che lập vậy thôi"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "防民之口甚於防川",
+        "phien_am": "Phòng dân chi khầu thậm ư phòng xuyên",
+        "dich_nghia_gloss": "ngừa miệng dân cũng như ngừa sông"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "川壅而潰傷人必多",
+        "phien_am": "Xuyên úng nhi hội thương nhân tất da.",
+        "dich_nghia_gloss": "Sông úng võ đê thì hại rất nhiều"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "民亦如之",
+        "phien_am": "Dân diệc như chi.",
+        "dich_nghia_gloss": "Dân cũng như sông vậy"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "是故爲川者决之使導",
+        "phien_am": "Thị cõ vị xuyên giả quyết chi xử đạo",
+        "dich_nghia_gloss": "Cho nên vì sông, thì phải khơi dòng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "爲民者宣之使言",
+        "phien_am": "Vị dân giả tuyên chi xử ngôn",
+        "dich_nghia_gloss": "vì dân phải lầy lời mà tỏ ra vì dân, cho tự đáy lòng nói ra,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "故天子聽政",
+        "phien_am": "Cõ thiên-tử thính chính,",
+        "dich_nghia_gloss": "nên vua ngồi cai trị"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "使公卿至於列士獻詩",
+        "phien_am": "Xử công khanh chí ư liệt sĩ hiền thi",
+        "dich_nghia_gloss": "cho các quan cùng kẻ sĩ dâng thơ"
+      }
+    ]
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "page_id": "0100",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 100,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0100_viet_000",
+      "bbox": [
+        [
+          192,
+          29
+        ],
+        [
+          234,
+          29
+        ],
+        [
+          234,
+          65
+        ],
+        [
+          192,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          150
+        ],
+        [
+          234,
+          150
+        ],
+        [
+          234,
+          186
+        ],
+        [
+          192,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        29,
+        234,
+        65
+      ],
+      "text": "94",
+      "confidence": 0.9401
+    },
+    {
+      "line_id": "0100_viet_001",
+      "bbox": [
+        [
+          667,
+          26
+        ],
+        [
+          989,
+          26
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          667,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          147
+        ],
+        [
+          989,
+          147
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          667,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        26,
+        989,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.8906
+    },
+    {
+      "line_id": "0100_viet_002",
+      "bbox": [
+        [
+          370,
+          182
+        ],
+        [
+          771,
+          182
+        ],
+        [
+          771,
+          219
+        ],
+        [
+          370,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          303
+        ],
+        [
+          771,
+          303
+        ],
+        [
+          771,
+          340
+        ],
+        [
+          370,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        182,
+        771,
+        219
+      ],
+      "text": "Mộ đầu Thạch-hào-thôn,",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0100_viet_003",
+      "bbox": [
+        [
+          370,
+          292
+        ],
+        [
+          733,
+          292
+        ],
+        [
+          733,
+          330
+        ],
+        [
+          370,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          413
+        ],
+        [
+          733,
+          413
+        ],
+        [
+          733,
+          451
+        ],
+        [
+          370,
+          451
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        292,
+        733,
+        330
+      ],
+      "text": "Hữu lại dạ tróc nhân,",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0100_viet_004",
+      "bbox": [
+        [
+          369,
+          404
+        ],
+        [
+          746,
+          404
+        ],
+        [
+          746,
+          442
+        ],
+        [
+          369,
+          442
+        ]
+      ],
+      "bbox_original": [
+        [
+          369,
+          525
+        ],
+        [
+          746,
+          525
+        ],
+        [
+          746,
+          563
+        ],
+        [
+          369,
+          563
+        ]
+      ],
+      "box_xyxy": [
+        369,
+        404,
+        746,
+        442
+      ],
+      "text": "Lào ông du tường tần",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0100_viet_005",
+      "bbox": [
+        [
+          370,
+          513
+        ],
+        [
+          827,
+          513
+        ],
+        [
+          827,
+          553
+        ],
+        [
+          370,
+          553
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          634
+        ],
+        [
+          827,
+          634
+        ],
+        [
+          827,
+          674
+        ],
+        [
+          370,
+          674
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        513,
+        827,
+        553
+      ],
+      "text": "Lão phụ xuất môn nghênh.",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0100_viet_006",
+      "bbox": [
+        [
+          371,
+          626
+        ],
+        [
+          697,
+          626
+        ],
+        [
+          697,
+          667
+        ],
+        [
+          371,
+          667
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          747
+        ],
+        [
+          697,
+          747
+        ],
+        [
+          697,
+          788
+        ],
+        [
+          371,
+          788
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        626,
+        697,
+        667
+      ],
+      "text": "Lại hô nhất hà nộ",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0100_viet_007",
+      "bbox": [
+        [
+          370,
+          737
+        ],
+        [
+          739,
+          737
+        ],
+        [
+          739,
+          775
+        ],
+        [
+          370,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          858
+        ],
+        [
+          739,
+          858
+        ],
+        [
+          739,
+          896
+        ],
+        [
+          370,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        737,
+        739,
+        775
+      ],
+      "text": "Phụ đề nhất hà khồ",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0100_viet_008",
+      "bbox": [
+        [
+          370,
+          850
+        ],
+        [
+          771,
+          848
+        ],
+        [
+          772,
+          889
+        ],
+        [
+          370,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          971
+        ],
+        [
+          771,
+          969
+        ],
+        [
+          772,
+          1010
+        ],
+        [
+          370,
+          1012
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        848,
+        772,
+        891
+      ],
+      "text": "Thính phụ tiền chi tíc",
+      "confidence": 0.8681
+    },
+    {
+      "line_id": "0100_viet_009",
+      "bbox": [
+        [
+          370,
+          963
+        ],
+        [
+          849,
+          963
+        ],
+        [
+          849,
+          1003
+        ],
+        [
+          370,
+          1003
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          1084
+        ],
+        [
+          849,
+          1084
+        ],
+        [
+          849,
+          1124
+        ],
+        [
+          370,
+          1124
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        963,
+        849,
+        1003
+      ],
+      "text": "Tam nam Nghiệp thành thú",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0100_viet_010",
+      "bbox": [
+        [
+          370,
+          1076
+        ],
+        [
+          789,
+          1076
+        ],
+        [
+          789,
+          1117
+        ],
+        [
+          370,
+          1117
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          1197
+        ],
+        [
+          789,
+          1197
+        ],
+        [
+          789,
+          1238
+        ],
+        [
+          370,
+          1238
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        1076,
+        789,
+        1117
+      ],
+      "text": "Nhất nam phụ thư chí:",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0100_viet_011",
+      "bbox": [
+        [
+          371,
+          1190
+        ],
+        [
+          749,
+          1190
+        ],
+        [
+          749,
+          1228
+        ],
+        [
+          371,
+          1228
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          1311
+        ],
+        [
+          749,
+          1311
+        ],
+        [
+          749,
+          1349
+        ],
+        [
+          371,
+          1349
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1190,
+        749,
+        1228
+      ],
+      "text": "Nhị nam tân chiến tử",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0100_viet_012",
+      "bbox": [
+        [
+          371,
+          1304
+        ],
+        [
+          748,
+          1304
+        ],
+        [
+          748,
+          1342
+        ],
+        [
+          371,
+          1342
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          1425
+        ],
+        [
+          748,
+          1425
+        ],
+        [
+          748,
+          1463
+        ],
+        [
+          371,
+          1463
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1304,
+        748,
+        1342
+      ],
+      "text": "Tồn giả thả thâu sinh,",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0100_viet_013",
+      "bbox": [
+        [
+          369,
+          1415
+        ],
+        [
+          732,
+          1415
+        ],
+        [
+          732,
+          1453
+        ],
+        [
+          369,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          369,
+          1536
+        ],
+        [
+          732,
+          1536
+        ],
+        [
+          732,
+          1574
+        ],
+        [
+          369,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        369,
+        1415,
+        732,
+        1453
+      ],
+      "text": "Tử giả trường dĩ hĩ.",
+      "confidence": 0.896
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Mộ đầu Thạch-hào-thôn,",
+      "Hữu lại dạ tróc nhân,",
+      "Lào ông du tường tần",
+      "Lão phụ xuất môn nghênh.",
+      "Lại hô nhất hà nộ",
+      "Phụ đề nhất hà khồ",
+      "Thính phụ tiền chi tíc",
+      "Tam nam Nghiệp thành thú",
+      "Nhất nam phụ thư chí:",
+      "Nhị nam tân chiến tử",
+      "Tồn giả thả thâu sinh,",
+      "Tử giả trường dĩ hĩ."
+    ],
+    "dich_nghia_lines": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "暮投石壕邨",
+        "phien_am": "Mộ đầu Thạch-hào-thôn,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "有吏夜捉人",
+        "phien_am": "Hữu lại dạ tróc nhân,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "老翁踰墙走",
+        "phien_am": "Lào ông du tường tần",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "老婦出門迎",
+        "phien_am": "Lão phụ xuất môn nghênh.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吏呼一何怒",
+        "phien_am": "Lại hô nhất hà nộ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "婦啼一何苦",
+        "phien_am": "Phụ đề nhất hà khồ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "聽婦前致辭",
+        "phien_am": "Thính phụ tiền chi tíc",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "三男鄴城戌",
+        "phien_am": "Tam nam Nghiệp thành thú",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "一男附畫至",
+        "phien_am": "Nhất nam phụ thư chí:",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "二男新戰死",
+        "phien_am": "Nhị nam tân chiến tử",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "存者且偷生",
+        "phien_am": "Tồn giả thả thâu sinh,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "死者長已矣",
+        "phien_am": "Tử giả trường dĩ hĩ.",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

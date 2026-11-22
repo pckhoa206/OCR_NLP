@@ -1,0 +1,2325 @@
+{
+  "page_id": "0067",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 67,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0067_viet_000",
+      "bbox": [
+        [
+          631,
+          2
+        ],
+        [
+          812,
+          2
+        ],
+        [
+          812,
+          9
+        ],
+        [
+          631,
+          9
+        ]
+      ],
+      "bbox_original": [
+        [
+          631,
+          157
+        ],
+        [
+          812,
+          157
+        ],
+        [
+          812,
+          164
+        ],
+        [
+          631,
+          164
+        ]
+      ],
+      "box_xyxy": [
+        631,
+        2,
+        812,
+        9
+      ],
+      "text": "014%3:31hsy-11",
+      "confidence": 0.6125
+    },
+    {
+      "line_id": "0067_viet_001",
+      "bbox": [
+        [
+          234,
+          121
+        ],
+        [
+          1406,
+          121
+        ],
+        [
+          1406,
+          165
+        ],
+        [
+          234,
+          165
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          276
+        ],
+        [
+          1406,
+          276
+        ],
+        [
+          1406,
+          320
+        ],
+        [
+          234,
+          320
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        121,
+        1406,
+        165
+      ],
+      "text": "mộ là người, có nhiều công lạo với triều đình và đã từng phụ chính trong nhiều năm",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0067_viet_002",
+      "bbox": [
+        [
+          731,
+          156
+        ],
+        [
+          1405,
+          156
+        ],
+        [
+          1405,
+          198
+        ],
+        [
+          731,
+          198
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          311
+        ],
+        [
+          1405,
+          311
+        ],
+        [
+          1405,
+          353
+        ],
+        [
+          731,
+          353
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        156,
+        1405,
+        198
+      ],
+      "text": "Đồng đó R ấn đặt tên hiệu là Lục Đã Thảo",
+      "confidence": 0.8551
+    },
+    {
+      "line_id": "0067_viet_003",
+      "bbox": [
+        [
+          731,
+          189
+        ],
+        [
+          1405,
+          189
+        ],
+        [
+          1405,
+          232
+        ],
+        [
+          731,
+          232
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          344
+        ],
+        [
+          1405,
+          344
+        ],
+        [
+          1405,
+          387
+        ],
+        [
+          731,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        189,
+        1405,
+        232
+      ],
+      "text": "các danh sĩ uống rượu, ngàm thơ. không bàn",
+      "confidence": 0.8899
+    },
+    {
+      "line_id": "0067_viet_004",
+      "bbox": [
+        [
+          236,
+          222
+        ],
+        [
+          1401,
+          222
+        ],
+        [
+          1401,
+          265
+        ],
+        [
+          236,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          377
+        ],
+        [
+          1401,
+          377
+        ],
+        [
+          1401,
+          420
+        ],
+        [
+          236,
+          420
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        222,
+        1401,
+        265
+      ],
+      "text": "Họ đến việc đời mữa. Thạch Sương: một cao tảng đời Đường tên là sở viên lễ 5)",
+      "confidence": 0.8541
+    },
+    {
+      "line_id": "0067_viet_005",
+      "bbox": [
+        [
+          234,
+          254
+        ],
+        [
+          1404,
+          252
+        ],
+        [
+          1404,
+          296
+        ],
+        [
+          234,
+          298
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          409
+        ],
+        [
+          1404,
+          407
+        ],
+        [
+          1404,
+          451
+        ],
+        [
+          234,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        252,
+        1404,
+        298
+      ],
+      "text": "tru trì ở múi Thạch sương 20, năm (vì thế cơ tên là Thạch Sường). chỉ ngòi không năm",
+      "confidence": 0.8641
+    },
+    {
+      "line_id": "0067_viet_006",
+      "bbox": [
+        [
+          731,
+          288
+        ],
+        [
+          1406,
+          288
+        ],
+        [
+          1406,
+          330
+        ],
+        [
+          731,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          443
+        ],
+        [
+          1406,
+          443
+        ],
+        [
+          1406,
+          485
+        ],
+        [
+          731,
+          485
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        288,
+        1406,
+        330
+      ],
+      "text": "Hoàng long Đ E và Dương kỳ tế - L Xem",
+      "confidence": 0.781
+    },
+    {
+      "line_id": "0067_viet_007",
+      "bbox": [
+        [
+          238,
+          326
+        ],
+        [
+          549,
+          320
+        ],
+        [
+          550,
+          357
+        ],
+        [
+          239,
+          364
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          481
+        ],
+        [
+          549,
+          475
+        ],
+        [
+          550,
+          512
+        ],
+        [
+          239,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        320,
+        550,
+        364
+      ],
+      "text": "băng Phà hệ cuối sách.",
+      "confidence": 0.8747
+    },
+    {
+      "line_id": "0067_viet_008",
+      "bbox": [
+        [
+          297,
+          364
+        ],
+        [
+          1007,
+          360
+        ],
+        [
+          1007,
+          400
+        ],
+        [
+          297,
+          405
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          519
+        ],
+        [
+          1007,
+          515
+        ],
+        [
+          1007,
+          555
+        ],
+        [
+          297,
+          560
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        360,
+        1007,
+        405
+      ],
+      "text": "Điền Bùi Công cướp hốt của Thạch Sử ông chứa rờ",
+      "confidence": 0.8709
+    },
+    {
+      "line_id": "0067_viet_009",
+      "bbox": [
+        [
+          170,
+          414
+        ],
+        [
+          1392,
+          405
+        ],
+        [
+          1392,
+          456
+        ],
+        [
+          170,
+          464
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          569
+        ],
+        [
+          1392,
+          560
+        ],
+        [
+          1392,
+          611
+        ],
+        [
+          170,
+          619
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        405,
+        1392,
+        464
+      ],
+      "text": "(25) Phong Tướng hải phép ở Quốc Nhất, Phòng Tướng . có là là Phàng Huyền Linh Á",
+      "confidence": 0.8413
+    },
+    {
+      "line_id": "0067_viet_010",
+      "bbox": [
+        [
+          731,
+          445
+        ],
+        [
+          1407,
+          445
+        ],
+        [
+          1407,
+          496
+        ],
+        [
+          731,
+          496
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          600
+        ],
+        [
+          1407,
+          600
+        ],
+        [
+          1407,
+          651
+        ],
+        [
+          731,
+          651
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        445,
+        1407,
+        496
+      ],
+      "text": "Người Lâm trì Bà là đã giúp Đường Thái",
+      "confidence": 0.807
+    },
+    {
+      "line_id": "0067_viet_011",
+      "bbox": [
+        [
+          232,
+          489
+        ],
+        [
+          1395,
+          484
+        ],
+        [
+          1395,
+          528
+        ],
+        [
+          233,
+          533
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          644
+        ],
+        [
+          1395,
+          639
+        ],
+        [
+          1395,
+          683
+        ],
+        [
+          233,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        484,
+        1395,
+        533
+      ],
+      "text": "Tổng đưng nghiệp. làm Tố tương được Lỗ năm và, được phong Lương Quốc công A",
+      "confidence": 0.8818
+    },
+    {
+      "line_id": "0067_viet_012",
+      "bbox": [
+        [
+          731,
+          518
+        ],
+        [
+          1398,
+          518
+        ],
+        [
+          1398,
+          567
+        ],
+        [
+          731,
+          567
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          673
+        ],
+        [
+          1398,
+          673
+        ],
+        [
+          1398,
+          722
+        ],
+        [
+          731,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        518,
+        1398,
+        567
+      ],
+      "text": "Sự Đạo Khám 52 m ở Kinh sơn 13",
+      "confidence": 0.8024
+    },
+    {
+      "line_id": "0067_viet_013",
+      "bbox": [
+        [
+          731,
+          551
+        ],
+        [
+          1408,
+          551
+        ],
+        [
+          1408,
+          607
+        ],
+        [
+          731,
+          607
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          706
+        ],
+        [
+          1408,
+          706
+        ],
+        [
+          1408,
+          762
+        ],
+        [
+          731,
+          762
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        551,
+        1408,
+        607
+      ],
+      "text": "Nhưng thị năm Đại Lịch thi ba, ông được",
+      "confidence": 0.7802
+    },
+    {
+      "line_id": "0067_viet_014",
+      "bbox": [
+        [
+          231,
+          595
+        ],
+        [
+          1405,
+          590
+        ],
+        [
+          1405,
+          637
+        ],
+        [
+          232,
+          643
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          750
+        ],
+        [
+          1405,
+          745
+        ],
+        [
+          1405,
+          792
+        ],
+        [
+          232,
+          798
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        590,
+        1405,
+        643
+      ],
+      "text": "với đến cửa khuyết hội về đạo, Nhở đổi đập vửa y. được vua phong là Quốc Nhất",
+      "confidence": 0.8818
+    },
+    {
+      "line_id": "0067_viet_015",
+      "bbox": [
+        [
+          232,
+          630
+        ],
+        [
+          1407,
+          628
+        ],
+        [
+          1407,
+          676
+        ],
+        [
+          232,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          785
+        ],
+        [
+          1407,
+          783
+        ],
+        [
+          1407,
+          831
+        ],
+        [
+          232,
+          833
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        628,
+        1407,
+        678
+      ],
+      "text": "Sau ông lui, trở về Kinh-sơn tu hành và mất năm Trình Nguyên thứ tâm (1131), thuy",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0067_viet_016",
+      "bbox": [
+        [
+          231,
+          672
+        ],
+        [
+          910,
+          661
+        ],
+        [
+          910,
+          705
+        ],
+        [
+          232,
+          715
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          827
+        ],
+        [
+          910,
+          816
+        ],
+        [
+          910,
+          860
+        ],
+        [
+          232,
+          870
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        661,
+        910,
+        715
+      ],
+      "text": "Là Dụt Giác - Xem bằng Phà hệ cuối sách",
+      "confidence": 0.8631
+    },
+    {
+      "line_id": "0067_viet_017",
+      "bbox": [
+        [
+          168,
+          717
+        ],
+        [
+          1411,
+          710
+        ],
+        [
+          1411,
+          764
+        ],
+        [
+          168,
+          771
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          872
+        ],
+        [
+          1411,
+          865
+        ],
+        [
+          1411,
+          919
+        ],
+        [
+          168,
+          926
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        710,
+        1411,
+        771
+      ],
+      "text": "C7) Diệu Thiên - theo Kinh bã chúa Ba thi Diệu Thiện là con gái thức bị. vào Trang Vương (7)",
+      "confidence": 0.8527
+    },
+    {
+      "line_id": "0067_viet_018",
+      "bbox": [
+        [
+          731,
+          749
+        ],
+        [
+          1409,
+          749
+        ],
+        [
+          1409,
+          802
+        ],
+        [
+          731,
+          802
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          904
+        ],
+        [
+          1409,
+          904
+        ],
+        [
+          1409,
+          957
+        ],
+        [
+          731,
+          957
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        749,
+        1409,
+        802
+      ],
+      "text": "Và Diệu Duyên Đây tử - Khi ba con đi lớn vua",
+      "confidence": 0.8351
+    },
+    {
+      "line_id": "0067_viet_019",
+      "bbox": [
+        [
+          233,
+          792
+        ],
+        [
+          1404,
+          789
+        ],
+        [
+          1404,
+          832
+        ],
+        [
+          234,
+          835
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          947
+        ],
+        [
+          1404,
+          944
+        ],
+        [
+          1404,
+          987
+        ],
+        [
+          234,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        789,
+        1404,
+        835
+      ],
+      "text": "muốn cả chồng, hai chị nghe theo, riêng Diệu Thiện không chữu, trốn sang núi Hương",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0067_viet_020",
+      "bbox": [
+        [
+          731,
+          820
+        ],
+        [
+          1077,
+          820
+        ],
+        [
+          1077,
+          875
+        ],
+        [
+          731,
+          875
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          975
+        ],
+        [
+          1077,
+          975
+        ],
+        [
+          1077,
+          1030
+        ],
+        [
+          731,
+          1030
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        820,
+        1077,
+        875
+      ],
+      "text": "0, tức phật bà quan âm.",
+      "confidence": 0.8239
+    },
+    {
+      "line_id": "0067_viet_021",
+      "bbox": [
+        [
+          171,
+          881
+        ],
+        [
+          1126,
+          870
+        ],
+        [
+          1126,
+          915
+        ],
+        [
+          171,
+          926
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1036
+        ],
+        [
+          1126,
+          1025
+        ],
+        [
+          1126,
+          1070
+        ],
+        [
+          171,
+          1081
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        870,
+        1126,
+        926
+      ],
+      "text": "(28) Lục tờ: Xem Cấnt. 2, bài Thiên tông chỉ nam 117, số 3, cùng tác giả.",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0067_viet_022",
+      "bbox": [
+        [
+          170,
+          931
+        ],
+        [
+          1403,
+          922
+        ],
+        [
+          1403,
+          967
+        ],
+        [
+          170,
+          975
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1086
+        ],
+        [
+          1403,
+          1077
+        ],
+        [
+          1403,
+          1122
+        ],
+        [
+          170,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        922,
+        1403,
+        975
+      ],
+      "text": "(29) Hoa-lâm khiến hai hồ củm theo - theo hòa thượng Phúc Điền, Hoa-làm là tôn chùa. Vị sư",
+      "confidence": 0.8713
+    },
+    {
+      "line_id": "0067_viet_023",
+      "bbox": [
+        [
+          229,
+          966
+        ],
+        [
+          1407,
+          960
+        ],
+        [
+          1407,
+          1004
+        ],
+        [
+          230,
+          1010
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1121
+        ],
+        [
+          1407,
+          1115
+        ],
+        [
+          1407,
+          1159
+        ],
+        [
+          230,
+          1165
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        960,
+        1407,
+        1010
+      ],
+      "text": "tu ở đây, trước trụ trì ở Linh-sơn - E ch. Khi đã đắc, pháp, thường có hai con hồ ra",
+      "confidence": 0.8562
+    },
+    {
+      "line_id": "0067_viet_024",
+      "bbox": [
+        [
+          237,
+          1010
+        ],
+        [
+          439,
+          1006
+        ],
+        [
+          439,
+          1040
+        ],
+        [
+          238,
+          1044
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1165
+        ],
+        [
+          439,
+          1161
+        ],
+        [
+          439,
+          1195
+        ],
+        [
+          238,
+          1199
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1006,
+        439,
+        1044
+      ],
+      "text": "vào nghe kinh",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0067_viet_025",
+      "bbox": [
+        [
+          172,
+          1056
+        ],
+        [
+          1364,
+          1044
+        ],
+        [
+          1365,
+          1084
+        ],
+        [
+          172,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1211
+        ],
+        [
+          1364,
+          1199
+        ],
+        [
+          1365,
+          1239
+        ],
+        [
+          172,
+          1251
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1044,
+        1365,
+        1096
+      ],
+      "text": "(30) Đầu Từ có ba chim báo sing: cũng theo Phúc Điển, Đầu Tỷ trù tri ở Động-ươn .51 \"1.",
+      "confidence": 0.8719
+    },
+    {
+      "line_id": "0067_viet_026",
+      "bbox": [
+        [
+          234,
+          1089
+        ],
+        [
+          1405,
+          1083
+        ],
+        [
+          1405,
+          1120
+        ],
+        [
+          235,
+          1126
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1244
+        ],
+        [
+          1405,
+          1238
+        ],
+        [
+          1405,
+          1275
+        ],
+        [
+          235,
+          1281
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1083,
+        1405,
+        1126
+      ],
+      "text": "thân thộng biển hóa, người thường không thể lường biết được. Trước cửa chùa",
+      "confidence": 0.8975
+    },
+    {
+      "line_id": "0067_viet_027",
+      "bbox": [
+        [
+          233,
+          1122
+        ],
+        [
+          1331,
+          1117
+        ],
+        [
+          1331,
+          1155
+        ],
+        [
+          234,
+          1161
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1277
+        ],
+        [
+          1331,
+          1272
+        ],
+        [
+          1331,
+          1310
+        ],
+        [
+          234,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1117,
+        1331,
+        1161
+      ],
+      "text": "thường có ba con qua nghe kinh và bảo sáng, Ông cũng có tên là Đầu Tử Ngung",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0067_viet_028",
+      "bbox": [
+        [
+          172,
+          1171
+        ],
+        [
+          1405,
+          1162
+        ],
+        [
+          1405,
+          1204
+        ],
+        [
+          172,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1326
+        ],
+        [
+          1405,
+          1317
+        ],
+        [
+          1405,
+          1359
+        ],
+        [
+          172,
+          1367
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1162,
+        1405,
+        1212
+      ],
+      "text": "(31) Tu-bở đề nhập định..: cũng theo Phúc Điền: khi Tu.bờ-đề ngồi nhập định. ở - mũi Kinh",
+      "confidence": 0.8565
+    },
+    {
+      "line_id": "0067_viet_029",
+      "bbox": [
+        [
+          233,
+          1208
+        ],
+        [
+          1401,
+          1202
+        ],
+        [
+          1401,
+          1239
+        ],
+        [
+          234,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1363
+        ],
+        [
+          1401,
+          1357
+        ],
+        [
+          1401,
+          1394
+        ],
+        [
+          234,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1202,
+        1401,
+        1245
+      ],
+      "text": "sơn ê thích thường thấy để thích rải hoa, nghe kinh, Tu-bò-hề là một đẹ từ của Phật",
+      "confidence": 0.8816
+    },
+    {
+      "line_id": "0067_viet_030",
+      "bbox": [
+        [
+          235,
+          1245
+        ],
+        [
+          1398,
+          1238
+        ],
+        [
+          1398,
+          1274
+        ],
+        [
+          236,
+          1281
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1400
+        ],
+        [
+          1398,
+          1393
+        ],
+        [
+          1398,
+          1429
+        ],
+        [
+          236,
+          1436
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1238,
+        1398,
+        1281
+      ],
+      "text": "khi ông ra đời, của cải trong nhà, đều hết sạch, Để Thích. tên tiếng Phạn lạ Thích-đè.",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0067_viet_031",
+      "bbox": [
+        [
+          731,
+          1274
+        ],
+        [
+          1224,
+          1274
+        ],
+        [
+          1224,
+          1323
+        ],
+        [
+          731,
+          1323
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1429
+        ],
+        [
+          1224,
+          1429
+        ],
+        [
+          1224,
+          1478
+        ],
+        [
+          731,
+          1478
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1274,
+        1224,
+        1323
+      ],
+      "text": "kinh Phật, ông là chỉ các tìng trời;",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0067_viet_032",
+      "bbox": [
+        [
+          171,
+          1331
+        ],
+        [
+          1403,
+          1322
+        ],
+        [
+          1403,
+          1360
+        ],
+        [
+          171,
+          1369
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1486
+        ],
+        [
+          1403,
+          1477
+        ],
+        [
+          1403,
+          1515
+        ],
+        [
+          171,
+          1524
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1322,
+        1403,
+        1369
+      ],
+      "text": "(B2) Đut Ma xách đép về Tây: Đạt Ma tức Bồ-đề.Đạt-ma, tổ thức: 28 của đào Phát ở ẩn-đô và",
+      "confidence": 0.8807
+    },
+    {
+      "line_id": "0067_viet_033",
+      "bbox": [
+        [
+          233,
+          1364
+        ],
+        [
+          1405,
+          1358
+        ],
+        [
+          1405,
+          1392
+        ],
+        [
+          234,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1519
+        ],
+        [
+          1405,
+          1513
+        ],
+        [
+          1405,
+          1547
+        ],
+        [
+          234,
+          1553
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1358,
+        1405,
+        1398
+      ],
+      "text": "Là tổ thứ nhất phái Thiên: tông Trung-noa. Ông mật năm 528, thị hai chôn ở mũi",
+      "confidence": 0.8685
+    },
+    {
+      "line_id": "0067_viet_034",
+      "bbox": [
+        [
+          731,
+          1391
+        ],
+        [
+          1297,
+          1391
+        ],
+        [
+          1297,
+          1435
+        ],
+        [
+          731,
+          1435
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1546
+        ],
+        [
+          1297,
+          1546
+        ],
+        [
+          1297,
+          1590
+        ],
+        [
+          731,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1391,
+        1297,
+        1435
+      ],
+      "text": "phụng mệnh vua nguy đi sử Tây-vực",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0067_viet_035",
+      "bbox": [
+        [
+          235,
+          1431
+        ],
+        [
+          1403,
+          1423
+        ],
+        [
+          1403,
+          1458
+        ],
+        [
+          236,
+          1465
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1586
+        ],
+        [
+          1403,
+          1578
+        ],
+        [
+          1403,
+          1613
+        ],
+        [
+          236,
+          1620
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1423,
+        1403,
+        1465
+      ],
+      "text": "trở về, thấy Đại Ma xách một chiếc dép đi về phía Tây Vàn hôi - di đầu, thù đập đi về",
+      "confidence": 0.8737
+    },
+    {
+      "line_id": "0067_viet_036",
+      "bbox": [
+        [
+          235,
+          1464
+        ],
+        [
+          1404,
+          1457
+        ],
+        [
+          1404,
+          1491
+        ],
+        [
+          236,
+          1498
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1619
+        ],
+        [
+          1404,
+          1612
+        ],
+        [
+          1404,
+          1646
+        ],
+        [
+          236,
+          1653
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1457,
+        1404,
+        1498
+      ],
+      "text": "phương Tây Văn lấy làm lạ về tàu với vua, vua sai mở quan tài ra xem, quá nhiên",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0067_viet_037",
+      "bbox": [
+        [
+          234,
+          1497
+        ],
+        [
+          1405,
+          1489
+        ],
+        [
+          1405,
+          1526
+        ],
+        [
+          235,
+          1534
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1652
+        ],
+        [
+          1405,
+          1644
+        ],
+        [
+          1405,
+          1681
+        ],
+        [
+          235,
+          1689
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1489,
+        1405,
+        1534
+      ],
+      "text": "Trong quan tài chỉ còn một chiếc đép. Về Đại Ma, xêm thêm Cht. 13, bài Phổ thuyết.",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0067_viet_038",
+      "bbox": [
+        [
+          234,
+          1529
+        ],
+        [
+          779,
+          1527
+        ],
+        [
+          779,
+          1561
+        ],
+        [
+          235,
+          1563
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1684
+        ],
+        [
+          779,
+          1682
+        ],
+        [
+          779,
+          1716
+        ],
+        [
+          235,
+          1718
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1527,
+        779,
+        1563
+      ],
+      "text": "hương thương nhất lộ, số 8, cũng tác giả.",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0067_viet_039",
+      "bbox": [
+        [
+          170,
+          1576
+        ],
+        [
+          1406,
+          1568
+        ],
+        [
+          1406,
+          1608
+        ],
+        [
+          170,
+          1616
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1731
+        ],
+        [
+          1406,
+          1723
+        ],
+        [
+          1406,
+          1763
+        ],
+        [
+          170,
+          1771
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1568,
+        1406,
+        1616
+      ],
+      "text": "(13) Phò Hóa - ngiười đời Đường, ở Trần-châu lýk vý là một thiên sư ngông cuống và cì",
+      "confidence": 0.819
+    },
+    {
+      "line_id": "0067_viet_040",
+      "bbox": [
+        [
+          235,
+          1613
+        ],
+        [
+          1403,
+          1607
+        ],
+        [
+          1403,
+          1641
+        ],
+        [
+          236,
+          1647
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1768
+        ],
+        [
+          1403,
+          1762
+        ],
+        [
+          1403,
+          1796
+        ],
+        [
+          236,
+          1802
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1607,
+        1403,
+        1647
+      ],
+      "text": "quải nhất trong Thiên tóng Trung hoa, trường truyền có phép lạ. Hàng ngày sư, ra chợ",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0067_viet_041",
+      "bbox": [
+        [
+          234,
+          1644
+        ],
+        [
+          1403,
+          1639
+        ],
+        [
+          1403,
+          1673
+        ],
+        [
+          235,
+          1679
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1799
+        ],
+        [
+          1403,
+          1794
+        ],
+        [
+          1403,
+          1828
+        ],
+        [
+          235,
+          1834
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1639,
+        1403,
+        1679
+      ],
+      "text": "đanh nuôi rao - sáng ngày đánh mũ, đầu: hồm: đánh mõ n. Tà Làm: Tế gọi sư là con Jĩnh",
+      "confidence": 0.8495
+    },
+    {
+      "line_id": "0067_viet_042",
+      "bbox": [
+        [
+          233,
+          1679
+        ],
+        [
+          1403,
+          1671
+        ],
+        [
+          1403,
+          1706
+        ],
+        [
+          234,
+          1713
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1834
+        ],
+        [
+          1403,
+          1826
+        ],
+        [
+          1403,
+          1861
+        ],
+        [
+          234,
+          1868
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1671,
+        1403,
+        1713
+      ],
+      "text": "sư bên hý lên như lửa, và gọi Làm Tế xà sơ nhỏ nhoi, chí dù, cho, một con mất n một",
+      "confidence": 0.8416
+    },
+    {
+      "line_id": "0067_viet_043",
+      "bbox": [
+        [
+          234,
+          1713
+        ],
+        [
+          1404,
+          1705
+        ],
+        [
+          1404,
+          1738
+        ],
+        [
+          235,
+          1746
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1868
+        ],
+        [
+          1404,
+          1860
+        ],
+        [
+          1404,
+          1893
+        ],
+        [
+          235,
+          1901
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1705,
+        1404,
+        1746
+      ],
+      "text": "hóm sư đạnh mô rao sắp chét, Làm Tế. đem cho, một, 40, qian, Sư đánh mô mới bà con",
+      "confidence": 0.8475
+    },
+    {
+      "line_id": "0067_viet_044",
+      "bbox": [
+        [
+          233,
+          1745
+        ],
+        [
+          1404,
+          1737
+        ],
+        [
+          1404,
+          1771
+        ],
+        [
+          234,
+          1779
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1900
+        ],
+        [
+          1404,
+          1892
+        ],
+        [
+          1404,
+          1926
+        ],
+        [
+          234,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1737,
+        1404,
+        1779
+      ],
+      "text": "sáng hòm sau ra cửa Đồng ngoài chợ xem sư, chết, Nhưng hôm sau sư không chết, hẹn",
+      "confidence": 0.8954
+    },
+    {
+      "line_id": "0067_viet_045",
+      "bbox": [
+        [
+          233,
+          1778
+        ],
+        [
+          1403,
+          1770
+        ],
+        [
+          1403,
+          1803
+        ],
+        [
+          234,
+          1811
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1933
+        ],
+        [
+          1403,
+          1925
+        ],
+        [
+          1403,
+          1958
+        ],
+        [
+          234,
+          1966
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1770,
+        1403,
+        1811
+      ],
+      "text": "tiếp hôm sau ở cửa Tây, rồi cứ hẹn thể đến cửa Năm, của Bắc, Đúng ngày thư tư ở cửa",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0067_viet_046",
+      "bbox": [
+        [
+          233,
+          1810
+        ],
+        [
+          1403,
+          1802
+        ],
+        [
+          1403,
+          1838
+        ],
+        [
+          234,
+          1846
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1965
+        ],
+        [
+          1403,
+          1957
+        ],
+        [
+          1403,
+          1993
+        ],
+        [
+          234,
+          2001
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1802,
+        1403,
+        1846
+      ],
+      "text": "Bậc, sứ đạnh, mô, chúi vào áo quan, đây náp lại, Thiên hạ đồ tới mở nấp ảo quân ra thì",
+      "confidence": 0.8647
+    },
+    {
+      "line_id": "0067_viet_047",
+      "bbox": [
+        [
+          233,
+          1843
+        ],
+        [
+          1032,
+          1840
+        ],
+        [
+          1033,
+          1873
+        ],
+        [
+          234,
+          1876
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1998
+        ],
+        [
+          1032,
+          1995
+        ],
+        [
+          1033,
+          2028
+        ],
+        [
+          234,
+          2031
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1840,
+        1033,
+        1876
+      ],
+      "text": "không còn thấy sự đầu, chỉ nghc tiếng mô càng lúc càng xa.",
+      "confidence": 0.9023
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "phien_am_lines": [
+      "014%3:31hsy-11",
+      "mộ là người, có nhiều công lạo với triều đình và đã từng phụ chính trong nhiều năm",
+      "Đồng đó R ấn đặt tên hiệu là Lục Đã Thảo",
+      "các danh sĩ uống rượu, ngàm thơ. không bàn",
+      "Họ đến việc đời mữa. Thạch Sương: một cao tảng đời Đường tên là sở viên lễ 5)",
+      "tru trì ở múi Thạch sương 20, năm (vì thế cơ tên là Thạch Sường). chỉ ngòi không năm",
+      "Hoàng long Đ E và Dương kỳ tế - L Xem",
+      "(25) Phong Tướng hải phép ở Quốc Nhất, Phòng Tướng . có là là Phàng Huyền Linh Á",
+      "Người Lâm trì Bà là đã giúp Đường Thái",
+      "Tổng đưng nghiệp. làm Tố tương được Lỗ năm và, được phong Lương Quốc công A",
+      "Sự Đạo Khám 52 m ở Kinh sơn 13",
+      "Nhưng thị năm Đại Lịch thi ba, ông được",
+      "với đến cửa khuyết hội về đạo, Nhở đổi đập vửa y. được vua phong là Quốc Nhất",
+      "Sau ông lui, trở về Kinh-sơn tu hành và mất năm Trình Nguyên thứ tâm (1131), thuy",
+      "C7) Diệu Thiên - theo Kinh bã chúa Ba thi Diệu Thiện là con gái thức bị. vào Trang Vương (7)",
+      "Và Diệu Duyên Đây tử - Khi ba con đi lớn vua",
+      "muốn cả chồng, hai chị nghe theo, riêng Diệu Thiện không chữu, trốn sang núi Hương",
+      "0, tức phật bà quan âm.",
+      "(29) Hoa-lâm khiến hai hồ củm theo - theo hòa thượng Phúc Điền, Hoa-làm là tôn chùa. Vị sư",
+      "tu ở đây, trước trụ trì ở Linh-sơn - E ch. Khi đã đắc, pháp, thường có hai con hồ ra",
+      "(30) Đầu Từ có ba chim báo sing: cũng theo Phúc Điển, Đầu Tỷ trù tri ở Động-ươn .51 \"1.",
+      "thân thộng biển hóa, người thường không thể lường biết được. Trước cửa chùa",
+      "thường có ba con qua nghe kinh và bảo sáng, Ông cũng có tên là Đầu Tử Ngung",
+      "(31) Tu-bở đề nhập định..: cũng theo Phúc Điền: khi Tu.bờ-đề ngồi nhập định. ở - mũi Kinh",
+      "sơn ê thích thường thấy để thích rải hoa, nghe kinh, Tu-bò-hề là một đẹ từ của Phật",
+      "khi ông ra đời, của cải trong nhà, đều hết sạch, Để Thích. tên tiếng Phạn lạ Thích-đè.",
+      "kinh Phật, ông là chỉ các tìng trời;",
+      "(B2) Đut Ma xách đép về Tây: Đạt Ma tức Bồ-đề.Đạt-ma, tổ thức: 28 của đào Phát ở ẩn-đô và",
+      "Là tổ thứ nhất phái Thiên: tông Trung-noa. Ông mật năm 528, thị hai chôn ở mũi",
+      "phụng mệnh vua nguy đi sử Tây-vực",
+      "trở về, thấy Đại Ma xách một chiếc dép đi về phía Tây Vàn hôi - di đầu, thù đập đi về",
+      "phương Tây Văn lấy làm lạ về tàu với vua, vua sai mở quan tài ra xem, quá nhiên",
+      "Trong quan tài chỉ còn một chiếc đép. Về Đại Ma, xêm thêm Cht. 13, bài Phổ thuyết.",
+      "(13) Phò Hóa - ngiười đời Đường, ở Trần-châu lýk vý là một thiên sư ngông cuống và cì",
+      "quải nhất trong Thiên tóng Trung hoa, trường truyền có phép lạ. Hàng ngày sư, ra chợ",
+      "đanh nuôi rao - sáng ngày đánh mũ, đầu: hồm: đánh mõ n. Tà Làm: Tế gọi sư là con Jĩnh",
+      "sư bên hý lên như lửa, và gọi Làm Tế xà sơ nhỏ nhoi, chí dù, cho, một con mất n một",
+      "hóm sư đạnh mô rao sắp chét, Làm Tế. đem cho, một, 40, qian, Sư đánh mô mới bà con",
+      "sáng hòm sau ra cửa Đồng ngoài chợ xem sư, chết, Nhưng hôm sau sư không chết, hẹn",
+      "tiếp hôm sau ở cửa Tây, rồi cứ hẹn thể đến cửa Năm, của Bắc, Đúng ngày thư tư ở cửa",
+      "Bậc, sứ đạnh, mô, chúi vào áo quan, đây náp lại, Thiên hạ đồ tới mở nấp ảo quân ra thì"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

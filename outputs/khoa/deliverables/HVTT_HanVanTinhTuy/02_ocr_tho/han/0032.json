@@ -1,0 +1,459 @@
+{
+  "page_id": "0032",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 32,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0032_han_000",
+      "bbox": [
+        [
+          243,
+          128
+        ],
+        [
+          567,
+          125
+        ],
+        [
+          567,
+          174
+        ],
+        [
+          243,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          249
+        ],
+        [
+          567,
+          246
+        ],
+        [
+          567,
+          295
+        ],
+        [
+          243,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        125,
+        567,
+        176
+      ],
+      "text": "使越於諸候",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0032_han_001",
+      "bbox": [
+        [
+          245,
+          288
+        ],
+        [
+          773,
+          288
+        ],
+        [
+          773,
+          332
+        ],
+        [
+          245,
+          332
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          409
+        ],
+        [
+          773,
+          409
+        ],
+        [
+          773,
+          453
+        ],
+        [
+          245,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        288,
+        773,
+        332
+      ],
+      "text": "諸候親之戎狄懷之",
+      "confidence": 0.9972
+    },
+    {
+      "line_id": "0032_han_002",
+      "bbox": [
+        [
+          243,
+          444
+        ],
+        [
+          500,
+          444
+        ],
+        [
+          500,
+          492
+        ],
+        [
+          243,
+          492
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          565
+        ],
+        [
+          500,
+          565
+        ],
+        [
+          500,
+          613
+        ],
+        [
+          243,
+          613
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        444,
+        500,
+        492
+      ],
+      "text": "以正晉國",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0032_han_003",
+      "bbox": [
+        [
+          246,
+          604
+        ],
+        [
+          774,
+          606
+        ],
+        [
+          773,
+          650
+        ],
+        [
+          246,
+          648
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          725
+        ],
+        [
+          774,
+          727
+        ],
+        [
+          773,
+          771
+        ],
+        [
+          246,
+          769
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        604,
+        774,
+        650
+      ],
+      "text": "行刑不疚以免於難",
+      "confidence": 0.9993
+    },
+    {
+      "line_id": "0032_han_004",
+      "bbox": [
+        [
+          247,
+          799
+        ],
+        [
+          699,
+          799
+        ],
+        [
+          699,
+          847
+        ],
+        [
+          247,
+          847
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          920
+        ],
+        [
+          699,
+          920
+        ],
+        [
+          699,
+          968
+        ],
+        [
+          247,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        799,
+        699,
+        847
+      ],
+      "text": "及桓子驕泰奢侈",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0032_han_005",
+      "bbox": [
+        [
+          245,
+          955
+        ],
+        [
+          774,
+          957
+        ],
+        [
+          773,
+          1005
+        ],
+        [
+          245,
+          1003
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1076
+        ],
+        [
+          774,
+          1078
+        ],
+        [
+          773,
+          1126
+        ],
+        [
+          245,
+          1124
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        955,
+        774,
+        1005
+      ],
+      "text": "貪欲無藝畧則行志",
+      "confidence": 0.996
+    },
+    {
+      "line_id": "0032_han_006",
+      "bbox": [
+        [
+          243,
+          1159
+        ],
+        [
+          774,
+          1161
+        ],
+        [
+          773,
+          1208
+        ],
+        [
+          243,
+          1206
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1280
+        ],
+        [
+          774,
+          1282
+        ],
+        [
+          773,
+          1329
+        ],
+        [
+          243,
+          1327
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1159,
+        774,
+        1208
+      ],
+      "text": "假貸居賄宜及於難",
+      "confidence": 0.9976
+    },
+    {
+      "line_id": "0032_han_007",
+      "bbox": [
+        [
+          244,
+          1319
+        ],
+        [
+          839,
+          1319
+        ],
+        [
+          839,
+          1367
+        ],
+        [
+          244,
+          1367
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1440
+        ],
+        [
+          839,
+          1440
+        ],
+        [
+          839,
+          1488
+        ],
+        [
+          244,
+          1488
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1319,
+        839,
+        1367
+      ],
+      "text": "而赖武之德以没其身",
+      "confidence": 0.9629
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "使越於諸候",
+      "諸候親之戎狄懷之",
+      "以正晉國",
+      "行刑不疚以免於難",
+      "及桓子驕泰奢侈",
+      "貪欲無藝畧則行志",
+      "假貸居賄宜及於難",
+      "而赖武之德以没其身"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "使越於諸候",
+        "phien_am": "sử việt ư chư hầu",
+        "dich_nghia_gloss": "danh tiêng truyền ra đền chư hầu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "諸候親之戎狄懷之",
+        "phien_am": "Chư hầu thân chi, nhung địch hoài chi",
+        "dich_nghia_gloss": "Chư hầu xem thân, giặc-giã coi mền"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "以正晉國",
+        "phien_am": "di chính tăn quốc.",
+        "dich_nghia_gloss": "chỉnh đòn nước Tần"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "行刑不疚以免於難",
+        "phien_am": "Hành hình bãt cứu di miễn ư nạn",
+        "dich_nghia_gloss": "người ôm không đem hành-hình, vì thề tránh được nạn."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "及桓子驕泰奢侈",
+        "phien_am": "Cập Hoàn-tử kiêu thái sa-xỉ",
+        "dich_nghia_gloss": "Đến Hoàn-tử kiêu căng hoang phí"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "貪欲無藝畧則行志",
+        "phien_am": "Tham dục vô nghệ, lược tắc hành chí",
+        "dich_nghia_gloss": "tham lam không theo cha, bỏ phép nước mà theo lòng dục của mình,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "假貸居賄宜及於難",
+        "phien_am": "giả thải cư hồi, nghi cập ư nạn",
+        "dich_nghia_gloss": "cho vay lãi, ăn hồi lộ đến khi gặp nạn"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "而赖武之德以没其身",
+        "phien_am": "nhi lại Vũ chi đức di một kỳ thân",
+        "dich_nghia_gloss": "lại nhờ đức của cha mà chỉ mất gia-sản."
+      }
+    ]
+  }
+}

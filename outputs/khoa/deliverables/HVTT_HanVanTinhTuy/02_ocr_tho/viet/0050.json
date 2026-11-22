@@ -1,0 +1,885 @@
+{
+  "page_id": "0050",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 50,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0050_viet_000",
+      "bbox": [
+        [
+          190,
+          100
+        ],
+        [
+          236,
+          100
+        ],
+        [
+          236,
+          139
+        ],
+        [
+          190,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          221
+        ],
+        [
+          236,
+          221
+        ],
+        [
+          236,
+          260
+        ],
+        [
+          190,
+          260
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        100,
+        236,
+        139
+      ],
+      "text": "44",
+      "confidence": 0.9387
+    },
+    {
+      "line_id": "0050_viet_001",
+      "bbox": [
+        [
+          661,
+          100
+        ],
+        [
+          988,
+          100
+        ],
+        [
+          988,
+          135
+        ],
+        [
+          661,
+          135
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          221
+        ],
+        [
+          988,
+          221
+        ],
+        [
+          988,
+          256
+        ],
+        [
+          661,
+          256
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        100,
+        988,
+        135
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0050_viet_002",
+      "bbox": [
+        [
+          198,
+          258
+        ],
+        [
+          987,
+          258
+        ],
+        [
+          987,
+          295
+        ],
+        [
+          198,
+          295
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          379
+        ],
+        [
+          987,
+          379
+        ],
+        [
+          987,
+          416
+        ],
+        [
+          198,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        258,
+        987,
+        295
+      ],
+      "text": "phi bãt tôn toại dũ, nhiên nhi hình thần bất toàn",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0050_viet_003",
+      "bbox": [
+        [
+          221,
+          299
+        ],
+        [
+          990,
+          301
+        ],
+        [
+          990,
+          343
+        ],
+        [
+          221,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          420
+        ],
+        [
+          990,
+          422
+        ],
+        [
+          990,
+          464
+        ],
+        [
+          221,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        299,
+        990,
+        343
+      ],
+      "text": "không phải là không vẻ vang nhưng tinh thần không",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0050_viet_004",
+      "bbox": [
+        [
+          191,
+          347
+        ],
+        [
+          256,
+          347
+        ],
+        [
+          256,
+          387
+        ],
+        [
+          191,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          468
+        ],
+        [
+          256,
+          468
+        ],
+        [
+          256,
+          508
+        ],
+        [
+          191,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        347,
+        256,
+        387
+      ],
+      "text": "vẹn.",
+      "confidence": 0.8301
+    },
+    {
+      "line_id": "0050_viet_005",
+      "bbox": [
+        [
+          198,
+          467
+        ],
+        [
+          938,
+          470
+        ],
+        [
+          938,
+          510
+        ],
+        [
+          198,
+          507
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          588
+        ],
+        [
+          938,
+          591
+        ],
+        [
+          938,
+          631
+        ],
+        [
+          198,
+          628
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        467,
+        938,
+        510
+      ],
+      "text": "Xúc nguyện đắc qui, văn thực dĩ đáng nhục",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0050_viet_006",
+      "bbox": [
+        [
+          224,
+          510
+        ],
+        [
+          744,
+          514
+        ],
+        [
+          743,
+          553
+        ],
+        [
+          224,
+          548
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          631
+        ],
+        [
+          744,
+          635
+        ],
+        [
+          743,
+          674
+        ],
+        [
+          224,
+          669
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        510,
+        744,
+        553
+      ],
+      "text": "Xúc chỉ xin về, đói ăn rau thay thịt",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0050_viet_007",
+      "bbox": [
+        [
+          195,
+          635
+        ],
+        [
+          808,
+          638
+        ],
+        [
+          808,
+          678
+        ],
+        [
+          195,
+          675
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          756
+        ],
+        [
+          808,
+          759
+        ],
+        [
+          808,
+          799
+        ],
+        [
+          195,
+          796
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        635,
+        808,
+        678
+      ],
+      "text": "an bộ dĩ đáng xa, vô tội dĩ đáng quý",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0050_viet_008",
+      "bbox": [
+        [
+          224,
+          679
+        ],
+        [
+          809,
+          682
+        ],
+        [
+          809,
+          722
+        ],
+        [
+          224,
+          719
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          800
+        ],
+        [
+          809,
+          803
+        ],
+        [
+          809,
+          843
+        ],
+        [
+          224,
+          840
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        679,
+        809,
+        722
+      ],
+      "text": "đi bộ thay xe, vô tội thay cho hiển quý",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0050_viet_009",
+      "bbox": [
+        [
+          198,
+          801
+        ],
+        [
+          740,
+          804
+        ],
+        [
+          739,
+          844
+        ],
+        [
+          198,
+          842
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          922
+        ],
+        [
+          740,
+          925
+        ],
+        [
+          739,
+          965
+        ],
+        [
+          198,
+          963
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        801,
+        740,
+        844
+      ],
+      "text": "thanh tĩnh trinh chính dĩ tự ngu",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0050_viet_010",
+      "bbox": [
+        [
+          226,
+          849
+        ],
+        [
+          737,
+          849
+        ],
+        [
+          737,
+          883
+        ],
+        [
+          226,
+          883
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          970
+        ],
+        [
+          737,
+          970
+        ],
+        [
+          737,
+          1004
+        ],
+        [
+          226,
+          1004
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        849,
+        737,
+        883
+      ],
+      "text": "lầy thanh tính trinh chính làm vui",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0050_viet_011",
+      "bbox": [
+        [
+          198,
+          966
+        ],
+        [
+          504,
+          966
+        ],
+        [
+          504,
+          1003
+        ],
+        [
+          198,
+          1003
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1087
+        ],
+        [
+          504,
+          1087
+        ],
+        [
+          504,
+          1124
+        ],
+        [
+          198,
+          1124
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        966,
+        504,
+        1003
+      ],
+      "text": "tắc tái bái từ khứ.",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0050_viet_012",
+      "bbox": [
+        [
+          223,
+          1010
+        ],
+        [
+          490,
+          1010
+        ],
+        [
+          490,
+          1048
+        ],
+        [
+          223,
+          1048
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1131
+        ],
+        [
+          490,
+          1131
+        ],
+        [
+          490,
+          1169
+        ],
+        [
+          223,
+          1169
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1010,
+        490,
+        1048
+      ],
+      "text": "lại vái xin từ biệt",
+      "confidence": 0.9359
+    },
+    {
+      "line_id": "0050_viet_013",
+      "bbox": [
+        [
+          201,
+          1133
+        ],
+        [
+          675,
+          1133
+        ],
+        [
+          675,
+          1170
+        ],
+        [
+          201,
+          1170
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1254
+        ],
+        [
+          675,
+          1254
+        ],
+        [
+          675,
+          1291
+        ],
+        [
+          201,
+          1291
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1133,
+        675,
+        1170
+      ],
+      "text": "Quân-tử viết: Xúc tri túc hĩ",
+      "confidence": 0.9027
+    },
+    {
+      "line_id": "0050_viet_014",
+      "bbox": [
+        [
+          228,
+          1175
+        ],
+        [
+          993,
+          1173
+        ],
+        [
+          993,
+          1214
+        ],
+        [
+          228,
+          1216
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1296
+        ],
+        [
+          993,
+          1294
+        ],
+        [
+          993,
+          1335
+        ],
+        [
+          228,
+          1337
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1173,
+        993,
+        1216
+      ],
+      "text": "Người quân-tử nói: Xúc là người biết lây làm đủ",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0050_viet_015",
+      "bbox": [
+        [
+          202,
+          1299
+        ],
+        [
+          942,
+          1299
+        ],
+        [
+          942,
+          1336
+        ],
+        [
+          202,
+          1336
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1420
+        ],
+        [
+          942,
+          1420
+        ],
+        [
+          942,
+          1457
+        ],
+        [
+          202,
+          1457
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1299,
+        942,
+        1336
+      ],
+      "text": "Quy chân phản phác tắc chung thân bất nhục",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0050_viet_016",
+      "bbox": [
+        [
+          225,
+          1341
+        ],
+        [
+          900,
+          1342
+        ],
+        [
+          900,
+          1380
+        ],
+        [
+          225,
+          1379
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1462
+        ],
+        [
+          900,
+          1463
+        ],
+        [
+          900,
+          1501
+        ],
+        [
+          225,
+          1500
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1341,
+        900,
+        1380
+      ],
+      "text": "Biết quay về chân lý tất suốt đời không nhục",
+      "confidence": 0.9162
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "phi bãt tôn toại dũ, nhiên nhi hình thần bất toàn",
+      "Xúc nguyện đắc qui, văn thực dĩ đáng nhục",
+      "an bộ dĩ đáng xa, vô tội dĩ đáng quý",
+      "thanh tĩnh trinh chính dĩ tự ngu",
+      "tắc tái bái từ khứ.",
+      "Quân-tử viết: Xúc tri túc hĩ",
+      "Quy chân phản phác tắc chung thân bất nhục"
+    ],
+    "dich_nghia_lines": [
+      "không phải là không vẻ vang nhưng tinh thần không vẹn.",
+      "Xúc chỉ xin về, đói ăn rau thay thịt",
+      "đi bộ thay xe, vô tội thay cho hiển quý",
+      "lầy thanh tính trinh chính làm vui",
+      "lại vái xin từ biệt",
+      "Người quân-tử nói: Xúc là người biết lây làm đủ",
+      "Biết quay về chân lý tất suốt đời không nhục"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "非不尊遂也然而形神不全",
+        "phien_am": "phi bãt tôn toại dũ, nhiên nhi hình thần bất toàn",
+        "dich_nghia_gloss": "không phải là không vẻ vang nhưng tinh thần không vẹn."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "蜀願得歸晚食以當肉",
+        "phien_am": "Xúc nguyện đắc qui, văn thực dĩ đáng nhục",
+        "dich_nghia_gloss": "Xúc chỉ xin về, đói ăn rau thay thịt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "安步以當車無罪以當貴",
+        "phien_am": "an bộ dĩ đáng xa, vô tội dĩ đáng quý",
+        "dich_nghia_gloss": "đi bộ thay xe, vô tội thay cho hiển quý"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "清淨貞正以自娱",
+        "phien_am": "thanh tĩnh trinh chính dĩ tự ngu",
+        "dich_nghia_gloss": "lầy thanh tính trinh chính làm vui"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "則再拜辭去",
+        "phien_am": "tắc tái bái từ khứ.",
+        "dich_nghia_gloss": "lại vái xin từ biệt"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "君子曰屑知足矣",
+        "phien_am": "Quân-tử viết: Xúc tri túc hĩ",
+        "dich_nghia_gloss": "Người quân-tử nói: Xúc là người biết lây làm đủ"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "歸真反璞則終身不辱",
+        "phien_am": "Quy chân phản phác tắc chung thân bất nhục",
+        "dich_nghia_gloss": "Biết quay về chân lý tất suốt đời không nhục"
+      }
+    ]
+  }
+}

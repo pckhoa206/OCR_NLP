@@ -1,0 +1,459 @@
+{
+  "page_id": "0169",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 169,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1278,
+    "footnote_separator_y_original": 1393,
+    "effective_width": 1122,
+    "effective_height": 1278
+  },
+  "items": [
+    {
+      "line_id": "0169_viet_000",
+      "bbox": [
+        [
+          149,
+          3
+        ],
+        [
+          811,
+          3
+        ],
+        [
+          811,
+          37
+        ],
+        [
+          149,
+          37
+        ]
+      ],
+      "bbox_original": [
+        [
+          149,
+          118
+        ],
+        [
+          811,
+          118
+        ],
+        [
+          811,
+          152
+        ],
+        [
+          149,
+          152
+        ]
+      ],
+      "box_xyxy": [
+        149,
+        3,
+        811,
+        37
+      ],
+      "text": "Chẳng ngăn được nỗi nhớ nhau lúc cuối xuân",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0169_viet_001",
+      "bbox": [
+        [
+          144,
+          94
+        ],
+        [
+          737,
+          94
+        ],
+        [
+          737,
+          135
+        ],
+        [
+          144,
+          135
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          209
+        ],
+        [
+          737,
+          209
+        ],
+        [
+          737,
+          250
+        ],
+        [
+          144,
+          250
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        94,
+        737,
+        135
+      ],
+      "text": "Đại bút viết được câu thơ như rồng bay",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0169_viet_002",
+      "bbox": [
+        [
+          143,
+          141
+        ],
+        [
+          861,
+          143
+        ],
+        [
+          860,
+          183
+        ],
+        [
+          143,
+          181
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          256
+        ],
+        [
+          861,
+          258
+        ],
+        [
+          860,
+          298
+        ],
+        [
+          143,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        141,
+        861,
+        183
+      ],
+      "text": "Bụi trần cuồn cuộn, có thể viết về nỗi nhớ xa xôi.",
+      "confidence": 0.9268
+    },
+    {
+      "line_id": "0169_viet_003",
+      "bbox": [
+        [
+          144,
+          193
+        ],
+        [
+          1018,
+          197
+        ],
+        [
+          1018,
+          234
+        ],
+        [
+          144,
+          230
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          308
+        ],
+        [
+          1018,
+          312
+        ],
+        [
+          1018,
+          349
+        ],
+        [
+          144,
+          345
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        193,
+        1018,
+        234
+      ],
+      "text": "Con đường phía trước xa xăm, rộng lớn chính là nơi gặp gỡ;",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0169_viet_004",
+      "bbox": [
+        [
+          143,
+          238
+        ],
+        [
+          709,
+          243
+        ],
+        [
+          709,
+          283
+        ],
+        [
+          142,
+          277
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          353
+        ],
+        [
+          709,
+          358
+        ],
+        [
+          709,
+          398
+        ],
+        [
+          142,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        238,
+        709,
+        283
+      ],
+      "text": "Hà tất phải cùng uống rượu trước hoa?",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0169_viet_005",
+      "bbox": [
+        [
+          137,
+          1034
+        ],
+        [
+          300,
+          1034
+        ],
+        [
+          300,
+          1072
+        ],
+        [
+          137,
+          1072
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          1149
+        ],
+        [
+          300,
+          1149
+        ],
+        [
+          300,
+          1187
+        ],
+        [
+          137,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        1034,
+        300,
+        1072
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0169_viet_006",
+      "bbox": [
+        [
+          136,
+          1081
+        ],
+        [
+          367,
+          1079
+        ],
+        [
+          368,
+          1120
+        ],
+        [
+          137,
+          1122
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          1196
+        ],
+        [
+          367,
+          1194
+        ],
+        [
+          368,
+          1235
+        ],
+        [
+          137,
+          1237
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        1079,
+        368,
+        1122
+      ],
+      "text": "Hạ thánh triều",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0169_viet_007",
+      "bbox": [
+        [
+          139,
+          1132
+        ],
+        [
+          495,
+          1134
+        ],
+        [
+          495,
+          1171
+        ],
+        [
+          139,
+          1169
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          1247
+        ],
+        [
+          495,
+          1249
+        ],
+        [
+          495,
+          1286
+        ],
+        [
+          139,
+          1284
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        1132,
+        495,
+        1171
+      ],
+      "text": "Cung thuật hoàng châu,",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0169_viet_008",
+      "bbox": [
+        [
+          142,
+          1179
+        ],
+        [
+          500,
+          1183
+        ],
+        [
+          500,
+          1221
+        ],
+        [
+          141,
+          1217
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          1294
+        ],
+        [
+          500,
+          1298
+        ],
+        [
+          500,
+          1336
+        ],
+        [
+          141,
+          1332
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        1179,
+        500,
+        1221
+      ],
+      "text": "Vạn vũ thiều quang mãn.",
+      "confidence": 0.911
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Chẳng ngăn được nỗi nhớ nhau lúc cuối xuân",
+      "Đại bút viết được câu thơ như rồng bay",
+      "Bụi trần cuồn cuộn, có thể viết về nỗi nhớ xa xôi.",
+      "Con đường phía trước xa xăm, rộng lớn chính là nơi gặp gỡ;",
+      "Hà tất phải cùng uống rượu trước hoa?",
+      "Hạ thánh triều",
+      "Cung thuật hoàng châu,",
+      "Vạn vũ thiều quang mãn."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

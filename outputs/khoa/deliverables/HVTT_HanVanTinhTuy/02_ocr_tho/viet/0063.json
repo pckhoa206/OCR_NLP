@@ -1,0 +1,356 @@
+{
+  "page_id": "0063",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 63,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0063_viet_000",
+      "bbox": [
+        [
+          197,
+          347
+        ],
+        [
+          637,
+          347
+        ],
+        [
+          637,
+          387
+        ],
+        [
+          197,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          468
+        ],
+        [
+          637,
+          468
+        ],
+        [
+          637,
+          508
+        ],
+        [
+          197,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        347,
+        637,
+        387
+      ],
+      "text": "TRIỆU-UY-HẬU VĂN TẾ-SỨ",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0063_viet_001",
+      "bbox": [
+        [
+          951,
+          350
+        ],
+        [
+          994,
+          350
+        ],
+        [
+          994,
+          389
+        ],
+        [
+          951,
+          389
+        ]
+      ],
+      "bbox_original": [
+        [
+          951,
+          471
+        ],
+        [
+          994,
+          471
+        ],
+        [
+          994,
+          510
+        ],
+        [
+          951,
+          510
+        ]
+      ],
+      "box_xyxy": [
+        951,
+        350,
+        994,
+        389
+      ],
+      "text": "37",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0063_viet_002",
+      "bbox": [
+        [
+          363,
+          499
+        ],
+        [
+          853,
+          502
+        ],
+        [
+          853,
+          542
+        ],
+        [
+          363,
+          539
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          620
+        ],
+        [
+          853,
+          623
+        ],
+        [
+          853,
+          663
+        ],
+        [
+          363,
+          660
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        499,
+        853,
+        542
+      ],
+      "text": "a làm tôi, đã chẳng hết lòng,",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0063_viet_003",
+      "bbox": [
+        [
+          263,
+          649
+        ],
+        [
+          932,
+          651
+        ],
+        [
+          932,
+          688
+        ],
+        [
+          263,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          770
+        ],
+        [
+          932,
+          772
+        ],
+        [
+          932,
+          809
+        ],
+        [
+          263,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        649,
+        932,
+        688
+      ],
+      "text": "- Làm cha, lại chẳng trị xong việc nhà.",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0063_viet_004",
+      "bbox": [
+        [
+          363,
+          795
+        ],
+        [
+          821,
+          799
+        ],
+        [
+          821,
+          837
+        ],
+        [
+          363,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          916
+        ],
+        [
+          821,
+          920
+        ],
+        [
+          821,
+          958
+        ],
+        [
+          363,
+          955
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        795,
+        821,
+        837
+      ],
+      "text": "- Chư-hầu ai cũng tránh xa,",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0063_viet_005",
+      "bbox": [
+        [
+          263,
+          945
+        ],
+        [
+          872,
+          946
+        ],
+        [
+          872,
+          986
+        ],
+        [
+          263,
+          985
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          1066
+        ],
+        [
+          872,
+          1067
+        ],
+        [
+          872,
+          1107
+        ],
+        [
+          263,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        945,
+        872,
+        986
+      ],
+      "text": "a con người vô-dụng còn chờ gì đây",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0063_viet_006",
+      "bbox": [
+        [
+          365,
+          1092
+        ],
+        [
+          936,
+          1095
+        ],
+        [
+          936,
+          1133
+        ],
+        [
+          365,
+          1130
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          1213
+        ],
+        [
+          936,
+          1216
+        ],
+        [
+          936,
+          1254
+        ],
+        [
+          365,
+          1251
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        1092,
+        936,
+        1133
+      ],
+      "text": "a Mà không đem giết thắng tay ? n",
+      "confidence": 0.879
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

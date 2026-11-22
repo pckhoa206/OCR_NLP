@@ -1,0 +1,266 @@
+{
+  "page_id": "0138",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 138,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0138_han_000",
+      "bbox": [
+        [
+          138,
+          735
+        ],
+        [
+          249,
+          735
+        ],
+        [
+          249,
+          777
+        ],
+        [
+          138,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          850
+        ],
+        [
+          249,
+          850
+        ],
+        [
+          249,
+          892
+        ],
+        [
+          138,
+          892
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        735,
+        249,
+        777
+      ],
+      "text": "西江月",
+      "confidence": 1.0
+    },
+    {
+      "line_id": "0138_han_001",
+      "bbox": [
+        [
+          141,
+          788
+        ],
+        [
+          369,
+          790
+        ],
+        [
+          368,
+          831
+        ],
+        [
+          140,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          903
+        ],
+        [
+          369,
+          905
+        ],
+        [
+          368,
+          946
+        ],
+        [
+          140,
+          944
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        788,
+        369,
+        831
+      ],
+      "text": "白鵲是何應兆，",
+      "confidence": 0.9981
+    },
+    {
+      "line_id": "0138_han_002",
+      "bbox": [
+        [
+          140,
+          842
+        ],
+        [
+          368,
+          844
+        ],
+        [
+          367,
+          885
+        ],
+        [
+          139,
+          883
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          957
+        ],
+        [
+          368,
+          959
+        ],
+        [
+          367,
+          1000
+        ],
+        [
+          139,
+          998
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        842,
+        368,
+        885
+      ],
+      "text": "翔來庭户喚鳴.",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0138_han_003",
+      "bbox": [
+        [
+          141,
+          897
+        ],
+        [
+          405,
+          897
+        ],
+        [
+          405,
+          937
+        ],
+        [
+          141,
+          937
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          1012
+        ],
+        [
+          405,
+          1012
+        ],
+        [
+          405,
+          1052
+        ],
+        [
+          141,
+          1052
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        897,
+        405,
+        937
+      ],
+      "text": "古稱孝子有曾參，",
+      "confidence": 0.9975
+    },
+    {
+      "line_id": "0138_han_004",
+      "bbox": [
+        [
+          142,
+          952
+        ],
+        [
+          366,
+          952
+        ],
+        [
+          366,
+          990
+        ],
+        [
+          142,
+          990
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          1067
+        ],
+        [
+          366,
+          1067
+        ],
+        [
+          366,
+          1105
+        ],
+        [
+          142,
+          1105
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        952,
+        366,
+        990
+      ],
+      "text": "三足之鳥冠止.",
+      "confidence": 0.9977
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "西江月",
+      "白鵲是何應兆，",
+      "翔來庭户喚鳴.",
+      "古稱孝子有曾參，",
+      "三足之鳥冠止."
+    ],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,891 @@
+{
+  "page_id": "0144",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 144,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0144_viet_000",
+      "bbox": [
+        [
+          158,
+          593
+        ],
+        [
+          321,
+          593
+        ],
+        [
+          321,
+          630
+        ],
+        [
+          158,
+          630
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          708
+        ],
+        [
+          321,
+          708
+        ],
+        [
+          321,
+          745
+        ],
+        [
+          158,
+          745
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        593,
+        321,
+        630
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0144_viet_001",
+      "bbox": [
+        [
+          158,
+          636
+        ],
+        [
+          671,
+          631
+        ],
+        [
+          671,
+          675
+        ],
+        [
+          159,
+          679
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          751
+        ],
+        [
+          671,
+          746
+        ],
+        [
+          671,
+          790
+        ],
+        [
+          159,
+          794
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        631,
+        671,
+        679
+      ],
+      "text": "THƯỞNG XUÂN TỪ TÍNH DẪN",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0144_viet_002",
+      "bbox": [
+        [
+          160,
+          684
+        ],
+        [
+          435,
+          687
+        ],
+        [
+          434,
+          732
+        ],
+        [
+          159,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          799
+        ],
+        [
+          435,
+          802
+        ],
+        [
+          434,
+          847
+        ],
+        [
+          159,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        684,
+        435,
+        732
+      ],
+      "text": "(Thấm viên xuân)",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0144_viet_003",
+      "bbox": [
+        [
+          158,
+          735
+        ],
+        [
+          975,
+          732
+        ],
+        [
+          975,
+          774
+        ],
+        [
+          158,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          850
+        ],
+        [
+          975,
+          847
+        ],
+        [
+          975,
+          889
+        ],
+        [
+          158,
+          892
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        732,
+        975,
+        777
+      ],
+      "text": "Thời đồng đạo lưỡng tam nhân đáo sách cú, nhân hí tác.",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0144_viet_004",
+      "bbox": [
+        [
+          159,
+          784
+        ],
+        [
+          1062,
+          780
+        ],
+        [
+          1062,
+          820
+        ],
+        [
+          159,
+          824
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          899
+        ],
+        [
+          1062,
+          895
+        ],
+        [
+          1062,
+          935
+        ],
+        [
+          159,
+          939
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        780,
+        1062,
+        824
+      ],
+      "text": "Tư đương cửu thập nhật, thiều hoa hảo cá huyên hoà chi hậu,",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0144_viet_005",
+      "bbox": [
+        [
+          100,
+          827
+        ],
+        [
+          1065,
+          824
+        ],
+        [
+          1065,
+          864
+        ],
+        [
+          100,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          942
+        ],
+        [
+          1065,
+          939
+        ],
+        [
+          1065,
+          979
+        ],
+        [
+          100,
+          982
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        824,
+        1065,
+        867
+      ],
+      "text": "tái nhất phiên khoái sự, liêu vi thắng thưởng chi hoan hội. Thích",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0144_viet_006",
+      "bbox": [
+        [
+          101,
+          873
+        ],
+        [
+          1064,
+          867
+        ],
+        [
+          1064,
+          904
+        ],
+        [
+          101,
+          911
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          988
+        ],
+        [
+          1064,
+          982
+        ],
+        [
+          1064,
+          1019
+        ],
+        [
+          101,
+          1026
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        867,
+        1064,
+        911
+      ],
+      "text": "phùng gia hứng lai, kham ngoạn khả nhân duy hữu tửu. Hi kiêm",
+      "confidence": 0.9235
+    },
+    {
+      "line_id": "0144_viet_007",
+      "bbox": [
+        [
+          99,
+          914
+        ],
+        [
+          1062,
+          908
+        ],
+        [
+          1062,
+          948
+        ],
+        [
+          99,
+          954
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1029
+        ],
+        [
+          1062,
+          1023
+        ],
+        [
+          1062,
+          1063
+        ],
+        [
+          99,
+          1069
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        908,
+        1062,
+        954
+      ],
+      "text": "tứ mĩ nhị nan, hành lạc tu cập xuân, hà tích thiên kim nhất tuý.",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0144_viet_008",
+      "bbox": [
+        [
+          100,
+          957
+        ],
+        [
+          844,
+          954
+        ],
+        [
+          845,
+          991
+        ],
+        [
+          100,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          1072
+        ],
+        [
+          844,
+          1069
+        ],
+        [
+          845,
+          1106
+        ],
+        [
+          100,
+          1109
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        954,
+        845,
+        994
+      ],
+      "text": "Dục vĩ chân suất hội, tái xướng Thẩm viên xuân từ",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0144_viet_009",
+      "bbox": [
+        [
+          160,
+          1004
+        ],
+        [
+          522,
+          1002
+        ],
+        [
+          522,
+          1042
+        ],
+        [
+          160,
+          1045
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1119
+        ],
+        [
+          522,
+          1117
+        ],
+        [
+          522,
+          1157
+        ],
+        [
+          160,
+          1160
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        1002,
+        522,
+        1045
+      ],
+      "text": "Thiên thượng dương hồi,",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0144_viet_010",
+      "bbox": [
+        [
+          161,
+          1054
+        ],
+        [
+          456,
+          1054
+        ],
+        [
+          456,
+          1092
+        ],
+        [
+          161,
+          1092
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1169
+        ],
+        [
+          456,
+          1169
+        ],
+        [
+          456,
+          1207
+        ],
+        [
+          161,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1054,
+        456,
+        1092
+      ],
+      "text": "Nhân gian xuân chi,",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0144_viet_011",
+      "bbox": [
+        [
+          161,
+          1101
+        ],
+        [
+          454,
+          1101
+        ],
+        [
+          454,
+          1142
+        ],
+        [
+          161,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1216
+        ],
+        [
+          454,
+          1216
+        ],
+        [
+          454,
+          1257
+        ],
+        [
+          161,
+          1257
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1101,
+        454,
+        1142
+      ],
+      "text": "Hựu nhất phiên tân",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0144_viet_012",
+      "bbox": [
+        [
+          164,
+          1153
+        ],
+        [
+          498,
+          1153
+        ],
+        [
+          498,
+          1186
+        ],
+        [
+          164,
+          1186
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          1268
+        ],
+        [
+          498,
+          1268
+        ],
+        [
+          498,
+          1301
+        ],
+        [
+          164,
+          1301
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        1153,
+        498,
+        1186
+      ],
+      "text": "Cái khai thái càn khôn,",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0144_viet_013",
+      "bbox": [
+        [
+          162,
+          1195
+        ],
+        [
+          442,
+          1199
+        ],
+        [
+          441,
+          1242
+        ],
+        [
+          161,
+          1239
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1310
+        ],
+        [
+          442,
+          1314
+        ],
+        [
+          441,
+          1357
+        ],
+        [
+          161,
+          1354
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        1195,
+        442,
+        1242
+      ],
+      "text": "Thiều quang úc úc,",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0144_viet_014",
+      "bbox": [
+        [
+          162,
+          1249
+        ],
+        [
+          546,
+          1249
+        ],
+        [
+          546,
+          1287
+        ],
+        [
+          162,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1364
+        ],
+        [
+          546,
+          1364
+        ],
+        [
+          546,
+          1402
+        ],
+        [
+          162,
+          1402
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1249,
+        546,
+        1287
+      ],
+      "text": "Hướng dương quang thảo,",
+      "confidence": 0.9022
+    },
+    {
+      "line_id": "0144_viet_015",
+      "bbox": [
+        [
+          162,
+          1296
+        ],
+        [
+          389,
+          1296
+        ],
+        [
+          389,
+          1333
+        ],
+        [
+          162,
+          1333
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1411
+        ],
+        [
+          389,
+          1411
+        ],
+        [
+          389,
+          1448
+        ],
+        [
+          162,
+          1448
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1296,
+        389,
+        1333
+      ],
+      "text": "Sinh ý hân hân",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0144_viet_016",
+      "bbox": [
+        [
+          163,
+          1338
+        ],
+        [
+          423,
+          1340
+        ],
+        [
+          423,
+          1382
+        ],
+        [
+          162,
+          1380
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          1453
+        ],
+        [
+          423,
+          1455
+        ],
+        [
+          423,
+          1497
+        ],
+        [
+          162,
+          1495
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1338,
+        423,
+        1382
+      ],
+      "text": "Hồng sấn đào tai,",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0144_viet_017",
+      "bbox": [
+        [
+          1005,
+          1420
+        ],
+        [
+          1070,
+          1420
+        ],
+        [
+          1070,
+          1463
+        ],
+        [
+          1005,
+          1463
+        ]
+      ],
+      "bbox_original": [
+        [
+          1005,
+          1535
+        ],
+        [
+          1070,
+          1535
+        ],
+        [
+          1070,
+          1578
+        ],
+        [
+          1005,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        1005,
+        1420,
+        1070,
+        1463
+      ],
+      "text": "137",
+      "confidence": 0.9278
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "THƯỞNG XUÂN TỪ TÍNH DẪN",
+      "(Thấm viên xuân)",
+      "Thời đồng đạo lưỡng tam nhân đáo sách cú, nhân hí tác.",
+      "Tư đương cửu thập nhật, thiều hoa hảo cá huyên hoà chi hậu,",
+      "tái nhất phiên khoái sự, liêu vi thắng thưởng chi hoan hội. Thích",
+      "phùng gia hứng lai, kham ngoạn khả nhân duy hữu tửu. Hi kiêm",
+      "tứ mĩ nhị nan, hành lạc tu cập xuân, hà tích thiên kim nhất tuý.",
+      "Dục vĩ chân suất hội, tái xướng Thẩm viên xuân từ",
+      "Thiên thượng dương hồi,",
+      "Nhân gian xuân chi,",
+      "Hựu nhất phiên tân",
+      "Cái khai thái càn khôn,",
+      "Thiều quang úc úc,",
+      "Hướng dương quang thảo,",
+      "Sinh ý hân hân",
+      "Hồng sấn đào tai,",
+      "137"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

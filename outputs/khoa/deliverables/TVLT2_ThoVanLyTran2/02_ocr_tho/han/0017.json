@@ -1,0 +1,451 @@
+{
+  "page_id": "0017",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 17,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0017_han_000",
+      "bbox": [
+        [
+          680,
+          370
+        ],
+        [
+          910,
+          367
+        ],
+        [
+          912,
+          468
+        ],
+        [
+          681,
+          470
+        ]
+      ],
+      "bbox_original": [
+        [
+          680,
+          525
+        ],
+        [
+          910,
+          522
+        ],
+        [
+          912,
+          623
+        ],
+        [
+          681,
+          625
+        ]
+      ],
+      "box_xyxy": [
+        680,
+        367,
+        912,
+        470
+      ],
+      "text": "陳哭",
+      "confidence": 0.7012
+    },
+    {
+      "line_id": "0017_han_001",
+      "bbox": [
+        [
+          710,
+          504
+        ],
+        [
+          868,
+          504
+        ],
+        [
+          868,
+          562
+        ],
+        [
+          710,
+          562
+        ]
+      ],
+      "bbox_original": [
+        [
+          710,
+          659
+        ],
+        [
+          868,
+          659
+        ],
+        [
+          868,
+          717
+        ],
+        [
+          710,
+          717
+        ]
+      ],
+      "box_xyxy": [
+        710,
+        504,
+        868,
+        562
+      ],
+      "text": "太宗",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0017_han_002",
+      "bbox": [
+        [
+          270,
+          698
+        ],
+        [
+          763,
+          698
+        ],
+        [
+          763,
+          752
+        ],
+        [
+          270,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          853
+        ],
+        [
+          763,
+          853
+        ],
+        [
+          763,
+          907
+        ],
+        [
+          270,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        698,
+        763,
+        752
+      ],
+      "text": "Tràn Cänh là con thtúr Trān Thira 陳 承, sinh ngày 16 tháng Sau",
+      "confidence": 0.9177
+    },
+    {
+      "line_id": "0017_han_003",
+      "bbox": [
+        [
+          335,
+          838
+        ],
+        [
+          763,
+          838
+        ],
+        [
+          763,
+          885
+        ],
+        [
+          335,
+          885
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          993
+        ],
+        [
+          763,
+          993
+        ],
+        [
+          763,
+          1040
+        ],
+        [
+          335,
+          1040
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        838,
+        763,
+        885
+      ],
+      "text": "(1), dòi dòi làm nghè dánh cà. Dén dòi Ly Cao Tóng 李 高 宗,",
+      "confidence": 0.8947
+    },
+    {
+      "line_id": "0017_han_004",
+      "bbox": [
+        [
+          176,
+          877
+        ],
+        [
+          1408,
+          878
+        ],
+        [
+          1408,
+          923
+        ],
+        [
+          176,
+          922
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1032
+        ],
+        [
+          1408,
+          1033
+        ],
+        [
+          1408,
+          1078
+        ],
+        [
+          176,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        877,
+        1408,
+        923
+      ],
+      "text": "nhò cóng dánh dep Quách Bóc 亨p , dàn dàn có thé lrc trong trièu: con",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0017_han_005",
+      "bbox": [
+        [
+          177,
+          955
+        ],
+        [
+          763,
+          955
+        ],
+        [
+          763,
+          998
+        ],
+        [
+          177,
+          998
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1110
+        ],
+        [
+          763,
+          1110
+        ],
+        [
+          763,
+          1153
+        ],
+        [
+          177,
+          1153
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        955,
+        763,
+        998
+      ],
+      "text": "Tong, và các nhān vat nhr Tràn Thǔ Đò P夷 守度 dugc làm Đièn tiên chi",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0017_han_006",
+      "bbox": [
+        [
+          174,
+          993
+        ],
+        [
+          763,
+          993
+        ],
+        [
+          763,
+          1041
+        ],
+        [
+          174,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1148
+        ],
+        [
+          763,
+          1148
+        ],
+        [
+          763,
+          1196
+        ],
+        [
+          174,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        993,
+        763,
+        1041
+      ],
+      "text": "huy str, Tràn Tư Khánh 飞柬 词慶 dugć ban turc Minh t, quăn līnh quán",
+      "confidence": 0.8909
+    },
+    {
+      "line_id": "0017_han_007",
+      "bbox": [
+        [
+          174,
+          1076
+        ],
+        [
+          763,
+          1076
+        ],
+        [
+          763,
+          1121
+        ],
+        [
+          174,
+          1121
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1231
+        ],
+        [
+          763,
+          1231
+        ],
+        [
+          763,
+          1276
+        ],
+        [
+          174,
+          1276
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1076,
+        763,
+        1121
+      ],
+      "text": "chinh chi irng cuc, hàu cán Ly Chièu Hoàng 李 昭 . Do sur vân dóng, bó",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0017_han_008",
+      "bbox": [
+        [
+          175,
+          1275
+        ],
+        [
+          763,
+          1275
+        ],
+        [
+          763,
+          1318
+        ],
+        [
+          175,
+          1318
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1430
+        ],
+        [
+          763,
+          1430
+        ],
+        [
+          763,
+          1473
+        ],
+        [
+          175,
+          1473
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1275,
+        763,
+        1318
+      ],
+      "text": "Hoàng làm cóng chúa dè làp Thuàn Thién 川 , vo Tràn Lin 東 p, anh",
+      "confidence": 0.8867
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "陳哭",
+      "太宗"
+    ],
+    "interlinear_triplets": []
+  }
+}

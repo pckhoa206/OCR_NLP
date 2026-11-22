@@ -1,0 +1,459 @@
+{
+  "page_id": "0020",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 20,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0020_han_000",
+      "bbox": [
+        [
+          243,
+          126
+        ],
+        [
+          713,
+          123
+        ],
+        [
+          713,
+          172
+        ],
+        [
+          243,
+          174
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          247
+        ],
+        [
+          713,
+          244
+        ],
+        [
+          713,
+          293
+        ],
+        [
+          243,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        123,
+        713,
+        174
+      ],
+      "text": "召公曰是障之也",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0020_han_001",
+      "bbox": [
+        [
+          246,
+          294
+        ],
+        [
+          783,
+          294
+        ],
+        [
+          783,
+          338
+        ],
+        [
+          246,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          415
+        ],
+        [
+          783,
+          415
+        ],
+        [
+          783,
+          459
+        ],
+        [
+          246,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        294,
+        783,
+        338
+      ],
+      "text": "防民之口甚於防川",
+      "confidence": 0.9942
+    },
+    {
+      "line_id": "0020_han_002",
+      "bbox": [
+        [
+          248,
+          454
+        ],
+        [
+          781,
+          456
+        ],
+        [
+          781,
+          503
+        ],
+        [
+          248,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          575
+        ],
+        [
+          781,
+          577
+        ],
+        [
+          781,
+          624
+        ],
+        [
+          248,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        454,
+        781,
+        503
+      ],
+      "text": "川壅而潰傷人必多",
+      "confidence": 0.9962
+    },
+    {
+      "line_id": "0020_han_003",
+      "bbox": [
+        [
+          244,
+          617
+        ],
+        [
+          506,
+          615
+        ],
+        [
+          507,
+          663
+        ],
+        [
+          244,
+          665
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          738
+        ],
+        [
+          506,
+          736
+        ],
+        [
+          507,
+          784
+        ],
+        [
+          244,
+          786
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        615,
+        507,
+        665
+      ],
+      "text": "民亦如之",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0020_han_004",
+      "bbox": [
+        [
+          243,
+          782
+        ],
+        [
+          851,
+          782
+        ],
+        [
+          851,
+          830
+        ],
+        [
+          243,
+          830
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          903
+        ],
+        [
+          851,
+          903
+        ],
+        [
+          851,
+          951
+        ],
+        [
+          243,
+          951
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        782,
+        851,
+        830
+      ],
+      "text": "是故爲川者决之使導",
+      "confidence": 0.9601
+    },
+    {
+      "line_id": "0020_han_005",
+      "bbox": [
+        [
+          244,
+          942
+        ],
+        [
+          714,
+          945
+        ],
+        [
+          713,
+          993
+        ],
+        [
+          244,
+          990
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1063
+        ],
+        [
+          714,
+          1066
+        ],
+        [
+          713,
+          1114
+        ],
+        [
+          244,
+          1111
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        942,
+        714,
+        993
+      ],
+      "text": "爲民者宣之使言",
+      "confidence": 0.975
+    },
+    {
+      "line_id": "0020_han_006",
+      "bbox": [
+        [
+          246,
+          1154
+        ],
+        [
+          577,
+          1154
+        ],
+        [
+          577,
+          1198
+        ],
+        [
+          246,
+          1198
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1275
+        ],
+        [
+          577,
+          1275
+        ],
+        [
+          577,
+          1319
+        ],
+        [
+          246,
+          1319
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1154,
+        577,
+        1198
+      ],
+      "text": "故天子聽政",
+      "confidence": 0.99
+    },
+    {
+      "line_id": "0020_han_007",
+      "bbox": [
+        [
+          242,
+          1316
+        ],
+        [
+          854,
+          1314
+        ],
+        [
+          854,
+          1361
+        ],
+        [
+          242,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1437
+        ],
+        [
+          854,
+          1435
+        ],
+        [
+          854,
+          1482
+        ],
+        [
+          242,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1314,
+        854,
+        1363
+      ],
+      "text": "使公卿至於列士獻詩",
+      "confidence": 0.9993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "召公曰是障之也",
+      "防民之口甚於防川",
+      "川壅而潰傷人必多",
+      "民亦如之",
+      "是故爲川者决之使導",
+      "爲民者宣之使言",
+      "故天子聽政",
+      "使公卿至於列士獻詩"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "召公曰是障之也",
+        "phien_am": "Thiệu-công viết: thị chướng chi dã.",
+        "dich_nghia_gloss": "Chiêu-công nói: ây là che lập vậy thôi"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "防民之口甚於防川",
+        "phien_am": "Phòng dân chi khầu thậm ư phòng xuyên",
+        "dich_nghia_gloss": "ngừa miệng dân cũng như ngừa sông"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "川壅而潰傷人必多",
+        "phien_am": "Xuyên úng nhi hội thương nhân tất da.",
+        "dich_nghia_gloss": "Sông úng võ đê thì hại rất nhiều"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "民亦如之",
+        "phien_am": "Dân diệc như chi.",
+        "dich_nghia_gloss": "Dân cũng như sông vậy"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "是故爲川者决之使導",
+        "phien_am": "Thị cõ vị xuyên giả quyết chi xử đạo",
+        "dich_nghia_gloss": "Cho nên vì sông, thì phải khơi dòng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "爲民者宣之使言",
+        "phien_am": "Vị dân giả tuyên chi xử ngôn",
+        "dich_nghia_gloss": "vì dân phải lầy lời mà tỏ ra vì dân, cho tự đáy lòng nói ra,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "故天子聽政",
+        "phien_am": "Cõ thiên-tử thính chính,",
+        "dich_nghia_gloss": "nên vua ngồi cai trị"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "使公卿至於列士獻詩",
+        "phien_am": "Xử công khanh chí ư liệt sĩ hiền thi",
+        "dich_nghia_gloss": "cho các quan cùng kẻ sĩ dâng thơ"
+      }
+    ]
+  }
+}

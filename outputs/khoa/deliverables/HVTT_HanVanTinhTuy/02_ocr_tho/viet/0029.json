@@ -1,0 +1,215 @@
+{
+  "page_id": "0029",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 29,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0029_viet_000",
+      "bbox": [
+        [
+          261,
+          581
+        ],
+        [
+          925,
+          577
+        ],
+        [
+          925,
+          625
+        ],
+        [
+          261,
+          628
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          702
+        ],
+        [
+          925,
+          698
+        ],
+        [
+          925,
+          746
+        ],
+        [
+          261,
+          749
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        577,
+        925,
+        628
+      ],
+      "text": "THÚC-HƯỚNG HẠ TUYÊN.TỬ BẦN",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0029_viet_001",
+      "bbox": [
+        [
+          327,
+          696
+        ],
+        [
+          849,
+          696
+        ],
+        [
+          849,
+          737
+        ],
+        [
+          327,
+          737
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          817
+        ],
+        [
+          849,
+          817
+        ],
+        [
+          849,
+          858
+        ],
+        [
+          327,
+          858
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        696,
+        849,
+        737
+      ],
+      "text": "THÚC-HƯỞNG CHÚC MỪNG",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0029_viet_002",
+      "bbox": [
+        [
+          423,
+          749
+        ],
+        [
+          768,
+          749
+        ],
+        [
+          768,
+          793
+        ],
+        [
+          423,
+          793
+        ]
+      ],
+      "bbox_original": [
+        [
+          423,
+          870
+        ],
+        [
+          768,
+          870
+        ],
+        [
+          768,
+          914
+        ],
+        [
+          423,
+          914
+        ]
+      ],
+      "box_xyxy": [
+        423,
+        749,
+        768,
+        793
+      ],
+      "text": "TUYÊN-TỬ NGHèo",
+      "confidence": 0.8645
+    },
+    {
+      "line_id": "0029_viet_003",
+      "bbox": [
+        [
+          676,
+          936
+        ],
+        [
+          912,
+          936
+        ],
+        [
+          912,
+          970
+        ],
+        [
+          676,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          676,
+          1057
+        ],
+        [
+          912,
+          1057
+        ],
+        [
+          912,
+          1091
+        ],
+        [
+          676,
+          1091
+        ]
+      ],
+      "box_xyxy": [
+        676,
+        936,
+        912,
+        970
+      ],
+      "text": "Tả Khâu Minh",
+      "confidence": 0.9297
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

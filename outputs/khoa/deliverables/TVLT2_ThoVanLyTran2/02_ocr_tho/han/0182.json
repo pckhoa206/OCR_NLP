@@ -1,0 +1,401 @@
+{
+  "page_id": "0182",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 182,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0182_han_000",
+      "bbox": [
+        [
+          418,
+          862
+        ],
+        [
+          479,
+          860
+        ],
+        [
+          485,
+          1006
+        ],
+        [
+          423,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          1017
+        ],
+        [
+          479,
+          1015
+        ],
+        [
+          485,
+          1161
+        ],
+        [
+          423,
+          1164
+        ]
+      ],
+      "box_xyxy": [
+        418,
+        860,
+        485,
+        1009
+      ],
+      "text": "焚露身",
+      "confidence": 0.9852
+    },
+    {
+      "line_id": "0182_han_001",
+      "bbox": [
+        [
+          173,
+          1249
+        ],
+        [
+          1406,
+          1244
+        ],
+        [
+          1406,
+          1284
+        ],
+        [
+          173,
+          1289
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1404
+        ],
+        [
+          1406,
+          1399
+        ],
+        [
+          1406,
+          1439
+        ],
+        [
+          173,
+          1444
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1244,
+        1406,
+        1289
+      ],
+      "text": "(4) Lám-āp : thi Hán xâm chiém Nam-vit 南  thi đày là vùng dát huyn Tung-làn",
+      "confidence": 0.9373
+    },
+    {
+      "line_id": "0182_han_002",
+      "bbox": [
+        [
+          242,
+          1284
+        ],
+        [
+          763,
+          1284
+        ],
+        [
+          763,
+          1324
+        ],
+        [
+          242,
+          1324
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1439
+        ],
+        [
+          763,
+          1439
+        ],
+        [
+          763,
+          1479
+        ],
+        [
+          242,
+          1479
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1284,
+        763,
+        1324
+      ],
+      "text": "象 木, t Ngǔ đai tr vè sau dòi là Chiêm-thành  城 túre Jà vùng tù Quăng-tri.",
+      "confidence": 0.881
+    },
+    {
+      "line_id": "0182_han_003",
+      "bbox": [
+        [
+          173,
+          1359
+        ],
+        [
+          763,
+          1359
+        ],
+        [
+          763,
+          1407
+        ],
+        [
+          173,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1514
+        ],
+        [
+          763,
+          1514
+        ],
+        [
+          763,
+          1562
+        ],
+        [
+          173,
+          1562
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1359,
+        763,
+        1407
+      ],
+      "text": "(5) Tó du : tirc tò hp du. theo Bán Thão 本 草 là môt loși cây có nhya thom, có thè",
+      "confidence": 0.9374
+    },
+    {
+      "line_id": "0182_han_004",
+      "bbox": [
+        [
+          232,
+          1408
+        ],
+        [
+          1403,
+          1401
+        ],
+        [
+          1403,
+          1436
+        ],
+        [
+          233,
+          1442
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1563
+        ],
+        [
+          1403,
+          1556
+        ],
+        [
+          1403,
+          1591
+        ],
+        [
+          233,
+          1597
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1401,
+        1403,
+        1442
+      ],
+      "text": "dùng làm thuóc, là săn phàm cûa nre Pht-tè 佛  và nurèc Vișt xra. Hai-tàn :",
+      "confidence": 0.8926
+    },
+    {
+      "line_id": "0182_han_005",
+      "bbox": [
+        [
+          168,
+          1478
+        ],
+        [
+          763,
+          1478
+        ],
+        [
+          763,
+          1530
+        ],
+        [
+          168,
+          1530
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1633
+        ],
+        [
+          763,
+          1633
+        ],
+        [
+          763,
+          1685
+        ],
+        [
+          168,
+          1685
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1478,
+        763,
+        1530
+      ],
+      "text": "(6) Phong hugën : tên huyěn thuc tinh Hò-nam 月 南 Trung-quóc.",
+      "confidence": 0.9419
+    },
+    {
+      "line_id": "0182_han_006",
+      "bbox": [
+        [
+          173,
+          1526
+        ],
+        [
+          763,
+          1526
+        ],
+        [
+          763,
+          1574
+        ],
+        [
+          173,
+          1574
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1681
+        ],
+        [
+          763,
+          1681
+        ],
+        [
+          763,
+          1729
+        ],
+        [
+          173,
+          1729
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1526,
+        763,
+        1574
+      ],
+      "text": "(7) O-trành ; tèn nưòc, theo sách Táy-ve ký 西 或 記 hi thuōc mièn Bǎc An-dö.",
+      "confidence": 0.8494
+    },
+    {
+      "line_id": "0182_han_007",
+      "bbox": [
+        [
+          779,
+          1866
+        ],
+        [
+          802,
+          1866
+        ],
+        [
+          802,
+          1888
+        ],
+        [
+          779,
+          1888
+        ]
+      ],
+      "bbox_original": [
+        [
+          779,
+          2021
+        ],
+        [
+          802,
+          2021
+        ],
+        [
+          802,
+          2043
+        ],
+        [
+          779,
+          2043
+        ]
+      ],
+      "box_xyxy": [
+        779,
+        1866,
+        802,
+        1888
+      ],
+      "text": "母",
+      "confidence": 0.6187
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

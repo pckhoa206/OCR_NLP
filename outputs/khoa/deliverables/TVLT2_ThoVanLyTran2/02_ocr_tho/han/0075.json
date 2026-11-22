@@ -1,0 +1,312 @@
+{
+  "page_id": "0075",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 75,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0075_han_000",
+      "bbox": [
+        [
+          236,
+          699
+        ],
+        [
+          763,
+          699
+        ],
+        [
+          763,
+          741
+        ],
+        [
+          236,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          854
+        ],
+        [
+          763,
+          854
+        ],
+        [
+          763,
+          896
+        ],
+        [
+          236,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        699,
+        763,
+        741
+      ],
+      "text": "thièn su thòi Ly — Tràn nhǎc tói nhiěu làn. Phan Truưòng Nguyèn 潘  原",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0075_han_001",
+      "bbox": [
+        [
+          241,
+          735
+        ],
+        [
+          763,
+          735
+        ],
+        [
+          763,
+          770
+        ],
+        [
+          241,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          890
+        ],
+        [
+          763,
+          890
+        ],
+        [
+          763,
+          925
+        ],
+        [
+          241,
+          925
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        735,
+        763,
+        770
+      ],
+      "text": "(1110 — 1165) trong bài Thi dao 示 道. só 91, tàp I có hai càu :",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0075_han_002",
+      "bbox": [
+        [
+          611,
+          768
+        ],
+        [
+          812,
+          768
+        ],
+        [
+          812,
+          813
+        ],
+        [
+          611,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          611,
+          923
+        ],
+        [
+          812,
+          923
+        ],
+        [
+          812,
+          968
+        ],
+        [
+          611,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        611,
+        768,
+        812,
+        813
+      ],
+      "text": "作舞軼女",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0075_han_003",
+      "bbox": [
+        [
+          608,
+          815
+        ],
+        [
+          813,
+          813
+        ],
+        [
+          813,
+          858
+        ],
+        [
+          609,
+          861
+        ]
+      ],
+      "bbox_original": [
+        [
+          608,
+          970
+        ],
+        [
+          813,
+          968
+        ],
+        [
+          813,
+          1013
+        ],
+        [
+          609,
+          1016
+        ]
+      ],
+      "box_xyxy": [
+        608,
+        813,
+        813,
+        861
+      ],
+      "text": "打鼓木人",
+      "confidence": 0.9986
+    },
+    {
+      "line_id": "0075_han_004",
+      "bbox": [
+        [
+          602,
+          1149
+        ],
+        [
+          989,
+          1140
+        ],
+        [
+          990,
+          1187
+        ],
+        [
+          603,
+          1196
+        ]
+      ],
+      "bbox_original": [
+        [
+          602,
+          1304
+        ],
+        [
+          989,
+          1295
+        ],
+        [
+          990,
+          1342
+        ],
+        [
+          603,
+          1351
+        ]
+      ],
+      "box_xyxy": [
+        602,
+        1140,
+        990,
+        1196
+      ],
+      "text": "木人入海無生唱",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0075_han_005",
+      "bbox": [
+        [
+          602,
+          1194
+        ],
+        [
+          987,
+          1186
+        ],
+        [
+          988,
+          1238
+        ],
+        [
+          603,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          602,
+          1349
+        ],
+        [
+          987,
+          1341
+        ],
+        [
+          988,
+          1393
+        ],
+        [
+          603,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        602,
+        1186,
+        988,
+        1245
+      ],
+      "text": "石女穿雲篳篥吹",
+      "confidence": 0.8848
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "作舞軼女",
+      "打鼓木人",
+      "木人入海無生唱",
+      "石女穿雲篳篥吹"
+    ],
+    "interlinear_triplets": []
+  }
+}

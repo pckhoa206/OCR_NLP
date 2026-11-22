@@ -1,0 +1,119 @@
+{
+  "page_id": "0049",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 49,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0049_han_000",
+      "bbox": [
+        [
+          163,
+          90
+        ],
+        [
+          763,
+          90
+        ],
+        [
+          763,
+          157
+        ],
+        [
+          163,
+          157
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          245
+        ],
+        [
+          763,
+          245
+        ],
+        [
+          763,
+          312
+        ],
+        [
+          163,
+          312
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        90,
+        763,
+        157
+      ],
+      "text": "(24) Ly Ldu :, theo Manh Tù 孟子, là mit agroi mát rát tinh. Manh Tù: là môt bác à",
+      "confidence": 0.8332
+    },
+    {
+      "line_id": "0049_han_001",
+      "bbox": [
+        [
+          244,
+          545
+        ],
+        [
+          763,
+          545
+        ],
+        [
+          763,
+          593
+        ],
+        [
+          244,
+          593
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          700
+        ],
+        [
+          763,
+          700
+        ],
+        [
+          763,
+          748
+        ],
+        [
+          244,
+          748
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        545,
+        763,
+        593
+      ],
+      "text": "文王.Nói dén La Vong la nói dén tuoi già.",
+      "confidence": 0.8602
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

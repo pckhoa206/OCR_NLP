@@ -1,0 +1,1467 @@
+{
+  "page_id": "0093",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 93,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0093_viet_000",
+      "bbox": [
+        [
+          179,
+          495
+        ],
+        [
+          345,
+          495
+        ],
+        [
+          345,
+          533
+        ],
+        [
+          179,
+          533
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          650
+        ],
+        [
+          345,
+          650
+        ],
+        [
+          345,
+          688
+        ],
+        [
+          179,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        495,
+        345,
+        533
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.8747
+    },
+    {
+      "line_id": "0093_viet_001",
+      "bbox": [
+        [
+          658,
+          542
+        ],
+        [
+          937,
+          542
+        ],
+        [
+          937,
+          580
+        ],
+        [
+          658,
+          580
+        ]
+      ],
+      "bbox_original": [
+        [
+          658,
+          697
+        ],
+        [
+          937,
+          697
+        ],
+        [
+          937,
+          735
+        ],
+        [
+          658,
+          735
+        ]
+      ],
+      "box_xyxy": [
+        658,
+        542,
+        937,
+        580
+      ],
+      "text": "GIỚI THÂU ĐẠO",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0093_viet_002",
+      "bbox": [
+        [
+          273,
+          612
+        ],
+        [
+          1412,
+          612
+        ],
+        [
+          1412,
+          656
+        ],
+        [
+          273,
+          656
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          767
+        ],
+        [
+          1412,
+          767
+        ],
+        [
+          1412,
+          811
+        ],
+        [
+          273,
+          811
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        612,
+        1412,
+        656
+      ],
+      "text": "Phù hành nhân: nghĩa già, quàn tử, vi thâu đạo giả, tiêu nhân. U quân",
+      "confidence": 0.8946
+    },
+    {
+      "line_id": "0093_viet_003",
+      "bbox": [
+        [
+          178,
+          657
+        ],
+        [
+          1411,
+          656
+        ],
+        [
+          1411,
+          697
+        ],
+        [
+          178,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          812
+        ],
+        [
+          1411,
+          811
+        ],
+        [
+          1411,
+          852
+        ],
+        [
+          178,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        656,
+        1411,
+        698
+      ],
+      "text": "tử hoài tuất chừng cô bần: tiêu nhàn tại tham thủ tài vật, Lợi dĩ nhân hóa,",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0093_viet_004",
+      "bbox": [
+        [
+          176,
+          700
+        ],
+        [
+          1411,
+          699
+        ],
+        [
+          1411,
+          740
+        ],
+        [
+          176,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          855
+        ],
+        [
+          1411,
+          854
+        ],
+        [
+          1411,
+          895
+        ],
+        [
+          176,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        699,
+        1411,
+        741
+      ],
+      "text": "mối vì kỳ tài ? đa nhằn nhân tình, duy tri tự ích. Tranh tri phú quý tại thiên;",
+      "confidence": 0.8714
+    },
+    {
+      "line_id": "0093_viet_005",
+      "bbox": [
+        [
+          178,
+          743
+        ],
+        [
+          1412,
+          742
+        ],
+        [
+          1412,
+          782
+        ],
+        [
+          178,
+          783
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          898
+        ],
+        [
+          1412,
+          897
+        ],
+        [
+          1412,
+          937
+        ],
+        [
+          178,
+          938
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        742,
+        1412,
+        783
+      ],
+      "text": "dân tứ tham cầu vi ý. Bô bãn ? huyệt thắt, tạc bích xuyên tường, Chùng tích",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0093_viet_006",
+      "bbox": [
+        [
+          179,
+          786
+        ],
+        [
+          1414,
+          784
+        ],
+        [
+          1414,
+          825
+        ],
+        [
+          179,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          941
+        ],
+        [
+          1414,
+          939
+        ],
+        [
+          1414,
+          980
+        ],
+        [
+          179,
+          982
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        784,
+        1414,
+        827
+      ],
+      "text": "sơn dương tướng quân; tập hành lương thượng quân từ. Nghịch thiên - bột.",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0093_viet_007",
+      "bbox": [
+        [
+          179,
+          828
+        ],
+        [
+          1413,
+          826
+        ],
+        [
+          1413,
+          866
+        ],
+        [
+          179,
+          868
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          983
+        ],
+        [
+          1413,
+          981
+        ],
+        [
+          1413,
+          1021
+        ],
+        [
+          179,
+          1023
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        826,
+        1413,
+        868
+      ],
+      "text": "địa: khi pháp khinh hình sinh tiền tao còng sự thi hành, từ hậu bị minh",
+      "confidence": 0.8796
+    },
+    {
+      "line_id": "0093_viet_008",
+      "bbox": [
+        [
+          178,
+          869
+        ],
+        [
+          1413,
+          866
+        ],
+        [
+          1413,
+          911
+        ],
+        [
+          178,
+          914
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1024
+        ],
+        [
+          1413,
+          1021
+        ],
+        [
+          1413,
+          1066
+        ],
+        [
+          178,
+          1069
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        866,
+        1413,
+        914
+      ],
+      "text": "ty, khảo lược, Khởi chỉ, đôi kim đối ngọc, vô linh nhất giới nhất mao. Khứu",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0093_viet_009",
+      "bbox": [
+        [
+          179,
+          913
+        ],
+        [
+          1413,
+          912
+        ],
+        [
+          1413,
+          953
+        ],
+        [
+          179,
+          954
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1068
+        ],
+        [
+          1413,
+          1067
+        ],
+        [
+          1413,
+          1108
+        ],
+        [
+          179,
+          1109
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        912,
+        1413,
+        954
+      ],
+      "text": "trì liên địa thần thượng ha; thủ, tử tiên, âm quân do phạt, Khỏi, khôi, thiên",
+      "confidence": 0.8859
+    },
+    {
+      "line_id": "0093_viet_010",
+      "bbox": [
+        [
+          180,
+          955
+        ],
+        [
+          1413,
+          953
+        ],
+        [
+          1413,
+          997
+        ],
+        [
+          180,
+          999
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1110
+        ],
+        [
+          1413,
+          1108
+        ],
+        [
+          1413,
+          1152
+        ],
+        [
+          180,
+          1154
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        953,
+        1413,
+        999
+      ],
+      "text": "vông, hành thiện thoát nhi hành ác la: đăng đồng vương hình, vì công miễn",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0093_viet_011",
+      "bbox": [
+        [
+          181,
+          1002
+        ],
+        [
+          429,
+          1002
+        ],
+        [
+          429,
+          1040
+        ],
+        [
+          181,
+          1040
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1157
+        ],
+        [
+          429,
+          1157
+        ],
+        [
+          429,
+          1195
+        ],
+        [
+          181,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1002,
+        429,
+        1040
+      ],
+      "text": "nhi vi tư phạm",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0093_viet_012",
+      "bbox": [
+        [
+          276,
+          1058
+        ],
+        [
+          408,
+          1058
+        ],
+        [
+          408,
+          1100
+        ],
+        [
+          276,
+          1100
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1213
+        ],
+        [
+          408,
+          1213
+        ],
+        [
+          408,
+          1255
+        ],
+        [
+          276,
+          1255
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1058,
+        408,
+        1100
+      ],
+      "text": "Kệ viết",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0093_viet_013",
+      "bbox": [
+        [
+          537,
+          1105
+        ],
+        [
+          1214,
+          1105
+        ],
+        [
+          1214,
+          1145
+        ],
+        [
+          537,
+          1145
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          1260
+        ],
+        [
+          1214,
+          1260
+        ],
+        [
+          1214,
+          1300
+        ],
+        [
+          537,
+          1300
+        ]
+      ],
+      "box_xyxy": [
+        537,
+        1105,
+        1214,
+        1145
+      ],
+      "text": "Tạc bích xuyên tường ý bất luril, có giúng",
+      "confidence": 0.825
+    },
+    {
+      "line_id": "0093_viet_014",
+      "bbox": [
+        [
+          538,
+          1151
+        ],
+        [
+          1073,
+          1151
+        ],
+        [
+          1073,
+          1192
+        ],
+        [
+          538,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          538,
+          1306
+        ],
+        [
+          1073,
+          1306
+        ],
+        [
+          1073,
+          1347
+        ],
+        [
+          538,
+          1347
+        ]
+      ],
+      "box_xyxy": [
+        538,
+        1151,
+        1073,
+        1192
+      ],
+      "text": "Thiên ban bách kê khổ doanh càn",
+      "confidence": 0.8439
+    },
+    {
+      "line_id": "0093_viet_015",
+      "bbox": [
+        [
+          534,
+          1200
+        ],
+        [
+          1036,
+          1198
+        ],
+        [
+          1037,
+          1239
+        ],
+        [
+          534,
+          1241
+        ]
+      ],
+      "bbox_original": [
+        [
+          534,
+          1355
+        ],
+        [
+          1036,
+          1353
+        ],
+        [
+          1037,
+          1394
+        ],
+        [
+          534,
+          1396
+        ]
+      ],
+      "box_xyxy": [
+        534,
+        1198,
+        1037,
+        1241
+      ],
+      "text": "Kim sinh cầu đặc tha nhân vật",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0093_viet_016",
+      "bbox": [
+        [
+          537,
+          1247
+        ],
+        [
+          1077,
+          1247
+        ],
+        [
+          1077,
+          1287
+        ],
+        [
+          537,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          1402
+        ],
+        [
+          1077,
+          1402
+        ],
+        [
+          1077,
+          1442
+        ],
+        [
+          537,
+          1442
+        ]
+      ],
+      "box_xyxy": [
+        537,
+        1247,
+        1077,
+        1287
+      ],
+      "text": "Bất giác clung thiện thụ mà ngưư",
+      "confidence": 0.8899
+    },
+    {
+      "line_id": "0093_viet_017",
+      "bbox": [
+        [
+          181,
+          1333
+        ],
+        [
+          359,
+          1331
+        ],
+        [
+          360,
+          1372
+        ],
+        [
+          181,
+          1375
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1488
+        ],
+        [
+          359,
+          1486
+        ],
+        [
+          360,
+          1527
+        ],
+        [
+          181,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1331,
+        360,
+        1375
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0093_viet_018",
+      "bbox": [
+        [
+          627,
+          1377
+        ],
+        [
+          970,
+          1375
+        ],
+        [
+          970,
+          1419
+        ],
+        [
+          627,
+          1422
+        ]
+      ],
+      "bbox_original": [
+        [
+          627,
+          1532
+        ],
+        [
+          970,
+          1530
+        ],
+        [
+          970,
+          1574
+        ],
+        [
+          627,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        627,
+        1375,
+        970,
+        1422
+      ],
+      "text": "VĂN RĂN TRỘM CẮP",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0093_viet_019",
+      "bbox": [
+        [
+          272,
+          1455
+        ],
+        [
+          1411,
+          1456
+        ],
+        [
+          1411,
+          1497
+        ],
+        [
+          272,
+          1496
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1610
+        ],
+        [
+          1411,
+          1611
+        ],
+        [
+          1411,
+          1652
+        ],
+        [
+          272,
+          1651
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1455,
+        1411,
+        1497
+      ],
+      "text": "Phàm người làm điều nhàn nghĩa la quân tử. kẻ chuyên xiệc trộm cấp",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0093_viet_020",
+      "bbox": [
+        [
+          179,
+          1497
+        ],
+        [
+          1413,
+          1499
+        ],
+        [
+          1413,
+          1540
+        ],
+        [
+          179,
+          1538
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1652
+        ],
+        [
+          1413,
+          1654
+        ],
+        [
+          1413,
+          1695
+        ],
+        [
+          179,
+          1693
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1497,
+        1413,
+        1540
+      ],
+      "text": "là tiểu nhân, Quân tử mong cứu vớt kẻ cô quả nghèo hên , tiểu nhân tbam",
+      "confidence": 0.8524
+    },
+    {
+      "line_id": "0093_viet_021",
+      "bbox": [
+        [
+          179,
+          1541
+        ],
+        [
+          1412,
+          1540
+        ],
+        [
+          1412,
+          1580
+        ],
+        [
+          179,
+          1581
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1696
+        ],
+        [
+          1412,
+          1695
+        ],
+        [
+          1412,
+          1735
+        ],
+        [
+          179,
+          1736
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1540,
+        1412,
+        1581
+      ],
+      "text": "vơ tiền nhặt của. Của người lấy làm của mình, tự coi là lợi: nhân tinh nhần",
+      "confidence": 0.8931
+    },
+    {
+      "line_id": "0093_viet_022",
+      "bbox": [
+        [
+          178,
+          1583
+        ],
+        [
+          1414,
+          1584
+        ],
+        [
+          1414,
+          1625
+        ],
+        [
+          178,
+          1624
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1738
+        ],
+        [
+          1414,
+          1739
+        ],
+        [
+          1414,
+          1780
+        ],
+        [
+          178,
+          1779
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1583,
+        1414,
+        1625
+      ],
+      "text": "tâm không đoái, chỉ biết ích tà. Hay đầu phủ quy do trời: \"mặc ý tham làm vơ",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0093_viet_023",
+      "bbox": [
+        [
+          178,
+          1625
+        ],
+        [
+          1412,
+          1628
+        ],
+        [
+          1412,
+          1669
+        ],
+        [
+          178,
+          1665
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1780
+        ],
+        [
+          1412,
+          1783
+        ],
+        [
+          1412,
+          1824
+        ],
+        [
+          178,
+          1820
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1625,
+        1412,
+        1669
+      ],
+      "text": "vét, Đào nhà: bà chó . khoét vách xuyên tường, Theo gót tưởng quân sơn",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0093_viet_024",
+      "bbox": [
+        [
+          177,
+          1668
+        ],
+        [
+          1411,
+          1670
+        ],
+        [
+          1411,
+          1711
+        ],
+        [
+          177,
+          1710
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1823
+        ],
+        [
+          1411,
+          1825
+        ],
+        [
+          1411,
+          1866
+        ],
+        [
+          177,
+          1865
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1668,
+        1411,
+        1711
+      ],
+      "text": "dương, quen làm lương thượng quân, tử ('). Nghịch trời trái đất; đối pháp",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0093_viet_025",
+      "bbox": [
+        [
+          175,
+          1710
+        ],
+        [
+          1412,
+          1712
+        ],
+        [
+          1412,
+          1756
+        ],
+        [
+          175,
+          1754
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1865
+        ],
+        [
+          1412,
+          1867
+        ],
+        [
+          1412,
+          1911
+        ],
+        [
+          175,
+          1909
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1710,
+        1412,
+        1756
+      ],
+      "text": "khinh hình, Khi sống gặp phép công thì bành: lúc chết bị minh ty (?) khảo đả.",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0093_viet_026",
+      "bbox": [
+        [
+          177,
+          1753
+        ],
+        [
+          1411,
+          1756
+        ],
+        [
+          1411,
+          1797
+        ],
+        [
+          177,
+          1794
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1908
+        ],
+        [
+          1411,
+          1911
+        ],
+        [
+          1411,
+          1952
+        ],
+        [
+          177,
+          1949
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1753,
+        1411,
+        1797
+      ],
+      "text": "Há được riêng chắt vàng chừa ngọc; chở khiến còn máy hạt chiếc lòng, Ngìn",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0093_viet_027",
+      "bbox": [
+        [
+          175,
+          1797
+        ],
+        [
+          1408,
+          1800
+        ],
+        [
+          1408,
+          1840
+        ],
+        [
+          175,
+          1837
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1952
+        ],
+        [
+          1408,
+          1955
+        ],
+        [
+          1408,
+          1995
+        ],
+        [
+          175,
+          1992
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1797,
+        1408,
+        1840
+      ],
+      "text": "sen ao thần đất rày la(1): lấy tiên lãi \" vua: âm bắt phại, Lưới trời lồng lộng.",
+      "confidence": 0.8688
+    },
+    {
+      "line_id": "0093_viet_028",
+      "bbox": [
+        [
+          176,
+          1838
+        ],
+        [
+          1410,
+          1842
+        ],
+        [
+          1410,
+          1883
+        ],
+        [
+          176,
+          1879
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1993
+        ],
+        [
+          1410,
+          1997
+        ],
+        [
+          1410,
+          2038
+        ],
+        [
+          176,
+          2034
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1838,
+        1410,
+        1883
+      ],
+      "text": "làm điều lành thi thoát, làm điều ác thì vương: phép nước mênh mông, làm",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0093_viet_029",
+      "bbox": [
+        [
+          180,
+          1882
+        ],
+        [
+          791,
+          1884
+        ],
+        [
+          791,
+          1925
+        ],
+        [
+          180,
+          1922
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          2037
+        ],
+        [
+          791,
+          2039
+        ],
+        [
+          791,
+          2080
+        ],
+        [
+          180,
+          2077
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        1882,
+        791,
+        1925
+      ],
+      "text": "vi công được yên, làm vi tư phạm lỗi.",
+      "confidence": 0.8939
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "GIỚI THÂU ĐẠO",
+      "Phù hành nhân: nghĩa già, quàn tử, vi thâu đạo giả, tiêu nhân. U quân",
+      "tử hoài tuất chừng cô bần: tiêu nhàn tại tham thủ tài vật, Lợi dĩ nhân hóa,",
+      "mối vì kỳ tài ? đa nhằn nhân tình, duy tri tự ích. Tranh tri phú quý tại thiên;",
+      "dân tứ tham cầu vi ý. Bô bãn ? huyệt thắt, tạc bích xuyên tường, Chùng tích",
+      "sơn dương tướng quân; tập hành lương thượng quân từ. Nghịch thiên - bột.",
+      "địa: khi pháp khinh hình sinh tiền tao còng sự thi hành, từ hậu bị minh",
+      "ty, khảo lược, Khởi chỉ, đôi kim đối ngọc, vô linh nhất giới nhất mao. Khứu",
+      "trì liên địa thần thượng ha; thủ, tử tiên, âm quân do phạt, Khỏi, khôi, thiên",
+      "vông, hành thiện thoát nhi hành ác la: đăng đồng vương hình, vì công miễn",
+      "nhi vi tư phạm",
+      "Kệ viết",
+      "Tạc bích xuyên tường ý bất luril, có giúng",
+      "Thiên ban bách kê khổ doanh càn",
+      "Kim sinh cầu đặc tha nhân vật",
+      "Bất giác clung thiện thụ mà ngưư"
+    ],
+    "dich_nghia_lines": [
+      "VĂN RĂN TRỘM CẮP",
+      "Phàm người làm điều nhàn nghĩa la quân tử. kẻ chuyên xiệc trộm cấp",
+      "là tiểu nhân, Quân tử mong cứu vớt kẻ cô quả nghèo hên , tiểu nhân tbam",
+      "vơ tiền nhặt của. Của người lấy làm của mình, tự coi là lợi: nhân tinh nhần",
+      "tâm không đoái, chỉ biết ích tà. Hay đầu phủ quy do trời: \"mặc ý tham làm vơ",
+      "vét, Đào nhà: bà chó . khoét vách xuyên tường, Theo gót tưởng quân sơn",
+      "dương, quen làm lương thượng quân, tử ('). Nghịch trời trái đất; đối pháp",
+      "khinh hình, Khi sống gặp phép công thì bành: lúc chết bị minh ty (?) khảo đả.",
+      "Há được riêng chắt vàng chừa ngọc; chở khiến còn máy hạt chiếc lòng, Ngìn",
+      "sen ao thần đất rày la(1): lấy tiên lãi \" vua: âm bắt phại, Lưới trời lồng lộng.",
+      "làm điều lành thi thoát, làm điều ác thì vương: phép nước mênh mông, làm",
+      "vi công được yên, làm vi tư phạm lỗi."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

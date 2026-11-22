@@ -1,0 +1,796 @@
+{
+  "page_id": "0056",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 56,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0056_viet_000",
+      "bbox": [
+        [
+          178,
+          0
+        ],
+        [
+          218,
+          0
+        ],
+        [
+          218,
+          27
+        ],
+        [
+          178,
+          27
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          155
+        ],
+        [
+          218,
+          155
+        ],
+        [
+          218,
+          182
+        ],
+        [
+          178,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        0,
+        218,
+        27
+      ],
+      "text": "58",
+      "confidence": 0.8419
+    },
+    {
+      "line_id": "0056_viet_001",
+      "bbox": [
+        [
+          607,
+          0
+        ],
+        [
+          982,
+          0
+        ],
+        [
+          982,
+          22
+        ],
+        [
+          607,
+          22
+        ]
+      ],
+      "bbox_original": [
+        [
+          607,
+          155
+        ],
+        [
+          982,
+          155
+        ],
+        [
+          982,
+          177
+        ],
+        [
+          607,
+          177
+        ]
+      ],
+      "box_xyxy": [
+        607,
+        0,
+        982,
+        22
+      ],
+      "text": "THỔ VĂN LÝ - TRAN (11)",
+      "confidence": 0.769
+    },
+    {
+      "line_id": "0056_viet_002",
+      "bbox": [
+        [
+          175,
+          104
+        ],
+        [
+          1407,
+          96
+        ],
+        [
+          1407,
+          134
+        ],
+        [
+          175,
+          143
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          259
+        ],
+        [
+          1407,
+          251
+        ],
+        [
+          1407,
+          289
+        ],
+        [
+          175,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        96,
+        1407,
+        143
+      ],
+      "text": "(11) Bắt tự tại - thuật ngữ đạo Phật: tự tại tức là thoát ly được mọi ràng buộc, tự do hành",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0056_viet_003",
+      "bbox": [
+        [
+          242,
+          139
+        ],
+        [
+          1409,
+          131
+        ],
+        [
+          1409,
+          169
+        ],
+        [
+          243,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          294
+        ],
+        [
+          1409,
+          286
+        ],
+        [
+          1409,
+          324
+        ],
+        [
+          243,
+          331
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        131,
+        1409,
+        176
+      ],
+      "text": "động theo tàm y của minh, Như vậy là đã tu hành đắc đạo, thành Phật, Phật có tám đức",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0056_viet_004",
+      "bbox": [
+        [
+          244,
+          177
+        ],
+        [
+          330,
+          177
+        ],
+        [
+          330,
+          209
+        ],
+        [
+          244,
+          209
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          332
+        ],
+        [
+          330,
+          332
+        ],
+        [
+          330,
+          364
+        ],
+        [
+          244,
+          364
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        177,
+        330,
+        209
+      ],
+      "text": "tự tại",
+      "confidence": 0.9416
+    },
+    {
+      "line_id": "0056_viet_005",
+      "bbox": [
+        [
+          244,
+          213
+        ],
+        [
+          1045,
+          206
+        ],
+        [
+          1046,
+          240
+        ],
+        [
+          245,
+          247
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          368
+        ],
+        [
+          1045,
+          361
+        ],
+        [
+          1046,
+          395
+        ],
+        [
+          245,
+          402
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        206,
+        1046,
+        247
+      ],
+      "text": "Một thân mà hiện ra được nhiều thàn niur những bụi nhỏ",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0056_viet_006",
+      "bbox": [
+        [
+          244,
+          249
+        ],
+        [
+          1130,
+          242
+        ],
+        [
+          1130,
+          275
+        ],
+        [
+          245,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          404
+        ],
+        [
+          1130,
+          397
+        ],
+        [
+          1130,
+          430
+        ],
+        [
+          245,
+          437
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        242,
+        1130,
+        282
+      ],
+      "text": "- Thân như bui nhỏ của Phật ở kháp tam thiên đại thiên thế giới.",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0056_viet_007",
+      "bbox": [
+        [
+          246,
+          286
+        ],
+        [
+          949,
+          280
+        ],
+        [
+          949,
+          314
+        ],
+        [
+          247,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          441
+        ],
+        [
+          949,
+          435
+        ],
+        [
+          949,
+          469
+        ],
+        [
+          247,
+          475
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        280,
+        949,
+        320
+      ],
+      "text": "Đại thân của Phật bay lên không, đến các thế giới",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0056_viet_008",
+      "bbox": [
+        [
+          246,
+          322
+        ],
+        [
+          951,
+          316
+        ],
+        [
+          951,
+          350
+        ],
+        [
+          247,
+          356
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          477
+        ],
+        [
+          951,
+          471
+        ],
+        [
+          951,
+          505
+        ],
+        [
+          247,
+          511
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        316,
+        951,
+        356
+      ],
+      "text": "Phật hiện ra vỏ số các loại hình thế trong một-cõi.",
+      "confidence": 0.8815
+    },
+    {
+      "line_id": "0056_viet_009",
+      "bbox": [
+        [
+          249,
+          357
+        ],
+        [
+          1194,
+          351
+        ],
+        [
+          1195,
+          385
+        ],
+        [
+          250,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          512
+        ],
+        [
+          1194,
+          506
+        ],
+        [
+          1195,
+          540
+        ],
+        [
+          250,
+          547
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        351,
+        1195,
+        392
+      ],
+      "text": "Sáu căn của Phật đều tự tại, có thể lấy một căn thay cho các căn kia.",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0056_viet_010",
+      "bbox": [
+        [
+          249,
+          395
+        ],
+        [
+          1150,
+          388
+        ],
+        [
+          1150,
+          423
+        ],
+        [
+          250,
+          429
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          550
+        ],
+        [
+          1150,
+          543
+        ],
+        [
+          1150,
+          578
+        ],
+        [
+          250,
+          584
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        388,
+        1150,
+        429
+      ],
+      "text": "Phật đạt được tất cả các phép nhưng văn cho là không đạt được.",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0056_viet_011",
+      "bbox": [
+        [
+          246,
+          429
+        ],
+        [
+          1411,
+          424
+        ],
+        [
+          1411,
+          461
+        ],
+        [
+          247,
+          466
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          584
+        ],
+        [
+          1411,
+          579
+        ],
+        [
+          1411,
+          616
+        ],
+        [
+          247,
+          621
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        424,
+        1411,
+        466
+      ],
+      "text": "Phật thuyết pháp một cách tự tại. Những giáo lý của Phật dầu trải vô lượng kiếp",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0056_viet_012",
+      "bbox": [
+        [
+          284,
+          467
+        ],
+        [
+          553,
+          464
+        ],
+        [
+          554,
+          497
+        ],
+        [
+          284,
+          500
+        ]
+      ],
+      "bbox_original": [
+        [
+          284,
+          622
+        ],
+        [
+          553,
+          619
+        ],
+        [
+          554,
+          652
+        ],
+        [
+          284,
+          655
+        ]
+      ],
+      "box_xyxy": [
+        284,
+        464,
+        554,
+        500
+      ],
+      "text": "ý nghĩa văn tồn tại.",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0056_viet_013",
+      "bbox": [
+        [
+          247,
+          500
+        ],
+        [
+          1185,
+          495
+        ],
+        [
+          1186,
+          532
+        ],
+        [
+          248,
+          537
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          655
+        ],
+        [
+          1185,
+          650
+        ],
+        [
+          1186,
+          687
+        ],
+        [
+          248,
+          692
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        495,
+        1186,
+        537
+      ],
+      "text": "Phật giáng khắp nơi mà người ta chẳng thấy, dường như hir không",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0056_viet_014",
+      "bbox": [
+        [
+          185,
+          547
+        ],
+        [
+          1420,
+          540
+        ],
+        [
+          1420,
+          580
+        ],
+        [
+          185,
+          587
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          702
+        ],
+        [
+          1420,
+          695
+        ],
+        [
+          1420,
+          735
+        ],
+        [
+          185,
+          742
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        540,
+        1420,
+        587
+      ],
+      "text": "(12) Càu này ý nói: bậc chàn nhân (Phật). cũng là một khối thịt như: mọi người. Trong mọi",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0056_viet_015",
+      "bbox": [
+        [
+          250,
+          583
+        ],
+        [
+          1112,
+          577
+        ],
+        [
+          1112,
+          611
+        ],
+        [
+          251,
+          617
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          738
+        ],
+        [
+          1112,
+          732
+        ],
+        [
+          1112,
+          766
+        ],
+        [
+          251,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        577,
+        1112,
+        617
+      ],
+      "text": "Vật đều có Phật tỉnh, Phật tức chúng sinh, chúng sinh tức, Phật",
+      "confidence": 0.8982
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "58",
+      "THỔ VĂN LÝ - TRAN (11)",
+      "(11) Bắt tự tại - thuật ngữ đạo Phật: tự tại tức là thoát ly được mọi ràng buộc, tự do hành",
+      "động theo tàm y của minh, Như vậy là đã tu hành đắc đạo, thành Phật, Phật có tám đức",
+      "tự tại",
+      "Một thân mà hiện ra được nhiều thàn niur những bụi nhỏ",
+      "- Thân như bui nhỏ của Phật ở kháp tam thiên đại thiên thế giới.",
+      "Đại thân của Phật bay lên không, đến các thế giới",
+      "Phật hiện ra vỏ số các loại hình thế trong một-cõi.",
+      "Sáu căn của Phật đều tự tại, có thể lấy một căn thay cho các căn kia.",
+      "Phật đạt được tất cả các phép nhưng văn cho là không đạt được.",
+      "Phật thuyết pháp một cách tự tại. Những giáo lý của Phật dầu trải vô lượng kiếp",
+      "ý nghĩa văn tồn tại.",
+      "Phật giáng khắp nơi mà người ta chẳng thấy, dường như hir không",
+      "(12) Càu này ý nói: bậc chàn nhân (Phật). cũng là một khối thịt như: mọi người. Trong mọi",
+      "Vật đều có Phật tỉnh, Phật tức chúng sinh, chúng sinh tức, Phật"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

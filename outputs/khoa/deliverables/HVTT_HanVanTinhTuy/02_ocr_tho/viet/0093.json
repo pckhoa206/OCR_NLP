@@ -1,0 +1,450 @@
+{
+  "page_id": "0093",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 93,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0093_viet_000",
+      "bbox": [
+        [
+          195,
+          90
+        ],
+        [
+          525,
+          90
+        ],
+        [
+          525,
+          129
+        ],
+        [
+          195,
+          129
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          211
+        ],
+        [
+          525,
+          211
+        ],
+        [
+          525,
+          250
+        ],
+        [
+          195,
+          250
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        90,
+        525,
+        129
+      ],
+      "text": "TÁI ÔNG THẤT MÃ",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0093_viet_001",
+      "bbox": [
+        [
+          952,
+          94
+        ],
+        [
+          995,
+          94
+        ],
+        [
+          995,
+          130
+        ],
+        [
+          952,
+          130
+        ]
+      ],
+      "bbox_original": [
+        [
+          952,
+          215
+        ],
+        [
+          995,
+          215
+        ],
+        [
+          995,
+          251
+        ],
+        [
+          952,
+          251
+        ]
+      ],
+      "box_xyxy": [
+        952,
+        94,
+        995,
+        130
+      ],
+      "text": "87",
+      "confidence": 0.7397
+    },
+    {
+      "line_id": "0093_viet_002",
+      "bbox": [
+        [
+          258,
+          283
+        ],
+        [
+          899,
+          284
+        ],
+        [
+          899,
+          322
+        ],
+        [
+          258,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          404
+        ],
+        [
+          899,
+          405
+        ],
+        [
+          899,
+          443
+        ],
+        [
+          258,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        283,
+        899,
+        322
+      ],
+      "text": "u biết đâu rồi chảng có khi tai-nàn 1 p",
+      "confidence": 0.8774
+    },
+    {
+      "line_id": "0093_viet_003",
+      "bbox": [
+        [
+          360,
+          460
+        ],
+        [
+          813,
+          460
+        ],
+        [
+          813,
+          500
+        ],
+        [
+          360,
+          500
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          581
+        ],
+        [
+          813,
+          581
+        ],
+        [
+          813,
+          621
+        ],
+        [
+          360,
+          621
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        460,
+        813,
+        500
+      ],
+      "text": "Con trai sắn ngựa, đua tràn,",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0093_viet_004",
+      "bbox": [
+        [
+          256,
+          637
+        ],
+        [
+          903,
+          640
+        ],
+        [
+          903,
+          681
+        ],
+        [
+          256,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          758
+        ],
+        [
+          903,
+          761
+        ],
+        [
+          903,
+          802
+        ],
+        [
+          256,
+          799
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        637,
+        903,
+        681
+      ],
+      "text": "Một hôm té ngã, gãy ngang xương đùi.",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0093_viet_005",
+      "bbox": [
+        [
+          360,
+          817
+        ],
+        [
+          837,
+          817
+        ],
+        [
+          837,
+          854
+        ],
+        [
+          360,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          938
+        ],
+        [
+          837,
+          938
+        ],
+        [
+          837,
+          975
+        ],
+        [
+          360,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        817,
+        837,
+        854
+      ],
+      "text": "Xóm làng ai cũng ngậm ngùi,",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0093_viet_006",
+      "bbox": [
+        [
+          258,
+          992
+        ],
+        [
+          950,
+          992
+        ],
+        [
+          950,
+          1034
+        ],
+        [
+          258,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          1113
+        ],
+        [
+          950,
+          1113
+        ],
+        [
+          950,
+          1155
+        ],
+        [
+          258,
+          1155
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        992,
+        950,
+        1034
+      ],
+      "text": "Ông rằng: a Đã chúc là xui đầu mà 1 v",
+      "confidence": 0.8493
+    },
+    {
+      "line_id": "0093_viet_007",
+      "bbox": [
+        [
+          357,
+          1168
+        ],
+        [
+          787,
+          1173
+        ],
+        [
+          786,
+          1214
+        ],
+        [
+          356,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          357,
+          1289
+        ],
+        [
+          787,
+          1294
+        ],
+        [
+          786,
+          1335
+        ],
+        [
+          356,
+          1330
+        ]
+      ],
+      "box_xyxy": [
+        356,
+        1168,
+        787,
+        1214
+      ],
+      "text": "Ít lâu, có giặc hồ qua,",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0093_viet_008",
+      "bbox": [
+        [
+          255,
+          1350
+        ],
+        [
+          881,
+          1354
+        ],
+        [
+          881,
+          1391
+        ],
+        [
+          255,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1471
+        ],
+        [
+          881,
+          1475
+        ],
+        [
+          881,
+          1512
+        ],
+        [
+          255,
+          1508
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1350,
+        881,
+        1391
+      ],
+      "text": "Tráng-đinh liêu chết xông ra giữ làng.",
+      "confidence": 0.9171
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

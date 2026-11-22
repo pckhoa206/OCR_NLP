@@ -1,0 +1,940 @@
+{
+  "page_id": "0012",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 12,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0012_viet_000",
+      "bbox": [
+        [
+          190,
+          32
+        ],
+        [
+          219,
+          32
+        ],
+        [
+          219,
+          67
+        ],
+        [
+          190,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          153
+        ],
+        [
+          219,
+          153
+        ],
+        [
+          219,
+          188
+        ],
+        [
+          190,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        32,
+        219,
+        67
+      ],
+      "text": "6",
+      "confidence": 0.9365
+    },
+    {
+      "line_id": "0012_viet_001",
+      "bbox": [
+        [
+          663,
+          28
+        ],
+        [
+          992,
+          30
+        ],
+        [
+          992,
+          64
+        ],
+        [
+          663,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          149
+        ],
+        [
+          992,
+          151
+        ],
+        [
+          992,
+          185
+        ],
+        [
+          663,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        28,
+        992,
+        64
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0012_viet_002",
+      "bbox": [
+        [
+          226,
+          182
+        ],
+        [
+          655,
+          184
+        ],
+        [
+          655,
+          222
+        ],
+        [
+          226,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          303
+        ],
+        [
+          655,
+          305
+        ],
+        [
+          655,
+          343
+        ],
+        [
+          226,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        182,
+        655,
+        222
+      ],
+      "text": "Chính khoan tắc dân mạn,",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0012_viet_003",
+      "bbox": [
+        [
+          224,
+          231
+        ],
+        [
+          707,
+          231
+        ],
+        [
+          707,
+          265
+        ],
+        [
+          224,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          352
+        ],
+        [
+          707,
+          352
+        ],
+        [
+          707,
+          386
+        ],
+        [
+          224,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        231,
+        707,
+        265
+      ],
+      "text": "Chính sách khoan hòa dân nhờn",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0012_viet_004",
+      "bbox": [
+        [
+          228,
+          351
+        ],
+        [
+          629,
+          349
+        ],
+        [
+          629,
+          388
+        ],
+        [
+          228,
+          389
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          472
+        ],
+        [
+          629,
+          470
+        ],
+        [
+          629,
+          509
+        ],
+        [
+          228,
+          510
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        349,
+        629,
+        389
+      ],
+      "text": "mạn tắc củ chi dĩ mãnh",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0012_viet_005",
+      "bbox": [
+        [
+          193,
+          396
+        ],
+        [
+          868,
+          398
+        ],
+        [
+          868,
+          438
+        ],
+        [
+          193,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          517
+        ],
+        [
+          868,
+          519
+        ],
+        [
+          868,
+          559
+        ],
+        [
+          193,
+          557
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        396,
+        868,
+        438
+      ],
+      "text": "nhờn thì lây a mạnh - (thắng tay) mà đàn áp.",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0012_viet_006",
+      "bbox": [
+        [
+          229,
+          521
+        ],
+        [
+          936,
+          521
+        ],
+        [
+          936,
+          558
+        ],
+        [
+          229,
+          558
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          642
+        ],
+        [
+          936,
+          642
+        ],
+        [
+          936,
+          679
+        ],
+        [
+          229,
+          679
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        521,
+        936,
+        558
+      ],
+      "text": "Mãnh tắc dân tàn, tàn tắc thi chi di khoan",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0012_viet_007",
+      "bbox": [
+        [
+          223,
+          568
+        ],
+        [
+          988,
+          567
+        ],
+        [
+          988,
+          606
+        ],
+        [
+          223,
+          607
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          689
+        ],
+        [
+          988,
+          688
+        ],
+        [
+          988,
+          727
+        ],
+        [
+          223,
+          728
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        567,
+        988,
+        607
+      ],
+      "text": "mạnh tất dân hại, hại thì lại lây khoan mà thi-hành",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0012_viet_008",
+      "bbox": [
+        [
+          227,
+          688
+        ],
+        [
+          852,
+          689
+        ],
+        [
+          852,
+          726
+        ],
+        [
+          227,
+          725
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          809
+        ],
+        [
+          852,
+          810
+        ],
+        [
+          852,
+          847
+        ],
+        [
+          227,
+          846
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        688,
+        852,
+        726
+      ],
+      "text": "Khoan di tẽ mãnh, mũnh di tẽ khoan",
+      "confidence": 0.8848
+    },
+    {
+      "line_id": "0012_viet_009",
+      "bbox": [
+        [
+          222,
+          735
+        ],
+        [
+          798,
+          735
+        ],
+        [
+          798,
+          772
+        ],
+        [
+          222,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          856
+        ],
+        [
+          798,
+          856
+        ],
+        [
+          798,
+          893
+        ],
+        [
+          222,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        735,
+        798,
+        772
+      ],
+      "text": "Khoan đề đỡ mạnh, mạnh đề đờ khoan",
+      "confidence": 0.8768
+    },
+    {
+      "line_id": "0012_viet_010",
+      "bbox": [
+        [
+          226,
+          859
+        ],
+        [
+          496,
+          859
+        ],
+        [
+          496,
+          897
+        ],
+        [
+          226,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          980
+        ],
+        [
+          496,
+          980
+        ],
+        [
+          496,
+          1018
+        ],
+        [
+          226,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        859,
+        496,
+        897
+      ],
+      "text": "Chính thị dĩ hòa",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0012_viet_011",
+      "bbox": [
+        [
+          220,
+          904
+        ],
+        [
+          464,
+          906
+        ],
+        [
+          463,
+          944
+        ],
+        [
+          220,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1025
+        ],
+        [
+          464,
+          1027
+        ],
+        [
+          463,
+          1065
+        ],
+        [
+          220,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        904,
+        464,
+        944
+      ],
+      "text": "chính sự sẽ hòa.",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0012_viet_012",
+      "bbox": [
+        [
+          223,
+          1023
+        ],
+        [
+          987,
+          1025
+        ],
+        [
+          987,
+          1067
+        ],
+        [
+          223,
+          1065
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1144
+        ],
+        [
+          987,
+          1146
+        ],
+        [
+          987,
+          1188
+        ],
+        [
+          223,
+          1186
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1023,
+        987,
+        1067
+      ],
+      "text": "Thi viết: dân diệc lao chì, ngật khả tiều-khang",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0012_viet_013",
+      "bbox": [
+        [
+          220,
+          1072
+        ],
+        [
+          870,
+          1074
+        ],
+        [
+          870,
+          1111
+        ],
+        [
+          220,
+          1109
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1193
+        ],
+        [
+          870,
+          1195
+        ],
+        [
+          870,
+          1232
+        ],
+        [
+          220,
+          1230
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1072,
+        870,
+        1111
+      ],
+      "text": "Kinh thi nói: dân đữ vật-và, để tạm yên vui",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0012_viet_014",
+      "bbox": [
+        [
+          223,
+          1195
+        ],
+        [
+          855,
+          1197
+        ],
+        [
+          855,
+          1237
+        ],
+        [
+          223,
+          1235
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1316
+        ],
+        [
+          855,
+          1318
+        ],
+        [
+          855,
+          1358
+        ],
+        [
+          223,
+          1356
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1195,
+        855,
+        1237
+      ],
+      "text": "Huệ thử trung-quốc, đi tuy tứ phương",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0012_viet_015",
+      "bbox": [
+        [
+          218,
+          1242
+        ],
+        [
+          814,
+          1244
+        ],
+        [
+          814,
+          1285
+        ],
+        [
+          218,
+          1283
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1363
+        ],
+        [
+          814,
+          1365
+        ],
+        [
+          814,
+          1406
+        ],
+        [
+          218,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        1242,
+        814,
+        1285
+      ],
+      "text": "Ra ơn trong nước, để yên bồn phương",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0012_viet_016",
+      "bbox": [
+        [
+          226,
+          1364
+        ],
+        [
+          551,
+          1364
+        ],
+        [
+          551,
+          1401
+        ],
+        [
+          226,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1485
+        ],
+        [
+          551,
+          1485
+        ],
+        [
+          551,
+          1522
+        ],
+        [
+          226,
+          1522
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1364,
+        551,
+        1401
+      ],
+      "text": "thi chi di khoan dã",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0012_viet_017",
+      "bbox": [
+        [
+          216,
+          1408
+        ],
+        [
+          723,
+          1412
+        ],
+        [
+          722,
+          1453
+        ],
+        [
+          216,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1529
+        ],
+        [
+          723,
+          1533
+        ],
+        [
+          722,
+          1574
+        ],
+        [
+          216,
+          1570
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1408,
+        723,
+        1453
+      ],
+      "text": "ây là lầy a khoan . mà thi-hành vậy",
+      "confidence": 0.912
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Chính khoan tắc dân mạn,",
+      "mạn tắc củ chi dĩ mãnh",
+      "Mãnh tắc dân tàn, tàn tắc thi chi di khoan",
+      "Khoan di tẽ mãnh, mũnh di tẽ khoan",
+      "Chính thị dĩ hòa",
+      "Thi viết: dân diệc lao chì, ngật khả tiều-khang",
+      "Huệ thử trung-quốc, đi tuy tứ phương",
+      "thi chi di khoan dã"
+    ],
+    "dich_nghia_lines": [
+      "Chính sách khoan hòa dân nhờn",
+      "nhờn thì lây a mạnh - (thắng tay) mà đàn áp.",
+      "mạnh tất dân hại, hại thì lại lây khoan mà thi-hành",
+      "Khoan đề đỡ mạnh, mạnh đề đờ khoan",
+      "chính sự sẽ hòa.",
+      "Kinh thi nói: dân đữ vật-và, để tạm yên vui",
+      "Ra ơn trong nước, để yên bồn phương",
+      "ây là lầy a khoan . mà thi-hành vậy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "政寬則民慢",
+        "phien_am": "Chính khoan tắc dân mạn,",
+        "dich_nghia_gloss": "Chính sách khoan hòa dân nhờn"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "慢則糾之以猛",
+        "phien_am": "mạn tắc củ chi dĩ mãnh",
+        "dich_nghia_gloss": "nhờn thì lây a mạnh - (thắng tay) mà đàn áp."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "猛則民殘殘則施之以寬",
+        "phien_am": "Mãnh tắc dân tàn, tàn tắc thi chi di khoan",
+        "dich_nghia_gloss": "mạnh tất dân hại, hại thì lại lây khoan mà thi-hành"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "寬以濟猛猛以濟寬",
+        "phien_am": "Khoan di tẽ mãnh, mũnh di tẽ khoan",
+        "dich_nghia_gloss": "Khoan đề đỡ mạnh, mạnh đề đờ khoan"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "政是以和",
+        "phien_am": "Chính thị dĩ hòa",
+        "dich_nghia_gloss": "chính sự sẽ hòa."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "詩曰民亦勞止汽可小康",
+        "phien_am": "Thi viết: dân diệc lao chì, ngật khả tiều-khang",
+        "dich_nghia_gloss": "Kinh thi nói: dân đữ vật-và, để tạm yên vui"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "惠此中國以綏四方",
+        "phien_am": "Huệ thử trung-quốc, đi tuy tứ phương",
+        "dich_nghia_gloss": "Ra ơn trong nước, để yên bồn phương"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "施之以寬也",
+        "phien_am": "thi chi di khoan dã",
+        "dich_nghia_gloss": "ây là lầy a khoan . mà thi-hành vậy"
+      }
+    ]
+  }
+}

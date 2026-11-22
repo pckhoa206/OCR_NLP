@@ -1,0 +1,1448 @@
+{
+  "page_id": "0078",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 78,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0078_viet_000",
+      "bbox": [
+        [
+          177,
+          80
+        ],
+        [
+          1411,
+          80
+        ],
+        [
+          1411,
+          123
+        ],
+        [
+          177,
+          123
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          235
+        ],
+        [
+          1411,
+          235
+        ],
+        [
+          1411,
+          278
+        ],
+        [
+          177,
+          278
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        80,
+        1411,
+        123
+      ],
+      "text": "đầu của thiện. Định là giai đoạn giữa của thiện là vì thâu nghiêng nên dừng",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0078_viet_001",
+      "bbox": [
+        [
+          174,
+          124
+        ],
+        [
+          1410,
+          121
+        ],
+        [
+          1410,
+          162
+        ],
+        [
+          174,
+          164
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          279
+        ],
+        [
+          1410,
+          276
+        ],
+        [
+          1410,
+          317
+        ],
+        [
+          174,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        121,
+        1410,
+        164
+      ],
+      "text": "lại, vi dừng lại nên tâm đứng vững: vì tâm đưng vững cho nên nhận biết",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0078_viet_002",
+      "bbox": [
+        [
+          176,
+          164
+        ],
+        [
+          1408,
+          164
+        ],
+        [
+          1408,
+          201
+        ],
+        [
+          176,
+          201
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          319
+        ],
+        [
+          1408,
+          319
+        ],
+        [
+          1408,
+          356
+        ],
+        [
+          176,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        164,
+        1408,
+        201
+      ],
+      "text": "được sự chân thực. Do vậy gọi là giai đoạn giữa của thiện, Tuệ là giai đoạn",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0078_viet_003",
+      "bbox": [
+        [
+          173,
+          200
+        ],
+        [
+          1408,
+          202
+        ],
+        [
+          1408,
+          243
+        ],
+        [
+          173,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          355
+        ],
+        [
+          1408,
+          357
+        ],
+        [
+          1408,
+          398
+        ],
+        [
+          173,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        200,
+        1408,
+        243
+      ],
+      "text": "cuối của thiện là vì có sự nhận biết chân thực ấy nên chảu ghết điều lọ làng:",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0078_viet_004",
+      "bbox": [
+        [
+          176,
+          242
+        ],
+        [
+          1408,
+          242
+        ],
+        [
+          1408,
+          279
+        ],
+        [
+          176,
+          279
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          397
+        ],
+        [
+          1408,
+          397
+        ],
+        [
+          1408,
+          434
+        ],
+        [
+          176,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        242,
+        1408,
+        279
+      ],
+      "text": "vì chán ghét điều lo lắng mà dời xa mọi hám muốn - vì đời xa mọi ham muón",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0078_viet_005",
+      "bbox": [
+        [
+          173,
+          278
+        ],
+        [
+          1410,
+          278
+        ],
+        [
+          1410,
+          321
+        ],
+        [
+          173,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          433
+        ],
+        [
+          1410,
+          433
+        ],
+        [
+          1410,
+          476
+        ],
+        [
+          173,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        278,
+        1410,
+        321
+      ],
+      "text": "nên được giải thoát ((). Do vậy gọi là giai đoạn cuối của thiện, Cho nên dùng",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0078_viet_006",
+      "bbox": [
+        [
+          173,
+          317
+        ],
+        [
+          1410,
+          317
+        ],
+        [
+          1410,
+          360
+        ],
+        [
+          173,
+          360
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          472
+        ],
+        [
+          1410,
+          472
+        ],
+        [
+          1410,
+          515
+        ],
+        [
+          173,
+          515
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        317,
+        1410,
+        360
+      ],
+      "text": "giới đề trừ xu hướng theo điều ác, dùng định để trừ long bam muốn, dùng",
+      "confidence": 0.8853
+    },
+    {
+      "line_id": "0078_viet_007",
+      "bbox": [
+        [
+          177,
+          357
+        ],
+        [
+          1409,
+          357
+        ],
+        [
+          1409,
+          398
+        ],
+        [
+          177,
+          398
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          512
+        ],
+        [
+          1409,
+          512
+        ],
+        [
+          1409,
+          553
+        ],
+        [
+          177,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        357,
+        1409,
+        398
+      ],
+      "text": "tuệ đề trừ mọi ý thức về cái biện hữu (-), Dựa vào giúi định tuề này mà tu",
+      "confidence": 0.9013
+    },
+    {
+      "line_id": "0078_viet_008",
+      "bbox": [
+        [
+          177,
+          399
+        ],
+        [
+          947,
+          399
+        ],
+        [
+          947,
+          436
+        ],
+        [
+          177,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          554
+        ],
+        [
+          947,
+          554
+        ],
+        [
+          947,
+          591
+        ],
+        [
+          177,
+          591
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        399,
+        947,
+        436
+      ],
+      "text": "hành thì con đường của chu Phật không xa nữa",
+      "confidence": 0.9146
+    },
+    {
+      "line_id": "0078_viet_009",
+      "bbox": [
+        [
+          1175,
+          448
+        ],
+        [
+          1353,
+          448
+        ],
+        [
+          1353,
+          490
+        ],
+        [
+          1175,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          1175,
+          603
+        ],
+        [
+          1353,
+          603
+        ],
+        [
+          1353,
+          645
+        ],
+        [
+          1175,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        1175,
+        448,
+        1353,
+        490
+      ],
+      "text": "ĐỖ VĂN MỸ",
+      "confidence": 0.7927
+    },
+    {
+      "line_id": "0078_viet_010",
+      "bbox": [
+        [
+          178,
+          536
+        ],
+        [
+          342,
+          536
+        ],
+        [
+          342,
+          574
+        ],
+        [
+          178,
+          574
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          691
+        ],
+        [
+          342,
+          691
+        ],
+        [
+          342,
+          729
+        ],
+        [
+          178,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        536,
+        342,
+        574
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0078_viet_011",
+      "bbox": [
+        [
+          672,
+          573
+        ],
+        [
+          917,
+          573
+        ],
+        [
+          917,
+          610
+        ],
+        [
+          672,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          672,
+          728
+        ],
+        [
+          917,
+          728
+        ],
+        [
+          917,
+          765
+        ],
+        [
+          672,
+          765
+        ]
+      ],
+      "box_xyxy": [
+        672,
+        573,
+        917,
+        610
+      ],
+      "text": "XUẤT XỨ: KHI.2",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0078_viet_012",
+      "bbox": [
+        [
+          177,
+          635
+        ],
+        [
+          1408,
+          636
+        ],
+        [
+          1408,
+          675
+        ],
+        [
+          177,
+          674
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          790
+        ],
+        [
+          1408,
+          791
+        ],
+        [
+          1408,
+          830
+        ],
+        [
+          177,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        635,
+        1408,
+        675
+      ],
+      "text": "(i) Giới, định, tụệ: thuật ngữ đạo, Phật, nói về ba tướng bực của việc tư hành, Giới là dịch",
+      "confidence": 0.8919
+    },
+    {
+      "line_id": "0078_viet_013",
+      "bbox": [
+        [
+          240,
+          672
+        ],
+        [
+          1409,
+          674
+        ],
+        [
+          1409,
+          708
+        ],
+        [
+          239,
+          706
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          827
+        ],
+        [
+          1409,
+          829
+        ],
+        [
+          1409,
+          863
+        ],
+        [
+          239,
+          861
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        672,
+        1409,
+        708
+      ],
+      "text": "nghĩa từ tiếng Phạn, ba-la-đề-mộc-xoa (pratimolssha) và thi-la (sila). Giới có nghĩa Lài",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0078_viet_014",
+      "bbox": [
+        [
+          241,
+          704
+        ],
+        [
+          1410,
+          707
+        ],
+        [
+          1410,
+          741
+        ],
+        [
+          240,
+          738
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          859
+        ],
+        [
+          1410,
+          862
+        ],
+        [
+          1410,
+          896
+        ],
+        [
+          240,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        704,
+        1410,
+        741
+      ],
+      "text": "răn cầm, ngăn ngữa, bao gồm, những điều luật, đề giúp cho thân thề, đới: nói, tâm y",
+      "confidence": 0.8813
+    },
+    {
+      "line_id": "0078_viet_015",
+      "bbox": [
+        [
+          241,
+          736
+        ],
+        [
+          1411,
+          741
+        ],
+        [
+          1411,
+          774
+        ],
+        [
+          240,
+          769
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          891
+        ],
+        [
+          1411,
+          896
+        ],
+        [
+          1411,
+          929
+        ],
+        [
+          240,
+          924
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        736,
+        1411,
+        774
+      ],
+      "text": "khỏi pham sai làm. có nhiều mức, giơi như ngũ, giới (năm, diều rân căm), bát, giơi",
+      "confidence": 0.8691
+    },
+    {
+      "line_id": "0078_viet_016",
+      "bbox": [
+        [
+          241,
+          769
+        ],
+        [
+          1408,
+          774
+        ],
+        [
+          1408,
+          807
+        ],
+        [
+          240,
+          802
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          924
+        ],
+        [
+          1408,
+          929
+        ],
+        [
+          1408,
+          962
+        ],
+        [
+          240,
+          957
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        769,
+        1408,
+        807
+      ],
+      "text": "(tấm điều, răn cấm), thập giới (mưới điều, rầu cầm). cơ tùc giới (tân cầm, đây du).",
+      "confidence": 0.8274
+    },
+    {
+      "line_id": "0078_viet_017",
+      "bbox": [
+        [
+          243,
+          802
+        ],
+        [
+          1409,
+          806
+        ],
+        [
+          1409,
+          839
+        ],
+        [
+          242,
+          835
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          957
+        ],
+        [
+          1409,
+          961
+        ],
+        [
+          1409,
+          994
+        ],
+        [
+          242,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        802,
+        1409,
+        839
+      ],
+      "text": "Định là tập trung tư tưởng đề suy nghì đến, một cảnh, trong bốn tăng trời vô sắc",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0078_viet_018",
+      "bbox": [
+        [
+          242,
+          836
+        ],
+        [
+          1410,
+          839
+        ],
+        [
+          1410,
+          873
+        ],
+        [
+          241,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          991
+        ],
+        [
+          1410,
+          994
+        ],
+        [
+          1410,
+          1028
+        ],
+        [
+          241,
+          1025
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        836,
+        1410,
+        873
+      ],
+      "text": "giới, định thị tâm không lay động, phân tân Tuệ là giác ngó. Tuệ được sinh ra từ",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0078_viet_019",
+      "bbox": [
+        [
+          242,
+          869
+        ],
+        [
+          410,
+          872
+        ],
+        [
+          409,
+          904
+        ],
+        [
+          241,
+          901
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1024
+        ],
+        [
+          410,
+          1027
+        ],
+        [
+          409,
+          1059
+        ],
+        [
+          241,
+          1056
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        869,
+        410,
+        904
+      ],
+      "text": "thiên, định",
+      "confidence": 0.8613
+    },
+    {
+      "line_id": "0078_viet_020",
+      "bbox": [
+        [
+          169,
+          909
+        ],
+        [
+          1408,
+          909
+        ],
+        [
+          1408,
+          952
+        ],
+        [
+          169,
+          952
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1064
+        ],
+        [
+          1408,
+          1064
+        ],
+        [
+          1408,
+          1107
+        ],
+        [
+          169,
+          1107
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        909,
+        1408,
+        952
+      ],
+      "text": "(7), Giải thoút - thuật ngữ đạo Phật, phiên âm từ tiếng Thận -mộc đề: \" mộc-xòn (mokishá)",
+      "confidence": 0.8569
+    },
+    {
+      "line_id": "0078_viet_021",
+      "bbox": [
+        [
+          239,
+          946
+        ],
+        [
+          1407,
+          948
+        ],
+        [
+          1407,
+          982
+        ],
+        [
+          238,
+          980
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1101
+        ],
+        [
+          1407,
+          1103
+        ],
+        [
+          1407,
+          1137
+        ],
+        [
+          238,
+          1135
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        946,
+        1407,
+        982
+      ],
+      "text": "Giải thoát có nghĩa là: dứt: bộ được.sự trói buộc của mọi sai lầm, phiên, nào, nhữ vây",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0078_viet_022",
+      "bbox": [
+        [
+          239,
+          978
+        ],
+        [
+          1410,
+          982
+        ],
+        [
+          1410,
+          1015
+        ],
+        [
+          238,
+          1011
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1133
+        ],
+        [
+          1410,
+          1137
+        ],
+        [
+          1410,
+          1170
+        ],
+        [
+          238,
+          1166
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        978,
+        1410,
+        1015
+      ],
+      "text": "sẽ, được tự tai, thoát, khỏi hoặc nghiệp, vượt ra ngoài tani giới (dục giời, sác giời, vô",
+      "confidence": 0.8664
+    },
+    {
+      "line_id": "0078_viet_023",
+      "bbox": [
+        [
+          240,
+          1011
+        ],
+        [
+          1408,
+          1014
+        ],
+        [
+          1408,
+          1047
+        ],
+        [
+          239,
+          1044
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1166
+        ],
+        [
+          1408,
+          1169
+        ],
+        [
+          1408,
+          1202
+        ],
+        [
+          239,
+          1199
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1011,
+        1408,
+        1047
+      ],
+      "text": "sắc giời) đại đến Niết-bàn, Giải, thoạl có hai, tỉnh  tịnh tịnh giai, thoát (bản tịnh của",
+      "confidence": 0.8435
+    },
+    {
+      "line_id": "0078_viet_024",
+      "bbox": [
+        [
+          240,
+          1044
+        ],
+        [
+          1406,
+          1047
+        ],
+        [
+          1406,
+          1080
+        ],
+        [
+          239,
+          1077
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1199
+        ],
+        [
+          1406,
+          1202
+        ],
+        [
+          1406,
+          1235
+        ],
+        [
+          239,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1044,
+        1406,
+        1080
+      ],
+      "text": "chúng sinh, vốn không tròi buộc, ô nhiệm) sa chường, lận giải ihoát (bản tỉnh của",
+      "confidence": 0.8864
+    },
+    {
+      "line_id": "0078_viet_025",
+      "bbox": [
+        [
+          239,
+          1077
+        ],
+        [
+          1406,
+          1080
+        ],
+        [
+          1406,
+          1113
+        ],
+        [
+          238,
+          1110
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1232
+        ],
+        [
+          1406,
+          1235
+        ],
+        [
+          1406,
+          1268
+        ],
+        [
+          238,
+          1265
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1077,
+        1406,
+        1113
+      ],
+      "text": "chúng sinh vốn thanh tịnh nhưng vì mọi phiên nào mế hoặc, nện bị che Tập đi, dinh",
+      "confidence": 0.8731
+    },
+    {
+      "line_id": "0078_viet_026",
+      "bbox": [
+        [
+          239,
+          1109
+        ],
+        [
+          946,
+          1111
+        ],
+        [
+          946,
+          1146
+        ],
+        [
+          238,
+          1144
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1264
+        ],
+        [
+          946,
+          1266
+        ],
+        [
+          946,
+          1301
+        ],
+        [
+          238,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1109,
+        946,
+        1146
+      ],
+      "text": "bở được các chương nghiệp ấy thị được giải inoát)",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0078_viet_027",
+      "bbox": [
+        [
+          174,
+          1149
+        ],
+        [
+          1407,
+          1156
+        ],
+        [
+          1407,
+          1193
+        ],
+        [
+          174,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1304
+        ],
+        [
+          1407,
+          1311
+        ],
+        [
+          1407,
+          1348
+        ],
+        [
+          174,
+          1342
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1149,
+        1407,
+        1193
+      ],
+      "text": "quy biện hữu: thuật ngữ đạo Phật, chỉ thế giới hiện tượng mà con người có thể tiếp kúc",
+      "confidence": 0.875
+    },
+    {
+      "line_id": "0078_viet_028",
+      "bbox": [
+        [
+          240,
+          1188
+        ],
+        [
+          513,
+          1188
+        ],
+        [
+          513,
+          1219
+        ],
+        [
+          240,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1343
+        ],
+        [
+          513,
+          1343
+        ],
+        [
+          513,
+          1374
+        ],
+        [
+          240,
+          1374
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1188,
+        513,
+        1219
+      ],
+      "text": "nhận biết được",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0078_viet_029",
+      "bbox": [
+        [
+          759,
+          1347
+        ],
+        [
+          811,
+          1347
+        ],
+        [
+          811,
+          1398
+        ],
+        [
+          759,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          759,
+          1502
+        ],
+        [
+          811,
+          1502
+        ],
+        [
+          811,
+          1553
+        ],
+        [
+          759,
+          1553
+        ]
+      ],
+      "box_xyxy": [
+        759,
+        1347,
+        811,
+        1398
+      ],
+      "text": "10",
+      "confidence": 0.9267
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "đầu của thiện. Định là giai đoạn giữa của thiện là vì thâu nghiêng nên dừng",
+      "lại, vi dừng lại nên tâm đứng vững: vì tâm đưng vững cho nên nhận biết",
+      "được sự chân thực. Do vậy gọi là giai đoạn giữa của thiện, Tuệ là giai đoạn",
+      "cuối của thiện là vì có sự nhận biết chân thực ấy nên chảu ghết điều lọ làng:",
+      "vì chán ghét điều lo lắng mà dời xa mọi hám muốn - vì đời xa mọi ham muón",
+      "nên được giải thoát ((). Do vậy gọi là giai đoạn cuối của thiện, Cho nên dùng",
+      "giới đề trừ xu hướng theo điều ác, dùng định để trừ long bam muốn, dùng",
+      "tuệ đề trừ mọi ý thức về cái biện hữu (-), Dựa vào giúi định tuề này mà tu",
+      "hành thì con đường của chu Phật không xa nữa",
+      "ĐỖ VĂN MỸ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

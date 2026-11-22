@@ -1,0 +1,940 @@
+{
+  "page_id": "0060",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 60,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0060_viet_000",
+      "bbox": [
+        [
+          191,
+          29
+        ],
+        [
+          234,
+          29
+        ],
+        [
+          234,
+          64
+        ],
+        [
+          191,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          150
+        ],
+        [
+          234,
+          150
+        ],
+        [
+          234,
+          185
+        ],
+        [
+          191,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        29,
+        234,
+        64
+      ],
+      "text": "54",
+      "confidence": 0.9371
+    },
+    {
+      "line_id": "0060_viet_001",
+      "bbox": [
+        [
+          667,
+          27
+        ],
+        [
+          991,
+          27
+        ],
+        [
+          991,
+          61
+        ],
+        [
+          667,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          148
+        ],
+        [
+          991,
+          148
+        ],
+        [
+          991,
+          182
+        ],
+        [
+          667,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        27,
+        991,
+        61
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9018
+    },
+    {
+      "line_id": "0060_viet_002",
+      "bbox": [
+        [
+          230,
+          184
+        ],
+        [
+          892,
+          184
+        ],
+        [
+          892,
+          221
+        ],
+        [
+          230,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          305
+        ],
+        [
+          892,
+          305
+        ],
+        [
+          892,
+          342
+        ],
+        [
+          230,
+          342
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        184,
+        892,
+        221
+      ],
+      "text": "Bắc-cung chi nữ Anh-nhi-tử vô dạng da ?",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0060_viet_003",
+      "bbox": [
+        [
+          250,
+          229
+        ],
+        [
+          894,
+          230
+        ],
+        [
+          894,
+          270
+        ],
+        [
+          250,
+          269
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          350
+        ],
+        [
+          894,
+          351
+        ],
+        [
+          894,
+          391
+        ],
+        [
+          250,
+          390
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        229,
+        894,
+        270
+      ],
+      "text": "Nàng Anh-nhi họ Bắc-cung bình yên chứ ?",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0060_viet_004",
+      "bbox": [
+        [
+          230,
+          354
+        ],
+        [
+          811,
+          354
+        ],
+        [
+          811,
+          394
+        ],
+        [
+          230,
+          394
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          475
+        ],
+        [
+          811,
+          475
+        ],
+        [
+          811,
+          515
+        ],
+        [
+          230,
+          515
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        354,
+        811,
+        394
+      ],
+      "text": "Triệt kỳ hoàn thiên, chi lão bãt giá",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0060_viet_005",
+      "bbox": [
+        [
+          250,
+          401
+        ],
+        [
+          944,
+          404
+        ],
+        [
+          944,
+          444
+        ],
+        [
+          250,
+          441
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          522
+        ],
+        [
+          944,
+          525
+        ],
+        [
+          944,
+          565
+        ],
+        [
+          250,
+          562
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        401,
+        944,
+        444
+      ],
+      "text": "Bỏ cả vòng, bông tai, đên già không lầy chồng",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0060_viet_006",
+      "bbox": [
+        [
+          228,
+          522
+        ],
+        [
+          847,
+          522
+        ],
+        [
+          847,
+          559
+        ],
+        [
+          228,
+          559
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          643
+        ],
+        [
+          847,
+          643
+        ],
+        [
+          847,
+          680
+        ],
+        [
+          228,
+          680
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        522,
+        847,
+        559
+      ],
+      "text": "dĩ dưỡng phụ mẫu: thị kỳ suất dân",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0060_viet_007",
+      "bbox": [
+        [
+          251,
+          565
+        ],
+        [
+          755,
+          570
+        ],
+        [
+          754,
+          610
+        ],
+        [
+          251,
+          606
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          686
+        ],
+        [
+          755,
+          691
+        ],
+        [
+          754,
+          731
+        ],
+        [
+          251,
+          727
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        565,
+        755,
+        610
+      ],
+      "text": "để nuôi cha mẹ: ây là làm gương",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0060_viet_008",
+      "bbox": [
+        [
+          229,
+          692
+        ],
+        [
+          684,
+          692
+        ],
+        [
+          684,
+          729
+        ],
+        [
+          229,
+          729
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          813
+        ],
+        [
+          684,
+          813
+        ],
+        [
+          684,
+          850
+        ],
+        [
+          229,
+          850
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        692,
+        684,
+        729
+      ],
+      "text": "nhi xuất ư hiễu-tình giả dã",
+      "confidence": 0.9057
+    },
+    {
+      "line_id": "0060_viet_009",
+      "bbox": [
+        [
+          252,
+          739
+        ],
+        [
+          441,
+          739
+        ],
+        [
+          441,
+          774
+        ],
+        [
+          252,
+          774
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          860
+        ],
+        [
+          441,
+          860
+        ],
+        [
+          441,
+          895
+        ],
+        [
+          252,
+          895
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        739,
+        441,
+        774
+      ],
+      "text": "hiều cho dân",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0060_viet_010",
+      "bbox": [
+        [
+          230,
+          855
+        ],
+        [
+          685,
+          854
+        ],
+        [
+          685,
+          892
+        ],
+        [
+          230,
+          893
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          976
+        ],
+        [
+          685,
+          975
+        ],
+        [
+          685,
+          1013
+        ],
+        [
+          230,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        854,
+        685,
+        893
+      ],
+      "text": "hồ vi chí kim bắt triều dã ?",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0060_viet_011",
+      "bbox": [
+        [
+          250,
+          904
+        ],
+        [
+          793,
+          902
+        ],
+        [
+          793,
+          942
+        ],
+        [
+          250,
+          944
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1025
+        ],
+        [
+          793,
+          1023
+        ],
+        [
+          793,
+          1063
+        ],
+        [
+          250,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        902,
+        793,
+        944
+      ],
+      "text": "sao bây giờ chưa được tặng phong",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0060_viet_012",
+      "bbox": [
+        [
+          230,
+          1026
+        ],
+        [
+          938,
+          1026
+        ],
+        [
+          938,
+          1064
+        ],
+        [
+          230,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1147
+        ],
+        [
+          938,
+          1147
+        ],
+        [
+          938,
+          1185
+        ],
+        [
+          230,
+          1185
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1026,
+        938,
+        1064
+      ],
+      "text": "Thử nhị sĩ phát nghiệp, nhất nữ bãt triều",
+      "confidence": 0.9022
+    },
+    {
+      "line_id": "0060_viet_013",
+      "bbox": [
+        [
+          252,
+          1072
+        ],
+        [
+          991,
+          1075
+        ],
+        [
+          991,
+          1115
+        ],
+        [
+          252,
+          1112
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1193
+        ],
+        [
+          991,
+          1196
+        ],
+        [
+          991,
+          1236
+        ],
+        [
+          252,
+          1233
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1072,
+        991,
+        1115
+      ],
+      "text": "Hai kẻ sĩ không có chức, một gái không được phong",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0060_viet_014",
+      "bbox": [
+        [
+          231,
+          1196
+        ],
+        [
+          859,
+          1193
+        ],
+        [
+          859,
+          1233
+        ],
+        [
+          231,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1317
+        ],
+        [
+          859,
+          1314
+        ],
+        [
+          859,
+          1354
+        ],
+        [
+          231,
+          1357
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1193,
+        859,
+        1236
+      ],
+      "text": "hà di vượng Tê-quốc, tử vạn dân hồ ?",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0060_viet_015",
+      "bbox": [
+        [
+          251,
+          1243
+        ],
+        [
+          873,
+          1240
+        ],
+        [
+          873,
+          1281
+        ],
+        [
+          251,
+          1284
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1364
+        ],
+        [
+          873,
+          1361
+        ],
+        [
+          873,
+          1402
+        ],
+        [
+          251,
+          1405
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1240,
+        873,
+        1284
+      ],
+      "text": "lây gì cho nước Tề thịnh, cứu muôn dân ?",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0060_viet_016",
+      "bbox": [
+        [
+          230,
+          1364
+        ],
+        [
+          805,
+          1364
+        ],
+        [
+          805,
+          1405
+        ],
+        [
+          230,
+          1405
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1485
+        ],
+        [
+          805,
+          1485
+        ],
+        [
+          805,
+          1526
+        ],
+        [
+          230,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1364,
+        805,
+        1405
+      ],
+      "text": "Ô Lăng Tử Trọng thượng tón hồ ?",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0060_viet_017",
+      "bbox": [
+        [
+          226,
+          1411
+        ],
+        [
+          675,
+          1415
+        ],
+        [
+          675,
+          1455
+        ],
+        [
+          226,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1532
+        ],
+        [
+          675,
+          1536
+        ],
+        [
+          675,
+          1576
+        ],
+        [
+          226,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1411,
+        675,
+        1455
+      ],
+      "text": "Ô-Lăng Tử Trọng còn chăng",
+      "confidence": 0.9346
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Bắc-cung chi nữ Anh-nhi-tử vô dạng da ?",
+      "Triệt kỳ hoàn thiên, chi lão bãt giá",
+      "dĩ dưỡng phụ mẫu: thị kỳ suất dân",
+      "nhi xuất ư hiễu-tình giả dã",
+      "hồ vi chí kim bắt triều dã ?",
+      "Thử nhị sĩ phát nghiệp, nhất nữ bãt triều",
+      "hà di vượng Tê-quốc, tử vạn dân hồ ?",
+      "Ô Lăng Tử Trọng thượng tón hồ ?"
+    ],
+    "dich_nghia_lines": [
+      "Nàng Anh-nhi họ Bắc-cung bình yên chứ ?",
+      "Bỏ cả vòng, bông tai, đên già không lầy chồng",
+      "để nuôi cha mẹ: ây là làm gương",
+      "hiều cho dân",
+      "sao bây giờ chưa được tặng phong",
+      "Hai kẻ sĩ không có chức, một gái không được phong",
+      "lây gì cho nước Tề thịnh, cứu muôn dân ?",
+      "Ô-Lăng Tử Trọng còn chăng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "北宮之女嬰兒子無恙耶",
+        "phien_am": "Bắc-cung chi nữ Anh-nhi-tử vô dạng da ?",
+        "dich_nghia_gloss": "Nàng Anh-nhi họ Bắc-cung bình yên chứ ?"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "徹其環瑱至老不嫁",
+        "phien_am": "Triệt kỳ hoàn thiên, chi lão bãt giá",
+        "dich_nghia_gloss": "Bỏ cả vòng, bông tai, đên già không lầy chồng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "以養父母是其率民",
+        "phien_am": "dĩ dưỡng phụ mẫu: thị kỳ suất dân",
+        "dich_nghia_gloss": "để nuôi cha mẹ: ây là làm gương"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "而出於孝情者也",
+        "phien_am": "nhi xuất ư hiễu-tình giả dã",
+        "dich_nghia_gloss": "hiều cho dân"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "胡爲至今不朝也",
+        "phien_am": "hồ vi chí kim bắt triều dã ?",
+        "dich_nghia_gloss": "sao bây giờ chưa được tặng phong"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "此二士弗業一女不朝",
+        "phien_am": "Thử nhị sĩ phát nghiệp, nhất nữ bãt triều",
+        "dich_nghia_gloss": "Hai kẻ sĩ không có chức, một gái không được phong"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "何以王齊國子萬民乎",
+        "phien_am": "hà di vượng Tê-quốc, tử vạn dân hồ ?",
+        "dich_nghia_gloss": "lây gì cho nước Tề thịnh, cứu muôn dân ?"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "於陵子仲尚存乎",
+        "phien_am": "Ô Lăng Tử Trọng thượng tón hồ ?",
+        "dich_nghia_gloss": "Ô-Lăng Tử Trọng còn chăng"
+      }
+    ]
+  }
+}

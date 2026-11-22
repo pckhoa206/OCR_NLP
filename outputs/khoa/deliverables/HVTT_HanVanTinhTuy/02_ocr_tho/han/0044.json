@@ -1,0 +1,459 @@
+{
+  "page_id": "0044",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 44,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0044_han_000",
+      "bbox": [
+        [
+          202,
+          128
+        ],
+        [
+          596,
+          128
+        ],
+        [
+          596,
+          179
+        ],
+        [
+          202,
+          179
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          249
+        ],
+        [
+          596,
+          249
+        ],
+        [
+          596,
+          300
+        ],
+        [
+          202,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        128,
+        596,
+        179
+      ],
+      "text": "與使觸為慕勢",
+      "confidence": 0.8607
+    },
+    {
+      "line_id": "0044_han_001",
+      "bbox": [
+        [
+          201,
+          297
+        ],
+        [
+          669,
+          297
+        ],
+        [
+          669,
+          345
+        ],
+        [
+          201,
+          345
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          418
+        ],
+        [
+          669,
+          418
+        ],
+        [
+          669,
+          466
+        ],
+        [
+          201,
+          466
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        297,
+        669,
+        345
+      ],
+      "text": "不如使王為趙士",
+      "confidence": 0.9032
+    },
+    {
+      "line_id": "0044_han_002",
+      "bbox": [
+        [
+          203,
+          466
+        ],
+        [
+          597,
+          466
+        ],
+        [
+          597,
+          513
+        ],
+        [
+          203,
+          513
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          587
+        ],
+        [
+          597,
+          587
+        ],
+        [
+          597,
+          634
+        ],
+        [
+          203,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        466,
+        597,
+        513
+      ],
+      "text": "王忿然作色曰",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0044_han_003",
+      "bbox": [
+        [
+          202,
+          634
+        ],
+        [
+          798,
+          634
+        ],
+        [
+          798,
+          681
+        ],
+        [
+          202,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          755
+        ],
+        [
+          798,
+          755
+        ],
+        [
+          798,
+          802
+        ],
+        [
+          202,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        634,
+        798,
+        681
+      ],
+      "text": "王者貴乎對曰士貴耳",
+      "confidence": 0.9984
+    },
+    {
+      "line_id": "0044_han_004",
+      "bbox": [
+        [
+          201,
+          801
+        ],
+        [
+          457,
+          801
+        ],
+        [
+          457,
+          851
+        ],
+        [
+          201,
+          851
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          922
+        ],
+        [
+          457,
+          922
+        ],
+        [
+          457,
+          972
+        ],
+        [
+          201,
+          972
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        801,
+        457,
+        851
+      ],
+      "text": "王者不貴",
+      "confidence": 0.9993
+    },
+    {
+      "line_id": "0044_han_005",
+      "bbox": [
+        [
+          199,
+          969
+        ],
+        [
+          523,
+          967
+        ],
+        [
+          523,
+          1016
+        ],
+        [
+          199,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1090
+        ],
+        [
+          523,
+          1088
+        ],
+        [
+          523,
+          1137
+        ],
+        [
+          199,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        967,
+        523,
+        1019
+      ],
+      "text": "王曰有說乎",
+      "confidence": 0.9986
+    },
+    {
+      "line_id": "0044_han_006",
+      "bbox": [
+        [
+          199,
+          1139
+        ],
+        [
+          737,
+          1139
+        ],
+        [
+          737,
+          1190
+        ],
+        [
+          199,
+          1190
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1260
+        ],
+        [
+          737,
+          1260
+        ],
+        [
+          737,
+          1311
+        ],
+        [
+          199,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1139,
+        737,
+        1190
+      ],
+      "text": "對曰有昔者秦攻齊",
+      "confidence": 0.9993
+    },
+    {
+      "line_id": "0044_han_007",
+      "bbox": [
+        [
+          198,
+          1311
+        ],
+        [
+          735,
+          1311
+        ],
+        [
+          735,
+          1359
+        ],
+        [
+          198,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1432
+        ],
+        [
+          735,
+          1432
+        ],
+        [
+          735,
+          1480
+        ],
+        [
+          198,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1311,
+        735,
+        1359
+      ],
+      "text": "今有敢去柳下季壟",
+      "confidence": 0.9898
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "與使觸為慕勢",
+      "不如使王為趙士",
+      "王忿然作色曰",
+      "王者貴乎對曰士貴耳",
+      "王者不貴",
+      "王曰有說乎",
+      "對曰有昔者秦攻齊",
+      "今有敢去柳下季壟"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "與使觸為慕勢",
+        "phien_am": "Dữ sử Xúc vi mộ thẽ,",
+        "dich_nghia_gloss": "Đề cho xúc mang tiềng mộ quyền thê"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "不如使王為趙士",
+        "phien_am": "Bất như sử Vương vi xu sĩ",
+        "dich_nghia_gloss": "không bằng để vua được tiêng chuộng kẻ sĩ."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "王忿然作色曰",
+        "phien_am": "Vương phần nhiên tác sắc, viêt:",
+        "dich_nghia_gloss": "Vua giận, nói"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王者貴乎對曰士貴耳",
+        "phien_am": "Vương giả quý hồ ? Đõi viết: Sĩ quý nhĩ",
+        "dich_nghia_gloss": "Vua quý hay không ở Xúc thưa: sĩ mới quý"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "王者不貴",
+        "phien_am": "Vương-giả bãt quý.",
+        "dich_nghia_gloss": "vua không quý"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "王曰有說乎",
+        "phien_am": "Vương viết: Hữu thuyết hồ?",
+        "dich_nghia_gloss": "Vua nói: có gì làm bằng?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "對曰有昔者秦攻齊",
+        "phien_am": "Đõi viết: hữu. Tích giả Tần công Tề,",
+        "dich_nghia_gloss": "Thưa: Có. Xưa Tần đánh Tế"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "今有敢去柳下季壟",
+        "phien_am": "lệnh hữu cảm khứ Liêu-hạ-Quý lũng",
+        "dich_nghia_gloss": "có lệnh ai dám đền mộ Liễu-hạ-Quý"
+      }
+    ]
+  }
+}

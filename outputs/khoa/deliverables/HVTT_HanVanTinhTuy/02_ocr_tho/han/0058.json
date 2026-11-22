@@ -1,0 +1,459 @@
+{
+  "page_id": "0058",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 58,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0058_han_000",
+      "bbox": [
+        [
+          246,
+          128
+        ],
+        [
+          925,
+          128
+        ],
+        [
+          925,
+          172
+        ],
+        [
+          246,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          249
+        ],
+        [
+          925,
+          249
+        ],
+        [
+          925,
+          293
+        ],
+        [
+          246,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        128,
+        925,
+        172
+      ],
+      "text": "有衣者亦衣無衣者亦衣",
+      "confidence": 0.9607
+    },
+    {
+      "line_id": "0058_han_001",
+      "bbox": [
+        [
+          241,
+          292
+        ],
+        [
+          785,
+          288
+        ],
+        [
+          786,
+          336
+        ],
+        [
+          241,
+          341
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          413
+        ],
+        [
+          785,
+          409
+        ],
+        [
+          786,
+          457
+        ],
+        [
+          241,
+          462
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        288,
+        786,
+        341
+      ],
+      "text": "是助王養其民者也",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0058_han_002",
+      "bbox": [
+        [
+          246,
+          454
+        ],
+        [
+          714,
+          452
+        ],
+        [
+          714,
+          497
+        ],
+        [
+          246,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          575
+        ],
+        [
+          714,
+          573
+        ],
+        [
+          714,
+          618
+        ],
+        [
+          246,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        452,
+        714,
+        499
+      ],
+      "text": "何以至今不業也",
+      "confidence": 0.9906
+    },
+    {
+      "line_id": "0058_han_003",
+      "bbox": [
+        [
+          246,
+          616
+        ],
+        [
+          643,
+          614
+        ],
+        [
+          643,
+          661
+        ],
+        [
+          246,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          737
+        ],
+        [
+          643,
+          735
+        ],
+        [
+          643,
+          782
+        ],
+        [
+          246,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        614,
+        643,
+        663
+      ],
+      "text": "業陽子無恙耶",
+      "confidence": 0.996
+    },
+    {
+      "line_id": "0058_han_004",
+      "bbox": [
+        [
+          242,
+          779
+        ],
+        [
+          921,
+          776
+        ],
+        [
+          921,
+          825
+        ],
+        [
+          242,
+          828
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          900
+        ],
+        [
+          921,
+          897
+        ],
+        [
+          921,
+          946
+        ],
+        [
+          242,
+          949
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        776,
+        921,
+        828
+      ],
+      "text": "是其為人哀鰥寡卹孤獨",
+      "confidence": 0.9728
+    },
+    {
+      "line_id": "0058_han_005",
+      "bbox": [
+        [
+          244,
+          985
+        ],
+        [
+          643,
+          985
+        ],
+        [
+          643,
+          1032
+        ],
+        [
+          244,
+          1032
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1106
+        ],
+        [
+          643,
+          1106
+        ],
+        [
+          643,
+          1153
+        ],
+        [
+          244,
+          1153
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        985,
+        643,
+        1032
+      ],
+      "text": "眼困窮補不足",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0058_han_006",
+      "bbox": [
+        [
+          245,
+          1154
+        ],
+        [
+          783,
+          1152
+        ],
+        [
+          783,
+          1196
+        ],
+        [
+          245,
+          1198
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1275
+        ],
+        [
+          783,
+          1273
+        ],
+        [
+          783,
+          1317
+        ],
+        [
+          245,
+          1319
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1152,
+        783,
+        1198
+      ],
+      "text": "是助王息其民者也",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0058_han_007",
+      "bbox": [
+        [
+          249,
+          1317
+        ],
+        [
+          712,
+          1315
+        ],
+        [
+          712,
+          1360
+        ],
+        [
+          249,
+          1362
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1438
+        ],
+        [
+          712,
+          1436
+        ],
+        [
+          712,
+          1481
+        ],
+        [
+          249,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1315,
+        712,
+        1362
+      ],
+      "text": "何以至今不業也",
+      "confidence": 0.9935
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "有衣者亦衣無衣者亦衣",
+      "是助王養其民者也",
+      "何以至今不業也",
+      "業陽子無恙耶",
+      "是其為人哀鰥寡卹孤獨",
+      "眼困窮補不足",
+      "是助王息其民者也",
+      "何以至今不業也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "有衣者亦衣無衣者亦衣",
+        "phien_am": "Hữu y giả diệc ý, vô y giả diệc ý",
+        "dich_nghia_gloss": "Kẻ có áo thì cho thêm. không áo thì cho có"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "是助王養其民者也",
+        "phien_am": "thị trợ vương dưỡng kỳ dân giả dã",
+        "dich_nghia_gloss": "ây là giúp vua trong việc nuôi dân vậy"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "何以至今不業也",
+        "phien_am": "hà dĩ chi kim bất nghiệp dã ?",
+        "dich_nghia_gloss": "Sao đến nay chưa được phong-chức ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "業陽子無恙耶",
+        "phien_am": "Nghiệp-dương-tử vô dạng da ?",
+        "dich_nghia_gloss": "Nghiệp-dương tử bình yên chăng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "是其為人哀鰥寡卹孤獨",
+        "phien_am": "Thị kỳ vi nhân ai quan quả, tuất có độc,",
+        "dich_nghia_gloss": "xem ông ta là người thương người góa, giúp người côi,"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "眼困窮補不足",
+        "phien_am": "chần khôn cùng, bồ bãt túc,",
+        "dich_nghia_gloss": "cứu kẻ nghèo khổ, bổ khuyết cho kẻ thiêu-thôn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "是助王息其民者也",
+        "phien_am": "thị trợ vương tức kỳ dân giả dã",
+        "dich_nghia_gloss": "ây là giúp vua cho dân sông"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "何以至今不業也",
+        "phien_am": "hà dĩ chí kim bất nghiệp dã ?",
+        "dich_nghia_gloss": "sao đên nay vẫn chưa phong chức ?"
+      }
+    ]
+  }
+}

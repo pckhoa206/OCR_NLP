@@ -1,0 +1,604 @@
+{
+  "page_id": "0174",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 174,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1114,
+    "footnote_separator_y_original": 1229,
+    "effective_width": 1122,
+    "effective_height": 1114
+  },
+  "items": [
+    {
+      "line_id": "0174_viet_000",
+      "bbox": [
+        [
+          71,
+          0
+        ],
+        [
+          1033,
+          0
+        ],
+        [
+          1033,
+          35
+        ],
+        [
+          71,
+          37
+        ]
+      ],
+      "bbox_original": [
+        [
+          71,
+          115
+        ],
+        [
+          1033,
+          115
+        ],
+        [
+          1033,
+          150
+        ],
+        [
+          71,
+          152
+        ]
+      ],
+      "box_xyxy": [
+        71,
+        0,
+        1033,
+        37
+      ],
+      "text": "Hương công, nhưng không đồ thi hội. vôn tính thích phóng túng,",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0174_viet_001",
+      "bbox": [
+        [
+          71,
+          41
+        ],
+        [
+          1034,
+          37
+        ],
+        [
+          1034,
+          74
+        ],
+        [
+          71,
+          78
+        ]
+      ],
+      "bbox_original": [
+        [
+          71,
+          156
+        ],
+        [
+          1034,
+          152
+        ],
+        [
+          1034,
+          189
+        ],
+        [
+          71,
+          193
+        ]
+      ],
+      "box_xyxy": [
+        71,
+        37,
+        1034,
+        78
+      ],
+      "text": "ưa cuộc sống phiêu diêu tự tại nên ông không đi thi tiếp mà làm",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0174_viet_002",
+      "bbox": [
+        [
+          72,
+          81
+        ],
+        [
+          1033,
+          79
+        ],
+        [
+          1033,
+          116
+        ],
+        [
+          72,
+          118
+        ]
+      ],
+      "bbox_original": [
+        [
+          72,
+          196
+        ],
+        [
+          1033,
+          194
+        ],
+        [
+          1033,
+          231
+        ],
+        [
+          72,
+          233
+        ]
+      ],
+      "box_xyxy": [
+        72,
+        79,
+        1033,
+        118
+      ],
+      "text": "Huấn đạo ở trường phủ rồi làm Tri huyện Thanh Oai, cuối đời làm",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0174_viet_003",
+      "bbox": [
+        [
+          74,
+          126
+        ],
+        [
+          504,
+          122
+        ],
+        [
+          504,
+          157
+        ],
+        [
+          74,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          74,
+          241
+        ],
+        [
+          504,
+          237
+        ],
+        [
+          504,
+          272
+        ],
+        [
+          74,
+          276
+        ]
+      ],
+      "box_xyxy": [
+        74,
+        122,
+        504,
+        161
+      ],
+      "text": "chức ngự sử đài chiếu khám.",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0174_viet_004",
+      "bbox": [
+        [
+          129,
+          169
+        ],
+        [
+          1034,
+          168
+        ],
+        [
+          1034,
+          209
+        ],
+        [
+          129,
+          210
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          284
+        ],
+        [
+          1034,
+          283
+        ],
+        [
+          1034,
+          324
+        ],
+        [
+          129,
+          325
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        168,
+        1034,
+        210
+      ],
+      "text": "Đặng Trần Côn đặc biệt nổi tiếng với tác phẩm Chinh phụ",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0174_viet_005",
+      "bbox": [
+        [
+          72,
+          215
+        ],
+        [
+          1034,
+          212
+        ],
+        [
+          1034,
+          250
+        ],
+        [
+          72,
+          253
+        ]
+      ],
+      "bbox_original": [
+        [
+          72,
+          330
+        ],
+        [
+          1034,
+          327
+        ],
+        [
+          1034,
+          365
+        ],
+        [
+          72,
+          368
+        ]
+      ],
+      "box_xyxy": [
+        72,
+        212,
+        1034,
+        253
+      ],
+      "text": "ngâm. Đến nay, ngoài tác phẩm trên, ông còn một số bài thơ, văn",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0174_viet_006",
+      "bbox": [
+        [
+          71,
+          257
+        ],
+        [
+          603,
+          255
+        ],
+        [
+          603,
+          291
+        ],
+        [
+          71,
+          293
+        ]
+      ],
+      "bbox_original": [
+        [
+          71,
+          372
+        ],
+        [
+          603,
+          370
+        ],
+        [
+          603,
+          406
+        ],
+        [
+          71,
+          408
+        ]
+      ],
+      "box_xyxy": [
+        71,
+        255,
+        603,
+        293
+      ],
+      "text": "tế và 10 bài sáng tác theo thể loại từ",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0174_viet_007",
+      "bbox": [
+        [
+          131,
+          301
+        ],
+        [
+          1036,
+          301
+        ],
+        [
+          1036,
+          344
+        ],
+        [
+          131,
+          344
+        ]
+      ],
+      "bbox_original": [
+        [
+          131,
+          416
+        ],
+        [
+          1036,
+          416
+        ],
+        [
+          1036,
+          459
+        ],
+        [
+          131,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        131,
+        301,
+        1036,
+        344
+      ],
+      "text": "Trong 10 bài từ dưới đây, 9 bài đầu nằm trong phần Phủ chưởng",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0174_viet_008",
+      "bbox": [
+        [
+          72,
+          349
+        ],
+        [
+          1033,
+          347
+        ],
+        [
+          1033,
+          385
+        ],
+        [
+          72,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          72,
+          464
+        ],
+        [
+          1033,
+          462
+        ],
+        [
+          1033,
+          500
+        ],
+        [
+          72,
+          502
+        ]
+      ],
+      "box_xyxy": [
+        72,
+        347,
+        1033,
+        387
+      ],
+      "text": "tân thư (lê ( đị 4), sách Danh ngôn tạp trước (5 ? Hi %.",
+      "confidence": 0.7876
+    },
+    {
+      "line_id": "0174_viet_009",
+      "bbox": [
+        [
+          72,
+          393
+        ],
+        [
+          1036,
+          395
+        ],
+        [
+          1036,
+          435
+        ],
+        [
+          72,
+          433
+        ]
+      ],
+      "bbox_original": [
+        [
+          72,
+          508
+        ],
+        [
+          1036,
+          510
+        ],
+        [
+          1036,
+          550
+        ],
+        [
+          72,
+          548
+        ]
+      ],
+      "box_xyxy": [
+        72,
+        393,
+        1036,
+        435
+      ],
+      "text": "A.1073)', bài thứ 10 năm trong bài Nguyễn quý hầu cập đệ gia",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0174_viet_010",
+      "bbox": [
+        [
+          72,
+          437
+        ],
+        [
+          736,
+          437
+        ],
+        [
+          736,
+          477
+        ],
+        [
+          72,
+          477
+        ]
+      ],
+      "bbox_original": [
+        [
+          72,
+          552
+        ],
+        [
+          736,
+          552
+        ],
+        [
+          736,
+          592
+        ],
+        [
+          72,
+          592
+        ]
+      ],
+      "box_xyxy": [
+        72,
+        437,
+        736,
+        477
+      ],
+      "text": "môn vinh thịnh tự thuộc Nguyễn thị gia tàng?",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0174_viet_011",
+      "bbox": [
+        [
+          126,
+          539
+        ],
+        [
+          160,
+          539
+        ],
+        [
+          160,
+          581
+        ],
+        [
+          126,
+          581
+        ]
+      ],
+      "bbox_original": [
+        [
+          126,
+          654
+        ],
+        [
+          160,
+          654
+        ],
+        [
+          160,
+          696
+        ],
+        [
+          126,
+          696
+        ]
+      ],
+      "box_xyxy": [
+        126,
+        539,
+        160,
+        581
+      ],
+      "text": "I.",
+      "confidence": 0.8138
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Hương công, nhưng không đồ thi hội. vôn tính thích phóng túng,",
+      "ưa cuộc sống phiêu diêu tự tại nên ông không đi thi tiếp mà làm",
+      "Huấn đạo ở trường phủ rồi làm Tri huyện Thanh Oai, cuối đời làm",
+      "chức ngự sử đài chiếu khám.",
+      "Đặng Trần Côn đặc biệt nổi tiếng với tác phẩm Chinh phụ",
+      "ngâm. Đến nay, ngoài tác phẩm trên, ông còn một số bài thơ, văn",
+      "tế và 10 bài sáng tác theo thể loại từ",
+      "Trong 10 bài từ dưới đây, 9 bài đầu nằm trong phần Phủ chưởng",
+      "tân thư (lê ( đị 4), sách Danh ngôn tạp trước (5 ? Hi %.",
+      "A.1073)', bài thứ 10 năm trong bài Nguyễn quý hầu cập đệ gia",
+      "môn vinh thịnh tự thuộc Nguyễn thị gia tàng?",
+      "I."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

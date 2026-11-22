@@ -1,0 +1,216 @@
+{
+  "page_id": "0065",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 65,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0065_han_000",
+      "bbox": [
+        [
+          229,
+          371
+        ],
+        [
+          763,
+          371
+        ],
+        [
+          763,
+          417
+        ],
+        [
+          229,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          526
+        ],
+        [
+          763,
+          526
+        ],
+        [
+          763,
+          572
+        ],
+        [
+          229,
+          572
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        371,
+        763,
+        417
+      ],
+      "text": "十室之：邑必有忠信如丘者焉。公冶長",
+      "confidence": 0.8322
+    },
+    {
+      "line_id": "0065_han_001",
+      "bbox": [
+        [
+          226,
+          583
+        ],
+        [
+          763,
+          583
+        ],
+        [
+          763,
+          621
+        ],
+        [
+          226,
+          621
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          738
+        ],
+        [
+          763,
+          738
+        ],
+        [
+          763,
+          776
+        ],
+        [
+          226,
+          776
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        583,
+        763,
+        621
+      ],
+      "text": "cua mot càu trong thièn Drong Hóa  化:人 而 不  周 召 北 Nhdn",
+      "confidence": 0.8394
+    },
+    {
+      "line_id": "0065_han_002",
+      "bbox": [
+        [
+          227,
+          648
+        ],
+        [
+          763,
+          648
+        ],
+        [
+          763,
+          690
+        ],
+        [
+          227,
+          690
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          803
+        ],
+        [
+          763,
+          803
+        ],
+        [
+          763,
+          845
+        ],
+        [
+          227,
+          845
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        648,
+        763,
+        690
+      ],
+      "text": "Num... ghép voi cum tù căm thán cua môt câu trong thièn Tù Hăn...  罕: 言",
+      "confidence": 0.8569
+    },
+    {
+      "line_id": "0065_han_003",
+      "bbox": [
+        [
+          232,
+          685
+        ],
+        [
+          1000,
+          683
+        ],
+        [
+          1000,
+          721
+        ],
+        [
+          232,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          840
+        ],
+        [
+          1000,
+          838
+        ],
+        [
+          1000,
+          876
+        ],
+        [
+          232,
+          878
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        683,
+        1000,
+        723
+      ],
+      "text": "不繹。從而不改。吾末如之何也已矣。",
+      "confidence": 0.9777
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "十室之：邑必有忠信如丘者焉。公冶長",
+      "不繹。從而不改。吾末如之何也已矣。"
+    ],
+    "interlinear_triplets": []
+  }
+}

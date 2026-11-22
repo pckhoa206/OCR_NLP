@@ -1,0 +1,405 @@
+{
+  "page_id": "0090",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 90,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0090_han_000",
+      "bbox": [
+        [
+          271,
+          128
+        ],
+        [
+          593,
+          128
+        ],
+        [
+          593,
+          173
+        ],
+        [
+          271,
+          173
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          249
+        ],
+        [
+          593,
+          249
+        ],
+        [
+          593,
+          294
+        ],
+        [
+          271,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        128,
+        593,
+        173
+      ],
+      "text": "近塞上之人",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0090_han_001",
+      "bbox": [
+        [
+          271,
+          300
+        ],
+        [
+          522,
+          300
+        ],
+        [
+          522,
+          350
+        ],
+        [
+          271,
+          350
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          421
+        ],
+        [
+          522,
+          421
+        ],
+        [
+          522,
+          471
+        ],
+        [
+          271,
+          471
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        300,
+        522,
+        350
+      ],
+      "text": "有善術者",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0090_han_002",
+      "bbox": [
+        [
+          267,
+          475
+        ],
+        [
+          734,
+          475
+        ],
+        [
+          734,
+          522
+        ],
+        [
+          267,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          596
+        ],
+        [
+          734,
+          596
+        ],
+        [
+          734,
+          643
+        ],
+        [
+          267,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        475,
+        734,
+        522
+      ],
+      "text": "馬無故亡而入胡",
+      "confidence": 0.9766
+    },
+    {
+      "line_id": "0090_han_003",
+      "bbox": [
+        [
+          264,
+          650
+        ],
+        [
+          734,
+          650
+        ],
+        [
+          734,
+          697
+        ],
+        [
+          264,
+          697
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          771
+        ],
+        [
+          734,
+          771
+        ],
+        [
+          734,
+          818
+        ],
+        [
+          264,
+          818
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        650,
+        734,
+        697
+      ],
+      "text": "人皆弔之其父曰",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0090_han_004",
+      "bbox": [
+        [
+          266,
+          866
+        ],
+        [
+          736,
+          864
+        ],
+        [
+          737,
+          916
+        ],
+        [
+          266,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          987
+        ],
+        [
+          736,
+          985
+        ],
+        [
+          737,
+          1037
+        ],
+        [
+          266,
+          1039
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        864,
+        737,
+        918
+      ],
+      "text": "此何遽不爲福乎",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0090_han_005",
+      "bbox": [
+        [
+          266,
+          1040
+        ],
+        [
+          942,
+          1037
+        ],
+        [
+          942,
+          1088
+        ],
+        [
+          266,
+          1090
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1161
+        ],
+        [
+          942,
+          1158
+        ],
+        [
+          942,
+          1209
+        ],
+        [
+          266,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        1037,
+        942,
+        1090
+      ],
+      "text": "居數月馬將胡駿馬而歸",
+      "confidence": 0.998
+    },
+    {
+      "line_id": "0090_han_006",
+      "bbox": [
+        [
+          265,
+          1259
+        ],
+        [
+          733,
+          1259
+        ],
+        [
+          733,
+          1308
+        ],
+        [
+          265,
+          1308
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1380
+        ],
+        [
+          733,
+          1380
+        ],
+        [
+          733,
+          1429
+        ],
+        [
+          265,
+          1429
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1259,
+        733,
+        1308
+      ],
+      "text": "人皆賀之其父曰",
+      "confidence": 0.9873
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "近塞上之人",
+      "有善術者",
+      "馬無故亡而入胡",
+      "人皆弔之其父曰",
+      "此何遽不爲福乎",
+      "居數月馬將胡駿馬而歸",
+      "人皆賀之其父曰"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "近塞上之人",
+        "phien_am": "Cận tái thượng chi nhân,",
+        "dich_nghia_gloss": "Có người ở gần đồn ải biên giới"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "有善術者",
+        "phien_am": "hữu thiện thuật giả.",
+        "dich_nghia_gloss": "giỏi về thuật đạo gia."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "馬無故亡而入胡",
+        "phien_am": "Mã vô cõ vong nhi nhập hồ.",
+        "dich_nghia_gloss": "Con ngựa vô cồ chạy vào đất hô mất"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "人皆弔之其父曰",
+        "phien_am": "Nhân giai điều chi. Kỳ phụ viết",
+        "dich_nghia_gloss": "Những người khác đều đến chia buổn Người cha nói rằng:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "此何遽不爲福乎",
+        "phien_am": "a Thử hà cự bất vi phúc hồ ?n",
+        "dich_nghia_gloss": "a việc này biết đâu lại không là may ở ."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "居數月馬將胡駿馬而歸",
+        "phien_am": "Cư sồ nguyệt, mã tương hồ tuăn mã nhi quy.",
+        "dich_nghia_gloss": "Được vài tháng, con ngựa đó đem con ngựa Hồ tòt trở về."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "人皆賀之其父曰",
+        "phien_am": "Nhân giai hạ chi. Kỳ phụ viết",
+        "dich_nghia_gloss": "Những người khác đều đền chúc mừng Người cha nói rằng"
+      }
+    ]
+  }
+}

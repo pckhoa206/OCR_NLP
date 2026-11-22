@@ -1,0 +1,119 @@
+{
+  "page_id": "0173",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 173,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1269,
+    "footnote_separator_y_original": 1384,
+    "effective_width": 1122,
+    "effective_height": 1269
+  },
+  "items": [
+    {
+      "line_id": "0173_han_000",
+      "bbox": [
+        [
+          101,
+          831
+        ],
+        [
+          1068,
+          834
+        ],
+        [
+          1068,
+          873
+        ],
+        [
+          101,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          946
+        ],
+        [
+          1068,
+          949
+        ],
+        [
+          1068,
+          988
+        ],
+        [
+          101,
+          985
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        831,
+        1068,
+        873
+      ],
+      "text": "(阮氏家藏, sách tu gia) cúa dòng h Nguyn Huy  Truòng Luu",
+      "confidence": 0.9651
+    },
+    {
+      "line_id": "0173_han_001",
+      "bbox": [
+        [
+          98,
+          920
+        ],
+        [
+          1066,
+          922
+        ],
+        [
+          1066,
+          965
+        ],
+        [
+          98,
+          963
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1035
+        ],
+        [
+          1066,
+          1037
+        ],
+        [
+          1066,
+          1080
+        ],
+        [
+          98,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        920,
+        1066,
+        965
+      ],
+      "text": "mt bài T (賀阮貴侯及第家門榮盛叙 H Nguyn quý hu cp",
+      "confidence": 0.9422
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

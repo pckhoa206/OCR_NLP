@@ -1,0 +1,1083 @@
+{
+  "page_id": "0051",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 51,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0051_viet_000",
+      "bbox": [
+        [
+          184,
+          1012
+        ],
+        [
+          351,
+          1012
+        ],
+        [
+          351,
+          1050
+        ],
+        [
+          184,
+          1050
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1167
+        ],
+        [
+          351,
+          1167
+        ],
+        [
+          351,
+          1205
+        ],
+        [
+          184,
+          1205
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1012,
+        351,
+        1050
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0051_viet_001",
+      "bbox": [
+        [
+          578,
+          1060
+        ],
+        [
+          1014,
+          1060
+        ],
+        [
+          1014,
+          1101
+        ],
+        [
+          578,
+          1101
+        ]
+      ],
+      "bbox_original": [
+        [
+          578,
+          1215
+        ],
+        [
+          1014,
+          1215
+        ],
+        [
+          1014,
+          1256
+        ],
+        [
+          578,
+          1256
+        ]
+      ],
+      "box_xyxy": [
+        578,
+        1060,
+        1014,
+        1101
+      ],
+      "text": "PHỔ THUYẾT SẮC THÂN 10",
+      "confidence": 0.8782
+    },
+    {
+      "line_id": "0051_viet_002",
+      "bbox": [
+        [
+          275,
+          1136
+        ],
+        [
+          1411,
+          1137
+        ],
+        [
+          1411,
+          1182
+        ],
+        [
+          275,
+          1181
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          1291
+        ],
+        [
+          1411,
+          1292
+        ],
+        [
+          1411,
+          1337
+        ],
+        [
+          275,
+          1336
+        ]
+      ],
+      "box_xyxy": [
+        275,
+        1136,
+        1411,
+        1182
+      ],
+      "text": "Chư nhân đẳng ?: thân vì khồ bản, chất thị nghiệp nhân. Nhược tự dĩ",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0051_viet_003",
+      "bbox": [
+        [
+          183,
+          1176
+        ],
+        [
+          772,
+          1181
+        ],
+        [
+          772,
+          1222
+        ],
+        [
+          183,
+          1218
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1331
+        ],
+        [
+          772,
+          1336
+        ],
+        [
+          772,
+          1377
+        ],
+        [
+          183,
+          1373
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1176,
+        772,
+        1222
+      ],
+      "text": "thử vi chân. đã thị nhậu tặc tác ? tử.",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0051_viet_004",
+      "bbox": [
+        [
+          276,
+          1230
+        ],
+        [
+          1411,
+          1234
+        ],
+        [
+          1411,
+          1275
+        ],
+        [
+          276,
+          1271
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1385
+        ],
+        [
+          1411,
+          1389
+        ],
+        [
+          1411,
+          1430
+        ],
+        [
+          276,
+          1426
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1230,
+        1411,
+        1275
+      ],
+      "text": "Nhĩ khả tử tế khau iai, chỉ giá sắc thàn vị nhập bào thai chỉ nhật 47, ná",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0051_viet_005",
+      "bbox": [
+        [
+          183,
+          1270
+        ],
+        [
+          1413,
+          1274
+        ],
+        [
+          1413,
+          1314
+        ],
+        [
+          183,
+          1310
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1425
+        ],
+        [
+          1413,
+          1429
+        ],
+        [
+          1413,
+          1469
+        ],
+        [
+          183,
+          1465
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1270,
+        1413,
+        1314
+      ],
+      "text": "xử đắc hữu ở Cái do niệm khởi duyên hội, ngũ uấn hợp thành, thế mạo vọng",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0051_viet_006",
+      "bbox": [
+        [
+          182,
+          1310
+        ],
+        [
+          1412,
+          1313
+        ],
+        [
+          1412,
+          1353
+        ],
+        [
+          182,
+          1350
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1465
+        ],
+        [
+          1412,
+          1468
+        ],
+        [
+          1412,
+          1508
+        ],
+        [
+          182,
+          1505
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1310,
+        1412,
+        1353
+      ],
+      "text": "sinh, hình dung giả xuất, vong chân yong bản, hiện nguy hiện hư, Hoặc nữ",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0051_viet_007",
+      "bbox": [
+        [
+          184,
+          1350
+        ],
+        [
+          1411,
+          1352
+        ],
+        [
+          1411,
+          1390
+        ],
+        [
+          184,
+          1388
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1505
+        ],
+        [
+          1411,
+          1507
+        ],
+        [
+          1411,
+          1545
+        ],
+        [
+          184,
+          1543
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1350,
+        1411,
+        1390
+      ],
+      "text": "hoặc nam, hoặc nghiên hoặc xú, lận thị, tủng tâm phóng khứ, đô vô thoái bộ",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0051_viet_008",
+      "bbox": [
+        [
+          185,
+          1386
+        ],
+        [
+          1412,
+          1391
+        ],
+        [
+          1412,
+          1432
+        ],
+        [
+          185,
+          1427
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1541
+        ],
+        [
+          1412,
+          1546
+        ],
+        [
+          1412,
+          1587
+        ],
+        [
+          185,
+          1582
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1386,
+        1412,
+        1432
+      ],
+      "text": "hồi quy. Khu trì sinh tử lộ đầu, thất khước bản lai diện mục. Do thị cung mâu",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0051_viet_009",
+      "bbox": [
+        [
+          184,
+          1426
+        ],
+        [
+          1413,
+          1430
+        ],
+        [
+          1413,
+          1471
+        ],
+        [
+          184,
+          1467
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1581
+        ],
+        [
+          1413,
+          1585
+        ],
+        [
+          1413,
+          1626
+        ],
+        [
+          184,
+          1622
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1426,
+        1413,
+        1471
+      ],
+      "text": "ngoại nhận, thuy trì cổ thủ nội khan, Lai thời sinh thị hóa sinh, đáo xứ mộng",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0051_viet_010",
+      "bbox": [
+        [
+          185,
+          1467
+        ],
+        [
+          1412,
+          1470
+        ],
+        [
+          1412,
+          1508
+        ],
+        [
+          185,
+          1505
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1622
+        ],
+        [
+          1412,
+          1625
+        ],
+        [
+          1412,
+          1663
+        ],
+        [
+          185,
+          1660
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1467,
+        1412,
+        1508
+      ],
+      "text": "trung thuyết mộng, Ba ba lục lục, dịch dịch thông thông, dĩ huyền vì châu",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0051_viet_011",
+      "bbox": [
+        [
+          183,
+          1504
+        ],
+        [
+          1410,
+          1508
+        ],
+        [
+          1410,
+          1549
+        ],
+        [
+          183,
+          1545
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1659
+        ],
+        [
+          1410,
+          1663
+        ],
+        [
+          1410,
+          1704
+        ],
+        [
+          183,
+          1700
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1504,
+        1410,
+        1549
+      ],
+      "text": "bội không xu sắc. Khô lâu thược tháp hoa trâm ngọc: xứ bì đại đới xạ huân",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0051_viet_012",
+      "bbox": [
+        [
+          183,
+          1542
+        ],
+        [
+          1412,
+          1547
+        ],
+        [
+          1412,
+          1588
+        ],
+        [
+          183,
+          1583
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          1697
+        ],
+        [
+          1412,
+          1702
+        ],
+        [
+          1412,
+          1743
+        ],
+        [
+          183,
+          1738
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1542,
+        1412,
+        1588
+      ],
+      "text": "lan. Tiễn la ý khòa nùng huyết nảng, điều duyên hoa ? ngự thi niệu thung.",
+      "confidence": 0.8746
+    },
+    {
+      "line_id": "0051_viet_013",
+      "bbox": [
+        [
+          184,
+          1581
+        ],
+        [
+          1413,
+          1585
+        ],
+        [
+          1413,
+          1626
+        ],
+        [
+          184,
+          1622
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1736
+        ],
+        [
+          1413,
+          1740
+        ],
+        [
+          1413,
+          1781
+        ],
+        [
+          184,
+          1777
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1581,
+        1413,
+        1626
+      ],
+      "text": "Như tư ngoại sức, chung thị uế căn. Bất năng giả lý tự tâm: phản hướng cả",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0051_viet_014",
+      "bbox": [
+        [
+          185,
+          1620
+        ],
+        [
+          1413,
+          1623
+        ],
+        [
+          1413,
+          1665
+        ],
+        [
+          185,
+          1661
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1775
+        ],
+        [
+          1413,
+          1778
+        ],
+        [
+          1413,
+          1820
+        ],
+        [
+          185,
+          1816
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1620,
+        1413,
+        1665
+      ],
+      "text": "trung trước ái?? Chư nhân đẳng l: Đại tự cơ quan khói lỗi, toàn bằng ti tuyển",
+      "confidence": 0.8808
+    },
+    {
+      "line_id": "0051_viet_015",
+      "bbox": [
+        [
+          184,
+          1656
+        ],
+        [
+          1416,
+          1661
+        ],
+        [
+          1416,
+          1705
+        ],
+        [
+          184,
+          1701
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1811
+        ],
+        [
+          1416,
+          1816
+        ],
+        [
+          1416,
+          1860
+        ],
+        [
+          184,
+          1856
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1656,
+        1416,
+        1705
+      ],
+      "text": "khiên trừu: lộng lai lộng khứ dữ sinh đồng. phóng hậu tbu ? thời chân tử",
+      "confidence": 0.8938
+    },
+    {
+      "line_id": "0051_viet_016",
+      "bbox": [
+        [
+          186,
+          1696
+        ],
+        [
+          1415,
+          1701
+        ],
+        [
+          1415,
+          1745
+        ],
+        [
+          186,
+          1740
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1851
+        ],
+        [
+          1415,
+          1856
+        ],
+        [
+          1415,
+          1900
+        ],
+        [
+          186,
+          1895
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1696,
+        1415,
+        1745
+      ],
+      "text": "dạng. Tự khởi vận ban kể hiệu, đô duyên lục tạc giao công: bất ưu lào bệnh",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0051_viet_017",
+      "bbox": [
+        [
+          186,
+          1736
+        ],
+        [
+          1413,
+          1741
+        ],
+        [
+          1413,
+          1782
+        ],
+        [
+          186,
+          1777
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1891
+        ],
+        [
+          1413,
+          1896
+        ],
+        [
+          1413,
+          1937
+        ],
+        [
+          186,
+          1932
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1736,
+        1413,
+        1782
+      ],
+      "text": "tử lai, quản tham tửu sắc tài khứ. Đồ cạnh dăng dầu oa giác, cam vi lợi tỏa",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0051_viet_018",
+      "bbox": [
+        [
+          185,
+          1774
+        ],
+        [
+          1415,
+          1779
+        ],
+        [
+          1415,
+          1823
+        ],
+        [
+          185,
+          1818
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          1929
+        ],
+        [
+          1415,
+          1934
+        ],
+        [
+          1415,
+          1978
+        ],
+        [
+          185,
+          1973
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        1774,
+        1415,
+        1823
+      ],
+      "text": "danh cương. Nhật gian phí tận hãnh ? cầu, đạ lý phiêa thành mộng tưởng, Tích",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0051_viet_019",
+      "bbox": [
+        [
+          186,
+          1812
+        ],
+        [
+          1416,
+          1817
+        ],
+        [
+          1416,
+          1864
+        ],
+        [
+          186,
+          1859
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1967
+        ],
+        [
+          1416,
+          1972
+        ],
+        [
+          1416,
+          2019
+        ],
+        [
+          186,
+          2014
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1812,
+        1416,
+        1864
+      ],
+      "text": "đắc nghiệp cấu như tỉnh, bất trì mấn phát tự sương. Nhất triều hoạn nhiễm",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0051_viet_020",
+      "bbox": [
+        [
+          186,
+          1851
+        ],
+        [
+          1416,
+          1857
+        ],
+        [
+          1416,
+          1905
+        ],
+        [
+          186,
+          1899
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          2006
+        ],
+        [
+          1416,
+          2012
+        ],
+        [
+          1416,
+          2060
+        ],
+        [
+          186,
+          2054
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1851,
+        1416,
+        1905
+      ],
+      "text": "trầm kha, bách tuế ? chung quy đại mộng, Tâm can đồng thống, phần nhược",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0051_viet_021",
+      "bbox": [
+        [
+          186,
+          1891
+        ],
+        [
+          1416,
+          1894
+        ],
+        [
+          1416,
+          1943
+        ],
+        [
+          186,
+          1940
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          2046
+        ],
+        [
+          1416,
+          2049
+        ],
+        [
+          1416,
+          2098
+        ],
+        [
+          186,
+          2095
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1891,
+        1416,
+        1943
+      ],
+      "text": "oan thù, cơ thể suy vì chân như ngã quy  Thượng dục kỳ thân đảo mệnh, bất",
+      "confidence": 0.8759
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "PHỔ THUYẾT SẮC THÂN 10",
+      "Chư nhân đẳng ?: thân vì khồ bản, chất thị nghiệp nhân. Nhược tự dĩ",
+      "thử vi chân. đã thị nhậu tặc tác ? tử.",
+      "Nhĩ khả tử tế khau iai, chỉ giá sắc thàn vị nhập bào thai chỉ nhật 47, ná",
+      "xử đắc hữu ở Cái do niệm khởi duyên hội, ngũ uấn hợp thành, thế mạo vọng",
+      "sinh, hình dung giả xuất, vong chân yong bản, hiện nguy hiện hư, Hoặc nữ",
+      "hoặc nam, hoặc nghiên hoặc xú, lận thị, tủng tâm phóng khứ, đô vô thoái bộ",
+      "hồi quy. Khu trì sinh tử lộ đầu, thất khước bản lai diện mục. Do thị cung mâu",
+      "ngoại nhận, thuy trì cổ thủ nội khan, Lai thời sinh thị hóa sinh, đáo xứ mộng",
+      "trung thuyết mộng, Ba ba lục lục, dịch dịch thông thông, dĩ huyền vì châu",
+      "bội không xu sắc. Khô lâu thược tháp hoa trâm ngọc: xứ bì đại đới xạ huân",
+      "lan. Tiễn la ý khòa nùng huyết nảng, điều duyên hoa ? ngự thi niệu thung.",
+      "Như tư ngoại sức, chung thị uế căn. Bất năng giả lý tự tâm: phản hướng cả",
+      "trung trước ái?? Chư nhân đẳng l: Đại tự cơ quan khói lỗi, toàn bằng ti tuyển",
+      "khiên trừu: lộng lai lộng khứ dữ sinh đồng. phóng hậu tbu ? thời chân tử",
+      "dạng. Tự khởi vận ban kể hiệu, đô duyên lục tạc giao công: bất ưu lào bệnh",
+      "tử lai, quản tham tửu sắc tài khứ. Đồ cạnh dăng dầu oa giác, cam vi lợi tỏa",
+      "danh cương. Nhật gian phí tận hãnh ? cầu, đạ lý phiêa thành mộng tưởng, Tích",
+      "đắc nghiệp cấu như tỉnh, bất trì mấn phát tự sương. Nhất triều hoạn nhiễm",
+      "trầm kha, bách tuế ? chung quy đại mộng, Tâm can đồng thống, phần nhược",
+      "oan thù, cơ thể suy vì chân như ngã quy  Thượng dục kỳ thân đảo mệnh, bất"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

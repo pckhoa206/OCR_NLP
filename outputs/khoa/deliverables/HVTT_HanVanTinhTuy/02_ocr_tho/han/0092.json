@@ -1,0 +1,405 @@
+{
+  "page_id": "0092",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 92,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0092_han_000",
+      "bbox": [
+        [
+          266,
+          127
+        ],
+        [
+          805,
+          127
+        ],
+        [
+          805,
+          178
+        ],
+        [
+          266,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          248
+        ],
+        [
+          805,
+          248
+        ],
+        [
+          805,
+          299
+        ],
+        [
+          266,
+          299
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        127,
+        805,
+        178
+      ],
+      "text": "此何遽不能為禍乎",
+      "confidence": 0.9835
+    },
+    {
+      "line_id": "0092_han_001",
+      "bbox": [
+        [
+          269,
+          314
+        ],
+        [
+          804,
+          314
+        ],
+        [
+          804,
+          363
+        ],
+        [
+          269,
+          363
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          435
+        ],
+        [
+          804,
+          435
+        ],
+        [
+          804,
+          484
+        ],
+        [
+          269,
+          484
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        314,
+        804,
+        363
+      ],
+      "text": "家富良馬其子好騎",
+      "confidence": 0.999
+    },
+    {
+      "line_id": "0092_han_002",
+      "bbox": [
+        [
+          270,
+          500
+        ],
+        [
+          593,
+          500
+        ],
+        [
+          593,
+          552
+        ],
+        [
+          270,
+          552
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          621
+        ],
+        [
+          593,
+          621
+        ],
+        [
+          593,
+          673
+        ],
+        [
+          270,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        500,
+        593,
+        552
+      ],
+      "text": "墮而折其髀",
+      "confidence": 0.9948
+    },
+    {
+      "line_id": "0092_han_003",
+      "bbox": [
+        [
+          266,
+          689
+        ],
+        [
+          733,
+          686
+        ],
+        [
+          734,
+          737
+        ],
+        [
+          266,
+          740
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          810
+        ],
+        [
+          733,
+          807
+        ],
+        [
+          734,
+          858
+        ],
+        [
+          266,
+          861
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        686,
+        734,
+        740
+      ],
+      "text": "人皆弔之其父曰",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0092_han_004",
+      "bbox": [
+        [
+          272,
+          928
+        ],
+        [
+          740,
+          928
+        ],
+        [
+          740,
+          975
+        ],
+        [
+          272,
+          975
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1049
+        ],
+        [
+          740,
+          1049
+        ],
+        [
+          740,
+          1096
+        ],
+        [
+          272,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        928,
+        740,
+        975
+      ],
+      "text": "此何遽不為福乎",
+      "confidence": 0.9694
+    },
+    {
+      "line_id": "0092_han_005",
+      "bbox": [
+        [
+          270,
+          1115
+        ],
+        [
+          806,
+          1115
+        ],
+        [
+          806,
+          1163
+        ],
+        [
+          270,
+          1163
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1236
+        ],
+        [
+          806,
+          1236
+        ],
+        [
+          806,
+          1284
+        ],
+        [
+          270,
+          1284
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1115,
+        806,
+        1163
+      ],
+      "text": "居一年胡人大入塞",
+      "confidence": 0.9983
+    },
+    {
+      "line_id": "0092_han_006",
+      "bbox": [
+        [
+          272,
+          1301
+        ],
+        [
+          736,
+          1301
+        ],
+        [
+          736,
+          1349
+        ],
+        [
+          272,
+          1349
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1422
+        ],
+        [
+          736,
+          1422
+        ],
+        [
+          736,
+          1470
+        ],
+        [
+          272,
+          1470
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1301,
+        736,
+        1349
+      ],
+      "text": "丁壯者引弦而戰",
+      "confidence": 0.9663
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "此何遽不能為禍乎",
+      "家富良馬其子好騎",
+      "墮而折其髀",
+      "人皆弔之其父曰",
+      "此何遽不為福乎",
+      "居一年胡人大入塞",
+      "丁壯者引弦而戰"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "此何遽不能為禍乎",
+        "phien_am": "a Thử hà cự bất năng vi họa hồ 2s",
+        "dich_nghia_gloss": "a việc này biết đâu lại không thể là rủi P..."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "家富良馬其子好騎",
+        "phien_am": "Gia phú lương mã. Kỳ tử hiếu ky,",
+        "dich_nghia_gloss": "Nhà thêm ngựa tốt. người con ham cưỡi ngựa,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "墮而折其髀",
+        "phien_am": "đọa nhi chiết kỳ bề",
+        "dich_nghia_gloss": "té gẫy đùi."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "人皆弔之其父曰",
+        "phien_am": "Nhân giai điều chi. Kỳ phụ viết",
+        "dich_nghia_gloss": "Những người khác đều đên hỏi thăm chia buồn Người cha nói rằng:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "此何遽不為福乎",
+        "phien_am": "a Thứ hà cự bất vi phúc hồ ?n",
+        "dich_nghia_gloss": "a việc này biết đâu lại không phải là may 7..."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "居一年胡人大入塞",
+        "phien_am": "Cư nhất niên. Hồ nhân đại nhập tái.",
+        "dich_nghia_gloss": "Được một năm, người hồ ủa vào đón ải"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "丁壯者引弦而戰",
+        "phien_am": "Đinh tráng giả dân huyền nhi chiến",
+        "dich_nghia_gloss": "Kẻ trai-tráng trương cung ra kháng cự"
+      }
+    ]
+  }
+}

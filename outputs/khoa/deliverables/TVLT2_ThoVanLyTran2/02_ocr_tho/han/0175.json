@@ -1,0 +1,166 @@
+{
+  "page_id": "0175",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 175,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0175_han_000",
+      "bbox": [
+        [
+          175,
+          1097
+        ],
+        [
+          569,
+          1088
+        ],
+        [
+          570,
+          1129
+        ],
+        [
+          176,
+          1138
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1252
+        ],
+        [
+          569,
+          1243
+        ],
+        [
+          570,
+          1284
+        ],
+        [
+          176,
+          1293
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1088,
+        570,
+        1138
+      ],
+      "text": "1* KHL1 : thèm chù vān 文",
+      "confidence": 0.8379
+    },
+    {
+      "line_id": "0175_han_001",
+      "bbox": [
+        [
+          173,
+          1258
+        ],
+        [
+          468,
+          1255
+        ],
+        [
+          468,
+          1292
+        ],
+        [
+          173,
+          1295
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1413
+        ],
+        [
+          468,
+          1410
+        ],
+        [
+          468,
+          1447
+        ],
+        [
+          173,
+          1450
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1255,
+        468,
+        1295
+      ],
+      "text": "5* KHL1: toàn 全",
+      "confidence": 0.8701
+    },
+    {
+      "line_id": "0175_han_002",
+      "bbox": [
+        [
+          172,
+          1335
+        ],
+        [
+          565,
+          1337
+        ],
+        [
+          564,
+          1375
+        ],
+        [
+          172,
+          1373
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1490
+        ],
+        [
+          565,
+          1492
+        ],
+        [
+          564,
+          1530
+        ],
+        [
+          172,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1335,
+        565,
+        1375
+      ],
+      "text": "7° KHL1: bát khà 不可",
+      "confidence": 0.8224
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

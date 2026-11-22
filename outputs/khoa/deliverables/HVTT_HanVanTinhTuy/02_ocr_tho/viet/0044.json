@@ -1,0 +1,940 @@
+{
+  "page_id": "0044",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 44,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0044_viet_000",
+      "bbox": [
+        [
+          197,
+          30
+        ],
+        [
+          239,
+          30
+        ],
+        [
+          239,
+          66
+        ],
+        [
+          197,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          151
+        ],
+        [
+          239,
+          151
+        ],
+        [
+          239,
+          187
+        ],
+        [
+          197,
+          187
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        30,
+        239,
+        66
+      ],
+      "text": "38",
+      "confidence": 0.9356
+    },
+    {
+      "line_id": "0044_viet_001",
+      "bbox": [
+        [
+          666,
+          31
+        ],
+        [
+          989,
+          31
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          666,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          152
+        ],
+        [
+          989,
+          152
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          666,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        31,
+        989,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0044_viet_002",
+      "bbox": [
+        [
+          202,
+          184
+        ],
+        [
+          561,
+          186
+        ],
+        [
+          561,
+          224
+        ],
+        [
+          202,
+          222
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          305
+        ],
+        [
+          561,
+          307
+        ],
+        [
+          561,
+          345
+        ],
+        [
+          202,
+          343
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        184,
+        561,
+        224
+      ],
+      "text": "Dữ sử Xúc vi mộ thẽ,",
+      "confidence": 0.8944
+    },
+    {
+      "line_id": "0044_viet_003",
+      "bbox": [
+        [
+          226,
+          227
+        ],
+        [
+          808,
+          229
+        ],
+        [
+          808,
+          270
+        ],
+        [
+          226,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          348
+        ],
+        [
+          808,
+          350
+        ],
+        [
+          808,
+          391
+        ],
+        [
+          226,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        227,
+        808,
+        270
+      ],
+      "text": "Đề cho xúc mang tiềng mộ quyền thê",
+      "confidence": 0.888
+    },
+    {
+      "line_id": "0044_viet_004",
+      "bbox": [
+        [
+          200,
+          352
+        ],
+        [
+          645,
+          355
+        ],
+        [
+          645,
+          392
+        ],
+        [
+          200,
+          390
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          473
+        ],
+        [
+          645,
+          476
+        ],
+        [
+          645,
+          513
+        ],
+        [
+          200,
+          511
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        352,
+        645,
+        392
+      ],
+      "text": "Bất như sử Vương vi xu sĩ",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0044_viet_005",
+      "bbox": [
+        [
+          225,
+          398
+        ],
+        [
+          886,
+          397
+        ],
+        [
+          886,
+          437
+        ],
+        [
+          225,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          519
+        ],
+        [
+          886,
+          518
+        ],
+        [
+          886,
+          558
+        ],
+        [
+          225,
+          559
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        397,
+        886,
+        438
+      ],
+      "text": "không bằng để vua được tiêng chuộng kẻ sĩ.",
+      "confidence": 0.9166
+    },
+    {
+      "line_id": "0044_viet_006",
+      "bbox": [
+        [
+          200,
+          520
+        ],
+        [
+          733,
+          520
+        ],
+        [
+          733,
+          560
+        ],
+        [
+          200,
+          560
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          641
+        ],
+        [
+          733,
+          641
+        ],
+        [
+          733,
+          681
+        ],
+        [
+          200,
+          681
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        520,
+        733,
+        560
+      ],
+      "text": "Vương phần nhiên tác sắc, viêt:",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0044_viet_007",
+      "bbox": [
+        [
+          227,
+          566
+        ],
+        [
+          448,
+          566
+        ],
+        [
+          448,
+          608
+        ],
+        [
+          227,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          687
+        ],
+        [
+          448,
+          687
+        ],
+        [
+          448,
+          729
+        ],
+        [
+          227,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        566,
+        448,
+        608
+      ],
+      "text": "Vua giận, nói",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0044_viet_008",
+      "bbox": [
+        [
+          200,
+          689
+        ],
+        [
+          901,
+          689
+        ],
+        [
+          901,
+          730
+        ],
+        [
+          200,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          810
+        ],
+        [
+          901,
+          810
+        ],
+        [
+          901,
+          851
+        ],
+        [
+          200,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        689,
+        901,
+        730
+      ],
+      "text": "Vương giả quý hồ ? Đõi viết: Sĩ quý nhĩ",
+      "confidence": 0.8808
+    },
+    {
+      "line_id": "0044_viet_009",
+      "bbox": [
+        [
+          228,
+          735
+        ],
+        [
+          886,
+          735
+        ],
+        [
+          886,
+          775
+        ],
+        [
+          228,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          856
+        ],
+        [
+          886,
+          856
+        ],
+        [
+          886,
+          896
+        ],
+        [
+          228,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        735,
+        886,
+        775
+      ],
+      "text": "Vua quý hay không ở Xúc thưa: sĩ mới quý",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0044_viet_010",
+      "bbox": [
+        [
+          196,
+          857
+        ],
+        [
+          509,
+          859
+        ],
+        [
+          509,
+          900
+        ],
+        [
+          196,
+          898
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          978
+        ],
+        [
+          509,
+          980
+        ],
+        [
+          509,
+          1021
+        ],
+        [
+          196,
+          1019
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        857,
+        509,
+        900
+      ],
+      "text": "Vương-giả bãt quý.",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0044_viet_011",
+      "bbox": [
+        [
+          224,
+          904
+        ],
+        [
+          451,
+          904
+        ],
+        [
+          451,
+          945
+        ],
+        [
+          224,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1025
+        ],
+        [
+          451,
+          1025
+        ],
+        [
+          451,
+          1066
+        ],
+        [
+          224,
+          1066
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        904,
+        451,
+        945
+      ],
+      "text": "vua không quý",
+      "confidence": 0.9355
+    },
+    {
+      "line_id": "0044_viet_012",
+      "bbox": [
+        [
+          198,
+          1026
+        ],
+        [
+          683,
+          1026
+        ],
+        [
+          683,
+          1067
+        ],
+        [
+          198,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1147
+        ],
+        [
+          683,
+          1147
+        ],
+        [
+          683,
+          1188
+        ],
+        [
+          198,
+          1188
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1026,
+        683,
+        1067
+      ],
+      "text": "Vương viết: Hữu thuyết hồ?",
+      "confidence": 0.8907
+    },
+    {
+      "line_id": "0044_viet_013",
+      "bbox": [
+        [
+          224,
+          1073
+        ],
+        [
+          607,
+          1075
+        ],
+        [
+          607,
+          1113
+        ],
+        [
+          224,
+          1111
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1194
+        ],
+        [
+          607,
+          1196
+        ],
+        [
+          607,
+          1234
+        ],
+        [
+          224,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1073,
+        607,
+        1113
+      ],
+      "text": "Vua nói: có gì làm bằng?",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0044_viet_014",
+      "bbox": [
+        [
+          197,
+          1196
+        ],
+        [
+          831,
+          1196
+        ],
+        [
+          831,
+          1236
+        ],
+        [
+          197,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1317
+        ],
+        [
+          831,
+          1317
+        ],
+        [
+          831,
+          1357
+        ],
+        [
+          197,
+          1357
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1196,
+        831,
+        1236
+      ],
+      "text": "Đõi viết: hữu. Tích giả Tần công Tề,",
+      "confidence": 0.8745
+    },
+    {
+      "line_id": "0044_viet_015",
+      "bbox": [
+        [
+          226,
+          1243
+        ],
+        [
+          666,
+          1243
+        ],
+        [
+          666,
+          1278
+        ],
+        [
+          226,
+          1278
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1364
+        ],
+        [
+          666,
+          1364
+        ],
+        [
+          666,
+          1399
+        ],
+        [
+          226,
+          1399
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1243,
+        666,
+        1278
+      ],
+      "text": "Thưa: Có. Xưa Tần đánh Tế",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0044_viet_016",
+      "bbox": [
+        [
+          195,
+          1366
+        ],
+        [
+          811,
+          1368
+        ],
+        [
+          811,
+          1408
+        ],
+        [
+          195,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1487
+        ],
+        [
+          811,
+          1489
+        ],
+        [
+          811,
+          1529
+        ],
+        [
+          195,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1366,
+        811,
+        1408
+      ],
+      "text": "lệnh hữu cảm khứ Liêu-hạ-Quý lũng",
+      "confidence": 0.9232
+    },
+    {
+      "line_id": "0044_viet_017",
+      "bbox": [
+        [
+          222,
+          1411
+        ],
+        [
+          757,
+          1414
+        ],
+        [
+          756,
+          1452
+        ],
+        [
+          222,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          1532
+        ],
+        [
+          757,
+          1535
+        ],
+        [
+          756,
+          1573
+        ],
+        [
+          222,
+          1570
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1411,
+        757,
+        1452
+      ],
+      "text": "có lệnh ai dám đền mộ Liễu-hạ-Quý",
+      "confidence": 0.925
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Dữ sử Xúc vi mộ thẽ,",
+      "Bất như sử Vương vi xu sĩ",
+      "Vương phần nhiên tác sắc, viêt:",
+      "Vương giả quý hồ ? Đõi viết: Sĩ quý nhĩ",
+      "Vương-giả bãt quý.",
+      "Vương viết: Hữu thuyết hồ?",
+      "Đõi viết: hữu. Tích giả Tần công Tề,",
+      "lệnh hữu cảm khứ Liêu-hạ-Quý lũng"
+    ],
+    "dich_nghia_lines": [
+      "Đề cho xúc mang tiềng mộ quyền thê",
+      "không bằng để vua được tiêng chuộng kẻ sĩ.",
+      "Vua giận, nói",
+      "Vua quý hay không ở Xúc thưa: sĩ mới quý",
+      "vua không quý",
+      "Vua nói: có gì làm bằng?",
+      "Thưa: Có. Xưa Tần đánh Tế",
+      "có lệnh ai dám đền mộ Liễu-hạ-Quý"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "與使觸為慕勢",
+        "phien_am": "Dữ sử Xúc vi mộ thẽ,",
+        "dich_nghia_gloss": "Đề cho xúc mang tiềng mộ quyền thê"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "不如使王為趙士",
+        "phien_am": "Bất như sử Vương vi xu sĩ",
+        "dich_nghia_gloss": "không bằng để vua được tiêng chuộng kẻ sĩ."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "王忿然作色曰",
+        "phien_am": "Vương phần nhiên tác sắc, viêt:",
+        "dich_nghia_gloss": "Vua giận, nói"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王者貴乎對曰士貴耳",
+        "phien_am": "Vương giả quý hồ ? Đõi viết: Sĩ quý nhĩ",
+        "dich_nghia_gloss": "Vua quý hay không ở Xúc thưa: sĩ mới quý"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "王者不貴",
+        "phien_am": "Vương-giả bãt quý.",
+        "dich_nghia_gloss": "vua không quý"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "王曰有說乎",
+        "phien_am": "Vương viết: Hữu thuyết hồ?",
+        "dich_nghia_gloss": "Vua nói: có gì làm bằng?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "對曰有昔者秦攻齊",
+        "phien_am": "Đõi viết: hữu. Tích giả Tần công Tề,",
+        "dich_nghia_gloss": "Thưa: Có. Xưa Tần đánh Tế"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "今有敢去柳下季壟",
+        "phien_am": "lệnh hữu cảm khứ Liêu-hạ-Quý lũng",
+        "dich_nghia_gloss": "có lệnh ai dám đền mộ Liễu-hạ-Quý"
+      }
+    ]
+  }
+}

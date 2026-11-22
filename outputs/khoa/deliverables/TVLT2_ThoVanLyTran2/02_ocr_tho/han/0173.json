@@ -1,0 +1,166 @@
+{
+  "page_id": "0173",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 173,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0173_han_000",
+      "bbox": [
+        [
+          516,
+          653
+        ],
+        [
+          557,
+          653
+        ],
+        [
+          557,
+          696
+        ],
+        [
+          516,
+          696
+        ]
+      ],
+      "bbox_original": [
+        [
+          516,
+          808
+        ],
+        [
+          557,
+          808
+        ],
+        [
+          557,
+          851
+        ],
+        [
+          516,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        516,
+        653,
+        557,
+        696
+      ],
+      "text": "靈",
+      "confidence": 0.834
+    },
+    {
+      "line_id": "0173_han_001",
+      "bbox": [
+        [
+          230,
+          693
+        ],
+        [
+          480,
+          700
+        ],
+        [
+          479,
+          741
+        ],
+        [
+          229,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          848
+        ],
+        [
+          480,
+          855
+        ],
+        [
+          479,
+          896
+        ],
+        [
+          229,
+          890
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        693,
+        480,
+        741
+      ],
+      "text": "KHL1 : däng 汤",
+      "confidence": 0.7891
+    },
+    {
+      "line_id": "0173_han_002",
+      "bbox": [
+        [
+          183,
+          787
+        ],
+        [
+          220,
+          783
+        ],
+        [
+          222,
+          812
+        ],
+        [
+          185,
+          815
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          942
+        ],
+        [
+          220,
+          938
+        ],
+        [
+          222,
+          967
+        ],
+        [
+          185,
+          970
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        783,
+        222,
+        815
+      ],
+      "text": "S中",
+      "confidence": 0.3712
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

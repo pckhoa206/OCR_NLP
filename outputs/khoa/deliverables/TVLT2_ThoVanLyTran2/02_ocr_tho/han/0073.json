@@ -1,0 +1,260 @@
+{
+  "page_id": "0073",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 73,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0073_han_000",
+      "bbox": [
+        [
+          184,
+          1308
+        ],
+        [
+          763,
+          1308
+        ],
+        [
+          763,
+          1370
+        ],
+        [
+          184,
+          1370
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1463
+        ],
+        [
+          763,
+          1463
+        ],
+        [
+          763,
+          1525
+        ],
+        [
+          184,
+          1525
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1308,
+        763,
+        1370
+      ],
+      "text": "1* Kii ?: chú 見 curu quan : nghǐa là :chǔ quan 関 náy bān cǔ viět là quan 觀.",
+      "confidence": 0.862
+    },
+    {
+      "line_id": "0073_han_001",
+      "bbox": [
+        [
+          182,
+          1452
+        ],
+        [
+          1423,
+          1450
+        ],
+        [
+          1423,
+          1497
+        ],
+        [
+          182,
+          1499
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1607
+        ],
+        [
+          1423,
+          1605
+        ],
+        [
+          1423,
+          1652
+        ],
+        [
+          182,
+          1654
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1450,
+        1423,
+        1499
+      ],
+      "text": "(1) Bàn Son : möt cao tāng dòi Đuròng 唐, vi tu  Bàn-son   nèn thành tèn. Bàn-",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0073_han_002",
+      "bbox": [
+        [
+          248,
+          1496
+        ],
+        [
+          763,
+          1496
+        ],
+        [
+          763,
+          1534
+        ],
+        [
+          248,
+          1534
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1651
+        ],
+        [
+          763,
+          1651
+        ],
+        [
+          763,
+          1689
+        ],
+        [
+          248,
+          1689
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1496,
+        763,
+        1534
+      ],
+      "text": "son thuöc huyên Ké  , miěn Kinh-triu 京 飞",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0073_han_003",
+      "bbox": [
+        [
+          182,
+          1778
+        ],
+        [
+          763,
+          1778
+        ],
+        [
+          763,
+          1833
+        ],
+        [
+          182,
+          1833
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1933
+        ],
+        [
+          763,
+          1933
+        ],
+        [
+          763,
+          1988
+        ],
+        [
+          182,
+          1988
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1778,
+        763,
+        1833
+      ],
+      "text": "(1) Mā tü: túre thièn su Mă Dao Nhát 馬道一 (?—788), nguròi Hán-chau 漠州, tru",
+      "confidence": 0.8485
+    },
+    {
+      "line_id": "0073_han_004",
+      "bbox": [
+        [
+          247,
+          1824
+        ],
+        [
+          763,
+          1824
+        ],
+        [
+          763,
+          1866
+        ],
+        [
+          247,
+          1866
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1979
+        ],
+        [
+          763,
+          1979
+        ],
+        [
+          763,
+          2021
+        ],
+        [
+          247,
+          2021
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1824,
+        763,
+        1866
+      ],
+      "text": "tri or nui Cung-cong son 龍公山， phù Nam-khang 南康，tinh Giang-tày 江西",
+      "confidence": 0.8922
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

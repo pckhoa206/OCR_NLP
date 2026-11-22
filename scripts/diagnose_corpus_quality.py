@@ -58,12 +58,16 @@ def diagnose_book(book_key: str, workspace_root: Path = ROOT_DIR) -> Dict[str, A
         han_str = row[0]
         if len(row) >= 4:
             combined_v = f"{row[1]} {row[2]} {row[3]}".strip()
-            trans_only = row[2] if row[2].strip() else row[3]
+            trans_only = (
+                row[2]
+                if row[2].strip()
+                else (row[3] if row[3].strip() else row[1])
+            )
         else:
             combined_v = row[1] if len(row) > 1 else ""
             trans_only = combined_v
 
-        word_res = align_words_in_pair(han_str, combined_v)
+        word_res = align_words_in_pair(han_str, combined_v, length_text=trans_only)
         conf = word_res["confidence_score"]
         han_cov = word_res["han_coverage_pct"]
         unmatched = word_res["unmatched_han"]

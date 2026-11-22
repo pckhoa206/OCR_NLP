@@ -1,0 +1,732 @@
+{
+  "page_id": "0067",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 67,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0067_han_000",
+      "bbox": [
+        [
+          237,
+          156
+        ],
+        [
+          763,
+          156
+        ],
+        [
+          763,
+          198
+        ],
+        [
+          237,
+          198
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          311
+        ],
+        [
+          763,
+          311
+        ],
+        [
+          763,
+          353
+        ],
+        [
+          237,
+          353
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        156,
+        763,
+        198
+      ],
+      "text": "Vè sau òng cǔng xin vè làm nhà  Đông-dó 秉 右 dǎt tèn hièu là Luc Dā Thão",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0067_han_001",
+      "bbox": [
+        [
+          235,
+          189
+        ],
+        [
+          763,
+          189
+        ],
+        [
+          763,
+          232
+        ],
+        [
+          235,
+          232
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          344
+        ],
+        [
+          763,
+          344
+        ],
+        [
+          763,
+          387
+        ],
+        [
+          235,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        189,
+        763,
+        232
+      ],
+      "text": "Duòng  里予 草 堂， thuong cùng các danh sì uöng rrgu, ngàm tho, khòng bàn",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0067_han_002",
+      "bbox": [
+        [
+          236,
+          222
+        ],
+        [
+          1401,
+          222
+        ],
+        [
+          1401,
+          265
+        ],
+        [
+          236,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          377
+        ],
+        [
+          1401,
+          377
+        ],
+        [
+          1401,
+          420
+        ],
+        [
+          236,
+          420
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        222,
+        1401,
+        265
+      ],
+      "text": "gi dén vic dói nira. Thach Suong : mōt cao tăng doi Duròng tèn là So Vièn  圆",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0067_han_003",
+      "bbox": [
+        [
+          237,
+          288
+        ],
+        [
+          763,
+          288
+        ],
+        [
+          763,
+          330
+        ],
+        [
+          237,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          443
+        ],
+        [
+          763,
+          443
+        ],
+        [
+          763,
+          485
+        ],
+        [
+          237,
+          485
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        288,
+        763,
+        330
+      ],
+      "text": "Ong là nguri khoi xurong ra hai phái Hoàng long 黄  và Duong ky 木易支. Xem",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0067_han_004",
+      "bbox": [
+        [
+          170,
+          414
+        ],
+        [
+          1392,
+          405
+        ],
+        [
+          1392,
+          456
+        ],
+        [
+          170,
+          464
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          569
+        ],
+        [
+          1392,
+          560
+        ],
+        [
+          1392,
+          611
+        ],
+        [
+          170,
+          619
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        405,
+        1392,
+        464
+      ],
+      "text": "(26) Phóng Tuòng höi phép & Quöc Nhát; Phòng Tuòng : có lē là Phòng Huyěn Linh 房",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0067_han_005",
+      "bbox": [
+        [
+          239,
+          445
+        ],
+        [
+          763,
+          445
+        ],
+        [
+          763,
+          496
+        ],
+        [
+          239,
+          496
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          600
+        ],
+        [
+          763,
+          600
+        ],
+        [
+          763,
+          651
+        ],
+        [
+          239,
+          651
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        445,
+        763,
+        496
+      ],
+      "text": "玄齿-mōt danh turòng dòi Đuòng, nguòi Làm-tri 臨， dā giúp Đuròng Thái",
+      "confidence": 0.8517
+    },
+    {
+      "line_id": "0067_han_006",
+      "bbox": [
+        [
+          238,
+          518
+        ],
+        [
+          763,
+          518
+        ],
+        [
+          763,
+          567
+        ],
+        [
+          238,
+          567
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          673
+        ],
+        [
+          763,
+          673
+        ],
+        [
+          763,
+          722
+        ],
+        [
+          238,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        518,
+        763,
+        567
+      ],
+      "text": "國公.Quöe nhãt 國一ture Thièn sur Dao Kham 道 欽 tu  Kinh son 徑山",
+      "confidence": 0.8646
+    },
+    {
+      "line_id": "0067_han_007",
+      "bbox": [
+        [
+          230,
+          551
+        ],
+        [
+          763,
+          551
+        ],
+        [
+          763,
+          607
+        ],
+        [
+          230,
+          607
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          706
+        ],
+        [
+          763,
+          706
+        ],
+        [
+          763,
+          762
+        ],
+        [
+          230,
+          762
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        551,
+        763,
+        607
+      ],
+      "text": "huyên Dur-hang /余 木亢 tinh Chiét-giang  江. Näm Đai Lich thú ba, öng dugc",
+      "confidence": 0.8955
+    },
+    {
+      "line_id": "0067_han_008",
+      "bbox": [
+        [
+          231,
+          672
+        ],
+        [
+          910,
+          661
+        ],
+        [
+          910,
+          705
+        ],
+        [
+          232,
+          715
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          827
+        ],
+        [
+          910,
+          816
+        ],
+        [
+          910,
+          860
+        ],
+        [
+          232,
+          870
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        661,
+        910,
+        715
+      ],
+      "text": "la Dai Giác 大  Xem băng Phã hé cuói sách.",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0067_han_009",
+      "bbox": [
+        [
+          258,
+          749
+        ],
+        [
+          763,
+          749
+        ],
+        [
+          763,
+          802
+        ],
+        [
+          258,
+          802
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          904
+        ],
+        [
+          763,
+          904
+        ],
+        [
+          763,
+          957
+        ],
+        [
+          258,
+          957
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        749,
+        763,
+        802
+      ],
+      "text": "莊王，",
+      "confidence": 0.8923
+    },
+    {
+      "line_id": "0067_han_010",
+      "bbox": [
+        [
+          234,
+          820
+        ],
+        [
+          763,
+          820
+        ],
+        [
+          763,
+          875
+        ],
+        [
+          234,
+          875
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          975
+        ],
+        [
+          763,
+          975
+        ],
+        [
+          763,
+          1030
+        ],
+        [
+          234,
+          1030
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        820,
+        763,
+        875
+      ],
+      "text": "tich 香 亦 ö Viét-nam, tu thành dao, tirc Phāt bà Quan Am.",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0067_han_011",
+      "bbox": [
+        [
+          172,
+          1056
+        ],
+        [
+          1364,
+          1044
+        ],
+        [
+          1365,
+          1084
+        ],
+        [
+          172,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1211
+        ],
+        [
+          1364,
+          1199
+        ],
+        [
+          1365,
+          1239
+        ],
+        [
+          172,
+          1251
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1044,
+        1365,
+        1096
+      ],
+      "text": "(30) Đàu T có ba chim báo sáng : cung theo Phúc Hièn, Dàu T tru tri  Döng-son 同 ",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0067_han_012",
+      "bbox": [
+        [
+          233,
+          1208
+        ],
+        [
+          1401,
+          1202
+        ],
+        [
+          1401,
+          1239
+        ],
+        [
+          234,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1363
+        ],
+        [
+          1401,
+          1357
+        ],
+        [
+          1401,
+          1394
+        ],
+        [
+          234,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1202,
+        1401,
+        1245
+      ],
+      "text": "son 金 d thròng tháy Dé Thich rǎi hoa, nghe kinh. Tu-bò-dè là mot dè tr cua Phat,",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0067_han_013",
+      "bbox": [
+        [
+          231,
+          1274
+        ],
+        [
+          763,
+          1274
+        ],
+        [
+          763,
+          1323
+        ],
+        [
+          231,
+          1323
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1429
+        ],
+        [
+          763,
+          1429
+        ],
+        [
+          763,
+          1478
+        ],
+        [
+          231,
+          1478
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1274,
+        763,
+        1323
+      ],
+      "text": "hoàn-nhàn 采罩 是 桓 因, theo các kinh Phàt, ong là chǔ cac tàng tròi.",
+      "confidence": 0.8703
+    },
+    {
+      "line_id": "0067_han_014",
+      "bbox": [
+        [
+          233,
+          1391
+        ],
+        [
+          763,
+          1391
+        ],
+        [
+          763,
+          1435
+        ],
+        [
+          233,
+          1435
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1546
+        ],
+        [
+          763,
+          1546
+        ],
+        [
+          763,
+          1590
+        ],
+        [
+          233,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1391,
+        763,
+        1435
+      ],
+      "text": "Hùng-nhī  耳. Khi Tóng Vàn 宋  phung mènh vua Nguy di sú Tày-vre",
+      "confidence": 0.898
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "莊王，"
+    ],
+    "interlinear_triplets": []
+  }
+}

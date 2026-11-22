@@ -1,0 +1,168 @@
+{
+  "page_id": "0017",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 17,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0017_viet_000",
+      "bbox": [
+        [
+          278,
+          607
+        ],
+        [
+          905,
+          607
+        ],
+        [
+          905,
+          651
+        ],
+        [
+          278,
+          651
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          728
+        ],
+        [
+          905,
+          728
+        ],
+        [
+          905,
+          772
+        ],
+        [
+          278,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        607,
+        905,
+        651
+      ],
+      "text": "THIỆU-CÔNG GIÁN GIÁM BÁNG",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0017_viet_001",
+      "bbox": [
+        [
+          227,
+          718
+        ],
+        [
+          957,
+          721
+        ],
+        [
+          957,
+          769
+        ],
+        [
+          227,
+          766
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          839
+        ],
+        [
+          957,
+          842
+        ],
+        [
+          957,
+          890
+        ],
+        [
+          227,
+          887
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        718,
+        957,
+        769
+      ],
+      "text": "THIỆU-CÔNG CAN VUA CĂM DỊ-NGHỊ",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0017_viet_002",
+      "bbox": [
+        [
+          681,
+          907
+        ],
+        [
+          921,
+          907
+        ],
+        [
+          921,
+          944
+        ],
+        [
+          681,
+          944
+        ]
+      ],
+      "bbox_original": [
+        [
+          681,
+          1028
+        ],
+        [
+          921,
+          1028
+        ],
+        [
+          921,
+          1065
+        ],
+        [
+          681,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        681,
+        907,
+        921,
+        944
+      ],
+      "text": "Tả Khâu Minh",
+      "confidence": 0.929
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

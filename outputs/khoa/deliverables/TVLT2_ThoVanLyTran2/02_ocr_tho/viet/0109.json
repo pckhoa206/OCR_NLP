@@ -1,0 +1,124 @@
+{
+  "page_id": "0109",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 109,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0109_viet_000",
+      "bbox": [
+        [
+          619,
+          2
+        ],
+        [
+          937,
+          2
+        ],
+        [
+          937,
+          33
+        ],
+        [
+          619,
+          33
+        ]
+      ],
+      "bbox_original": [
+        [
+          619,
+          157
+        ],
+        [
+          937,
+          157
+        ],
+        [
+          937,
+          188
+        ],
+        [
+          619,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        619,
+        2,
+        937,
+        33
+      ],
+      "text": "THƠ VĂN LÝ ? TRẦN",
+      "confidence": 0.878
+    },
+    {
+      "line_id": "0109_viet_001",
+      "bbox": [
+        [
+          1342,
+          0
+        ],
+        [
+          1404,
+          0
+        ],
+        [
+          1404,
+          33
+        ],
+        [
+          1342,
+          33
+        ]
+      ],
+      "bbox_original": [
+        [
+          1342,
+          155
+        ],
+        [
+          1404,
+          155
+        ],
+        [
+          1404,
+          188
+        ],
+        [
+          1342,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        1342,
+        0,
+        1404,
+        33
+      ],
+      "text": "A11",
+      "confidence": 0.7886
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "THƠ VĂN LÝ ? TRẦN",
+      "A11"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

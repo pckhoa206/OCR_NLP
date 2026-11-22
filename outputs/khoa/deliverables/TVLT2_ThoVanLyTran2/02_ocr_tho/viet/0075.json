@@ -1,0 +1,2092 @@
+{
+  "page_id": "0075",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 75,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0075_viet_000",
+      "bbox": [
+        [
+          174,
+          80
+        ],
+        [
+          1406,
+          73
+        ],
+        [
+          1406,
+          116
+        ],
+        [
+          174,
+          124
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          235
+        ],
+        [
+          1406,
+          228
+        ],
+        [
+          1406,
+          271
+        ],
+        [
+          174,
+          279
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        73,
+        1406,
+        124
+      ],
+      "text": "(17) Phố Hiền - địch nghĩa tên vị Bồ tắt Samantibhadra, cũng có tên phiên âm là Tain-man",
+      "confidence": 0.874
+    },
+    {
+      "line_id": "0075_viet_001",
+      "bbox": [
+        [
+          239,
+          116
+        ],
+        [
+          1407,
+          113
+        ],
+        [
+          1407,
+          147
+        ],
+        [
+          240,
+          150
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          271
+        ],
+        [
+          1407,
+          268
+        ],
+        [
+          1407,
+          302
+        ],
+        [
+          240,
+          305
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        113,
+        1407,
+        150
+      ],
+      "text": "đa-bạt đà-la, cũng dịch là Biến Cát (tốt lành khắp nơi): Phổ Hiền tu thành đạo đã nhiều",
+      "confidence": 0.8918
+    },
+    {
+      "line_id": "0075_viet_002",
+      "bbox": [
+        [
+          239,
+          150
+        ],
+        [
+          1408,
+          147
+        ],
+        [
+          1408,
+          181
+        ],
+        [
+          240,
+          184
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          305
+        ],
+        [
+          1408,
+          302
+        ],
+        [
+          1408,
+          336
+        ],
+        [
+          240,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        147,
+        1408,
+        184
+      ],
+      "text": "đời, nhưng vi lông thương chúng sinh nên thường hiện thân: thành đệ tử của các: Phật",
+      "confidence": 0.8991
+    },
+    {
+      "line_id": "0075_viet_003",
+      "bbox": [
+        [
+          241,
+          183
+        ],
+        [
+          927,
+          183
+        ],
+        [
+          927,
+          216
+        ],
+        [
+          241,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          338
+        ],
+        [
+          927,
+          338
+        ],
+        [
+          927,
+          371
+        ],
+        [
+          241,
+          371
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        183,
+        927,
+        216
+      ],
+      "text": "đề tuyên dương phật pháp và giáo hóa chúng sinh",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0075_viet_004",
+      "bbox": [
+        [
+          176,
+          226
+        ],
+        [
+          1407,
+          222
+        ],
+        [
+          1407,
+          257
+        ],
+        [
+          176,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          381
+        ],
+        [
+          1407,
+          377
+        ],
+        [
+          1407,
+          412
+        ],
+        [
+          176,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        222,
+        1407,
+        261
+      ],
+      "text": "(18) Đại quang minh tạng - tạng, thuật ngữ đạo Phật, có nghĩa là kho cất chứa, Quang minh,",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0075_viet_005",
+      "bbox": [
+        [
+          239,
+          259
+        ],
+        [
+          1410,
+          256
+        ],
+        [
+          1410,
+          289
+        ],
+        [
+          240,
+          292
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          414
+        ],
+        [
+          1410,
+          411
+        ],
+        [
+          1410,
+          444
+        ],
+        [
+          240,
+          447
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        256,
+        1410,
+        292
+      ],
+      "text": "đại quang minh có nghĩa là rất sáng suốt, Phật Thích Ca cũng có tên là Đại quang minh",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0075_viet_006",
+      "bbox": [
+        [
+          239,
+          291
+        ],
+        [
+          1410,
+          288
+        ],
+        [
+          1410,
+          322
+        ],
+        [
+          240,
+          325
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          446
+        ],
+        [
+          1410,
+          443
+        ],
+        [
+          1410,
+          477
+        ],
+        [
+          240,
+          480
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        288,
+        1410,
+        325
+      ],
+      "text": "Tương, Kinh sách của Phật giáo gọi chung là Đại tạng, ở đày tác giả cũng dùng với",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0075_viet_007",
+      "bbox": [
+        [
+          240,
+          324
+        ],
+        [
+          1410,
+          320
+        ],
+        [
+          1410,
+          353
+        ],
+        [
+          241,
+          357
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          479
+        ],
+        [
+          1410,
+          475
+        ],
+        [
+          1410,
+          508
+        ],
+        [
+          241,
+          512
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        320,
+        1410,
+        357
+      ],
+      "text": "nghĩa ây, vì kinh sách giúp: cho người tu hành giác, ngô nên, cũng coi là một kho tràn",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0075_viet_008",
+      "bbox": [
+        [
+          241,
+          356
+        ],
+        [
+          774,
+          355
+        ],
+        [
+          774,
+          390
+        ],
+        [
+          242,
+          391
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          511
+        ],
+        [
+          774,
+          510
+        ],
+        [
+          774,
+          545
+        ],
+        [
+          242,
+          546
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        355,
+        774,
+        391
+      ],
+      "text": "đây ánh sáng đề soi dọi cho chúng sinh",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0075_viet_009",
+      "bbox": [
+        [
+          178,
+          399
+        ],
+        [
+          1409,
+          392
+        ],
+        [
+          1409,
+          430
+        ],
+        [
+          178,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          554
+        ],
+        [
+          1409,
+          547
+        ],
+        [
+          1409,
+          585
+        ],
+        [
+          178,
+          591
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        392,
+        1409,
+        436
+      ],
+      "text": "(19) Pháp môn bất nhị - thuật ngữ: đạo, Phật, một pháp inôn cao, hơn hết 8.400 pháp môn",
+      "confidence": 0.8783
+    },
+    {
+      "line_id": "0075_viet_010",
+      "bbox": [
+        [
+          241,
+          433
+        ],
+        [
+          1408,
+          428
+        ],
+        [
+          1408,
+          462
+        ],
+        [
+          242,
+          467
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          588
+        ],
+        [
+          1408,
+          583
+        ],
+        [
+          1408,
+          617
+        ],
+        [
+          242,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        428,
+        1408,
+        467
+      ],
+      "text": "của Phật giáo, Pháp môn này không chia người và ta, thề và tường. vị vậy có thề",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0075_viet_011",
+      "bbox": [
+        [
+          240,
+          465
+        ],
+        [
+          1409,
+          460
+        ],
+        [
+          1409,
+          494
+        ],
+        [
+          241,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          620
+        ],
+        [
+          1409,
+          615
+        ],
+        [
+          1409,
+          649
+        ],
+        [
+          241,
+          654
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        460,
+        1409,
+        499
+      ],
+      "text": "trướ tiếp hiếu ngay (trực kiến), giáo lý của Phật, Theo kinh Duy ma - 26 lệ tế thì",
+      "confidence": 0.8801
+    },
+    {
+      "line_id": "0075_viet_012",
+      "bbox": [
+        [
+          241,
+          499
+        ],
+        [
+          1231,
+          495
+        ],
+        [
+          1231,
+          528
+        ],
+        [
+          242,
+          532
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          654
+        ],
+        [
+          1231,
+          650
+        ],
+        [
+          1231,
+          683
+        ],
+        [
+          242,
+          687
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        495,
+        1231,
+        532
+      ],
+      "text": "pháp môn bất nhị không thể dũng ngôn ngữ văn tự mà: diễn giải: được; r",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0075_viet_013",
+      "bbox": [
+        [
+          180,
+          539
+        ],
+        [
+          880,
+          536
+        ],
+        [
+          881,
+          573
+        ],
+        [
+          180,
+          576
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          694
+        ],
+        [
+          880,
+          691
+        ],
+        [
+          881,
+          728
+        ],
+        [
+          180,
+          731
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        536,
+        881,
+        576
+      ],
+      "text": "(20) Huyền thề tấm thần hir huyền, không có thật",
+      "confidence": 0.8784
+    },
+    {
+      "line_id": "0075_viet_014",
+      "bbox": [
+        [
+          179,
+          582
+        ],
+        [
+          1148,
+          579
+        ],
+        [
+          1148,
+          617
+        ],
+        [
+          179,
+          620
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          737
+        ],
+        [
+          1148,
+          734
+        ],
+        [
+          1148,
+          772
+        ],
+        [
+          179,
+          775
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        579,
+        1148,
+        620
+      ],
+      "text": "(21) Phúp thân: Xem Cht. 8, bài Phồ thuyết sắc thân, số 6, cùng tác giả",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0075_viet_015",
+      "bbox": [
+        [
+          179,
+          625
+        ],
+        [
+          1067,
+          622
+        ],
+        [
+          1067,
+          660
+        ],
+        [
+          179,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          780
+        ],
+        [
+          1067,
+          777
+        ],
+        [
+          1067,
+          815
+        ],
+        [
+          179,
+          818
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        622,
+        1067,
+        663
+      ],
+      "text": "(22) Sáu thần thông: Xem Cht. 9, bài Phồ thuyết sắc, thân, đại dẫn",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0075_viet_016",
+      "bbox": [
+        [
+          178,
+          670
+        ],
+        [
+          1409,
+          665
+        ],
+        [
+          1409,
+          702
+        ],
+        [
+          178,
+          707
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          825
+        ],
+        [
+          1409,
+          820
+        ],
+        [
+          1409,
+          857
+        ],
+        [
+          178,
+          862
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        665,
+        1409,
+        707
+      ],
+      "text": "(B3) Có gái đám, : chàng người gỗ.... biều: tượng cộ gái đá và, tháng, người, gỗ được các",
+      "confidence": 0.8649
+    },
+    {
+      "line_id": "0075_viet_017",
+      "bbox": [
+        [
+          731,
+          699
+        ],
+        [
+          1375,
+          699
+        ],
+        [
+          1375,
+          741
+        ],
+        [
+          731,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          854
+        ],
+        [
+          1375,
+          854
+        ],
+        [
+          1375,
+          896
+        ],
+        [
+          731,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        699,
+        1375,
+        741
+      ],
+      "text": "Nhiều Lận Phan Trường Nguyên",
+      "confidence": 0.861
+    },
+    {
+      "line_id": "0075_viet_018",
+      "bbox": [
+        [
+          731,
+          735
+        ],
+        [
+          1131,
+          735
+        ],
+        [
+          1131,
+          770
+        ],
+        [
+          731,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          890
+        ],
+        [
+          1131,
+          890
+        ],
+        [
+          1131,
+          925
+        ],
+        [
+          731,
+          925
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        735,
+        1131,
+        770
+      ],
+      "text": "Số 91, tập 1 có hai câu",
+      "confidence": 0.8848
+    },
+    {
+      "line_id": "0075_viet_019",
+      "bbox": [
+        [
+          606,
+          877
+        ],
+        [
+          825,
+          877
+        ],
+        [
+          825,
+          913
+        ],
+        [
+          606,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          1032
+        ],
+        [
+          825,
+          1032
+        ],
+        [
+          825,
+          1068
+        ],
+        [
+          606,
+          1068
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        877,
+        825,
+        913
+      ],
+      "text": "Tác vũ thiết nữ",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0075_viet_020",
+      "bbox": [
+        [
+          606,
+          919
+        ],
+        [
+          833,
+          919
+        ],
+        [
+          833,
+          954
+        ],
+        [
+          606,
+          954
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          1074
+        ],
+        [
+          833,
+          1074
+        ],
+        [
+          833,
+          1109
+        ],
+        [
+          606,
+          1109
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        919,
+        833,
+        954
+      ],
+      "text": "Đã cồ mộc nhân",
+      "confidence": 0.8845
+    },
+    {
+      "line_id": "0075_viet_021",
+      "bbox": [
+        [
+          240,
+          973
+        ],
+        [
+          379,
+          973
+        ],
+        [
+          379,
+          1008
+        ],
+        [
+          240,
+          1008
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1128
+        ],
+        [
+          379,
+          1128
+        ],
+        [
+          379,
+          1163
+        ],
+        [
+          240,
+          1163
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        973,
+        379,
+        1008
+      ],
+      "text": "Nghĩa là",
+      "confidence": 0.9376
+    },
+    {
+      "line_id": "0075_viet_022",
+      "bbox": [
+        [
+          610,
+          1011
+        ],
+        [
+          820,
+          1011
+        ],
+        [
+          820,
+          1045
+        ],
+        [
+          610,
+          1045
+        ]
+      ],
+      "bbox_original": [
+        [
+          610,
+          1166
+        ],
+        [
+          820,
+          1166
+        ],
+        [
+          820,
+          1200
+        ],
+        [
+          610,
+          1200
+        ]
+      ],
+      "box_xyxy": [
+        610,
+        1011,
+        820,
+        1045
+      ],
+      "text": "Cô gái sắt múa,",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0075_viet_023",
+      "bbox": [
+        [
+          612,
+          1051
+        ],
+        [
+          991,
+          1051
+        ],
+        [
+          991,
+          1085
+        ],
+        [
+          612,
+          1085
+        ]
+      ],
+      "bbox_original": [
+        [
+          612,
+          1206
+        ],
+        [
+          991,
+          1206
+        ],
+        [
+          991,
+          1240
+        ],
+        [
+          612,
+          1240
+        ]
+      ],
+      "box_xyxy": [
+        612,
+        1051,
+        991,
+        1085
+      ],
+      "text": "Chàng người gỗ đánh trống",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0075_viet_024",
+      "bbox": [
+        [
+          292,
+          1106
+        ],
+        [
+          1154,
+          1106
+        ],
+        [
+          1154,
+          1143
+        ],
+        [
+          292,
+          1143
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1261
+        ],
+        [
+          1154,
+          1261
+        ],
+        [
+          1154,
+          1298
+        ],
+        [
+          292,
+          1298
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1106,
+        1154,
+        1143
+      ],
+      "text": "Trận Tung trong bài Đối cơ (số 111, cũng tập) cũng có hai câu",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0075_viet_025",
+      "bbox": [
+        [
+          562,
+          1254
+        ],
+        [
+          1028,
+          1254
+        ],
+        [
+          1028,
+          1285
+        ],
+        [
+          562,
+          1285
+        ]
+      ],
+      "bbox_original": [
+        [
+          562,
+          1409
+        ],
+        [
+          1028,
+          1409
+        ],
+        [
+          1028,
+          1440
+        ],
+        [
+          562,
+          1440
+        ]
+      ],
+      "box_xyxy": [
+        562,
+        1254,
+        1028,
+        1285
+      ],
+      "text": "Mộc nhân nhập hải vô sinh xướng,",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0075_viet_026",
+      "bbox": [
+        [
+          559,
+          1293
+        ],
+        [
+          995,
+          1291
+        ],
+        [
+          995,
+          1325
+        ],
+        [
+          560,
+          1327
+        ]
+      ],
+      "bbox_original": [
+        [
+          559,
+          1448
+        ],
+        [
+          995,
+          1446
+        ],
+        [
+          995,
+          1480
+        ],
+        [
+          560,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        559,
+        1291,
+        995,
+        1327
+      ],
+      "text": "Thạch nữ xuyên văn tũi lật xuy.",
+      "confidence": 0.9
+    },
+    {
+      "line_id": "0075_viet_027",
+      "bbox": [
+        [
+          239,
+          1347
+        ],
+        [
+          1409,
+          1343
+        ],
+        [
+          1409,
+          1379
+        ],
+        [
+          240,
+          1383
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1502
+        ],
+        [
+          1409,
+          1498
+        ],
+        [
+          1409,
+          1534
+        ],
+        [
+          240,
+          1538
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1343,
+        1409,
+        1383
+      ],
+      "text": "Nghĩa là: chàng người gỗ xuống bề ca bài vô sinh: Cộ gái đá vào mày thời khúc sào",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0075_viet_028",
+      "bbox": [
+        [
+          238,
+          1379
+        ],
+        [
+          1408,
+          1376
+        ],
+        [
+          1408,
+          1413
+        ],
+        [
+          239,
+          1417
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1534
+        ],
+        [
+          1408,
+          1531
+        ],
+        [
+          1408,
+          1568
+        ],
+        [
+          239,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1376,
+        1408,
+        1417
+      ],
+      "text": "tất lật. Có lê các tắc giả đũng những biểu tượng trai ngược (vật vô trí xô giác lại hát",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0075_viet_029",
+      "bbox": [
+        [
+          239,
+          1413
+        ],
+        [
+          1409,
+          1408
+        ],
+        [
+          1409,
+          1446
+        ],
+        [
+          240,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1568
+        ],
+        [
+          1409,
+          1563
+        ],
+        [
+          1409,
+          1601
+        ],
+        [
+          240,
+          1605
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1408,
+        1409,
+        1450
+      ],
+      "text": "mia) đề diễn tả. một luận đề mang y nghĩa triết học.. bản thề vũ, trữ là ký diệu, mọi",
+      "confidence": 0.8819
+    },
+    {
+      "line_id": "0075_viet_030",
+      "bbox": [
+        [
+          238,
+          1447
+        ],
+        [
+          1408,
+          1442
+        ],
+        [
+          1408,
+          1479
+        ],
+        [
+          239,
+          1484
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1602
+        ],
+        [
+          1408,
+          1597
+        ],
+        [
+          1408,
+          1634
+        ],
+        [
+          239,
+          1639
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1442,
+        1408,
+        1484
+      ],
+      "text": "hoạt động của chúng sinh cũng chỉ như con, rồi, không co ý thức, phải. chịu sự chí",
+      "confidence": 0.8995
+    },
+    {
+      "line_id": "0075_viet_031",
+      "bbox": [
+        [
+          242,
+          1481
+        ],
+        [
+          476,
+          1481
+        ],
+        [
+          476,
+          1512
+        ],
+        [
+          242,
+          1512
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1636
+        ],
+        [
+          476,
+          1636
+        ],
+        [
+          476,
+          1667
+        ],
+        [
+          242,
+          1667
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1481,
+        476,
+        1512
+      ],
+      "text": "phối của bản thờ.",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0075_viet_032",
+      "bbox": [
+        [
+          177,
+          1519
+        ],
+        [
+          1409,
+          1516
+        ],
+        [
+          1409,
+          1556
+        ],
+        [
+          177,
+          1559
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1674
+        ],
+        [
+          1409,
+          1671
+        ],
+        [
+          1409,
+          1711
+        ],
+        [
+          177,
+          1714
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1516,
+        1409,
+        1559
+      ],
+      "text": "(24) Tâm bát-nhũ: bát-nhã, phiên âm từ prajnà trong tiếng Phạn, có nghĩa là trí tuệ, Tàm",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0075_viet_033",
+      "bbox": [
+        [
+          239,
+          1555
+        ],
+        [
+          1170,
+          1554
+        ],
+        [
+          1170,
+          1588
+        ],
+        [
+          240,
+          1589
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1710
+        ],
+        [
+          1170,
+          1709
+        ],
+        [
+          1170,
+          1743
+        ],
+        [
+          240,
+          1744
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1554,
+        1170,
+        1589
+      ],
+      "text": "bát-nhà là cái tâm sáng suốt, thông đạt, dứt được, mọi mối phiên, nào",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0075_viet_034",
+      "bbox": [
+        [
+          178,
+          1596
+        ],
+        [
+          1410,
+          1590
+        ],
+        [
+          1410,
+          1630
+        ],
+        [
+          178,
+          1636
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1751
+        ],
+        [
+          1410,
+          1745
+        ],
+        [
+          1410,
+          1785
+        ],
+        [
+          178,
+          1791
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1590,
+        1410,
+        1636
+      ],
+      "text": "(25) Chân như: hay như như . thuật ngữ đạo Phật, chỉ cài tậm bản thề vị trụ mà chân",
+      "confidence": 0.877
+    },
+    {
+      "line_id": "0075_viet_035",
+      "bbox": [
+        [
+          238,
+          1630
+        ],
+        [
+          1407,
+          1624
+        ],
+        [
+          1407,
+          1662
+        ],
+        [
+          239,
+          1669
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1785
+        ],
+        [
+          1407,
+          1779
+        ],
+        [
+          1407,
+          1817
+        ],
+        [
+          239,
+          1824
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1624,
+        1407,
+        1669
+      ],
+      "text": "(chân thực, không hư vọng) và như (không biến đòi, không sịnh điệt) là hai-thuộc tính",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0075_viet_036",
+      "bbox": [
+        [
+          238,
+          1662
+        ],
+        [
+          1406,
+          1658
+        ],
+        [
+          1406,
+          1697
+        ],
+        [
+          239,
+          1701
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1817
+        ],
+        [
+          1406,
+          1813
+        ],
+        [
+          1406,
+          1852
+        ],
+        [
+          239,
+          1856
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1658,
+        1406,
+        1701
+      ],
+      "text": "của bản thế đó. Chân như, tương đương với các thuật ngữ thực tướng, pháp tính,",
+      "confidence": 0.9
+    },
+    {
+      "line_id": "0075_viet_037",
+      "bbox": [
+        [
+          238,
+          1698
+        ],
+        [
+          1266,
+          1695
+        ],
+        [
+          1266,
+          1730
+        ],
+        [
+          239,
+          1733
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1853
+        ],
+        [
+          1266,
+          1850
+        ],
+        [
+          1266,
+          1885
+        ],
+        [
+          239,
+          1888
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1695,
+        1266,
+        1733
+      ],
+      "text": "phúp giới, viên thành, thực linh, cũng chính là phật: tỉnh có ở tất cả mọt vật",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0075_viet_038",
+      "bbox": [
+        [
+          177,
+          1742
+        ],
+        [
+          1218,
+          1741
+        ],
+        [
+          1218,
+          1778
+        ],
+        [
+          177,
+          1779
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1897
+        ],
+        [
+          1218,
+          1896
+        ],
+        [
+          1218,
+          1933
+        ],
+        [
+          177,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1741,
+        1218,
+        1779
+      ],
+      "text": "(26) Mặt mày thườ Trước Xem Cht. 4, bài Phò thuyết sắc-thán: số 6, đạ dân",
+      "confidence": 0.8636
+    },
+    {
+      "line_id": "0075_viet_039",
+      "bbox": [
+        [
+          175,
+          1784
+        ],
+        [
+          1410,
+          1777
+        ],
+        [
+          1410,
+          1820
+        ],
+        [
+          175,
+          1827
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1939
+        ],
+        [
+          1410,
+          1932
+        ],
+        [
+          1410,
+          1975
+        ],
+        [
+          175,
+          1982
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1777,
+        1410,
+        1827
+      ],
+      "text": "(A7) Ngra sắt, trau bun, 14, hai vật yô tại vộ giác những đên bĩ lội đất, điều khên có thề",
+      "confidence": 0.8382
+    },
+    {
+      "line_id": "0075_viet_040",
+      "bbox": [
+        [
+          237,
+          1819
+        ],
+        [
+          1408,
+          1816
+        ],
+        [
+          1408,
+          1853
+        ],
+        [
+          238,
+          1856
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1974
+        ],
+        [
+          1408,
+          1971
+        ],
+        [
+          1408,
+          2008
+        ],
+        [
+          238,
+          2011
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1816,
+        1408,
+        1856
+      ],
+      "text": "hai biểu tương này cũng được dùng giống như biêu tirọng cháng người gõ và có gắi",
+      "confidence": 0.8746
+    },
+    {
+      "line_id": "0075_viet_041",
+      "bbox": [
+        [
+          238,
+          1852
+        ],
+        [
+          1408,
+          1847
+        ],
+        [
+          1408,
+          1884
+        ],
+        [
+          239,
+          1889
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          2007
+        ],
+        [
+          1408,
+          2002
+        ],
+        [
+          1408,
+          2039
+        ],
+        [
+          239,
+          2044
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1847,
+        1408,
+        1889
+      ],
+      "text": "đã đề điển tà cái ý chúng sinh đã đánh mật, y thức, trở nền vọ trì, vô giác, phải kúo",
+      "confidence": 0.8737
+    },
+    {
+      "line_id": "0075_viet_042",
+      "bbox": [
+        [
+          239,
+          1887
+        ],
+        [
+          1326,
+          1884
+        ],
+        [
+          1326,
+          1917
+        ],
+        [
+          240,
+          1921
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          2042
+        ],
+        [
+          1326,
+          2039
+        ],
+        [
+          1326,
+          2072
+        ],
+        [
+          240,
+          2076
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1884,
+        1326,
+        1921
+      ],
+      "text": "mũi lội xẻ. Về trâu bùn, xem thêm Cht. 25, bài Niêm tụng kệ số 21, cũng túc giả.",
+      "confidence": 0.89
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(17) Phố Hiền - địch nghĩa tên vị Bồ tắt Samantibhadra, cũng có tên phiên âm là Tain-man",
+      "đa-bạt đà-la, cũng dịch là Biến Cát (tốt lành khắp nơi): Phổ Hiền tu thành đạo đã nhiều",
+      "đời, nhưng vi lông thương chúng sinh nên thường hiện thân: thành đệ tử của các: Phật",
+      "đề tuyên dương phật pháp và giáo hóa chúng sinh",
+      "(18) Đại quang minh tạng - tạng, thuật ngữ đạo Phật, có nghĩa là kho cất chứa, Quang minh,",
+      "đại quang minh có nghĩa là rất sáng suốt, Phật Thích Ca cũng có tên là Đại quang minh",
+      "Tương, Kinh sách của Phật giáo gọi chung là Đại tạng, ở đày tác giả cũng dùng với",
+      "nghĩa ây, vì kinh sách giúp: cho người tu hành giác, ngô nên, cũng coi là một kho tràn",
+      "đây ánh sáng đề soi dọi cho chúng sinh",
+      "(19) Pháp môn bất nhị - thuật ngữ: đạo, Phật, một pháp inôn cao, hơn hết 8.400 pháp môn",
+      "của Phật giáo, Pháp môn này không chia người và ta, thề và tường. vị vậy có thề",
+      "trướ tiếp hiếu ngay (trực kiến), giáo lý của Phật, Theo kinh Duy ma - 26 lệ tế thì",
+      "pháp môn bất nhị không thể dũng ngôn ngữ văn tự mà: diễn giải: được; r",
+      "(20) Huyền thề tấm thần hir huyền, không có thật",
+      "(21) Phúp thân: Xem Cht. 8, bài Phồ thuyết sắc thân, số 6, cùng tác giả",
+      "(22) Sáu thần thông: Xem Cht. 9, bài Phồ thuyết sắc, thân, đại dẫn",
+      "(B3) Có gái đám, : chàng người gỗ.... biều: tượng cộ gái đá và, tháng, người, gỗ được các",
+      "Nhiều Lận Phan Trường Nguyên",
+      "Số 91, tập 1 có hai câu",
+      "Tác vũ thiết nữ",
+      "Đã cồ mộc nhân",
+      "Nghĩa là",
+      "Cô gái sắt múa,",
+      "Chàng người gỗ đánh trống",
+      "Trận Tung trong bài Đối cơ (số 111, cũng tập) cũng có hai câu",
+      "Mộc nhân nhập hải vô sinh xướng,",
+      "Thạch nữ xuyên văn tũi lật xuy.",
+      "Nghĩa là: chàng người gỗ xuống bề ca bài vô sinh: Cộ gái đá vào mày thời khúc sào",
+      "tất lật. Có lê các tắc giả đũng những biểu tượng trai ngược (vật vô trí xô giác lại hát",
+      "mia) đề diễn tả. một luận đề mang y nghĩa triết học.. bản thề vũ, trữ là ký diệu, mọi",
+      "hoạt động của chúng sinh cũng chỉ như con, rồi, không co ý thức, phải. chịu sự chí",
+      "phối của bản thờ.",
+      "(24) Tâm bát-nhũ: bát-nhã, phiên âm từ prajnà trong tiếng Phạn, có nghĩa là trí tuệ, Tàm",
+      "bát-nhà là cái tâm sáng suốt, thông đạt, dứt được, mọi mối phiên, nào",
+      "(25) Chân như: hay như như . thuật ngữ đạo Phật, chỉ cài tậm bản thề vị trụ mà chân",
+      "(chân thực, không hư vọng) và như (không biến đòi, không sịnh điệt) là hai-thuộc tính",
+      "của bản thế đó. Chân như, tương đương với các thuật ngữ thực tướng, pháp tính,",
+      "phúp giới, viên thành, thực linh, cũng chính là phật: tỉnh có ở tất cả mọt vật",
+      "(26) Mặt mày thườ Trước Xem Cht. 4, bài Phò thuyết sắc-thán: số 6, đạ dân",
+      "(A7) Ngra sắt, trau bun, 14, hai vật yô tại vộ giác những đên bĩ lội đất, điều khên có thề",
+      "hai biểu tương này cũng được dùng giống như biêu tirọng cháng người gõ và có gắi",
+      "đã đề điển tà cái ý chúng sinh đã đánh mật, y thức, trở nền vọ trì, vô giác, phải kúo",
+      "mũi lội xẻ. Về trâu bùn, xem thêm Cht. 25, bài Niêm tụng kệ số 21, cũng túc giả."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

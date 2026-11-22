@@ -1,0 +1,1034 @@
+{
+  "page_id": "0022",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 22,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0022_viet_000",
+      "bbox": [
+        [
+          191,
+          25
+        ],
+        [
+          234,
+          25
+        ],
+        [
+          234,
+          64
+        ],
+        [
+          191,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          146
+        ],
+        [
+          234,
+          146
+        ],
+        [
+          234,
+          185
+        ],
+        [
+          191,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        25,
+        234,
+        64
+      ],
+      "text": "16",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0022_viet_001",
+      "bbox": [
+        [
+          665,
+          27
+        ],
+        [
+          991,
+          27
+        ],
+        [
+          991,
+          58
+        ],
+        [
+          665,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          148
+        ],
+        [
+          991,
+          148
+        ],
+        [
+          991,
+          179
+        ],
+        [
+          665,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        27,
+        991,
+        58
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0022_viet_002",
+      "bbox": [
+        [
+          227,
+          182
+        ],
+        [
+          820,
+          183
+        ],
+        [
+          820,
+          220
+        ],
+        [
+          227,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          303
+        ],
+        [
+          820,
+          304
+        ],
+        [
+          820,
+          341
+        ],
+        [
+          227,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        182,
+        820,
+        220
+      ],
+      "text": "cồ hiễn điền, sử hiện thư, sư châm",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0022_viet_003",
+      "bbox": [
+        [
+          251,
+          228
+        ],
+        [
+          989,
+          228
+        ],
+        [
+          989,
+          265
+        ],
+        [
+          251,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          349
+        ],
+        [
+          989,
+          349
+        ],
+        [
+          989,
+          386
+        ],
+        [
+          251,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        228,
+        989,
+        265
+      ],
+      "text": "nhạc-sư mù dâng nhạc, quan sử dâng sử cũ, quan",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0022_viet_004",
+      "bbox": [
+        [
+          193,
+          270
+        ],
+        [
+          476,
+          272
+        ],
+        [
+          475,
+          309
+        ],
+        [
+          193,
+          307
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          391
+        ],
+        [
+          476,
+          393
+        ],
+        [
+          475,
+          430
+        ],
+        [
+          193,
+          428
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        270,
+        476,
+        309
+      ],
+      "text": "thiêu-sư khuyên-can",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0022_viet_005",
+      "bbox": [
+        [
+          227,
+          387
+        ],
+        [
+          832,
+          388
+        ],
+        [
+          832,
+          426
+        ],
+        [
+          227,
+          425
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          508
+        ],
+        [
+          832,
+          509
+        ],
+        [
+          832,
+          547
+        ],
+        [
+          227,
+          546
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        387,
+        832,
+        426
+      ],
+      "text": "tầu phú, mông tụng, bách công gián",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0022_viet_006",
+      "bbox": [
+        [
+          249,
+          431
+        ],
+        [
+          804,
+          430
+        ],
+        [
+          804,
+          468
+        ],
+        [
+          249,
+          469
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          552
+        ],
+        [
+          804,
+          551
+        ],
+        [
+          804,
+          589
+        ],
+        [
+          249,
+          590
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        430,
+        804,
+        469
+      ],
+      "text": "người mù làm thơ, người lòa đọc sách",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0022_viet_007",
+      "bbox": [
+        [
+          194,
+          476
+        ],
+        [
+          621,
+          475
+        ],
+        [
+          621,
+          513
+        ],
+        [
+          194,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          597
+        ],
+        [
+          621,
+          596
+        ],
+        [
+          621,
+          634
+        ],
+        [
+          194,
+          635
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        475,
+        621,
+        514
+      ],
+      "text": "người coi bách công can-gián.",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0022_viet_008",
+      "bbox": [
+        [
+          225,
+          588
+        ],
+        [
+          861,
+          593
+        ],
+        [
+          861,
+          630
+        ],
+        [
+          225,
+          626
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          709
+        ],
+        [
+          861,
+          714
+        ],
+        [
+          861,
+          751
+        ],
+        [
+          225,
+          747
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        588,
+        861,
+        630
+      ],
+      "text": "Thứ nhân truyền ngữ, cận thần tận quy",
+      "confidence": 0.935
+    },
+    {
+      "line_id": "0022_viet_009",
+      "bbox": [
+        [
+          250,
+          635
+        ],
+        [
+          900,
+          635
+        ],
+        [
+          900,
+          672
+        ],
+        [
+          250,
+          672
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          756
+        ],
+        [
+          900,
+          756
+        ],
+        [
+          900,
+          793
+        ],
+        [
+          250,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        635,
+        900,
+        672
+      ],
+      "text": "Người dân truyền lời, kẻ cận thần tâu lên,",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0022_viet_010",
+      "bbox": [
+        [
+          227,
+          749
+        ],
+        [
+          784,
+          749
+        ],
+        [
+          784,
+          786
+        ],
+        [
+          227,
+          786
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          870
+        ],
+        [
+          784,
+          870
+        ],
+        [
+          784,
+          907
+        ],
+        [
+          227,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        749,
+        784,
+        786
+      ],
+      "text": "thân thích bồ sát, cồ sử giáo hồi",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0022_viet_011",
+      "bbox": [
+        [
+          247,
+          790
+        ],
+        [
+          987,
+          794
+        ],
+        [
+          987,
+          834
+        ],
+        [
+          247,
+          831
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          911
+        ],
+        [
+          987,
+          915
+        ],
+        [
+          987,
+          955
+        ],
+        [
+          247,
+          952
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        790,
+        987,
+        834
+      ],
+      "text": "kẻ thân thích của vua xem xét lại, quan lễ truyền dạy",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0022_viet_012",
+      "bbox": [
+        [
+          226,
+          905
+        ],
+        [
+          987,
+          905
+        ],
+        [
+          987,
+          942
+        ],
+        [
+          226,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1026
+        ],
+        [
+          987,
+          1026
+        ],
+        [
+          987,
+          1063
+        ],
+        [
+          226,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        905,
+        987,
+        942
+      ],
+      "text": "Kỳ ngải tu chi, nhi hậu vương châm-chước yên",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0022_viet_013",
+      "bbox": [
+        [
+          248,
+          948
+        ],
+        [
+          825,
+          948
+        ],
+        [
+          825,
+          985
+        ],
+        [
+          248,
+          985
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1069
+        ],
+        [
+          825,
+          1069
+        ],
+        [
+          825,
+          1106
+        ],
+        [
+          248,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        948,
+        825,
+        985
+      ],
+      "text": "Kẻ già sửa lại, rồi đền vua châm-chước",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0022_viet_014",
+      "bbox": [
+        [
+          224,
+          1058
+        ],
+        [
+          777,
+          1061
+        ],
+        [
+          776,
+          1099
+        ],
+        [
+          224,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1179
+        ],
+        [
+          777,
+          1182
+        ],
+        [
+          776,
+          1220
+        ],
+        [
+          224,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1058,
+        777,
+        1099
+      ],
+      "text": "Thị dĩ sự hành nhi bất bột (bội)",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0022_viet_015",
+      "bbox": [
+        [
+          246,
+          1102
+        ],
+        [
+          703,
+          1105
+        ],
+        [
+          703,
+          1142
+        ],
+        [
+          246,
+          1139
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1223
+        ],
+        [
+          703,
+          1226
+        ],
+        [
+          703,
+          1263
+        ],
+        [
+          246,
+          1260
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1102,
+        703,
+        1142
+      ],
+      "text": "nên việc làm không trái nhau",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0022_viet_016",
+      "bbox": [
+        [
+          223,
+          1213
+        ],
+        [
+          591,
+          1216
+        ],
+        [
+          591,
+          1255
+        ],
+        [
+          223,
+          1251
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1334
+        ],
+        [
+          591,
+          1337
+        ],
+        [
+          591,
+          1376
+        ],
+        [
+          223,
+          1372
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1213,
+        591,
+        1255
+      ],
+      "text": "Dân chi hữu khầu dã,",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0022_viet_017",
+      "bbox": [
+        [
+          243,
+          1255
+        ],
+        [
+          459,
+          1259
+        ],
+        [
+          458,
+          1301
+        ],
+        [
+          243,
+          1297
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1376
+        ],
+        [
+          459,
+          1380
+        ],
+        [
+          458,
+          1422
+        ],
+        [
+          243,
+          1418
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1255,
+        459,
+        1301
+      ],
+      "text": "Dân có miệng",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0022_viet_018",
+      "bbox": [
+        [
+          223,
+          1370
+        ],
+        [
+          705,
+          1374
+        ],
+        [
+          705,
+          1411
+        ],
+        [
+          223,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1491
+        ],
+        [
+          705,
+          1495
+        ],
+        [
+          705,
+          1532
+        ],
+        [
+          223,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1370,
+        705,
+        1411
+      ],
+      "text": "do thồ chi hữu sơn xuyên dã.",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0022_viet_019",
+      "bbox": [
+        [
+          244,
+          1413
+        ],
+        [
+          544,
+          1417
+        ],
+        [
+          543,
+          1456
+        ],
+        [
+          244,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1534
+        ],
+        [
+          544,
+          1538
+        ],
+        [
+          543,
+          1577
+        ],
+        [
+          244,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1413,
+        544,
+        1456
+      ],
+      "text": "như đất có núi sông",
+      "confidence": 0.9075
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "cồ hiễn điền, sử hiện thư, sư châm",
+      "tầu phú, mông tụng, bách công gián",
+      "Thứ nhân truyền ngữ, cận thần tận quy",
+      "thân thích bồ sát, cồ sử giáo hồi",
+      "Kỳ ngải tu chi, nhi hậu vương châm-chước yên",
+      "Thị dĩ sự hành nhi bất bột (bội)",
+      "Dân chi hữu khầu dã,",
+      "do thồ chi hữu sơn xuyên dã."
+    ],
+    "dich_nghia_lines": [
+      "nhạc-sư mù dâng nhạc, quan sử dâng sử cũ, quan thiêu-sư khuyên-can",
+      "người mù làm thơ, người lòa đọc sách người coi bách công can-gián.",
+      "Người dân truyền lời, kẻ cận thần tâu lên,",
+      "kẻ thân thích của vua xem xét lại, quan lễ truyền dạy",
+      "Kẻ già sửa lại, rồi đền vua châm-chước",
+      "nên việc làm không trái nhau",
+      "Dân có miệng",
+      "như đất có núi sông"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "瞽獻典史獻書師箴",
+        "phien_am": "cồ hiễn điền, sử hiện thư, sư châm",
+        "dich_nghia_gloss": "nhạc-sư mù dâng nhạc, quan sử dâng sử cũ, quan thiêu-sư khuyên-can"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "喀賦矇誦百工諫",
+        "phien_am": "tầu phú, mông tụng, bách công gián",
+        "dich_nghia_gloss": "người mù làm thơ, người lòa đọc sách người coi bách công can-gián."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "庶人傳語近臣盡規",
+        "phien_am": "Thứ nhân truyền ngữ, cận thần tận quy",
+        "dich_nghia_gloss": "Người dân truyền lời, kẻ cận thần tâu lên,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "親戚補察瞽史教誨",
+        "phien_am": "thân thích bồ sát, cồ sử giáo hồi",
+        "dich_nghia_gloss": "kẻ thân thích của vua xem xét lại, quan lễ truyền dạy"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "耆艾修之而後王斟酌焉",
+        "phien_am": "Kỳ ngải tu chi, nhi hậu vương châm-chước yên",
+        "dich_nghia_gloss": "Kẻ già sửa lại, rồi đền vua châm-chước"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "是以事行而不悖",
+        "phien_am": "Thị dĩ sự hành nhi bất bột (bội)",
+        "dich_nghia_gloss": "nên việc làm không trái nhau"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "民之有口也",
+        "phien_am": "Dân chi hữu khầu dã,",
+        "dich_nghia_gloss": "Dân có miệng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "猶土之有山川也",
+        "phien_am": "do thồ chi hữu sơn xuyên dã.",
+        "dich_nghia_gloss": "như đất có núi sông"
+      }
+    ]
+  }
+}

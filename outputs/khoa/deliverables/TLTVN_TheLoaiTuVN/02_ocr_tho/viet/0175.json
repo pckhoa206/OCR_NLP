@@ -1,0 +1,507 @@
+{
+  "page_id": "0175",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 175,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0175_viet_000",
+      "bbox": [
+        [
+          148,
+          320
+        ],
+        [
+          197,
+          320
+        ],
+        [
+          197,
+          366
+        ],
+        [
+          148,
+          366
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          435
+        ],
+        [
+          197,
+          435
+        ],
+        [
+          197,
+          481
+        ],
+        [
+          148,
+          481
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        320,
+        197,
+        366
+      ],
+      "text": "II.",
+      "confidence": 0.776
+    },
+    {
+      "line_id": "0175_viet_001",
+      "bbox": [
+        [
+          151,
+          1017
+        ],
+        [
+          314,
+          1020
+        ],
+        [
+          313,
+          1059
+        ],
+        [
+          150,
+          1056
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          1132
+        ],
+        [
+          314,
+          1135
+        ],
+        [
+          313,
+          1174
+        ],
+        [
+          150,
+          1171
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        1017,
+        314,
+        1059
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0175_viet_002",
+      "bbox": [
+        [
+          150,
+          1062
+        ],
+        [
+          629,
+          1062
+        ],
+        [
+          629,
+          1103
+        ],
+        [
+          150,
+          1103
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          1177
+        ],
+        [
+          629,
+          1177
+        ],
+        [
+          629,
+          1218
+        ],
+        [
+          150,
+          1218
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        1062,
+        629,
+        1103
+      ],
+      "text": "XUÂN DA HOÀI TÌNH NHÂN",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0175_viet_003",
+      "bbox": [
+        [
+          146,
+          1115
+        ],
+        [
+          181,
+          1115
+        ],
+        [
+          181,
+          1157
+        ],
+        [
+          146,
+          1157
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          1230
+        ],
+        [
+          181,
+          1230
+        ],
+        [
+          181,
+          1272
+        ],
+        [
+          146,
+          1272
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        1115,
+        181,
+        1157
+      ],
+      "text": "I.",
+      "confidence": 0.6447
+    },
+    {
+      "line_id": "0175_viet_004",
+      "bbox": [
+        [
+          153,
+          1160
+        ],
+        [
+          487,
+          1163
+        ],
+        [
+          487,
+          1206
+        ],
+        [
+          152,
+          1203
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          1275
+        ],
+        [
+          487,
+          1278
+        ],
+        [
+          487,
+          1321
+        ],
+        [
+          152,
+          1318
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        1160,
+        487,
+        1206
+      ],
+      "text": "Thiềm cung khuê oán",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0175_viet_005",
+      "bbox": [
+        [
+          153,
+          1216
+        ],
+        [
+          690,
+          1216
+        ],
+        [
+          690,
+          1253
+        ],
+        [
+          153,
+          1253
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          1331
+        ],
+        [
+          690,
+          1331
+        ],
+        [
+          690,
+          1368
+        ],
+        [
+          153,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        1216,
+        690,
+        1253
+      ],
+      "text": "Hạo quyên quyên nguyệt hộ tùng âm,",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0175_viet_006",
+      "bbox": [
+        [
+          151,
+          1257
+        ],
+        [
+          580,
+          1263
+        ],
+        [
+          580,
+          1303
+        ],
+        [
+          150,
+          1296
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          1372
+        ],
+        [
+          580,
+          1378
+        ],
+        [
+          580,
+          1418
+        ],
+        [
+          150,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        1257,
+        580,
+        1303
+      ],
+      "text": "Ái nhất khắc thiên câm (kim),",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0175_viet_007",
+      "bbox": [
+        [
+          151,
+          1305
+        ],
+        [
+          592,
+          1310
+        ],
+        [
+          592,
+          1350
+        ],
+        [
+          150,
+          1346
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          1420
+        ],
+        [
+          592,
+          1425
+        ],
+        [
+          592,
+          1465
+        ],
+        [
+          150,
+          1461
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        1305,
+        592,
+        1350
+      ],
+      "text": "Độ nhất khắc thiên câm (kim).",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0175_viet_008",
+      "bbox": [
+        [
+          152,
+          1356
+        ],
+        [
+          753,
+          1361
+        ],
+        [
+          753,
+          1398
+        ],
+        [
+          152,
+          1393
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          1471
+        ],
+        [
+          753,
+          1476
+        ],
+        [
+          753,
+          1513
+        ],
+        [
+          152,
+          1508
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        1356,
+        753,
+        1398
+      ],
+      "text": "Thính thanh thanh chẩm bạn trùng ngâm,",
+      "confidence": 0.9058
+    },
+    {
+      "line_id": "0175_viet_009",
+      "bbox": [
+        [
+          88,
+          1424
+        ],
+        [
+          157,
+          1424
+        ],
+        [
+          157,
+          1469
+        ],
+        [
+          88,
+          1469
+        ]
+      ],
+      "bbox_original": [
+        [
+          88,
+          1539
+        ],
+        [
+          157,
+          1539
+        ],
+        [
+          157,
+          1584
+        ],
+        [
+          88,
+          1584
+        ]
+      ],
+      "box_xyxy": [
+        88,
+        1424,
+        157,
+        1469
+      ],
+      "text": "168",
+      "confidence": 0.9239
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "II.",
+      "XUÂN DA HOÀI TÌNH NHÂN",
+      "I.",
+      "Thiềm cung khuê oán",
+      "Hạo quyên quyên nguyệt hộ tùng âm,",
+      "Ái nhất khắc thiên câm (kim),",
+      "Độ nhất khắc thiên câm (kim).",
+      "Thính thanh thanh chẩm bạn trùng ngâm,",
+      "168"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

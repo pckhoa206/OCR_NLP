@@ -1,0 +1,987 @@
+{
+  "page_id": "0058",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 58,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0058_viet_000",
+      "bbox": [
+        [
+          190,
+          25
+        ],
+        [
+          236,
+          25
+        ],
+        [
+          236,
+          64
+        ],
+        [
+          190,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          146
+        ],
+        [
+          236,
+          146
+        ],
+        [
+          236,
+          185
+        ],
+        [
+          190,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        25,
+        236,
+        64
+      ],
+      "text": "82",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0058_viet_001",
+      "bbox": [
+        [
+          663,
+          28
+        ],
+        [
+          989,
+          28
+        ],
+        [
+          989,
+          59
+        ],
+        [
+          663,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          149
+        ],
+        [
+          989,
+          149
+        ],
+        [
+          989,
+          180
+        ],
+        [
+          663,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        28,
+        989,
+        59
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0058_viet_002",
+      "bbox": [
+        [
+          228,
+          178
+        ],
+        [
+          790,
+          180
+        ],
+        [
+          790,
+          220
+        ],
+        [
+          228,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          299
+        ],
+        [
+          790,
+          301
+        ],
+        [
+          790,
+          341
+        ],
+        [
+          228,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        178,
+        790,
+        220
+      ],
+      "text": "Hữu y giả diệc ý, vô y giả diệc ý",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0058_viet_003",
+      "bbox": [
+        [
+          250,
+          227
+        ],
+        [
+          915,
+          227
+        ],
+        [
+          915,
+          264
+        ],
+        [
+          250,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          348
+        ],
+        [
+          915,
+          348
+        ],
+        [
+          915,
+          385
+        ],
+        [
+          250,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        227,
+        915,
+        264
+      ],
+      "text": "Kẻ có áo thì cho thêm. không áo thì cho có",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0058_viet_004",
+      "bbox": [
+        [
+          227,
+          345
+        ],
+        [
+          833,
+          343
+        ],
+        [
+          833,
+          382
+        ],
+        [
+          227,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          466
+        ],
+        [
+          833,
+          464
+        ],
+        [
+          833,
+          503
+        ],
+        [
+          227,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        343,
+        833,
+        383
+      ],
+      "text": "thị trợ vương dưỡng kỳ dân giả dã",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0058_viet_005",
+      "bbox": [
+        [
+          250,
+          392
+        ],
+        [
+          826,
+          392
+        ],
+        [
+          826,
+          432
+        ],
+        [
+          250,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          513
+        ],
+        [
+          826,
+          513
+        ],
+        [
+          826,
+          553
+        ],
+        [
+          250,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        392,
+        826,
+        432
+      ],
+      "text": "ây là giúp vua trong việc nuôi dân vậy",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0058_viet_006",
+      "bbox": [
+        [
+          230,
+          505
+        ],
+        [
+          727,
+          505
+        ],
+        [
+          727,
+          542
+        ],
+        [
+          230,
+          542
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          626
+        ],
+        [
+          727,
+          626
+        ],
+        [
+          727,
+          663
+        ],
+        [
+          230,
+          663
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        505,
+        727,
+        542
+      ],
+      "text": "hà dĩ chi kim bất nghiệp dã ?",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0058_viet_007",
+      "bbox": [
+        [
+          251,
+          553
+        ],
+        [
+          801,
+          552
+        ],
+        [
+          801,
+          591
+        ],
+        [
+          251,
+          592
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          674
+        ],
+        [
+          801,
+          673
+        ],
+        [
+          801,
+          712
+        ],
+        [
+          251,
+          713
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        552,
+        801,
+        592
+      ],
+      "text": "Sao đến nay chưa được phong-chức ?",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0058_viet_008",
+      "bbox": [
+        [
+          230,
+          670
+        ],
+        [
+          728,
+          668
+        ],
+        [
+          729,
+          706
+        ],
+        [
+          230,
+          708
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          791
+        ],
+        [
+          728,
+          789
+        ],
+        [
+          729,
+          827
+        ],
+        [
+          230,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        668,
+        729,
+        708
+      ],
+      "text": "Nghiệp-dương-tử vô dạng da ?",
+      "confidence": 0.9346
+    },
+    {
+      "line_id": "0058_viet_009",
+      "bbox": [
+        [
+          252,
+          716
+        ],
+        [
+          766,
+          716
+        ],
+        [
+          766,
+          756
+        ],
+        [
+          252,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          837
+        ],
+        [
+          766,
+          837
+        ],
+        [
+          766,
+          877
+        ],
+        [
+          252,
+          877
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        716,
+        766,
+        756
+      ],
+      "text": "Nghiệp-dương tử bình yên chăng",
+      "confidence": 0.936
+    },
+    {
+      "line_id": "0058_viet_010",
+      "bbox": [
+        [
+          230,
+          833
+        ],
+        [
+          904,
+          833
+        ],
+        [
+          904,
+          870
+        ],
+        [
+          230,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          954
+        ],
+        [
+          904,
+          954
+        ],
+        [
+          904,
+          991
+        ],
+        [
+          230,
+          991
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        833,
+        904,
+        870
+      ],
+      "text": "Thị kỳ vi nhân ai quan quả, tuất có độc,",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0058_viet_011",
+      "bbox": [
+        [
+          251,
+          880
+        ],
+        [
+          989,
+          880
+        ],
+        [
+          989,
+          917
+        ],
+        [
+          251,
+          917
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1001
+        ],
+        [
+          989,
+          1001
+        ],
+        [
+          989,
+          1038
+        ],
+        [
+          251,
+          1038
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        880,
+        989,
+        917
+      ],
+      "text": "xem ông ta là người thương người góa, giúp",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0058_viet_012",
+      "bbox": [
+        [
+          195,
+          923
+        ],
+        [
+          344,
+          923
+        ],
+        [
+          344,
+          965
+        ],
+        [
+          195,
+          965
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1044
+        ],
+        [
+          344,
+          1044
+        ],
+        [
+          344,
+          1086
+        ],
+        [
+          195,
+          1086
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        923,
+        344,
+        965
+      ],
+      "text": "người côi,",
+      "confidence": 0.9353
+    },
+    {
+      "line_id": "0058_viet_013",
+      "bbox": [
+        [
+          231,
+          1040
+        ],
+        [
+          685,
+          1040
+        ],
+        [
+          685,
+          1074
+        ],
+        [
+          231,
+          1074
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1161
+        ],
+        [
+          685,
+          1161
+        ],
+        [
+          685,
+          1195
+        ],
+        [
+          231,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1040,
+        685,
+        1074
+      ],
+      "text": "chần khôn cùng, bồ bãt túc,",
+      "confidence": 0.875
+    },
+    {
+      "line_id": "0058_viet_014",
+      "bbox": [
+        [
+          252,
+          1086
+        ],
+        [
+          944,
+          1084
+        ],
+        [
+          944,
+          1122
+        ],
+        [
+          252,
+          1124
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1207
+        ],
+        [
+          944,
+          1205
+        ],
+        [
+          944,
+          1243
+        ],
+        [
+          252,
+          1245
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1084,
+        944,
+        1124
+      ],
+      "text": "cứu kẻ nghèo khổ, bổ khuyết cho kẻ thiêu-thôn",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0058_viet_015",
+      "bbox": [
+        [
+          229,
+          1207
+        ],
+        [
+          782,
+          1204
+        ],
+        [
+          783,
+          1241
+        ],
+        [
+          229,
+          1244
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1328
+        ],
+        [
+          782,
+          1325
+        ],
+        [
+          783,
+          1362
+        ],
+        [
+          229,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1204,
+        783,
+        1244
+      ],
+      "text": "thị trợ vương tức kỳ dân giả dã",
+      "confidence": 0.9349
+    },
+    {
+      "line_id": "0058_viet_016",
+      "bbox": [
+        [
+          252,
+          1253
+        ],
+        [
+          653,
+          1253
+        ],
+        [
+          653,
+          1294
+        ],
+        [
+          252,
+          1294
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1374
+        ],
+        [
+          653,
+          1374
+        ],
+        [
+          653,
+          1415
+        ],
+        [
+          252,
+          1415
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1253,
+        653,
+        1294
+      ],
+      "text": "ây là giúp vua cho dân sông",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0058_viet_017",
+      "bbox": [
+        [
+          233,
+          1368
+        ],
+        [
+          733,
+          1368
+        ],
+        [
+          733,
+          1405
+        ],
+        [
+          233,
+          1405
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1489
+        ],
+        [
+          733,
+          1489
+        ],
+        [
+          733,
+          1526
+        ],
+        [
+          233,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1368,
+        733,
+        1405
+      ],
+      "text": "hà dĩ chí kim bất nghiệp dã ?",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0058_viet_018",
+      "bbox": [
+        [
+          253,
+          1416
+        ],
+        [
+          782,
+          1414
+        ],
+        [
+          782,
+          1452
+        ],
+        [
+          253,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1537
+        ],
+        [
+          782,
+          1535
+        ],
+        [
+          782,
+          1573
+        ],
+        [
+          253,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1414,
+        782,
+        1454
+      ],
+      "text": "sao đên nay vẫn chưa phong chức ?",
+      "confidence": 0.9054
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Hữu y giả diệc ý, vô y giả diệc ý",
+      "thị trợ vương dưỡng kỳ dân giả dã",
+      "hà dĩ chi kim bất nghiệp dã ?",
+      "Nghiệp-dương-tử vô dạng da ?",
+      "Thị kỳ vi nhân ai quan quả, tuất có độc,",
+      "chần khôn cùng, bồ bãt túc,",
+      "thị trợ vương tức kỳ dân giả dã",
+      "hà dĩ chí kim bất nghiệp dã ?"
+    ],
+    "dich_nghia_lines": [
+      "Kẻ có áo thì cho thêm. không áo thì cho có",
+      "ây là giúp vua trong việc nuôi dân vậy",
+      "Sao đến nay chưa được phong-chức ?",
+      "Nghiệp-dương tử bình yên chăng",
+      "xem ông ta là người thương người góa, giúp người côi,",
+      "cứu kẻ nghèo khổ, bổ khuyết cho kẻ thiêu-thôn",
+      "ây là giúp vua cho dân sông",
+      "sao đên nay vẫn chưa phong chức ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "有衣者亦衣無衣者亦衣",
+        "phien_am": "Hữu y giả diệc ý, vô y giả diệc ý",
+        "dich_nghia_gloss": "Kẻ có áo thì cho thêm. không áo thì cho có"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "是助王養其民者也",
+        "phien_am": "thị trợ vương dưỡng kỳ dân giả dã",
+        "dich_nghia_gloss": "ây là giúp vua trong việc nuôi dân vậy"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "何以至今不業也",
+        "phien_am": "hà dĩ chi kim bất nghiệp dã ?",
+        "dich_nghia_gloss": "Sao đến nay chưa được phong-chức ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "業陽子無恙耶",
+        "phien_am": "Nghiệp-dương-tử vô dạng da ?",
+        "dich_nghia_gloss": "Nghiệp-dương tử bình yên chăng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "是其為人哀鰥寡卹孤獨",
+        "phien_am": "Thị kỳ vi nhân ai quan quả, tuất có độc,",
+        "dich_nghia_gloss": "xem ông ta là người thương người góa, giúp người côi,"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "眼困窮補不足",
+        "phien_am": "chần khôn cùng, bồ bãt túc,",
+        "dich_nghia_gloss": "cứu kẻ nghèo khổ, bổ khuyết cho kẻ thiêu-thôn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "是助王息其民者也",
+        "phien_am": "thị trợ vương tức kỳ dân giả dã",
+        "dich_nghia_gloss": "ây là giúp vua cho dân sông"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "何以至今不業也",
+        "phien_am": "hà dĩ chí kim bất nghiệp dã ?",
+        "dich_nghia_gloss": "sao đên nay vẫn chưa phong chức ?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page_id": "0050",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 50,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0050_han_000",
+      "bbox": [
+        [
+          199,
+          199
+        ],
+        [
+          948,
+          202
+        ],
+        [
+          948,
+          249
+        ],
+        [
+          199,
+          246
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          320
+        ],
+        [
+          948,
+          323
+        ],
+        [
+          948,
+          370
+        ],
+        [
+          199,
+          367
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        199,
+        948,
+        249
+      ],
+      "text": "非不尊遂也然而形神不全",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0050_han_001",
+      "bbox": [
+        [
+          200,
+          413
+        ],
+        [
+          801,
+          413
+        ],
+        [
+          801,
+          460
+        ],
+        [
+          200,
+          460
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          534
+        ],
+        [
+          801,
+          534
+        ],
+        [
+          801,
+          581
+        ],
+        [
+          200,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        200,
+        413,
+        801,
+        460
+      ],
+      "text": "蜀願得歸晚食以當肉",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0050_han_002",
+      "bbox": [
+        [
+          197,
+          576
+        ],
+        [
+          876,
+          580
+        ],
+        [
+          876,
+          630
+        ],
+        [
+          197,
+          627
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          697
+        ],
+        [
+          876,
+          701
+        ],
+        [
+          876,
+          751
+        ],
+        [
+          197,
+          748
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        576,
+        876,
+        630
+      ],
+      "text": "安步以當車無罪以當貴",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0050_han_003",
+      "bbox": [
+        [
+          204,
+          747
+        ],
+        [
+          668,
+          747
+        ],
+        [
+          668,
+          794
+        ],
+        [
+          204,
+          794
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          868
+        ],
+        [
+          668,
+          868
+        ],
+        [
+          668,
+          915
+        ],
+        [
+          204,
+          915
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        747,
+        668,
+        794
+      ],
+      "text": "清淨貞正以自娱",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0050_han_004",
+      "bbox": [
+        [
+          202,
+          913
+        ],
+        [
+          524,
+          913
+        ],
+        [
+          524,
+          958
+        ],
+        [
+          202,
+          958
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1034
+        ],
+        [
+          524,
+          1034
+        ],
+        [
+          524,
+          1079
+        ],
+        [
+          202,
+          1079
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        913,
+        524,
+        958
+      ],
+      "text": "則再拜辭去",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0050_han_005",
+      "bbox": [
+        [
+          198,
+          1076
+        ],
+        [
+          666,
+          1076
+        ],
+        [
+          666,
+          1124
+        ],
+        [
+          198,
+          1124
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1197
+        ],
+        [
+          666,
+          1197
+        ],
+        [
+          666,
+          1245
+        ],
+        [
+          198,
+          1245
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        1076,
+        666,
+        1124
+      ],
+      "text": "君子曰屑知足矣",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0050_han_006",
+      "bbox": [
+        [
+          199,
+          1238
+        ],
+        [
+          806,
+          1240
+        ],
+        [
+          806,
+          1292
+        ],
+        [
+          199,
+          1290
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1359
+        ],
+        [
+          806,
+          1361
+        ],
+        [
+          806,
+          1413
+        ],
+        [
+          199,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1238,
+        806,
+        1292
+      ],
+      "text": "歸真反璞則終身不辱",
+      "confidence": 0.9981
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "非不尊遂也然而形神不全",
+      "蜀願得歸晚食以當肉",
+      "安步以當車無罪以當貴",
+      "清淨貞正以自娱",
+      "則再拜辭去",
+      "君子曰屑知足矣",
+      "歸真反璞則終身不辱"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "非不尊遂也然而形神不全",
+        "phien_am": "phi bãt tôn toại dũ, nhiên nhi hình thần bất toàn",
+        "dich_nghia_gloss": "không phải là không vẻ vang nhưng tinh thần không vẹn."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "蜀願得歸晚食以當肉",
+        "phien_am": "Xúc nguyện đắc qui, văn thực dĩ đáng nhục",
+        "dich_nghia_gloss": "Xúc chỉ xin về, đói ăn rau thay thịt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "安步以當車無罪以當貴",
+        "phien_am": "an bộ dĩ đáng xa, vô tội dĩ đáng quý",
+        "dich_nghia_gloss": "đi bộ thay xe, vô tội thay cho hiển quý"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "清淨貞正以自娱",
+        "phien_am": "thanh tĩnh trinh chính dĩ tự ngu",
+        "dich_nghia_gloss": "lầy thanh tính trinh chính làm vui"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "則再拜辭去",
+        "phien_am": "tắc tái bái từ khứ.",
+        "dich_nghia_gloss": "lại vái xin từ biệt"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "君子曰屑知足矣",
+        "phien_am": "Quân-tử viết: Xúc tri túc hĩ",
+        "dich_nghia_gloss": "Người quân-tử nói: Xúc là người biết lây làm đủ"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "歸真反璞則終身不辱",
+        "phien_am": "Quy chân phản phác tắc chung thân bất nhục",
+        "dich_nghia_gloss": "Biết quay về chân lý tất suốt đời không nhục"
+      }
+    ]
+  }
+}

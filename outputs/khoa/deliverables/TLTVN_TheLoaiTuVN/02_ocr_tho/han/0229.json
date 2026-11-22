@@ -1,0 +1,170 @@
+{
+  "page_id": "0229",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 229,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1274,
+    "footnote_separator_y_original": 1389,
+    "effective_width": 1122,
+    "effective_height": 1274
+  },
+  "items": [
+    {
+      "line_id": "0229_han_000",
+      "bbox": [
+        [
+          146,
+          1058
+        ],
+        [
+          298,
+          1058
+        ],
+        [
+          298,
+          1104
+        ],
+        [
+          146,
+          1104
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          1173
+        ],
+        [
+          298,
+          1173
+        ],
+        [
+          298,
+          1219
+        ],
+        [
+          146,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        1058,
+        298,
+        1104
+      ],
+      "text": "鄉居即景",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0229_han_001",
+      "bbox": [
+        [
+          144,
+          1111
+        ],
+        [
+          290,
+          1111
+        ],
+        [
+          290,
+          1162
+        ],
+        [
+          144,
+          1162
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          1226
+        ],
+        [
+          290,
+          1226
+        ],
+        [
+          290,
+          1277
+        ],
+        [
+          144,
+          1277
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        1111,
+        290,
+        1162
+      ],
+      "text": "(南鄉子)",
+      "confidence": 0.9982
+    },
+    {
+      "line_id": "0229_han_002",
+      "bbox": [
+        [
+          148,
+          1167
+        ],
+        [
+          342,
+          1170
+        ],
+        [
+          341,
+          1211
+        ],
+        [
+          147,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          1282
+        ],
+        [
+          342,
+          1285
+        ],
+        [
+          341,
+          1326
+        ],
+        [
+          147,
+          1324
+        ]
+      ],
+      "box_xyxy": [
+        147,
+        1167,
+        342,
+        1211
+      ],
+      "text": "竹徑四時春，",
+      "confidence": 0.9974
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "鄉居即景",
+      "(南鄉子)",
+      "竹徑四時春，"
+    ],
+    "interlinear_triplets": []
+  }
+}

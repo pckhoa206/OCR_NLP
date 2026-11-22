@@ -1,0 +1,189 @@
+{
+  "page_id": "0068",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 68,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0068_han_000",
+      "bbox": [
+        [
+          268,
+          169
+        ],
+        [
+          525,
+          169
+        ],
+        [
+          525,
+          218
+        ],
+        [
+          268,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          290
+        ],
+        [
+          525,
+          290
+        ],
+        [
+          525,
+          339
+        ],
+        [
+          268,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        169,
+        525,
+        218
+      ],
+      "text": "曰無苛政",
+      "confidence": 0.9961
+    },
+    {
+      "line_id": "0068_han_001",
+      "bbox": [
+        [
+          269,
+          373
+        ],
+        [
+          734,
+          371
+        ],
+        [
+          735,
+          421
+        ],
+        [
+          269,
+          423
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          494
+        ],
+        [
+          734,
+          492
+        ],
+        [
+          735,
+          542
+        ],
+        [
+          269,
+          544
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        371,
+        735,
+        423
+      ],
+      "text": "夫子曰小子識之",
+      "confidence": 0.9968
+    },
+    {
+      "line_id": "0068_han_002",
+      "bbox": [
+        [
+          267,
+          532
+        ],
+        [
+          668,
+          532
+        ],
+        [
+          668,
+          581
+        ],
+        [
+          267,
+          581
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          653
+        ],
+        [
+          668,
+          653
+        ],
+        [
+          668,
+          702
+        ],
+        [
+          267,
+          702
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        532,
+        668,
+        581
+      ],
+      "text": "苛政猛於虎也",
+      "confidence": 0.9977
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "曰無苛政",
+      "夫子曰小子識之",
+      "苛政猛於虎也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "曰無苛政",
+        "phien_am": "Viết: u Vô hà chính....",
+        "dich_nghia_gloss": "Người đàn-bà đáp: a vì không có chính sách hà khắc ..."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "夫子曰小子識之",
+        "phien_am": "Phu-tử việt: a tiêu tử chí chi.",
+        "dich_nghia_gloss": "Phu-tử nói rằng: - Các trò ghi nhớ lầy điều đó."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苛政猛於虎也",
+        "phien_am": "Hà chính mãnh ư hồ giũ....",
+        "dich_nghia_gloss": "Chính-sách hà-khắc tàn-bạo hơn cọp 11"
+      }
+    ]
+  }
+}

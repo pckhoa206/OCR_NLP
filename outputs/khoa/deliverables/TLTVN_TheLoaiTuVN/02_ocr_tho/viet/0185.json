@@ -1,0 +1,172 @@
+{
+  "page_id": "0185",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 185,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0185_viet_000",
+      "bbox": [
+        [
+          159,
+          392
+        ],
+        [
+          209,
+          392
+        ],
+        [
+          209,
+          438
+        ],
+        [
+          159,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          507
+        ],
+        [
+          209,
+          507
+        ],
+        [
+          209,
+          553
+        ],
+        [
+          159,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        392,
+        209,
+        438
+      ],
+      "text": "II.",
+      "confidence": 0.8314
+    },
+    {
+      "line_id": "0185_viet_001",
+      "bbox": [
+        [
+          149,
+          982
+        ],
+        [
+          214,
+          982
+        ],
+        [
+          214,
+          1031
+        ],
+        [
+          149,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          149,
+          1097
+        ],
+        [
+          214,
+          1097
+        ],
+        [
+          214,
+          1146
+        ],
+        [
+          149,
+          1146
+        ]
+      ],
+      "box_xyxy": [
+        149,
+        982,
+        214,
+        1031
+      ],
+      "text": "III",
+      "confidence": 0.8826
+    },
+    {
+      "line_id": "0185_viet_002",
+      "bbox": [
+        [
+          89,
+          1435
+        ],
+        [
+          159,
+          1438
+        ],
+        [
+          157,
+          1486
+        ],
+        [
+          87,
+          1483
+        ]
+      ],
+      "bbox_original": [
+        [
+          89,
+          1550
+        ],
+        [
+          159,
+          1553
+        ],
+        [
+          157,
+          1601
+        ],
+        [
+          87,
+          1598
+        ]
+      ],
+      "box_xyxy": [
+        87,
+        1435,
+        159,
+        1486
+      ],
+      "text": "178",
+      "confidence": 0.9225
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "II.",
+      "III",
+      "178"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

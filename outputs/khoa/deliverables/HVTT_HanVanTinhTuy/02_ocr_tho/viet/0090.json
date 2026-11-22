@@ -1,0 +1,979 @@
+{
+  "page_id": "0090",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 90,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0090_viet_000",
+      "bbox": [
+        [
+          192,
+          28
+        ],
+        [
+          234,
+          28
+        ],
+        [
+          234,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          149
+        ],
+        [
+          234,
+          149
+        ],
+        [
+          234,
+          185
+        ],
+        [
+          192,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        28,
+        234,
+        64
+      ],
+      "text": "84",
+      "confidence": 0.9394
+    },
+    {
+      "line_id": "0090_viet_001",
+      "bbox": [
+        [
+          661,
+          26
+        ],
+        [
+          989,
+          26
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          661,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          147
+        ],
+        [
+          989,
+          147
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          661,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        26,
+        989,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.92
+    },
+    {
+      "line_id": "0090_viet_002",
+      "bbox": [
+        [
+          295,
+          182
+        ],
+        [
+          703,
+          182
+        ],
+        [
+          703,
+          222
+        ],
+        [
+          295,
+          222
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          303
+        ],
+        [
+          703,
+          303
+        ],
+        [
+          703,
+          343
+        ],
+        [
+          295,
+          343
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        182,
+        703,
+        222
+      ],
+      "text": "Cận tái thượng chi nhân,",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0090_viet_003",
+      "bbox": [
+        [
+          280,
+          233
+        ],
+        [
+          765,
+          233
+        ],
+        [
+          765,
+          274
+        ],
+        [
+          280,
+          274
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          354
+        ],
+        [
+          765,
+          354
+        ],
+        [
+          765,
+          395
+        ],
+        [
+          280,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        233,
+        765,
+        274
+      ],
+      "text": "Có người ở gần đồn ải biên giới",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0090_viet_004",
+      "bbox": [
+        [
+          296,
+          359
+        ],
+        [
+          636,
+          359
+        ],
+        [
+          636,
+          397
+        ],
+        [
+          296,
+          397
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          480
+        ],
+        [
+          636,
+          480
+        ],
+        [
+          636,
+          518
+        ],
+        [
+          296,
+          518
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        359,
+        636,
+        397
+      ],
+      "text": "hữu thiện thuật giả.",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0090_viet_005",
+      "bbox": [
+        [
+          279,
+          407
+        ],
+        [
+          586,
+          409
+        ],
+        [
+          586,
+          451
+        ],
+        [
+          279,
+          449
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          528
+        ],
+        [
+          586,
+          530
+        ],
+        [
+          586,
+          572
+        ],
+        [
+          279,
+          570
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        407,
+        586,
+        451
+      ],
+      "text": "giỏi về thuật đạo gia.",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0090_viet_006",
+      "bbox": [
+        [
+          295,
+          530
+        ],
+        [
+          768,
+          530
+        ],
+        [
+          768,
+          570
+        ],
+        [
+          295,
+          570
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          651
+        ],
+        [
+          768,
+          651
+        ],
+        [
+          768,
+          691
+        ],
+        [
+          295,
+          691
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        530,
+        768,
+        570
+      ],
+      "text": "Mã vô cõ vong nhi nhập hồ.",
+      "confidence": 0.8605
+    },
+    {
+      "line_id": "0090_viet_007",
+      "bbox": [
+        [
+          279,
+          582
+        ],
+        [
+          840,
+          579
+        ],
+        [
+          840,
+          621
+        ],
+        [
+          279,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          703
+        ],
+        [
+          840,
+          700
+        ],
+        [
+          840,
+          742
+        ],
+        [
+          279,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        579,
+        840,
+        623
+      ],
+      "text": "Con ngựa vô cồ chạy vào đất hô mất",
+      "confidence": 0.8885
+    },
+    {
+      "line_id": "0090_viet_008",
+      "bbox": [
+        [
+          261,
+          703
+        ],
+        [
+          817,
+          705
+        ],
+        [
+          817,
+          746
+        ],
+        [
+          261,
+          744
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          824
+        ],
+        [
+          817,
+          826
+        ],
+        [
+          817,
+          867
+        ],
+        [
+          261,
+          865
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        703,
+        817,
+        746
+      ],
+      "text": "Nhân giai điều chi. Kỳ phụ viết",
+      "confidence": 0.895
+    },
+    {
+      "line_id": "0090_viet_009",
+      "bbox": [
+        [
+          277,
+          755
+        ],
+        [
+          886,
+          753
+        ],
+        [
+          886,
+          794
+        ],
+        [
+          277,
+          797
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          876
+        ],
+        [
+          886,
+          874
+        ],
+        [
+          886,
+          915
+        ],
+        [
+          277,
+          918
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        753,
+        886,
+        797
+      ],
+      "text": "Những người khác đều đến chia buổn",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0090_viet_010",
+      "bbox": [
+        [
+          280,
+          802
+        ],
+        [
+          583,
+          802
+        ],
+        [
+          583,
+          844
+        ],
+        [
+          280,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          923
+        ],
+        [
+          583,
+          923
+        ],
+        [
+          583,
+          965
+        ],
+        [
+          280,
+          965
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        802,
+        583,
+        844
+      ],
+      "text": "Người cha nói rằng:",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0090_viet_011",
+      "bbox": [
+        [
+          295,
+          923
+        ],
+        [
+          804,
+          923
+        ],
+        [
+          804,
+          963
+        ],
+        [
+          295,
+          963
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1044
+        ],
+        [
+          804,
+          1044
+        ],
+        [
+          804,
+          1084
+        ],
+        [
+          295,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        923,
+        804,
+        963
+      ],
+      "text": "a Thử hà cự bất vi phúc hồ ?n",
+      "confidence": 0.8933
+    },
+    {
+      "line_id": "0090_viet_012",
+      "bbox": [
+        [
+          281,
+          974
+        ],
+        [
+          867,
+          974
+        ],
+        [
+          867,
+          1014
+        ],
+        [
+          281,
+          1014
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1095
+        ],
+        [
+          867,
+          1095
+        ],
+        [
+          867,
+          1135
+        ],
+        [
+          281,
+          1135
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        974,
+        867,
+        1014
+      ],
+      "text": "a việc này biết đâu lại không là may ở .",
+      "confidence": 0.8718
+    },
+    {
+      "line_id": "0090_viet_013",
+      "bbox": [
+        [
+          240,
+          1098
+        ],
+        [
+          985,
+          1099
+        ],
+        [
+          985,
+          1137
+        ],
+        [
+          240,
+          1136
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1219
+        ],
+        [
+          985,
+          1220
+        ],
+        [
+          985,
+          1258
+        ],
+        [
+          240,
+          1257
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1098,
+        985,
+        1137
+      ],
+      "text": "Cư sồ nguyệt, mã tương hồ tuăn mã nhi quy.",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0090_viet_014",
+      "bbox": [
+        [
+          280,
+          1149
+        ],
+        [
+          991,
+          1149
+        ],
+        [
+          991,
+          1189
+        ],
+        [
+          280,
+          1189
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1270
+        ],
+        [
+          991,
+          1270
+        ],
+        [
+          991,
+          1310
+        ],
+        [
+          280,
+          1310
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1149,
+        991,
+        1189
+      ],
+      "text": "Được vài tháng, con ngựa đó đem con ngựa Hồ",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0090_viet_015",
+      "bbox": [
+        [
+          286,
+          1193
+        ],
+        [
+          437,
+          1193
+        ],
+        [
+          437,
+          1231
+        ],
+        [
+          286,
+          1231
+        ]
+      ],
+      "bbox_original": [
+        [
+          286,
+          1314
+        ],
+        [
+          437,
+          1314
+        ],
+        [
+          437,
+          1352
+        ],
+        [
+          286,
+          1352
+        ]
+      ],
+      "box_xyxy": [
+        286,
+        1193,
+        437,
+        1231
+      ],
+      "text": "tòt trở về.",
+      "confidence": 0.844
+    },
+    {
+      "line_id": "0090_viet_016",
+      "bbox": [
+        [
+          263,
+          1317
+        ],
+        [
+          774,
+          1317
+        ],
+        [
+          774,
+          1354
+        ],
+        [
+          263,
+          1354
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          1438
+        ],
+        [
+          774,
+          1438
+        ],
+        [
+          774,
+          1475
+        ],
+        [
+          263,
+          1475
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        1317,
+        774,
+        1354
+      ],
+      "text": "Nhân giai hạ chi. Kỳ phụ viết",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0090_viet_017",
+      "bbox": [
+        [
+          276,
+          1364
+        ],
+        [
+          869,
+          1366
+        ],
+        [
+          869,
+          1409
+        ],
+        [
+          276,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1485
+        ],
+        [
+          869,
+          1487
+        ],
+        [
+          869,
+          1530
+        ],
+        [
+          276,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1364,
+        869,
+        1409
+      ],
+      "text": "Những người khác đều đền chúc mừng",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0090_viet_018",
+      "bbox": [
+        [
+          278,
+          1410
+        ],
+        [
+          583,
+          1412
+        ],
+        [
+          583,
+          1453
+        ],
+        [
+          278,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          1531
+        ],
+        [
+          583,
+          1533
+        ],
+        [
+          583,
+          1574
+        ],
+        [
+          278,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        1410,
+        583,
+        1453
+      ],
+      "text": "Người cha nói rằng",
+      "confidence": 0.9322
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Cận tái thượng chi nhân,",
+      "hữu thiện thuật giả.",
+      "Mã vô cõ vong nhi nhập hồ.",
+      "Nhân giai điều chi. Kỳ phụ viết",
+      "a Thử hà cự bất vi phúc hồ ?n",
+      "Cư sồ nguyệt, mã tương hồ tuăn mã nhi quy.",
+      "Nhân giai hạ chi. Kỳ phụ viết"
+    ],
+    "dich_nghia_lines": [
+      "Có người ở gần đồn ải biên giới",
+      "giỏi về thuật đạo gia.",
+      "Con ngựa vô cồ chạy vào đất hô mất",
+      "Những người khác đều đến chia buổn Người cha nói rằng:",
+      "a việc này biết đâu lại không là may ở .",
+      "Được vài tháng, con ngựa đó đem con ngựa Hồ tòt trở về.",
+      "Những người khác đều đền chúc mừng Người cha nói rằng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "近塞上之人",
+        "phien_am": "Cận tái thượng chi nhân,",
+        "dich_nghia_gloss": "Có người ở gần đồn ải biên giới"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "有善術者",
+        "phien_am": "hữu thiện thuật giả.",
+        "dich_nghia_gloss": "giỏi về thuật đạo gia."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "馬無故亡而入胡",
+        "phien_am": "Mã vô cõ vong nhi nhập hồ.",
+        "dich_nghia_gloss": "Con ngựa vô cồ chạy vào đất hô mất"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "人皆弔之其父曰",
+        "phien_am": "Nhân giai điều chi. Kỳ phụ viết",
+        "dich_nghia_gloss": "Những người khác đều đến chia buổn Người cha nói rằng:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "此何遽不爲福乎",
+        "phien_am": "a Thử hà cự bất vi phúc hồ ?n",
+        "dich_nghia_gloss": "a việc này biết đâu lại không là may ở ."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "居數月馬將胡駿馬而歸",
+        "phien_am": "Cư sồ nguyệt, mã tương hồ tuăn mã nhi quy.",
+        "dich_nghia_gloss": "Được vài tháng, con ngựa đó đem con ngựa Hồ tòt trở về."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "人皆賀之其父曰",
+        "phien_am": "Nhân giai hạ chi. Kỳ phụ viết",
+        "dich_nghia_gloss": "Những người khác đều đền chúc mừng Người cha nói rằng"
+      }
+    ]
+  }
+}

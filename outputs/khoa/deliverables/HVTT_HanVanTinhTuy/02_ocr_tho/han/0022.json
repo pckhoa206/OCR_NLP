@@ -1,0 +1,459 @@
+{
+  "page_id": "0022",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 22,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0022_han_000",
+      "bbox": [
+        [
+          247,
+          130
+        ],
+        [
+          783,
+          130
+        ],
+        [
+          783,
+          177
+        ],
+        [
+          247,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          251
+        ],
+        [
+          783,
+          251
+        ],
+        [
+          783,
+          298
+        ],
+        [
+          247,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        130,
+        783,
+        177
+      ],
+      "text": "瞽獻典史獻書師箴",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0022_han_001",
+      "bbox": [
+        [
+          242,
+          336
+        ],
+        [
+          713,
+          333
+        ],
+        [
+          713,
+          379
+        ],
+        [
+          242,
+          381
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          457
+        ],
+        [
+          713,
+          454
+        ],
+        [
+          713,
+          500
+        ],
+        [
+          242,
+          502
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        333,
+        713,
+        381
+      ],
+      "text": "喀賦矇誦百工諫",
+      "confidence": 0.8896
+    },
+    {
+      "line_id": "0022_han_002",
+      "bbox": [
+        [
+          244,
+          535
+        ],
+        [
+          784,
+          538
+        ],
+        [
+          783,
+          587
+        ],
+        [
+          244,
+          583
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          656
+        ],
+        [
+          784,
+          659
+        ],
+        [
+          783,
+          708
+        ],
+        [
+          244,
+          704
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        535,
+        784,
+        587
+      ],
+      "text": "庶人傳語近臣盡規",
+      "confidence": 0.997
+    },
+    {
+      "line_id": "0022_han_003",
+      "bbox": [
+        [
+          244,
+          698
+        ],
+        [
+          782,
+          698
+        ],
+        [
+          782,
+          742
+        ],
+        [
+          244,
+          742
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          819
+        ],
+        [
+          782,
+          819
+        ],
+        [
+          782,
+          863
+        ],
+        [
+          244,
+          863
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        698,
+        782,
+        742
+      ],
+      "text": "親戚補察瞽史教誨",
+      "confidence": 0.991
+    },
+    {
+      "line_id": "0022_han_004",
+      "bbox": [
+        [
+          241,
+          852
+        ],
+        [
+          921,
+          849
+        ],
+        [
+          921,
+          897
+        ],
+        [
+          241,
+          900
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          973
+        ],
+        [
+          921,
+          970
+        ],
+        [
+          921,
+          1018
+        ],
+        [
+          241,
+          1021
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        849,
+        921,
+        900
+      ],
+      "text": "耆艾修之而後王斟酌焉",
+      "confidence": 0.9703
+    },
+    {
+      "line_id": "0022_han_005",
+      "bbox": [
+        [
+          240,
+          1006
+        ],
+        [
+          710,
+          1006
+        ],
+        [
+          710,
+          1055
+        ],
+        [
+          240,
+          1055
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1127
+        ],
+        [
+          710,
+          1127
+        ],
+        [
+          710,
+          1176
+        ],
+        [
+          240,
+          1176
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1006,
+        710,
+        1055
+      ],
+      "text": "是以事行而不悖",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0022_han_006",
+      "bbox": [
+        [
+          243,
+          1164
+        ],
+        [
+          573,
+          1164
+        ],
+        [
+          573,
+          1208
+        ],
+        [
+          243,
+          1208
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1285
+        ],
+        [
+          573,
+          1285
+        ],
+        [
+          573,
+          1329
+        ],
+        [
+          243,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1164,
+        573,
+        1208
+      ],
+      "text": "民之有口也",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0022_han_007",
+      "bbox": [
+        [
+          241,
+          1320
+        ],
+        [
+          707,
+          1320
+        ],
+        [
+          707,
+          1364
+        ],
+        [
+          241,
+          1364
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1441
+        ],
+        [
+          707,
+          1441
+        ],
+        [
+          707,
+          1485
+        ],
+        [
+          241,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1320,
+        707,
+        1364
+      ],
+      "text": "猶土之有山川也",
+      "confidence": 0.9968
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "瞽獻典史獻書師箴",
+      "喀賦矇誦百工諫",
+      "庶人傳語近臣盡規",
+      "親戚補察瞽史教誨",
+      "耆艾修之而後王斟酌焉",
+      "是以事行而不悖",
+      "民之有口也",
+      "猶土之有山川也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "瞽獻典史獻書師箴",
+        "phien_am": "cồ hiễn điền, sử hiện thư, sư châm",
+        "dich_nghia_gloss": "nhạc-sư mù dâng nhạc, quan sử dâng sử cũ, quan thiêu-sư khuyên-can"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "喀賦矇誦百工諫",
+        "phien_am": "tầu phú, mông tụng, bách công gián",
+        "dich_nghia_gloss": "người mù làm thơ, người lòa đọc sách người coi bách công can-gián."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "庶人傳語近臣盡規",
+        "phien_am": "Thứ nhân truyền ngữ, cận thần tận quy",
+        "dich_nghia_gloss": "Người dân truyền lời, kẻ cận thần tâu lên,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "親戚補察瞽史教誨",
+        "phien_am": "thân thích bồ sát, cồ sử giáo hồi",
+        "dich_nghia_gloss": "kẻ thân thích của vua xem xét lại, quan lễ truyền dạy"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "耆艾修之而後王斟酌焉",
+        "phien_am": "Kỳ ngải tu chi, nhi hậu vương châm-chước yên",
+        "dich_nghia_gloss": "Kẻ già sửa lại, rồi đền vua châm-chước"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "是以事行而不悖",
+        "phien_am": "Thị dĩ sự hành nhi bất bột (bội)",
+        "dich_nghia_gloss": "nên việc làm không trái nhau"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "民之有口也",
+        "phien_am": "Dân chi hữu khầu dã,",
+        "dich_nghia_gloss": "Dân có miệng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "猶土之有山川也",
+        "phien_am": "do thồ chi hữu sơn xuyên dã.",
+        "dich_nghia_gloss": "như đất có núi sông"
+      }
+    ]
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "page_id": "0026",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 26,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0026_viet_000",
+      "bbox": [
+        [
+          190,
+          68
+        ],
+        [
+          234,
+          68
+        ],
+        [
+          234,
+          107
+        ],
+        [
+          190,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          189
+        ],
+        [
+          234,
+          189
+        ],
+        [
+          234,
+          228
+        ],
+        [
+          190,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        68,
+        234,
+        107
+      ],
+      "text": "20",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0026_viet_001",
+      "bbox": [
+        [
+          662,
+          69
+        ],
+        [
+          989,
+          69
+        ],
+        [
+          989,
+          103
+        ],
+        [
+          662,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          662,
+          190
+        ],
+        [
+          989,
+          190
+        ],
+        [
+          989,
+          224
+        ],
+        [
+          662,
+          224
+        ]
+      ],
+      "box_xyxy": [
+        662,
+        69,
+        989,
+        103
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0026_viet_002",
+      "bbox": [
+        [
+          227,
+          222
+        ],
+        [
+          590,
+          222
+        ],
+        [
+          590,
+          259
+        ],
+        [
+          227,
+          259
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          343
+        ],
+        [
+          590,
+          343
+        ],
+        [
+          590,
+          380
+        ],
+        [
+          227,
+          380
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        222,
+        590,
+        259
+      ],
+      "text": "nhi tuyên chi ư khầu",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0026_viet_003",
+      "bbox": [
+        [
+          248,
+          264
+        ],
+        [
+          519,
+          267
+        ],
+        [
+          518,
+          307
+        ],
+        [
+          248,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          385
+        ],
+        [
+          519,
+          388
+        ],
+        [
+          518,
+          428
+        ],
+        [
+          248,
+          425
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        264,
+        519,
+        307
+      ],
+      "text": "nói ra bằng miệng",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0026_viet_004",
+      "bbox": [
+        [
+          227,
+          380
+        ],
+        [
+          810,
+          382
+        ],
+        [
+          810,
+          419
+        ],
+        [
+          227,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          501
+        ],
+        [
+          810,
+          503
+        ],
+        [
+          810,
+          540
+        ],
+        [
+          227,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        380,
+        810,
+        419
+      ],
+      "text": "thành nhi hành chi hồ khả úng dã ?",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0026_viet_005",
+      "bbox": [
+        [
+          251,
+          425
+        ],
+        [
+          836,
+          426
+        ],
+        [
+          836,
+          461
+        ],
+        [
+          251,
+          460
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          546
+        ],
+        [
+          836,
+          547
+        ],
+        [
+          836,
+          582
+        ],
+        [
+          251,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        425,
+        836,
+        461
+      ],
+      "text": "nên thì cho truyền đi, còn ứ vào đâu r",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0026_viet_006",
+      "bbox": [
+        [
+          227,
+          537
+        ],
+        [
+          905,
+          538
+        ],
+        [
+          905,
+          579
+        ],
+        [
+          227,
+          577
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          658
+        ],
+        [
+          905,
+          659
+        ],
+        [
+          905,
+          700
+        ],
+        [
+          227,
+          698
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        537,
+        905,
+        579
+      ],
+      "text": "nhược úng kỳ khầu, kỳ dữ năng kỷ hà ?",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0026_viet_007",
+      "bbox": [
+        [
+          252,
+          584
+        ],
+        [
+          790,
+          584
+        ],
+        [
+          790,
+          621
+        ],
+        [
+          252,
+          621
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          705
+        ],
+        [
+          790,
+          705
+        ],
+        [
+          790,
+          742
+        ],
+        [
+          252,
+          742
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        584,
+        790,
+        621
+      ],
+      "text": "nêu bịt miệng thì bịt được bao lâu",
+      "confidence": 0.9352
+    },
+    {
+      "line_id": "0026_viet_008",
+      "bbox": [
+        [
+          232,
+          698
+        ],
+        [
+          542,
+          698
+        ],
+        [
+          542,
+          736
+        ],
+        [
+          232,
+          736
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          819
+        ],
+        [
+          542,
+          819
+        ],
+        [
+          542,
+          857
+        ],
+        [
+          232,
+          857
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        698,
+        542,
+        736
+      ],
+      "text": "Vương phãt thính,",
+      "confidence": 0.8757
+    },
+    {
+      "line_id": "0026_viet_009",
+      "bbox": [
+        [
+          251,
+          740
+        ],
+        [
+          499,
+          742
+        ],
+        [
+          498,
+          784
+        ],
+        [
+          251,
+          781
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          861
+        ],
+        [
+          499,
+          863
+        ],
+        [
+          498,
+          905
+        ],
+        [
+          251,
+          902
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        740,
+        499,
+        784
+      ],
+      "text": "Vua không nghe",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0026_viet_010",
+      "bbox": [
+        [
+          228,
+          859
+        ],
+        [
+          865,
+          859
+        ],
+        [
+          865,
+          896
+        ],
+        [
+          228,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          980
+        ],
+        [
+          865,
+          980
+        ],
+        [
+          865,
+          1017
+        ],
+        [
+          228,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        859,
+        865,
+        896
+      ],
+      "text": "ư thị quốc nhân mạc cảm xuất ngôn,",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0026_viet_011",
+      "bbox": [
+        [
+          251,
+          901
+        ],
+        [
+          674,
+          899
+        ],
+        [
+          674,
+          937
+        ],
+        [
+          251,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1022
+        ],
+        [
+          674,
+          1020
+        ],
+        [
+          674,
+          1058
+        ],
+        [
+          251,
+          1060
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        899,
+        674,
+        939
+      ],
+      "text": "dân nước không ai dám nói",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0026_viet_012",
+      "bbox": [
+        [
+          228,
+          1013
+        ],
+        [
+          751,
+          1015
+        ],
+        [
+          750,
+          1056
+        ],
+        [
+          228,
+          1054
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1134
+        ],
+        [
+          751,
+          1136
+        ],
+        [
+          750,
+          1177
+        ],
+        [
+          228,
+          1175
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1013,
+        751,
+        1056
+      ],
+      "text": "tam niên nãi lưu vương ư Trệ",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0026_viet_013",
+      "bbox": [
+        [
+          251,
+          1061
+        ],
+        [
+          841,
+          1061
+        ],
+        [
+          841,
+          1098
+        ],
+        [
+          251,
+          1098
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1182
+        ],
+        [
+          841,
+          1182
+        ],
+        [
+          841,
+          1219
+        ],
+        [
+          251,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1061,
+        841,
+        1098
+      ],
+      "text": "ba năm vua phải lưu-vong sang đất trệ",
+      "confidence": 0.9178
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "nhi tuyên chi ư khầu",
+      "thành nhi hành chi hồ khả úng dã ?",
+      "nhược úng kỳ khầu, kỳ dữ năng kỷ hà ?",
+      "Vương phãt thính,",
+      "ư thị quốc nhân mạc cảm xuất ngôn,",
+      "tam niên nãi lưu vương ư Trệ"
+    ],
+    "dich_nghia_lines": [
+      "nói ra bằng miệng",
+      "nên thì cho truyền đi, còn ứ vào đâu r",
+      "nêu bịt miệng thì bịt được bao lâu",
+      "Vua không nghe",
+      "dân nước không ai dám nói",
+      "ba năm vua phải lưu-vong sang đất trệ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "而宣之於口",
+        "phien_am": "nhi tuyên chi ư khầu",
+        "dich_nghia_gloss": "nói ra bằng miệng"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "成而行之胡可壅也",
+        "phien_am": "thành nhi hành chi hồ khả úng dã ?",
+        "dich_nghia_gloss": "nên thì cho truyền đi, còn ứ vào đâu r"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "若壅其口其與能幾何",
+        "phien_am": "nhược úng kỳ khầu, kỳ dữ năng kỷ hà ?",
+        "dich_nghia_gloss": "nêu bịt miệng thì bịt được bao lâu"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王弗聽",
+        "phien_am": "Vương phãt thính,",
+        "dich_nghia_gloss": "Vua không nghe"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "於是國人莫敢出言",
+        "phien_am": "ư thị quốc nhân mạc cảm xuất ngôn,",
+        "dich_nghia_gloss": "dân nước không ai dám nói"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "三年乃流王於彘",
+        "phien_am": "tam niên nãi lưu vương ư Trệ",
+        "dich_nghia_gloss": "ba năm vua phải lưu-vong sang đất trệ"
+      }
+    ]
+  }
+}

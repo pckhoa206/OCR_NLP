@@ -1,0 +1,459 @@
+{
+  "page_id": "0010",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 10,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0010_han_000",
+      "bbox": [
+        [
+          243,
+          128
+        ],
+        [
+          572,
+          128
+        ],
+        [
+          572,
+          179
+        ],
+        [
+          243,
+          179
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          249
+        ],
+        [
+          572,
+          249
+        ],
+        [
+          572,
+          300
+        ],
+        [
+          243,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        128,
+        572,
+        179
+      ],
+      "text": "不忍猛而寬",
+      "confidence": 0.9975
+    },
+    {
+      "line_id": "0010_han_001",
+      "bbox": [
+        [
+          242,
+          301
+        ],
+        [
+          501,
+          299
+        ],
+        [
+          502,
+          348
+        ],
+        [
+          242,
+          351
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          422
+        ],
+        [
+          501,
+          420
+        ],
+        [
+          502,
+          469
+        ],
+        [
+          242,
+          472
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        299,
+        502,
+        351
+      ],
+      "text": "鄭國多盜",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0010_han_002",
+      "bbox": [
+        [
+          237,
+          469
+        ],
+        [
+          711,
+          466
+        ],
+        [
+          711,
+          514
+        ],
+        [
+          237,
+          517
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          590
+        ],
+        [
+          711,
+          587
+        ],
+        [
+          711,
+          635
+        ],
+        [
+          237,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        466,
+        711,
+        517
+      ],
+      "text": "取人於翟苻之澤",
+      "confidence": 0.8768
+    },
+    {
+      "line_id": "0010_han_003",
+      "bbox": [
+        [
+          245,
+          642
+        ],
+        [
+          571,
+          642
+        ],
+        [
+          571,
+          686
+        ],
+        [
+          245,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          763
+        ],
+        [
+          571,
+          763
+        ],
+        [
+          571,
+          807
+        ],
+        [
+          245,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        642,
+        571,
+        686
+      ],
+      "text": "太叔悔之曰",
+      "confidence": 0.9974
+    },
+    {
+      "line_id": "0010_han_004",
+      "bbox": [
+        [
+          240,
+          806
+        ],
+        [
+          782,
+          806
+        ],
+        [
+          782,
+          853
+        ],
+        [
+          240,
+          853
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          927
+        ],
+        [
+          782,
+          927
+        ],
+        [
+          782,
+          974
+        ],
+        [
+          240,
+          974
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        806,
+        782,
+        853
+      ],
+      "text": "吾早從夫子不及此",
+      "confidence": 0.9978
+    },
+    {
+      "line_id": "0010_han_005",
+      "bbox": [
+        [
+          238,
+          976
+        ],
+        [
+          850,
+          976
+        ],
+        [
+          850,
+          1023
+        ],
+        [
+          238,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1097
+        ],
+        [
+          850,
+          1097
+        ],
+        [
+          850,
+          1144
+        ],
+        [
+          238,
+          1144
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        976,
+        850,
+        1023
+      ],
+      "text": "興徒兵以攻萑苻之盜",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0010_han_006",
+      "bbox": [
+        [
+          245,
+          1146
+        ],
+        [
+          639,
+          1146
+        ],
+        [
+          639,
+          1190
+        ],
+        [
+          245,
+          1190
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1267
+        ],
+        [
+          639,
+          1267
+        ],
+        [
+          639,
+          1311
+        ],
+        [
+          245,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1146,
+        639,
+        1190
+      ],
+      "text": "盡殺之盜少止",
+      "confidence": 0.9896
+    },
+    {
+      "line_id": "0010_han_007",
+      "bbox": [
+        [
+          244,
+          1309
+        ],
+        [
+          571,
+          1309
+        ],
+        [
+          571,
+          1360
+        ],
+        [
+          244,
+          1360
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1430
+        ],
+        [
+          571,
+          1430
+        ],
+        [
+          571,
+          1481
+        ],
+        [
+          244,
+          1481
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1309,
+        571,
+        1360
+      ],
+      "text": "仲尼曰善哉",
+      "confidence": 0.9999
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "不忍猛而寬",
+      "鄭國多盜",
+      "取人於翟苻之澤",
+      "太叔悔之曰",
+      "吾早從夫子不及此",
+      "興徒兵以攻萑苻之盜",
+      "盡殺之盜少止",
+      "仲尼曰善哉"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "不忍猛而寬",
+        "phien_am": "bắt nhăn mãnh nhi khoan",
+        "dich_nghia_gloss": "Không nữ mạnh nên khoan hòa"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "鄭國多盜",
+        "phien_am": "Trịnh-quốc đa đạo",
+        "dich_nghia_gloss": "Nước Trịnh nhiều trộm cướp"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "取人於翟苻之澤",
+        "phien_am": "Thủ nhân ư hoàn bồ chi trạch",
+        "dich_nghia_gloss": "Bắt người lương thiện ở nơi bãi chằm um tùm."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "太叔悔之曰",
+        "phien_am": "Thái Thúc hồi chi, viết:",
+        "dich_nghia_gloss": "Thái Thúc ăn-năn, nói:"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "吾早從夫子不及此",
+        "phien_am": "ngô tảo tòng phu-tử, bãt cập thử",
+        "dich_nghia_gloss": "ta sớm biết theo lời cha đâu đền nỗi này"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "興徒兵以攻萑苻之盜",
+        "phien_am": "Hưng đồ binh dĩ công hoàn bồ chi đạo",
+        "dich_nghia_gloss": "Đem binh đi tiểu trừ trộm cướp"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "盡殺之盜少止",
+        "phien_am": "Tận sát chì. Đạo thiều chỉ",
+        "dich_nghia_gloss": "Giết hết. Cướp trộm yên"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "仲尼曰善哉",
+        "phien_am": "Trọng Ni viết: Thiện tai 1",
+        "dich_nghia_gloss": "Khổng tử nói: giỏi thay"
+      }
+    ]
+  }
+}

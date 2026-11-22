@@ -1,0 +1,740 @@
+{
+  "page_id": "0235",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 235,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 866,
+    "footnote_separator_y_original": 981,
+    "effective_width": 1122,
+    "effective_height": 866
+  },
+  "items": [
+    {
+      "line_id": "0235_viet_000",
+      "bbox": [
+        [
+          138,
+          2
+        ],
+        [
+          896,
+          0
+        ],
+        [
+          896,
+          34
+        ],
+        [
+          138,
+          36
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          117
+        ],
+        [
+          896,
+          115
+        ],
+        [
+          896,
+          149
+        ],
+        [
+          138,
+          151
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        0,
+        896,
+        36
+      ],
+      "text": "Tính kế quay về nghi, nào hiểm bị cười là mộc hầu?",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0235_viet_001",
+      "bbox": [
+        [
+          136,
+          93
+        ],
+        [
+          853,
+          94
+        ],
+        [
+          852,
+          132
+        ],
+        [
+          136,
+          131
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          208
+        ],
+        [
+          853,
+          209
+        ],
+        [
+          852,
+          247
+        ],
+        [
+          136,
+          246
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        93,
+        853,
+        132
+      ],
+      "text": "Dưới chân núi, lại rong chơi theo lũ hươu, lũ lợn,",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0235_viet_002",
+      "bbox": [
+        [
+          136,
+          140
+        ],
+        [
+          666,
+          140
+        ],
+        [
+          666,
+          180
+        ],
+        [
+          136,
+          180
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          255
+        ],
+        [
+          666,
+          255
+        ],
+        [
+          666,
+          295
+        ],
+        [
+          136,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        140,
+        666,
+        180
+      ],
+      "text": "Dạy học về lại thả thuyền ngâm thơ",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0235_viet_003",
+      "bbox": [
+        [
+          135,
+          184
+        ],
+        [
+          701,
+          184
+        ],
+        [
+          701,
+          229
+        ],
+        [
+          135,
+          229
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          299
+        ],
+        [
+          701,
+          299
+        ],
+        [
+          701,
+          344
+        ],
+        [
+          135,
+          344
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        184,
+        701,
+        229
+      ],
+      "text": "Như tìm tứ thơ trên lương lừa cầu bá?,",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0235_viet_004",
+      "bbox": [
+        [
+          415,
+          236
+        ],
+        [
+          1039,
+          231
+        ],
+        [
+          1039,
+          276
+        ],
+        [
+          415,
+          280
+        ]
+      ],
+      "bbox_original": [
+        [
+          415,
+          351
+        ],
+        [
+          1039,
+          346
+        ],
+        [
+          1039,
+          391
+        ],
+        [
+          415,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        415,
+        231,
+        1039,
+        280
+      ],
+      "text": "như thả con thuyền rong chơi nơi Ngũ hồ?,",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0235_viet_005",
+      "bbox": [
+        [
+          136,
+          285
+        ],
+        [
+          375,
+          287
+        ],
+        [
+          374,
+          328
+        ],
+        [
+          135,
+          326
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          400
+        ],
+        [
+          375,
+          402
+        ],
+        [
+          374,
+          443
+        ],
+        [
+          135,
+          441
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        285,
+        375,
+        328
+      ],
+      "text": "Một vành trăng,",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0235_viet_006",
+      "bbox": [
+        [
+          134,
+          334
+        ],
+        [
+          1049,
+          332
+        ],
+        [
+          1049,
+          373
+        ],
+        [
+          134,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          134,
+          449
+        ],
+        [
+          1049,
+          447
+        ],
+        [
+          1049,
+          488
+        ],
+        [
+          134,
+          490
+        ]
+      ],
+      "box_xyxy": [
+        134,
+        332,
+        1049,
+        375
+      ],
+      "text": "Làm sao có được câu thơ hay trong túi đủ để lưu truyền mãi mãi.",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0235_viet_007",
+      "bbox": [
+        [
+          136,
+          386
+        ],
+        [
+          490,
+          386
+        ],
+        [
+          490,
+          423
+        ],
+        [
+          136,
+          423
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          501
+        ],
+        [
+          490,
+          501
+        ],
+        [
+          490,
+          538
+        ],
+        [
+          136,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        386,
+        490,
+        423
+      ],
+      "text": "Dịch theo nguyên điệu:",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0235_viet_008",
+      "bbox": [
+        [
+          135,
+          431
+        ],
+        [
+          607,
+          429
+        ],
+        [
+          607,
+          470
+        ],
+        [
+          135,
+          472
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          546
+        ],
+        [
+          607,
+          544
+        ],
+        [
+          607,
+          585
+        ],
+        [
+          135,
+          587
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        429,
+        607,
+        472
+      ],
+      "text": "Đời thịnh, thân nhàn, há dễ cầu",
+      "confidence": 0.9313
+    },
+    {
+      "line_id": "0235_viet_009",
+      "bbox": [
+        [
+          138,
+          482
+        ],
+        [
+          617,
+          482
+        ],
+        [
+          617,
+          519
+        ],
+        [
+          138,
+          519
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          597
+        ],
+        [
+          617,
+          597
+        ],
+        [
+          617,
+          634
+        ],
+        [
+          138,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        482,
+        617,
+        519
+      ],
+      "text": "Hương Sơn, Lục Dã chẳng lo âu",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0235_viet_010",
+      "bbox": [
+        [
+          136,
+          528
+        ],
+        [
+          616,
+          528
+        ],
+        [
+          616,
+          568
+        ],
+        [
+          136,
+          568
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          643
+        ],
+        [
+          616,
+          643
+        ],
+        [
+          616,
+          683
+        ],
+        [
+          136,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        528,
+        616,
+        568
+      ],
+      "text": "Lo đạo, kiếm ăn chẳng tính mưu",
+      "confidence": 0.9232
+    },
+    {
+      "line_id": "0235_viet_011",
+      "bbox": [
+        [
+          137,
+          572
+        ],
+        [
+          334,
+          576
+        ],
+        [
+          333,
+          618
+        ],
+        [
+          136,
+          614
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          687
+        ],
+        [
+          334,
+          691
+        ],
+        [
+          333,
+          733
+        ],
+        [
+          136,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        572,
+        334,
+        618
+      ],
+      "text": "Bốn nên thôi,",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0235_viet_012",
+      "bbox": [
+        [
+          132,
+          624
+        ],
+        [
+          605,
+          622
+        ],
+        [
+          605,
+          663
+        ],
+        [
+          132,
+          666
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          739
+        ],
+        [
+          605,
+          737
+        ],
+        [
+          605,
+          778
+        ],
+        [
+          132,
+          781
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        622,
+        605,
+        666
+      ],
+      "text": "Nào sợ cười chê giống mộc hầu",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0235_viet_013",
+      "bbox": [
+        [
+          139,
+          723
+        ],
+        [
+          555,
+          723
+        ],
+        [
+          555,
+          760
+        ],
+        [
+          139,
+          760
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          838
+        ],
+        [
+          555,
+          838
+        ],
+        [
+          555,
+          875
+        ],
+        [
+          139,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        723,
+        555,
+        760
+      ],
+      "text": "Chân núi chơi theo lũ nai tơ,",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0235_viet_014",
+      "bbox": [
+        [
+          137,
+          768
+        ],
+        [
+          597,
+          768
+        ],
+        [
+          597,
+          809
+        ],
+        [
+          137,
+          809
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          883
+        ],
+        [
+          597,
+          883
+        ],
+        [
+          597,
+          924
+        ],
+        [
+          137,
+          924
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        768,
+        597,
+        809
+      ],
+      "text": "Dạy về lại thả chiếc thuyền thơ.",
+      "confidence": 0.9243
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Tính kế quay về nghi, nào hiểm bị cười là mộc hầu?",
+      "Dưới chân núi, lại rong chơi theo lũ hươu, lũ lợn,",
+      "Dạy học về lại thả thuyền ngâm thơ",
+      "Như tìm tứ thơ trên lương lừa cầu bá?,",
+      "như thả con thuyền rong chơi nơi Ngũ hồ?,",
+      "Một vành trăng,",
+      "Làm sao có được câu thơ hay trong túi đủ để lưu truyền mãi mãi."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

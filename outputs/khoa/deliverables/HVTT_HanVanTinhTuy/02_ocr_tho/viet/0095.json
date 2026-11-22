@@ -1,0 +1,309 @@
+{
+  "page_id": "0095",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 95,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0095_viet_000",
+      "bbox": [
+        [
+          194,
+          70
+        ],
+        [
+          524,
+          70
+        ],
+        [
+          524,
+          108
+        ],
+        [
+          194,
+          108
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          191
+        ],
+        [
+          524,
+          191
+        ],
+        [
+          524,
+          229
+        ],
+        [
+          194,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        70,
+        524,
+        108
+      ],
+      "text": "TÁI ÔNG THẤT MÃ",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0095_viet_001",
+      "bbox": [
+        [
+          955,
+          72
+        ],
+        [
+          996,
+          72
+        ],
+        [
+          996,
+          107
+        ],
+        [
+          955,
+          107
+        ]
+      ],
+      "bbox_original": [
+        [
+          955,
+          193
+        ],
+        [
+          996,
+          193
+        ],
+        [
+          996,
+          228
+        ],
+        [
+          955,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        955,
+        72,
+        996,
+        107
+      ],
+      "text": "89",
+      "confidence": 0.9441
+    },
+    {
+      "line_id": "0095_viet_002",
+      "bbox": [
+        [
+          362,
+          262
+        ],
+        [
+          883,
+          266
+        ],
+        [
+          883,
+          304
+        ],
+        [
+          362,
+          300
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          383
+        ],
+        [
+          883,
+          387
+        ],
+        [
+          883,
+          425
+        ],
+        [
+          362,
+          421
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        262,
+        883,
+        304
+      ],
+      "text": "Tử-thi chồng-chất ngoài đường",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0095_viet_003",
+      "bbox": [
+        [
+          260,
+          448
+        ],
+        [
+          904,
+          449
+        ],
+        [
+          904,
+          487
+        ],
+        [
+          260,
+          486
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          569
+        ],
+        [
+          904,
+          570
+        ],
+        [
+          904,
+          608
+        ],
+        [
+          260,
+          607
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        448,
+        904,
+        487
+      ],
+      "text": "Con ông thoát được tai-ương vì... què",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0095_viet_004",
+      "bbox": [
+        [
+          361,
+          631
+        ],
+        [
+          737,
+          633
+        ],
+        [
+          736,
+          671
+        ],
+        [
+          361,
+          669
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          752
+        ],
+        [
+          737,
+          754
+        ],
+        [
+          736,
+          792
+        ],
+        [
+          361,
+          790
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        631,
+        737,
+        671
+      ],
+      "text": "Mới hay con tạo éo-le,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0095_viet_005",
+      "bbox": [
+        [
+          263,
+          818
+        ],
+        [
+          906,
+          818
+        ],
+        [
+          906,
+          855
+        ],
+        [
+          263,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          939
+        ],
+        [
+          906,
+          939
+        ],
+        [
+          906,
+          976
+        ],
+        [
+          263,
+          976
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        818,
+        906,
+        855
+      ],
+      "text": "Phúc chăng hay họa ? có dè được đầu",
+      "confidence": 0.9265
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

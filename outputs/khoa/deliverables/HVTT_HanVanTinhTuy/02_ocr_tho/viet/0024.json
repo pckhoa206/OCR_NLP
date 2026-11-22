@@ -1,0 +1,940 @@
+{
+  "page_id": "0024",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 24,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0024_viet_000",
+      "bbox": [
+        [
+          191,
+          32
+        ],
+        [
+          234,
+          32
+        ],
+        [
+          234,
+          67
+        ],
+        [
+          191,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          153
+        ],
+        [
+          234,
+          153
+        ],
+        [
+          234,
+          188
+        ],
+        [
+          191,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        32,
+        234,
+        67
+      ],
+      "text": "18",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0024_viet_001",
+      "bbox": [
+        [
+          661,
+          31
+        ],
+        [
+          989,
+          31
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          661,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          152
+        ],
+        [
+          989,
+          152
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          661,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        31,
+        989,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0024_viet_002",
+      "bbox": [
+        [
+          226,
+          183
+        ],
+        [
+          608,
+          181
+        ],
+        [
+          608,
+          219
+        ],
+        [
+          226,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          304
+        ],
+        [
+          608,
+          302
+        ],
+        [
+          608,
+          340
+        ],
+        [
+          226,
+          342
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        181,
+        608,
+        221
+      ],
+      "text": "tài dụng ư thị hồ xuất",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0024_viet_003",
+      "bbox": [
+        [
+          250,
+          230
+        ],
+        [
+          621,
+          228
+        ],
+        [
+          621,
+          266
+        ],
+        [
+          250,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          351
+        ],
+        [
+          621,
+          349
+        ],
+        [
+          621,
+          387
+        ],
+        [
+          250,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        228,
+        621,
+        268
+      ],
+      "text": "nguồn tài lọi ở đó mà ra",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0024_viet_004",
+      "bbox": [
+        [
+          227,
+          350
+        ],
+        [
+          817,
+          350
+        ],
+        [
+          817,
+          387
+        ],
+        [
+          227,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          471
+        ],
+        [
+          817,
+          471
+        ],
+        [
+          817,
+          508
+        ],
+        [
+          227,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        350,
+        817,
+        387
+      ],
+      "text": "do kỳ hữu nguyên thấp diễn ốc dũ",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0024_viet_005",
+      "bbox": [
+        [
+          249,
+          394
+        ],
+        [
+          987,
+          395
+        ],
+        [
+          987,
+          435
+        ],
+        [
+          249,
+          434
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          515
+        ],
+        [
+          987,
+          516
+        ],
+        [
+          987,
+          556
+        ],
+        [
+          249,
+          555
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        394,
+        987,
+        435
+      ],
+      "text": "do chỗ đầt cao được tưới ướt, đất phẳng tươi tôt",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0024_viet_006",
+      "bbox": [
+        [
+          225,
+          516
+        ],
+        [
+          582,
+          514
+        ],
+        [
+          582,
+          554
+        ],
+        [
+          225,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          637
+        ],
+        [
+          582,
+          635
+        ],
+        [
+          582,
+          675
+        ],
+        [
+          225,
+          677
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        514,
+        582,
+        556
+      ],
+      "text": "y thực ư thị hồ sinh.",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0024_viet_007",
+      "bbox": [
+        [
+          252,
+          564
+        ],
+        [
+          545,
+          564
+        ],
+        [
+          545,
+          599
+        ],
+        [
+          252,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          685
+        ],
+        [
+          545,
+          685
+        ],
+        [
+          545,
+          720
+        ],
+        [
+          252,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        564,
+        545,
+        599
+      ],
+      "text": "com áo ở đó mà ra",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0024_viet_008",
+      "bbox": [
+        [
+          230,
+          687
+        ],
+        [
+          627,
+          687
+        ],
+        [
+          627,
+          724
+        ],
+        [
+          230,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          808
+        ],
+        [
+          627,
+          808
+        ],
+        [
+          627,
+          845
+        ],
+        [
+          230,
+          845
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        687,
+        627,
+        724
+      ],
+      "text": "khầu chi tuyên ngôn dã",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0024_viet_009",
+      "bbox": [
+        [
+          253,
+          734
+        ],
+        [
+          553,
+          734
+        ],
+        [
+          553,
+          772
+        ],
+        [
+          253,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          855
+        ],
+        [
+          553,
+          855
+        ],
+        [
+          553,
+          893
+        ],
+        [
+          253,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        734,
+        553,
+        772
+      ],
+      "text": "miệng truyền lời nói",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0024_viet_010",
+      "bbox": [
+        [
+          228,
+          856
+        ],
+        [
+          642,
+          856
+        ],
+        [
+          642,
+          896
+        ],
+        [
+          228,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          977
+        ],
+        [
+          642,
+          977
+        ],
+        [
+          642,
+          1017
+        ],
+        [
+          228,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        856,
+        642,
+        896
+      ],
+      "text": "thiện bại ư thị hồ hưng",
+      "confidence": 0.9351
+    },
+    {
+      "line_id": "0024_viet_011",
+      "bbox": [
+        [
+          253,
+          904
+        ],
+        [
+          594,
+          903
+        ],
+        [
+          594,
+          938
+        ],
+        [
+          253,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1025
+        ],
+        [
+          594,
+          1024
+        ],
+        [
+          594,
+          1059
+        ],
+        [
+          253,
+          1060
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        903,
+        594,
+        939
+      ],
+      "text": "được thua ở đó mà lên",
+      "confidence": 0.9355
+    },
+    {
+      "line_id": "0024_viet_012",
+      "bbox": [
+        [
+          229,
+          1025
+        ],
+        [
+          574,
+          1025
+        ],
+        [
+          574,
+          1064
+        ],
+        [
+          229,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1146
+        ],
+        [
+          574,
+          1146
+        ],
+        [
+          574,
+          1185
+        ],
+        [
+          229,
+          1185
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1025,
+        574,
+        1064
+      ],
+      "text": "hành thiện nhi bị bại",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0024_viet_013",
+      "bbox": [
+        [
+          252,
+          1072
+        ],
+        [
+          697,
+          1072
+        ],
+        [
+          697,
+          1112
+        ],
+        [
+          252,
+          1112
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1193
+        ],
+        [
+          697,
+          1193
+        ],
+        [
+          697,
+          1233
+        ],
+        [
+          252,
+          1233
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1072,
+        697,
+        1112
+      ],
+      "text": "làm điều hay, phòng điều thua",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0024_viet_014",
+      "bbox": [
+        [
+          228,
+          1195
+        ],
+        [
+          788,
+          1193
+        ],
+        [
+          788,
+          1233
+        ],
+        [
+          228,
+          1235
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1316
+        ],
+        [
+          788,
+          1314
+        ],
+        [
+          788,
+          1354
+        ],
+        [
+          228,
+          1356
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1193,
+        788,
+        1235
+      ],
+      "text": "sở dĩ phụ tài dụng y thực giả dã.",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0024_viet_015",
+      "bbox": [
+        [
+          251,
+          1238
+        ],
+        [
+          766,
+          1243
+        ],
+        [
+          765,
+          1284
+        ],
+        [
+          251,
+          1279
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1359
+        ],
+        [
+          766,
+          1364
+        ],
+        [
+          765,
+          1405
+        ],
+        [
+          251,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1238,
+        766,
+        1284
+      ],
+      "text": "lầy ở đây mà có com áo vật dụng",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0024_viet_016",
+      "bbox": [
+        [
+          228,
+          1364
+        ],
+        [
+          592,
+          1366
+        ],
+        [
+          592,
+          1403
+        ],
+        [
+          228,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1485
+        ],
+        [
+          592,
+          1487
+        ],
+        [
+          592,
+          1524
+        ],
+        [
+          228,
+          1522
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1364,
+        592,
+        1403
+      ],
+      "text": "Phù dân lự chi ư tâm",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0024_viet_017",
+      "bbox": [
+        [
+          252,
+          1412
+        ],
+        [
+          593,
+          1414
+        ],
+        [
+          593,
+          1452
+        ],
+        [
+          252,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1533
+        ],
+        [
+          593,
+          1535
+        ],
+        [
+          593,
+          1573
+        ],
+        [
+          252,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1412,
+        593,
+        1452
+      ],
+      "text": "Dân lo nghĩ trong lòng",
+      "confidence": 0.9286
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "tài dụng ư thị hồ xuất",
+      "do kỳ hữu nguyên thấp diễn ốc dũ",
+      "y thực ư thị hồ sinh.",
+      "khầu chi tuyên ngôn dã",
+      "thiện bại ư thị hồ hưng",
+      "hành thiện nhi bị bại",
+      "sở dĩ phụ tài dụng y thực giả dã.",
+      "Phù dân lự chi ư tâm"
+    ],
+    "dich_nghia_lines": [
+      "nguồn tài lọi ở đó mà ra",
+      "do chỗ đầt cao được tưới ướt, đất phẳng tươi tôt",
+      "com áo ở đó mà ra",
+      "miệng truyền lời nói",
+      "được thua ở đó mà lên",
+      "làm điều hay, phòng điều thua",
+      "lầy ở đây mà có com áo vật dụng",
+      "Dân lo nghĩ trong lòng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "財用於是乎出",
+        "phien_am": "tài dụng ư thị hồ xuất",
+        "dich_nghia_gloss": "nguồn tài lọi ở đó mà ra"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "猶其有原隰衍沃也",
+        "phien_am": "do kỳ hữu nguyên thấp diễn ốc dũ",
+        "dich_nghia_gloss": "do chỗ đầt cao được tưới ướt, đất phẳng tươi tôt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "衣食於是乎生",
+        "phien_am": "y thực ư thị hồ sinh.",
+        "dich_nghia_gloss": "com áo ở đó mà ra"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "口之宣言也",
+        "phien_am": "khầu chi tuyên ngôn dã",
+        "dich_nghia_gloss": "miệng truyền lời nói"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "善敗於是乎興",
+        "phien_am": "thiện bại ư thị hồ hưng",
+        "dich_nghia_gloss": "được thua ở đó mà lên"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "行善而備敗",
+        "phien_am": "hành thiện nhi bị bại",
+        "dich_nghia_gloss": "làm điều hay, phòng điều thua"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "所以阜財用衣食者也",
+        "phien_am": "sở dĩ phụ tài dụng y thực giả dã.",
+        "dich_nghia_gloss": "lầy ở đây mà có com áo vật dụng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "夫民慮之於心",
+        "phien_am": "Phù dân lự chi ư tâm",
+        "dich_nghia_gloss": "Dân lo nghĩ trong lòng"
+      }
+    ]
+  }
+}

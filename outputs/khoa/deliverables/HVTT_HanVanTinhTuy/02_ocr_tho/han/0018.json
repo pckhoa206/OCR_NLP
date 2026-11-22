@@ -1,0 +1,459 @@
+{
+  "page_id": "0018",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 18,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0018_han_000",
+      "bbox": [
+        [
+          247,
+          132
+        ],
+        [
+          715,
+          129
+        ],
+        [
+          715,
+          177
+        ],
+        [
+          247,
+          179
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          253
+        ],
+        [
+          715,
+          250
+        ],
+        [
+          715,
+          298
+        ],
+        [
+          247,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        129,
+        715,
+        179
+      ],
+      "text": "厲王虐國人謗王",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0018_han_001",
+      "bbox": [
+        [
+          246,
+          282
+        ],
+        [
+          572,
+          284
+        ],
+        [
+          572,
+          330
+        ],
+        [
+          246,
+          327
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          403
+        ],
+        [
+          572,
+          405
+        ],
+        [
+          572,
+          451
+        ],
+        [
+          246,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        282,
+        572,
+        330
+      ],
+      "text": "召公告王曰",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0018_han_002",
+      "bbox": [
+        [
+          248,
+          437
+        ],
+        [
+          571,
+          437
+        ],
+        [
+          571,
+          481
+        ],
+        [
+          248,
+          481
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          558
+        ],
+        [
+          571,
+          558
+        ],
+        [
+          571,
+          602
+        ],
+        [
+          248,
+          602
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        437,
+        571,
+        481
+      ],
+      "text": "民不堪命矣",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0018_han_003",
+      "bbox": [
+        [
+          247,
+          588
+        ],
+        [
+          855,
+          588
+        ],
+        [
+          855,
+          635
+        ],
+        [
+          247,
+          635
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          709
+        ],
+        [
+          855,
+          709
+        ],
+        [
+          855,
+          756
+        ],
+        [
+          247,
+          756
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        588,
+        855,
+        635
+      ],
+      "text": "王怒得衛巫使隆謗者",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0018_han_004",
+      "bbox": [
+        [
+          245,
+          781
+        ],
+        [
+          575,
+          781
+        ],
+        [
+          575,
+          827
+        ],
+        [
+          245,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          902
+        ],
+        [
+          575,
+          902
+        ],
+        [
+          575,
+          948
+        ],
+        [
+          245,
+          948
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        781,
+        575,
+        827
+      ],
+      "text": "以告則殺之",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0018_han_005",
+      "bbox": [
+        [
+          249,
+          933
+        ],
+        [
+          851,
+          930
+        ],
+        [
+          851,
+          974
+        ],
+        [
+          249,
+          977
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1054
+        ],
+        [
+          851,
+          1051
+        ],
+        [
+          851,
+          1095
+        ],
+        [
+          249,
+          1098
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        930,
+        851,
+        977
+      ],
+      "text": "國人莫敢言道路以目",
+      "confidence": 0.9896
+    },
+    {
+      "line_id": "0018_han_006",
+      "bbox": [
+        [
+          248,
+          1130
+        ],
+        [
+          644,
+          1128
+        ],
+        [
+          644,
+          1173
+        ],
+        [
+          248,
+          1175
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1251
+        ],
+        [
+          644,
+          1249
+        ],
+        [
+          644,
+          1294
+        ],
+        [
+          248,
+          1296
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1128,
+        644,
+        1175
+      ],
+      "text": "王喜告召公曰",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0018_han_007",
+      "bbox": [
+        [
+          248,
+          1282
+        ],
+        [
+          870,
+          1282
+        ],
+        [
+          870,
+          1326
+        ],
+        [
+          248,
+          1326
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1403
+        ],
+        [
+          870,
+          1403
+        ],
+        [
+          870,
+          1447
+        ],
+        [
+          248,
+          1447
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1282,
+        870,
+        1326
+      ],
+      "text": "吾能弭謗矣乃不敢言",
+      "confidence": 0.9962
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "厲王虐國人謗王",
+      "召公告王曰",
+      "民不堪命矣",
+      "王怒得衛巫使隆謗者",
+      "以告則殺之",
+      "國人莫敢言道路以目",
+      "王喜告召公曰",
+      "吾能弭謗矣乃不敢言"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "厲王虐國人謗王",
+        "phien_am": "Lệ-vương ngược, quốc nhân báng vương",
+        "dich_nghia_gloss": "Lệ-vương ác, người trong nước dị-nghị."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "召公告王曰",
+        "phien_am": "Thiệu-công cáo vương viẽt:",
+        "dich_nghia_gloss": "Thiệu công vào tâu"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "民不堪命矣",
+        "phien_am": "Dân bãt kham mệnh hĩ.",
+        "dich_nghia_gloss": "Dân không chịu nổi chính-sách của vua."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王怒得衛巫使隆謗者",
+        "phien_am": "Vương nộ, đắc vệ-vu, xử giám báng giả",
+        "dich_nghia_gloss": "Vua giận, sai thuật-sĩ nước vệ đi xét những kẻ dị-nghị"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "以告則殺之",
+        "phien_am": "dĩ cáo tắc sát chi",
+        "dich_nghia_gloss": "về báo cho đem giết"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "國人莫敢言道路以目",
+        "phien_am": "Quốc nhân mạc cảm ngôn, đạo lộ dĩ mục",
+        "dich_nghia_gloss": "Dân nước không ai dám nói nữa, ngoài đường chỉ nhìn nhau lầy mắt khiên thay lời nói."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "王喜告召公曰",
+        "phien_am": "Vương hỉ cáo thiệu-công viẽt:",
+        "dich_nghia_gloss": "Vua mừng bảo thiệu công:"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "吾能弭謗矣乃不敢言",
+        "phien_am": "Ngô năng nhĩ báng hì, nãi bất cảm ngôn",
+        "dich_nghia_gloss": "Trắm đã dẹp hết được dị-nghị rồi, không ai dám nói nữa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "page_id": "0076",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 76,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0076_viet_000",
+      "bbox": [
+        [
+          168,
+          77
+        ],
+        [
+          1217,
+          73
+        ],
+        [
+          1217,
+          116
+        ],
+        [
+          168,
+          121
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          232
+        ],
+        [
+          1217,
+          228
+        ],
+        [
+          1217,
+          271
+        ],
+        [
+          168,
+          276
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        73,
+        1217,
+        121
+      ],
+      "text": "(25) Tam yêu - Xem Cht, 46, bài, Phồ khuyến phát bồ-đề tâm, số 7. cũng tạc giả.",
+      "confidence": 0.854
+    },
+    {
+      "line_id": "0076_viet_001",
+      "bbox": [
+        [
+          731,
+          112
+        ],
+        [
+          1405,
+          112
+        ],
+        [
+          1405,
+          167
+        ],
+        [
+          731,
+          167
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          267
+        ],
+        [
+          1405,
+          267
+        ],
+        [
+          1405,
+          322
+        ],
+        [
+          731,
+          322
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        112,
+        1405,
+        167
+      ],
+      "text": "của ngu Tập % % gìi pháp sư Trung Trại",
+      "confidence": 0.799
+    },
+    {
+      "line_id": "0076_viet_002",
+      "bbox": [
+        [
+          207,
+          161
+        ],
+        [
+          612,
+          161
+        ],
+        [
+          612,
+          195
+        ],
+        [
+          207,
+          195
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          316
+        ],
+        [
+          612,
+          316
+        ],
+        [
+          612,
+          350
+        ],
+        [
+          207,
+          350
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        161,
+        612,
+        195
+      ],
+      "text": "Đương Xâm E. Có Cầu",
+      "confidence": 0.6714
+    },
+    {
+      "line_id": "0076_viet_003",
+      "bbox": [
+        [
+          576,
+          299
+        ],
+        [
+          992,
+          297
+        ],
+        [
+          992,
+          331
+        ],
+        [
+          576,
+          333
+        ]
+      ],
+      "bbox_original": [
+        [
+          576,
+          454
+        ],
+        [
+          992,
+          452
+        ],
+        [
+          992,
+          486
+        ],
+        [
+          576,
+          488
+        ]
+      ],
+      "box_xyxy": [
+        576,
+        297,
+        992,
+        333
+      ],
+      "text": "Kỳ dúo Trúc tây vô không dịch",
+      "confidence": 0.8892
+    },
+    {
+      "line_id": "0076_viet_004",
+      "bbox": [
+        [
+          579,
+          337
+        ],
+        [
+          1023,
+          336
+        ],
+        [
+          1023,
+          371
+        ],
+        [
+          579,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          579,
+          492
+        ],
+        [
+          1023,
+          491
+        ],
+        [
+          1023,
+          526
+        ],
+        [
+          579,
+          527
+        ]
+      ],
+      "box_xyxy": [
+        579,
+        336,
+        1023,
+        372
+      ],
+      "text": "Xuý thành động dịa Thúi bình cai",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0076_viet_005",
+      "bbox": [
+        [
+          234,
+          388
+        ],
+        [
+          375,
+          388
+        ],
+        [
+          375,
+          426
+        ],
+        [
+          234,
+          426
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          543
+        ],
+        [
+          375,
+          543
+        ],
+        [
+          375,
+          581
+        ],
+        [
+          234,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        388,
+        375,
+        426
+      ],
+      "text": "Nghĩa là:",
+      "confidence": 0.8474
+    },
+    {
+      "line_id": "0076_viet_006",
+      "bbox": [
+        [
+          502,
+          416
+        ],
+        [
+          1075,
+          416
+        ],
+        [
+          1075,
+          453
+        ],
+        [
+          502,
+          453
+        ]
+      ],
+      "bbox_original": [
+        [
+          502,
+          571
+        ],
+        [
+          1075,
+          571
+        ],
+        [
+          1075,
+          608
+        ],
+        [
+          502,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        502,
+        416,
+        1075,
+        453
+      ],
+      "text": "Gửi tới Trúc tây một chiếc sào không lỗ,",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0076_viet_007",
+      "bbox": [
+        [
+          499,
+          457
+        ],
+        [
+          1123,
+          456
+        ],
+        [
+          1123,
+          490
+        ],
+        [
+          499,
+          491
+        ]
+      ],
+      "bbox_original": [
+        [
+          499,
+          612
+        ],
+        [
+          1123,
+          611
+        ],
+        [
+          1123,
+          645
+        ],
+        [
+          499,
+          646
+        ]
+      ],
+      "box_xyxy": [
+        499,
+        456,
+        1123,
+        491
+      ],
+      "text": "Thổi lên khúc ca thái bình vang động mặt đất",
+      "confidence": 0.8911
+    },
+    {
+      "line_id": "0076_viet_008",
+      "bbox": [
+        [
+          230,
+          537
+        ],
+        [
+          1400,
+          535
+        ],
+        [
+          1400,
+          572
+        ],
+        [
+          230,
+          574
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          692
+        ],
+        [
+          1400,
+          690
+        ],
+        [
+          1400,
+          727
+        ],
+        [
+          230,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        535,
+        1400,
+        574
+      ],
+      "text": "hầu nam xuy: nghĩa là: sao không lỗ rất khó thời. Dùng hình tượng này tác giả muốn",
+      "confidence": 0.8784
+    },
+    {
+      "line_id": "0076_viet_009",
+      "bbox": [
+        [
+          233,
+          572
+        ],
+        [
+          1397,
+          569
+        ],
+        [
+          1397,
+          602
+        ],
+        [
+          233,
+          605
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          727
+        ],
+        [
+          1397,
+          724
+        ],
+        [
+          1397,
+          757
+        ],
+        [
+          233,
+          760
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        569,
+        1397,
+        605
+      ],
+      "text": "điện tả y. thoát ly mọi hiện tượng khuôn sào tàm thường đề đạt tới cại bản, tỉnh",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0076_viet_010",
+      "bbox": [
+        [
+          231,
+          606
+        ],
+        [
+          397,
+          604
+        ],
+        [
+          398,
+          638
+        ],
+        [
+          232,
+          641
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          761
+        ],
+        [
+          397,
+          759
+        ],
+        [
+          398,
+          793
+        ],
+        [
+          232,
+          796
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        604,
+        398,
+        641
+      ],
+      "text": "huyện diệu.",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0076_viet_011",
+      "bbox": [
+        [
+          731,
+          635
+        ],
+        [
+          1403,
+          635
+        ],
+        [
+          1403,
+          691
+        ],
+        [
+          731,
+          691
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          790
+        ],
+        [
+          1403,
+          790
+        ],
+        [
+          1403,
+          846
+        ],
+        [
+          731,
+          846
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        635,
+        1403,
+        691
+      ],
+      "text": "Đào Tỉnh Tiết truyền Tây Thị Số 44 của Thái Tin",
+      "confidence": 0.8151
+    },
+    {
+      "line_id": "0076_viet_012",
+      "bbox": [
+        [
+          731,
+          680
+        ],
+        [
+          1402,
+          680
+        ],
+        [
+          1402,
+          720
+        ],
+        [
+          731,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          835
+        ],
+        [
+          1402,
+          835
+        ],
+        [
+          1402,
+          875
+        ],
+        [
+          731,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        680,
+        1402,
+        720
+      ],
+      "text": "thì đào tiêm phị trọ là người thông thạo âm",
+      "confidence": 0.7979
+    },
+    {
+      "line_id": "0076_viet_013",
+      "bbox": [
+        [
+          231,
+          718
+        ],
+        [
+          1399,
+          714
+        ],
+        [
+          1399,
+          749
+        ],
+        [
+          231,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          873
+        ],
+        [
+          1399,
+          869
+        ],
+        [
+          1399,
+          904
+        ],
+        [
+          231,
+          908
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        714,
+        1399,
+        753
+      ],
+      "text": "Juật, nhưng lại có một cây đàn không dây, mỗi khi sáy rượu thi đẹm ra vở đề ký thác.",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0076_viet_014",
+      "bbox": [
+        [
+          234,
+          754
+        ],
+        [
+          356,
+          754
+        ],
+        [
+          356,
+          786
+        ],
+        [
+          234,
+          786
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          909
+        ],
+        [
+          356,
+          909
+        ],
+        [
+          356,
+          941
+        ],
+        [
+          234,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        754,
+        356,
+        786
+      ],
+      "text": "nỗi lòng.",
+      "confidence": 0.8472
+    },
+    {
+      "line_id": "0076_viet_015",
+      "bbox": [
+        [
+          305,
+          786
+        ],
+        [
+          1401,
+          783
+        ],
+        [
+          1401,
+          823
+        ],
+        [
+          305,
+          826
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          941
+        ],
+        [
+          1401,
+          938
+        ],
+        [
+          1401,
+          978
+        ],
+        [
+          305,
+          981
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        783,
+        1401,
+        826
+      ],
+      "text": "Cũng như hình tượng sáo không lỗ, tác giả imuốn diễn tả y: điều sàu sắc không",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0076_viet_016",
+      "bbox": [
+        [
+          232,
+          823
+        ],
+        [
+          1399,
+          819
+        ],
+        [
+          1399,
+          853
+        ],
+        [
+          232,
+          857
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          978
+        ],
+        [
+          1399,
+          974
+        ],
+        [
+          1399,
+          1008
+        ],
+        [
+          232,
+          1012
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        819,
+        1399,
+        857
+      ],
+      "text": "thề dùng phương tiện, cách thức binh thường đề biểu hiện, mà con người phải, sượt",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0076_viet_017",
+      "bbox": [
+        [
+          229,
+          855
+        ],
+        [
+          1399,
+          850
+        ],
+        [
+          1399,
+          887
+        ],
+        [
+          229,
+          893
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1010
+        ],
+        [
+          1399,
+          1005
+        ],
+        [
+          1399,
+          1042
+        ],
+        [
+          229,
+          1048
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        850,
+        1399,
+        893
+      ],
+      "text": "lên mọi quy cách, mội sự ràng buộc của nhân kiến thông thường, Như thế mợi đạt đến",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0076_viet_018",
+      "bbox": [
+        [
+          231,
+          893
+        ],
+        [
+          395,
+          893
+        ],
+        [
+          395,
+          925
+        ],
+        [
+          231,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1048
+        ],
+        [
+          395,
+          1048
+        ],
+        [
+          395,
+          1080
+        ],
+        [
+          231,
+          1080
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        893,
+        395,
+        925
+      ],
+      "text": "sự giác ngò.",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0076_viet_019",
+      "bbox": [
+        [
+          168,
+          935
+        ],
+        [
+          1403,
+          931
+        ],
+        [
+          1403,
+          971
+        ],
+        [
+          168,
+          975
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1090
+        ],
+        [
+          1403,
+          1086
+        ],
+        [
+          1403,
+          1126
+        ],
+        [
+          168,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        931,
+        1403,
+        975
+      ],
+      "text": "(Bì) Trường-yên: nguyên là Kinh đô nhà Hán, isau thành tên chung chỉ các.Kinh đó.vị những",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0076_viet_020",
+      "bbox": [
+        [
+          232,
+          973
+        ],
+        [
+          386,
+          973
+        ],
+        [
+          386,
+          1004
+        ],
+        [
+          232,
+          1004
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1128
+        ],
+        [
+          386,
+          1128
+        ],
+        [
+          386,
+          1159
+        ],
+        [
+          232,
+          1159
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        973,
+        386,
+        1004
+      ],
+      "text": "nơi đô hội.",
+      "confidence": 0.856
+    },
+    {
+      "line_id": "0076_viet_021",
+      "bbox": [
+        [
+          658,
+          1092
+        ],
+        [
+          918,
+          1092
+        ],
+        [
+          918,
+          1144
+        ],
+        [
+          658,
+          1144
+        ]
+      ],
+      "bbox_original": [
+        [
+          658,
+          1247
+        ],
+        [
+          918,
+          1247
+        ],
+        [
+          918,
+          1299
+        ],
+        [
+          658,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        658,
+        1092,
+        918,
+        1144
+      ],
+      "text": "QUYỀN TRỤNG",
+      "confidence": 0.8946
+    },
+    {
+      "line_id": "0076_viet_022",
+      "bbox": [
+        [
+          598,
+          1170
+        ],
+        [
+          977,
+          1170
+        ],
+        [
+          977,
+          1214
+        ],
+        [
+          598,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          598,
+          1325
+        ],
+        [
+          977,
+          1325
+        ],
+        [
+          977,
+          1369
+        ],
+        [
+          598,
+          1369
+        ]
+      ],
+      "box_xyxy": [
+        598,
+        1170,
+        977,
+        1214
+      ],
+      "text": "LUẬN, VĂN, NGỮ LỤC",
+      "confidence": 0.9352
+    },
+    {
+      "line_id": "0076_viet_023",
+      "bbox": [
+        [
+          747,
+          1338
+        ],
+        [
+          785,
+          1338
+        ],
+        [
+          785,
+          1388
+        ],
+        [
+          747,
+          1388
+        ]
+      ],
+      "bbox_original": [
+        [
+          747,
+          1493
+        ],
+        [
+          785,
+          1493
+        ],
+        [
+          785,
+          1543
+        ],
+        [
+          747,
+          1543
+        ]
+      ],
+      "box_xyxy": [
+        747,
+        1338,
+        785,
+        1388
+      ],
+      "text": "9",
+      "confidence": 0.9452
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(25) Tam yêu - Xem Cht, 46, bài, Phồ khuyến phát bồ-đề tâm, số 7. cũng tạc giả.",
+      "của ngu Tập % % gìi pháp sư Trung Trại",
+      "Đương Xâm E. Có Cầu",
+      "Kỳ dúo Trúc tây vô không dịch",
+      "Xuý thành động dịa Thúi bình cai",
+      "Nghĩa là:",
+      "Gửi tới Trúc tây một chiếc sào không lỗ,",
+      "Thổi lên khúc ca thái bình vang động mặt đất",
+      "hầu nam xuy: nghĩa là: sao không lỗ rất khó thời. Dùng hình tượng này tác giả muốn",
+      "điện tả y. thoát ly mọi hiện tượng khuôn sào tàm thường đề đạt tới cại bản, tỉnh",
+      "huyện diệu.",
+      "Đào Tỉnh Tiết truyền Tây Thị Số 44 của Thái Tin",
+      "thì đào tiêm phị trọ là người thông thạo âm",
+      "Juật, nhưng lại có một cây đàn không dây, mỗi khi sáy rượu thi đẹm ra vở đề ký thác.",
+      "nỗi lòng.",
+      "Cũng như hình tượng sáo không lỗ, tác giả imuốn diễn tả y: điều sàu sắc không",
+      "thề dùng phương tiện, cách thức binh thường đề biểu hiện, mà con người phải, sượt",
+      "lên mọi quy cách, mội sự ràng buộc của nhân kiến thông thường, Như thế mợi đạt đến",
+      "sự giác ngò.",
+      "(Bì) Trường-yên: nguyên là Kinh đô nhà Hán, isau thành tên chung chỉ các.Kinh đó.vị những",
+      "nơi đô hội.",
+      "QUYỀN TRỤNG",
+      "LUẬN, VĂN, NGỮ LỤC",
+      "9"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

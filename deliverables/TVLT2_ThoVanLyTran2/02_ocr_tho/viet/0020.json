@@ -438,6 +438,100 @@
       ],
       "text": "Lần đi này chưa biết ngày nào mới có dịp nghiêng lọng (4), Xin vì cuộc chuyện trò tao nhã mà có một bài thơ.",
       "confidence": 0.983
+    },
+    {
+      "line_id": "0020_viet_009",
+      "bbox": [
+        [
+          180,
+          735
+        ],
+        [
+          600,
+          735
+        ],
+        [
+          600,
+          780
+        ],
+        [
+          180,
+          780
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          890
+        ],
+        [
+          600,
+          890
+        ],
+        [
+          600,
+          935
+        ],
+        [
+          180,
+          935
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        735,
+        600,
+        780
+      ],
+      "text": "DỊCH THƠ :",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0020_viet_010",
+      "bbox": [
+        [
+          180,
+          790
+        ],
+        [
+          1400,
+          790
+        ],
+        [
+          1400,
+          840
+        ],
+        [
+          180,
+          840
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          945
+        ],
+        [
+          1400,
+          945
+        ],
+        [
+          1400,
+          995
+        ],
+        [
+          180,
+          995
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        790,
+        1400,
+        840
+      ],
+      "text": "Nghĩ chẳng ngọc quỳnh đáp tấm lòng, Bến giang man mác nỗi hoài trông.",
+      "confidence": 0.98
     }
   ],
   "layout_summary": {
@@ -454,7 +548,9 @@
       "Màn trống khó ngăn chim én về phương Bắc, Đất ấm buồn nghe chim nhạn biệt phương Nam.",
       "Lần đi này chưa biết ngày nào mới có dịp nghiêng lọng (4), Xin vì cuộc chuyện trò tao nhã mà có một bài thơ."
     ],
-    "dich_tho_lines": [],
+    "dich_tho_lines": [
+      "Nghĩ chẳng ngọc quỳnh đáp tấm lòng, Bến giang man mác nỗi hoài trông."
+    ],
     "interlinear_triplets": []
   }
 }

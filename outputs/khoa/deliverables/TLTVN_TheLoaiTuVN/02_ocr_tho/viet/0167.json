@@ -1,0 +1,1228 @@
+{
+  "page_id": "0167",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 167,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1342,
+    "footnote_separator_y_original": 1457,
+    "effective_width": 1122,
+    "effective_height": 1342
+  },
+  "items": [
+    {
+      "line_id": "0167_viet_000",
+      "bbox": [
+        [
+          155,
+          0
+        ],
+        [
+          398,
+          0
+        ],
+        [
+          398,
+          33
+        ],
+        [
+          155,
+          33
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          115
+        ],
+        [
+          398,
+          115
+        ],
+        [
+          398,
+          148
+        ],
+        [
+          155,
+          148
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        0,
+        398,
+        33
+      ],
+      "text": "Tha nhật kì diên",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0167_viet_001",
+      "bbox": [
+        [
+          153,
+          47
+        ],
+        [
+          338,
+          47
+        ],
+        [
+          338,
+          85
+        ],
+        [
+          153,
+          85
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          162
+        ],
+        [
+          338,
+          162
+        ],
+        [
+          338,
+          200
+        ],
+        [
+          153,
+          200
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        47,
+        338,
+        85
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0167_viet_002",
+      "bbox": [
+        [
+          154,
+          95
+        ],
+        [
+          495,
+          95
+        ],
+        [
+          495,
+          132
+        ],
+        [
+          154,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          210
+        ],
+        [
+          495,
+          210
+        ],
+        [
+          495,
+          247
+        ],
+        [
+          154,
+          247
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        95,
+        495,
+        132
+      ],
+      "text": "Điệu Hoạ đường xuân",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0167_viet_003",
+      "bbox": [
+        [
+          152,
+          138
+        ],
+        [
+          1059,
+          138
+        ],
+        [
+          1059,
+          181
+        ],
+        [
+          152,
+          181
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          253
+        ],
+        [
+          1059,
+          253
+        ],
+        [
+          1059,
+          296
+        ],
+        [
+          152,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        138,
+        1059,
+        181
+      ],
+      "text": "Hoạn lộ đã thành công, tên tuổi đã xác lập, lại nhân tuổi cao",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0167_viet_004",
+      "bbox": [
+        [
+          94,
+          185
+        ],
+        [
+          270,
+          185
+        ],
+        [
+          270,
+          224
+        ],
+        [
+          94,
+          224
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          300
+        ],
+        [
+          270,
+          300
+        ],
+        [
+          270,
+          339
+        ],
+        [
+          94,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        185,
+        270,
+        224
+      ],
+      "text": "mà từ quan,",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0167_viet_005",
+      "bbox": [
+        [
+          155,
+          231
+        ],
+        [
+          907,
+          231
+        ],
+        [
+          907,
+          272
+        ],
+        [
+          155,
+          272
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          346
+        ],
+        [
+          907,
+          346
+        ],
+        [
+          907,
+          387
+        ],
+        [
+          155,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        231,
+        907,
+        272
+      ],
+      "text": "Giương cao ngọn cờ sặc sỡ, bóng cờ bay phần phật",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0167_viet_006",
+      "bbox": [
+        [
+          153,
+          281
+        ],
+        [
+          1058,
+          283
+        ],
+        [
+          1058,
+          321
+        ],
+        [
+          153,
+          319
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          396
+        ],
+        [
+          1058,
+          398
+        ],
+        [
+          1058,
+          436
+        ],
+        [
+          153,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        281,
+        1058,
+        321
+      ],
+      "text": "Hai bên đường phía cổng kinh thành đua nhau xưng tụng bậc",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0167_viet_007",
+      "bbox": [
+        [
+          94,
+          316
+        ],
+        [
+          252,
+          320
+        ],
+        [
+          251,
+          367
+        ],
+        [
+          93,
+          363
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          431
+        ],
+        [
+          252,
+          435
+        ],
+        [
+          251,
+          482
+        ],
+        [
+          93,
+          478
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        316,
+        252,
+        367
+      ],
+      "text": "hiền năng,",
+      "confidence": 0.9356
+    },
+    {
+      "line_id": "0167_viet_008",
+      "bbox": [
+        [
+          154,
+          369
+        ],
+        [
+          733,
+          367
+        ],
+        [
+          733,
+          411
+        ],
+        [
+          154,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          484
+        ],
+        [
+          733,
+          482
+        ],
+        [
+          733,
+          526
+        ],
+        [
+          154,
+          528
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        367,
+        733,
+        413
+      ],
+      "text": "[Là] bậc thần tiên ở giữa chốn đất bằng.",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0167_viet_009",
+      "bbox": [
+        [
+          155,
+          465
+        ],
+        [
+          662,
+          465
+        ],
+        [
+          662,
+          509
+        ],
+        [
+          155,
+          509
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          580
+        ],
+        [
+          662,
+          580
+        ],
+        [
+          662,
+          624
+        ],
+        [
+          155,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        465,
+        662,
+        509
+      ],
+      "text": "Thoạt đầu liền cánh trên trời mây?",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0167_viet_010",
+      "bbox": [
+        [
+          154,
+          512
+        ],
+        [
+          695,
+          516
+        ],
+        [
+          695,
+          560
+        ],
+        [
+          153,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          627
+        ],
+        [
+          695,
+          631
+        ],
+        [
+          695,
+          675
+        ],
+        [
+          153,
+          671
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        512,
+        695,
+        560
+      ],
+      "text": "Kế đó cùng sánh vai nơi triều đường.",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0167_viet_011",
+      "bbox": [
+        [
+          153,
+          565
+        ],
+        [
+          1030,
+          563
+        ],
+        [
+          1030,
+          606
+        ],
+        [
+          153,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          680
+        ],
+        [
+          1030,
+          678
+        ],
+        [
+          1030,
+          721
+        ],
+        [
+          153,
+          723
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        563,
+        1030,
+        608
+      ],
+      "text": "Tại ngôi đình bên sông, hôm nay tiễn [bác] hiển vinh trở về,",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0167_viet_012",
+      "bbox": [
+        [
+          154,
+          614
+        ],
+        [
+          571,
+          616
+        ],
+        [
+          571,
+          654
+        ],
+        [
+          154,
+          652
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          729
+        ],
+        [
+          571,
+          731
+        ],
+        [
+          571,
+          769
+        ],
+        [
+          154,
+          767
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        614,
+        571,
+        654
+      ],
+      "text": "Một ngày kia là đến tiệc thọ.",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0167_viet_013",
+      "bbox": [
+        [
+          322,
+          733
+        ],
+        [
+          831,
+          735
+        ],
+        [
+          830,
+          776
+        ],
+        [
+          322,
+          774
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          848
+        ],
+        [
+          831,
+          850
+        ],
+        [
+          830,
+          891
+        ],
+        [
+          322,
+          889
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        733,
+        831,
+        776
+      ],
+      "text": "LÊ QUANG VIỆN (THẾ KỈ XVIII)",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0167_viet_014",
+      "bbox": [
+        [
+          153,
+          808
+        ],
+        [
+          1060,
+          808
+        ],
+        [
+          1060,
+          852
+        ],
+        [
+          153,
+          852
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          923
+        ],
+        [
+          1060,
+          923
+        ],
+        [
+          1060,
+          967
+        ],
+        [
+          153,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        808,
+        1060,
+        852
+      ],
+      "text": "Hiện chưa rõ về tiểu sử tác giả. Theo ghi chép của phần đầu",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0167_viet_015",
+      "bbox": [
+        [
+          95,
+          854
+        ],
+        [
+          1059,
+          857
+        ],
+        [
+          1059,
+          894
+        ],
+        [
+          95,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          969
+        ],
+        [
+          1059,
+          972
+        ],
+        [
+          1059,
+          1009
+        ],
+        [
+          95,
+          1006
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        854,
+        1059,
+        894
+      ],
+      "text": "sách Hoa trình ngấu bút lục (F42 (2 (2 (k, A.697), ông từng làm",
+      "confidence": 0.8664
+    },
+    {
+      "line_id": "0167_viet_016",
+      "bbox": [
+        [
+          95,
+          898
+        ],
+        [
+          1059,
+          903
+        ],
+        [
+          1059,
+          944
+        ],
+        [
+          95,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          1013
+        ],
+        [
+          1059,
+          1018
+        ],
+        [
+          1059,
+          1059
+        ],
+        [
+          95,
+          1054
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        898,
+        1059,
+        944
+      ],
+      "text": "Ất phó sứ sang nhà Thanh năm Quý Ty niên hiệu Cảnh Hưng (tức",
+      "confidence": 0.9282
+    },
+    {
+      "line_id": "0167_viet_017",
+      "bbox": [
+        [
+          93,
+          941
+        ],
+        [
+          1059,
+          945
+        ],
+        [
+          1059,
+          986
+        ],
+        [
+          93,
+          981
+        ]
+      ],
+      "bbox_original": [
+        [
+          93,
+          1056
+        ],
+        [
+          1059,
+          1060
+        ],
+        [
+          1059,
+          1101
+        ],
+        [
+          93,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        941,
+        1059,
+        986
+      ],
+      "text": "năm 1773), Thông tin này chắc có nhầm lẫn, vì vào giai đoạn này,",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0167_viet_018",
+      "bbox": [
+        [
+          95,
+          988
+        ],
+        [
+          1058,
+          988
+        ],
+        [
+          1058,
+          1024
+        ],
+        [
+          95,
+          1024
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          1103
+        ],
+        [
+          1058,
+          1103
+        ],
+        [
+          1058,
+          1139
+        ],
+        [
+          95,
+          1139
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        988,
+        1058,
+        1024
+      ],
+      "text": "sứ đoàn nước ta lại sang Trung Quốc một lần, năm 1771, sứ đoàn",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0167_viet_019",
+      "bbox": [
+        [
+          95,
+          1029
+        ],
+        [
+          1058,
+          1032
+        ],
+        [
+          1058,
+          1069
+        ],
+        [
+          95,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          1144
+        ],
+        [
+          1058,
+          1147
+        ],
+        [
+          1058,
+          1184
+        ],
+        [
+          95,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        1029,
+        1058,
+        1069
+      ],
+      "text": "do Đoàn Nguyễn Thục làm Chánh sứ, Vũ Huy Đĩnh làm Giáp phó",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0167_viet_020",
+      "bbox": [
+        [
+          95,
+          1071
+        ],
+        [
+          1061,
+          1073
+        ],
+        [
+          1061,
+          1110
+        ],
+        [
+          95,
+          1108
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          1186
+        ],
+        [
+          1061,
+          1188
+        ],
+        [
+          1061,
+          1225
+        ],
+        [
+          95,
+          1223
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        1071,
+        1061,
+        1110
+      ],
+      "text": "sứ, nguyễn Lý làm Át phó sứ, được lệnh chuẩn bị đi sứ, năm sau",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0167_viet_021",
+      "bbox": [
+        [
+          93,
+          1113
+        ],
+        [
+          1060,
+          1116
+        ],
+        [
+          1060,
+          1156
+        ],
+        [
+          93,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          93,
+          1228
+        ],
+        [
+          1060,
+          1231
+        ],
+        [
+          1060,
+          1271
+        ],
+        [
+          93,
+          1268
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        1113,
+        1060,
+        1156
+      ],
+      "text": "lên đường, năm 1773 mới về, Trong tập Hoa trình ngẫu bút lục",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0167_viet_022",
+      "bbox": [
+        [
+          94,
+          1156
+        ],
+        [
+          1060,
+          1158
+        ],
+        [
+          1060,
+          1198
+        ],
+        [
+          94,
+          1196
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          1271
+        ],
+        [
+          1060,
+          1273
+        ],
+        [
+          1060,
+          1313
+        ],
+        [
+          94,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        1156,
+        1060,
+        1198
+      ],
+      "text": "ghi chép hỗn độn, gồm thơ ca của nhiều tác giả thuộc các giai",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0167_viet_023",
+      "bbox": [
+        [
+          93,
+          1196
+        ],
+        [
+          1061,
+          1201
+        ],
+        [
+          1061,
+          1241
+        ],
+        [
+          93,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          93,
+          1311
+        ],
+        [
+          1061,
+          1316
+        ],
+        [
+          1061,
+          1356
+        ],
+        [
+          93,
+          1351
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        1196,
+        1061,
+        1241
+      ],
+      "text": "đoạn khác nhau, do đó, khó có thể xác quyết 04 bài từ ghi trong",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0167_viet_024",
+      "bbox": [
+        [
+          94,
+          1241
+        ],
+        [
+          671,
+          1243
+        ],
+        [
+          671,
+          1280
+        ],
+        [
+          94,
+          1278
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          1356
+        ],
+        [
+          671,
+          1358
+        ],
+        [
+          671,
+          1395
+        ],
+        [
+          94,
+          1393
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        1241,
+        671,
+        1280
+      ],
+      "text": "sách này thực sự là của Lê Quang Viện",
+      "confidence": 0.9228
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Tha nhật kì diên"
+    ],
+    "dich_nghia_lines": [
+      "Điệu Hoạ đường xuân",
+      "Hoạn lộ đã thành công, tên tuổi đã xác lập, lại nhân tuổi cao",
+      "mà từ quan,",
+      "Giương cao ngọn cờ sặc sỡ, bóng cờ bay phần phật",
+      "Hai bên đường phía cổng kinh thành đua nhau xưng tụng bậc",
+      "hiền năng,",
+      "[Là] bậc thần tiên ở giữa chốn đất bằng.",
+      "Thoạt đầu liền cánh trên trời mây?",
+      "Kế đó cùng sánh vai nơi triều đường.",
+      "Tại ngôi đình bên sông, hôm nay tiễn [bác] hiển vinh trở về,",
+      "Một ngày kia là đến tiệc thọ.",
+      "LÊ QUANG VIỆN (THẾ KỈ XVIII)",
+      "Hiện chưa rõ về tiểu sử tác giả. Theo ghi chép của phần đầu",
+      "sách Hoa trình ngấu bút lục (F42 (2 (2 (k, A.697), ông từng làm",
+      "Ất phó sứ sang nhà Thanh năm Quý Ty niên hiệu Cảnh Hưng (tức",
+      "năm 1773), Thông tin này chắc có nhầm lẫn, vì vào giai đoạn này,",
+      "sứ đoàn nước ta lại sang Trung Quốc một lần, năm 1771, sứ đoàn",
+      "do Đoàn Nguyễn Thục làm Chánh sứ, Vũ Huy Đĩnh làm Giáp phó",
+      "sứ, nguyễn Lý làm Át phó sứ, được lệnh chuẩn bị đi sứ, năm sau",
+      "lên đường, năm 1773 mới về, Trong tập Hoa trình ngẫu bút lục",
+      "ghi chép hỗn độn, gồm thơ ca của nhiều tác giả thuộc các giai",
+      "đoạn khác nhau, do đó, khó có thể xác quyết 04 bài từ ghi trong",
+      "sách này thực sự là của Lê Quang Viện"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

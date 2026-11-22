@@ -20,203 +20,203 @@
       "line_id": "0369_viet_000",
       "bbox": [
         [
-          180,
-          225
+          95,
+          30
         ],
         [
-          1620,
-          225
+          380,
+          30
         ],
         [
-          1620,
-          270
+          380,
+          65
         ],
         [
-          180,
-          270
+          95,
+          65
         ]
       ],
       "bbox_original": [
         [
-          180,
-          346
+          95,
+          151
         ],
         [
-          1620,
-          346
+          380,
+          151
         ],
         [
-          1620,
-          391
+          380,
+          186
         ],
         [
-          180,
-          391
+          95,
+          186
         ]
       ],
       "box_xyxy": [
-        180,
-        225,
-        1620,
-        270
+        95,
+        30,
+        380,
+        65
       ],
-      "text": "Thiên khí nhập trung-thu chi dạ, Tiêu-điều kinh tứ tọa sương hàn.",
-      "confidence": 0.985,
-      "role": "phien_am"
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.989
     },
     {
       "line_id": "0369_viet_001",
       "bbox": [
         [
-          180,
-          280
+          997,
+          30
         ],
         [
-          1620,
-          280
+          1092,
+          30
         ],
         [
-          1620,
-          325
+          1092,
+          65
         ],
         [
-          180,
-          325
+          997,
+          65
         ]
       ],
       "bbox_original": [
         [
-          180,
-          401
+          997,
+          151
         ],
         [
-          1620,
-          401
+          1092,
+          151
         ],
         [
-          1620,
-          446
+          1092,
+          186
         ],
         [
-          180,
-          446
+          997,
+          186
         ]
       ],
       "box_xyxy": [
-        180,
-        280,
-        1620,
-        325
+        997,
+        30,
+        1092,
+        65
       ],
-      "text": "Đêm trung-thu trời mây trong trẻo, Sương đầm đầm lạnh lẽo bốn bên.",
-      "confidence": 0.982,
-      "role": "dich_tho"
+      "text": "365",
+      "confidence": 0.988
     },
     {
       "line_id": "0369_viet_002",
       "bbox": [
         [
-          180,
-          445
+          213,
+          160
         ],
         [
-          1620,
-          445
+          974,
+          160
         ],
         [
-          1620,
-          490
+          974,
+          205
         ],
         [
-          180,
-          490
+          213,
+          205
         ]
       ],
       "bbox_original": [
         [
-          180,
-          566
+          213,
+          281
         ],
         [
-          1620,
-          566
+          974,
+          281
         ],
         [
-          1620,
-          611
+          974,
+          326
         ],
         [
-          180,
-          611
+          213,
+          326
         ]
       ],
       "box_xyxy": [
-        180,
-        445,
-        1620,
-        490
+        213,
+        160,
+        974,
+        205
       ],
-      "text": "Tiên gia biệt chiếm thanh-nhàn, Đả tàn kỳ trận, ẩm tàn cúc bôi !",
-      "confidence": 0.984,
-      "role": "phien_am"
+      "text": "Đêm trung-thu trời mây trong trẻo, Sương đầm đầm lạnh lẽo bốn bên.",
+      "confidence": 0.982
     },
     {
       "line_id": "0369_viet_003",
       "bbox": [
         [
-          180,
-          500
+          213,
+          230
         ],
         [
-          1620,
-          500
+          974,
+          230
         ],
         [
-          1620,
-          545
+          974,
+          275
         ],
         [
-          180,
-          545
+          213,
+          275
         ]
       ],
       "bbox_original": [
         [
-          180,
-          621
+          213,
+          351
         ],
         [
-          1620,
-          621
+          974,
+          351
         ],
         [
-          1620,
-          666
+          974,
+          396
         ],
         [
-          180,
-          666
+          213,
+          396
         ]
       ],
       "box_xyxy": [
-        180,
-        500,
-        1620,
-        545
+        213,
+        230,
+        974,
+        275
       ],
       "text": "Thanh-nhàn riêng một cảnh tiên, Mảng vui cờ thánh rượu hiền tiêu-dao !",
-      "confidence": 0.98,
-      "role": "dich_tho"
+      "confidence": 0.98
     }
   ],
   "layout_summary": {
-    "layout_mode": "odd_page_commentary_skipped",
+    "layout_mode": "odd_page_dich_tho",
     "phien_am_lines": [],
     "dich_nghia_lines": [],
     "dich_tho_lines": [
       "Đêm trung-thu trời mây trong trẻo, Sương đầm đầm lạnh lẽo bốn bên.",
       "Thanh-nhàn riêng một cảnh tiên, Mảng vui cờ thánh rượu hiền tiêu-dao !"
     ],
-    "interlinear_triplets": []
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      182.5,
+      252.5
+    ]
   }
 }

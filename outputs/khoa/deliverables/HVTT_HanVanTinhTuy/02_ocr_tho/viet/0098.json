@@ -1,0 +1,1131 @@
+{
+  "page_id": "0098",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 98,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0098_viet_000",
+      "bbox": [
+        [
+          191,
+          28
+        ],
+        [
+          236,
+          28
+        ],
+        [
+          236,
+          66
+        ],
+        [
+          191,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          149
+        ],
+        [
+          236,
+          149
+        ],
+        [
+          236,
+          187
+        ],
+        [
+          191,
+          187
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        28,
+        236,
+        66
+      ],
+      "text": "92",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0098_viet_001",
+      "bbox": [
+        [
+          781,
+          24
+        ],
+        [
+          995,
+          24
+        ],
+        [
+          995,
+          62
+        ],
+        [
+          781,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          781,
+          145
+        ],
+        [
+          995,
+          145
+        ],
+        [
+          995,
+          183
+        ],
+        [
+          781,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        781,
+        24,
+        995,
+        62
+      ],
+      "text": "TIỂU-DẪN",
+      "confidence": 0.7348
+    },
+    {
+      "line_id": "0098_viet_002",
+      "bbox": [
+        [
+          222,
+          130
+        ],
+        [
+          993,
+          132
+        ],
+        [
+          993,
+          172
+        ],
+        [
+          222,
+          170
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          251
+        ],
+        [
+          993,
+          253
+        ],
+        [
+          993,
+          293
+        ],
+        [
+          222,
+          291
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        130,
+        993,
+        172
+      ],
+      "text": "Năm 20 tuổi, Đỗ đi chu-du khắp miền ngô-việt. năm",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0098_viet_003",
+      "bbox": [
+        [
+          193,
+          190
+        ],
+        [
+          993,
+          193
+        ],
+        [
+          993,
+          234
+        ],
+        [
+          193,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          311
+        ],
+        [
+          993,
+          314
+        ],
+        [
+          993,
+          355
+        ],
+        [
+          193,
+          352
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        190,
+        993,
+        234
+      ],
+      "text": "30 tuổi thi hương-công không đỗ, lại cùng bè bạn đi",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0098_viet_004",
+      "bbox": [
+        [
+          192,
+          250
+        ],
+        [
+          918,
+          254
+        ],
+        [
+          918,
+          295
+        ],
+        [
+          192,
+          291
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          371
+        ],
+        [
+          918,
+          375
+        ],
+        [
+          918,
+          416
+        ],
+        [
+          192,
+          412
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        250,
+        918,
+        295
+      ],
+      "text": "chơi đất Tê, đất Lỗ rồi dừng chân ở Lạc-dương.",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0098_viet_005",
+      "bbox": [
+        [
+          220,
+          332
+        ],
+        [
+          991,
+          334
+        ],
+        [
+          991,
+          375
+        ],
+        [
+          220,
+          373
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          453
+        ],
+        [
+          991,
+          455
+        ],
+        [
+          991,
+          496
+        ],
+        [
+          220,
+          494
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        332,
+        991,
+        375
+      ],
+      "text": "Năm 40 tuổi đền ở huyện trường an bên sông khúc",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0098_viet_006",
+      "bbox": [
+        [
+          193,
+          396
+        ],
+        [
+          992,
+          393
+        ],
+        [
+          992,
+          434
+        ],
+        [
+          193,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          517
+        ],
+        [
+          992,
+          514
+        ],
+        [
+          992,
+          555
+        ],
+        [
+          193,
+          558
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        393,
+        992,
+        437
+      ],
+      "text": "giang gặp vua Huyền-tôn đi tề Giao, Đổ dâng bài Tam",
+      "confidence": 0.8899
+    },
+    {
+      "line_id": "0098_viet_007",
+      "bbox": [
+        [
+          193,
+          455
+        ],
+        [
+          990,
+          455
+        ],
+        [
+          990,
+          495
+        ],
+        [
+          193,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          576
+        ],
+        [
+          990,
+          576
+        ],
+        [
+          990,
+          616
+        ],
+        [
+          193,
+          616
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        455,
+        990,
+        495
+      ],
+      "text": "đại-lễ phú, được vua khen và bổ làm thị-chề viện Tập",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0098_viet_008",
+      "bbox": [
+        [
+          188,
+          511
+        ],
+        [
+          266,
+          511
+        ],
+        [
+          266,
+          554
+        ],
+        [
+          188,
+          554
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          632
+        ],
+        [
+          266,
+          632
+        ],
+        [
+          266,
+          675
+        ],
+        [
+          188,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        511,
+        266,
+        554
+      ],
+      "text": "hiền",
+      "confidence": 0.9353
+    },
+    {
+      "line_id": "0098_viet_009",
+      "bbox": [
+        [
+          220,
+          587
+        ],
+        [
+          996,
+          596
+        ],
+        [
+          995,
+          644
+        ],
+        [
+          220,
+          636
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          708
+        ],
+        [
+          996,
+          717
+        ],
+        [
+          995,
+          765
+        ],
+        [
+          220,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        587,
+        996,
+        644
+      ],
+      "text": "Ở kinh đô, Đố gặp Lý-Bạch, kết thành đôi bạn văn",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0098_viet_010",
+      "bbox": [
+        [
+          192,
+          657
+        ],
+        [
+          513,
+          655
+        ],
+        [
+          513,
+          696
+        ],
+        [
+          192,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          778
+        ],
+        [
+          513,
+          776
+        ],
+        [
+          513,
+          817
+        ],
+        [
+          192,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        655,
+        513,
+        698
+      ],
+      "text": "chương rất tương-đắc.",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0098_viet_011",
+      "bbox": [
+        [
+          222,
+          732
+        ],
+        [
+          992,
+          735
+        ],
+        [
+          992,
+          775
+        ],
+        [
+          222,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          853
+        ],
+        [
+          992,
+          856
+        ],
+        [
+          992,
+          896
+        ],
+        [
+          222,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        732,
+        992,
+        775
+      ],
+      "text": "Cách bồn năm sau, An-lộc-sơn khởi loạn, quan-quân",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0098_viet_012",
+      "bbox": [
+        [
+          194,
+          795
+        ],
+        [
+          992,
+          795
+        ],
+        [
+          992,
+          836
+        ],
+        [
+          194,
+          836
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          916
+        ],
+        [
+          992,
+          916
+        ],
+        [
+          992,
+          957
+        ],
+        [
+          194,
+          957
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        795,
+        992,
+        836
+      ],
+      "text": "thua ở Nghiệp-thành, quân-giặc định kéo vào cướp hà",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0098_viet_013",
+      "bbox": [
+        [
+          193,
+          855
+        ],
+        [
+          991,
+          855
+        ],
+        [
+          991,
+          896
+        ],
+        [
+          193,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          976
+        ],
+        [
+          991,
+          976
+        ],
+        [
+          991,
+          1017
+        ],
+        [
+          193,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        855,
+        991,
+        896
+      ],
+      "text": "dương, nên quách-tử nghi phải cho quân đóng giữ",
+      "confidence": 0.9012
+    },
+    {
+      "line_id": "0098_viet_014",
+      "bbox": [
+        [
+          191,
+          914
+        ],
+        [
+          993,
+          914
+        ],
+        [
+          993,
+          954
+        ],
+        [
+          191,
+          954
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1035
+        ],
+        [
+          993,
+          1035
+        ],
+        [
+          993,
+          1075
+        ],
+        [
+          191,
+          1075
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        914,
+        993,
+        954
+      ],
+      "text": "ở đây. Đỗ-Phủ được chứng-kiên những nỗi khổ của",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0098_viet_015",
+      "bbox": [
+        [
+          193,
+          974
+        ],
+        [
+          993,
+          974
+        ],
+        [
+          993,
+          1014
+        ],
+        [
+          193,
+          1014
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1095
+        ],
+        [
+          993,
+          1095
+        ],
+        [
+          993,
+          1135
+        ],
+        [
+          193,
+          1135
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        974,
+        993,
+        1014
+      ],
+      "text": "dân-gian trong lúc chiên-tranh, nên cảm-hứng làm ra",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0098_viet_016",
+      "bbox": [
+        [
+          191,
+          1034
+        ],
+        [
+          454,
+          1037
+        ],
+        [
+          453,
+          1075
+        ],
+        [
+          191,
+          1073
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1155
+        ],
+        [
+          454,
+          1158
+        ],
+        [
+          453,
+          1196
+        ],
+        [
+          191,
+          1194
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1034,
+        454,
+        1075
+      ],
+      "text": "bài thạch-hào lại.",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0098_viet_017",
+      "bbox": [
+        [
+          224,
+          1114
+        ],
+        [
+          990,
+          1114
+        ],
+        [
+          990,
+          1151
+        ],
+        [
+          224,
+          1151
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1235
+        ],
+        [
+          990,
+          1235
+        ],
+        [
+          990,
+          1272
+        ],
+        [
+          224,
+          1272
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1114,
+        990,
+        1151
+      ],
+      "text": "Vua Huyền-tôn rồi chạy vào Thục, con là Túc-tôn lên",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0098_viet_018",
+      "bbox": [
+        [
+          193,
+          1173
+        ],
+        [
+          992,
+          1169
+        ],
+        [
+          992,
+          1210
+        ],
+        [
+          193,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1294
+        ],
+        [
+          992,
+          1290
+        ],
+        [
+          992,
+          1331
+        ],
+        [
+          193,
+          1335
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        1169,
+        992,
+        1214
+      ],
+      "text": "ngôi ở Linh-vũ. Đố theo vua Túc-tôn làm chức Tả",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0098_viet_019",
+      "bbox": [
+        [
+          192,
+          1233
+        ],
+        [
+          992,
+          1232
+        ],
+        [
+          992,
+          1274
+        ],
+        [
+          192,
+          1275
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1354
+        ],
+        [
+          992,
+          1353
+        ],
+        [
+          992,
+          1395
+        ],
+        [
+          192,
+          1396
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1232,
+        992,
+        1275
+      ],
+      "text": "thập-di. Gặp tế tướng Phòng-Quán là bạn thân bị bãi",
+      "confidence": 0.8994
+    },
+    {
+      "line_id": "0098_viet_020",
+      "bbox": [
+        [
+          192,
+          1294
+        ],
+        [
+          992,
+          1295
+        ],
+        [
+          992,
+          1335
+        ],
+        [
+          192,
+          1334
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1415
+        ],
+        [
+          992,
+          1416
+        ],
+        [
+          992,
+          1456
+        ],
+        [
+          192,
+          1455
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1294,
+        992,
+        1335
+      ],
+      "text": "chức, Đỗ dâng sớ bênh-vực, vua nổi giận giáng làm",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0098_viet_021",
+      "bbox": [
+        [
+          193,
+          1355
+        ],
+        [
+          991,
+          1355
+        ],
+        [
+          991,
+          1395
+        ],
+        [
+          193,
+          1395
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1476
+        ],
+        [
+          991,
+          1476
+        ],
+        [
+          991,
+          1516
+        ],
+        [
+          193,
+          1516
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        1355,
+        991,
+        1395
+      ],
+      "text": "tham-quân hoa-châu. vì bất đồng ý với huyện-lệnh",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0098_viet_022",
+      "bbox": [
+        [
+          192,
+          1415
+        ],
+        [
+          992,
+          1415
+        ],
+        [
+          992,
+          1455
+        ],
+        [
+          192,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1536
+        ],
+        [
+          992,
+          1536
+        ],
+        [
+          992,
+          1576
+        ],
+        [
+          192,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1415,
+        992,
+        1455
+      ],
+      "text": "Hoa-châu, Đỗ bỏ quan về ần ở Đông-cốc. năm ây mất",
+      "confidence": 0.8673
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "TIỂU-DẪN",
+      "Năm 20 tuổi, Đỗ đi chu-du khắp miền ngô-việt. năm",
+      "30 tuổi thi hương-công không đỗ, lại cùng bè bạn đi",
+      "chơi đất Tê, đất Lỗ rồi dừng chân ở Lạc-dương.",
+      "Năm 40 tuổi đền ở huyện trường an bên sông khúc",
+      "giang gặp vua Huyền-tôn đi tề Giao, Đổ dâng bài Tam",
+      "đại-lễ phú, được vua khen và bổ làm thị-chề viện Tập",
+      "hiền",
+      "Ở kinh đô, Đố gặp Lý-Bạch, kết thành đôi bạn văn",
+      "chương rất tương-đắc.",
+      "Cách bồn năm sau, An-lộc-sơn khởi loạn, quan-quân",
+      "thua ở Nghiệp-thành, quân-giặc định kéo vào cướp hà",
+      "dương, nên quách-tử nghi phải cho quân đóng giữ",
+      "ở đây. Đỗ-Phủ được chứng-kiên những nỗi khổ của",
+      "dân-gian trong lúc chiên-tranh, nên cảm-hứng làm ra",
+      "bài thạch-hào lại.",
+      "Vua Huyền-tôn rồi chạy vào Thục, con là Túc-tôn lên",
+      "ngôi ở Linh-vũ. Đố theo vua Túc-tôn làm chức Tả",
+      "thập-di. Gặp tế tướng Phòng-Quán là bạn thân bị bãi",
+      "chức, Đỗ dâng sớ bênh-vực, vua nổi giận giáng làm",
+      "tham-quân hoa-châu. vì bất đồng ý với huyện-lệnh",
+      "Hoa-châu, Đỗ bỏ quan về ần ở Đông-cốc. năm ây mất"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

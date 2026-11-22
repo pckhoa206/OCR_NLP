@@ -1,0 +1,412 @@
+{
+  "page_id": "0202",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 202,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0202_viet_000",
+      "bbox": [
+        [
+          156,
+          7
+        ],
+        [
+          540,
+          9
+        ],
+        [
+          540,
+          53
+        ],
+        [
+          156,
+          51
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          122
+        ],
+        [
+          540,
+          124
+        ],
+        [
+          540,
+          168
+        ],
+        [
+          156,
+          166
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        7,
+        540,
+        53
+      ],
+      "text": "Sầu giết phòng xuân vắng.",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0202_viet_001",
+      "bbox": [
+        [
+          155,
+          108
+        ],
+        [
+          749,
+          105
+        ],
+        [
+          749,
+          143
+        ],
+        [
+          155,
+          146
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          223
+        ],
+        [
+          749,
+          220
+        ],
+        [
+          749,
+          258
+        ],
+        [
+          155,
+          261
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        105,
+        749,
+        146
+      ],
+      "text": "Loan phượng ngày nào chung nhịp cánh,",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0202_viet_002",
+      "bbox": [
+        [
+          155,
+          156
+        ],
+        [
+          656,
+          154
+        ],
+        [
+          656,
+          192
+        ],
+        [
+          155,
+          194
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          271
+        ],
+        [
+          656,
+          269
+        ],
+        [
+          656,
+          307
+        ],
+        [
+          155,
+          309
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        154,
+        656,
+        194
+      ],
+      "text": "Lúc trầm ngâm gió ngày một lạnh",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0202_viet_003",
+      "bbox": [
+        [
+          155,
+          200
+        ],
+        [
+          550,
+          203
+        ],
+        [
+          550,
+          243
+        ],
+        [
+          155,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          315
+        ],
+        [
+          550,
+          318
+        ],
+        [
+          550,
+          358
+        ],
+        [
+          155,
+          356
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        200,
+        550,
+        243
+      ],
+      "text": "Khi không gối trên giường,",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0202_viet_004",
+      "bbox": [
+        [
+          155,
+          248
+        ],
+        [
+          425,
+          246
+        ],
+        [
+          425,
+          290
+        ],
+        [
+          156,
+          292
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          363
+        ],
+        [
+          425,
+          361
+        ],
+        [
+          425,
+          405
+        ],
+        [
+          156,
+          407
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        246,
+        425,
+        292
+      ],
+      "text": "Mộng thấy bất ổn,",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0202_viet_005",
+      "bbox": [
+        [
+          158,
+          302
+        ],
+        [
+          533,
+          302
+        ],
+        [
+          533,
+          339
+        ],
+        [
+          158,
+          339
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          417
+        ],
+        [
+          533,
+          417
+        ],
+        [
+          533,
+          454
+        ],
+        [
+          158,
+          454
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        302,
+        533,
+        339
+      ],
+      "text": "Bệnh tương tư thêm nặng.",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0202_viet_006",
+      "bbox": [
+        [
+          150,
+          449
+        ],
+        [
+          188,
+          449
+        ],
+        [
+          188,
+          493
+        ],
+        [
+          150,
+          493
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          564
+        ],
+        [
+          188,
+          564
+        ],
+        [
+          188,
+          608
+        ],
+        [
+          150,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        449,
+        188,
+        493
+      ],
+      "text": "I.",
+      "confidence": 0.8263
+    },
+    {
+      "line_id": "0202_viet_007",
+      "bbox": [
+        [
+          991,
+          1423
+        ],
+        [
+          1060,
+          1423
+        ],
+        [
+          1060,
+          1470
+        ],
+        [
+          991,
+          1470
+        ]
+      ],
+      "bbox_original": [
+        [
+          991,
+          1538
+        ],
+        [
+          1060,
+          1538
+        ],
+        [
+          1060,
+          1585
+        ],
+        [
+          991,
+          1585
+        ]
+      ],
+      "box_xyxy": [
+        991,
+        1423,
+        1060,
+        1470
+      ],
+      "text": "195",
+      "confidence": 0.9235
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Sầu giết phòng xuân vắng.",
+      "Loan phượng ngày nào chung nhịp cánh,",
+      "Lúc trầm ngâm gió ngày một lạnh",
+      "Khi không gối trên giường,",
+      "Mộng thấy bất ổn,",
+      "Bệnh tương tư thêm nặng.",
+      "I.",
+      "195"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

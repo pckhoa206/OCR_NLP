@@ -1,0 +1,76 @@
+{
+  "page_id": "0029",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 29,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0029_viet_000",
+      "bbox": [
+        [
+          751,
+          91
+        ],
+        [
+          785,
+          91
+        ],
+        [
+          785,
+          134
+        ],
+        [
+          751,
+          134
+        ]
+      ],
+      "bbox_original": [
+        [
+          751,
+          246
+        ],
+        [
+          785,
+          246
+        ],
+        [
+          785,
+          289
+        ],
+        [
+          751,
+          289
+        ]
+      ],
+      "box_xyxy": [
+        751,
+        91,
+        785,
+        134
+      ],
+      "text": "4",
+      "confidence": 0.9462
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "4"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

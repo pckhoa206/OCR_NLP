@@ -255,8 +255,18 @@ def get_candidate_readings_and_glosses(han_char: str) -> Set[str]:
     return candidates
 
 
-def align_words_in_pair(han_text: str, viet_text: str) -> Dict[str, Any]:
+def align_words_in_pair(
+    han_text: str,
+    viet_text: str,
+    length_text: Optional[str] = None,
+) -> Dict[str, Any]:
     """Perform fine-grained word/character alignment and coverage analysis.
+
+    Args:
+        han_text: Classical Chinese source text.
+        viet_text: Vietnamese text used for lexical/phonetic coverage (may combine columns).
+        length_text: Optional primary Vietnamese column used solely for length-ratio scoring
+            (prevents 4-column concatenation from inflating the length ratio penalty).
 
     Returns:
         dict containing:
@@ -336,7 +346,11 @@ def align_words_in_pair(han_text: str, viet_text: str) -> Dict[str, Any]:
     unmatched_han = [han_chars[i] for i, m in enumerate(han_matched_flags) if not m]
 
     # Length ratio score (ideal ~ 1.8 words per Han char, plateau [0.8, 2.4])
-    ratio = len(viet_tokens) / max(1, len(han_chars))
+    if length_text is not None:
+        length_tokens = _VIET_WORD_RE.findall(clean_viet_text(length_text))
+        ratio = len(length_tokens) / max(1, len(han_chars))
+    else:
+        ratio = len(viet_tokens) / max(1, len(han_chars))
     if 0.80 <= ratio <= 2.40:
         length_score = 1.0
     elif ratio < 0.80:
@@ -367,7 +381,16 @@ def batch_evaluate_word_coverage(pairs: List[Tuple[str, ...]]) -> Dict[str, Any]
     """Evaluate word-level alignment and coverage across a whole corpus."""
     total_pairs = len(pairs)
     if total_pairs == 0:
-        return {"total_pairs": 0, "avg_confidence": 0.0, "avg_han_coverage": 0.0}
+        return {
+            "total_pairs": 0,
+            "avg_confidence": 0.0,
+            "avg_han_coverage": 0.0,
+            "avg_han_coverage_pct": 0.0,
+            "avg_viet_coverage_pct": 0.0,
+            "high_confidence_pairs": 0,
+            "medium_confidence_pairs": 0,
+            "low_confidence_pairs": 0,
+        }
 
     confidences: List[float] = []
     han_coverages: List[float] = []
@@ -378,13 +401,20 @@ def batch_evaluate_word_coverage(pairs: List[Tuple[str, ...]]) -> Dict[str, Any]
         han_str = pair[0]
         # In 4-column format: Hán (0), Dịch âm (1), Dịch nghĩa (2), Dịch thơ (3)
         if len(pair) >= 4:
-            # Combine phonetic transcription and translation for comprehensive grounding
-            all_viet_parts = [p for p in pair[1:] if p.strip()]
+            # Keep lexical coverage across all non-empty Vietnamese columns
+            all_viet_parts = [p for p in pair[1:] if p and p.strip()]
             viet_str = " ".join(all_viet_parts)
+            # Compute length_score strictly on the primary Vietnamese column:
+            # Dịch nghĩa -> Dịch thơ -> Dịch âm (title rows)
+            primary_viet = (
+                pair[2]
+                if pair[2].strip()
+                else (pair[3] if pair[3].strip() else pair[1])
+            )
+            res = align_words_in_pair(han_str, viet_str, length_text=primary_viet)
         else:
-            viet_str = pair[1]
-
-        res = align_words_in_pair(han_str, viet_str)
+            viet_str = pair[1] if len(pair) > 1 else ""
+            res = align_words_in_pair(han_str, viet_str)
         conf = res["confidence_score"]
         confidences.append(conf)
         han_coverages.append(res["han_coverage_pct"])

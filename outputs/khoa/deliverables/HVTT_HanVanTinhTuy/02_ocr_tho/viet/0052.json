@@ -1,0 +1,172 @@
+{
+  "page_id": "0052",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 52,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0052_viet_000",
+      "bbox": [
+        [
+          804,
+          1028
+        ],
+        [
+          889,
+          1015
+        ],
+        [
+          896,
+          1057
+        ],
+        [
+          810,
+          1070
+        ]
+      ],
+      "bbox_original": [
+        [
+          804,
+          1149
+        ],
+        [
+          889,
+          1136
+        ],
+        [
+          896,
+          1178
+        ],
+        [
+          810,
+          1191
+        ]
+      ],
+      "box_xyxy": [
+        804,
+        1015,
+        896,
+        1070
+      ],
+      "text": "Fwm",
+      "confidence": 0.7434
+    },
+    {
+      "line_id": "0052_viet_001",
+      "bbox": [
+        [
+          314,
+          1233
+        ],
+        [
+          877,
+          1239
+        ],
+        [
+          877,
+          1286
+        ],
+        [
+          314,
+          1280
+        ]
+      ],
+      "bbox_original": [
+        [
+          314,
+          1354
+        ],
+        [
+          877,
+          1360
+        ],
+        [
+          877,
+          1407
+        ],
+        [
+          314,
+          1401
+        ]
+      ],
+      "box_xyxy": [
+        314,
+        1233,
+        877,
+        1286
+      ],
+      "text": "- Con người vô dụng còn chờ gì đây",
+      "confidence": 0.9296
+    },
+    {
+      "line_id": "0052_viet_002",
+      "bbox": [
+        [
+          347,
+          1303
+        ],
+        [
+          838,
+          1306
+        ],
+        [
+          838,
+          1353
+        ],
+        [
+          347,
+          1350
+        ]
+      ],
+      "bbox_original": [
+        [
+          347,
+          1424
+        ],
+        [
+          838,
+          1427
+        ],
+        [
+          838,
+          1474
+        ],
+        [
+          347,
+          1471
+        ]
+      ],
+      "box_xyxy": [
+        347,
+        1303,
+        838,
+        1353
+      ],
+      "text": "Mà không đem giềt thắng tay ?",
+      "confidence": 0.8748
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "Fwm",
+      "- Con người vô dụng còn chờ gì đây",
+      "Mà không đem giềt thắng tay ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

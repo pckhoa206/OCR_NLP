@@ -1,0 +1,215 @@
+{
+  "page_id": "0053",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 53,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0053_viet_000",
+      "bbox": [
+        [
+          327,
+          560
+        ],
+        [
+          852,
+          558
+        ],
+        [
+          852,
+          604
+        ],
+        [
+          327,
+          606
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          681
+        ],
+        [
+          852,
+          679
+        ],
+        [
+          852,
+          725
+        ],
+        [
+          327,
+          727
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        558,
+        852,
+        606
+      ],
+      "text": "TRIỆU-UY-HẬU VĂN TỀ-SỨ",
+      "confidence": 0.9011
+    },
+    {
+      "line_id": "0053_viet_001",
+      "bbox": [
+        [
+          277,
+          673
+        ],
+        [
+          908,
+          671
+        ],
+        [
+          908,
+          718
+        ],
+        [
+          277,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          794
+        ],
+        [
+          908,
+          792
+        ],
+        [
+          908,
+          839
+        ],
+        [
+          277,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        671,
+        908,
+        720
+      ],
+      "text": "TRIỆU UY HẬU HỎI SỨ NƯỚC TỀ",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0053_viet_002",
+      "bbox": [
+        [
+          645,
+          856
+        ],
+        [
+          908,
+          858
+        ],
+        [
+          908,
+          899
+        ],
+        [
+          645,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          645,
+          977
+        ],
+        [
+          908,
+          979
+        ],
+        [
+          908,
+          1020
+        ],
+        [
+          645,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        645,
+        856,
+        908,
+        899
+      ],
+      "text": "Văn nước Triệu",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0053_viet_003",
+      "bbox": [
+        [
+          654,
+          944
+        ],
+        [
+          900,
+          946
+        ],
+        [
+          900,
+          987
+        ],
+        [
+          654,
+          985
+        ]
+      ],
+      "bbox_original": [
+        [
+          654,
+          1065
+        ],
+        [
+          900,
+          1067
+        ],
+        [
+          900,
+          1108
+        ],
+        [
+          654,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        654,
+        944,
+        900,
+        987
+      ],
+      "text": "đời Chiến-quốc",
+      "confidence": 0.9062
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

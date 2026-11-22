@@ -1,0 +1,532 @@
+{
+  "page_id": "0038",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 38,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0038_viet_000",
+      "bbox": [
+        [
+          190,
+          68
+        ],
+        [
+          236,
+          68
+        ],
+        [
+          236,
+          106
+        ],
+        [
+          190,
+          106
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          189
+        ],
+        [
+          236,
+          189
+        ],
+        [
+          236,
+          227
+        ],
+        [
+          190,
+          227
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        68,
+        236,
+        106
+      ],
+      "text": "32",
+      "confidence": 0.9345
+    },
+    {
+      "line_id": "0038_viet_001",
+      "bbox": [
+        [
+          661,
+          69
+        ],
+        [
+          989,
+          69
+        ],
+        [
+          989,
+          103
+        ],
+        [
+          661,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          190
+        ],
+        [
+          989,
+          190
+        ],
+        [
+          989,
+          224
+        ],
+        [
+          661,
+          224
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        69,
+        989,
+        103
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0038_viet_002",
+      "bbox": [
+        [
+          233,
+          225
+        ],
+        [
+          765,
+          227
+        ],
+        [
+          764,
+          265
+        ],
+        [
+          233,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          346
+        ],
+        [
+          765,
+          348
+        ],
+        [
+          764,
+          386
+        ],
+        [
+          233,
+          384
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        225,
+        765,
+        265
+      ],
+      "text": "Tuyên-tử bái khề thủ yên, viẽt",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0038_viet_003",
+      "bbox": [
+        [
+          254,
+          274
+        ],
+        [
+          654,
+          276
+        ],
+        [
+          654,
+          314
+        ],
+        [
+          254,
+          312
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          395
+        ],
+        [
+          654,
+          397
+        ],
+        [
+          654,
+          435
+        ],
+        [
+          254,
+          433
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        274,
+        654,
+        314
+      ],
+      "text": "Tuyên-tử cúi đầu vái, nói",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0038_viet_004",
+      "bbox": [
+        [
+          232,
+          402
+        ],
+        [
+          808,
+          405
+        ],
+        [
+          808,
+          443
+        ],
+        [
+          232,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          523
+        ],
+        [
+          808,
+          526
+        ],
+        [
+          808,
+          564
+        ],
+        [
+          232,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        402,
+        808,
+        443
+      ],
+      "text": "Khởi dã tương vong, lại tử tồn chi",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0038_viet_005",
+      "bbox": [
+        [
+          253,
+          452
+        ],
+        [
+          811,
+          455
+        ],
+        [
+          811,
+          495
+        ],
+        [
+          253,
+          492
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          573
+        ],
+        [
+          811,
+          576
+        ],
+        [
+          811,
+          616
+        ],
+        [
+          253,
+          613
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        452,
+        811,
+        495
+      ],
+      "text": "Khởi này sắp suy-sụp, nhờ bác giữ lại",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0038_viet_006",
+      "bbox": [
+        [
+          233,
+          580
+        ],
+        [
+          730,
+          580
+        ],
+        [
+          730,
+          620
+        ],
+        [
+          233,
+          620
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          701
+        ],
+        [
+          730,
+          701
+        ],
+        [
+          730,
+          741
+        ],
+        [
+          233,
+          741
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        580,
+        730,
+        620
+      ],
+      "text": "phi Khởi dã cảm huệ thừa chi",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0038_viet_007",
+      "bbox": [
+        [
+          254,
+          629
+        ],
+        [
+          991,
+          630
+        ],
+        [
+          991,
+          671
+        ],
+        [
+          254,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          750
+        ],
+        [
+          991,
+          751
+        ],
+        [
+          991,
+          792
+        ],
+        [
+          254,
+          791
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        629,
+        991,
+        671
+      ],
+      "text": "không phải chỉ khởi này cảm ơn huệ bác mà thôi",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0038_viet_008",
+      "bbox": [
+        [
+          232,
+          758
+        ],
+        [
+          922,
+          756
+        ],
+        [
+          922,
+          796
+        ],
+        [
+          232,
+          799
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          879
+        ],
+        [
+          922,
+          877
+        ],
+        [
+          922,
+          917
+        ],
+        [
+          232,
+          920
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        756,
+        922,
+        799
+      ],
+      "text": "kỳ tự Hoàn Thúc dĩ hạ, gia ngô tử chi tứ.",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0038_viet_009",
+      "bbox": [
+        [
+          255,
+          809
+        ],
+        [
+          919,
+          809
+        ],
+        [
+          919,
+          846
+        ],
+        [
+          255,
+          846
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          930
+        ],
+        [
+          919,
+          930
+        ],
+        [
+          919,
+          967
+        ],
+        [
+          255,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        809,
+        919,
+        846
+      ],
+      "text": "mà từ hoàn thúc trở xuồng đều chịu ơn bác.",
+      "confidence": 0.8996
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Tuyên-tử bái khề thủ yên, viẽt",
+      "Khởi dã tương vong, lại tử tồn chi",
+      "phi Khởi dã cảm huệ thừa chi",
+      "kỳ tự Hoàn Thúc dĩ hạ, gia ngô tử chi tứ."
+    ],
+    "dich_nghia_lines": [
+      "Tuyên-tử cúi đầu vái, nói",
+      "Khởi này sắp suy-sụp, nhờ bác giữ lại",
+      "không phải chỉ khởi này cảm ơn huệ bác mà thôi",
+      "mà từ hoàn thúc trở xuồng đều chịu ơn bác."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "宣子拜稽首焉曰",
+        "phien_am": "Tuyên-tử bái khề thủ yên, viẽt",
+        "dich_nghia_gloss": "Tuyên-tử cúi đầu vái, nói"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "起也將亡賴子存之",
+        "phien_am": "Khởi dã tương vong, lại tử tồn chi",
+        "dich_nghia_gloss": "Khởi này sắp suy-sụp, nhờ bác giữ lại"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "非起也敢惠承之",
+        "phien_am": "phi Khởi dã cảm huệ thừa chi",
+        "dich_nghia_gloss": "không phải chỉ khởi này cảm ơn huệ bác mà thôi"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "其自桓叔以下嘉吾子之賜",
+        "phien_am": "kỳ tự Hoàn Thúc dĩ hạ, gia ngô tử chi tứ.",
+        "dich_nghia_gloss": "mà từ hoàn thúc trở xuồng đều chịu ơn bác."
+      }
+    ]
+  }
+}

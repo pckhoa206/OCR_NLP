@@ -1,0 +1,170 @@
+{
+  "page_id": "0154",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 154,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1272,
+    "footnote_separator_y_original": 1387,
+    "effective_width": 1122,
+    "effective_height": 1272
+  },
+  "items": [
+    {
+      "line_id": "0154_han_000",
+      "bbox": [
+        [
+          146,
+          14
+        ],
+        [
+          373,
+          14
+        ],
+        [
+          373,
+          56
+        ],
+        [
+          146,
+          56
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          129
+        ],
+        [
+          373,
+          129
+        ],
+        [
+          373,
+          171
+        ],
+        [
+          146,
+          171
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        14,
+        373,
+        56
+      ],
+      "text": "梁頭紫燕喃呢.",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0154_han_001",
+      "bbox": [
+        [
+          144,
+          67
+        ],
+        [
+          412,
+          67
+        ],
+        [
+          412,
+          110
+        ],
+        [
+          144,
+          110
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          182
+        ],
+        [
+          412,
+          182
+        ],
+        [
+          412,
+          225
+        ],
+        [
+          144,
+          225
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        67,
+        412,
+        110
+      ],
+      "text": "浩蕩春閨不自持，",
+      "confidence": 0.9903
+    },
+    {
+      "line_id": "0154_han_002",
+      "bbox": [
+        [
+          142,
+          117
+        ],
+        [
+          268,
+          117
+        ],
+        [
+          268,
+          164
+        ],
+        [
+          142,
+          164
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          232
+        ],
+        [
+          268,
+          232
+        ],
+        [
+          268,
+          279
+        ],
+        [
+          142,
+          279
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        117,
+        268,
+        164
+      ],
+      "text": "掇新詞.",
+      "confidence": 0.9761
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "梁頭紫燕喃呢.",
+      "浩蕩春閨不自持，",
+      "掇新詞."
+    ],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1167 @@
+{
+  "page_id": "0014",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 14,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0014_viet_000",
+      "bbox": [
+        [
+          192,
+          27
+        ],
+        [
+          221,
+          27
+        ],
+        [
+          221,
+          63
+        ],
+        [
+          192,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          148
+        ],
+        [
+          221,
+          148
+        ],
+        [
+          221,
+          184
+        ],
+        [
+          192,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        27,
+        221,
+        63
+      ],
+      "text": "8",
+      "confidence": 0.9436
+    },
+    {
+      "line_id": "0014_viet_001",
+      "bbox": [
+        [
+          664,
+          28
+        ],
+        [
+          991,
+          28
+        ],
+        [
+          991,
+          59
+        ],
+        [
+          664,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          664,
+          149
+        ],
+        [
+          991,
+          149
+        ],
+        [
+          991,
+          180
+        ],
+        [
+          664,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        664,
+        28,
+        991,
+        59
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0014_viet_002",
+      "bbox": [
+        [
+          229,
+          181
+        ],
+        [
+          993,
+          181
+        ],
+        [
+          993,
+          218
+        ],
+        [
+          229,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          302
+        ],
+        [
+          993,
+          302
+        ],
+        [
+          993,
+          339
+        ],
+        [
+          229,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        181,
+        993,
+        218
+      ],
+      "text": "vô tòng ngụy tùy, dĩ cần vô lương, thức át",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0014_viet_003",
+      "bbox": [
+        [
+          195,
+          223
+        ],
+        [
+          392,
+          225
+        ],
+        [
+          392,
+          263
+        ],
+        [
+          195,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          344
+        ],
+        [
+          392,
+          346
+        ],
+        [
+          392,
+          384
+        ],
+        [
+          195,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        223,
+        392,
+        263
+      ],
+      "text": "khẩu ngược",
+      "confidence": 0.8566
+    },
+    {
+      "line_id": "0014_viet_004",
+      "bbox": [
+        [
+          222,
+          268
+        ],
+        [
+          989,
+          268
+        ],
+        [
+          989,
+          305
+        ],
+        [
+          222,
+          305
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          389
+        ],
+        [
+          989,
+          389
+        ],
+        [
+          989,
+          426
+        ],
+        [
+          222,
+          426
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        268,
+        989,
+        305
+      ],
+      "text": "Không nghe kẻ giồi trá, loại trừ kẻ vô lương, trộm",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0014_viet_005",
+      "bbox": [
+        [
+          194,
+          313
+        ],
+        [
+          461,
+          313
+        ],
+        [
+          461,
+          351
+        ],
+        [
+          194,
+          351
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          434
+        ],
+        [
+          461,
+          434
+        ],
+        [
+          461,
+          472
+        ],
+        [
+          194,
+          472
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        313,
+        461,
+        351
+      ],
+      "text": "cướp sẽ yên được.",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0014_viet_006",
+      "bbox": [
+        [
+          231,
+          415
+        ],
+        [
+          854,
+          415
+        ],
+        [
+          854,
+          449
+        ],
+        [
+          231,
+          449
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          536
+        ],
+        [
+          854,
+          536
+        ],
+        [
+          854,
+          570
+        ],
+        [
+          231,
+          570
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        415,
+        854,
+        449
+      ],
+      "text": "thao bất úy minh, củ chi di mãnh dã",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0014_viet_007",
+      "bbox": [
+        [
+          225,
+          456
+        ],
+        [
+          688,
+          458
+        ],
+        [
+          688,
+          496
+        ],
+        [
+          225,
+          494
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          577
+        ],
+        [
+          688,
+          579
+        ],
+        [
+          688,
+          617
+        ],
+        [
+          225,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        456,
+        688,
+        496
+      ],
+      "text": "Không xong sẽ dùng sức mạnh",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0014_viet_008",
+      "bbox": [
+        [
+          228,
+          559
+        ],
+        [
+          992,
+          560
+        ],
+        [
+          992,
+          598
+        ],
+        [
+          228,
+          597
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          680
+        ],
+        [
+          992,
+          681
+        ],
+        [
+          992,
+          719
+        ],
+        [
+          228,
+          718
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        559,
+        992,
+        598
+      ],
+      "text": "Nhu viễn năng nhĩ, dĩ định ngã vương, bình",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0014_viet_009",
+      "bbox": [
+        [
+          197,
+          605
+        ],
+        [
+          428,
+          605
+        ],
+        [
+          428,
+          639
+        ],
+        [
+          197,
+          639
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          726
+        ],
+        [
+          428,
+          726
+        ],
+        [
+          428,
+          760
+        ],
+        [
+          197,
+          760
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        605,
+        428,
+        639
+      ],
+      "text": "chi di hòa dã.",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0014_viet_010",
+      "bbox": [
+        [
+          223,
+          649
+        ],
+        [
+          989,
+          649
+        ],
+        [
+          989,
+          686
+        ],
+        [
+          223,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          770
+        ],
+        [
+          989,
+          770
+        ],
+        [
+          989,
+          807
+        ],
+        [
+          223,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        649,
+        989,
+        686
+      ],
+      "text": "Mềm mỏng với dân ở xa. Thân thiện với dân ở gần",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0014_viet_011",
+      "bbox": [
+        [
+          225,
+          752
+        ],
+        [
+          987,
+          754
+        ],
+        [
+          987,
+          791
+        ],
+        [
+          225,
+          789
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          873
+        ],
+        [
+          987,
+          875
+        ],
+        [
+          987,
+          912
+        ],
+        [
+          225,
+          910
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        752,
+        987,
+        791
+      ],
+      "text": "Hựu viết: bắt cạnh, bãt cầu, bãt cương, bãt nhu.",
+      "confidence": 0.8555
+    },
+    {
+      "line_id": "0014_viet_012",
+      "bbox": [
+        [
+          222,
+          796
+        ],
+        [
+          990,
+          799
+        ],
+        [
+          990,
+          836
+        ],
+        [
+          222,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          917
+        ],
+        [
+          990,
+          920
+        ],
+        [
+          990,
+          957
+        ],
+        [
+          222,
+          955
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        796,
+        990,
+        836
+      ],
+      "text": "Lại nói: a Không tranh, không vội, không cứng, không",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0014_viet_013",
+      "bbox": [
+        [
+          193,
+          841
+        ],
+        [
+          989,
+          843
+        ],
+        [
+          989,
+          880
+        ],
+        [
+          193,
+          878
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          962
+        ],
+        [
+          989,
+          964
+        ],
+        [
+          989,
+          1001
+        ],
+        [
+          193,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        841,
+        989,
+        880
+      ],
+      "text": "mềm, thi chính hòa-thuận êm đềm, trăm lộc sẽ tụ họp",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0014_viet_014",
+      "bbox": [
+        [
+          193,
+          885
+        ],
+        [
+          800,
+          888
+        ],
+        [
+          800,
+          925
+        ],
+        [
+          193,
+          922
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1006
+        ],
+        [
+          800,
+          1009
+        ],
+        [
+          800,
+          1046
+        ],
+        [
+          193,
+          1043
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        885,
+        800,
+        925
+      ],
+      "text": "đến thêm n đó là sự a hòa n đền mức vậy.",
+      "confidence": 0.8748
+    },
+    {
+      "line_id": "0014_viet_015",
+      "bbox": [
+        [
+          226,
+          986
+        ],
+        [
+          993,
+          984
+        ],
+        [
+          993,
+          1021
+        ],
+        [
+          226,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1107
+        ],
+        [
+          993,
+          1105
+        ],
+        [
+          993,
+          1142
+        ],
+        [
+          226,
+          1144
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        984,
+        993,
+        1023
+      ],
+      "text": "bõ chinh ưu-ưu, bách lộc thị tù hòa chi chí dã.",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0014_viet_016",
+      "bbox": [
+        [
+          225,
+          1030
+        ],
+        [
+          992,
+          1030
+        ],
+        [
+          992,
+          1068
+        ],
+        [
+          225,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1151
+        ],
+        [
+          992,
+          1151
+        ],
+        [
+          992,
+          1189
+        ],
+        [
+          225,
+          1189
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1030,
+        992,
+        1068
+      ],
+      "text": "để định việc lớn của mình, đó là làm quân bình sự",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0014_viet_017",
+      "bbox": [
+        [
+          193,
+          1075
+        ],
+        [
+          573,
+          1077
+        ],
+        [
+          573,
+          1115
+        ],
+        [
+          193,
+          1113
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1196
+        ],
+        [
+          573,
+          1198
+        ],
+        [
+          573,
+          1236
+        ],
+        [
+          193,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        1075,
+        573,
+        1115
+      ],
+      "text": "hòa thuận trong dân gian",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0014_viet_018",
+      "bbox": [
+        [
+          229,
+          1176
+        ],
+        [
+          970,
+          1176
+        ],
+        [
+          970,
+          1213
+        ],
+        [
+          229,
+          1213
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1297
+        ],
+        [
+          970,
+          1297
+        ],
+        [
+          970,
+          1334
+        ],
+        [
+          229,
+          1334
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1176,
+        970,
+        1213
+      ],
+      "text": "Cập Tử-Sản tốt, Trọng Ni văn chi, xuất thẽ viết:",
+      "confidence": 0.8882
+    },
+    {
+      "line_id": "0014_viet_019",
+      "bbox": [
+        [
+          221,
+          1217
+        ],
+        [
+          992,
+          1218
+        ],
+        [
+          992,
+          1260
+        ],
+        [
+          221,
+          1258
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1338
+        ],
+        [
+          992,
+          1339
+        ],
+        [
+          992,
+          1381
+        ],
+        [
+          221,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1217,
+        992,
+        1260
+      ],
+      "text": "Tử-Sản biết thương dân, được dân yêu mền, là có",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0014_viet_020",
+      "bbox": [
+        [
+          195,
+          1267
+        ],
+        [
+          651,
+          1267
+        ],
+        [
+          651,
+          1304
+        ],
+        [
+          195,
+          1304
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1388
+        ],
+        [
+          651,
+          1388
+        ],
+        [
+          651,
+          1425
+        ],
+        [
+          195,
+          1425
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1267,
+        651,
+        1304
+      ],
+      "text": "phong thái của cổ-nhân sót lại",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0014_viet_021",
+      "bbox": [
+        [
+          230,
+          1369
+        ],
+        [
+          472,
+          1369
+        ],
+        [
+          472,
+          1406
+        ],
+        [
+          230,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1490
+        ],
+        [
+          472,
+          1490
+        ],
+        [
+          472,
+          1527
+        ],
+        [
+          230,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1369,
+        472,
+        1406
+      ],
+      "text": "Cồ chi di ái dã",
+      "confidence": 0.8884
+    },
+    {
+      "line_id": "0014_viet_022",
+      "bbox": [
+        [
+          221,
+          1410
+        ],
+        [
+          990,
+          1413
+        ],
+        [
+          990,
+          1453
+        ],
+        [
+          221,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1531
+        ],
+        [
+          990,
+          1534
+        ],
+        [
+          990,
+          1574
+        ],
+        [
+          221,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1410,
+        990,
+        1453
+      ],
+      "text": "Chỉ cổ nhân mới biết thương người như tử sản",
+      "confidence": 0.8979
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "vô tòng ngụy tùy, dĩ cần vô lương, thức át",
+      "thao bất úy minh, củ chi di mãnh dã",
+      "Nhu viễn năng nhĩ, dĩ định ngã vương, bình",
+      "Hựu viết: bắt cạnh, bãt cầu, bãt cương, bãt nhu.",
+      "bõ chinh ưu-ưu, bách lộc thị tù hòa chi chí dã.",
+      "Cập Tử-Sản tốt, Trọng Ni văn chi, xuất thẽ viết:",
+      "Cồ chi di ái dã"
+    ],
+    "dich_nghia_lines": [
+      "khẩu ngược Không nghe kẻ giồi trá, loại trừ kẻ vô lương, trộm cướp sẽ yên được.",
+      "Không xong sẽ dùng sức mạnh",
+      "chi di hòa dã. Mềm mỏng với dân ở xa. Thân thiện với dân ở gần",
+      "Lại nói: a Không tranh, không vội, không cứng, không mềm, thi chính hòa-thuận êm đềm, trăm lộc sẽ tụ họp đến thêm n đó là sự a hòa n đền mức vậy.",
+      "để định việc lớn của mình, đó là làm quân bình sự hòa thuận trong dân gian",
+      "Tử-Sản biết thương dân, được dân yêu mền, là có phong thái của cổ-nhân sót lại",
+      "Chỉ cổ nhân mới biết thương người như tử sản"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "母從詭隨以謹無良式遏寇虐",
+        "phien_am": "vô tòng ngụy tùy, dĩ cần vô lương, thức át",
+        "dich_nghia_gloss": "khẩu ngược Không nghe kẻ giồi trá, loại trừ kẻ vô lương, trộm cướp sẽ yên được."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "慘不畏明糾之以猛也",
+        "phien_am": "thao bất úy minh, củ chi di mãnh dã",
+        "dich_nghia_gloss": "Không xong sẽ dùng sức mạnh"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "柔遠能邇以定我王平之以和也",
+        "phien_am": "Nhu viễn năng nhĩ, dĩ định ngã vương, bình",
+        "dich_nghia_gloss": "chi di hòa dã. Mềm mỏng với dân ở xa. Thân thiện với dân ở gần"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "又曰不競不綠不剛不柔",
+        "phien_am": "Hựu viết: bắt cạnh, bãt cầu, bãt cương, bãt nhu.",
+        "dich_nghia_gloss": "Lại nói: a Không tranh, không vội, không cứng, không mềm, thi chính hòa-thuận êm đềm, trăm lộc sẽ tụ họp đến thêm n đó là sự a hòa n đền mức vậy."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "布政優優百祿是道和之至也",
+        "phien_am": "bõ chinh ưu-ưu, bách lộc thị tù hòa chi chí dã.",
+        "dich_nghia_gloss": "để định việc lớn của mình, đó là làm quân bình sự hòa thuận trong dân gian"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "及子產卒仲尼聞之出涕曰",
+        "phien_am": "Cập Tử-Sản tốt, Trọng Ni văn chi, xuất thẽ viết:",
+        "dich_nghia_gloss": "Tử-Sản biết thương dân, được dân yêu mền, là có phong thái của cổ-nhân sót lại"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "古之遺愛也",
+        "phien_am": "Cồ chi di ái dã",
+        "dich_nghia_gloss": "Chỉ cổ nhân mới biết thương người như tử sản"
+      }
+    ]
+  }
+}

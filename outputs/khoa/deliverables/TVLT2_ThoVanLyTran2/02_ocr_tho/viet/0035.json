@@ -1,0 +1,1612 @@
+{
+  "page_id": "0035",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 35,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0035_viet_000",
+      "bbox": [
+        [
+          654,
+          299
+        ],
+        [
+          938,
+          299
+        ],
+        [
+          938,
+          343
+        ],
+        [
+          654,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          654,
+          454
+        ],
+        [
+          938,
+          454
+        ],
+        [
+          938,
+          498
+        ],
+        [
+          654,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        654,
+        299,
+        938,
+        343
+      ],
+      "text": "KHÓA HƯ LỤC",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0035_viet_001",
+      "bbox": [
+        [
+          277,
+          510
+        ],
+        [
+          1416,
+          515
+        ],
+        [
+          1416,
+          555
+        ],
+        [
+          277,
+          550
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          665
+        ],
+        [
+          1416,
+          670
+        ],
+        [
+          1416,
+          710
+        ],
+        [
+          277,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        510,
+        1416,
+        555
+      ],
+      "text": "Khóa hự lực là tác phầm được nhiều thư tịch cũ xác nhận. TĐNL ghi",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0035_viet_002",
+      "bbox": [
+        [
+          177,
+          549
+        ],
+        [
+          1415,
+          553
+        ],
+        [
+          1415,
+          596
+        ],
+        [
+          177,
+          592
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          704
+        ],
+        [
+          1415,
+          708
+        ],
+        [
+          1415,
+          751
+        ],
+        [
+          177,
+          747
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        549,
+        1415,
+        596
+      ],
+      "text": "sách gồm 10 quyền: LTHCLC phần Văn tịch chi của Phan Huy Chú, Lại ghi sách",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0035_viet_003",
+      "bbox": [
+        [
+          180,
+          591
+        ],
+        [
+          1413,
+          594
+        ],
+        [
+          1413,
+          635
+        ],
+        [
+          180,
+          631
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          746
+        ],
+        [
+          1413,
+          749
+        ],
+        [
+          1413,
+          790
+        ],
+        [
+          180,
+          786
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        591,
+        1413,
+        635
+      ],
+      "text": "chỉ gồm một quyền. Nhưng tất cả các bản khóa hưc lục hiện có ở Thư viện",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0035_viet_004",
+      "bbox": [
+        [
+          181,
+          629
+        ],
+        [
+          1413,
+          635
+        ],
+        [
+          1413,
+          675
+        ],
+        [
+          181,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          784
+        ],
+        [
+          1413,
+          790
+        ],
+        [
+          1413,
+          830
+        ],
+        [
+          181,
+          825
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        629,
+        1413,
+        675
+      ],
+      "text": "Viện Hán Nóm ngày nay không bản nào khớp với con số irên. Chúng gồm",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0035_viet_005",
+      "bbox": [
+        [
+          182,
+          671
+        ],
+        [
+          315,
+          671
+        ],
+        [
+          315,
+          710
+        ],
+        [
+          182,
+          710
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          826
+        ],
+        [
+          315,
+          826
+        ],
+        [
+          315,
+          865
+        ],
+        [
+          182,
+          865
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        671,
+        315,
+        710
+      ],
+      "text": "hai loại",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0035_viet_006",
+      "bbox": [
+        [
+          271,
+          717
+        ],
+        [
+          1408,
+          721
+        ],
+        [
+          1408,
+          762
+        ],
+        [
+          271,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          872
+        ],
+        [
+          1408,
+          876
+        ],
+        [
+          1408,
+          917
+        ],
+        [
+          271,
+          913
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        717,
+        1408,
+        762
+      ],
+      "text": "Loại thư nhất gồm các bản AB: 268, chép tay, lời tựa viết năm 1631",
+      "confidence": 0.9166
+    },
+    {
+      "line_id": "0035_viet_007",
+      "bbox": [
+        [
+          183,
+          757
+        ],
+        [
+          1410,
+          763
+        ],
+        [
+          1410,
+          800
+        ],
+        [
+          183,
+          794
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          912
+        ],
+        [
+          1410,
+          918
+        ],
+        [
+          1410,
+          955
+        ],
+        [
+          183,
+          949
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        757,
+        1410,
+        800
+      ],
+      "text": "Á, 1531 in năm 1840; A 1126 sáo lại bản in năm 1856, AB.367 in năm 1861.",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0035_viet_008",
+      "bbox": [
+        [
+          184,
+          799
+        ],
+        [
+          714,
+          802
+        ],
+        [
+          713,
+          840
+        ],
+        [
+          184,
+          837
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          954
+        ],
+        [
+          714,
+          957
+        ],
+        [
+          713,
+          995
+        ],
+        [
+          184,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        799,
+        714,
+        840
+      ],
+      "text": "Loại này sách chia làm ba quyền",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0035_viet_009",
+      "bbox": [
+        [
+          274,
+          850
+        ],
+        [
+          753,
+          850
+        ],
+        [
+          753,
+          891
+        ],
+        [
+          274,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1005
+        ],
+        [
+          753,
+          1005
+        ],
+        [
+          753,
+          1046
+        ],
+        [
+          274,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        850,
+        753,
+        891
+      ],
+      "text": "1. Quyền thượng gồm các bài",
+      "confidence": 0.9286
+    },
+    {
+      "line_id": "0035_viet_010",
+      "bbox": [
+        [
+          316,
+          894
+        ],
+        [
+          1415,
+          897
+        ],
+        [
+          1415,
+          938
+        ],
+        [
+          316,
+          936
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1049
+        ],
+        [
+          1415,
+          1052
+        ],
+        [
+          1415,
+          1093
+        ],
+        [
+          316,
+          1091
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        894,
+        1415,
+        938
+      ],
+      "text": "Phần Tứ sơn: bài nói về bồn núi (không có đầu đề). Từ sơn kệ, Nhất",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0035_viet_011",
+      "bbox": [
+        [
+          179,
+          935
+        ],
+        [
+          1416,
+          939
+        ],
+        [
+          1416,
+          979
+        ],
+        [
+          179,
+          975
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1090
+        ],
+        [
+          1416,
+          1094
+        ],
+        [
+          1416,
+          1134
+        ],
+        [
+          179,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        935,
+        1416,
+        979
+      ],
+      "text": "son (là một hài văn kết thúc bằng một bài kệ), Nhị sơn, Tam sơn, Từ sơn (diêu",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0035_viet_012",
+      "bbox": [
+        [
+          179,
+          975
+        ],
+        [
+          618,
+          979
+        ],
+        [
+          618,
+          1016
+        ],
+        [
+          179,
+          1012
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1130
+        ],
+        [
+          618,
+          1134
+        ],
+        [
+          618,
+          1171
+        ],
+        [
+          179,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        975,
+        618,
+        1016
+      ],
+      "text": "kết cấu như bài nhất sơn).",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0035_viet_013",
+      "bbox": [
+        [
+          275,
+          1019
+        ],
+        [
+          652,
+          1023
+        ],
+        [
+          652,
+          1063
+        ],
+        [
+          274,
+          1059
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          1174
+        ],
+        [
+          652,
+          1178
+        ],
+        [
+          652,
+          1218
+        ],
+        [
+          274,
+          1214
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1019,
+        652,
+        1063
+      ],
+      "text": "Phổ thuyết sắc thân",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0035_viet_014",
+      "bbox": [
+        [
+          274,
+          1064
+        ],
+        [
+          761,
+          1067
+        ],
+        [
+          761,
+          1108
+        ],
+        [
+          274,
+          1105
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1219
+        ],
+        [
+          761,
+          1222
+        ],
+        [
+          761,
+          1263
+        ],
+        [
+          274,
+          1260
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1064,
+        761,
+        1108
+      ],
+      "text": "- Phổ khuyến phát bõ-đề tấm.",
+      "confidence": 0.8203
+    },
+    {
+      "line_id": "0035_viet_015",
+      "bbox": [
+        [
+          271,
+          1110
+        ],
+        [
+          1417,
+          1114
+        ],
+        [
+          1417,
+          1162
+        ],
+        [
+          271,
+          1157
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          1265
+        ],
+        [
+          1417,
+          1269
+        ],
+        [
+          1417,
+          1317
+        ],
+        [
+          271,
+          1312
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        1110,
+        1417,
+        1162
+      ],
+      "text": "Bản AB. 268 giữa Quyền thượng và Quyền trung có chép bài Lục thi lê",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0035_viet_016",
+      "bbox": [
+        [
+          731,
+          1147
+        ],
+        [
+          1396,
+          1147
+        ],
+        [
+          1396,
+          1207
+        ],
+        [
+          731,
+          1207
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1302
+        ],
+        [
+          1396,
+          1302
+        ],
+        [
+          1396,
+          1362
+        ],
+        [
+          731,
+          1362
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1147,
+        1396,
+        1207
+      ],
+      "text": "triều đệ nhất lò but soạn. rất 44 - 15",
+      "confidence": 0.8088
+    },
+    {
+      "line_id": "0035_viet_017",
+      "bbox": [
+        [
+          202,
+          1194
+        ],
+        [
+          959,
+          1194
+        ],
+        [
+          959,
+          1238
+        ],
+        [
+          202,
+          1238
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1349
+        ],
+        [
+          959,
+          1349
+        ],
+        [
+          959,
+          1393
+        ],
+        [
+          202,
+          1393
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1194,
+        959,
+        1238
+      ],
+      "text": "- Tổ nghĩa là vị tổ thứ nhất triều Trần soạn:",
+      "confidence": 0.8492
+    },
+    {
+      "line_id": "0035_viet_018",
+      "bbox": [
+        [
+          273,
+          1251
+        ],
+        [
+          740,
+          1254
+        ],
+        [
+          740,
+          1294
+        ],
+        [
+          273,
+          1291
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          1406
+        ],
+        [
+          740,
+          1409
+        ],
+        [
+          740,
+          1449
+        ],
+        [
+          273,
+          1446
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        1251,
+        740,
+        1294
+      ],
+      "text": "2, Quyền trung gồm các bài",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0035_viet_019",
+      "bbox": [
+        [
+          321,
+          1297
+        ],
+        [
+          670,
+          1300
+        ],
+        [
+          670,
+          1338
+        ],
+        [
+          321,
+          1335
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          1452
+        ],
+        [
+          670,
+          1455
+        ],
+        [
+          670,
+          1493
+        ],
+        [
+          321,
+          1490
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        1297,
+        670,
+        1338
+      ],
+      "text": "Dần thi cảnh sách kệ",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0035_viet_020",
+      "bbox": [
+        [
+          316,
+          1342
+        ],
+        [
+          1415,
+          1346
+        ],
+        [
+          1415,
+          1387
+        ],
+        [
+          316,
+          1383
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1497
+        ],
+        [
+          1415,
+          1501
+        ],
+        [
+          1415,
+          1542
+        ],
+        [
+          316,
+          1538
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        1342,
+        1415,
+        1387
+      ],
+      "text": "Sơ nhật chúc hương, Hiện hương kệ, Hiến hoa kệ, Khái bạch, Sam",
+      "confidence": 0.8762
+    },
+    {
+      "line_id": "0035_viet_021",
+      "bbox": [
+        [
+          176,
+          1376
+        ],
+        [
+          1415,
+          1384
+        ],
+        [
+          1415,
+          1432
+        ],
+        [
+          176,
+          1423
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1531
+        ],
+        [
+          1415,
+          1539
+        ],
+        [
+          1415,
+          1587
+        ],
+        [
+          176,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1376,
+        1415,
+        1432
+      ],
+      "text": "hồi nhân căn tội, Chi tâm, khuyên, thình, Chi tâm tuy, hỷ, Chí tâm hồi hưởng,",
+      "confidence": 0.8378
+    },
+    {
+      "line_id": "0035_viet_022",
+      "bbox": [
+        [
+          179,
+          1418
+        ],
+        [
+          882,
+          1427
+        ],
+        [
+          881,
+          1467
+        ],
+        [
+          179,
+          1459
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1573
+        ],
+        [
+          882,
+          1582
+        ],
+        [
+          881,
+          1622
+        ],
+        [
+          179,
+          1614
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1418,
+        882,
+        1467
+      ],
+      "text": "Chi tâm phát nguyện, Sơ nhật vô thương kệ.",
+      "confidence": 0.8977
+    },
+    {
+      "line_id": "0035_viet_023",
+      "bbox": [
+        [
+          304,
+          1465
+        ],
+        [
+          1414,
+          1472
+        ],
+        [
+          1414,
+          1515
+        ],
+        [
+          304,
+          1508
+        ]
+      ],
+      "bbox_original": [
+        [
+          304,
+          1620
+        ],
+        [
+          1414,
+          1627
+        ],
+        [
+          1414,
+          1670
+        ],
+        [
+          304,
+          1663
+        ]
+      ],
+      "box_xyxy": [
+        304,
+        1465,
+        1414,
+        1515
+      ],
+      "text": "Nhật trung chúc hương và các bài như trong thì Sơ nhất nhưng nội",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0035_viet_024",
+      "bbox": [
+        [
+          175,
+          1506
+        ],
+        [
+          1413,
+          1515
+        ],
+        [
+          1413,
+          1552
+        ],
+        [
+          175,
+          1543
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1661
+        ],
+        [
+          1413,
+          1670
+        ],
+        [
+          1413,
+          1707
+        ],
+        [
+          175,
+          1698
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1506,
+        1413,
+        1552
+      ],
+      "text": "dung các bái sảm hói, khuyến thình... thay bằng tội do tai: cuối phân nay cũng",
+      "confidence": 0.8773
+    },
+    {
+      "line_id": "0035_viet_025",
+      "bbox": [
+        [
+          174,
+          1542
+        ],
+        [
+          900,
+          1550
+        ],
+        [
+          900,
+          1590
+        ],
+        [
+          174,
+          1582
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1697
+        ],
+        [
+          900,
+          1705
+        ],
+        [
+          900,
+          1745
+        ],
+        [
+          174,
+          1737
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1542,
+        900,
+        1590
+      ],
+      "text": "là bài kê vô thường (Thứ thi vó thường kệ)",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0035_viet_026",
+      "bbox": [
+        [
+          270,
+          1589
+        ],
+        [
+          1413,
+          1595
+        ],
+        [
+          1413,
+          1638
+        ],
+        [
+          270,
+          1632
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1744
+        ],
+        [
+          1413,
+          1750
+        ],
+        [
+          1413,
+          1793
+        ],
+        [
+          270,
+          1787
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1589,
+        1413,
+        1638
+      ],
+      "text": "Nhải một chúc hương và các bài như phân nhật trung: nội dung sam",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0035_viet_027",
+      "bbox": [
+        [
+          178,
+          1626
+        ],
+        [
+          845,
+          1635
+        ],
+        [
+          844,
+          1675
+        ],
+        [
+          178,
+          1666
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1781
+        ],
+        [
+          845,
+          1790
+        ],
+        [
+          844,
+          1830
+        ],
+        [
+          178,
+          1821
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1626,
+        845,
+        1675
+      ],
+      "text": "hồi, khuyến thình. thay bằng tội do mũi",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0035_viet_028",
+      "bbox": [
+        [
+          272,
+          1686
+        ],
+        [
+          667,
+          1689
+        ],
+        [
+          667,
+          1730
+        ],
+        [
+          272,
+          1728
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1841
+        ],
+        [
+          667,
+          1844
+        ],
+        [
+          667,
+          1885
+        ],
+        [
+          272,
+          1883
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1686,
+        667,
+        1730
+      ],
+      "text": "3y Quyền hạ gồm các bài",
+      "confidence": 0.8837
+    },
+    {
+      "line_id": "0035_viet_029",
+      "bbox": [
+        [
+          317,
+          1733
+        ],
+        [
+          768,
+          1737
+        ],
+        [
+          768,
+          1777
+        ],
+        [
+          317,
+          1773
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          1888
+        ],
+        [
+          768,
+          1892
+        ],
+        [
+          768,
+          1932
+        ],
+        [
+          317,
+          1928
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1733,
+        768,
+        1777
+      ],
+      "text": "Hoàng hộn khuyên chúng kệ",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0035_viet_030",
+      "bbox": [
+        [
+          318,
+          1779
+        ],
+        [
+          501,
+          1779
+        ],
+        [
+          501,
+          1817
+        ],
+        [
+          318,
+          1817
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1934
+        ],
+        [
+          501,
+          1934
+        ],
+        [
+          501,
+          1972
+        ],
+        [
+          318,
+          1972
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1779,
+        501,
+        1817
+      ],
+      "text": "Bát khổ kệ",
+      "confidence": 0.8764
+    },
+    {
+      "line_id": "0035_viet_031",
+      "bbox": [
+        [
+          314,
+          1823
+        ],
+        [
+          1411,
+          1830
+        ],
+        [
+          1411,
+          1871
+        ],
+        [
+          314,
+          1864
+        ]
+      ],
+      "bbox_original": [
+        [
+          314,
+          1978
+        ],
+        [
+          1411,
+          1985
+        ],
+        [
+          1411,
+          2026
+        ],
+        [
+          314,
+          2019
+        ]
+      ],
+      "box_xyxy": [
+        314,
+        1823,
+        1411,
+        1871
+      ],
+      "text": "- Sơ da chúc hường và các bài giống như các c thị v trên - nội dung sám",
+      "confidence": 0.8946
+    },
+    {
+      "line_id": "0035_viet_032",
+      "bbox": [
+        [
+          177,
+          1859
+        ],
+        [
+          843,
+          1867
+        ],
+        [
+          842,
+          1909
+        ],
+        [
+          177,
+          1900
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          2014
+        ],
+        [
+          843,
+          2022
+        ],
+        [
+          842,
+          2064
+        ],
+        [
+          177,
+          2055
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1859,
+        843,
+        1909
+      ],
+      "text": "hối, khuyến thinh. thay bằng tội do lưới.",
+      "confidence": 0.8617
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "KHÓA HƯ LỤC",
+      "Khóa hự lực là tác phầm được nhiều thư tịch cũ xác nhận. TĐNL ghi",
+      "sách gồm 10 quyền: LTHCLC phần Văn tịch chi của Phan Huy Chú, Lại ghi sách",
+      "chỉ gồm một quyền. Nhưng tất cả các bản khóa hưc lục hiện có ở Thư viện",
+      "Viện Hán Nóm ngày nay không bản nào khớp với con số irên. Chúng gồm",
+      "hai loại",
+      "Loại thư nhất gồm các bản AB: 268, chép tay, lời tựa viết năm 1631",
+      "Á, 1531 in năm 1840; A 1126 sáo lại bản in năm 1856, AB.367 in năm 1861.",
+      "Loại này sách chia làm ba quyền",
+      "1. Quyền thượng gồm các bài",
+      "Phần Tứ sơn: bài nói về bồn núi (không có đầu đề). Từ sơn kệ, Nhất",
+      "son (là một hài văn kết thúc bằng một bài kệ), Nhị sơn, Tam sơn, Từ sơn (diêu",
+      "kết cấu như bài nhất sơn).",
+      "Phổ thuyết sắc thân",
+      "- Phổ khuyến phát bõ-đề tấm.",
+      "Bản AB. 268 giữa Quyền thượng và Quyền trung có chép bài Lục thi lê",
+      "triều đệ nhất lò but soạn. rất 44 - 15",
+      "- Tổ nghĩa là vị tổ thứ nhất triều Trần soạn:",
+      "2, Quyền trung gồm các bài",
+      "Dần thi cảnh sách kệ",
+      "Sơ nhật chúc hương, Hiện hương kệ, Hiến hoa kệ, Khái bạch, Sam",
+      "hồi nhân căn tội, Chi tâm, khuyên, thình, Chi tâm tuy, hỷ, Chí tâm hồi hưởng,",
+      "Chi tâm phát nguyện, Sơ nhật vô thương kệ.",
+      "Nhật trung chúc hương và các bài như trong thì Sơ nhất nhưng nội",
+      "dung các bái sảm hói, khuyến thình... thay bằng tội do tai: cuối phân nay cũng",
+      "là bài kê vô thường (Thứ thi vó thường kệ)",
+      "Nhải một chúc hương và các bài như phân nhật trung: nội dung sam",
+      "hồi, khuyến thình. thay bằng tội do mũi",
+      "3y Quyền hạ gồm các bài",
+      "Hoàng hộn khuyên chúng kệ",
+      "Bát khổ kệ",
+      "- Sơ da chúc hường và các bài giống như các c thị v trên - nội dung sám",
+      "hối, khuyến thinh. thay bằng tội do lưới."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

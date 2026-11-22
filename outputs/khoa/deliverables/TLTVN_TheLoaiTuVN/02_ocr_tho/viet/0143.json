@@ -1,0 +1,364 @@
+{
+  "page_id": "0143",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 143,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0143_viet_000",
+      "bbox": [
+        [
+          179,
+          0
+        ],
+        [
+          680,
+          1
+        ],
+        [
+          680,
+          32
+        ],
+        [
+          179,
+          30
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          115
+        ],
+        [
+          680,
+          116
+        ],
+        [
+          680,
+          147
+        ],
+        [
+          179,
+          145
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        0,
+        680,
+        32
+      ],
+      "text": "Giữa chôn nhân gian một bậc tiên",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0143_viet_001",
+      "bbox": [
+        [
+          178,
+          90
+        ],
+        [
+          383,
+          90
+        ],
+        [
+          383,
+          132
+        ],
+        [
+          178,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          205
+        ],
+        [
+          383,
+          205
+        ],
+        [
+          383,
+          247
+        ],
+        [
+          178,
+          247
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        90,
+        383,
+        132
+      ],
+      "text": "Cùng về chúc;",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0143_viet_002",
+      "bbox": [
+        [
+          179,
+          141
+        ],
+        [
+          369,
+          144
+        ],
+        [
+          368,
+          179
+        ],
+        [
+          178,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          256
+        ],
+        [
+          369,
+          259
+        ],
+        [
+          368,
+          294
+        ],
+        [
+          178,
+          291
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        141,
+        369,
+        179
+      ],
+      "text": "Có cháu con,",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0143_viet_003",
+      "bbox": [
+        [
+          176,
+          186
+        ],
+        [
+          718,
+          188
+        ],
+        [
+          718,
+          228
+        ],
+        [
+          176,
+          226
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          301
+        ],
+        [
+          718,
+          303
+        ],
+        [
+          718,
+          343
+        ],
+        [
+          176,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        186,
+        718,
+        228
+      ],
+      "text": "Hiền hảo đem y bát đặng trao truyền",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0143_viet_004",
+      "bbox": [
+        [
+          177,
+          235
+        ],
+        [
+          754,
+          240
+        ],
+        [
+          754,
+          278
+        ],
+        [
+          176,
+          273
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          350
+        ],
+        [
+          754,
+          355
+        ],
+        [
+          754,
+          393
+        ],
+        [
+          176,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        235,
+        754,
+        278
+      ],
+      "text": "Hàng năm xuân đến, sớm nay xuân đẹp",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0143_viet_005",
+      "bbox": [
+        [
+          175,
+          285
+        ],
+        [
+          672,
+          287
+        ],
+        [
+          672,
+          324
+        ],
+        [
+          175,
+          322
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          400
+        ],
+        [
+          672,
+          402
+        ],
+        [
+          672,
+          439
+        ],
+        [
+          175,
+          437
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        285,
+        672,
+        324
+      ],
+      "text": "Đệ nhất phong lưu hiến một thiên",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0143_viet_006",
+      "bbox": [
+        [
+          104,
+          1417
+        ],
+        [
+          175,
+          1417
+        ],
+        [
+          175,
+          1463
+        ],
+        [
+          104,
+          1463
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1532
+        ],
+        [
+          175,
+          1532
+        ],
+        [
+          175,
+          1578
+        ],
+        [
+          104,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1417,
+        175,
+        1463
+      ],
+      "text": "136",
+      "confidence": 0.9278
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Giữa chôn nhân gian một bậc tiên",
+      "Cùng về chúc;",
+      "Có cháu con,",
+      "Hiền hảo đem y bát đặng trao truyền",
+      "Hàng năm xuân đến, sớm nay xuân đẹp",
+      "Đệ nhất phong lưu hiến một thiên",
+      "136"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

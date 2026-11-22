@@ -1,0 +1,76 @@
+{
+  "page_id": "0148",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 148,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0148_viet_000",
+      "bbox": [
+        [
+          1003,
+          1418
+        ],
+        [
+          1069,
+          1418
+        ],
+        [
+          1069,
+          1462
+        ],
+        [
+          1003,
+          1462
+        ]
+      ],
+      "bbox_original": [
+        [
+          1003,
+          1533
+        ],
+        [
+          1069,
+          1533
+        ],
+        [
+          1069,
+          1577
+        ],
+        [
+          1003,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        1003,
+        1418,
+        1069,
+        1462
+      ],
+      "text": "141",
+      "confidence": 0.9282
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "141"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

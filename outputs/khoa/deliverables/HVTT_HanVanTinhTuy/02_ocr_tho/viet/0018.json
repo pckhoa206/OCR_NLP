@@ -1,0 +1,1081 @@
+{
+  "page_id": "0018",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 18,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0018_viet_000",
+      "bbox": [
+        [
+          192,
+          32
+        ],
+        [
+          234,
+          32
+        ],
+        [
+          234,
+          67
+        ],
+        [
+          192,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          153
+        ],
+        [
+          234,
+          153
+        ],
+        [
+          234,
+          188
+        ],
+        [
+          192,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        32,
+        234,
+        67
+      ],
+      "text": "12",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0018_viet_001",
+      "bbox": [
+        [
+          667,
+          32
+        ],
+        [
+          990,
+          32
+        ],
+        [
+          990,
+          63
+        ],
+        [
+          667,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          153
+        ],
+        [
+          990,
+          153
+        ],
+        [
+          990,
+          184
+        ],
+        [
+          667,
+          184
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        32,
+        990,
+        63
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0018_viet_002",
+      "bbox": [
+        [
+          229,
+          184
+        ],
+        [
+          902,
+          185
+        ],
+        [
+          902,
+          223
+        ],
+        [
+          229,
+          222
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          305
+        ],
+        [
+          902,
+          306
+        ],
+        [
+          902,
+          344
+        ],
+        [
+          229,
+          343
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        184,
+        902,
+        223
+      ],
+      "text": "Lệ-vương ngược, quốc nhân báng vương",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0018_viet_003",
+      "bbox": [
+        [
+          252,
+          229
+        ],
+        [
+          837,
+          229
+        ],
+        [
+          837,
+          266
+        ],
+        [
+          252,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          350
+        ],
+        [
+          837,
+          350
+        ],
+        [
+          837,
+          387
+        ],
+        [
+          252,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        229,
+        837,
+        266
+      ],
+      "text": "Lệ-vương ác, người trong nước dị-nghị.",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0018_viet_004",
+      "bbox": [
+        [
+          230,
+          336
+        ],
+        [
+          689,
+          336
+        ],
+        [
+          689,
+          374
+        ],
+        [
+          230,
+          374
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          457
+        ],
+        [
+          689,
+          457
+        ],
+        [
+          689,
+          495
+        ],
+        [
+          230,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        336,
+        689,
+        374
+      ],
+      "text": "Thiệu-công cáo vương viẽt:",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0018_viet_005",
+      "bbox": [
+        [
+          250,
+          380
+        ],
+        [
+          555,
+          380
+        ],
+        [
+          555,
+          418
+        ],
+        [
+          250,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          501
+        ],
+        [
+          555,
+          501
+        ],
+        [
+          555,
+          539
+        ],
+        [
+          250,
+          539
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        380,
+        555,
+        418
+      ],
+      "text": "Thiệu công vào tâu",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0018_viet_006",
+      "bbox": [
+        [
+          229,
+          487
+        ],
+        [
+          628,
+          487
+        ],
+        [
+          628,
+          524
+        ],
+        [
+          229,
+          524
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          608
+        ],
+        [
+          628,
+          608
+        ],
+        [
+          628,
+          645
+        ],
+        [
+          229,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        487,
+        628,
+        524
+      ],
+      "text": "Dân bãt kham mệnh hĩ.",
+      "confidence": 0.8587
+    },
+    {
+      "line_id": "0018_viet_007",
+      "bbox": [
+        [
+          249,
+          530
+        ],
+        [
+          861,
+          530
+        ],
+        [
+          861,
+          570
+        ],
+        [
+          249,
+          570
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          651
+        ],
+        [
+          861,
+          651
+        ],
+        [
+          861,
+          691
+        ],
+        [
+          249,
+          691
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        530,
+        861,
+        570
+      ],
+      "text": "Dân không chịu nổi chính-sách của vua.",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0018_viet_008",
+      "bbox": [
+        [
+          230,
+          641
+        ],
+        [
+          892,
+          641
+        ],
+        [
+          892,
+          678
+        ],
+        [
+          230,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          762
+        ],
+        [
+          892,
+          762
+        ],
+        [
+          892,
+          799
+        ],
+        [
+          230,
+          799
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        641,
+        892,
+        678
+      ],
+      "text": "Vương nộ, đắc vệ-vu, xử giám báng giả",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0018_viet_009",
+      "bbox": [
+        [
+          254,
+          684
+        ],
+        [
+          992,
+          684
+        ],
+        [
+          992,
+          721
+        ],
+        [
+          254,
+          721
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          805
+        ],
+        [
+          992,
+          805
+        ],
+        [
+          992,
+          842
+        ],
+        [
+          254,
+          842
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        684,
+        992,
+        721
+      ],
+      "text": "Vua giận, sai thuật-sĩ nước vệ đi xét những kẻ",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0018_viet_010",
+      "bbox": [
+        [
+          192,
+          724
+        ],
+        [
+          301,
+          724
+        ],
+        [
+          301,
+          772
+        ],
+        [
+          192,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          845
+        ],
+        [
+          301,
+          845
+        ],
+        [
+          301,
+          893
+        ],
+        [
+          192,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        724,
+        301,
+        772
+      ],
+      "text": "dị-nghị",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0018_viet_011",
+      "bbox": [
+        [
+          229,
+          832
+        ],
+        [
+          519,
+          832
+        ],
+        [
+          519,
+          869
+        ],
+        [
+          229,
+          869
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          953
+        ],
+        [
+          519,
+          953
+        ],
+        [
+          519,
+          990
+        ],
+        [
+          229,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        832,
+        519,
+        869
+      ],
+      "text": "dĩ cáo tắc sát chi",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0018_viet_012",
+      "bbox": [
+        [
+          252,
+          876
+        ],
+        [
+          548,
+          876
+        ],
+        [
+          548,
+          913
+        ],
+        [
+          252,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          997
+        ],
+        [
+          548,
+          997
+        ],
+        [
+          548,
+          1034
+        ],
+        [
+          252,
+          1034
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        876,
+        548,
+        913
+      ],
+      "text": "về báo cho đem giết",
+      "confidence": 0.9344
+    },
+    {
+      "line_id": "0018_viet_013",
+      "bbox": [
+        [
+          230,
+          983
+        ],
+        [
+          893,
+          982
+        ],
+        [
+          893,
+          1020
+        ],
+        [
+          230,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1104
+        ],
+        [
+          893,
+          1103
+        ],
+        [
+          893,
+          1141
+        ],
+        [
+          230,
+          1142
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        982,
+        893,
+        1021
+      ],
+      "text": "Quốc nhân mạc cảm ngôn, đạo lộ dĩ mục",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0018_viet_014",
+      "bbox": [
+        [
+          250,
+          1025
+        ],
+        [
+          992,
+          1025
+        ],
+        [
+          992,
+          1066
+        ],
+        [
+          250,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1146
+        ],
+        [
+          992,
+          1146
+        ],
+        [
+          992,
+          1187
+        ],
+        [
+          250,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1025,
+        992,
+        1066
+      ],
+      "text": "Dân nước không ai dám nói nữa, ngoài đường chỉ",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0018_viet_015",
+      "bbox": [
+        [
+          196,
+          1072
+        ],
+        [
+          762,
+          1072
+        ],
+        [
+          762,
+          1109
+        ],
+        [
+          196,
+          1109
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1193
+        ],
+        [
+          762,
+          1193
+        ],
+        [
+          762,
+          1230
+        ],
+        [
+          196,
+          1230
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1072,
+        762,
+        1109
+      ],
+      "text": "nhìn nhau lầy mắt khiên thay lời nói.",
+      "confidence": 0.9223
+    },
+    {
+      "line_id": "0018_viet_016",
+      "bbox": [
+        [
+          232,
+          1181
+        ],
+        [
+          746,
+          1181
+        ],
+        [
+          746,
+          1218
+        ],
+        [
+          232,
+          1218
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1302
+        ],
+        [
+          746,
+          1302
+        ],
+        [
+          746,
+          1339
+        ],
+        [
+          232,
+          1339
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1181,
+        746,
+        1218
+      ],
+      "text": "Vương hỉ cáo thiệu-công viẽt:",
+      "confidence": 0.8714
+    },
+    {
+      "line_id": "0018_viet_017",
+      "bbox": [
+        [
+          251,
+          1220
+        ],
+        [
+          665,
+          1223
+        ],
+        [
+          665,
+          1265
+        ],
+        [
+          251,
+          1261
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1341
+        ],
+        [
+          665,
+          1344
+        ],
+        [
+          665,
+          1386
+        ],
+        [
+          251,
+          1382
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1220,
+        665,
+        1265
+      ],
+      "text": "Vua mừng bảo thiệu công:",
+      "confidence": 0.8766
+    },
+    {
+      "line_id": "0018_viet_018",
+      "bbox": [
+        [
+          231,
+          1333
+        ],
+        [
+          906,
+          1333
+        ],
+        [
+          906,
+          1370
+        ],
+        [
+          231,
+          1370
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1454
+        ],
+        [
+          906,
+          1454
+        ],
+        [
+          906,
+          1491
+        ],
+        [
+          231,
+          1491
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1333,
+        906,
+        1370
+      ],
+      "text": "Ngô năng nhĩ báng hì, nãi bất cảm ngôn",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0018_viet_019",
+      "bbox": [
+        [
+          252,
+          1376
+        ],
+        [
+          991,
+          1376
+        ],
+        [
+          991,
+          1413
+        ],
+        [
+          252,
+          1413
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1497
+        ],
+        [
+          991,
+          1497
+        ],
+        [
+          991,
+          1534
+        ],
+        [
+          252,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1376,
+        991,
+        1413
+      ],
+      "text": "Trắm đã dẹp hết được dị-nghị rồi, không ai dám",
+      "confidence": 0.889
+    },
+    {
+      "line_id": "0018_viet_020",
+      "bbox": [
+        [
+          194,
+          1421
+        ],
+        [
+          317,
+          1421
+        ],
+        [
+          317,
+          1456
+        ],
+        [
+          194,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1542
+        ],
+        [
+          317,
+          1542
+        ],
+        [
+          317,
+          1577
+        ],
+        [
+          194,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1421,
+        317,
+        1456
+      ],
+      "text": "nói nữa.",
+      "confidence": 0.8911
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Lệ-vương ngược, quốc nhân báng vương",
+      "Thiệu-công cáo vương viẽt:",
+      "Dân bãt kham mệnh hĩ.",
+      "Vương nộ, đắc vệ-vu, xử giám báng giả",
+      "dĩ cáo tắc sát chi",
+      "Quốc nhân mạc cảm ngôn, đạo lộ dĩ mục",
+      "Vương hỉ cáo thiệu-công viẽt:",
+      "Ngô năng nhĩ báng hì, nãi bất cảm ngôn"
+    ],
+    "dich_nghia_lines": [
+      "Lệ-vương ác, người trong nước dị-nghị.",
+      "Thiệu công vào tâu",
+      "Dân không chịu nổi chính-sách của vua.",
+      "Vua giận, sai thuật-sĩ nước vệ đi xét những kẻ dị-nghị",
+      "về báo cho đem giết",
+      "Dân nước không ai dám nói nữa, ngoài đường chỉ nhìn nhau lầy mắt khiên thay lời nói.",
+      "Vua mừng bảo thiệu công:",
+      "Trắm đã dẹp hết được dị-nghị rồi, không ai dám nói nữa."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "厲王虐國人謗王",
+        "phien_am": "Lệ-vương ngược, quốc nhân báng vương",
+        "dich_nghia_gloss": "Lệ-vương ác, người trong nước dị-nghị."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "召公告王曰",
+        "phien_am": "Thiệu-công cáo vương viẽt:",
+        "dich_nghia_gloss": "Thiệu công vào tâu"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "民不堪命矣",
+        "phien_am": "Dân bãt kham mệnh hĩ.",
+        "dich_nghia_gloss": "Dân không chịu nổi chính-sách của vua."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "王怒得衛巫使隆謗者",
+        "phien_am": "Vương nộ, đắc vệ-vu, xử giám báng giả",
+        "dich_nghia_gloss": "Vua giận, sai thuật-sĩ nước vệ đi xét những kẻ dị-nghị"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "以告則殺之",
+        "phien_am": "dĩ cáo tắc sát chi",
+        "dich_nghia_gloss": "về báo cho đem giết"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "國人莫敢言道路以目",
+        "phien_am": "Quốc nhân mạc cảm ngôn, đạo lộ dĩ mục",
+        "dich_nghia_gloss": "Dân nước không ai dám nói nữa, ngoài đường chỉ nhìn nhau lầy mắt khiên thay lời nói."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "王喜告召公曰",
+        "phien_am": "Vương hỉ cáo thiệu-công viẽt:",
+        "dich_nghia_gloss": "Vua mừng bảo thiệu công:"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "吾能弭謗矣乃不敢言",
+        "phien_am": "Ngô năng nhĩ báng hì, nãi bất cảm ngôn",
+        "dich_nghia_gloss": "Trắm đã dẹp hết được dị-nghị rồi, không ai dám nói nữa."
+      }
+    ]
+  }
+}

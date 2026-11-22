@@ -1,0 +1,1467 @@
+{
+  "page_id": "0077",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 77,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0077_viet_000",
+      "bbox": [
+        [
+          175,
+          584
+        ],
+        [
+          339,
+          584
+        ],
+        [
+          339,
+          622
+        ],
+        [
+          175,
+          622
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          739
+        ],
+        [
+          339,
+          739
+        ],
+        [
+          339,
+          777
+        ],
+        [
+          175,
+          777
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        584,
+        339,
+        622
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0077_viet_001",
+      "bbox": [
+        [
+          606,
+          631
+        ],
+        [
+          970,
+          631
+        ],
+        [
+          970,
+          673
+        ],
+        [
+          606,
+          673
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          786
+        ],
+        [
+          970,
+          786
+        ],
+        [
+          970,
+          828
+        ],
+        [
+          606,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        631,
+        970,
+        673
+      ],
+      "text": "GIỚI ĐỊNH TUỆ LUẬN",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0077_viet_002",
+      "bbox": [
+        [
+          268,
+          707
+        ],
+        [
+          1404,
+          707
+        ],
+        [
+          1404,
+          747
+        ],
+        [
+          268,
+          747
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          862
+        ],
+        [
+          1404,
+          862
+        ],
+        [
+          1404,
+          902
+        ],
+        [
+          268,
+          902
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        707,
+        1404,
+        747
+      ],
+      "text": "Phù nhất thiết tu bành chỉ sĩ, chỉ yếm sinh tử nhị sự, xả kỳ phú mẫu",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0077_viet_003",
+      "bbox": [
+        [
+          174,
+          748
+        ],
+        [
+          1405,
+          748
+        ],
+        [
+          1405,
+          788
+        ],
+        [
+          174,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          903
+        ],
+        [
+          1405,
+          903
+        ],
+        [
+          1405,
+          943
+        ],
+        [
+          174,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        748,
+        1405,
+        788
+      ],
+      "text": "thê tử, xuất gia càu đạo, phụng Phật vì sử. Cái lý \" chư phật kinh lộ giá, duy",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0077_viet_004",
+      "bbox": [
+        [
+          173,
+          788
+        ],
+        [
+          1404,
+          787
+        ],
+        [
+          1404,
+          825
+        ],
+        [
+          173,
+          826
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          943
+        ],
+        [
+          1404,
+          942
+        ],
+        [
+          1404,
+          980
+        ],
+        [
+          173,
+          981
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        787,
+        1404,
+        826
+      ],
+      "text": "kinh nhi đĩ. Kinh chỉ sở ngôn giả, duy giới định tuệ nhi, di. Giải thoát luận",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0077_viet_005",
+      "bbox": [
+        [
+          172,
+          827
+        ],
+        [
+          1404,
+          825
+        ],
+        [
+          1404,
+          865
+        ],
+        [
+          172,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          982
+        ],
+        [
+          1404,
+          980
+        ],
+        [
+          1404,
+          1020
+        ],
+        [
+          172,
+          1022
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        825,
+        1404,
+        867
+      ],
+      "text": "vân giới định tuệ vị giải thoạt chi đạo. Giới giả uy nghi nghĩa, định giả, bắt",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0077_viet_006",
+      "bbox": [
+        [
+          170,
+          866
+        ],
+        [
+          1404,
+          864
+        ],
+        [
+          1404,
+          904
+        ],
+        [
+          170,
+          907
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1021
+        ],
+        [
+          1404,
+          1019
+        ],
+        [
+          1404,
+          1059
+        ],
+        [
+          170,
+          1062
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        864,
+        1404,
+        907
+      ],
+      "text": "loạn nghĩa , luê giả giác trí nghĩa, Thị di giới trừ ác cầu, định trừ, triền câu,",
+      "confidence": 0.8881
+    },
+    {
+      "line_id": "0077_viet_007",
+      "bbox": [
+        [
+          171,
+          906
+        ],
+        [
+          1406,
+          903
+        ],
+        [
+          1406,
+          944
+        ],
+        [
+          171,
+          946
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1061
+        ],
+        [
+          1406,
+          1058
+        ],
+        [
+          1406,
+          1099
+        ],
+        [
+          171,
+          1101
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        903,
+        1406,
+        946
+      ],
+      "text": "tuệ trư sử cấu, Có dĩ thử chùng, thiện phục, đạo, vị sơ, trung, hầu thiện: dĩ:",
+      "confidence": 0.8743
+    },
+    {
+      "line_id": "0077_viet_008",
+      "bbox": [
+        [
+          171,
+          946
+        ],
+        [
+          1404,
+          942
+        ],
+        [
+          1404,
+          982
+        ],
+        [
+          171,
+          986
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1101
+        ],
+        [
+          1404,
+          1097
+        ],
+        [
+          1404,
+          1137
+        ],
+        [
+          171,
+          1141
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        942,
+        1404,
+        986
+      ],
+      "text": "giới vì sơ, đĩ định vi trung. dĩ tuệ vị hậu, Giới vì sơ thiện giá, hữu tỉnh tiến",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0077_viet_009",
+      "bbox": [
+        [
+          172,
+          983
+        ],
+        [
+          1405,
+          982
+        ],
+        [
+          1405,
+          1022
+        ],
+        [
+          172,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1138
+        ],
+        [
+          1405,
+          1137
+        ],
+        [
+          1405,
+          1177
+        ],
+        [
+          172,
+          1178
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        982,
+        1405,
+        1023
+      ],
+      "text": "thành tưu bất thoái có hì; đi hỉ có dũng dược, đi dũng dược cố thàn ý; đĩ",
+      "confidence": 0.8474
+    },
+    {
+      "line_id": "0077_viet_010",
+      "bbox": [
+        [
+          170,
+          1022
+        ],
+        [
+          1405,
+          1021
+        ],
+        [
+          1405,
+          1061
+        ],
+        [
+          170,
+          1062
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1177
+        ],
+        [
+          1405,
+          1176
+        ],
+        [
+          1405,
+          1216
+        ],
+        [
+          170,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1021,
+        1405,
+        1062
+      ],
+      "text": "thân ý cố lạc, đi lạc cố tàm bắt định, Thử vị sơ thiện dã. Định vì trung thiện",
+      "confidence": 0.8876
+    },
+    {
+      "line_id": "0077_viet_011",
+      "bbox": [
+        [
+          171,
+          1061
+        ],
+        [
+          1405,
+          1058
+        ],
+        [
+          1405,
+          1099
+        ],
+        [
+          171,
+          1102
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1216
+        ],
+        [
+          1405,
+          1213
+        ],
+        [
+          1405,
+          1254
+        ],
+        [
+          171,
+          1257
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1058,
+        1405,
+        1102
+      ],
+      "text": "giả. đĩ thân ý có chỉ, dĩ chỉ có nhi tâm tru, đi tâm trụ có như thực tri kiến",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0077_viet_012",
+      "bbox": [
+        [
+          172,
+          1101
+        ],
+        [
+          1405,
+          1098
+        ],
+        [
+          1405,
+          1138
+        ],
+        [
+          172,
+          1141
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1256
+        ],
+        [
+          1405,
+          1253
+        ],
+        [
+          1405,
+          1293
+        ],
+        [
+          172,
+          1296
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1098,
+        1405,
+        1141
+      ],
+      "text": "thứ vị trung thiện đã. Tuệ vi hậu thiên giả, đỉ thừ thực, tri, kiến có yếm boạn;",
+      "confidence": 0.8792
+    },
+    {
+      "line_id": "0077_viet_013",
+      "bbox": [
+        [
+          172,
+          1139
+        ],
+        [
+          1404,
+          1138
+        ],
+        [
+          1404,
+          1179
+        ],
+        [
+          172,
+          1180
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1294
+        ],
+        [
+          1404,
+          1293
+        ],
+        [
+          1404,
+          1334
+        ],
+        [
+          172,
+          1335
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1138,
+        1404,
+        1180
+      ],
+      "text": "dĩ yếm hoạn cố ly dục, di ly dục có giải thoát, thử vị hậu thiện dã. Cố dĩ giới",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0077_viet_014",
+      "bbox": [
+        [
+          172,
+          1180
+        ],
+        [
+          1404,
+          1177
+        ],
+        [
+          1404,
+          1217
+        ],
+        [
+          172,
+          1220
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1335
+        ],
+        [
+          1404,
+          1332
+        ],
+        [
+          1404,
+          1372
+        ],
+        [
+          172,
+          1375
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1177,
+        1404,
+        1220
+      ],
+      "text": "trư ác thú, định trừ dạc giới, tuệ trừ nhất thiết hữu. Y thứ giới định tuệ nhi",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0077_viet_015",
+      "bbox": [
+        [
+          174,
+          1219
+        ],
+        [
+          916,
+          1217
+        ],
+        [
+          916,
+          1254
+        ],
+        [
+          174,
+          1256
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1374
+        ],
+        [
+          916,
+          1372
+        ],
+        [
+          916,
+          1409
+        ],
+        [
+          174,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1217,
+        916,
+        1256
+      ],
+      "text": "tu chi, tác chư phật chi kinh lộ, bất vi viễn hĩ.",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0077_viet_016",
+      "bbox": [
+        [
+          174,
+          1298
+        ],
+        [
+          356,
+          1298
+        ],
+        [
+          356,
+          1339
+        ],
+        [
+          174,
+          1339
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1453
+        ],
+        [
+          356,
+          1453
+        ],
+        [
+          356,
+          1494
+        ],
+        [
+          174,
+          1494
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1298,
+        356,
+        1339
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0077_viet_017",
+      "bbox": [
+        [
+          534,
+          1348
+        ],
+        [
+          1048,
+          1348
+        ],
+        [
+          1048,
+          1392
+        ],
+        [
+          534,
+          1392
+        ]
+      ],
+      "bbox_original": [
+        [
+          534,
+          1503
+        ],
+        [
+          1048,
+          1503
+        ],
+        [
+          1048,
+          1547
+        ],
+        [
+          534,
+          1547
+        ]
+      ],
+      "box_xyxy": [
+        534,
+        1348,
+        1048,
+        1392
+      ],
+      "text": "BÀN VỀ GIỚI, ĐỊNH VÀ TUỆ (1)",
+      "confidence": 0.9136
+    },
+    {
+      "line_id": "0077_viet_018",
+      "bbox": [
+        [
+          268,
+          1431
+        ],
+        [
+          1405,
+          1431
+        ],
+        [
+          1405,
+          1471
+        ],
+        [
+          268,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1586
+        ],
+        [
+          1405,
+          1586
+        ],
+        [
+          1405,
+          1626
+        ],
+        [
+          268,
+          1626
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1431,
+        1405,
+        1471
+      ],
+      "text": "Tất cả những kê sĩ tu hành, chỉ vì chán hai đường sống, chết mà",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0077_viet_019",
+      "bbox": [
+        [
+          172,
+          1473
+        ],
+        [
+          1403,
+          1470
+        ],
+        [
+          1403,
+          1507
+        ],
+        [
+          172,
+          1510
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1628
+        ],
+        [
+          1403,
+          1625
+        ],
+        [
+          1403,
+          1662
+        ],
+        [
+          172,
+          1665
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1470,
+        1403,
+        1510
+      ],
+      "text": "bò cha mẹ vợ con xuất gia cầu đạo, thờ Phật làm thảy, Bởi vì kẻ đi theo con",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0077_viet_020",
+      "bbox": [
+        [
+          174,
+          1511
+        ],
+        [
+          1404,
+          1509
+        ],
+        [
+          1404,
+          1546
+        ],
+        [
+          174,
+          1548
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1666
+        ],
+        [
+          1404,
+          1664
+        ],
+        [
+          1404,
+          1701
+        ],
+        [
+          174,
+          1703
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1509,
+        1404,
+        1548
+      ],
+      "text": "đường của chư Phật thì chỉ có kinh mà thôi. Thế mà những điều trong kinh",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0077_viet_021",
+      "bbox": [
+        [
+          174,
+          1550
+        ],
+        [
+          1403,
+          1548
+        ],
+        [
+          1403,
+          1585
+        ],
+        [
+          174,
+          1587
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1705
+        ],
+        [
+          1403,
+          1703
+        ],
+        [
+          1403,
+          1740
+        ],
+        [
+          174,
+          1742
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1548,
+        1403,
+        1587
+      ],
+      "text": "nói đến thì không ngoài ba việc giới, định, tuệ, Giải thoái, luận nói rằng:",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0077_viet_022",
+      "bbox": [
+        [
+          173,
+          1589
+        ],
+        [
+          1403,
+          1587
+        ],
+        [
+          1403,
+          1624
+        ],
+        [
+          173,
+          1626
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1744
+        ],
+        [
+          1403,
+          1742
+        ],
+        [
+          1403,
+          1779
+        ],
+        [
+          173,
+          1781
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1587,
+        1403,
+        1626
+      ],
+      "text": "giới, định, tuệ là nồi về còn đường giải thoát, Giới nghĩa là uỹ nghi; định",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0077_viet_023",
+      "bbox": [
+        [
+          172,
+          1626
+        ],
+        [
+          1405,
+          1624
+        ],
+        [
+          1405,
+          1664
+        ],
+        [
+          172,
+          1667
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1781
+        ],
+        [
+          1405,
+          1779
+        ],
+        [
+          1405,
+          1819
+        ],
+        [
+          172,
+          1822
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1624,
+        1405,
+        1667
+      ],
+      "text": "nghĩa là không loạn, tuệ nghĩa là hiểu biết, Thế là giới trừ, bồ: sự, ác độc,",
+      "confidence": 0.8777
+    },
+    {
+      "line_id": "0077_viet_024",
+      "bbox": [
+        [
+          174,
+          1665
+        ],
+        [
+          1404,
+          1663
+        ],
+        [
+          1404,
+          1702
+        ],
+        [
+          174,
+          1704
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1820
+        ],
+        [
+          1404,
+          1818
+        ],
+        [
+          1404,
+          1857
+        ],
+        [
+          174,
+          1859
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1663,
+        1404,
+        1704
+      ],
+      "text": "dinh trừ bỏ sự trỏi buộc, tuệ trừ bỏ sự sai khiến, Cho nên đem các loại, điều",
+      "confidence": 0.8933
+    },
+    {
+      "line_id": "0077_viet_025",
+      "bbox": [
+        [
+          175,
+          1705
+        ],
+        [
+          1403,
+          1705
+        ],
+        [
+          1403,
+          1742
+        ],
+        [
+          175,
+          1742
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1860
+        ],
+        [
+          1403,
+          1860
+        ],
+        [
+          1403,
+          1897
+        ],
+        [
+          175,
+          1897
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1705,
+        1403,
+        1742
+      ],
+      "text": "thiên này mà cúi theo đạo thì gọi là giải đoạn đầu, giai đoạn giữa, và giai đoặn",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0077_viet_026",
+      "bbox": [
+        [
+          174,
+          1744
+        ],
+        [
+          1403,
+          1744
+        ],
+        [
+          1403,
+          1781
+        ],
+        [
+          174,
+          1781
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1899
+        ],
+        [
+          1403,
+          1899
+        ],
+        [
+          1403,
+          1936
+        ],
+        [
+          174,
+          1936
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        1744,
+        1403,
+        1781
+      ],
+      "text": "cuối của thiện, Giới là giai đoạn đầu, định là giai đoạn giữa, tuế là giai đoạn",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0077_viet_027",
+      "bbox": [
+        [
+          176,
+          1785
+        ],
+        [
+          1404,
+          1785
+        ],
+        [
+          1404,
+          1819
+        ],
+        [
+          176,
+          1819
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1940
+        ],
+        [
+          1404,
+          1940
+        ],
+        [
+          1404,
+          1974
+        ],
+        [
+          176,
+          1974
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1785,
+        1404,
+        1819
+      ],
+      "text": "cuối. Giới là giai đoạn đầu là vi có thành tưu, tỉnh tiến mà không lui nên mứng",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0077_viet_028",
+      "bbox": [
+        [
+          177,
+          1824
+        ],
+        [
+          1402,
+          1824
+        ],
+        [
+          1402,
+          1858
+        ],
+        [
+          177,
+          1858
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1979
+        ],
+        [
+          1402,
+          1979
+        ],
+        [
+          1402,
+          2013
+        ],
+        [
+          177,
+          2013
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1824,
+        1402,
+        1858
+      ],
+      "text": "vì mừng nên nhảy nhót, vì nhảy nhót nên thần nghiêng ngà; vì thân nghiêng",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0077_viet_029",
+      "bbox": [
+        [
+          176,
+          1860
+        ],
+        [
+          1402,
+          1858
+        ],
+        [
+          1402,
+          1898
+        ],
+        [
+          176,
+          1900
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          2015
+        ],
+        [
+          1402,
+          2013
+        ],
+        [
+          1402,
+          2053
+        ],
+        [
+          176,
+          2055
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        1858,
+        1402,
+        1900
+      ],
+      "text": "ngà nên vui . vì xui nên lâm không định. Bởi những lễ đô nên gọi là giai đoạn",
+      "confidence": 0.8975
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "GIỚI ĐỊNH TUỆ LUẬN",
+      "Phù nhất thiết tu bành chỉ sĩ, chỉ yếm sinh tử nhị sự, xả kỳ phú mẫu",
+      "thê tử, xuất gia càu đạo, phụng Phật vì sử. Cái lý \" chư phật kinh lộ giá, duy",
+      "kinh nhi đĩ. Kinh chỉ sở ngôn giả, duy giới định tuệ nhi, di. Giải thoát luận",
+      "vân giới định tuệ vị giải thoạt chi đạo. Giới giả uy nghi nghĩa, định giả, bắt",
+      "loạn nghĩa , luê giả giác trí nghĩa, Thị di giới trừ ác cầu, định trừ, triền câu,",
+      "tuệ trư sử cấu, Có dĩ thử chùng, thiện phục, đạo, vị sơ, trung, hầu thiện: dĩ:",
+      "giới vì sơ, đĩ định vi trung. dĩ tuệ vị hậu, Giới vì sơ thiện giá, hữu tỉnh tiến",
+      "thành tưu bất thoái có hì; đi hỉ có dũng dược, đi dũng dược cố thàn ý; đĩ",
+      "thân ý cố lạc, đi lạc cố tàm bắt định, Thử vị sơ thiện dã. Định vì trung thiện",
+      "giả. đĩ thân ý có chỉ, dĩ chỉ có nhi tâm tru, đi tâm trụ có như thực tri kiến",
+      "thứ vị trung thiện đã. Tuệ vi hậu thiên giả, đỉ thừ thực, tri, kiến có yếm boạn;",
+      "dĩ yếm hoạn cố ly dục, di ly dục có giải thoát, thử vị hậu thiện dã. Cố dĩ giới",
+      "trư ác thú, định trừ dạc giới, tuệ trừ nhất thiết hữu. Y thứ giới định tuệ nhi",
+      "tu chi, tác chư phật chi kinh lộ, bất vi viễn hĩ."
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ GIỚI, ĐỊNH VÀ TUỆ (1)",
+      "Tất cả những kê sĩ tu hành, chỉ vì chán hai đường sống, chết mà",
+      "bò cha mẹ vợ con xuất gia cầu đạo, thờ Phật làm thảy, Bởi vì kẻ đi theo con",
+      "đường của chư Phật thì chỉ có kinh mà thôi. Thế mà những điều trong kinh",
+      "nói đến thì không ngoài ba việc giới, định, tuệ, Giải thoái, luận nói rằng:",
+      "giới, định, tuệ là nồi về còn đường giải thoát, Giới nghĩa là uỹ nghi; định",
+      "nghĩa là không loạn, tuệ nghĩa là hiểu biết, Thế là giới trừ, bồ: sự, ác độc,",
+      "dinh trừ bỏ sự trỏi buộc, tuệ trừ bỏ sự sai khiến, Cho nên đem các loại, điều",
+      "thiên này mà cúi theo đạo thì gọi là giải đoạn đầu, giai đoạn giữa, và giai đoặn",
+      "cuối của thiện, Giới là giai đoạn đầu, định là giai đoạn giữa, tuế là giai đoạn",
+      "cuối. Giới là giai đoạn đầu là vi có thành tưu, tỉnh tiến mà không lui nên mứng",
+      "vì mừng nên nhảy nhót, vì nhảy nhót nên thần nghiêng ngà; vì thân nghiêng",
+      "ngà nên vui . vì xui nên lâm không định. Bởi những lễ đô nên gọi là giai đoạn"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

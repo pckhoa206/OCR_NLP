@@ -1,0 +1,1227 @@
+{
+  "page_id": "0236",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 236,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0236_viet_000",
+      "bbox": [
+        [
+          144,
+          0
+        ],
+        [
+          395,
+          0
+        ],
+        [
+          395,
+          33
+        ],
+        [
+          144,
+          33
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          115
+        ],
+        [
+          395,
+          115
+        ],
+        [
+          395,
+          148
+        ],
+        [
+          144,
+          148
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        0,
+        395,
+        33
+      ],
+      "text": "Vâng nguyệt phô,",
+      "confidence": 0.9108
+    },
+    {
+      "line_id": "0236_viet_001",
+      "bbox": [
+        [
+          140,
+          41
+        ],
+        [
+          604,
+          38
+        ],
+        [
+          604,
+          78
+        ],
+        [
+          140,
+          81
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          156
+        ],
+        [
+          604,
+          153
+        ],
+        [
+          604,
+          193
+        ],
+        [
+          140,
+          196
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        38,
+        604,
+        81
+      ],
+      "text": "Thơ hay trong túi đủ truyền lưu.",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0236_viet_002",
+      "bbox": [
+        [
+          357,
+          157
+        ],
+        [
+          765,
+          159
+        ],
+        [
+          765,
+          199
+        ],
+        [
+          357,
+          197
+        ]
+      ],
+      "bbox_original": [
+        [
+          357,
+          272
+        ],
+        [
+          765,
+          274
+        ],
+        [
+          765,
+          314
+        ],
+        [
+          357,
+          312
+        ]
+      ],
+      "box_xyxy": [
+        357,
+        157,
+        765,
+        199
+      ],
+      "text": "NGÔ THÌ SĨ (1726 ? 1780)",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0236_viet_003",
+      "bbox": [
+        [
+          139,
+          232
+        ],
+        [
+          1046,
+          232
+        ],
+        [
+          1046,
+          275
+        ],
+        [
+          139,
+          275
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          347
+        ],
+        [
+          1046,
+          347
+        ],
+        [
+          1046,
+          390
+        ],
+        [
+          139,
+          390
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        232,
+        1046,
+        275
+      ],
+      "text": "Ngô Thì Sĩ tự là Thế Lộc, hiệu là Ngọ Phong, người làng Tả",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0236_viet_004",
+      "bbox": [
+        [
+          81,
+          276
+        ],
+        [
+          1042,
+          278
+        ],
+        [
+          1042,
+          318
+        ],
+        [
+          81,
+          316
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          391
+        ],
+        [
+          1042,
+          393
+        ],
+        [
+          1042,
+          433
+        ],
+        [
+          81,
+          431
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        276,
+        1042,
+        318
+      ],
+      "text": "Thanh Oai, trấn Sơn Nam (nay thuộc huyện Thanh Trì, Hà Nội)",
+      "confidence": 0.9235
+    },
+    {
+      "line_id": "0236_viet_005",
+      "bbox": [
+        [
+          83,
+          317
+        ],
+        [
+          1044,
+          319
+        ],
+        [
+          1044,
+          361
+        ],
+        [
+          83,
+          359
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          432
+        ],
+        [
+          1044,
+          434
+        ],
+        [
+          1044,
+          476
+        ],
+        [
+          83,
+          474
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        317,
+        1044,
+        361
+      ],
+      "text": "Ông là cha của Ngô Thì Nhậm, Ngô Thì Chí, Ngô Thì Trí, Ngô",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0236_viet_006",
+      "bbox": [
+        [
+          81,
+          362
+        ],
+        [
+          1044,
+          360
+        ],
+        [
+          1044,
+          400
+        ],
+        [
+          81,
+          402
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          477
+        ],
+        [
+          1044,
+          475
+        ],
+        [
+          1044,
+          515
+        ],
+        [
+          81,
+          517
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        360,
+        1044,
+        402
+      ],
+      "text": "Thì Hương. Năm 1743, thi đỗ Hương tiến, năm 1763 thi đỗ",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0236_viet_007",
+      "bbox": [
+        [
+          82,
+          406
+        ],
+        [
+          1045,
+          406
+        ],
+        [
+          1045,
+          446
+        ],
+        [
+          82,
+          446
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          521
+        ],
+        [
+          1045,
+          521
+        ],
+        [
+          1045,
+          561
+        ],
+        [
+          82,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        406,
+        1045,
+        446
+      ],
+      "text": "Hoàng giáp khoa thi năm Quý Mùi. Từ năm 1755 trở đi, ông giữ",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0236_viet_008",
+      "bbox": [
+        [
+          81,
+          446
+        ],
+        [
+          1044,
+          449
+        ],
+        [
+          1044,
+          489
+        ],
+        [
+          81,
+          485
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          561
+        ],
+        [
+          1044,
+          564
+        ],
+        [
+          1044,
+          604
+        ],
+        [
+          81,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        446,
+        1044,
+        489
+      ],
+      "text": "nhiều chức vụ khác nhau: làm văn quan trong phủ chúa, Tuy",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0236_viet_009",
+      "bbox": [
+        [
+          82,
+          490
+        ],
+        [
+          1045,
+          488
+        ],
+        [
+          1045,
+          529
+        ],
+        [
+          82,
+          531
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          605
+        ],
+        [
+          1045,
+          603
+        ],
+        [
+          1045,
+          644
+        ],
+        [
+          82,
+          646
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        488,
+        1045,
+        531
+      ],
+      "text": "giảng cho Trịnh Sâm, Đốc đồng Thái Nguyên, Hiến sát sứ Thanh",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0236_viet_010",
+      "bbox": [
+        [
+          82,
+          534
+        ],
+        [
+          1045,
+          534
+        ],
+        [
+          1045,
+          571
+        ],
+        [
+          82,
+          571
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          649
+        ],
+        [
+          1045,
+          649
+        ],
+        [
+          1045,
+          686
+        ],
+        [
+          82,
+          686
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        534,
+        1045,
+        571
+      ],
+      "text": "Hoa, Tham chính nghệ An, Đốc trấn Lạng Sơn.. Ngô Thì Sĩ là",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0236_viet_011",
+      "bbox": [
+        [
+          81,
+          578
+        ],
+        [
+          1043,
+          576
+        ],
+        [
+          1043,
+          613
+        ],
+        [
+          81,
+          615
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          693
+        ],
+        [
+          1043,
+          691
+        ],
+        [
+          1043,
+          728
+        ],
+        [
+          81,
+          730
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        576,
+        1043,
+        615
+      ],
+      "text": "tác gia quan trọng trong dòng văn Ngô Thì ở Tả Thanh Oai ? Ngô",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0236_viet_012",
+      "bbox": [
+        [
+          83,
+          620
+        ],
+        [
+          1044,
+          620
+        ],
+        [
+          1044,
+          656
+        ],
+        [
+          83,
+          656
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          735
+        ],
+        [
+          1044,
+          735
+        ],
+        [
+          1044,
+          771
+        ],
+        [
+          83,
+          771
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        620,
+        1044,
+        656
+      ],
+      "text": "gia văn phái ? đồng thời cũng là tác gia lớn trong lịch sử văn học",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0236_viet_013",
+      "bbox": [
+        [
+          82,
+          660
+        ],
+        [
+          1043,
+          660
+        ],
+        [
+          1043,
+          697
+        ],
+        [
+          82,
+          697
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          775
+        ],
+        [
+          1043,
+          775
+        ],
+        [
+          1043,
+          812
+        ],
+        [
+          82,
+          812
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        660,
+        1043,
+        697
+      ],
+      "text": "trung đại Việt Nam. Trước tác của ông hết sức phong phú, có giá",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0236_viet_014",
+      "bbox": [
+        [
+          82,
+          699
+        ],
+        [
+          450,
+          701
+        ],
+        [
+          450,
+          742
+        ],
+        [
+          82,
+          740
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          814
+        ],
+        [
+          450,
+          816
+        ],
+        [
+          450,
+          857
+        ],
+        [
+          82,
+          855
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        699,
+        450,
+        742
+      ],
+      "text": "trị vễ nhiều phương diện",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0236_viet_015",
+      "bbox": [
+        [
+          138,
+          749
+        ],
+        [
+          1045,
+          748
+        ],
+        [
+          1045,
+          787
+        ],
+        [
+          138,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          864
+        ],
+        [
+          1045,
+          863
+        ],
+        [
+          1045,
+          902
+        ],
+        [
+          138,
+          903
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        748,
+        1045,
+        788
+      ],
+      "text": "Ngô Thì Sĩ hiện còn 21 bài từ chép rải rác trong nhiều sách",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0236_viet_016",
+      "bbox": [
+        [
+          81,
+          792
+        ],
+        [
+          1044,
+          793
+        ],
+        [
+          1044,
+          830
+        ],
+        [
+          81,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          907
+        ],
+        [
+          1044,
+          908
+        ],
+        [
+          1044,
+          945
+        ],
+        [
+          81,
+          944
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        792,
+        1044,
+        830
+      ],
+      "text": "khác nhau. Các bài từ dưới đây trích dịch từ Anh ngôn thi tập ? hạ",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0236_viet_017",
+      "bbox": [
+        [
+          83,
+          835
+        ],
+        [
+          1042,
+          836
+        ],
+        [
+          1042,
+          874
+        ],
+        [
+          83,
+          873
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          950
+        ],
+        [
+          1042,
+          951
+        ],
+        [
+          1042,
+          989
+        ],
+        [
+          83,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        835,
+        1042,
+        874
+      ],
+      "text": "(E574H HT: A.117/4, VHc.879), Anh ngôn thi tập (B7 44:",
+      "confidence": 0.8012
+    },
+    {
+      "line_id": "0236_viet_018",
+      "bbox": [
+        [
+          82,
+          885
+        ],
+        [
+          1043,
+          885
+        ],
+        [
+          1043,
+          921
+        ],
+        [
+          82,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1000
+        ],
+        [
+          1043,
+          1000
+        ],
+        [
+          1043,
+          1036
+        ],
+        [
+          82,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        885,
+        1043,
+        921
+      ],
+      "text": "A.117/3, VHc.875) và Ngọ Phong văn tập (7 lệ 24: VHv.1461,",
+      "confidence": 0.8818
+    },
+    {
+      "line_id": "0236_viet_019",
+      "bbox": [
+        [
+          81,
+          930
+        ],
+        [
+          236,
+          930
+        ],
+        [
+          236,
+          969
+        ],
+        [
+          81,
+          969
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1045
+        ],
+        [
+          236,
+          1045
+        ],
+        [
+          236,
+          1084
+        ],
+        [
+          81,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        930,
+        236,
+        969
+      ],
+      "text": "VHc.873).",
+      "confidence": 0.9282
+    },
+    {
+      "line_id": "0236_viet_020",
+      "bbox": [
+        [
+          139,
+          1182
+        ],
+        [
+          302,
+          1182
+        ],
+        [
+          302,
+          1220
+        ],
+        [
+          139,
+          1220
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          1297
+        ],
+        [
+          302,
+          1297
+        ],
+        [
+          302,
+          1335
+        ],
+        [
+          139,
+          1335
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        1182,
+        302,
+        1220
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0236_viet_021",
+      "bbox": [
+        [
+          321,
+          1231
+        ],
+        [
+          801,
+          1227
+        ],
+        [
+          802,
+          1267
+        ],
+        [
+          322,
+          1271
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          1346
+        ],
+        [
+          801,
+          1342
+        ],
+        [
+          802,
+          1382
+        ],
+        [
+          322,
+          1386
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        1227,
+        802,
+        1271
+      ],
+      "text": "Quan lan thập cảnh từ tính dẫn",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0236_viet_022",
+      "bbox": [
+        [
+          143,
+          1279
+        ],
+        [
+          1045,
+          1279
+        ],
+        [
+          1045,
+          1316
+        ],
+        [
+          143,
+          1316
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          1394
+        ],
+        [
+          1045,
+          1394
+        ],
+        [
+          1045,
+          1431
+        ],
+        [
+          143,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        1279,
+        1045,
+        1316
+      ],
+      "text": "Thời dư tại Nghệ An thi viện, công hạ, hốt tưởng tại Thanh",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0236_viet_023",
+      "bbox": [
+        [
+          81,
+          1318
+        ],
+        [
+          1045,
+          1316
+        ],
+        [
+          1045,
+          1357
+        ],
+        [
+          81,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1433
+        ],
+        [
+          1045,
+          1431
+        ],
+        [
+          1045,
+          1472
+        ],
+        [
+          81,
+          1473
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1316,
+        1045,
+        1358
+      ],
+      "text": "Hoa thời du sào chi hứng, hận vô Trường Phòng thuật, đắc thời",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0236_viet_024",
+      "bbox": [
+        [
+          981,
+          1413
+        ],
+        [
+          1047,
+          1413
+        ],
+        [
+          1047,
+          1456
+        ],
+        [
+          981,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          981,
+          1528
+        ],
+        [
+          1047,
+          1528
+        ],
+        [
+          1047,
+          1571
+        ],
+        [
+          981,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        981,
+        1413,
+        1047,
+        1456
+      ],
+      "text": "229",
+      "confidence": 0.9318
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Vâng nguyệt phô,",
+      "Thơ hay trong túi đủ truyền lưu.",
+      "NGÔ THÌ SĨ (1726 ? 1780)",
+      "Ngô Thì Sĩ tự là Thế Lộc, hiệu là Ngọ Phong, người làng Tả",
+      "Thanh Oai, trấn Sơn Nam (nay thuộc huyện Thanh Trì, Hà Nội)",
+      "Ông là cha của Ngô Thì Nhậm, Ngô Thì Chí, Ngô Thì Trí, Ngô",
+      "Thì Hương. Năm 1743, thi đỗ Hương tiến, năm 1763 thi đỗ",
+      "Hoàng giáp khoa thi năm Quý Mùi. Từ năm 1755 trở đi, ông giữ",
+      "nhiều chức vụ khác nhau: làm văn quan trong phủ chúa, Tuy",
+      "giảng cho Trịnh Sâm, Đốc đồng Thái Nguyên, Hiến sát sứ Thanh",
+      "Hoa, Tham chính nghệ An, Đốc trấn Lạng Sơn.. Ngô Thì Sĩ là",
+      "tác gia quan trọng trong dòng văn Ngô Thì ở Tả Thanh Oai ? Ngô",
+      "gia văn phái ? đồng thời cũng là tác gia lớn trong lịch sử văn học",
+      "trung đại Việt Nam. Trước tác của ông hết sức phong phú, có giá",
+      "trị vễ nhiều phương diện",
+      "Ngô Thì Sĩ hiện còn 21 bài từ chép rải rác trong nhiều sách",
+      "khác nhau. Các bài từ dưới đây trích dịch từ Anh ngôn thi tập ? hạ",
+      "(E574H HT: A.117/4, VHc.879), Anh ngôn thi tập (B7 44:",
+      "A.117/3, VHc.875) và Ngọ Phong văn tập (7 lệ 24: VHv.1461,",
+      "VHc.873).",
+      "Quan lan thập cảnh từ tính dẫn",
+      "Thời dư tại Nghệ An thi viện, công hạ, hốt tưởng tại Thanh",
+      "Hoa thời du sào chi hứng, hận vô Trường Phòng thuật, đắc thời",
+      "229"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

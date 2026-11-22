@@ -1,0 +1,556 @@
+{
+  "page_id": "0184",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 184,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0184_viet_000",
+      "bbox": [
+        [
+          136,
+          12
+        ],
+        [
+          610,
+          12
+        ],
+        [
+          610,
+          49
+        ],
+        [
+          136,
+          49
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          127
+        ],
+        [
+          610,
+          127
+        ],
+        [
+          610,
+          164
+        ],
+        [
+          136,
+          164
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        12,
+        610,
+        49
+      ],
+      "text": "Màn không riêng giữ tự chia tay,",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0184_viet_001",
+      "bbox": [
+        [
+          135,
+          57
+        ],
+        [
+          597,
+          59
+        ],
+        [
+          597,
+          96
+        ],
+        [
+          135,
+          94
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          172
+        ],
+        [
+          597,
+          174
+        ],
+        [
+          597,
+          211
+        ],
+        [
+          135,
+          209
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        57,
+        597,
+        96
+      ],
+      "text": "Đến tận bây giờ mày biếng hoạ.",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0184_viet_002",
+      "bbox": [
+        [
+          134,
+          104
+        ],
+        [
+          601,
+          106
+        ],
+        [
+          601,
+          144
+        ],
+        [
+          134,
+          142
+        ]
+      ],
+      "bbox_original": [
+        [
+          134,
+          219
+        ],
+        [
+          601,
+          221
+        ],
+        [
+          601,
+          259
+        ],
+        [
+          134,
+          257
+        ]
+      ],
+      "box_xyxy": [
+        134,
+        104,
+        601,
+        144
+      ],
+      "text": "Bệnh sầu chùn vế, lỏng vòng eo",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0184_viet_003",
+      "bbox": [
+        [
+          134,
+          153
+        ],
+        [
+          503,
+          156
+        ],
+        [
+          503,
+          194
+        ],
+        [
+          134,
+          191
+        ]
+      ],
+      "bbox_original": [
+        [
+          134,
+          268
+        ],
+        [
+          503,
+          271
+        ],
+        [
+          503,
+          309
+        ],
+        [
+          134,
+          306
+        ]
+      ],
+      "box_xyxy": [
+        134,
+        153,
+        503,
+        194
+      ],
+      "text": "Muốn khóc sợ người hay:",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0184_viet_004",
+      "bbox": [
+        [
+          134,
+          201
+        ],
+        [
+          363,
+          201
+        ],
+        [
+          363,
+          242
+        ],
+        [
+          134,
+          242
+        ]
+      ],
+      "bbox_original": [
+        [
+          134,
+          316
+        ],
+        [
+          363,
+          316
+        ],
+        [
+          363,
+          357
+        ],
+        [
+          134,
+          357
+        ]
+      ],
+      "box_xyxy": [
+        134,
+        201,
+        363,
+        242
+      ],
+      "text": "Sầu ngơn ngần,",
+      "confidence": 0.8662
+    },
+    {
+      "line_id": "0184_viet_005",
+      "bbox": [
+        [
+          136,
+          252
+        ],
+        [
+          502,
+          252
+        ],
+        [
+          502,
+          290
+        ],
+        [
+          136,
+          290
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          367
+        ],
+        [
+          502,
+          367
+        ],
+        [
+          502,
+          405
+        ],
+        [
+          136,
+          405
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        252,
+        502,
+        290
+      ],
+      "text": "Khôn gặp, dẫu phút giây",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0184_viet_006",
+      "bbox": [
+        [
+          135,
+          301
+        ],
+        [
+          737,
+          298
+        ],
+        [
+          737,
+          335
+        ],
+        [
+          135,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          416
+        ],
+        [
+          737,
+          413
+        ],
+        [
+          737,
+          450
+        ],
+        [
+          135,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        298,
+        737,
+        338
+      ],
+      "text": "Mơ lại thương thân, chẳng đến vườn hoa,",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0184_viet_007",
+      "bbox": [
+        [
+          136,
+          346
+        ],
+        [
+          499,
+          350
+        ],
+        [
+          499,
+          387
+        ],
+        [
+          136,
+          384
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          461
+        ],
+        [
+          499,
+          465
+        ],
+        [
+          499,
+          502
+        ],
+        [
+          136,
+          499
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        346,
+        499,
+        387
+      ],
+      "text": "Mấy độ bươm bướm bay,",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0184_viet_008",
+      "bbox": [
+        [
+          135,
+          397
+        ],
+        [
+          534,
+          394
+        ],
+        [
+          534,
+          435
+        ],
+        [
+          135,
+          438
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          512
+        ],
+        [
+          534,
+          509
+        ],
+        [
+          534,
+          550
+        ],
+        [
+          135,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        394,
+        534,
+        438
+      ],
+      "text": "Bao giờ chàng mới về đây?",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0184_viet_009",
+      "bbox": [
+        [
+          131,
+          547
+        ],
+        [
+          166,
+          547
+        ],
+        [
+          166,
+          590
+        ],
+        [
+          131,
+          590
+        ]
+      ],
+      "bbox_original": [
+        [
+          131,
+          662
+        ],
+        [
+          166,
+          662
+        ],
+        [
+          166,
+          705
+        ],
+        [
+          131,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        131,
+        547,
+        166,
+        590
+      ],
+      "text": "1.",
+      "confidence": 0.7995
+    },
+    {
+      "line_id": "0184_viet_010",
+      "bbox": [
+        [
+          978,
+          1433
+        ],
+        [
+          1046,
+          1433
+        ],
+        [
+          1046,
+          1480
+        ],
+        [
+          978,
+          1480
+        ]
+      ],
+      "bbox_original": [
+        [
+          978,
+          1548
+        ],
+        [
+          1046,
+          1548
+        ],
+        [
+          1046,
+          1595
+        ],
+        [
+          978,
+          1595
+        ]
+      ],
+      "box_xyxy": [
+        978,
+        1433,
+        1046,
+        1480
+      ],
+      "text": "177",
+      "confidence": 0.9303
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Màn không riêng giữ tự chia tay,",
+      "Đến tận bây giờ mày biếng hoạ.",
+      "Bệnh sầu chùn vế, lỏng vòng eo",
+      "Muốn khóc sợ người hay:",
+      "Sầu ngơn ngần,",
+      "Khôn gặp, dẫu phút giây",
+      "Mơ lại thương thân, chẳng đến vườn hoa,",
+      "Mấy độ bươm bướm bay,",
+      "Bao giờ chàng mới về đây?",
+      "1.",
+      "177"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

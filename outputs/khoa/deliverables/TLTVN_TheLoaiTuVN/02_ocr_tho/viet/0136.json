@@ -1,0 +1,508 @@
+{
+  "page_id": "0136",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 136,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 571,
+    "footnote_separator_y_original": 686,
+    "effective_width": 1122,
+    "effective_height": 571
+  },
+  "items": [
+    {
+      "line_id": "0136_viet_000",
+      "bbox": [
+        [
+          139,
+          4
+        ],
+        [
+          495,
+          6
+        ],
+        [
+          495,
+          44
+        ],
+        [
+          139,
+          42
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          119
+        ],
+        [
+          495,
+          121
+        ],
+        [
+          495,
+          159
+        ],
+        [
+          139,
+          157
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        4,
+        495,
+        44
+      ],
+      "text": "Cửu thiên quy lộ trường",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0136_viet_001",
+      "bbox": [
+        [
+          136,
+          92
+        ],
+        [
+          380,
+          92
+        ],
+        [
+          380,
+          137
+        ],
+        [
+          136,
+          137
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          207
+        ],
+        [
+          380,
+          207
+        ],
+        [
+          380,
+          252
+        ],
+        [
+          136,
+          252
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        92,
+        380,
+        137
+      ],
+      "text": "Tình thảm thiết",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0136_viet_002",
+      "bbox": [
+        [
+          137,
+          141
+        ],
+        [
+          344,
+          143
+        ],
+        [
+          343,
+          189
+        ],
+        [
+          136,
+          186
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          256
+        ],
+        [
+          344,
+          258
+        ],
+        [
+          343,
+          304
+        ],
+        [
+          136,
+          301
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        141,
+        344,
+        189
+      ],
+      "text": "Đối li thương,",
+      "confidence": 0.9292
+    },
+    {
+      "line_id": "0136_viet_003",
+      "bbox": [
+        [
+          136,
+          191
+        ],
+        [
+          503,
+          188
+        ],
+        [
+          503,
+          232
+        ],
+        [
+          137,
+          235
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          306
+        ],
+        [
+          503,
+          303
+        ],
+        [
+          503,
+          347
+        ],
+        [
+          137,
+          350
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        188,
+        503,
+        235
+      ],
+      "text": "Phan luyến sứ tinh lang?",
+      "confidence": 0.9011
+    },
+    {
+      "line_id": "0136_viet_004",
+      "bbox": [
+        [
+          137,
+          244
+        ],
+        [
+          670,
+          242
+        ],
+        [
+          670,
+          282
+        ],
+        [
+          137,
+          285
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          359
+        ],
+        [
+          670,
+          357
+        ],
+        [
+          670,
+          397
+        ],
+        [
+          137,
+          400
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        242,
+        670,
+        285
+      ],
+      "text": "Nguyện tương thâm ý vị Nam cương,",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0136_viet_005",
+      "bbox": [
+        [
+          137,
+          288
+        ],
+        [
+          542,
+          291
+        ],
+        [
+          542,
+          331
+        ],
+        [
+          137,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          403
+        ],
+        [
+          542,
+          406
+        ],
+        [
+          542,
+          446
+        ],
+        [
+          137,
+          444
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        288,
+        542,
+        331
+      ],
+      "text": "Phân minh báo? ngã hoàng",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0136_viet_006",
+      "bbox": [
+        [
+          137,
+          341
+        ],
+        [
+          323,
+          341
+        ],
+        [
+          323,
+          382
+        ],
+        [
+          137,
+          382
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          456
+        ],
+        [
+          323,
+          456
+        ],
+        [
+          323,
+          497
+        ],
+        [
+          137,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        341,
+        323,
+        382
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0136_viet_007",
+      "bbox": [
+        [
+          136,
+          386
+        ],
+        [
+          481,
+          388
+        ],
+        [
+          481,
+          432
+        ],
+        [
+          136,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          501
+        ],
+        [
+          481,
+          503
+        ],
+        [
+          481,
+          547
+        ],
+        [
+          136,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        386,
+        481,
+        432
+      ],
+      "text": "Điệu nguyễn lang quy",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0136_viet_008",
+      "bbox": [
+        [
+          138,
+          435
+        ],
+        [
+          884,
+          432
+        ],
+        [
+          885,
+          476
+        ],
+        [
+          138,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          550
+        ],
+        [
+          884,
+          547
+        ],
+        [
+          885,
+          591
+        ],
+        [
+          138,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        432,
+        885,
+        479
+      ],
+      "text": "Ánh sáng tốt lành, gió thuận, căng cánh buồm gấm,",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0136_viet_009",
+      "bbox": [
+        [
+          138,
+          483
+        ],
+        [
+          755,
+          480
+        ],
+        [
+          755,
+          524
+        ],
+        [
+          138,
+          527
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          598
+        ],
+        [
+          755,
+          595
+        ],
+        [
+          755,
+          639
+        ],
+        [
+          138,
+          642
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        480,
+        755,
+        527
+      ],
+      "text": "Thần tiên trở về quê hương của hoàng đế5",
+      "confidence": 0.9172
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Cửu thiên quy lộ trường",
+      "Tình thảm thiết",
+      "Đối li thương,",
+      "Phan luyến sứ tinh lang?",
+      "Nguyện tương thâm ý vị Nam cương,",
+      "Phân minh báo? ngã hoàng"
+    ],
+    "dich_nghia_lines": [
+      "Điệu nguyễn lang quy",
+      "Ánh sáng tốt lành, gió thuận, căng cánh buồm gấm,",
+      "Thần tiên trở về quê hương của hoàng đế5"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

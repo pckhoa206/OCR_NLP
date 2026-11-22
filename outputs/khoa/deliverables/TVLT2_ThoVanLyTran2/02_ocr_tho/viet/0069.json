@@ -1,0 +1,988 @@
+{
+  "page_id": "0069",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 69,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0069_viet_000",
+      "bbox": [
+        [
+          632,
+          0
+        ],
+        [
+          947,
+          0
+        ],
+        [
+          947,
+          13
+        ],
+        [
+          632,
+          13
+        ]
+      ],
+      "bbox_original": [
+        [
+          632,
+          155
+        ],
+        [
+          947,
+          155
+        ],
+        [
+          947,
+          168
+        ],
+        [
+          632,
+          168
+        ]
+      ],
+      "box_xyxy": [
+        632,
+        0,
+        947,
+        13
+      ],
+      "text": "1111 ? 3 H1% ?-4.1 - 1 - - 1 - 1 traly",
+      "confidence": 0.4589
+    },
+    {
+      "line_id": "0069_viet_001",
+      "bbox": [
+        [
+          237,
+          94
+        ],
+        [
+          1403,
+          89
+        ],
+        [
+          1403,
+          126
+        ],
+        [
+          238,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          249
+        ],
+        [
+          1403,
+          244
+        ],
+        [
+          1403,
+          281
+        ],
+        [
+          238,
+          287
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        89,
+        1403,
+        132
+      ],
+      "text": "Vua lấy làm lạ, mời sư lập đàn sảm hối trong cung. Sau đó vua mộng thấy vự về báo",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0069_viet_002",
+      "bbox": [
+        [
+          236,
+          134
+        ],
+        [
+          1306,
+          128
+        ],
+        [
+          1306,
+          163
+        ],
+        [
+          237,
+          168
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          289
+        ],
+        [
+          1306,
+          283
+        ],
+        [
+          1306,
+          318
+        ],
+        [
+          237,
+          323
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        128,
+        1306,
+        168
+      ],
+      "text": "tin đã được sinh ở thiên giới, Trăm đây chính là thân kiếp: sau.của vợ Vũ Đế.",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0069_viet_003",
+      "bbox": [
+        [
+          172,
+          178
+        ],
+        [
+          1407,
+          171
+        ],
+        [
+          1407,
+          211
+        ],
+        [
+          172,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          333
+        ],
+        [
+          1407,
+          326
+        ],
+        [
+          1407,
+          366
+        ],
+        [
+          172,
+          373
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        171,
+        1407,
+        218
+      ],
+      "text": "(13) Đại ăn, tiêu àn: trong Nho gia, tiều ần có ngòĩa là không ra làm quan, sóng ăn dật ở",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0069_viet_004",
+      "bbox": [
+        [
+          235,
+          213
+        ],
+        [
+          1404,
+          208
+        ],
+        [
+          1404,
+          242
+        ],
+        [
+          236,
+          247
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          368
+        ],
+        [
+          1404,
+          363
+        ],
+        [
+          1404,
+          397
+        ],
+        [
+          236,
+          402
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        208,
+        1404,
+        247
+      ],
+      "text": "nơi thôn đã, núi rừng, còn đại ần là tuy vẫn giữ các cương vị chức tước nhưng có",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0069_viet_005",
+      "bbox": [
+        [
+          237,
+          247
+        ],
+        [
+          1403,
+          242
+        ],
+        [
+          1403,
+          273
+        ],
+        [
+          238,
+          278
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          402
+        ],
+        [
+          1403,
+          397
+        ],
+        [
+          1403,
+          428
+        ],
+        [
+          238,
+          433
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        242,
+        1403,
+        278
+      ],
+      "text": "một cách nhìn thông đạt. Các nhà nho coi đại ần là việc kho. chỉ những người: có",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0069_viet_006",
+      "bbox": [
+        [
+          235,
+          279
+        ],
+        [
+          1403,
+          274
+        ],
+        [
+          1403,
+          307
+        ],
+        [
+          236,
+          312
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          434
+        ],
+        [
+          1403,
+          429
+        ],
+        [
+          1403,
+          462
+        ],
+        [
+          236,
+          467
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        274,
+        1403,
+        312
+      ],
+      "text": "bán lĩnh cao mơi đạt được. Phúc Điền hòa thượng giảng đại ần, tiên ân là Đại thựa,",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0069_viet_007",
+      "bbox": [
+        [
+          238,
+          311
+        ],
+        [
+          383,
+          311
+        ],
+        [
+          383,
+          342
+        ],
+        [
+          238,
+          342
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          466
+        ],
+        [
+          383,
+          466
+        ],
+        [
+          383,
+          497
+        ],
+        [
+          238,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        311,
+        383,
+        342
+      ],
+      "text": "Tiều thừa",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0069_viet_008",
+      "bbox": [
+        [
+          171,
+          355
+        ],
+        [
+          896,
+          350
+        ],
+        [
+          896,
+          391
+        ],
+        [
+          171,
+          397
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          510
+        ],
+        [
+          896,
+          505
+        ],
+        [
+          896,
+          546
+        ],
+        [
+          171,
+          552
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        350,
+        896,
+        397
+      ],
+      "text": "(41) Tam giáo - tức Nho giáo, Phật giáo và Địo giáo.",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0069_viet_009",
+      "bbox": [
+        [
+          173,
+          404
+        ],
+        [
+          1404,
+          396
+        ],
+        [
+          1404,
+          437
+        ],
+        [
+          173,
+          444
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          559
+        ],
+        [
+          1404,
+          551
+        ],
+        [
+          1404,
+          592
+        ],
+        [
+          173,
+          599
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        396,
+        1404,
+        444
+      ],
+      "text": "(15) Nhất thừa: thuật ngữ đạo Phật, một trọng tâm thừa: ba cổ xe, ba, trình độ tu tm",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0069_viet_010",
+      "bbox": [
+        [
+          234,
+          442
+        ],
+        [
+          1403,
+          437
+        ],
+        [
+          1403,
+          471
+        ],
+        [
+          235,
+          476
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          597
+        ],
+        [
+          1403,
+          592
+        ],
+        [
+          1403,
+          626
+        ],
+        [
+          235,
+          631
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        437,
+        1403,
+        476
+      ],
+      "text": "đưa chúng sinh: đến sự giác ngộ, Tani: thừa đó là Bò-tát thừa, Bích-chị thừa và Thành",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0069_viet_011",
+      "bbox": [
+        [
+          235,
+          479
+        ],
+        [
+          1402,
+          474
+        ],
+        [
+          1402,
+          507
+        ],
+        [
+          236,
+          512
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          634
+        ],
+        [
+          1402,
+          629
+        ],
+        [
+          1402,
+          662
+        ],
+        [
+          236,
+          667
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        474,
+        1402,
+        512
+      ],
+      "text": "văn thừa, trong đó Bích-chỉ và Thanh văn là tự độ cho minh, Bò-tát thị, tự độ minh",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0069_viet_012",
+      "bbox": [
+        [
+          234,
+          515
+        ],
+        [
+          1404,
+          509
+        ],
+        [
+          1404,
+          545
+        ],
+        [
+          235,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          670
+        ],
+        [
+          1404,
+          664
+        ],
+        [
+          1404,
+          700
+        ],
+        [
+          235,
+          706
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        509,
+        1404,
+        551
+      ],
+      "text": "và độ cho cả mọi người, Bởi vì người tu hành năng lực khác nhau nên có ba bậc đề",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0069_viet_013",
+      "bbox": [
+        [
+          238,
+          553
+        ],
+        [
+          557,
+          553
+        ],
+        [
+          557,
+          584
+        ],
+        [
+          238,
+          584
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          708
+        ],
+        [
+          557,
+          708
+        ],
+        [
+          557,
+          739
+        ],
+        [
+          238,
+          739
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        553,
+        557,
+        584
+      ],
+      "text": "mỗi người tự chọn hra",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0069_viet_014",
+      "bbox": [
+        [
+          172,
+          597
+        ],
+        [
+          1404,
+          591
+        ],
+        [
+          1404,
+          628
+        ],
+        [
+          172,
+          635
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          752
+        ],
+        [
+          1404,
+          746
+        ],
+        [
+          1404,
+          783
+        ],
+        [
+          172,
+          790
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        591,
+        1404,
+        635
+      ],
+      "text": "(16) Tam huyền, một thuyết của phải Làm-tế, do thiên, sư Nghĩa Huyền (xem (Cht.9, bài Phò",
+      "confidence": 0.8816
+    },
+    {
+      "line_id": "0069_viet_015",
+      "bbox": [
+        [
+          235,
+          635
+        ],
+        [
+          1405,
+          629
+        ],
+        [
+          1405,
+          667
+        ],
+        [
+          236,
+          672
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          790
+        ],
+        [
+          1405,
+          784
+        ],
+        [
+          1405,
+          822
+        ],
+        [
+          236,
+          827
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        629,
+        1405,
+        672
+      ],
+      "text": "thuyết hương thượng nhất lộ, số 8, cùng tác, giả), người mở đầu, phải, này, đề",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0069_viet_016",
+      "bbox": [
+        [
+          235,
+          672
+        ],
+        [
+          1402,
+          669
+        ],
+        [
+          1402,
+          703
+        ],
+        [
+          236,
+          706
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          827
+        ],
+        [
+          1402,
+          824
+        ],
+        [
+          1402,
+          858
+        ],
+        [
+          236,
+          861
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        669,
+        1402,
+        706
+      ],
+      "text": "Xương, Tam huyền còn gọi là tam huyền môn là ba vấn đề sắu kin: huyền trong",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0069_viet_017",
+      "bbox": [
+        [
+          236,
+          708
+        ],
+        [
+          1402,
+          706
+        ],
+        [
+          1402,
+          740
+        ],
+        [
+          237,
+          742
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          863
+        ],
+        [
+          1402,
+          861
+        ],
+        [
+          1402,
+          895
+        ],
+        [
+          237,
+          897
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        706,
+        1402,
+        742
+      ],
+      "text": ", thề, huyền trong cầu và huyền trong huyền, Mỗi, một, huyền lại gồm tam yến, con gọi",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0069_viet_018",
+      "bbox": [
+        [
+          238,
+          743
+        ],
+        [
+          1165,
+          743
+        ],
+        [
+          1165,
+          776
+        ],
+        [
+          238,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          898
+        ],
+        [
+          1165,
+          898
+        ],
+        [
+          1165,
+          931
+        ],
+        [
+          238,
+          931
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        743,
+        1165,
+        776
+      ],
+      "text": "là tam yếu môn, nghĩa là ba điều trọng yếu: lý, trí và phương tiện",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0069_viet_019",
+      "bbox": [
+        [
+          779,
+          945
+        ],
+        [
+          812,
+          945
+        ],
+        [
+          812,
+          990
+        ],
+        [
+          779,
+          990
+        ]
+      ],
+      "bbox_original": [
+        [
+          779,
+          1100
+        ],
+        [
+          812,
+          1100
+        ],
+        [
+          812,
+          1145
+        ],
+        [
+          779,
+          1145
+        ]
+      ],
+      "box_xyxy": [
+        779,
+        945,
+        812,
+        990
+      ],
+      "text": "8",
+      "confidence": 0.932
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "1111 ? 3 H1% ?-4.1 - 1 - - 1 - 1 traly",
+      "Vua lấy làm lạ, mời sư lập đàn sảm hối trong cung. Sau đó vua mộng thấy vự về báo",
+      "tin đã được sinh ở thiên giới, Trăm đây chính là thân kiếp: sau.của vợ Vũ Đế.",
+      "(13) Đại ăn, tiêu àn: trong Nho gia, tiều ần có ngòĩa là không ra làm quan, sóng ăn dật ở",
+      "nơi thôn đã, núi rừng, còn đại ần là tuy vẫn giữ các cương vị chức tước nhưng có",
+      "một cách nhìn thông đạt. Các nhà nho coi đại ần là việc kho. chỉ những người: có",
+      "bán lĩnh cao mơi đạt được. Phúc Điền hòa thượng giảng đại ần, tiên ân là Đại thựa,",
+      "Tiều thừa",
+      "(41) Tam giáo - tức Nho giáo, Phật giáo và Địo giáo.",
+      "(15) Nhất thừa: thuật ngữ đạo Phật, một trọng tâm thừa: ba cổ xe, ba, trình độ tu tm",
+      "đưa chúng sinh: đến sự giác ngộ, Tani: thừa đó là Bò-tát thừa, Bích-chị thừa và Thành",
+      "văn thừa, trong đó Bích-chỉ và Thanh văn là tự độ cho minh, Bò-tát thị, tự độ minh",
+      "và độ cho cả mọi người, Bởi vì người tu hành năng lực khác nhau nên có ba bậc đề",
+      "mỗi người tự chọn hra",
+      "(16) Tam huyền, một thuyết của phải Làm-tế, do thiên, sư Nghĩa Huyền (xem (Cht.9, bài Phò",
+      "thuyết hương thượng nhất lộ, số 8, cùng tác, giả), người mở đầu, phải, này, đề",
+      "Xương, Tam huyền còn gọi là tam huyền môn là ba vấn đề sắu kin: huyền trong",
+      ", thề, huyền trong cầu và huyền trong huyền, Mỗi, một, huyền lại gồm tam yến, con gọi",
+      "là tam yếu môn, nghĩa là ba điều trọng yếu: lý, trí và phương tiện",
+      "8"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,2332 @@
+{
+  "page_id": "0068",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 68,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0068_viet_000",
+      "bbox": [
+        [
+          162,
+          86
+        ],
+        [
+          1395,
+          80
+        ],
+        [
+          1395,
+          120
+        ],
+        [
+          162,
+          127
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          241
+        ],
+        [
+          1395,
+          235
+        ],
+        [
+          1395,
+          275
+        ],
+        [
+          162,
+          282
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        80,
+        1395,
+        127
+      ],
+      "text": "(34) Tu-hàn học đạo - theo Phúc Điền, La hàn đây là tên chùa. Nhưng thieo đạo Phát thì",
+      "confidence": 0.8631
+    },
+    {
+      "line_id": "0068_viet_001",
+      "bbox": [
+        [
+          224,
+          117
+        ],
+        [
+          1390,
+          116
+        ],
+        [
+          1390,
+          158
+        ],
+        [
+          224,
+          159
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          272
+        ],
+        [
+          1390,
+          271
+        ],
+        [
+          1390,
+          313
+        ],
+        [
+          224,
+          314
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        116,
+        1390,
+        159
+      ],
+      "text": "Là hãn cũng Là một bậc của các người tụ hành, bậc này thấp hơn Bò-tát F lý",
+      "confidence": 0.8574
+    },
+    {
+      "line_id": "0068_viet_002",
+      "bbox": [
+        [
+          226,
+          153
+        ],
+        [
+          1396,
+          151
+        ],
+        [
+          1396,
+          189
+        ],
+        [
+          226,
+          191
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          308
+        ],
+        [
+          1396,
+          306
+        ],
+        [
+          1396,
+          344
+        ],
+        [
+          226,
+          346
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        151,
+        1396,
+        191
+      ],
+      "text": "Ngường Sơn tire Tuệ Tịch Lễ Ák (807 ? 883) xuất gia, từ năm 14 tuổi; Ông tu ở mũi",
+      "confidence": 0.8741
+    },
+    {
+      "line_id": "0068_viet_003",
+      "bbox": [
+        [
+          226,
+          187
+        ],
+        [
+          1395,
+          184
+        ],
+        [
+          1395,
+          221
+        ],
+        [
+          226,
+          224
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          342
+        ],
+        [
+          1395,
+          339
+        ],
+        [
+          1395,
+          376
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        184,
+        1395,
+        224
+      ],
+      "text": "Đại Ngường sơn vị thế cộ tên là Ngường Sơn 19, dà Lúc đầu học với Đam Nguyên",
+      "confidence": 0.8868
+    },
+    {
+      "line_id": "0068_viet_004",
+      "bbox": [
+        [
+          731,
+          213
+        ],
+        [
+          1396,
+          213
+        ],
+        [
+          1396,
+          261
+        ],
+        [
+          731,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          368
+        ],
+        [
+          1396,
+          368
+        ],
+        [
+          1396,
+          416
+        ],
+        [
+          731,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        213,
+        1396,
+        261
+      ],
+      "text": "giác ngô và trở thành ông tờ phải Ngường-sơn",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0068_viet_005",
+      "bbox": [
+        [
+          226,
+          254
+        ],
+        [
+          1391,
+          249
+        ],
+        [
+          1391,
+          283
+        ],
+        [
+          226,
+          288
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          409
+        ],
+        [
+          1391,
+          404
+        ],
+        [
+          1391,
+          438
+        ],
+        [
+          226,
+          443
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        249,
+        1391,
+        288
+      ],
+      "text": "Trong Thiên tông. Xom bảng Phá hệ cuối sách, Quy Sơn và Ngường Sơn lã thầy và trò",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0068_viet_006",
+      "bbox": [
+        [
+          228,
+          287
+        ],
+        [
+          1005,
+          284
+        ],
+        [
+          1005,
+          318
+        ],
+        [
+          228,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          442
+        ],
+        [
+          1005,
+          439
+        ],
+        [
+          1005,
+          473
+        ],
+        [
+          228,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        284,
+        1005,
+        321
+      ],
+      "text": "nên phải Thiên của hai ông cũng gọi là Quy Ngường tông",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0068_viet_007",
+      "bbox": [
+        [
+          164,
+          333
+        ],
+        [
+          1403,
+          329
+        ],
+        [
+          1403,
+          373
+        ],
+        [
+          164,
+          378
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          488
+        ],
+        [
+          1403,
+          484
+        ],
+        [
+          1403,
+          528
+        ],
+        [
+          164,
+          533
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        329,
+        1403,
+        378
+      ],
+      "text": "(36) Nhục để thụ giới, với thiền sự Tự Đại, Theo Phúc Điền: Nhạc để là chỉ chung các quý?",
+      "confidence": 0.8709
+    },
+    {
+      "line_id": "0068_viet_008",
+      "bbox": [
+        [
+          227,
+          374
+        ],
+        [
+          996,
+          370
+        ],
+        [
+          996,
+          405
+        ],
+        [
+          227,
+          409
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          529
+        ],
+        [
+          996,
+          525
+        ],
+        [
+          996,
+          560
+        ],
+        [
+          227,
+          564
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        370,
+        996,
+        409
+      ],
+      "text": "thần Tư Đại tức thiền sư Nguyên Khue, chưa rõ lại lịch",
+      "confidence": 0.8892
+    },
+    {
+      "line_id": "0068_viet_009",
+      "bbox": [
+        [
+          731,
+          403
+        ],
+        [
+          1402,
+          403
+        ],
+        [
+          1402,
+          463
+        ],
+        [
+          731,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          558
+        ],
+        [
+          1402,
+          558
+        ],
+        [
+          1402,
+          618
+        ],
+        [
+          731,
+          618
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        403,
+        1402,
+        463
+      ],
+      "text": "Din hàng Có At tỉnh Chiết giang",
+      "confidence": 0.7847
+    },
+    {
+      "line_id": "0068_viet_010",
+      "bbox": [
+        [
+          731,
+          448
+        ],
+        [
+          1400,
+          448
+        ],
+        [
+          1400,
+          495
+        ],
+        [
+          731,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          603
+        ],
+        [
+          1400,
+          603
+        ],
+        [
+          1400,
+          650
+        ],
+        [
+          731,
+          650
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        448,
+        1400,
+        495
+      ],
+      "text": "Tây bắc huyện làm an 72",
+      "confidence": 0.8224
+    },
+    {
+      "line_id": "0068_viet_011",
+      "bbox": [
+        [
+          731,
+          485
+        ],
+        [
+          1399,
+          485
+        ],
+        [
+          1399,
+          530
+        ],
+        [
+          731,
+          530
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          640
+        ],
+        [
+          1399,
+          640
+        ],
+        [
+          1399,
+          685
+        ],
+        [
+          731,
+          685
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        485,
+        1399,
+        530
+      ],
+      "text": "2 ĐF 43 - (tức Lương Vũi Đế 7. Mỹ hay",
+      "confidence": 0.7176
+    },
+    {
+      "line_id": "0068_viet_012",
+      "bbox": [
+        [
+          230,
+          530
+        ],
+        [
+          1397,
+          525
+        ],
+        [
+          1397,
+          559
+        ],
+        [
+          230,
+          564
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          685
+        ],
+        [
+          1397,
+          680
+        ],
+        [
+          1397,
+          714
+        ],
+        [
+          230,
+          719
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        525,
+        1397,
+        564
+      ],
+      "text": "đọc kinh và thana thiên, Thiên-naọc có ngọn phía Tây và ngọn phía Đông, Đỉnh cao nhất",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0068_viet_013",
+      "bbox": [
+        [
+          229,
+          564
+        ],
+        [
+          1399,
+          559
+        ],
+        [
+          1399,
+          597
+        ],
+        [
+          229,
+          602
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          719
+        ],
+        [
+          1399,
+          714
+        ],
+        [
+          1399,
+          752
+        ],
+        [
+          229,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        559,
+        1399,
+        602
+      ],
+      "text": "của ngọn phía Tây là Long-vương-tỉnh Đ I ( ( - Tên Long-vương-tỉnh này chắc có",
+      "confidence": 0.8505
+    },
+    {
+      "line_id": "0068_viet_014",
+      "bbox": [
+        [
+          228,
+          601
+        ],
+        [
+          972,
+          596
+        ],
+        [
+          972,
+          633
+        ],
+        [
+          229,
+          639
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          756
+        ],
+        [
+          972,
+          751
+        ],
+        [
+          972,
+          788
+        ],
+        [
+          229,
+          794
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        596,
+        972,
+        639
+      ],
+      "text": "liên quan đến điền cố mà Thái Tông nhác tới trong bài.",
+      "confidence": 0.8927
+    },
+    {
+      "line_id": "0068_viet_015",
+      "bbox": [
+        [
+          166,
+          649
+        ],
+        [
+          1400,
+          640
+        ],
+        [
+          1400,
+          682
+        ],
+        [
+          166,
+          690
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          804
+        ],
+        [
+          1400,
+          795
+        ],
+        [
+          1400,
+          837
+        ],
+        [
+          166,
+          845
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        640,
+        1400,
+        690
+      ],
+      "text": "(67) Long vương : vụa loài rồng, thường được, coi là ở dưới long cung, đây.bề. Người xưn",
+      "confidence": 0.867
+    },
+    {
+      "line_id": "0068_viet_016",
+      "bbox": [
+        [
+          228,
+          685
+        ],
+        [
+          1399,
+          680
+        ],
+        [
+          1399,
+          718
+        ],
+        [
+          228,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          840
+        ],
+        [
+          1399,
+          835
+        ],
+        [
+          1399,
+          873
+        ],
+        [
+          228,
+          878
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        680,
+        1399,
+        723
+      ],
+      "text": "tin là Long vương có nhiều phép lạ và cung điện chứa nhiều của, quý. Trong các Phật",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0068_viet_017",
+      "bbox": [
+        [
+          230,
+          724
+        ],
+        [
+          745,
+          719
+        ],
+        [
+          745,
+          753
+        ],
+        [
+          231,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          879
+        ],
+        [
+          745,
+          874
+        ],
+        [
+          745,
+          908
+        ],
+        [
+          231,
+          913
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        719,
+        745,
+        758
+      ],
+      "text": "thoại có nhiều chuyên về Long viron",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0068_viet_018",
+      "bbox": [
+        [
+          731,
+          761
+        ],
+        [
+          1382,
+          761
+        ],
+        [
+          1382,
+          812
+        ],
+        [
+          731,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          916
+        ],
+        [
+          1382,
+          916
+        ],
+        [
+          1382,
+          967
+        ],
+        [
+          731,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        761,
+        1382,
+        812
+      ],
+      "text": "- đắc. đỹ. (? - 908). người Phúc châu tẫn, Hi",
+      "confidence": 0.7318
+    },
+    {
+      "line_id": "0068_viet_019",
+      "bbox": [
+        [
+          229,
+          806
+        ],
+        [
+          1398,
+          802
+        ],
+        [
+          1398,
+          840
+        ],
+        [
+          229,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          961
+        ],
+        [
+          1398,
+          957
+        ],
+        [
+          1398,
+          995
+        ],
+        [
+          229,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        802,
+        1398,
+        844
+      ],
+      "text": "đời thứ năm đông Thanh nguyện, Điền này chưa, rũ, về Tuyết, Phong, xem, bảng, Phả",
+      "confidence": 0.8708
+    },
+    {
+      "line_id": "0068_viet_020",
+      "bbox": [
+        [
+          229,
+          846
+        ],
+        [
+          416,
+          844
+        ],
+        [
+          417,
+          878
+        ],
+        [
+          230,
+          881
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1001
+        ],
+        [
+          416,
+          999
+        ],
+        [
+          417,
+          1033
+        ],
+        [
+          230,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        844,
+        417,
+        881
+      ],
+      "text": "he cuối, sách.",
+      "confidence": 0.8423
+    },
+    {
+      "line_id": "0068_viet_021",
+      "bbox": [
+        [
+          167,
+          889
+        ],
+        [
+          1401,
+          881
+        ],
+        [
+          1401,
+          923
+        ],
+        [
+          167,
+          930
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          1044
+        ],
+        [
+          1401,
+          1036
+        ],
+        [
+          1401,
+          1078
+        ],
+        [
+          167,
+          1085
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        881,
+        1401,
+        930
+      ],
+      "text": "(39) Lao dòng còn nghe phép Bách Trương: Theo Phúc Điên, một hồm Bách Trượng lên tòa",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0068_viet_022",
+      "bbox": [
+        [
+          229,
+          923
+        ],
+        [
+          1400,
+          917
+        ],
+        [
+          1400,
+          954
+        ],
+        [
+          230,
+          960
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1078
+        ],
+        [
+          1400,
+          1072
+        ],
+        [
+          1400,
+          1109
+        ],
+        [
+          230,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        917,
+        1400,
+        960
+      ],
+      "text": "thuyết pháp, nghròi nghc rất đông, Bách Trượng giảng xong thấy có một ông giá đến",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0068_viet_023",
+      "bbox": [
+        [
+          229,
+          956
+        ],
+        [
+          1402,
+          950
+        ],
+        [
+          1402,
+          986
+        ],
+        [
+          229,
+          992
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1111
+        ],
+        [
+          1402,
+          1105
+        ],
+        [
+          1402,
+          1141
+        ],
+        [
+          229,
+          1147
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        950,
+        1402,
+        992
+      ],
+      "text": "nói: - Ngày xưa tỏi đã từng ở mũi này, Nhân có một người học đạo hỏi: - 4 Bạc đại tn",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0068_viet_024",
+      "bbox": [
+        [
+          227,
+          988
+        ],
+        [
+          1401,
+          983
+        ],
+        [
+          1401,
+          1020
+        ],
+        [
+          227,
+          1025
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1143
+        ],
+        [
+          1401,
+          1138
+        ],
+        [
+          1401,
+          1175
+        ],
+        [
+          227,
+          1180
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        983,
+        1401,
+        1025
+      ],
+      "text": "hành còn rơi vào vông nhân quả nữa không 70. Tòi đáp. 6tôi không rơi vào vòng",
+      "confidence": 0.88
+    },
+    {
+      "line_id": "0068_viet_025",
+      "bbox": [
+        [
+          231,
+          1022
+        ],
+        [
+          1401,
+          1017
+        ],
+        [
+          1401,
+          1051
+        ],
+        [
+          231,
+          1056
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1177
+        ],
+        [
+          1401,
+          1172
+        ],
+        [
+          1401,
+          1206
+        ],
+        [
+          231,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1017,
+        1401,
+        1056
+      ],
+      "text": "nhân quả nữa r. Từ đó đã trài, năm trăm kiếp tôi làm thàn con cáo ngoài đồng s, Bách",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0068_viet_026",
+      "bbox": [
+        [
+          230,
+          1055
+        ],
+        [
+          1401,
+          1047
+        ],
+        [
+          1401,
+          1081
+        ],
+        [
+          231,
+          1089
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1210
+        ],
+        [
+          1401,
+          1202
+        ],
+        [
+          1401,
+          1236
+        ],
+        [
+          231,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1047,
+        1401,
+        1089
+      ],
+      "text": "Trường nói, v Người hội tôi cầu ây tòi sẽ trả lời người n, Ông lão hỏi: ở Bạc đại tu",
+      "confidence": 0.8564
+    },
+    {
+      "line_id": "0068_viet_027",
+      "bbox": [
+        [
+          229,
+          1087
+        ],
+        [
+          1400,
+          1081
+        ],
+        [
+          1400,
+          1115
+        ],
+        [
+          230,
+          1121
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1242
+        ],
+        [
+          1400,
+          1236
+        ],
+        [
+          1400,
+          1270
+        ],
+        [
+          230,
+          1276
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1081,
+        1400,
+        1121
+      ],
+      "text": "hành còn rợi vào xòng nhân, quả nữa, không 7, Đáp: ( Chờ mê muội chuyện nhân",
+      "confidence": 0.8652
+    },
+    {
+      "line_id": "0068_viet_028",
+      "bbox": [
+        [
+          229,
+          1119
+        ],
+        [
+          1400,
+          1111
+        ],
+        [
+          1400,
+          1147
+        ],
+        [
+          230,
+          1156
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1274
+        ],
+        [
+          1400,
+          1266
+        ],
+        [
+          1400,
+          1302
+        ],
+        [
+          230,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1111,
+        1400,
+        1156
+      ],
+      "text": "quận Ông gia lê hi lục ra Tiêm sau Bách Trượng dân học trò di đến smìm núi thi",
+      "confidence": 0.8098
+    },
+    {
+      "line_id": "0068_viet_029",
+      "bbox": [
+        [
+          230,
+          1153
+        ],
+        [
+          1277,
+          1147
+        ],
+        [
+          1277,
+          1182
+        ],
+        [
+          231,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1308
+        ],
+        [
+          1277,
+          1302
+        ],
+        [
+          1277,
+          1337
+        ],
+        [
+          231,
+          1342
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1147,
+        1277,
+        1187
+      ],
+      "text": "tháy một con cao dòng chết, liên cho chòn cắt theo, tỷ nghi đối với tặng lữ",
+      "confidence": 0.8706
+    },
+    {
+      "line_id": "0068_viet_030",
+      "bbox": [
+        [
+          731,
+          1186
+        ],
+        [
+          1384,
+          1186
+        ],
+        [
+          1384,
+          1233
+        ],
+        [
+          731,
+          1233
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1341
+        ],
+        [
+          1384,
+          1341
+        ],
+        [
+          1384,
+          1388
+        ],
+        [
+          731,
+          1388
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1186,
+        1384,
+        1233
+      ],
+      "text": "Đã (4 (9 ? 814), học trò của Mã Đạo Nhất E",
+      "confidence": 0.8475
+    },
+    {
+      "line_id": "0068_viet_031",
+      "bbox": [
+        [
+          731,
+          1228
+        ],
+        [
+          1403,
+          1228
+        ],
+        [
+          1403,
+          1269
+        ],
+        [
+          731,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          731,
+          1383
+        ],
+        [
+          1403,
+          1383
+        ],
+        [
+          1403,
+          1424
+        ],
+        [
+          731,
+          1424
+        ]
+      ],
+      "box_xyxy": [
+        731,
+        1228,
+        1403,
+        1269
+      ],
+      "text": "Bách Trượng thanh quy Ở 2 đị 4, Xem",
+      "confidence": 0.808
+    },
+    {
+      "line_id": "0068_viet_032",
+      "bbox": [
+        [
+          230,
+          1272
+        ],
+        [
+          549,
+          1269
+        ],
+        [
+          550,
+          1303
+        ],
+        [
+          231,
+          1306
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1427
+        ],
+        [
+          549,
+          1424
+        ],
+        [
+          550,
+          1458
+        ],
+        [
+          231,
+          1461
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1269,
+        550,
+        1306
+      ],
+      "text": "bảng phả hệ cuối sách",
+      "confidence": 0.8866
+    },
+    {
+      "line_id": "0068_viet_033",
+      "bbox": [
+        [
+          168,
+          1320
+        ],
+        [
+          1409,
+          1316
+        ],
+        [
+          1409,
+          1352
+        ],
+        [
+          168,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1475
+        ],
+        [
+          1409,
+          1471
+        ],
+        [
+          1409,
+          1507
+        ],
+        [
+          168,
+          1511
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1316,
+        1409,
+        1356
+      ],
+      "text": "(40) Ức Diện còn hồ kinh Kim cương: thép truyền thuyết, kinh Kim cương bị rơi xuống nước,",
+      "confidence": 0.8859
+    },
+    {
+      "line_id": "0068_viet_034",
+      "bbox": [
+        [
+          186,
+          1356
+        ],
+        [
+          739,
+          1353
+        ],
+        [
+          739,
+          1386
+        ],
+        [
+          186,
+          1389
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1511
+        ],
+        [
+          739,
+          1508
+        ],
+        [
+          739,
+          1541
+        ],
+        [
+          186,
+          1544
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1353,
+        739,
+        1389
+      ],
+      "text": "cả bày óc xum lại đờ bộ kinh lên cạn",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0068_viet_035",
+      "bbox": [
+        [
+          166,
+          1398
+        ],
+        [
+          1406,
+          1389
+        ],
+        [
+          1406,
+          1430
+        ],
+        [
+          166,
+          1439
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1553
+        ],
+        [
+          1406,
+          1544
+        ],
+        [
+          1406,
+          1585
+        ],
+        [
+          166,
+          1594
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1389,
+        1406,
+        1439
+      ],
+      "text": "(41) Mước, nghìn cá: Chưa rồ xuất, xử. Nam trăm doi: Tây mực kỳ 15 với, 3, chẹp - ở bờ",
+      "confidence": 0.8309
+    },
+    {
+      "line_id": "0068_viet_036",
+      "bbox": [
+        [
+          229,
+          1437
+        ],
+        [
+          1404,
+          1431
+        ],
+        [
+          1404,
+          1468
+        ],
+        [
+          230,
+          1474
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1592
+        ],
+        [
+          1404,
+          1586
+        ],
+        [
+          1404,
+          1623
+        ],
+        [
+          230,
+          1629
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1431,
+        1404,
+        1474
+      ],
+      "text": "biên nam-hải thì, tập có một cây khỏ, trong hóc cày có 500 con đơi. một hòm trời",
+      "confidence": 0.8571
+    },
+    {
+      "line_id": "0068_viet_037",
+      "bbox": [
+        [
+          230,
+          1473
+        ],
+        [
+          1403,
+          1468
+        ],
+        [
+          1403,
+          1502
+        ],
+        [
+          231,
+          1507
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1628
+        ],
+        [
+          1403,
+          1623
+        ],
+        [
+          1403,
+          1657
+        ],
+        [
+          231,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1468,
+        1403,
+        1507
+      ],
+      "text": "rét có một bọn lài buôn nghỉ ở đười gốc vày đất lửa sười, đửa bốc, cây cháy, Trong, bọn",
+      "confidence": 0.8824
+    },
+    {
+      "line_id": "0068_viet_038",
+      "bbox": [
+        [
+          230,
+          1509
+        ],
+        [
+          1404,
+          1503
+        ],
+        [
+          1404,
+          1540
+        ],
+        [
+          231,
+          1546
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1664
+        ],
+        [
+          1404,
+          1658
+        ],
+        [
+          1404,
+          1695
+        ],
+        [
+          231,
+          1701
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1503,
+        1404,
+        1546
+      ],
+      "text": "có người đọc kinh 1-kỳ-đạt-mu lý đị tế lề   đơi bị lửa đốt nông nhưng mài nghe.",
+      "confidence": 0.8213
+    },
+    {
+      "line_id": "0068_viet_039",
+      "bbox": [
+        [
+          230,
+          1547
+        ],
+        [
+          1402,
+          1540
+        ],
+        [
+          1402,
+          1576
+        ],
+        [
+          231,
+          1583
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1702
+        ],
+        [
+          1402,
+          1695
+        ],
+        [
+          1402,
+          1731
+        ],
+        [
+          231,
+          1738
+        ]
+      ],
+      "box_xyxy": [
+        230,
+        1540,
+        1402,
+        1583
+      ],
+      "text": "kinh nên bị chết cả. Do. vậy chúng được hòa kiếp, thành, người, về sáu đều bỏ, nhà đi",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0068_viet_040",
+      "bbox": [
+        [
+          232,
+          1585
+        ],
+        [
+          542,
+          1583
+        ],
+        [
+          543,
+          1614
+        ],
+        [
+          233,
+          1616
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1740
+        ],
+        [
+          542,
+          1738
+        ],
+        [
+          543,
+          1769
+        ],
+        [
+          233,
+          1771
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1583,
+        543,
+        1616
+      ],
+      "text": "tìn và hóa thành bò-tát.",
+      "confidence": 0.8496
+    },
+    {
+      "line_id": "0068_viet_041",
+      "bbox": [
+        [
+          165,
+          1627
+        ],
+        [
+          1395,
+          1616
+        ],
+        [
+          1395,
+          1659
+        ],
+        [
+          165,
+          1671
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1782
+        ],
+        [
+          1395,
+          1771
+        ],
+        [
+          1395,
+          1814
+        ],
+        [
+          165,
+          1826
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        1616,
+        1395,
+        1671
+      ],
+      "text": "(12) Trần nghe sâm mà được lên trời: cũng theo : Phúc Điền, Lương Vũ Đế. H A. đệ",
+      "confidence": 0.8431
+    },
+    {
+      "line_id": "0068_viet_042",
+      "bbox": [
+        [
+          231,
+          1667
+        ],
+        [
+          1403,
+          1658
+        ],
+        [
+          1403,
+          1693
+        ],
+        [
+          232,
+          1701
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1822
+        ],
+        [
+          1403,
+          1813
+        ],
+        [
+          1403,
+          1848
+        ],
+        [
+          232,
+          1856
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1658,
+        1403,
+        1701
+      ],
+      "text": "năm mộng thấy có một vị sưr bảo - Chúng sinh trong đời chịu nhiều khồ não. nên",
+      "confidence": 0.8876
+    },
+    {
+      "line_id": "0068_viet_043",
+      "bbox": [
+        [
+          232,
+          1703
+        ],
+        [
+          1403,
+          1697
+        ],
+        [
+          1403,
+          1730
+        ],
+        [
+          233,
+          1736
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1858
+        ],
+        [
+          1403,
+          1852
+        ],
+        [
+          1403,
+          1885
+        ],
+        [
+          233,
+          1891
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1697,
+        1403,
+        1736
+      ],
+      "text": "làm có chay trên đường, dưới sông cúng mà cứu họ 9, Có người lại khuyên vua nện",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0068_viet_044",
+      "bbox": [
+        [
+          233,
+          1738
+        ],
+        [
+          1403,
+          1732
+        ],
+        [
+          1403,
+          1765
+        ],
+        [
+          234,
+          1771
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1893
+        ],
+        [
+          1403,
+          1887
+        ],
+        [
+          1403,
+          1920
+        ],
+        [
+          234,
+          1926
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1732,
+        1403,
+        1771
+      ],
+      "text": "đọc kinh, Vua liên đọc kinh trúng bù: năm; Vợi Vũ Đế khi còn sống, đối xởi các phi",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0068_viet_045",
+      "bbox": [
+        [
+          233,
+          1773
+        ],
+        [
+          1402,
+          1767
+        ],
+        [
+          1402,
+          1801
+        ],
+        [
+          234,
+          1807
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1928
+        ],
+        [
+          1402,
+          1922
+        ],
+        [
+          1402,
+          1956
+        ],
+        [
+          234,
+          1962
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1767,
+        1402,
+        1807
+      ],
+      "text": "tần rất độc ác. Chết đi, hà tu phải hóa làm, kiếp trần, sống đười đàm, thường bị",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0068_viet_046",
+      "bbox": [
+        [
+          232,
+          1809
+        ],
+        [
+          1404,
+          1803
+        ],
+        [
+          1404,
+          1837
+        ],
+        [
+          233,
+          1843
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1964
+        ],
+        [
+          1404,
+          1958
+        ],
+        [
+          1404,
+          1992
+        ],
+        [
+          233,
+          1998
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1803,
+        1404,
+        1843
+      ],
+      "text": "những loại còn trùng cân, ria, Vũ Để lại năm mộng thấy bà về bảo. ẻ Thiếp trước",
+      "confidence": 0.8742
+    },
+    {
+      "line_id": "0068_viet_047",
+      "bbox": [
+        [
+          233,
+          1845
+        ],
+        [
+          1402,
+          1839
+        ],
+        [
+          1402,
+          1873
+        ],
+        [
+          234,
+          1879
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          2000
+        ],
+        [
+          1402,
+          1994
+        ],
+        [
+          1402,
+          2028
+        ],
+        [
+          234,
+          2034
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1839,
+        1402,
+        1879
+      ],
+      "text": "đây làm diêu ác. nay, phải chịu khồ, xin bệ hạ làm chay, sâm hối tội tồi cho ithiếp a.",
+      "confidence": 0.886
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(34) Tu-hàn học đạo - theo Phúc Điền, La hàn đây là tên chùa. Nhưng thieo đạo Phát thì",
+      "Là hãn cũng Là một bậc của các người tụ hành, bậc này thấp hơn Bò-tát F lý",
+      "Ngường Sơn tire Tuệ Tịch Lễ Ák (807 ? 883) xuất gia, từ năm 14 tuổi; Ông tu ở mũi",
+      "Đại Ngường sơn vị thế cộ tên là Ngường Sơn 19, dà Lúc đầu học với Đam Nguyên",
+      "giác ngô và trở thành ông tờ phải Ngường-sơn",
+      "Trong Thiên tông. Xom bảng Phá hệ cuối sách, Quy Sơn và Ngường Sơn lã thầy và trò",
+      "nên phải Thiên của hai ông cũng gọi là Quy Ngường tông",
+      "(36) Nhục để thụ giới, với thiền sự Tự Đại, Theo Phúc Điền: Nhạc để là chỉ chung các quý?",
+      "thần Tư Đại tức thiền sư Nguyên Khue, chưa rõ lại lịch",
+      "Din hàng Có At tỉnh Chiết giang",
+      "Tây bắc huyện làm an 72",
+      "2 ĐF 43 - (tức Lương Vũi Đế 7. Mỹ hay",
+      "đọc kinh và thana thiên, Thiên-naọc có ngọn phía Tây và ngọn phía Đông, Đỉnh cao nhất",
+      "của ngọn phía Tây là Long-vương-tỉnh Đ I ( ( - Tên Long-vương-tỉnh này chắc có",
+      "liên quan đến điền cố mà Thái Tông nhác tới trong bài.",
+      "(67) Long vương : vụa loài rồng, thường được, coi là ở dưới long cung, đây.bề. Người xưn",
+      "tin là Long vương có nhiều phép lạ và cung điện chứa nhiều của, quý. Trong các Phật",
+      "thoại có nhiều chuyên về Long viron",
+      "- đắc. đỹ. (? - 908). người Phúc châu tẫn, Hi",
+      "đời thứ năm đông Thanh nguyện, Điền này chưa, rũ, về Tuyết, Phong, xem, bảng, Phả",
+      "he cuối, sách.",
+      "(39) Lao dòng còn nghe phép Bách Trương: Theo Phúc Điên, một hồm Bách Trượng lên tòa",
+      "thuyết pháp, nghròi nghc rất đông, Bách Trượng giảng xong thấy có một ông giá đến",
+      "nói: - Ngày xưa tỏi đã từng ở mũi này, Nhân có một người học đạo hỏi: - 4 Bạc đại tn",
+      "hành còn rơi vào vông nhân quả nữa không 70. Tòi đáp. 6tôi không rơi vào vòng",
+      "nhân quả nữa r. Từ đó đã trài, năm trăm kiếp tôi làm thàn con cáo ngoài đồng s, Bách",
+      "Trường nói, v Người hội tôi cầu ây tòi sẽ trả lời người n, Ông lão hỏi: ở Bạc đại tu",
+      "hành còn rợi vào xòng nhân, quả nữa, không 7, Đáp: ( Chờ mê muội chuyện nhân",
+      "quận Ông gia lê hi lục ra Tiêm sau Bách Trượng dân học trò di đến smìm núi thi",
+      "tháy một con cao dòng chết, liên cho chòn cắt theo, tỷ nghi đối với tặng lữ",
+      "Đã (4 (9 ? 814), học trò của Mã Đạo Nhất E",
+      "Bách Trượng thanh quy Ở 2 đị 4, Xem",
+      "bảng phả hệ cuối sách",
+      "(40) Ức Diện còn hồ kinh Kim cương: thép truyền thuyết, kinh Kim cương bị rơi xuống nước,",
+      "cả bày óc xum lại đờ bộ kinh lên cạn",
+      "(41) Mước, nghìn cá: Chưa rồ xuất, xử. Nam trăm doi: Tây mực kỳ 15 với, 3, chẹp - ở bờ",
+      "biên nam-hải thì, tập có một cây khỏ, trong hóc cày có 500 con đơi. một hòm trời",
+      "rét có một bọn lài buôn nghỉ ở đười gốc vày đất lửa sười, đửa bốc, cây cháy, Trong, bọn",
+      "có người đọc kinh 1-kỳ-đạt-mu lý đị tế lề   đơi bị lửa đốt nông nhưng mài nghe.",
+      "kinh nên bị chết cả. Do. vậy chúng được hòa kiếp, thành, người, về sáu đều bỏ, nhà đi",
+      "tìn và hóa thành bò-tát.",
+      "(12) Trần nghe sâm mà được lên trời: cũng theo : Phúc Điền, Lương Vũ Đế. H A. đệ",
+      "năm mộng thấy có một vị sưr bảo - Chúng sinh trong đời chịu nhiều khồ não. nên",
+      "làm có chay trên đường, dưới sông cúng mà cứu họ 9, Có người lại khuyên vua nện",
+      "đọc kinh, Vua liên đọc kinh trúng bù: năm; Vợi Vũ Đế khi còn sống, đối xởi các phi",
+      "tần rất độc ác. Chết đi, hà tu phải hóa làm, kiếp trần, sống đười đàm, thường bị",
+      "những loại còn trùng cân, ria, Vũ Để lại năm mộng thấy bà về bảo. ẻ Thiếp trước",
+      "đây làm diêu ác. nay, phải chịu khồ, xin bệ hạ làm chay, sâm hối tội tồi cho ithiếp a."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

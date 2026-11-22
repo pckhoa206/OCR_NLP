@@ -1,0 +1,604 @@
+{
+  "page_id": "0237",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 237,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 962,
+    "footnote_separator_y_original": 1077,
+    "effective_width": 1122,
+    "effective_height": 962
+  },
+  "items": [
+    {
+      "line_id": "0237_viet_000",
+      "bbox": [
+        [
+          87,
+          0
+        ],
+        [
+          1048,
+          0
+        ],
+        [
+          1048,
+          19
+        ],
+        [
+          87,
+          19
+        ]
+      ],
+      "bbox_original": [
+        [
+          87,
+          115
+        ],
+        [
+          1048,
+          115
+        ],
+        [
+          1048,
+          134
+        ],
+        [
+          87,
+          134
+        ]
+      ],
+      "box_xyxy": [
+        87,
+        0,
+        1048,
+        19
+      ],
+      "text": "NHƯ ÂU CÓ NNHÀNH VIỆT CỨU, TỪ NNAT AJCN AIỆN, PHỤC VÌ INẠP TỪ, NINN",
+      "confidence": 0.7802
+    },
+    {
+      "line_id": "0237_viet_001",
+      "bbox": [
+        [
+          88,
+          28
+        ],
+        [
+          880,
+          28
+        ],
+        [
+          880,
+          62
+        ],
+        [
+          88,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          88,
+          143
+        ],
+        [
+          880,
+          143
+        ],
+        [
+          880,
+          177
+        ],
+        [
+          88,
+          177
+        ]
+      ],
+      "box_xyxy": [
+        88,
+        28,
+        880,
+        62
+      ],
+      "text": "dung thi trung vị tận chi ý, dĩ tả du du chi tình vân nhĩ.",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0237_viet_002",
+      "bbox": [
+        [
+          145,
+          73
+        ],
+        [
+          330,
+          73
+        ],
+        [
+          330,
+          111
+        ],
+        [
+          145,
+          111
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          188
+        ],
+        [
+          330,
+          188
+        ],
+        [
+          330,
+          226
+        ],
+        [
+          145,
+          226
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        73,
+        330,
+        111
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0237_viet_003",
+      "bbox": [
+        [
+          176,
+          117
+        ],
+        [
+          959,
+          115
+        ],
+        [
+          959,
+          156
+        ],
+        [
+          176,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          232
+        ],
+        [
+          959,
+          230
+        ],
+        [
+          959,
+          271
+        ],
+        [
+          176,
+          273
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        115,
+        959,
+        158
+      ],
+      "text": "Chùm từ về mười cảnh Quan lan sào? cùng lời dẫn",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0237_viet_004",
+      "bbox": [
+        [
+          144,
+          163
+        ],
+        [
+          1052,
+          164
+        ],
+        [
+          1052,
+          204
+        ],
+        [
+          144,
+          203
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          278
+        ],
+        [
+          1052,
+          279
+        ],
+        [
+          1052,
+          319
+        ],
+        [
+          144,
+          318
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        163,
+        1052,
+        204
+      ],
+      "text": "Bấy giờ, tôi ở thí viện tại Nghệ An, việc công rảnh rỗi, chợt",
+      "confidence": 0.9264
+    },
+    {
+      "line_id": "0237_viet_005",
+      "bbox": [
+        [
+          85,
+          207
+        ],
+        [
+          1049,
+          209
+        ],
+        [
+          1049,
+          247
+        ],
+        [
+          85,
+          244
+        ]
+      ],
+      "bbox_original": [
+        [
+          85,
+          322
+        ],
+        [
+          1049,
+          324
+        ],
+        [
+          1049,
+          362
+        ],
+        [
+          85,
+          359
+        ]
+      ],
+      "box_xyxy": [
+        85,
+        207,
+        1049,
+        247
+      ],
+      "text": "nhớ đến cảm hứng khi du ngoạn ở Quan lan sào, hận không có",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0237_viet_006",
+      "bbox": [
+        [
+          87,
+          252
+        ],
+        [
+          1048,
+          252
+        ],
+        [
+          1048,
+          286
+        ],
+        [
+          87,
+          286
+        ]
+      ],
+      "bbox_original": [
+        [
+          87,
+          367
+        ],
+        [
+          1048,
+          367
+        ],
+        [
+          1048,
+          401
+        ],
+        [
+          87,
+          401
+        ]
+      ],
+      "box_xyxy": [
+        87,
+        252,
+        1048,
+        286
+      ],
+      "text": "thuật của Trường Phòng? để có thể về thăm ngay được. Nhớ lại",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0237_viet_007",
+      "bbox": [
+        [
+          87,
+          295
+        ],
+        [
+          1048,
+          295
+        ],
+        [
+          1048,
+          329
+        ],
+        [
+          87,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          87,
+          410
+        ],
+        [
+          1048,
+          410
+        ],
+        [
+          1048,
+          444
+        ],
+        [
+          87,
+          444
+        ]
+      ],
+      "box_xyxy": [
+        87,
+        295,
+        1048,
+        329
+      ],
+      "text": "từng ngọn núi, từng dòng sông, từng bông hoa, từng tảng đá trước",
+      "confidence": 0.9349
+    },
+    {
+      "line_id": "0237_viet_008",
+      "bbox": [
+        [
+          87,
+          335
+        ],
+        [
+          1047,
+          337
+        ],
+        [
+          1047,
+          371
+        ],
+        [
+          87,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          87,
+          450
+        ],
+        [
+          1047,
+          452
+        ],
+        [
+          1047,
+          486
+        ],
+        [
+          87,
+          484
+        ]
+      ],
+      "box_xyxy": [
+        87,
+        335,
+        1047,
+        371
+      ],
+      "text": "Quan lan sào, như xa cách cố nhân đã lâu, muốn được gặp mặt,",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0237_viet_009",
+      "bbox": [
+        [
+          85,
+          375
+        ],
+        [
+          1048,
+          378
+        ],
+        [
+          1048,
+          414
+        ],
+        [
+          85,
+          411
+        ]
+      ],
+      "bbox_original": [
+        [
+          85,
+          490
+        ],
+        [
+          1048,
+          493
+        ],
+        [
+          1048,
+          529
+        ],
+        [
+          85,
+          526
+        ]
+      ],
+      "box_xyxy": [
+        85,
+        375,
+        1048,
+        414
+      ],
+      "text": "lại làm mười bài từ, để hình dung những ý chưa nói hết trong thơ,",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0237_viet_010",
+      "bbox": [
+        [
+          86,
+          418
+        ],
+        [
+          626,
+          421
+        ],
+        [
+          626,
+          455
+        ],
+        [
+          86,
+          452
+        ]
+      ],
+      "bbox_original": [
+        [
+          86,
+          533
+        ],
+        [
+          626,
+          536
+        ],
+        [
+          626,
+          570
+        ],
+        [
+          86,
+          567
+        ]
+      ],
+      "box_xyxy": [
+        86,
+        418,
+        626,
+        455
+      ],
+      "text": "đặng tả tình cảm cách xa vời vợi vậy.",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0237_viet_011",
+      "bbox": [
+        [
+          137,
+          463
+        ],
+        [
+          173,
+          463
+        ],
+        [
+          173,
+          502
+        ],
+        [
+          137,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          578
+        ],
+        [
+          173,
+          578
+        ],
+        [
+          173,
+          617
+        ],
+        [
+          137,
+          617
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        463,
+        173,
+        502
+      ],
+      "text": "I.",
+      "confidence": 0.8476
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "NHƯ ÂU CÓ NNHÀNH VIỆT CỨU, TỪ NNAT AJCN AIỆN, PHỤC VÌ INẠP TỪ, NINN",
+      "dung thi trung vị tận chi ý, dĩ tả du du chi tình vân nhĩ."
+    ],
+    "dich_nghia_lines": [
+      "Chùm từ về mười cảnh Quan lan sào? cùng lời dẫn",
+      "Bấy giờ, tôi ở thí viện tại Nghệ An, việc công rảnh rỗi, chợt",
+      "nhớ đến cảm hứng khi du ngoạn ở Quan lan sào, hận không có",
+      "thuật của Trường Phòng? để có thể về thăm ngay được. Nhớ lại",
+      "từng ngọn núi, từng dòng sông, từng bông hoa, từng tảng đá trước",
+      "Quan lan sào, như xa cách cố nhân đã lâu, muốn được gặp mặt,",
+      "lại làm mười bài từ, để hình dung những ý chưa nói hết trong thơ,",
+      "đặng tả tình cảm cách xa vời vợi vậy.",
+      "I."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

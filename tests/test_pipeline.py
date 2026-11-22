@@ -69,7 +69,7 @@ class TestInventoryAndManifest(unittest.TestCase):
 
         # Verify page offsets & counts
         self.assertEqual(books["HVTT"]["book_to_pdf_offset"], 6)
-        self.assertEqual(books["HVTT"]["valid_range"]["valid_pdf_page_count"], 374)
+        self.assertEqual(books["HVTT"]["valid_range"]["valid_pdf_page_count"], 375)
         self.assertEqual(books["HVTT"]["valid_range"]["even_han_page_count"], 187)
         self.assertEqual(books["TVLT2"]["pdf_to_book_offset"], 2)
         self.assertIn(25, books["TVLT2"]["excluded_pdf_pages_in_valid_range"])
@@ -334,14 +334,17 @@ class TestExporterAndQAAndPilotDeliverables(unittest.TestCase):
             xlsx_rows_with_header = read_xlsx_zero_dep(
                 str(xlsx_path), sheet_name="DONG_HANG", include_header=True
             )
-            expected_header = (
-                ("Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ")
-                if book_key == "HVTT"
-                else ("Hán", "Việt")
-            )
+            expected_header = ("Hán", "Dịch âm", "Dịch nghĩa", "Dịch thơ")
             self.assertEqual(xlsx_rows_with_header[0], expected_header)
             xlsx_pairs = xlsx_rows_with_header[1:]
             self.assertEqual(tsv_pairs, xlsx_pairs)
+            self.assertTrue(all(len(r) == 4 for r in tsv_pairs))
+
+            # Canonical filenames only — no legacy short duplicates
+            self.assertEqual(tsv_path.name, f"{info['code']}_parallel.tsv")
+            self.assertEqual(xlsx_path.name, f"{info['code']}_parallel.xlsx")
+            self.assertFalse((tsv_path.parent / f"{book_key}_parallel.tsv").exists())
+            self.assertFalse((tsv_path.parent / f"{book_key}_parallel.xlsx").exists())
 
             # Verify THONG_KE sheet exists and is readable
             stats_rows = read_xlsx_zero_dep(
@@ -349,8 +352,8 @@ class TestExporterAndQAAndPilotDeliverables(unittest.TestCase):
             )
             self.assertEqual(stats_rows[0], ("Chỉ số", "Giá trị"))
 
-            # Verify raw TSV line format: strictly expected tab count per line, no empty lines
-            expected_tabs = 3 if book_key == "HVTT" else 1
+            # Verify raw TSV line format: strictly 3 tabs (4 columns) per line, no empty lines
+            expected_tabs = 3
             raw_lines = tsv_path.read_text(encoding="utf-8").splitlines()
             self.assertEqual(len(raw_lines), len(tsv_pairs))
             for line in raw_lines:
@@ -386,10 +389,12 @@ class TestExporterAndQAAndPilotDeliverables(unittest.TestCase):
         self.assertIn("Trẫm thầm nghĩ: Phật không có nam bắc", text)
         self.assertIn("Thiền Tông Chỉ Nam", text)
 
-        # Verify alignment includes work 03 pairs in TVLT2 parallel deliverable
+        # Verify alignment includes work 03 title and pairs in 4-col TVLT2 parallel deliverable
         tsv_path = ROOT_DIR / "deliverables" / "TVLT2_ThoVanLyTran2" / "04_dong_hang" / "TVLT2_ThoVanLyTran2_parallel.tsv"
         pairs = read_tsv(str(tsv_path))
-        found_work_03 = any("朕竊謂佛無南北" in p[0] for p in pairs)
+        self.assertTrue(all(len(p) == 4 for p in pairs))
+        self.assertTrue(any(p[0] == "禪宗指南序" and p[1] == "THIỀN TÔNG CHỈ NAM TỰ" for p in pairs))
+        found_work_03 = any("朕竊謂佛無南北" in p[0] and p[3] == "" for p in pairs)
         self.assertTrue(found_work_03, "TVLT2 parallel TSV must contain work 03 aligned sentence")
 
     def test_tltvn_instructor_supplement_inventory_report(self) -> None:

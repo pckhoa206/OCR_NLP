@@ -1,0 +1,459 @@
+{
+  "page_id": "0024",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 24,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0024_han_000",
+      "bbox": [
+        [
+          245,
+          128
+        ],
+        [
+          638,
+          131
+        ],
+        [
+          638,
+          179
+        ],
+        [
+          245,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          249
+        ],
+        [
+          638,
+          252
+        ],
+        [
+          638,
+          300
+        ],
+        [
+          245,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        128,
+        638,
+        179
+      ],
+      "text": "財用於是乎出",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0024_han_001",
+      "bbox": [
+        [
+          245,
+          295
+        ],
+        [
+          784,
+          295
+        ],
+        [
+          784,
+          343
+        ],
+        [
+          245,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          416
+        ],
+        [
+          784,
+          416
+        ],
+        [
+          784,
+          464
+        ],
+        [
+          245,
+          464
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        295,
+        784,
+        343
+      ],
+      "text": "猶其有原隰衍沃也",
+      "confidence": 0.9993
+    },
+    {
+      "line_id": "0024_han_002",
+      "bbox": [
+        [
+          247,
+          463
+        ],
+        [
+          641,
+          463
+        ],
+        [
+          641,
+          511
+        ],
+        [
+          247,
+          511
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          584
+        ],
+        [
+          641,
+          584
+        ],
+        [
+          641,
+          632
+        ],
+        [
+          247,
+          632
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        463,
+        641,
+        511
+      ],
+      "text": "衣食於是乎生",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0024_han_003",
+      "bbox": [
+        [
+          246,
+          637
+        ],
+        [
+          577,
+          635
+        ],
+        [
+          577,
+          679
+        ],
+        [
+          246,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          758
+        ],
+        [
+          577,
+          756
+        ],
+        [
+          577,
+          800
+        ],
+        [
+          246,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        635,
+        577,
+        681
+      ],
+      "text": "口之宣言也",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0024_han_004",
+      "bbox": [
+        [
+          247,
+          804
+        ],
+        [
+          644,
+          804
+        ],
+        [
+          644,
+          851
+        ],
+        [
+          247,
+          851
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          925
+        ],
+        [
+          644,
+          925
+        ],
+        [
+          644,
+          972
+        ],
+        [
+          247,
+          972
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        804,
+        644,
+        851
+      ],
+      "text": "善敗於是乎興",
+      "confidence": 0.9992
+    },
+    {
+      "line_id": "0024_han_005",
+      "bbox": [
+        [
+          246,
+          973
+        ],
+        [
+          575,
+          973
+        ],
+        [
+          575,
+          1018
+        ],
+        [
+          246,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1094
+        ],
+        [
+          575,
+          1094
+        ],
+        [
+          575,
+          1139
+        ],
+        [
+          246,
+          1139
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        973,
+        575,
+        1018
+      ],
+      "text": "行善而備敗",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0024_han_006",
+      "bbox": [
+        [
+          250,
+          1143
+        ],
+        [
+          853,
+          1141
+        ],
+        [
+          853,
+          1186
+        ],
+        [
+          250,
+          1188
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1264
+        ],
+        [
+          853,
+          1262
+        ],
+        [
+          853,
+          1307
+        ],
+        [
+          250,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1141,
+        853,
+        1188
+      ],
+      "text": "所以阜財用衣食者也",
+      "confidence": 0.9957
+    },
+    {
+      "line_id": "0024_han_007",
+      "bbox": [
+        [
+          244,
+          1311
+        ],
+        [
+          650,
+          1311
+        ],
+        [
+          650,
+          1362
+        ],
+        [
+          244,
+          1362
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1432
+        ],
+        [
+          650,
+          1432
+        ],
+        [
+          650,
+          1483
+        ],
+        [
+          244,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1311,
+        650,
+        1362
+      ],
+      "text": "夫民慮之於心",
+      "confidence": 0.999
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "財用於是乎出",
+      "猶其有原隰衍沃也",
+      "衣食於是乎生",
+      "口之宣言也",
+      "善敗於是乎興",
+      "行善而備敗",
+      "所以阜財用衣食者也",
+      "夫民慮之於心"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "財用於是乎出",
+        "phien_am": "tài dụng ư thị hồ xuất",
+        "dich_nghia_gloss": "nguồn tài lọi ở đó mà ra"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "猶其有原隰衍沃也",
+        "phien_am": "do kỳ hữu nguyên thấp diễn ốc dũ",
+        "dich_nghia_gloss": "do chỗ đầt cao được tưới ướt, đất phẳng tươi tôt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "衣食於是乎生",
+        "phien_am": "y thực ư thị hồ sinh.",
+        "dich_nghia_gloss": "com áo ở đó mà ra"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "口之宣言也",
+        "phien_am": "khầu chi tuyên ngôn dã",
+        "dich_nghia_gloss": "miệng truyền lời nói"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "善敗於是乎興",
+        "phien_am": "thiện bại ư thị hồ hưng",
+        "dich_nghia_gloss": "được thua ở đó mà lên"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "行善而備敗",
+        "phien_am": "hành thiện nhi bị bại",
+        "dich_nghia_gloss": "làm điều hay, phòng điều thua"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "所以阜財用衣食者也",
+        "phien_am": "sở dĩ phụ tài dụng y thực giả dã.",
+        "dich_nghia_gloss": "lầy ở đây mà có com áo vật dụng"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "夫民慮之於心",
+        "phien_am": "Phù dân lự chi ư tâm",
+        "dich_nghia_gloss": "Dân lo nghĩ trong lòng"
+      }
+    ]
+  }
+}

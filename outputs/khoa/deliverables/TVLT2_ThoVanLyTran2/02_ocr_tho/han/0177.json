@@ -1,0 +1,119 @@
+{
+  "page_id": "0177",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 177,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0177_han_000",
+      "bbox": [
+        [
+          179,
+          1804
+        ],
+        [
+          552,
+          1810
+        ],
+        [
+          551,
+          1851
+        ],
+        [
+          179,
+          1845
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1959
+        ],
+        [
+          552,
+          1965
+        ],
+        [
+          551,
+          2006
+        ],
+        [
+          179,
+          2000
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1804,
+        552,
+        1851
+      ],
+      "text": "1* KIIL1: mð giáp 某甲",
+      "confidence": 0.8249
+    },
+    {
+      "line_id": "0177_han_001",
+      "bbox": [
+        [
+          219,
+          1844
+        ],
+        [
+          855,
+          1838
+        ],
+        [
+          856,
+          1889
+        ],
+        [
+          220,
+          1896
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1999
+        ],
+        [
+          855,
+          1993
+        ],
+        [
+          856,
+          2044
+        ],
+        [
+          220,
+          2051
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1838,
+        856,
+        1896
+      ],
+      "text": "KHL1: Phan doc Dring ngón 梵賣唐言",
+      "confidence": 0.8882
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

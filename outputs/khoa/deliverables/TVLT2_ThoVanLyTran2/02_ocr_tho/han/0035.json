@@ -1,0 +1,121 @@
+{
+  "page_id": "0035",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 35,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0035_han_000",
+      "bbox": [
+        [
+          666,
+          382
+        ],
+        [
+          960,
+          386
+        ],
+        [
+          959,
+          475
+        ],
+        [
+          665,
+          472
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          537
+        ],
+        [
+          960,
+          541
+        ],
+        [
+          959,
+          630
+        ],
+        [
+          665,
+          627
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        382,
+        960,
+        475
+      ],
+      "text": "課虛錄",
+      "confidence": 0.6373
+    },
+    {
+      "line_id": "0035_han_001",
+      "bbox": [
+        [
+          178,
+          1147
+        ],
+        [
+          763,
+          1147
+        ],
+        [
+          763,
+          1207
+        ],
+        [
+          178,
+          1207
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1302
+        ],
+        [
+          763,
+          1302
+        ],
+        [
+          763,
+          1362
+        ],
+        [
+          178,
+          1362
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        1147,
+        763,
+        1207
+      ],
+      "text": "phat sám hói nghi tu và ghi là Trān trièu de nhǎt tō bút soan. 柬 第一祖",
+      "confidence": 0.8969
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "課虛錄"
+    ],
+    "interlinear_triplets": []
+  }
+}
