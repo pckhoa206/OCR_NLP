@@ -1,0 +1,937 @@
+{
+  "page_id": "0298",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 298,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1040,
+    "footnote_separator_y_original": 1155,
+    "effective_width": 1122,
+    "effective_height": 1040
+  },
+  "items": [
+    {
+      "line_id": "0298_viet_000",
+      "bbox": [
+        [
+          144,
+          8
+        ],
+        [
+          561,
+          8
+        ],
+        [
+          561,
+          36
+        ],
+        [
+          144,
+          36
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          123
+        ],
+        [
+          561,
+          123
+        ],
+        [
+          561,
+          151
+        ],
+        [
+          144,
+          151
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        8,
+        561,
+        36
+      ],
+      "text": "ĐỂ BỨC VỀ VỀ VƯ VUQUAN",
+      "confidence": 0.8325
+    },
+    {
+      "line_id": "0298_viet_001",
+      "bbox": [
+        [
+          141,
+          56
+        ],
+        [
+          541,
+          50
+        ],
+        [
+          541,
+          89
+        ],
+        [
+          142,
+          95
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          171
+        ],
+        [
+          541,
+          165
+        ],
+        [
+          541,
+          204
+        ],
+        [
+          142,
+          210
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        50,
+        541,
+        95
+      ],
+      "text": "(Điệu Nguyệt trung hành)",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0298_viet_002",
+      "bbox": [
+        [
+          139,
+          103
+        ],
+        [
+          677,
+          103
+        ],
+        [
+          677,
+          138
+        ],
+        [
+          139,
+          138
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          218
+        ],
+        [
+          677,
+          218
+        ],
+        [
+          677,
+          253
+        ],
+        [
+          139,
+          253
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        103,
+        677,
+        138
+      ],
+      "text": "Núi chỗ gần nối liền với núi phía xa,",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0298_viet_003",
+      "bbox": [
+        [
+          140,
+          156
+        ],
+        [
+          639,
+          156
+        ],
+        [
+          639,
+          187
+        ],
+        [
+          140,
+          187
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          271
+        ],
+        [
+          639,
+          271
+        ],
+        [
+          639,
+          302
+        ],
+        [
+          140,
+          302
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        156,
+        639,
+        187
+      ],
+      "text": "Núi lặng lẽ, nước không gợn sóng",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0298_viet_004",
+      "bbox": [
+        [
+          141,
+          204
+        ],
+        [
+          707,
+          202
+        ],
+        [
+          707,
+          233
+        ],
+        [
+          142,
+          236
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          319
+        ],
+        [
+          707,
+          317
+        ],
+        [
+          707,
+          348
+        ],
+        [
+          142,
+          351
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        202,
+        707,
+        236
+      ],
+      "text": "Tùng cao trăm thước dựa vào vách núi,",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0298_viet_005",
+      "bbox": [
+        [
+          143,
+          253
+        ],
+        [
+          621,
+          253
+        ],
+        [
+          621,
+          284
+        ],
+        [
+          143,
+          284
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          368
+        ],
+        [
+          621,
+          368
+        ],
+        [
+          621,
+          399
+        ],
+        [
+          143,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        253,
+        621,
+        284
+      ],
+      "text": "Gió đông ví như chăng lạnh lùng",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0298_viet_006",
+      "bbox": [
+        [
+          143,
+          351
+        ],
+        [
+          830,
+          349
+        ],
+        [
+          830,
+          381
+        ],
+        [
+          143,
+          382
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          466
+        ],
+        [
+          830,
+          464
+        ],
+        [
+          830,
+          496
+        ],
+        [
+          143,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        349,
+        830,
+        382
+      ],
+      "text": "Chùa nhàn, mặt trời đã lên cao mà sư chưa dậy,",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0298_viet_007",
+      "bbox": [
+        [
+          144,
+          400
+        ],
+        [
+          770,
+          400
+        ],
+        [
+          770,
+          432
+        ],
+        [
+          144,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          515
+        ],
+        [
+          770,
+          515
+        ],
+        [
+          770,
+          547
+        ],
+        [
+          144,
+          547
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        400,
+        770,
+        432
+      ],
+      "text": "Thuyền nhẹ, chèo khách lướt qua bãi trước. thuận",
+      "confidence": 0.8369
+    },
+    {
+      "line_id": "0298_viet_008",
+      "bbox": [
+        [
+          141,
+          448
+        ],
+        [
+          668,
+          447
+        ],
+        [
+          669,
+          483
+        ],
+        [
+          141,
+          484
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          563
+        ],
+        [
+          668,
+          562
+        ],
+        [
+          669,
+          598
+        ],
+        [
+          141,
+          599
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        447,
+        669,
+        484
+      ],
+      "text": "Khắp nơi nơi trên trời lẫn nhân gian",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0298_viet_009",
+      "bbox": [
+        [
+          141,
+          500
+        ],
+        [
+          537,
+          495
+        ],
+        [
+          538,
+          527
+        ],
+        [
+          142,
+          532
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          615
+        ],
+        [
+          537,
+          610
+        ],
+        [
+          538,
+          642
+        ],
+        [
+          142,
+          647
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        495,
+        538,
+        532
+      ],
+      "text": "Riêng chiếm một bầu nhàn",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0298_viet_010",
+      "bbox": [
+        [
+          141,
+          594
+        ],
+        [
+          713,
+          595
+        ],
+        [
+          713,
+          630
+        ],
+        [
+          141,
+          629
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          709
+        ],
+        [
+          713,
+          710
+        ],
+        [
+          713,
+          745
+        ],
+        [
+          141,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        594,
+        713,
+        630
+      ],
+      "text": "Một bầu cảnh sắc trong trẻo nhường ấy",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0298_viet_011",
+      "bbox": [
+        [
+          139,
+          644
+        ],
+        [
+          670,
+          645
+        ],
+        [
+          670,
+          680
+        ],
+        [
+          139,
+          679
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          759
+        ],
+        [
+          670,
+          760
+        ],
+        [
+          670,
+          795
+        ],
+        [
+          139,
+          794
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        644,
+        670,
+        680
+      ],
+      "text": "Nào có nơi nào giống được như vậy.",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0298_viet_012",
+      "bbox": [
+        [
+          139,
+          694
+        ],
+        [
+          622,
+          686
+        ],
+        [
+          623,
+          725
+        ],
+        [
+          140,
+          734
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          809
+        ],
+        [
+          622,
+          801
+        ],
+        [
+          623,
+          840
+        ],
+        [
+          140,
+          849
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        686,
+        623,
+        734
+      ],
+      "text": "Ngỡ là Bồng Lai và ngưu Chử",
+      "confidence": 0.8698
+    },
+    {
+      "line_id": "0298_viet_013",
+      "bbox": [
+        [
+          141,
+          745
+        ],
+        [
+          795,
+          739
+        ],
+        [
+          795,
+          774
+        ],
+        [
+          142,
+          780
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          860
+        ],
+        [
+          795,
+          854
+        ],
+        [
+          795,
+          889
+        ],
+        [
+          142,
+          895
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        739,
+        795,
+        780
+      ],
+      "text": "Tùng phía đông im lặng, cửa thiền khoá chặt",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0298_viet_014",
+      "bbox": [
+        [
+          143,
+          795
+        ],
+        [
+          625,
+          792
+        ],
+        [
+          625,
+          822
+        ],
+        [
+          143,
+          825
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          910
+        ],
+        [
+          625,
+          907
+        ],
+        [
+          625,
+          937
+        ],
+        [
+          143,
+          940
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        792,
+        625,
+        825
+      ],
+      "text": "Có người nói đó là chùa phi Lai",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0298_viet_015",
+      "bbox": [
+        [
+          601,
+          790
+        ],
+        [
+          614,
+          790
+        ],
+        [
+          614,
+          800
+        ],
+        [
+          601,
+          800
+        ]
+      ],
+      "bbox_original": [
+        [
+          601,
+          905
+        ],
+        [
+          614,
+          905
+        ],
+        [
+          614,
+          915
+        ],
+        [
+          601,
+          915
+        ]
+      ],
+      "box_xyxy": [
+        601,
+        790,
+        614,
+        800
+      ],
+      "text": "-4",
+      "confidence": 0.5195
+    },
+    {
+      "line_id": "0298_viet_016",
+      "bbox": [
+        [
+          141,
+          844
+        ],
+        [
+          492,
+          841
+        ],
+        [
+          492,
+          874
+        ],
+        [
+          142,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          959
+        ],
+        [
+          492,
+          956
+        ],
+        [
+          492,
+          989
+        ],
+        [
+          142,
+          991
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        841,
+        492,
+        876
+      ],
+      "text": "Dịch theo nguyên điệu:",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0298_viet_017",
+      "bbox": [
+        [
+          139,
+          886
+        ],
+        [
+          589,
+          888
+        ],
+        [
+          589,
+          931
+        ],
+        [
+          139,
+          929
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          1001
+        ],
+        [
+          589,
+          1003
+        ],
+        [
+          589,
+          1046
+        ],
+        [
+          139,
+          1044
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        886,
+        589,
+        931
+      ],
+      "text": "Liên tiếp gần xa mấy núi ngàn,",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0298_viet_018",
+      "bbox": [
+        [
+          140,
+          941
+        ],
+        [
+          520,
+          941
+        ],
+        [
+          520,
+          976
+        ],
+        [
+          140,
+          976
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          1056
+        ],
+        [
+          520,
+          1056
+        ],
+        [
+          520,
+          1091
+        ],
+        [
+          140,
+          1091
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        941,
+        520,
+        976
+      ],
+      "text": "Núi văng, sóng ngừng lan",
+      "confidence": 0.9001
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "ĐỂ BỨC VỀ VỀ VƯ VUQUAN",
+      "(Điệu Nguyệt trung hành)",
+      "Núi chỗ gần nối liền với núi phía xa,",
+      "Núi lặng lẽ, nước không gợn sóng",
+      "Tùng cao trăm thước dựa vào vách núi,",
+      "Gió đông ví như chăng lạnh lùng",
+      "Chùa nhàn, mặt trời đã lên cao mà sư chưa dậy,",
+      "Thuyền nhẹ, chèo khách lướt qua bãi trước. thuận",
+      "Khắp nơi nơi trên trời lẫn nhân gian",
+      "Riêng chiếm một bầu nhàn",
+      "Một bầu cảnh sắc trong trẻo nhường ấy",
+      "Nào có nơi nào giống được như vậy.",
+      "Ngỡ là Bồng Lai và ngưu Chử",
+      "Tùng phía đông im lặng, cửa thiền khoá chặt",
+      "-4",
+      "Có người nói đó là chùa phi Lai"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1254 @@
+{
+  "page_id": "0108",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 108,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0108_viet_000",
+      "bbox": [
+        [
+          196,
+          30
+        ],
+        [
+          250,
+          30
+        ],
+        [
+          250,
+          64
+        ],
+        [
+          196,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          151
+        ],
+        [
+          250,
+          151
+        ],
+        [
+          250,
+          185
+        ],
+        [
+          196,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        30,
+        250,
+        64
+      ],
+      "text": "102",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0108_viet_001",
+      "bbox": [
+        [
+          667,
+          30
+        ],
+        [
+          991,
+          34
+        ],
+        [
+          990,
+          62
+        ],
+        [
+          666,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          151
+        ],
+        [
+          991,
+          155
+        ],
+        [
+          990,
+          183
+        ],
+        [
+          666,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        30,
+        991,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9018
+    },
+    {
+      "line_id": "0108_viet_002",
+      "bbox": [
+        [
+          250,
+          127
+        ],
+        [
+          775,
+          132
+        ],
+        [
+          774,
+          178
+        ],
+        [
+          250,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          248
+        ],
+        [
+          775,
+          253
+        ],
+        [
+          774,
+          299
+        ],
+        [
+          250,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        127,
+        775,
+        178
+      ],
+      "text": "VỀ TH LIÊN HÀ",
+      "confidence": 0.517
+    },
+    {
+      "line_id": "0108_viet_003",
+      "bbox": [
+        [
+          226,
+          189
+        ],
+        [
+          802,
+          191
+        ],
+        [
+          801,
+          231
+        ],
+        [
+          226,
+          229
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          310
+        ],
+        [
+          802,
+          312
+        ],
+        [
+          801,
+          352
+        ],
+        [
+          226,
+          350
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        189,
+        802,
+        231
+      ],
+      "text": "Nam-xương cồ quận, Hồng-đô tân phủ",
+      "confidence": 0.8884
+    },
+    {
+      "line_id": "0108_viet_004",
+      "bbox": [
+        [
+          226,
+          243
+        ],
+        [
+          680,
+          248
+        ],
+        [
+          680,
+          288
+        ],
+        [
+          226,
+          283
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          364
+        ],
+        [
+          680,
+          369
+        ],
+        [
+          680,
+          409
+        ],
+        [
+          226,
+          404
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        243,
+        680,
+        288
+      ],
+      "text": "(Đây là) quận cũ nam-xương",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0108_viet_005",
+      "bbox": [
+        [
+          226,
+          293
+        ],
+        [
+          498,
+          293
+        ],
+        [
+          498,
+          328
+        ],
+        [
+          226,
+          328
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          414
+        ],
+        [
+          498,
+          414
+        ],
+        [
+          498,
+          449
+        ],
+        [
+          226,
+          449
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        293,
+        498,
+        328
+      ],
+      "text": "phủ mới hồng-đô",
+      "confidence": 0.9027
+    },
+    {
+      "line_id": "0108_viet_006",
+      "bbox": [
+        [
+          250,
+          368
+        ],
+        [
+          773,
+          368
+        ],
+        [
+          773,
+          407
+        ],
+        [
+          250,
+          407
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          489
+        ],
+        [
+          773,
+          489
+        ],
+        [
+          773,
+          528
+        ],
+        [
+          250,
+          528
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        368,
+        773,
+        407
+      ],
+      "text": "1744001001044",
+      "confidence": 0.2625
+    },
+    {
+      "line_id": "0108_viet_007",
+      "bbox": [
+        [
+          226,
+          429
+        ],
+        [
+          822,
+          429
+        ],
+        [
+          822,
+          462
+        ],
+        [
+          226,
+          462
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          550
+        ],
+        [
+          822,
+          550
+        ],
+        [
+          822,
+          583
+        ],
+        [
+          226,
+          583
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        429,
+        822,
+        462
+      ],
+      "text": "Tỉnh phân Dực Chân, đia tiệp Hành Lông",
+      "confidence": 0.8559
+    },
+    {
+      "line_id": "0108_viet_008",
+      "bbox": [
+        [
+          223,
+          480
+        ],
+        [
+          690,
+          480
+        ],
+        [
+          690,
+          514
+        ],
+        [
+          223,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          601
+        ],
+        [
+          690,
+          601
+        ],
+        [
+          690,
+          635
+        ],
+        [
+          223,
+          635
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        480,
+        690,
+        514
+      ],
+      "text": "Sao phân ngôi dực, ngôi chẩn:",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0108_viet_009",
+      "bbox": [
+        [
+          228,
+          527
+        ],
+        [
+          597,
+          527
+        ],
+        [
+          597,
+          556
+        ],
+        [
+          228,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          648
+        ],
+        [
+          597,
+          648
+        ],
+        [
+          597,
+          677
+        ],
+        [
+          228,
+          677
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        527,
+        597,
+        556
+      ],
+      "text": "đầt nồi núi hành, núi lô",
+      "confidence": 0.8719
+    },
+    {
+      "line_id": "0108_viet_010",
+      "bbox": [
+        [
+          248,
+          603
+        ],
+        [
+          709,
+          603
+        ],
+        [
+          709,
+          643
+        ],
+        [
+          248,
+          643
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          724
+        ],
+        [
+          709,
+          724
+        ],
+        [
+          709,
+          764
+        ],
+        [
+          248,
+          764
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        603,
+        709,
+        643
+      ],
+      "text": "16 E I Tỷ 1 Đ",
+      "confidence": 0.5252
+    },
+    {
+      "line_id": "0108_viet_011",
+      "bbox": [
+        [
+          228,
+          661
+        ],
+        [
+          724,
+          661
+        ],
+        [
+          724,
+          700
+        ],
+        [
+          228,
+          700
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          782
+        ],
+        [
+          724,
+          782
+        ],
+        [
+          724,
+          821
+        ],
+        [
+          228,
+          821
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        661,
+        724,
+        700
+      ],
+      "text": "Khâm tam giang nhi đới ngũ hô;",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0108_viet_012",
+      "bbox": [
+        [
+          224,
+          711
+        ],
+        [
+          901,
+          713
+        ],
+        [
+          901,
+          748
+        ],
+        [
+          224,
+          747
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          832
+        ],
+        [
+          901,
+          834
+        ],
+        [
+          901,
+          869
+        ],
+        [
+          224,
+          868
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        711,
+        901,
+        748
+      ],
+      "text": "Như cổ áo của ba sông, vòng đai của năm hồ;",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0108_viet_013",
+      "bbox": [
+        [
+          229,
+          850
+        ],
+        [
+          741,
+          850
+        ],
+        [
+          741,
+          884
+        ],
+        [
+          229,
+          884
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          971
+        ],
+        [
+          741,
+          971
+        ],
+        [
+          741,
+          1005
+        ],
+        [
+          229,
+          1005
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        850,
+        741,
+        884
+      ],
+      "text": "Không Man-Kinh, nhi dẫn Âu Việt",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0108_viet_014",
+      "bbox": [
+        [
+          223,
+          899
+        ],
+        [
+          982,
+          899
+        ],
+        [
+          982,
+          932
+        ],
+        [
+          223,
+          932
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1020
+        ],
+        [
+          982,
+          1020
+        ],
+        [
+          982,
+          1053
+        ],
+        [
+          223,
+          1053
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        899,
+        982,
+        932
+      ],
+      "text": "khuật phục đất man kinh, tiêp dẫn miền Âu Việt",
+      "confidence": 0.9017
+    },
+    {
+      "line_id": "0108_viet_015",
+      "bbox": [
+        [
+          248,
+          981
+        ],
+        [
+          985,
+          981
+        ],
+        [
+          985,
+          1019
+        ],
+        [
+          248,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1102
+        ],
+        [
+          985,
+          1102
+        ],
+        [
+          985,
+          1140
+        ],
+        [
+          248,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        981,
+        985,
+        1019
+      ],
+      "text": "H-R (R (xxxx4%772",
+      "confidence": 0.2649
+    },
+    {
+      "line_id": "0108_viet_016",
+      "bbox": [
+        [
+          226,
+          1038
+        ],
+        [
+          989,
+          1040
+        ],
+        [
+          989,
+          1080
+        ],
+        [
+          226,
+          1078
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1159
+        ],
+        [
+          989,
+          1161
+        ],
+        [
+          989,
+          1201
+        ],
+        [
+          226,
+          1199
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1038,
+        989,
+        1080
+      ],
+      "text": "Vật hoa thiên bảo, long quang xạ ngưu đầu chi khu.",
+      "confidence": 0.9212
+    },
+    {
+      "line_id": "0108_viet_017",
+      "bbox": [
+        [
+          226,
+          1090
+        ],
+        [
+          932,
+          1093
+        ],
+        [
+          931,
+          1127
+        ],
+        [
+          226,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1211
+        ],
+        [
+          932,
+          1214
+        ],
+        [
+          931,
+          1248
+        ],
+        [
+          226,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1090,
+        932,
+        1127
+      ],
+      "text": "Vẻ rực-rỡ của vật chính là đồ quí báu của trời;",
+      "confidence": 0.9146
+    },
+    {
+      "line_id": "0108_viet_018",
+      "bbox": [
+        [
+          223,
+          1137
+        ],
+        [
+          991,
+          1137
+        ],
+        [
+          991,
+          1175
+        ],
+        [
+          223,
+          1175
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1258
+        ],
+        [
+          991,
+          1258
+        ],
+        [
+          991,
+          1296
+        ],
+        [
+          223,
+          1296
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1137,
+        991,
+        1175
+      ],
+      "text": "ánh sáng vẫn rồng chiêu lên khu-vực sao Đầu sao",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0108_viet_019",
+      "bbox": [
+        [
+          194,
+          1183
+        ],
+        [
+          289,
+          1183
+        ],
+        [
+          289,
+          1220
+        ],
+        [
+          194,
+          1220
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1304
+        ],
+        [
+          289,
+          1304
+        ],
+        [
+          289,
+          1341
+        ],
+        [
+          194,
+          1341
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1183,
+        289,
+        1220
+      ],
+      "text": "Ngưu.",
+      "confidence": 0.8494
+    },
+    {
+      "line_id": "0108_viet_020",
+      "bbox": [
+        [
+          251,
+          1261
+        ],
+        [
+          985,
+          1257
+        ],
+        [
+          986,
+          1296
+        ],
+        [
+          252,
+          1299
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1382
+        ],
+        [
+          985,
+          1378
+        ],
+        [
+          986,
+          1417
+        ],
+        [
+          252,
+          1420
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1257,
+        986,
+        1299
+      ],
+      "text": "LÀ HÊM T KÉZ 1",
+      "confidence": 0.4443
+    },
+    {
+      "line_id": "0108_viet_021",
+      "bbox": [
+        [
+          226,
+          1317
+        ],
+        [
+          959,
+          1317
+        ],
+        [
+          959,
+          1356
+        ],
+        [
+          226,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1438
+        ],
+        [
+          959,
+          1438
+        ],
+        [
+          959,
+          1477
+        ],
+        [
+          226,
+          1477
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1317,
+        959,
+        1356
+      ],
+      "text": "Nhân kiệt địa linh, Từ-Trì hạ Trân-Phôn chi tháp",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0108_viet_022",
+      "bbox": [
+        [
+          224,
+          1369
+        ],
+        [
+          856,
+          1371
+        ],
+        [
+          855,
+          1406
+        ],
+        [
+          224,
+          1404
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1490
+        ],
+        [
+          856,
+          1492
+        ],
+        [
+          855,
+          1527
+        ],
+        [
+          224,
+          1525
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1369,
+        856,
+        1406
+      ],
+      "text": "Bậc hào-kiệt do khí linh-tú của đầt mà có;",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0108_viet_023",
+      "bbox": [
+        [
+          221,
+          1416
+        ],
+        [
+          957,
+          1414
+        ],
+        [
+          957,
+          1450
+        ],
+        [
+          221,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1537
+        ],
+        [
+          957,
+          1535
+        ],
+        [
+          957,
+          1571
+        ],
+        [
+          221,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1414,
+        957,
+        1451
+      ],
+      "text": "Cao-sĩ Từ-Trí hạ chiếc giường treo của Trần Phồn",
+      "confidence": 0.908
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "102",
+      "VỀ TH LIÊN HÀ",
+      "(Đây là) quận cũ nam-xương",
+      "1744001001044",
+      "Sao phân ngôi dực, ngôi chẩn:",
+      "16 E I Tỷ 1 Đ",
+      "Như cổ áo của ba sông, vòng đai của năm hồ;",
+      "khuật phục đất man kinh, tiêp dẫn miền Âu Việt",
+      "Vật hoa thiên bảo, long quang xạ ngưu đầu chi khu.",
+      "ánh sáng vẫn rồng chiêu lên khu-vực sao Đầu sao",
+      "LÀ HÊM T KÉZ 1",
+      "Bậc hào-kiệt do khí linh-tú của đầt mà có;"
+    ],
+    "dich_nghia_lines": [
+      "HÁN-VĂN TINH-TUY",
+      "Nam-xương cồ quận, Hồng-đô tân phủ",
+      "phủ mới hồng-đô",
+      "Tỉnh phân Dực Chân, đia tiệp Hành Lông",
+      "đầt nồi núi hành, núi lô",
+      "Khâm tam giang nhi đới ngũ hô;",
+      "Không Man-Kinh, nhi dẫn Âu Việt",
+      "H-R (R (xxxx4%772",
+      "Vẻ rực-rỡ của vật chính là đồ quí báu của trời;",
+      "Ngưu.",
+      "Nhân kiệt địa linh, Từ-Trì hạ Trân-Phôn chi tháp",
+      "Cao-sĩ Từ-Trí hạ chiếc giường treo của Trần Phồn"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "南京昌故郡京洪都新府",
+        "phien_am": "102",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "星分•翼軫地接衡虛",
+        "phien_am": "VỀ TH LIÊN HÀ",
+        "dich_nghia_gloss": "Nam-xương cồ quận, Hồng-đô tân phủ"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "襟",
+        "phien_am": "(Đây là) quận cũ nam-xương",
+        "dich_nghia_gloss": "phủ mới hồng-đô"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "三江",
+        "phien_am": "1744001001044",
+        "dich_nghia_gloss": "Tỉnh phân Dực Chân, đia tiệp Hành Lông"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "而",
+        "phien_am": "Sao phân ngôi dực, ngôi chẩn:",
+        "dich_nghia_gloss": "đầt nồi núi hành, núi lô"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "帶興五興湖",
+        "phien_am": "16 E I Tỷ 1 Đ",
+        "dich_nghia_gloss": "Khâm tam giang nhi đới ngũ hô;"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "控滙寶",
+        "phien_am": "Như cổ áo của ba sông, vòng đai của năm hồ;",
+        "dich_nghia_gloss": "Không Man-Kinh, nhi dẫn Âu Việt"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "荊",
+        "phien_am": "khuật phục đất man kinh, tiêp dẫn miền Âu Việt",
+        "dich_nghia_gloss": "H-R (R (xxxx4%772"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "而引甌越",
+        "phien_am": "Vật hoa thiên bảo, long quang xạ ngưu đầu chi khu.",
+        "dich_nghia_gloss": "Vẻ rực-rỡ của vật chính là đồ quí báu của trời;"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "物華天寶龍•光射牛羊之城",
+        "phien_am": "ánh sáng vẫn rồng chiêu lên khu-vực sao Đầu sao",
+        "dich_nghia_gloss": "Ngưu."
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "人件地靈徐稱下陳蕃之精",
+        "phien_am": "LÀ HÊM T KÉZ 1",
+        "dich_nghia_gloss": "Nhân kiệt địa linh, Từ-Trì hạ Trân-Phôn chi tháp"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "T元TrE",
+        "phien_am": "Bậc hào-kiệt do khí linh-tú của đầt mà có;",
+        "dich_nghia_gloss": "Cao-sĩ Từ-Trí hạ chiếc giường treo của Trần Phồn"
+      }
+    ]
+  }
+}

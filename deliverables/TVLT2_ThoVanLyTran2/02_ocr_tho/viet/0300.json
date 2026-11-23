@@ -1,0 +1,1564 @@
+{
+  "page_id": "0300",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 300,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0300_viet_000",
+      "bbox": [
+        [
+          184,
+          56
+        ],
+        [
+          1275,
+          60
+        ],
+        [
+          1275,
+          94
+        ],
+        [
+          184,
+          90
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          211
+        ],
+        [
+          1275,
+          215
+        ],
+        [
+          1275,
+          249
+        ],
+        [
+          184,
+          245
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        56,
+        1275,
+        94
+      ],
+      "text": "(11) Ba độc (tam độc): xem Cht. 4. bài Sam hồi ý căn tội, số 58, của Trăn Cảnh.",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0300_viet_001",
+      "bbox": [
+        [
+          182,
+          96
+        ],
+        [
+          1190,
+          99
+        ],
+        [
+          1190,
+          135
+        ],
+        [
+          181,
+          133
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          251
+        ],
+        [
+          1190,
+          254
+        ],
+        [
+          1190,
+          290
+        ],
+        [
+          181,
+          288
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        96,
+        1190,
+        135
+      ],
+      "text": "(12) Kiếp hủ sa (hà sa kiếp): thời gian dài vỏ hạn như số cát sông Hãng-hà:",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0300_viet_002",
+      "bbox": [
+        [
+          182,
+          137
+        ],
+        [
+          1240,
+          141
+        ],
+        [
+          1240,
+          178
+        ],
+        [
+          181,
+          173
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          292
+        ],
+        [
+          1240,
+          296
+        ],
+        [
+          1240,
+          333
+        ],
+        [
+          181,
+          328
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        137,
+        1240,
+        178
+      ],
+      "text": "(13) Bốn loài (tứ sinh): xem Cht. 2, bài Giới sát sinh văn, số 15, của Trần Cảnh",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0300_viet_003",
+      "bbox": [
+        [
+          179,
+          178
+        ],
+        [
+          1182,
+          180
+        ],
+        [
+          1182,
+          216
+        ],
+        [
+          179,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          333
+        ],
+        [
+          1182,
+          335
+        ],
+        [
+          1182,
+          371
+        ],
+        [
+          179,
+          369
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        178,
+        1182,
+        216
+      ],
+      "text": "(54) Tham, sàn, sĩ: xem Chít, 2, bài Sim hối ý căn tội, số 58 của Tràn Cảnh.",
+      "confidence": 0.8983
+    },
+    {
+      "line_id": "0300_viet_004",
+      "bbox": [
+        [
+          179,
+          216
+        ],
+        [
+          1413,
+          221
+        ],
+        [
+          1413,
+          259
+        ],
+        [
+          179,
+          255
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          371
+        ],
+        [
+          1413,
+          376
+        ],
+        [
+          1413,
+          414
+        ],
+        [
+          179,
+          410
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        216,
+        1413,
+        259
+      ],
+      "text": "(15) Tăng kỳ tức A-tũng-kỳ phiên âm tiếng Phạn asamkhya, dịch nghĩa là a vô số 1, số cực lờn.",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0300_viet_005",
+      "bbox": [
+        [
+          156,
+          257
+        ],
+        [
+          1182,
+          259
+        ],
+        [
+          1182,
+          298
+        ],
+        [
+          156,
+          296
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          412
+        ],
+        [
+          1182,
+          414
+        ],
+        [
+          1182,
+          453
+        ],
+        [
+          156,
+          451
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        257,
+        1182,
+        298
+      ],
+      "text": "(16) Chin loài (cửu loại): xem Cht. 5, bài Khải bạch, số 35, của Trân Cảnh.",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0300_viet_006",
+      "bbox": [
+        [
+          182,
+          298
+        ],
+        [
+          1406,
+          300
+        ],
+        [
+          1406,
+          338
+        ],
+        [
+          181,
+          336
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          453
+        ],
+        [
+          1406,
+          455
+        ],
+        [
+          1406,
+          493
+        ],
+        [
+          181,
+          491
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        298,
+        1406,
+        338
+      ],
+      "text": "(17) Vô minh: một tên khác của chữ a si s: - chỉ cái tâm si độn của chúng sinh; tức là",
+      "confidence": 0.8883
+    },
+    {
+      "line_id": "0300_viet_007",
+      "bbox": [
+        [
+          240,
+          332
+        ],
+        [
+          1378,
+          336
+        ],
+        [
+          1378,
+          373
+        ],
+        [
+          240,
+          368
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          487
+        ],
+        [
+          1378,
+          491
+        ],
+        [
+          1378,
+          528
+        ],
+        [
+          240,
+          523
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        332,
+        1378,
+        373
+      ],
+      "text": "sự không sáng suốt, và do không sáng suốt nên phải gánh chịu tất cả mọi phiên não.",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0300_viet_008",
+      "bbox": [
+        [
+          186,
+          377
+        ],
+        [
+          1082,
+          377
+        ],
+        [
+          1082,
+          407
+        ],
+        [
+          186,
+          407
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          532
+        ],
+        [
+          1082,
+          532
+        ],
+        [
+          1082,
+          562
+        ],
+        [
+          186,
+          562
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        377,
+        1082,
+        407
+      ],
+      "text": "(18) Tử đại: xem Cht, 2, bài Phồ thuyết tử sơn, số 5, của Tràn Cảnh Tháng Người",
+      "confidence": 0.8278
+    },
+    {
+      "line_id": "0300_viet_009",
+      "bbox": [
+        [
+          186,
+          418
+        ],
+        [
+          1138,
+          418
+        ],
+        [
+          1138,
+          448
+        ],
+        [
+          186,
+          448
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          573
+        ],
+        [
+          1138,
+          573
+        ],
+        [
+          1138,
+          603
+        ],
+        [
+          186,
+          603
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        418,
+        1138,
+        448
+      ],
+      "text": "\"Thế (19) Sức thán: xem Cht. 1, bài Phò thuyết sắc thân, số 6, của Trần Cảnh Thánh\"",
+      "confidence": 0.8292
+    },
+    {
+      "line_id": "0300_viet_010",
+      "bbox": [
+        [
+          182,
+          452
+        ],
+        [
+          1214,
+          456
+        ],
+        [
+          1214,
+          493
+        ],
+        [
+          181,
+          488
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          607
+        ],
+        [
+          1214,
+          611
+        ],
+        [
+          1214,
+          648
+        ],
+        [
+          181,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        452,
+        1214,
+        493
+      ],
+      "text": "(20) Hữu lậu: xem Cht. 7. bài Tặng Thuần Nhũi Pháp sư, số 95, cùng tác giả.",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0300_viet_011",
+      "bbox": [
+        [
+          184,
+          493
+        ],
+        [
+          1411,
+          497
+        ],
+        [
+          1411,
+          533
+        ],
+        [
+          184,
+          529
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          648
+        ],
+        [
+          1411,
+          652
+        ],
+        [
+          1411,
+          688
+        ],
+        [
+          184,
+          684
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        493,
+        1411,
+        533
+      ],
+      "text": "(21) Tam muội chản như (chân như tam inuội): phép tu-đại định chân như nhằm giác ngê",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0300_viet_012",
+      "bbox": [
+        [
+          182,
+          568
+        ],
+        [
+          1130,
+          570
+        ],
+        [
+          1130,
+          606
+        ],
+        [
+          181,
+          604
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          723
+        ],
+        [
+          1130,
+          725
+        ],
+        [
+          1130,
+          761
+        ],
+        [
+          181,
+          759
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        568,
+        1130,
+        606
+      ],
+      "text": "(22) Nhị kiến: xem Chí, 2, bài Phảm thánh bất dị, số 106, cùng tác giả",
+      "confidence": 0.9051
+    },
+    {
+      "line_id": "0300_viet_013",
+      "bbox": [
+        [
+          186,
+          608
+        ],
+        [
+          1411,
+          610
+        ],
+        [
+          1411,
+          647
+        ],
+        [
+          186,
+          645
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          763
+        ],
+        [
+          1411,
+          765
+        ],
+        [
+          1411,
+          802
+        ],
+        [
+          186,
+          800
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        608,
+        1411,
+        647
+      ],
+      "text": "(23) Tịch diệt nhất như: thoát ly được mọi hình tương của thế giới hiện hữu mà đạt tới",
+      "confidence": 0.9104
+    },
+    {
+      "line_id": "0300_viet_014",
+      "bbox": [
+        [
+          245,
+          640
+        ],
+        [
+          545,
+          647
+        ],
+        [
+          544,
+          677
+        ],
+        [
+          244,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          795
+        ],
+        [
+          545,
+          802
+        ],
+        [
+          544,
+          832
+        ],
+        [
+          244,
+          825
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        640,
+        545,
+        677
+      ],
+      "text": "cái bản thể của vũ trụ.",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0300_viet_015",
+      "bbox": [
+        [
+          186,
+          685
+        ],
+        [
+          1192,
+          685
+        ],
+        [
+          1192,
+          715
+        ],
+        [
+          186,
+          715
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          840
+        ],
+        [
+          1192,
+          840
+        ],
+        [
+          1192,
+          870
+        ],
+        [
+          186,
+          870
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        685,
+        1192,
+        715
+      ],
+      "text": "(24) Bờ kia (bỉ ngan): xem Cht.6, bài Thu giới Iuấn, số 10, của Trần Cảnh.",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0300_viet_016",
+      "bbox": [
+        [
+          186,
+          726
+        ],
+        [
+          1352,
+          726
+        ],
+        [
+          1352,
+          756
+        ],
+        [
+          186,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          881
+        ],
+        [
+          1352,
+          881
+        ],
+        [
+          1352,
+          911
+        ],
+        [
+          186,
+          911
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        726,
+        1352,
+        756
+      ],
+      "text": "(25) Chân như:: xem Cht.25, bài Phồ thuyết hưởng thượng nhất lộ, số 8, của Trần Cảnh Anh Thường",
+      "confidence": 0.8676
+    },
+    {
+      "line_id": "0300_viet_017",
+      "bbox": [
+        [
+          186,
+          767
+        ],
+        [
+          1324,
+          767
+        ],
+        [
+          1324,
+          797
+        ],
+        [
+          186,
+          797
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          922
+        ],
+        [
+          1324,
+          922
+        ],
+        [
+          1324,
+          952
+        ],
+        [
+          186,
+          952
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        767,
+        1324,
+        797
+      ],
+      "text": "(26) Vọng niệm: xem Cht.22, bài Kim cương tam muội kinh tự, số 4, của Tràn Cảnh,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0300_viet_018",
+      "bbox": [
+        [
+          182,
+          801
+        ],
+        [
+          1205,
+          803
+        ],
+        [
+          1205,
+          840
+        ],
+        [
+          181,
+          837
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          956
+        ],
+        [
+          1205,
+          958
+        ],
+        [
+          1205,
+          995
+        ],
+        [
+          181,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        801,
+        1205,
+        840
+      ],
+      "text": "(27) Phiên não: xem Cht.3, bài Chi tảm phát nguyên, số 42, của Trần Cảnh.",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0300_viet_019",
+      "bbox": [
+        [
+          184,
+          846
+        ],
+        [
+          1409,
+          846
+        ],
+        [
+          1409,
+          876
+        ],
+        [
+          184,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1001
+        ],
+        [
+          1409,
+          1001
+        ],
+        [
+          1409,
+          1031
+        ],
+        [
+          184,
+          1031
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        846,
+        1409,
+        876
+      ],
+      "text": "(28) Niết-bàn: nguyễn văn là nè-hoàn: một cách phiên âm \" khác của thuật ngữ Nirvàna, xem thuận thế năm 1996",
+      "confidence": 0.8158
+    },
+    {
+      "line_id": "0300_viet_020",
+      "bbox": [
+        [
+          242,
+          880
+        ],
+        [
+          1063,
+          880
+        ],
+        [
+          1063,
+          910
+        ],
+        [
+          242,
+          910
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1035
+        ],
+        [
+          1063,
+          1035
+        ],
+        [
+          1063,
+          1065
+        ],
+        [
+          242,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        880,
+        1063,
+        910
+      ],
+      "text": "Clit.6, bài Kim cương tam muội kinh tịc, số 4, của Trần Cành.",
+      "confidence": 0.8881
+    },
+    {
+      "line_id": "0300_viet_021",
+      "bbox": [
+        [
+          181,
+          917
+        ],
+        [
+          1350,
+          917
+        ],
+        [
+          1350,
+          953
+        ],
+        [
+          181,
+          953
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1072
+        ],
+        [
+          1350,
+          1072
+        ],
+        [
+          1350,
+          1108
+        ],
+        [
+          181,
+          1108
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        917,
+        1350,
+        953
+      ],
+      "text": "(20) Vô thường nhanh chóng: xem Cht.36, bài Phồ thuyết tử sơn, số 5, của Trần Cảnh.",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0300_viet_022",
+      "bbox": [
+        [
+          184,
+          959
+        ],
+        [
+          1268,
+          959
+        ],
+        [
+          1268,
+          989
+        ],
+        [
+          184,
+          989
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1114
+        ],
+        [
+          1268,
+          1114
+        ],
+        [
+          1268,
+          1144
+        ],
+        [
+          184,
+          1144
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        959,
+        1268,
+        989
+      ],
+      "text": "(30) Sáu giạc (lue tặc): xem Cht.6 bài Phò thuyết sắc thân, số 6, của Trăn Cảnh. Thuận Nhà Nhau",
+      "confidence": 0.7954
+    },
+    {
+      "line_id": "0300_viet_023",
+      "bbox": [
+        [
+          184,
+          1000
+        ],
+        [
+          1409,
+          1000
+        ],
+        [
+          1409,
+          1030
+        ],
+        [
+          184,
+          1030
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1155
+        ],
+        [
+          1409,
+          1155
+        ],
+        [
+          1409,
+          1185
+        ],
+        [
+          184,
+          1185
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1000,
+        1409,
+        1030
+      ],
+      "text": "(31) Liễa tam muội (tam muội hóa): ngọn lửa do sự nhập định mà phát ra.Xem thêm Chĩ.38, thế trường thức",
+      "confidence": 0.804
+    },
+    {
+      "line_id": "0300_viet_024",
+      "bbox": [
+        [
+          242,
+          1034
+        ],
+        [
+          791,
+          1034
+        ],
+        [
+          791,
+          1064
+        ],
+        [
+          242,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1189
+        ],
+        [
+          791,
+          1189
+        ],
+        [
+          791,
+          1219
+        ],
+        [
+          242,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1034,
+        791,
+        1064
+      ],
+      "text": "hài niêm tung kệ, số 21, của Trần Cảnh",
+      "confidence": 0.8755
+    },
+    {
+      "line_id": "0300_viet_025",
+      "bbox": [
+        [
+          579,
+          1238
+        ],
+        [
+          1005,
+          1238
+        ],
+        [
+          1005,
+          1274
+        ],
+        [
+          579,
+          1274
+        ]
+      ],
+      "bbox_original": [
+        [
+          579,
+          1393
+        ],
+        [
+          1005,
+          1393
+        ],
+        [
+          1005,
+          1429
+        ],
+        [
+          579,
+          1429
+        ]
+      ],
+      "box_xyxy": [
+        579,
+        1238,
+        1005,
+        1274
+      ],
+      "text": "THƯƠNG SĨ NGỮ LỤC",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0300_viet_026",
+      "bbox": [
+        [
+          756,
+          1411
+        ],
+        [
+          836,
+          1411
+        ],
+        [
+          836,
+          1463
+        ],
+        [
+          756,
+          1463
+        ]
+      ],
+      "bbox_original": [
+        [
+          756,
+          1566
+        ],
+        [
+          836,
+          1566
+        ],
+        [
+          836,
+          1618
+        ],
+        [
+          756,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        756,
+        1411,
+        836,
+        1463
+      ],
+      "text": "111",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0300_viet_027",
+      "bbox": [
+        [
+          691,
+          1479
+        ],
+        [
+          910,
+          1487
+        ],
+        [
+          907,
+          1564
+        ],
+        [
+          688,
+          1556
+        ]
+      ],
+      "bbox_original": [
+        [
+          691,
+          1634
+        ],
+        [
+          910,
+          1642
+        ],
+        [
+          907,
+          1719
+        ],
+        [
+          688,
+          1711
+        ]
+      ],
+      "box_xyxy": [
+        688,
+        1479,
+        910,
+        1564
+      ],
+      "text": "Kết Hế",
+      "confidence": 0.5541
+    },
+    {
+      "line_id": "0300_viet_028",
+      "bbox": [
+        [
+          374,
+          1627
+        ],
+        [
+          910,
+          1634
+        ],
+        [
+          909,
+          1677
+        ],
+        [
+          374,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          374,
+          1782
+        ],
+        [
+          910,
+          1789
+        ],
+        [
+          909,
+          1832
+        ],
+        [
+          374,
+          1825
+        ]
+      ],
+      "box_xyxy": [
+        374,
+        1627,
+        910,
+        1677
+      ],
+      "text": "BẮT K PHÍ THỊ E",
+      "confidence": 0.5193
+    },
+    {
+      "line_id": "0300_viet_029",
+      "bbox": [
+        [
+          353,
+          1687
+        ],
+        [
+          584,
+          1692
+        ],
+        [
+          583,
+          1737
+        ],
+        [
+          352,
+          1732
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          1842
+        ],
+        [
+          584,
+          1847
+        ],
+        [
+          583,
+          1892
+        ],
+        [
+          352,
+          1887
+        ]
+      ],
+      "box_xyxy": [
+        352,
+        1687,
+        584,
+        1737
+      ],
+      "text": "HỆ TẾ TỶ",
+      "confidence": 0.6424
+    },
+    {
+      "line_id": "0300_viet_030",
+      "bbox": [
+        [
+          350,
+          1746
+        ],
+        [
+          1398,
+          1739
+        ],
+        [
+          1398,
+          1788
+        ],
+        [
+          350,
+          1795
+        ]
+      ],
+      "bbox_original": [
+        [
+          350,
+          1901
+        ],
+        [
+          1398,
+          1894
+        ],
+        [
+          1398,
+          1943
+        ],
+        [
+          350,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        350,
+        1739,
+        1398,
+        1795
+      ],
+      "text": "12 To444 F Ko Mặt VE.X2017.4",
+      "confidence": 0.5141
+    },
+    {
+      "line_id": "0300_viet_031",
+      "bbox": [
+        [
+          244,
+          1814
+        ],
+        [
+          633,
+          1816
+        ],
+        [
+          633,
+          1855
+        ],
+        [
+          244,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1969
+        ],
+        [
+          633,
+          1971
+        ],
+        [
+          633,
+          2010
+        ],
+        [
+          244,
+          2007
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1814,
+        633,
+        1855
+      ],
+      "text": "12 7.72/7 F",
+      "confidence": 0.5067
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(11) Ba độc (tam độc): xem Cht. 4. bài Sam hồi ý căn tội, số 58, của Trăn Cảnh.",
+      "(12) Kiếp hủ sa (hà sa kiếp): thời gian dài vỏ hạn như số cát sông Hãng-hà:",
+      "(13) Bốn loài (tứ sinh): xem Cht. 2, bài Giới sát sinh văn, số 15, của Trần Cảnh",
+      "(54) Tham, sàn, sĩ: xem Chít, 2, bài Sim hối ý căn tội, số 58 của Tràn Cảnh.",
+      "(15) Tăng kỳ tức A-tũng-kỳ phiên âm tiếng Phạn asamkhya, dịch nghĩa là a vô số 1, số cực lờn.",
+      "(16) Chin loài (cửu loại): xem Cht. 5, bài Khải bạch, số 35, của Trân Cảnh.",
+      "(17) Vô minh: một tên khác của chữ a si s: - chỉ cái tâm si độn của chúng sinh; tức là",
+      "sự không sáng suốt, và do không sáng suốt nên phải gánh chịu tất cả mọi phiên não.",
+      "(18) Tử đại: xem Cht, 2, bài Phồ thuyết tử sơn, số 5, của Tràn Cảnh Tháng Người",
+      "\"Thế (19) Sức thán: xem Cht. 1, bài Phò thuyết sắc thân, số 6, của Trần Cảnh Thánh\"",
+      "(20) Hữu lậu: xem Cht. 7. bài Tặng Thuần Nhũi Pháp sư, số 95, cùng tác giả.",
+      "(21) Tam muội chản như (chân như tam inuội): phép tu-đại định chân như nhằm giác ngê",
+      "(22) Nhị kiến: xem Chí, 2, bài Phảm thánh bất dị, số 106, cùng tác giả",
+      "(23) Tịch diệt nhất như: thoát ly được mọi hình tương của thế giới hiện hữu mà đạt tới",
+      "cái bản thể của vũ trụ.",
+      "(24) Bờ kia (bỉ ngan): xem Cht.6, bài Thu giới Iuấn, số 10, của Trần Cảnh.",
+      "(25) Chân như:: xem Cht.25, bài Phồ thuyết hưởng thượng nhất lộ, số 8, của Trần Cảnh Anh Thường",
+      "(26) Vọng niệm: xem Cht.22, bài Kim cương tam muội kinh tự, số 4, của Tràn Cảnh,",
+      "(27) Phiên não: xem Cht.3, bài Chi tảm phát nguyên, số 42, của Trần Cảnh.",
+      "(28) Niết-bàn: nguyễn văn là nè-hoàn: một cách phiên âm \" khác của thuật ngữ Nirvàna, xem thuận thế năm 1996",
+      "Clit.6, bài Kim cương tam muội kinh tịc, số 4, của Trần Cành.",
+      "(20) Vô thường nhanh chóng: xem Cht.36, bài Phồ thuyết tử sơn, số 5, của Trần Cảnh.",
+      "(30) Sáu giạc (lue tặc): xem Cht.6 bài Phò thuyết sắc thân, số 6, của Trăn Cảnh. Thuận Nhà Nhau",
+      "(31) Liễa tam muội (tam muội hóa): ngọn lửa do sự nhập định mà phát ra.Xem thêm Chĩ.38, thế trường thức",
+      "hài niêm tung kệ, số 21, của Trần Cảnh",
+      "THƯƠNG SĨ NGỮ LỤC",
+      "111",
+      "Kết Hế",
+      "BẮT K PHÍ THỊ E",
+      "HỆ TẾ TỶ",
+      "12 To444 F Ko Mặt VE.X2017.4",
+      "12 7.72/7 F"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

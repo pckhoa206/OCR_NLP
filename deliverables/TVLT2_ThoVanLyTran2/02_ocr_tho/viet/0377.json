@@ -1,0 +1,1371 @@
+{
+  "page_id": "0377",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 377,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0377_viet_000",
+      "bbox": [
+        [
+          183,
+          88
+        ],
+        [
+          345,
+          83
+        ],
+        [
+          346,
+          120
+        ],
+        [
+          184,
+          125
+        ]
+      ],
+      "bbox_original": [
+        [
+          183,
+          243
+        ],
+        [
+          345,
+          238
+        ],
+        [
+          346,
+          275
+        ],
+        [
+          184,
+          280
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        83,
+        346,
+        125
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9364
+    },
+    {
+      "line_id": "0377_viet_001",
+      "bbox": [
+        [
+          644,
+          139
+        ],
+        [
+          955,
+          141
+        ],
+        [
+          955,
+          180
+        ],
+        [
+          644,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          644,
+          294
+        ],
+        [
+          955,
+          296
+        ],
+        [
+          955,
+          335
+        ],
+        [
+          644,
+          333
+        ]
+      ],
+      "box_xyxy": [
+        644,
+        139,
+        955,
+        180
+      ],
+      "text": "NHỊ KỲ BẢN LUẬN",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0377_viet_002",
+      "bbox": [
+        [
+          275,
+          212
+        ],
+        [
+          1407,
+          225
+        ],
+        [
+          1406,
+          268
+        ],
+        [
+          274,
+          255
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          367
+        ],
+        [
+          1407,
+          380
+        ],
+        [
+          1406,
+          423
+        ],
+        [
+          274,
+          410
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        212,
+        1407,
+        268
+      ],
+      "text": "Thần Tông di tông thất chi tử, Nhân Tông dục vi tử, sử kế đại thống",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0377_viet_003",
+      "bbox": [
+        [
+          173,
+          259
+        ],
+        [
+          1411,
+          263
+        ],
+        [
+          1411,
+          306
+        ],
+        [
+          173,
+          302
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          414
+        ],
+        [
+          1411,
+          418
+        ],
+        [
+          1411,
+          461
+        ],
+        [
+          173,
+          457
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        259,
+        1411,
+        306
+      ],
+      "text": "nghĩa đương di Nhân Tông vi phụ nhi xưng sở sinh phụ Sùng hiền hầu vi",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0377_viet_004",
+      "bbox": [
+        [
+          177,
+          298
+        ],
+        [
+          1409,
+          311
+        ],
+        [
+          1408,
+          354
+        ],
+        [
+          177,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          453
+        ],
+        [
+          1409,
+          466
+        ],
+        [
+          1408,
+          509
+        ],
+        [
+          177,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        298,
+        1409,
+        354
+      ],
+      "text": "hoàng thúc, phong sinh mẫu Đỗ thị vi Vương phu nhân như Tổng Hiếu Tông",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0377_viet_005",
+      "bbox": [
+        [
+          180,
+          343
+        ],
+        [
+          1404,
+          353
+        ],
+        [
+          1404,
+          394
+        ],
+        [
+          179,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          498
+        ],
+        [
+          1404,
+          508
+        ],
+        [
+          1404,
+          549
+        ],
+        [
+          179,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        343,
+        1404,
+        394
+      ],
+      "text": "chỉ ư Tú An Hì Vương cập phu nhân Trương thị, dĩ nhất kỳ bản, khả dã. Kim",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0377_viet_006",
+      "bbox": [
+        [
+          177,
+          383
+        ],
+        [
+          1407,
+          394
+        ],
+        [
+          1406,
+          437
+        ],
+        [
+          177,
+          426
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          538
+        ],
+        [
+          1407,
+          549
+        ],
+        [
+          1406,
+          592
+        ],
+        [
+          177,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        383,
+        1407,
+        437
+      ],
+      "text": "nãi phong Sùng biền hầu vi Thái thượng, hoàng, Đỗ thị vi Hoàng thái hậu,",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0377_viet_007",
+      "bbox": [
+        [
+          169,
+          428
+        ],
+        [
+          542,
+          433
+        ],
+        [
+          542,
+          469
+        ],
+        [
+          168,
+          465
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          583
+        ],
+        [
+          542,
+          588
+        ],
+        [
+          542,
+          624
+        ],
+        [
+          168,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        428,
+        542,
+        469
+      ],
+      "text": "vô nãi nhị kỳ bản hồ 7",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0377_viet_008",
+      "bbox": [
+        [
+          272,
+          482
+        ],
+        [
+          1404,
+          493
+        ],
+        [
+          1404,
+          536
+        ],
+        [
+          272,
+          525
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          637
+        ],
+        [
+          1404,
+          648
+        ],
+        [
+          1404,
+          691
+        ],
+        [
+          272,
+          680
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        482,
+        1404,
+        536
+      ],
+      "text": "Cái Thần Tông thời phương ấu sung, nhí tại triều công khanh như Lê Bá",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0377_viet_009",
+      "bbox": [
+        [
+          171,
+          527
+        ],
+        [
+          851,
+          529
+        ],
+        [
+          851,
+          568
+        ],
+        [
+          171,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          682
+        ],
+        [
+          851,
+          684
+        ],
+        [
+          851,
+          723
+        ],
+        [
+          171,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        527,
+        851,
+        568
+      ],
+      "text": "Ngọc, Màu Du Đô hựu vỏ tri lễ giả, có dã.",
+      "confidence": 0.8984
+    },
+    {
+      "line_id": "0377_viet_010",
+      "bbox": [
+        [
+          549,
+          580
+        ],
+        [
+          579,
+          580
+        ],
+        [
+          579,
+          598
+        ],
+        [
+          549,
+          598
+        ]
+      ],
+      "bbox_original": [
+        [
+          549,
+          735
+        ],
+        [
+          579,
+          735
+        ],
+        [
+          579,
+          753
+        ],
+        [
+          549,
+          753
+        ]
+      ],
+      "box_xyxy": [
+        549,
+        580,
+        579,
+        598
+      ],
+      "text": "11",
+      "confidence": 0.1705
+    },
+    {
+      "line_id": "0377_viet_011",
+      "bbox": [
+        [
+          173,
+          634
+        ],
+        [
+          388,
+          629
+        ],
+        [
+          389,
+          664
+        ],
+        [
+          173,
+          668
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          789
+        ],
+        [
+          388,
+          784
+        ],
+        [
+          389,
+          819
+        ],
+        [
+          173,
+          823
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        629,
+        389,
+        668
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0377_viet_012",
+      "bbox": [
+        [
+          378,
+          681
+        ],
+        [
+          1225,
+          694
+        ],
+        [
+          1224,
+          737
+        ],
+        [
+          378,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          378,
+          836
+        ],
+        [
+          1225,
+          849
+        ],
+        [
+          1224,
+          892
+        ],
+        [
+          378,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        378,
+        681,
+        1225,
+        737
+      ],
+      "text": "BÀN VỀ VIỆC TỰ COI MÌNH LÀ MỘT DÒNG KHÁC (U)",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0377_viet_013",
+      "bbox": [
+        [
+          281,
+          762
+        ],
+        [
+          1407,
+          778
+        ],
+        [
+          1406,
+          814
+        ],
+        [
+          281,
+          799
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          917
+        ],
+        [
+          1407,
+          933
+        ],
+        [
+          1406,
+          969
+        ],
+        [
+          281,
+          954
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        762,
+        1407,
+        814
+      ],
+      "text": "Thần Tông là con một người trọng tòng thất, Nhân Tông nuôi làm con",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0377_viet_014",
+      "bbox": [
+        [
+          182,
+          807
+        ],
+        [
+          1409,
+          818
+        ],
+        [
+          1408,
+          855
+        ],
+        [
+          181,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          962
+        ],
+        [
+          1409,
+          973
+        ],
+        [
+          1408,
+          1010
+        ],
+        [
+          181,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        807,
+        1409,
+        855
+      ],
+      "text": "lại cho nổi nghiệp lớn, Đáng lẽ phải tòn Nhân Tông làm cha, mà gọi cha đẻ",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0377_viet_015",
+      "bbox": [
+        [
+          177,
+          848
+        ],
+        [
+          1411,
+          861
+        ],
+        [
+          1410,
+          902
+        ],
+        [
+          177,
+          889
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1003
+        ],
+        [
+          1411,
+          1016
+        ],
+        [
+          1410,
+          1057
+        ],
+        [
+          177,
+          1044
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        848,
+        1411,
+        902
+      ],
+      "text": "Sung hiền hầu là: hoàng thúc, phong mẹ đẻ Đỗ, thị là Vương phu nhân, như",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0377_viet_016",
+      "bbox": [
+        [
+          177,
+          889
+        ],
+        [
+          1409,
+          902
+        ],
+        [
+          1408,
+          945
+        ],
+        [
+          177,
+          931
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1044
+        ],
+        [
+          1409,
+          1057
+        ],
+        [
+          1408,
+          1100
+        ],
+        [
+          177,
+          1086
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        889,
+        1409,
+        945
+      ],
+      "text": "Tổng Hiếu Tông đối với Hi Vương Tú An và phu nhân họ Trương, đề thống",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0377_viet_017",
+      "bbox": [
+        [
+          177,
+          934
+        ],
+        [
+          1402,
+          949
+        ],
+        [
+          1402,
+          985
+        ],
+        [
+          177,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1089
+        ],
+        [
+          1402,
+          1104
+        ],
+        [
+          1402,
+          1140
+        ],
+        [
+          177,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        934,
+        1402,
+        985
+      ],
+      "text": "nhất một gốc mới phải, Nay lại tôn Sùng hiền. hầu làm Thái thượng hoàng",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0377_viet_018",
+      "bbox": [
+        [
+          175,
+          976
+        ],
+        [
+          1206,
+          990
+        ],
+        [
+          1205,
+          1026
+        ],
+        [
+          175,
+          1013
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1131
+        ],
+        [
+          1206,
+          1145
+        ],
+        [
+          1205,
+          1181
+        ],
+        [
+          175,
+          1168
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        976,
+        1206,
+        1026
+      ],
+      "text": "Đỗ thị làm Hoàng thái hậu, nhự thế chẳng hóa ra là hai gốc ư ?",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0377_viet_019",
+      "bbox": [
+        [
+          266,
+          1030
+        ],
+        [
+          1404,
+          1043
+        ],
+        [
+          1404,
+          1080
+        ],
+        [
+          266,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1185
+        ],
+        [
+          1404,
+          1198
+        ],
+        [
+          1404,
+          1235
+        ],
+        [
+          266,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        1030,
+        1404,
+        1080
+      ],
+      "text": "Bởi vì Thần Tông còn trẻ thơ mà các công khanh trong triều như Lẻ",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0377_viet_020",
+      "bbox": [
+        [
+          162,
+          1075
+        ],
+        [
+          1085,
+          1082
+        ],
+        [
+          1084,
+          1120
+        ],
+        [
+          162,
+          1114
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1230
+        ],
+        [
+          1085,
+          1237
+        ],
+        [
+          1084,
+          1275
+        ],
+        [
+          162,
+          1269
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1075,
+        1085,
+        1120
+      ],
+      "text": "Bá Ngọc. Màu Du Đô (3) cũng không biết lễ nên mới thế",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0377_viet_021",
+      "bbox": [
+        [
+          910,
+          1141
+        ],
+        [
+          1372,
+          1144
+        ],
+        [
+          1372,
+          1180
+        ],
+        [
+          909,
+          1178
+        ]
+      ],
+      "bbox_original": [
+        [
+          910,
+          1296
+        ],
+        [
+          1372,
+          1299
+        ],
+        [
+          1372,
+          1335
+        ],
+        [
+          909,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        909,
+        1141,
+        1372,
+        1180
+      ],
+      "text": "CAO HUY GIU ? BẰNG THANH",
+      "confidence": 0.9027
+    },
+    {
+      "line_id": "0377_viet_022",
+      "bbox": [
+        [
+          173,
+          1229
+        ],
+        [
+          354,
+          1229
+        ],
+        [
+          354,
+          1266
+        ],
+        [
+          173,
+          1266
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1384
+        ],
+        [
+          354,
+          1384
+        ],
+        [
+          354,
+          1421
+        ],
+        [
+          173,
+          1421
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1229,
+        354,
+        1266
+      ],
+      "text": "CHỨ THÍCH",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0377_viet_023",
+      "bbox": [
+        [
+          637,
+          1276
+        ],
+        [
+          946,
+          1279
+        ],
+        [
+          946,
+          1309
+        ],
+        [
+          637,
+          1306
+        ]
+      ],
+      "bbox_original": [
+        [
+          637,
+          1431
+        ],
+        [
+          946,
+          1434
+        ],
+        [
+          946,
+          1464
+        ],
+        [
+          637,
+          1461
+        ]
+      ],
+      "box_xyxy": [
+        637,
+        1276,
+        946,
+        1309
+      ],
+      "text": "XUẤT XỨ: DVSKTT",
+      "confidence": 0.879
+    },
+    {
+      "line_id": "0377_viet_024",
+      "bbox": [
+        [
+          169,
+          1332
+        ],
+        [
+          1398,
+          1343
+        ],
+        [
+          1398,
+          1377
+        ],
+        [
+          168,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1487
+        ],
+        [
+          1398,
+          1498
+        ],
+        [
+          1398,
+          1532
+        ],
+        [
+          168,
+          1521
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1332,
+        1398,
+        1377
+      ],
+      "text": "(i) Đầu kề do chúng tôi thêm, Theo, ĐVSKTT, sau khi lên ngôi, tháng Giêng năm Kỷ dậu",
+      "confidence": 0.9006
+    },
+    {
+      "line_id": "0377_viet_025",
+      "bbox": [
+        [
+          233,
+          1371
+        ],
+        [
+          1283,
+          1377
+        ],
+        [
+          1283,
+          1414
+        ],
+        [
+          233,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1526
+        ],
+        [
+          1283,
+          1532
+        ],
+        [
+          1283,
+          1569
+        ],
+        [
+          233,
+          1562
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1371,
+        1283,
+        1414
+      ],
+      "text": "(1129), Thần Tông tôn cha làm Thái thượng hoàng, mẹ làm hoàng thái hậu.",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0377_viet_026",
+      "bbox": [
+        [
+          169,
+          1416
+        ],
+        [
+          1394,
+          1426
+        ],
+        [
+          1393,
+          1461
+        ],
+        [
+          168,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1571
+        ],
+        [
+          1394,
+          1581
+        ],
+        [
+          1393,
+          1616
+        ],
+        [
+          168,
+          1605
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1416,
+        1394,
+        1461
+      ],
+      "text": "(2) Lê Bà Ngọc và Mâu Du Đô là - hai bề tôi quan: trọng dưới triều Lý Thần Tòng; Lê Bà",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0377_viet_027",
+      "bbox": [
+        [
+          234,
+          1452
+        ],
+        [
+          1039,
+          1459
+        ],
+        [
+          1039,
+          1495
+        ],
+        [
+          233,
+          1488
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1607
+        ],
+        [
+          1039,
+          1614
+        ],
+        [
+          1039,
+          1650
+        ],
+        [
+          233,
+          1643
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1452,
+        1039,
+        1495
+      ],
+      "text": "Ngọc chính là người được Nhân Tông gọi vào trao di chiếu.",
+      "confidence": 0.9246
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "NHỊ KỲ BẢN LUẬN",
+      "Thần Tông di tông thất chi tử, Nhân Tông dục vi tử, sử kế đại thống",
+      "nghĩa đương di Nhân Tông vi phụ nhi xưng sở sinh phụ Sùng hiền hầu vi",
+      "hoàng thúc, phong sinh mẫu Đỗ thị vi Vương phu nhân như Tổng Hiếu Tông",
+      "chỉ ư Tú An Hì Vương cập phu nhân Trương thị, dĩ nhất kỳ bản, khả dã. Kim",
+      "nãi phong Sùng biền hầu vi Thái thượng, hoàng, Đỗ thị vi Hoàng thái hậu,",
+      "vô nãi nhị kỳ bản hồ 7",
+      "Cái Thần Tông thời phương ấu sung, nhí tại triều công khanh như Lê Bá",
+      "Ngọc, Màu Du Đô hựu vỏ tri lễ giả, có dã.",
+      "11"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC TỰ COI MÌNH LÀ MỘT DÒNG KHÁC (U)",
+      "Thần Tông là con một người trọng tòng thất, Nhân Tông nuôi làm con",
+      "lại cho nổi nghiệp lớn, Đáng lẽ phải tòn Nhân Tông làm cha, mà gọi cha đẻ",
+      "Sung hiền hầu là: hoàng thúc, phong mẹ đẻ Đỗ, thị là Vương phu nhân, như",
+      "Tổng Hiếu Tông đối với Hi Vương Tú An và phu nhân họ Trương, đề thống",
+      "nhất một gốc mới phải, Nay lại tôn Sùng hiền. hầu làm Thái thượng hoàng",
+      "Đỗ thị làm Hoàng thái hậu, nhự thế chẳng hóa ra là hai gốc ư ?",
+      "Bởi vì Thần Tông còn trẻ thơ mà các công khanh trong triều như Lẻ",
+      "Bá Ngọc. Màu Du Đô (3) cũng không biết lễ nên mới thế",
+      "CAO HUY GIU ? BẰNG THANH",
+      "CHỨ THÍCH",
+      "XUẤT XỨ: DVSKTT",
+      "(i) Đầu kề do chúng tôi thêm, Theo, ĐVSKTT, sau khi lên ngôi, tháng Giêng năm Kỷ dậu",
+      "(1129), Thần Tông tôn cha làm Thái thượng hoàng, mẹ làm hoàng thái hậu.",
+      "(2) Lê Bà Ngọc và Mâu Du Đô là - hai bề tôi quan: trọng dưới triều Lý Thần Tòng; Lê Bà",
+      "Ngọc chính là người được Nhân Tông gọi vào trao di chiếu."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

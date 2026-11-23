@@ -1,0 +1,1467 @@
+{
+  "page_id": "0354",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 354,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0354_viet_000",
+      "bbox": [
+        [
+          767,
+          92
+        ],
+        [
+          849,
+          92
+        ],
+        [
+          849,
+          143
+        ],
+        [
+          767,
+          143
+        ]
+      ],
+      "bbox_original": [
+        [
+          767,
+          247
+        ],
+        [
+          849,
+          247
+        ],
+        [
+          849,
+          298
+        ],
+        [
+          767,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        767,
+        92,
+        849,
+        143
+      ],
+      "text": "116",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0354_viet_001",
+      "bbox": [
+        [
+          230,
+          396
+        ],
+        [
+          851,
+          409
+        ],
+        [
+          851,
+          454
+        ],
+        [
+          229,
+          441
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          551
+        ],
+        [
+          851,
+          564
+        ],
+        [
+          851,
+          609
+        ],
+        [
+          229,
+          596
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        396,
+        851,
+        454
+      ],
+      "text": "Họ Ap Hệ Z (T. Thuận An",
+      "confidence": 0.5698
+    },
+    {
+      "line_id": "0354_viet_002",
+      "bbox": [
+        [
+          186,
+          655
+        ],
+        [
+          343,
+          655
+        ],
+        [
+          343,
+          685
+        ],
+        [
+          186,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          810
+        ],
+        [
+          343,
+          810
+        ],
+        [
+          343,
+          840
+        ],
+        [
+          186,
+          840
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        655,
+        343,
+        685
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0354_viet_003",
+      "bbox": [
+        [
+          655,
+          681
+        ],
+        [
+          946,
+          681
+        ],
+        [
+          946,
+          717
+        ],
+        [
+          655,
+          717
+        ]
+      ],
+      "bbox_original": [
+        [
+          655,
+          836
+        ],
+        [
+          946,
+          836
+        ],
+        [
+          946,
+          872
+        ],
+        [
+          655,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        655,
+        681,
+        946,
+        717
+      ],
+      "text": "THÀNH BÀI LUẬN",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0354_viet_004",
+      "bbox": [
+        [
+          279,
+          750
+        ],
+        [
+          1279,
+          754
+        ],
+        [
+          1279,
+          792
+        ],
+        [
+          279,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          905
+        ],
+        [
+          1279,
+          909
+        ],
+        [
+          1279,
+          947
+        ],
+        [
+          279,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        750,
+        1279,
+        792
+      ],
+      "text": "Binh pháp vân: tam vạn tề lực, thiên hạ mạc năng đương yêu.",
+      "confidence": 0.9282
+    },
+    {
+      "line_id": "0354_viet_005",
+      "bbox": [
+        [
+          272,
+          797
+        ],
+        [
+          1415,
+          801
+        ],
+        [
+          1415,
+          846
+        ],
+        [
+          272,
+          842
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          952
+        ],
+        [
+          1415,
+          956
+        ],
+        [
+          1415,
+          1001
+        ],
+        [
+          272,
+          997
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        797,
+        1415,
+        846
+      ],
+      "text": "Kim Lý Bôn hữu chúng ngũ vận nhi bất năng thủ quốc, nhiên tắc Bôn",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0354_viet_006",
+      "bbox": [
+        [
+          186,
+          837
+        ],
+        [
+          1184,
+          840
+        ],
+        [
+          1184,
+          882
+        ],
+        [
+          186,
+          880
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          992
+        ],
+        [
+          1184,
+          995
+        ],
+        [
+          1184,
+          1037
+        ],
+        [
+          186,
+          1035
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        837,
+        1184,
+        882
+      ],
+      "text": "đoản ư vi tướng da ? Ức tân tập chi binh bất khả dữ chiến da ?",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0354_viet_007",
+      "bbox": [
+        [
+          281,
+          893
+        ],
+        [
+          1406,
+          893
+        ],
+        [
+          1406,
+          929
+        ],
+        [
+          281,
+          929
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1048
+        ],
+        [
+          1406,
+          1048
+        ],
+        [
+          1406,
+          1084
+        ],
+        [
+          281,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        893,
+        1406,
+        929
+      ],
+      "text": "Xã Lý Bôn diệc trung tài chỉ tưởng, kỳ lâm địch chể thắng bát vì bất năng chính thức",
+      "confidence": 0.8362
+    },
+    {
+      "line_id": "0354_viet_008",
+      "bbox": [
+        [
+          186,
+          927
+        ],
+        [
+          1415,
+          930
+        ],
+        [
+          1415,
+          974
+        ],
+        [
+          186,
+          972
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1082
+        ],
+        [
+          1415,
+          1085
+        ],
+        [
+          1415,
+          1129
+        ],
+        [
+          186,
+          1127
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        927,
+        1415,
+        974
+      ],
+      "text": "Nhiên tột dĩ lưỡng bại, thân vong già, cải bất hạnh nhi ngộ Trần Bá Tiên chi",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0354_viet_009",
+      "bbox": [
+        [
+          190,
+          972
+        ],
+        [
+          499,
+          972
+        ],
+        [
+          499,
+          1009
+        ],
+        [
+          190,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1127
+        ],
+        [
+          499,
+          1127
+        ],
+        [
+          499,
+          1164
+        ],
+        [
+          190,
+          1164
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        972,
+        499,
+        1009
+      ],
+      "text": "thiện dung binh dã.",
+      "confidence": 0.877
+    },
+    {
+      "line_id": "0354_viet_010",
+      "bbox": [
+        [
+          186,
+          1052
+        ],
+        [
+          382,
+          1052
+        ],
+        [
+          382,
+          1088
+        ],
+        [
+          186,
+          1088
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1207
+        ],
+        [
+          382,
+          1207
+        ],
+        [
+          382,
+          1243
+        ],
+        [
+          186,
+          1243
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1052,
+        382,
+        1088
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8815
+    },
+    {
+      "line_id": "0354_viet_011",
+      "bbox": [
+        [
+          575,
+          1075
+        ],
+        [
+          1022,
+          1080
+        ],
+        [
+          1022,
+          1122
+        ],
+        [
+          574,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          575,
+          1230
+        ],
+        [
+          1022,
+          1235
+        ],
+        [
+          1022,
+          1277
+        ],
+        [
+          574,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        574,
+        1075,
+        1022,
+        1122
+      ],
+      "text": "BÀN VỀ SỰ THÀNH BẠI (?).",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0354_viet_012",
+      "bbox": [
+        [
+          279,
+          1152
+        ],
+        [
+          1413,
+          1152
+        ],
+        [
+          1413,
+          1189
+        ],
+        [
+          279,
+          1189
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          1307
+        ],
+        [
+          1413,
+          1307
+        ],
+        [
+          1413,
+          1344
+        ],
+        [
+          279,
+          1344
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        1152,
+        1413,
+        1189
+      ],
+      "text": "Sách bình pháp nói: ba vạn quân đều hợp sức thi thiện hạ chẳng ai",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0354_viet_013",
+      "bbox": [
+        [
+          190,
+          1191
+        ],
+        [
+          335,
+          1191
+        ],
+        [
+          335,
+          1227
+        ],
+        [
+          190,
+          1227
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1346
+        ],
+        [
+          335,
+          1346
+        ],
+        [
+          335,
+          1382
+        ],
+        [
+          190,
+          1382
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        1191,
+        335,
+        1227
+      ],
+      "text": "địch nồi.",
+      "confidence": 0.8392
+    },
+    {
+      "line_id": "0354_viet_014",
+      "bbox": [
+        [
+          277,
+          1238
+        ],
+        [
+          1415,
+          1238
+        ],
+        [
+          1415,
+          1281
+        ],
+        [
+          277,
+          1281
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          1393
+        ],
+        [
+          1415,
+          1393
+        ],
+        [
+          1415,
+          1436
+        ],
+        [
+          277,
+          1436
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        1238,
+        1415,
+        1281
+      ],
+      "text": "Nay Lý Bôn có-một đội quân, năm vạn mà không giữ được nước, thế",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0354_viet_015",
+      "bbox": [
+        [
+          184,
+          1274
+        ],
+        [
+          1415,
+          1276
+        ],
+        [
+          1415,
+          1321
+        ],
+        [
+          184,
+          1319
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1429
+        ],
+        [
+          1415,
+          1431
+        ],
+        [
+          1415,
+          1476
+        ],
+        [
+          184,
+          1474
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1274,
+        1415,
+        1321
+      ],
+      "text": "thì Bôn là một tường tồi chăng Ở Hay là đội quân mới tập họp không thể đánh",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0354_viet_016",
+      "bbox": [
+        [
+          186,
+          1321
+        ],
+        [
+          382,
+          1321
+        ],
+        [
+          382,
+          1351
+        ],
+        [
+          186,
+          1351
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1476
+        ],
+        [
+          382,
+          1476
+        ],
+        [
+          382,
+          1506
+        ],
+        [
+          186,
+          1506
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1321,
+        382,
+        1351
+      ],
+      "text": "nhàu được 9",
+      "confidence": 0.8728
+    },
+    {
+      "line_id": "0354_viet_017",
+      "bbox": [
+        [
+          281,
+          1369
+        ],
+        [
+          1409,
+          1369
+        ],
+        [
+          1409,
+          1405
+        ],
+        [
+          281,
+          1405
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1524
+        ],
+        [
+          1409,
+          1524
+        ],
+        [
+          1409,
+          1560
+        ],
+        [
+          281,
+          1560
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1369,
+        1409,
+        1405
+      ],
+      "text": "Lý Bôn cũng là một vị tưởng tài vào bạc trung, việc ra trận đánh thắng thuận thuận",
+      "confidence": 0.8346
+    },
+    {
+      "line_id": "0354_viet_018",
+      "bbox": [
+        [
+          188,
+          1409
+        ],
+        [
+          1413,
+          1409
+        ],
+        [
+          1413,
+          1446
+        ],
+        [
+          188,
+          1446
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1564
+        ],
+        [
+          1413,
+          1564
+        ],
+        [
+          1413,
+          1601
+        ],
+        [
+          188,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1409,
+        1413,
+        1446
+      ],
+      "text": "không phải không làm được, Thế mà rốt cuộc hai lần bị thua rồi chết, là vì",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0354_viet_019",
+      "bbox": [
+        [
+          184,
+          1446
+        ],
+        [
+          1179,
+          1441
+        ],
+        [
+          1180,
+          1484
+        ],
+        [
+          184,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1601
+        ],
+        [
+          1179,
+          1596
+        ],
+        [
+          1180,
+          1639
+        ],
+        [
+          184,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1441,
+        1180,
+        1489
+      ],
+      "text": "không may gặp phải Trần Bá Tiên là tạy giỏi việc binh đó thôi.",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0354_viet_020",
+      "bbox": [
+        [
+          899,
+          1501
+        ],
+        [
+          1337,
+          1501
+        ],
+        [
+          1337,
+          1531
+        ],
+        [
+          899,
+          1531
+        ]
+      ],
+      "bbox_original": [
+        [
+          899,
+          1656
+        ],
+        [
+          1337,
+          1656
+        ],
+        [
+          1337,
+          1686
+        ],
+        [
+          899,
+          1686
+        ]
+      ],
+      "box_xyxy": [
+        899,
+        1501,
+        1337,
+        1531
+      ],
+      "text": "CAO HUY GIU BẰNG THANH",
+      "confidence": 0.8596
+    },
+    {
+      "line_id": "0354_viet_021",
+      "bbox": [
+        [
+          184,
+          1563
+        ],
+        [
+          374,
+          1563
+        ],
+        [
+          374,
+          1593
+        ],
+        [
+          184,
+          1593
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1718
+        ],
+        [
+          374,
+          1718
+        ],
+        [
+          374,
+          1748
+        ],
+        [
+          184,
+          1748
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1563,
+        374,
+        1593
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0354_viet_022",
+      "bbox": [
+        [
+          655,
+          1585
+        ],
+        [
+          946,
+          1589
+        ],
+        [
+          946,
+          1624
+        ],
+        [
+          654,
+          1619
+        ]
+      ],
+      "bbox_original": [
+        [
+          655,
+          1740
+        ],
+        [
+          946,
+          1744
+        ],
+        [
+          946,
+          1779
+        ],
+        [
+          654,
+          1774
+        ]
+      ],
+      "box_xyxy": [
+        654,
+        1585,
+        946,
+        1624
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0354_viet_023",
+      "bbox": [
+        [
+          179,
+          1636
+        ],
+        [
+          1415,
+          1634
+        ],
+        [
+          1415,
+          1677
+        ],
+        [
+          179,
+          1679
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1791
+        ],
+        [
+          1415,
+          1789
+        ],
+        [
+          1415,
+          1832
+        ],
+        [
+          179,
+          1834
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1634,
+        1415,
+        1679
+      ],
+      "text": "(1) Đầu đề do chúng tôi thêm. Lý Bón: người Thái-bình Á 7 phủ Long-hưng (k? Đ....",
+      "confidence": 0.8557
+    },
+    {
+      "line_id": "0354_viet_024",
+      "bbox": [
+        [
+          244,
+          1677
+        ],
+        [
+          607,
+          1677
+        ],
+        [
+          607,
+          1705
+        ],
+        [
+          244,
+          1705
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1832
+        ],
+        [
+          607,
+          1832
+        ],
+        [
+          607,
+          1860
+        ],
+        [
+          244,
+          1860
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1677,
+        607,
+        1705
+      ],
+      "text": "nay thuộc tỉnh thái-hình",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0354_viet_025",
+      "bbox": [
+        [
+          311,
+          1711
+        ],
+        [
+          1406,
+          1711
+        ],
+        [
+          1406,
+          1748
+        ],
+        [
+          311,
+          1748
+        ]
+      ],
+      "bbox_original": [
+        [
+          311,
+          1866
+        ],
+        [
+          1406,
+          1866
+        ],
+        [
+          1406,
+          1903
+        ],
+        [
+          311,
+          1903
+        ]
+      ],
+      "box_xyxy": [
+        311,
+        1711,
+        1406,
+        1748
+      ],
+      "text": "Năm 541 vì bọn quan cai trị nhà Lương At rất tàn ác, Lý Bôn dấy binh đánh đuổi",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0354_viet_026",
+      "bbox": [
+        [
+          220,
+          1743
+        ],
+        [
+          1413,
+          1743
+        ],
+        [
+          1413,
+          1786
+        ],
+        [
+          220,
+          1786
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1898
+        ],
+        [
+          1413,
+          1898
+        ],
+        [
+          1413,
+          1941
+        ],
+        [
+          220,
+          1941
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1743,
+        1413,
+        1786
+      ],
+      "text": "- lấy lại nước, xưng là Nam Đế đệ, độ, đặt hiệu nước là Van-xuân ?, % - đóng đó ở",
+      "confidence": 0.8718
+    },
+    {
+      "line_id": "0354_viet_027",
+      "bbox": [
+        [
+          229,
+          1775
+        ],
+        [
+          1411,
+          1773
+        ],
+        [
+          1411,
+          1816
+        ],
+        [
+          229,
+          1818
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1930
+        ],
+        [
+          1411,
+          1928
+        ],
+        [
+          1411,
+          1971
+        ],
+        [
+          229,
+          1973
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1773,
+        1411,
+        1818
+      ],
+      "text": "Long biên Hết số - Năm 545, nhà Lương sai bọn Tràn Bá Tiên sang đánh. Lý Bôn",
+      "confidence": 0.8873
+    },
+    {
+      "line_id": "0354_viet_028",
+      "bbox": [
+        [
+          251,
+          1816
+        ],
+        [
+          1411,
+          1816
+        ],
+        [
+          1411,
+          1846
+        ],
+        [
+          251,
+          1846
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1971
+        ],
+        [
+          1411,
+          1971
+        ],
+        [
+          1411,
+          2001
+        ],
+        [
+          251,
+          2001
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1816,
+        1411,
+        1846
+      ],
+      "text": "1960 chống cự được, đến mùa xuân năm 548 thì mắt ở động Khuất-lão - 2 đã - Cuộc kháng tháng 19 thời",
+      "confidence": 0.7788
+    },
+    {
+      "line_id": "0354_viet_029",
+      "bbox": [
+        [
+          244,
+          1844
+        ],
+        [
+          1095,
+          1846
+        ],
+        [
+          1095,
+          1885
+        ],
+        [
+          244,
+          1882
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1999
+        ],
+        [
+          1095,
+          2001
+        ],
+        [
+          1095,
+          2040
+        ],
+        [
+          244,
+          2037
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1844,
+        1095,
+        1885
+      ],
+      "text": "chiến chuyền sang triệu Quang Phúc đã X 12 lãnh đạo.",
+      "confidence": 0.8579
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "116",
+      "Họ Ap Hệ Z (T. Thuận An",
+      "THÀNH BÀI LUẬN",
+      "Binh pháp vân: tam vạn tề lực, thiên hạ mạc năng đương yêu.",
+      "Kim Lý Bôn hữu chúng ngũ vận nhi bất năng thủ quốc, nhiên tắc Bôn",
+      "đoản ư vi tướng da ? Ức tân tập chi binh bất khả dữ chiến da ?",
+      "Xã Lý Bôn diệc trung tài chỉ tưởng, kỳ lâm địch chể thắng bát vì bất năng chính thức",
+      "Nhiên tột dĩ lưỡng bại, thân vong già, cải bất hạnh nhi ngộ Trần Bá Tiên chi",
+      "thiện dung binh dã."
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ SỰ THÀNH BẠI (?).",
+      "Sách bình pháp nói: ba vạn quân đều hợp sức thi thiện hạ chẳng ai",
+      "địch nồi.",
+      "Nay Lý Bôn có-một đội quân, năm vạn mà không giữ được nước, thế",
+      "thì Bôn là một tường tồi chăng Ở Hay là đội quân mới tập họp không thể đánh",
+      "nhàu được 9",
+      "Lý Bôn cũng là một vị tưởng tài vào bạc trung, việc ra trận đánh thắng thuận thuận",
+      "không phải không làm được, Thế mà rốt cuộc hai lần bị thua rồi chết, là vì",
+      "không may gặp phải Trần Bá Tiên là tạy giỏi việc binh đó thôi.",
+      "CAO HUY GIU BẰNG THANH",
+      "CHỦ THÍCH",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1) Đầu đề do chúng tôi thêm. Lý Bón: người Thái-bình Á 7 phủ Long-hưng (k? Đ....",
+      "nay thuộc tỉnh thái-hình",
+      "Năm 541 vì bọn quan cai trị nhà Lương At rất tàn ác, Lý Bôn dấy binh đánh đuổi",
+      "- lấy lại nước, xưng là Nam Đế đệ, độ, đặt hiệu nước là Van-xuân ?, % - đóng đó ở",
+      "Long biên Hết số - Năm 545, nhà Lương sai bọn Tràn Bá Tiên sang đánh. Lý Bôn",
+      "1960 chống cự được, đến mùa xuân năm 548 thì mắt ở động Khuất-lão - 2 đã - Cuộc kháng tháng 19 thời",
+      "chiến chuyền sang triệu Quang Phúc đã X 12 lãnh đạo."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

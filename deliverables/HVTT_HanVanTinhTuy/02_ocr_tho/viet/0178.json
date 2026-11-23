@@ -1,0 +1,1008 @@
+{
+  "page_id": "0178",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 178,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0178_viet_000",
+      "bbox": [
+        [
+          192,
+          30
+        ],
+        [
+          248,
+          30
+        ],
+        [
+          248,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          151
+        ],
+        [
+          248,
+          151
+        ],
+        [
+          248,
+          185
+        ],
+        [
+          192,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        30,
+        248,
+        64
+      ],
+      "text": "172",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0178_viet_001",
+      "bbox": [
+        [
+          667,
+          32
+        ],
+        [
+          987,
+          32
+        ],
+        [
+          987,
+          60
+        ],
+        [
+          667,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          153
+        ],
+        [
+          987,
+          153
+        ],
+        [
+          987,
+          181
+        ],
+        [
+          667,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        32,
+        987,
+        60
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0178_viet_002",
+      "bbox": [
+        [
+          265,
+          191
+        ],
+        [
+          785,
+          193
+        ],
+        [
+          785,
+          228
+        ],
+        [
+          265,
+          226
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          312
+        ],
+        [
+          785,
+          314
+        ],
+        [
+          785,
+          349
+        ],
+        [
+          265,
+          347
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        191,
+        785,
+        228
+      ],
+      "text": "Đương thì ngã túy mỹ nhân gia",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0178_viet_003",
+      "bbox": [
+        [
+          297,
+          271
+        ],
+        [
+          753,
+          271
+        ],
+        [
+          753,
+          310
+        ],
+        [
+          297,
+          310
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          392
+        ],
+        [
+          753,
+          392
+        ],
+        [
+          753,
+          431
+        ],
+        [
+          297,
+          431
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        271,
+        753,
+        310
+      ],
+      "text": "% Lê Hế Hơn A",
+      "confidence": 0.5491
+    },
+    {
+      "line_id": "0178_viet_004",
+      "bbox": [
+        [
+          267,
+          330
+        ],
+        [
+          803,
+          330
+        ],
+        [
+          803,
+          363
+        ],
+        [
+          267,
+          363
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          451
+        ],
+        [
+          803,
+          451
+        ],
+        [
+          803,
+          484
+        ],
+        [
+          267,
+          484
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        330,
+        803,
+        363
+      ],
+      "text": "Mỹ nhân nhan sắc kiều như hoa, nam",
+      "confidence": 0.8713
+    },
+    {
+      "line_id": "0178_viet_005",
+      "bbox": [
+        [
+          267,
+          465
+        ],
+        [
+          800,
+          467
+        ],
+        [
+          800,
+          502
+        ],
+        [
+          267,
+          500
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          586
+        ],
+        [
+          800,
+          588
+        ],
+        [
+          800,
+          623
+        ],
+        [
+          267,
+          621
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        465,
+        800,
+        502
+      ],
+      "text": "Kim nhật mỹ nhân khi ngã khứ",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0178_viet_006",
+      "bbox": [
+        [
+          292,
+          539
+        ],
+        [
+          754,
+          542
+        ],
+        [
+          754,
+          588
+        ],
+        [
+          292,
+          584
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          660
+        ],
+        [
+          754,
+          663
+        ],
+        [
+          754,
+          709
+        ],
+        [
+          292,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        539,
+        754,
+        588
+      ],
+      "text": "HARZ",
+      "confidence": 0.4947
+    },
+    {
+      "line_id": "0178_viet_007",
+      "bbox": [
+        [
+          267,
+          601
+        ],
+        [
+          832,
+          603
+        ],
+        [
+          832,
+          636
+        ],
+        [
+          267,
+          634
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          722
+        ],
+        [
+          832,
+          724
+        ],
+        [
+          832,
+          757
+        ],
+        [
+          267,
+          755
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        601,
+        832,
+        636
+      ],
+      "text": "Thanh lâu châu bac thiên chi nha.",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0178_viet_008",
+      "bbox": [
+        [
+          295,
+          681
+        ],
+        [
+          602,
+          681
+        ],
+        [
+          602,
+          716
+        ],
+        [
+          295,
+          716
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          802
+        ],
+        [
+          602,
+          802
+        ],
+        [
+          602,
+          837
+        ],
+        [
+          295,
+          837
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        681,
+        602,
+        716
+      ],
+      "text": "036100000009",
+      "confidence": 0.2656
+    },
+    {
+      "line_id": "0178_viet_009",
+      "bbox": [
+        [
+          267,
+          736
+        ],
+        [
+          817,
+          740
+        ],
+        [
+          817,
+          778
+        ],
+        [
+          267,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          857
+        ],
+        [
+          817,
+          861
+        ],
+        [
+          817,
+          899
+        ],
+        [
+          267,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        736,
+        817,
+        778
+      ],
+      "text": "Quyên quyên thường nga nguyệt",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0178_viet_010",
+      "bbox": [
+        [
+          292,
+          812
+        ],
+        [
+          754,
+          817
+        ],
+        [
+          754,
+          859
+        ],
+        [
+          292,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          933
+        ],
+        [
+          754,
+          938
+        ],
+        [
+          754,
+          980
+        ],
+        [
+          292,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        812,
+        754,
+        859
+      ],
+      "text": "EN32",
+      "confidence": 0.3776
+    },
+    {
+      "line_id": "0178_viet_011",
+      "bbox": [
+        [
+          265,
+          874
+        ],
+        [
+          874,
+          876
+        ],
+        [
+          874,
+          911
+        ],
+        [
+          265,
+          909
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          995
+        ],
+        [
+          874,
+          997
+        ],
+        [
+          874,
+          1032
+        ],
+        [
+          265,
+          1030
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        874,
+        874,
+        911
+      ],
+      "text": "Tam ngũ nhị bát doanh hựu khuyết thuận",
+      "confidence": 0.8225
+    },
+    {
+      "line_id": "0178_viet_012",
+      "bbox": [
+        [
+          262,
+          1004
+        ],
+        [
+          775,
+          1010
+        ],
+        [
+          774,
+          1050
+        ],
+        [
+          261,
+          1044
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1125
+        ],
+        [
+          775,
+          1131
+        ],
+        [
+          774,
+          1171
+        ],
+        [
+          261,
+          1165
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1004,
+        775,
+        1050
+      ],
+      "text": "Thúy mỹ thiền phát sinh biệt ly",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0178_viet_013",
+      "bbox": [
+        [
+          297,
+          1083
+        ],
+        [
+          753,
+          1086
+        ],
+        [
+          752,
+          1127
+        ],
+        [
+          297,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1204
+        ],
+        [
+          753,
+          1207
+        ],
+        [
+          752,
+          1248
+        ],
+        [
+          297,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1083,
+        753,
+        1127
+      ],
+      "text": "772N 6",
+      "confidence": 0.5528
+    },
+    {
+      "line_id": "0178_viet_014",
+      "bbox": [
+        [
+          267,
+          1140
+        ],
+        [
+          846,
+          1145
+        ],
+        [
+          845,
+          1184
+        ],
+        [
+          267,
+          1178
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1261
+        ],
+        [
+          846,
+          1266
+        ],
+        [
+          845,
+          1305
+        ],
+        [
+          267,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1140,
+        846,
+        1184
+      ],
+      "text": "Nhất vọng bất kiến tâm đoạn tuyệt",
+      "confidence": 0.8954
+    },
+    {
+      "line_id": "0178_viet_015",
+      "bbox": [
+        [
+          294,
+          1220
+        ],
+        [
+          749,
+          1220
+        ],
+        [
+          749,
+          1260
+        ],
+        [
+          294,
+          1260
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1341
+        ],
+        [
+          749,
+          1341
+        ],
+        [
+          749,
+          1381
+        ],
+        [
+          294,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1220,
+        749,
+        1260
+      ],
+      "text": "07427417",
+      "confidence": 0.6103
+    },
+    {
+      "line_id": "0178_viet_016",
+      "bbox": [
+        [
+          267,
+          1277
+        ],
+        [
+          788,
+          1281
+        ],
+        [
+          788,
+          1316
+        ],
+        [
+          267,
+          1312
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1398
+        ],
+        [
+          788,
+          1402
+        ],
+        [
+          788,
+          1437
+        ],
+        [
+          267,
+          1433
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1277,
+        788,
+        1316
+      ],
+      "text": "Tâm đoạn tuyệt hề kỷ thiên lý",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0178_viet_017",
+      "bbox": [
+        [
+          299,
+          1352
+        ],
+        [
+          751,
+          1358
+        ],
+        [
+          751,
+          1400
+        ],
+        [
+          299,
+          1394
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1473
+        ],
+        [
+          751,
+          1479
+        ],
+        [
+          751,
+          1521
+        ],
+        [
+          299,
+          1515
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1352,
+        751,
+        1400
+      ],
+      "text": "ĐÃ THỊ LÊ",
+      "confidence": 0.4688
+    },
+    {
+      "line_id": "0178_viet_018",
+      "bbox": [
+        [
+          265,
+          1416
+        ],
+        [
+          802,
+          1420
+        ],
+        [
+          801,
+          1455
+        ],
+        [
+          265,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1537
+        ],
+        [
+          802,
+          1541
+        ],
+        [
+          801,
+          1576
+        ],
+        [
+          265,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1416,
+        802,
+        1455
+      ],
+      "text": "Mộng trung túy ngọa Vu-sơn vân",
+      "confidence": 0.9339
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "172",
+      "Đương thì ngã túy mỹ nhân gia",
+      "Mỹ nhân nhan sắc kiều như hoa, nam",
+      "HARZ",
+      "036100000009",
+      "EN32",
+      "Thúy mỹ thiền phát sinh biệt ly",
+      "Nhất vọng bất kiến tâm đoạn tuyệt",
+      "Tâm đoạn tuyệt hề kỷ thiên lý",
+      "Mộng trung túy ngọa Vu-sơn vân"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUÝ",
+      "% Lê Hế Hơn A",
+      "Kim nhật mỹ nhân khi ngã khứ",
+      "Thanh lâu châu bac thiên chi nha.",
+      "Quyên quyên thường nga nguyệt",
+      "Tam ngũ nhị bát doanh hựu khuyết thuận",
+      "772N 6",
+      "07427417",
+      "ĐÃ THỊ LÊ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "當時我醉美人家",
+        "phien_am": "172",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "美人顏色婚如花",
+        "phien_am": "Đương thì ngã túy mỹ nhân gia",
+        "dich_nghia_gloss": "% Lê Hế Hơn A"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "今日美人華我去",
+        "phien_am": "Mỹ nhân nhan sắc kiều như hoa, nam",
+        "dich_nghia_gloss": "Kim nhật mỹ nhân khi ngã khứ"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "青樓珠豬天之涯",
+        "phien_am": "HARZ",
+        "dich_nghia_gloss": "Thanh lâu châu bac thiên chi nha."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "滑滑嫦娥月",
+        "phien_am": "036100000009",
+        "dich_nghia_gloss": "Quyên quyên thường nga nguyệt"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "三五〇二八盈又〇缺",
+        "phien_am": "EN32",
+        "dich_nghia_gloss": "Tam ngũ nhị bát doanh hựu khuyết thuận"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "翠省輝瑟生別離",
+        "phien_am": "Thúy mỹ thiền phát sinh biệt ly",
+        "dich_nghia_gloss": "772N 6"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "人ul",
+        "phien_am": "Nhất vọng bất kiến tâm đoạn tuyệt",
+        "dich_nghia_gloss": "07427417"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "一望不見心斷絕",
+        "phien_am": "Tâm đoạn tuyệt hề kỷ thiên lý",
+        "dich_nghia_gloss": "ĐÃ THỊ LÊ"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "心斷絕分氣幾千黑",
+        "phien_am": "Mộng trung túy ngọa Vu-sơn vân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "夢中醉卧巫山雲",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

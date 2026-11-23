@@ -1,0 +1,1416 @@
+{
+  "page_id": "0160",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 160,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0160_viet_000",
+      "bbox": [
+        [
+          195,
+          26
+        ],
+        [
+          251,
+          31
+        ],
+        [
+          247,
+          66
+        ],
+        [
+          192,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          147
+        ],
+        [
+          251,
+          152
+        ],
+        [
+          247,
+          187
+        ],
+        [
+          192,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        26,
+        251,
+        66
+      ],
+      "text": "194",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0160_viet_001",
+      "bbox": [
+        [
+          668,
+          28
+        ],
+        [
+          991,
+          28
+        ],
+        [
+          991,
+          62
+        ],
+        [
+          668,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          149
+        ],
+        [
+          991,
+          149
+        ],
+        [
+          991,
+          183
+        ],
+        [
+          668,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        28,
+        991,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0160_viet_002",
+      "bbox": [
+        [
+          297,
+          177
+        ],
+        [
+          525,
+          181
+        ],
+        [
+          524,
+          216
+        ],
+        [
+          297,
+          212
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          298
+        ],
+        [
+          525,
+          302
+        ],
+        [
+          524,
+          337
+        ],
+        [
+          297,
+          333
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        177,
+        525,
+        216
+      ],
+      "text": "Ô hô Y hi l",
+      "confidence": 0.8174
+    },
+    {
+      "line_id": "0160_viet_003",
+      "bbox": [
+        [
+          297,
+          236
+        ],
+        [
+          751,
+          236
+        ],
+        [
+          751,
+          275
+        ],
+        [
+          297,
+          275
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          357
+        ],
+        [
+          751,
+          357
+        ],
+        [
+          751,
+          396
+        ],
+        [
+          297,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        236,
+        751,
+        275
+      ],
+      "text": "B 2 thị khám đánh",
+      "confidence": 0.4297
+    },
+    {
+      "line_id": "0160_viet_004",
+      "bbox": [
+        [
+          297,
+          285
+        ],
+        [
+          888,
+          286
+        ],
+        [
+          888,
+          321
+        ],
+        [
+          297,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          406
+        ],
+        [
+          888,
+          407
+        ],
+        [
+          888,
+          442
+        ],
+        [
+          297,
+          441
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        285,
+        888,
+        321
+      ],
+      "text": "Ngô tưởng phù bắc phong chăn mạc, trị",
+      "confidence": 0.8281
+    },
+    {
+      "line_id": "0160_viet_005",
+      "bbox": [
+        [
+          225,
+          325
+        ],
+        [
+          869,
+          328
+        ],
+        [
+          869,
+          368
+        ],
+        [
+          224,
+          365
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          446
+        ],
+        [
+          869,
+          449
+        ],
+        [
+          869,
+          489
+        ],
+        [
+          224,
+          486
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        325,
+        869,
+        368
+      ],
+      "text": "Tôi nghĩ đền trận gió bắc thổi lộng sa-mạc,",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0160_viet_006",
+      "bbox": [
+        [
+          296,
+          381
+        ],
+        [
+          550,
+          385
+        ],
+        [
+          550,
+          430
+        ],
+        [
+          295,
+          427
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          502
+        ],
+        [
+          550,
+          506
+        ],
+        [
+          550,
+          551
+        ],
+        [
+          295,
+          548
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        381,
+        550,
+        430
+      ],
+      "text": "VÀ Ở LÊ) MỆ",
+      "confidence": 0.5006
+    },
+    {
+      "line_id": "0160_viet_007",
+      "bbox": [
+        [
+          297,
+          435
+        ],
+        [
+          567,
+          439
+        ],
+        [
+          567,
+          472
+        ],
+        [
+          297,
+          469
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          556
+        ],
+        [
+          567,
+          560
+        ],
+        [
+          567,
+          593
+        ],
+        [
+          297,
+          590
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        435,
+        567,
+        472
+      ],
+      "text": "Hồ binh tứ tiện",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0160_viet_008",
+      "bbox": [
+        [
+          224,
+          480
+        ],
+        [
+          655,
+          480
+        ],
+        [
+          655,
+          519
+        ],
+        [
+          224,
+          519
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          601
+        ],
+        [
+          655,
+          601
+        ],
+        [
+          655,
+          640
+        ],
+        [
+          224,
+          640
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        480,
+        655,
+        519
+      ],
+      "text": "quân hồ thừa-cơ quầy nhiễu.",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0160_viet_009",
+      "bbox": [
+        [
+          297,
+          539
+        ],
+        [
+          829,
+          539
+        ],
+        [
+          829,
+          578
+        ],
+        [
+          297,
+          578
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          660
+        ],
+        [
+          829,
+          660
+        ],
+        [
+          829,
+          699
+        ],
+        [
+          297,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        539,
+        829,
+        578
+      ],
+      "text": "03 E6 M P3",
+      "confidence": 0.6304
+    },
+    {
+      "line_id": "0160_viet_010",
+      "bbox": [
+        [
+          299,
+          588
+        ],
+        [
+          948,
+          589
+        ],
+        [
+          948,
+          624
+        ],
+        [
+          299,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          709
+        ],
+        [
+          948,
+          710
+        ],
+        [
+          948,
+          745
+        ],
+        [
+          299,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        588,
+        948,
+        624
+      ],
+      "text": "Chủ tướng kiêu địch, kỳ môn thụ chiến thuy",
+      "confidence": 0.8363
+    },
+    {
+      "line_id": "0160_viet_011",
+      "bbox": [
+        [
+          223,
+          629
+        ],
+        [
+          763,
+          631
+        ],
+        [
+          763,
+          671
+        ],
+        [
+          223,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          750
+        ],
+        [
+          763,
+          752
+        ],
+        [
+          763,
+          792
+        ],
+        [
+          223,
+          791
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        629,
+        763,
+        671
+      ],
+      "text": "Chủ tướng khinh thường quân địch,",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0160_viet_012",
+      "bbox": [
+        [
+          224,
+          675
+        ],
+        [
+          749,
+          675
+        ],
+        [
+          749,
+          720
+        ],
+        [
+          224,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          796
+        ],
+        [
+          749,
+          796
+        ],
+        [
+          749,
+          841
+        ],
+        [
+          224,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        675,
+        749,
+        720
+      ],
+      "text": "đền cổng trại cùng giặc giao chiền",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0160_viet_013",
+      "bbox": [
+        [
+          297,
+          737
+        ],
+        [
+          834,
+          737
+        ],
+        [
+          834,
+          775
+        ],
+        [
+          297,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          858
+        ],
+        [
+          834,
+          858
+        ],
+        [
+          834,
+          896
+        ],
+        [
+          297,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        737,
+        834,
+        775
+      ],
+      "text": "B7 E3 Á M DỊ IR ÉN A2",
+      "confidence": 0.5366
+    },
+    {
+      "line_id": "0160_viet_014",
+      "bbox": [
+        [
+          295,
+          785
+        ],
+        [
+          883,
+          788
+        ],
+        [
+          882,
+          822
+        ],
+        [
+          295,
+          819
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          906
+        ],
+        [
+          883,
+          909
+        ],
+        [
+          882,
+          943
+        ],
+        [
+          295,
+          940
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        785,
+        883,
+        822
+      ],
+      "text": "Dã thụ mao kỳ, xuyên hồi tồ luyện",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0160_viet_015",
+      "bbox": [
+        [
+          228,
+          829
+        ],
+        [
+          942,
+          829
+        ],
+        [
+          942,
+          867
+        ],
+        [
+          228,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          950
+        ],
+        [
+          942,
+          950
+        ],
+        [
+          942,
+          988
+        ],
+        [
+          228,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        829,
+        942,
+        867
+      ],
+      "text": "Ngoài đồng dựng cờ xí, trên sông chật chiên-bào",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0160_viet_016",
+      "bbox": [
+        [
+          294,
+          885
+        ],
+        [
+          829,
+          887
+        ],
+        [
+          828,
+          929
+        ],
+        [
+          294,
+          927
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1006
+        ],
+        [
+          829,
+          1008
+        ],
+        [
+          828,
+          1050
+        ],
+        [
+          294,
+          1048
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        885,
+        829,
+        929
+      ],
+      "text": "ĐV ĐÃ ĐẾN ĐẾN THANH",
+      "confidence": 0.4852
+    },
+    {
+      "line_id": "0160_viet_017",
+      "bbox": [
+        [
+          294,
+          934
+        ],
+        [
+          933,
+          936
+        ],
+        [
+          933,
+          976
+        ],
+        [
+          294,
+          974
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1055
+        ],
+        [
+          933,
+          1057
+        ],
+        [
+          933,
+          1097
+        ],
+        [
+          294,
+          1095
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        934,
+        933,
+        976
+      ],
+      "text": "Pháp trọng tâm hãi, uy tôn mệnh tiện",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0160_viet_018",
+      "bbox": [
+        [
+          221,
+          976
+        ],
+        [
+          847,
+          978
+        ],
+        [
+          847,
+          1025
+        ],
+        [
+          221,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1097
+        ],
+        [
+          847,
+          1099
+        ],
+        [
+          847,
+          1146
+        ],
+        [
+          221,
+          1144
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        976,
+        847,
+        1025
+      ],
+      "text": "Phép nghiêm lòng sợ; uy cao, mạng hèn",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0160_viet_019",
+      "bbox": [
+        [
+          297,
+          1088
+        ],
+        [
+          930,
+          1091
+        ],
+        [
+          930,
+          1127
+        ],
+        [
+          297,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1209
+        ],
+        [
+          930,
+          1212
+        ],
+        [
+          930,
+          1248
+        ],
+        [
+          297,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1088,
+        930,
+        1127
+      ],
+      "text": "Lợi thốc xuyên cốt, kinh sa nhập diện",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0160_viet_020",
+      "bbox": [
+        [
+          221,
+          1128
+        ],
+        [
+          987,
+          1133
+        ],
+        [
+          987,
+          1174
+        ],
+        [
+          221,
+          1168
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1249
+        ],
+        [
+          987,
+          1254
+        ],
+        [
+          987,
+          1295
+        ],
+        [
+          221,
+          1289
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1128,
+        987,
+        1174
+      ],
+      "text": "Mũi tên sắc xuyên thủng xương, cát bỏng rát đập",
+      "confidence": 0.9346
+    },
+    {
+      "line_id": "0160_viet_021",
+      "bbox": [
+        [
+          195,
+          1173
+        ],
+        [
+          321,
+          1179
+        ],
+        [
+          319,
+          1214
+        ],
+        [
+          194,
+          1208
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1294
+        ],
+        [
+          321,
+          1300
+        ],
+        [
+          319,
+          1335
+        ],
+        [
+          194,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1173,
+        321,
+        1214
+      ],
+      "text": "vào mặt.",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0160_viet_022",
+      "bbox": [
+        [
+          295,
+          1232
+        ],
+        [
+          827,
+          1232
+        ],
+        [
+          827,
+          1272
+        ],
+        [
+          295,
+          1272
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1353
+        ],
+        [
+          827,
+          1353
+        ],
+        [
+          827,
+          1393
+        ],
+        [
+          295,
+          1393
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1232,
+        827,
+        1272
+      ],
+      "text": "7 - 70 1, - 101 - 01/01/2 RẬ RV",
+      "confidence": 0.4623
+    },
+    {
+      "line_id": "0160_viet_023",
+      "bbox": [
+        [
+          297,
+          1282
+        ],
+        [
+          989,
+          1284
+        ],
+        [
+          989,
+          1319
+        ],
+        [
+          297,
+          1317
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1403
+        ],
+        [
+          989,
+          1405
+        ],
+        [
+          989,
+          1440
+        ],
+        [
+          297,
+          1438
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1282,
+        989,
+        1319
+      ],
+      "text": "Chủ khách tương bác, sơn xuyên chăn",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0160_viet_024",
+      "bbox": [
+        [
+          197,
+          1327
+        ],
+        [
+          304,
+          1327
+        ],
+        [
+          304,
+          1363
+        ],
+        [
+          197,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1448
+        ],
+        [
+          304,
+          1448
+        ],
+        [
+          304,
+          1484
+        ],
+        [
+          197,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1327,
+        304,
+        1363
+      ],
+      "text": "huyễn.",
+      "confidence": 0.874
+    },
+    {
+      "line_id": "0160_viet_025",
+      "bbox": [
+        [
+          226,
+          1369
+        ],
+        [
+          989,
+          1374
+        ],
+        [
+          989,
+          1410
+        ],
+        [
+          226,
+          1404
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1490
+        ],
+        [
+          989,
+          1495
+        ],
+        [
+          989,
+          1531
+        ],
+        [
+          226,
+          1525
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1369,
+        989,
+        1410
+      ],
+      "text": "Hai đoàn quân chủ, khách giao tranh: núi sông rung",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0160_viet_026",
+      "bbox": [
+        [
+          201,
+          1418
+        ],
+        [
+          383,
+          1418
+        ],
+        [
+          383,
+          1453
+        ],
+        [
+          201,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1539
+        ],
+        [
+          383,
+          1539
+        ],
+        [
+          383,
+          1574
+        ],
+        [
+          201,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1418,
+        383,
+        1453
+      ],
+      "text": "động, làp lóa",
+      "confidence": 0.8555
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "HÁN-VĂN TINH-TUY",
+      "Ô hô Y hi l",
+      "Ngô tưởng phù bắc phong chăn mạc, trị",
+      "VÀ Ở LÊ) MỆ",
+      "quân hồ thừa-cơ quầy nhiễu.",
+      "Chủ tướng kiêu địch, kỳ môn thụ chiến thuy",
+      "đền cổng trại cùng giặc giao chiền",
+      "Dã thụ mao kỳ, xuyên hồi tồ luyện",
+      "ĐV ĐÃ ĐẾN ĐẾN THANH",
+      "Phép nghiêm lòng sợ; uy cao, mạng hèn",
+      "Mũi tên sắc xuyên thủng xương, cát bỏng rát đập",
+      "7 - 70 1, - 101 - 01/01/2 RẬ RV",
+      "huyễn.",
+      "động, làp lóa"
+    ],
+    "dich_nghia_lines": [
+      "194",
+      "B 2 thị khám đánh",
+      "Tôi nghĩ đền trận gió bắc thổi lộng sa-mạc,",
+      "Hồ binh tứ tiện",
+      "03 E6 M P3",
+      "Chủ tướng khinh thường quân địch,",
+      "B7 E3 Á M DỊ IR ÉN A2",
+      "Ngoài đồng dựng cờ xí, trên sông chật chiên-bào",
+      "Pháp trọng tâm hãi, uy tôn mệnh tiện",
+      "Lợi thốc xuyên cốt, kinh sa nhập diện",
+      "vào mặt.",
+      "Chủ khách tương bác, sơn xuyên chăn",
+      "Hai đoàn quân chủ, khách giao tranh: núi sông rung"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "鴻呼噴嘻",
+        "phien_am": "HÁN-VĂN TINH-TUY",
+        "dich_nghia_gloss": "194"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "吾想夫北風振漠",
+        "phien_am": "Ô hô Y hi l",
+        "dich_nghia_gloss": "B 2 thị khám đánh"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "胡兵同便",
+        "phien_am": "Ngô tưởng phù bắc phong chăn mạc, trị",
+        "dich_nghia_gloss": "Tôi nghĩ đền trận gió bắc thổi lộng sa-mạc,"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "主將騎敵期門受戰",
+        "phien_am": "VÀ Ở LÊ) MỆ",
+        "dich_nghia_gloss": "Hồ binh tứ tiện"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "野",
+        "phien_am": "quân hồ thừa-cơ quầy nhiễu.",
+        "dich_nghia_gloss": "03 E6 M P3"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "堅龍旗",
+        "phien_am": "Chủ tướng kiêu địch, kỳ môn thụ chiến thuy",
+        "dich_nghia_gloss": "Chủ tướng khinh thường quân địch,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "川",
+        "phien_am": "đền cổng trại cùng giặc giao chiền",
+        "dich_nghia_gloss": "B7 E3 Á M DỊ IR ÉN A2"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "迎組",
+        "phien_am": "Dã thụ mao kỳ, xuyên hồi tồ luyện",
+        "dich_nghia_gloss": "Ngoài đồng dựng cờ xí, trên sông chật chiên-bào"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "練",
+        "phien_am": "ĐV ĐÃ ĐẾN ĐẾN THANH",
+        "dich_nghia_gloss": "Pháp trọng tâm hãi, uy tôn mệnh tiện"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "c心",
+        "phien_am": "Phép nghiêm lòng sợ; uy cao, mạng hèn",
+        "dich_nghia_gloss": "Lợi thốc xuyên cốt, kinh sa nhập diện"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "法重心",
+        "phien_am": "Mũi tên sắc xuyên thủng xương, cát bỏng rát đập",
+        "dich_nghia_gloss": "vào mặt."
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "駿咸•尊命",
+        "phien_am": "7 - 70 1, - 101 - 01/01/2 RẬ RV",
+        "dich_nghia_gloss": "Chủ khách tương bác, sơn xuyên chăn"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "利",
+        "phien_am": "huyễn.",
+        "dich_nghia_gloss": "Hai đoàn quân chủ, khách giao tranh: núi sông rung"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "餅宇骨驚沙入面",
+        "phien_am": "động, làp lóa",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "主容相博山川震眩",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,1179 @@
+{
+  "page_id": "0358",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 358,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0358_viet_000",
+      "bbox": [
+        [
+          765,
+          101
+        ],
+        [
+          845,
+          101
+        ],
+        [
+          845,
+          152
+        ],
+        [
+          765,
+          152
+        ]
+      ],
+      "bbox_original": [
+        [
+          765,
+          256
+        ],
+        [
+          845,
+          256
+        ],
+        [
+          845,
+          307
+        ],
+        [
+          765,
+          307
+        ]
+      ],
+      "box_xyxy": [
+        765,
+        101,
+        845,
+        152
+      ],
+      "text": "120",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0358_viet_001",
+      "bbox": [
+        [
+          348,
+          450
+        ],
+        [
+          1415,
+          448
+        ],
+        [
+          1415,
+          493
+        ],
+        [
+          348,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          348,
+          605
+        ],
+        [
+          1415,
+          603
+        ],
+        [
+          1415,
+          648
+        ],
+        [
+          348,
+          650
+        ]
+      ],
+      "box_xyxy": [
+        348,
+        448,
+        1415,
+        495
+      ],
+      "text": "44472240441242222",
+      "confidence": 0.369
+    },
+    {
+      "line_id": "0358_viet_002",
+      "bbox": [
+        [
+          188,
+          683
+        ],
+        [
+          354,
+          683
+        ],
+        [
+          354,
+          720
+        ],
+        [
+          188,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          838
+        ],
+        [
+          354,
+          838
+        ],
+        [
+          354,
+          875
+        ],
+        [
+          188,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        683,
+        354,
+        720
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.8664
+    },
+    {
+      "line_id": "0358_viet_003",
+      "bbox": [
+        [
+          603,
+          724
+        ],
+        [
+          1000,
+          724
+        ],
+        [
+          1000,
+          760
+        ],
+        [
+          603,
+          760
+        ]
+      ],
+      "bbox_original": [
+        [
+          603,
+          879
+        ],
+        [
+          1000,
+          879
+        ],
+        [
+          1000,
+          915
+        ],
+        [
+          603,
+          915
+        ]
+      ],
+      "box_xyxy": [
+        603,
+        724,
+        1000,
+        760
+      ],
+      "text": "NAM TẤN VƯƠNG LUẬN",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0358_viet_004",
+      "bbox": [
+        [
+          182,
+          831
+        ],
+        [
+          1443,
+          837
+        ],
+        [
+          1443,
+          882
+        ],
+        [
+          181,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          986
+        ],
+        [
+          1443,
+          992
+        ],
+        [
+          1443,
+          1037
+        ],
+        [
+          181,
+          1031
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        831,
+        1443,
+        882
+      ],
+      "text": "haynh xượng Ngập chi yềm ức. Nhất, đán đắc chi, bãi năng tự thận, nhì hưởng",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0358_viet_005",
+      "bbox": [
+        [
+          188,
+          878
+        ],
+        [
+          903,
+          878
+        ],
+        [
+          903,
+          914
+        ],
+        [
+          188,
+          914
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1033
+        ],
+        [
+          903,
+          1033
+        ],
+        [
+          903,
+          1069
+        ],
+        [
+          188,
+          1069
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        878,
+        903,
+        914
+      ],
+      "text": "quốc nhật thiền, chính tích vô văn. tích tai",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0358_viet_006",
+      "bbox": [
+        [
+          272,
+          927
+        ],
+        [
+          1435,
+          932
+        ],
+        [
+          1434,
+          975
+        ],
+        [
+          272,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1082
+        ],
+        [
+          1435,
+          1087
+        ],
+        [
+          1434,
+          1130
+        ],
+        [
+          272,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        927,
+        1435,
+        975
+      ],
+      "text": "Nhiền quan kỳ miễn, Bình vương chi tội quá, khởi phi nhân.hồ ? Dung",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0358_viet_007",
+      "bbox": [
+        [
+          184,
+          966
+        ],
+        [
+          1422,
+          970
+        ],
+        [
+          1421,
+          1013
+        ],
+        [
+          184,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1121
+        ],
+        [
+          1422,
+          1125
+        ],
+        [
+          1421,
+          1168
+        ],
+        [
+          184,
+          1164
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        966,
+        1422,
+        1013
+      ],
+      "text": "Xương Ngập chi kiêu cử, khởi phi cung hồ ? Kỳ nhân thả cung, diệc khá kiến",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0358_viet_008",
+      "bbox": [
+        [
+          186,
+          1015
+        ],
+        [
+          430,
+          1015
+        ],
+        [
+          430,
+          1045
+        ],
+        [
+          186,
+          1045
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1170
+        ],
+        [
+          430,
+          1170
+        ],
+        [
+          430,
+          1200
+        ],
+        [
+          186,
+          1200
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1015,
+        430,
+        1045
+      ],
+      "text": "kỳ vi, nhân hỹ Y",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0358_viet_009",
+      "bbox": [
+        [
+          182,
+          1099
+        ],
+        [
+          482,
+          1101
+        ],
+        [
+          482,
+          1137
+        ],
+        [
+          181,
+          1135
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1254
+        ],
+        [
+          482,
+          1256
+        ],
+        [
+          482,
+          1292
+        ],
+        [
+          181,
+          1290
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1099,
+        482,
+        1137
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0358_viet_010",
+      "bbox": [
+        [
+          266,
+          1206
+        ],
+        [
+          1415,
+          1217
+        ],
+        [
+          1415,
+          1259
+        ],
+        [
+          266,
+          1248
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1361
+        ],
+        [
+          1415,
+          1372
+        ],
+        [
+          1415,
+          1414
+        ],
+        [
+          266,
+          1403
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        1206,
+        1415,
+        1259
+      ],
+      "text": "Vua Nam Tấn nhà Ngô trước thì bị gia thần là Tam Kha giam lỏng, sau",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0358_viet_011",
+      "bbox": [
+        [
+          179,
+          1249
+        ],
+        [
+          1415,
+          1255
+        ],
+        [
+          1415,
+          1298
+        ],
+        [
+          179,
+          1291
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1404
+        ],
+        [
+          1415,
+          1410
+        ],
+        [
+          1415,
+          1453
+        ],
+        [
+          179,
+          1446
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1249,
+        1415,
+        1298
+      ],
+      "text": "lại bị anh là Xương Ngập lấn át. Một khi, đắc, chỉ lại không biết giữ gìn cần",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0358_viet_012",
+      "bbox": [
+        [
+          177,
+          1287
+        ],
+        [
+          1413,
+          1291
+        ],
+        [
+          1413,
+          1334
+        ],
+        [
+          177,
+          1330
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1442
+        ],
+        [
+          1413,
+          1446
+        ],
+        [
+          1413,
+          1489
+        ],
+        [
+          177,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1287,
+        1413,
+        1334
+      ],
+      "text": "\"thận nên làm vuả chẳng được bao lâu, chính tích chẳng có gì đáng kể, Tiếc thay 1\"",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0358_viet_013",
+      "bbox": [
+        [
+          264,
+          1341
+        ],
+        [
+          1413,
+          1349
+        ],
+        [
+          1413,
+          1392
+        ],
+        [
+          263,
+          1383
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          1496
+        ],
+        [
+          1413,
+          1504
+        ],
+        [
+          1413,
+          1547
+        ],
+        [
+          263,
+          1538
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        1341,
+        1413,
+        1392
+      ],
+      "text": "Nhưng xét ra việc tha tội cho Bình vương, há chẳng phải là nhân hậu ư?",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0358_viet_014",
+      "bbox": [
+        [
+          182,
+          1386
+        ],
+        [
+          1406,
+          1390
+        ],
+        [
+          1406,
+          1426
+        ],
+        [
+          181,
+          1422
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1541
+        ],
+        [
+          1406,
+          1545
+        ],
+        [
+          1406,
+          1581
+        ],
+        [
+          181,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1386,
+        1406,
+        1426
+      ],
+      "text": "Dung thứ cho Xương Ngập kiêu nhờn, há chẳng phải là cung kinh ư? Đã Nội",
+      "confidence": 0.8777
+    },
+    {
+      "line_id": "0358_viet_015",
+      "bbox": [
+        [
+          177,
+          1424
+        ],
+        [
+          1409,
+          1429
+        ],
+        [
+          1408,
+          1467
+        ],
+        [
+          177,
+          1463
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1579
+        ],
+        [
+          1409,
+          1584
+        ],
+        [
+          1408,
+          1622
+        ],
+        [
+          177,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1424,
+        1409,
+        1467
+      ],
+      "text": "nhân hậu và cung kinh, thì qua đó cũng có thể biết được nhân cách của ông",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0358_viet_016",
+      "bbox": [
+        [
+          172,
+          1464
+        ],
+        [
+          290,
+          1470
+        ],
+        [
+          288,
+          1506
+        ],
+        [
+          170,
+          1501
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1619
+        ],
+        [
+          290,
+          1625
+        ],
+        [
+          288,
+          1661
+        ],
+        [
+          170,
+          1656
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1464,
+        290,
+        1506
+      ],
+      "text": "ta vậy",
+      "confidence": 0.9365
+    },
+    {
+      "line_id": "0358_viet_017",
+      "bbox": [
+        [
+          834,
+          1516
+        ],
+        [
+          1374,
+          1521
+        ],
+        [
+          1374,
+          1559
+        ],
+        [
+          834,
+          1555
+        ]
+      ],
+      "bbox_original": [
+        [
+          834,
+          1671
+        ],
+        [
+          1374,
+          1676
+        ],
+        [
+          1374,
+          1714
+        ],
+        [
+          834,
+          1710
+        ]
+      ],
+      "box_xyxy": [
+        834,
+        1516,
+        1374,
+        1559
+      ],
+      "text": "CAO HUY GIU - BẰNG THANH",
+      "confidence": 0.8868
+    },
+    {
+      "line_id": "0358_viet_018",
+      "bbox": [
+        [
+          648,
+          1643
+        ],
+        [
+          936,
+          1645
+        ],
+        [
+          935,
+          1675
+        ],
+        [
+          648,
+          1673
+        ]
+      ],
+      "bbox_original": [
+        [
+          648,
+          1798
+        ],
+        [
+          936,
+          1800
+        ],
+        [
+          935,
+          1830
+        ],
+        [
+          648,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        648,
+        1643,
+        936,
+        1675
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0358_viet_019",
+      "bbox": [
+        [
+          179,
+          1688
+        ],
+        [
+          1411,
+          1694
+        ],
+        [
+          1411,
+          1737
+        ],
+        [
+          179,
+          1730
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1843
+        ],
+        [
+          1411,
+          1849
+        ],
+        [
+          1411,
+          1892
+        ],
+        [
+          179,
+          1885
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1688,
+        1411,
+        1737
+      ],
+      "text": "(1) \"Đầu, đề do chúng tội thêm. Nam Tấn Vương - là Ngô Xương Văn, % 3 X - con thứ",
+      "confidence": 0.8527
+    },
+    {
+      "line_id": "0358_viet_020",
+      "bbox": [
+        [
+          238,
+          1728
+        ],
+        [
+          1413,
+          1733
+        ],
+        [
+          1413,
+          1769
+        ],
+        [
+          238,
+          1765
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1883
+        ],
+        [
+          1413,
+          1888
+        ],
+        [
+          1413,
+          1924
+        ],
+        [
+          238,
+          1920
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1728,
+        1413,
+        1769
+      ],
+      "text": "hai Ngố Quyền % Hế - Sau khi truất bỏ Tam Kha (950), Vương đón Xương Ngập về",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0358_viet_021",
+      "bbox": [
+        [
+          238,
+          1767
+        ],
+        [
+          1413,
+          1769
+        ],
+        [
+          1413,
+          1808
+        ],
+        [
+          238,
+          1805
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1922
+        ],
+        [
+          1413,
+          1924
+        ],
+        [
+          1413,
+          1963
+        ],
+        [
+          238,
+          1960
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1767,
+        1413,
+        1808
+      ],
+      "text": "kinh đô cùng coi việc nước, Xương Ngập xừng là Thiên Sách Vương X X Thiên L. về",
+      "confidence": 0.8654
+    },
+    {
+      "line_id": "0358_viet_022",
+      "bbox": [
+        [
+          236,
+          1803
+        ],
+        [
+          1411,
+          1808
+        ],
+        [
+          1411,
+          1844
+        ],
+        [
+          235,
+          1840
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1958
+        ],
+        [
+          1411,
+          1963
+        ],
+        [
+          1411,
+          1999
+        ],
+        [
+          235,
+          1995
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1803,
+        1411,
+        1844
+      ],
+      "text": "sau Xương Ngập chuyên giữ quyền bính, Nam Tấn Vương không được dự chính sự nữa.",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0358_viet_023",
+      "bbox": [
+        [
+          233,
+          1837
+        ],
+        [
+          1175,
+          1844
+        ],
+        [
+          1175,
+          1880
+        ],
+        [
+          233,
+          1874
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1992
+        ],
+        [
+          1175,
+          1999
+        ],
+        [
+          1175,
+          2035
+        ],
+        [
+          233,
+          2029
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1837,
+        1175,
+        1880
+      ],
+      "text": "- Năm 951 Thiên Sách Vương mắt, ông lại lên ngôi, đến năm 967 thi mất",
+      "confidence": 0.9135
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "120",
+      "44472240441242222",
+      "NAM TẤN VƯƠNG LUẬN",
+      "haynh xượng Ngập chi yềm ức. Nhất, đán đắc chi, bãi năng tự thận, nhì hưởng",
+      "quốc nhật thiền, chính tích vô văn. tích tai",
+      "Nhiền quan kỳ miễn, Bình vương chi tội quá, khởi phi nhân.hồ ? Dung",
+      "Xương Ngập chi kiêu cử, khởi phi cung hồ ? Kỳ nhân thả cung, diệc khá kiến",
+      "kỳ vi, nhân hỹ Y"
+    ],
+    "dich_nghia_lines": [
+      "Vua Nam Tấn nhà Ngô trước thì bị gia thần là Tam Kha giam lỏng, sau",
+      "lại bị anh là Xương Ngập lấn át. Một khi, đắc, chỉ lại không biết giữ gìn cần",
+      "\"thận nên làm vuả chẳng được bao lâu, chính tích chẳng có gì đáng kể, Tiếc thay 1\"",
+      "Nhưng xét ra việc tha tội cho Bình vương, há chẳng phải là nhân hậu ư?",
+      "Dung thứ cho Xương Ngập kiêu nhờn, há chẳng phải là cung kinh ư? Đã Nội",
+      "nhân hậu và cung kinh, thì qua đó cũng có thể biết được nhân cách của ông",
+      "ta vậy",
+      "CAO HUY GIU - BẰNG THANH",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1) \"Đầu, đề do chúng tội thêm. Nam Tấn Vương - là Ngô Xương Văn, % 3 X - con thứ",
+      "hai Ngố Quyền % Hế - Sau khi truất bỏ Tam Kha (950), Vương đón Xương Ngập về",
+      "kinh đô cùng coi việc nước, Xương Ngập xừng là Thiên Sách Vương X X Thiên L. về",
+      "sau Xương Ngập chuyên giữ quyền bính, Nam Tấn Vương không được dự chính sự nữa.",
+      "- Năm 951 Thiên Sách Vương mắt, ông lại lên ngôi, đến năm 967 thi mất"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

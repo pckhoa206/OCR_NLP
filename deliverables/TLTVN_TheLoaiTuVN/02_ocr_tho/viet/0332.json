@@ -1,0 +1,940 @@
+{
+  "page_id": "0332",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 332,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1127,
+    "footnote_separator_y_original": 1242,
+    "effective_width": 1122,
+    "effective_height": 1127
+  },
+  "items": [
+    {
+      "line_id": "0332_viet_000",
+      "bbox": [
+        [
+          146,
+          2
+        ],
+        [
+          464,
+          4
+        ],
+        [
+          464,
+          28
+        ],
+        [
+          146,
+          27
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          117
+        ],
+        [
+          464,
+          119
+        ],
+        [
+          464,
+          143
+        ],
+        [
+          146,
+          142
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        2,
+        464,
+        28
+      ],
+      "text": "Thôi xán trâm lệ phục",
+      "confidence": 0.854
+    },
+    {
+      "line_id": "0332_viet_001",
+      "bbox": [
+        [
+          144,
+          47
+        ],
+        [
+          410,
+          47
+        ],
+        [
+          410,
+          79
+        ],
+        [
+          144,
+          79
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          162
+        ],
+        [
+          410,
+          162
+        ],
+        [
+          410,
+          194
+        ],
+        [
+          144,
+          194
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        47,
+        410,
+        79
+      ],
+      "text": "Xuy kim phùngoc",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0332_viet_002",
+      "bbox": [
+        [
+          146,
+          94
+        ],
+        [
+          681,
+          94
+        ],
+        [
+          681,
+          122
+        ],
+        [
+          146,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          209
+        ],
+        [
+          681,
+          209
+        ],
+        [
+          681,
+          237
+        ],
+        [
+          146,
+          237
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        94,
+        681,
+        122
+      ],
+      "text": "Hàm Thiêu hưởng triệt tê thanh chúc",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0332_viet_003",
+      "bbox": [
+        [
+          144,
+          189
+        ],
+        [
+          476,
+          191
+        ],
+        [
+          476,
+          224
+        ],
+        [
+          144,
+          222
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          304
+        ],
+        [
+          476,
+          306
+        ],
+        [
+          476,
+          339
+        ],
+        [
+          144,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        189,
+        476,
+        224
+      ],
+      "text": "Đàn hương phún noãn",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0332_viet_004",
+      "bbox": [
+        [
+          145,
+          237
+        ],
+        [
+          515,
+          235
+        ],
+        [
+          515,
+          270
+        ],
+        [
+          145,
+          272
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          352
+        ],
+        [
+          515,
+          350
+        ],
+        [
+          515,
+          385
+        ],
+        [
+          145,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        235,
+        515,
+        272
+      ],
+      "text": "Cung phiến ngũ vân khai",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0332_viet_005",
+      "bbox": [
+        [
+          146,
+          288
+        ],
+        [
+          684,
+          285
+        ],
+        [
+          684,
+          317
+        ],
+        [
+          146,
+          319
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          403
+        ],
+        [
+          684,
+          400
+        ],
+        [
+          684,
+          432
+        ],
+        [
+          146,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        285,
+        684,
+        319
+      ],
+      "text": "Quân Thiên điệt xướng Dao Trì khúc Trị",
+      "confidence": 0.871
+    },
+    {
+      "line_id": "0332_viet_006",
+      "bbox": [
+        [
+          141,
+          331
+        ],
+        [
+          324,
+          335
+        ],
+        [
+          323,
+          368
+        ],
+        [
+          140,
+          364
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          446
+        ],
+        [
+          324,
+          450
+        ],
+        [
+          323,
+          483
+        ],
+        [
+          140,
+          479
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        331,
+        324,
+        368
+      ],
+      "text": "Hà Hán thự,",
+      "confidence": 0.8674
+    },
+    {
+      "line_id": "0332_viet_007",
+      "bbox": [
+        [
+          145,
+          378
+        ],
+        [
+          567,
+          378
+        ],
+        [
+          567,
+          413
+        ],
+        [
+          145,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          493
+        ],
+        [
+          567,
+          493
+        ],
+        [
+          567,
+          528
+        ],
+        [
+          145,
+          528
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        378,
+        567,
+        413
+      ],
+      "text": "Tiên trù dẫn thiên thu hải ốc,",
+      "confidence": 0.9017
+    },
+    {
+      "line_id": "0332_viet_008",
+      "bbox": [
+        [
+          145,
+          432
+        ],
+        [
+          758,
+          430
+        ],
+        [
+          759,
+          465
+        ],
+        [
+          145,
+          467
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          547
+        ],
+        [
+          758,
+          545
+        ],
+        [
+          759,
+          580
+        ],
+        [
+          145,
+          582
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        430,
+        759,
+        467
+      ],
+      "text": "Trường chiếu diệu, Nghiêu giai ngọc chúc trị",
+      "confidence": 0.8715
+    },
+    {
+      "line_id": "0332_viet_009",
+      "bbox": [
+        [
+          146,
+          482
+        ],
+        [
+          326,
+          482
+        ],
+        [
+          326,
+          515
+        ],
+        [
+          146,
+          515
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          597
+        ],
+        [
+          326,
+          597
+        ],
+        [
+          326,
+          630
+        ],
+        [
+          146,
+          630
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        482,
+        326,
+        515
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0332_viet_010",
+      "bbox": [
+        [
+          146,
+          532
+        ],
+        [
+          510,
+          532
+        ],
+        [
+          510,
+          564
+        ],
+        [
+          146,
+          564
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          647
+        ],
+        [
+          510,
+          647
+        ],
+        [
+          510,
+          679
+        ],
+        [
+          146,
+          679
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        532,
+        510,
+        564
+      ],
+      "text": "Điệu Phượng hoàng các",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0332_viet_011",
+      "bbox": [
+        [
+          148,
+          579
+        ],
+        [
+          732,
+          579
+        ],
+        [
+          732,
+          610
+        ],
+        [
+          148,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          694
+        ],
+        [
+          732,
+          694
+        ],
+        [
+          732,
+          725
+        ],
+        [
+          148,
+          725
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        579,
+        732,
+        610
+      ],
+      "text": "Cửa cung mở ra con đường của nhà vua, nam",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0332_viet_012",
+      "bbox": [
+        [
+          145,
+          623
+        ],
+        [
+          648,
+          625
+        ],
+        [
+          647,
+          661
+        ],
+        [
+          145,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          738
+        ],
+        [
+          648,
+          740
+        ],
+        [
+          647,
+          776
+        ],
+        [
+          145,
+          775
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        623,
+        648,
+        661
+      ],
+      "text": "Chín tầng trang nghiêm và đẹp đẽ.",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0332_viet_013",
+      "bbox": [
+        [
+          145,
+          672
+        ],
+        [
+          726,
+          670
+        ],
+        [
+          726,
+          707
+        ],
+        [
+          145,
+          708
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          787
+        ],
+        [
+          726,
+          785
+        ],
+        [
+          726,
+          822
+        ],
+        [
+          145,
+          823
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        670,
+        726,
+        708
+      ],
+      "text": "Trước lầu Đan Phượng xe loan chỉnh tề",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0332_viet_014",
+      "bbox": [
+        [
+          146,
+          722
+        ],
+        [
+          722,
+          722
+        ],
+        [
+          722,
+          757
+        ],
+        [
+          146,
+          757
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          837
+        ],
+        [
+          722,
+          837
+        ],
+        [
+          722,
+          872
+        ],
+        [
+          146,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        722,
+        722,
+        757
+      ],
+      "text": "Trâm ngọc long lanh, trang phục hoa lệ",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0332_viet_015",
+      "bbox": [
+        [
+          141,
+          758
+        ],
+        [
+          457,
+          758
+        ],
+        [
+          457,
+          811
+        ],
+        [
+          141,
+          811
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          873
+        ],
+        [
+          457,
+          873
+        ],
+        [
+          457,
+          926
+        ],
+        [
+          141,
+          926
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        758,
+        457,
+        811
+      ],
+      "text": "Nấu vàng, nổi ngọc",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0332_viet_016",
+      "bbox": [
+        [
+          144,
+          812
+        ],
+        [
+          981,
+          814
+        ],
+        [
+          981,
+          853
+        ],
+        [
+          144,
+          852
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          927
+        ],
+        [
+          981,
+          929
+        ],
+        [
+          981,
+          968
+        ],
+        [
+          144,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        812,
+        981,
+        853
+      ],
+      "text": "Nhạc Hàm nhạc Thiều? vang vọng, đồng thanh chúc tụng",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0332_viet_017",
+      "bbox": [
+        [
+          148,
+          913
+        ],
+        [
+          569,
+          913
+        ],
+        [
+          569,
+          950
+        ],
+        [
+          148,
+          950
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          1028
+        ],
+        [
+          569,
+          1028
+        ],
+        [
+          569,
+          1065
+        ],
+        [
+          148,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        913,
+        569,
+        950
+      ],
+      "text": "Gỗ đàn hương phung hơi ấm,",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0332_viet_018",
+      "bbox": [
+        [
+          147,
+          961
+        ],
+        [
+          714,
+          963
+        ],
+        [
+          714,
+          998
+        ],
+        [
+          147,
+          997
+        ]
+      ],
+      "bbox_original": [
+        [
+          147,
+          1076
+        ],
+        [
+          714,
+          1078
+        ],
+        [
+          714,
+          1113
+        ],
+        [
+          147,
+          1112
+        ]
+      ],
+      "box_xyxy": [
+        147,
+        961,
+        714,
+        998
+      ],
+      "text": "Chiếc quạt tròn? hé trong năm sắc mây máy",
+      "confidence": 0.8558
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Thôi xán trâm lệ phục",
+      "Xuy kim phùngoc",
+      "Hàm Thiêu hưởng triệt tê thanh chúc",
+      "Đàn hương phún noãn",
+      "Cung phiến ngũ vân khai",
+      "Quân Thiên điệt xướng Dao Trì khúc Trị",
+      "Hà Hán thự,",
+      "Tiên trù dẫn thiên thu hải ốc,",
+      "Trường chiếu diệu, Nghiêu giai ngọc chúc trị"
+    ],
+    "dich_nghia_lines": [
+      "Điệu Phượng hoàng các",
+      "Cửa cung mở ra con đường của nhà vua, nam",
+      "Chín tầng trang nghiêm và đẹp đẽ.",
+      "Trước lầu Đan Phượng xe loan chỉnh tề",
+      "Trâm ngọc long lanh, trang phục hoa lệ",
+      "Nấu vàng, nổi ngọc",
+      "Nhạc Hàm nhạc Thiều? vang vọng, đồng thanh chúc tụng",
+      "Gỗ đàn hương phung hơi ấm,",
+      "Chiếc quạt tròn? hé trong năm sắc mây máy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1371 @@
+{
+  "page_id": "0376",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 376,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0376_viet_000",
+      "bbox": [
+        [
+          190,
+          99
+        ],
+        [
+          382,
+          99
+        ],
+        [
+          382,
+          128
+        ],
+        [
+          190,
+          128
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          254
+        ],
+        [
+          382,
+          254
+        ],
+        [
+          382,
+          283
+        ],
+        [
+          190,
+          283
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        99,
+        382,
+        128
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0376_viet_001",
+      "bbox": [
+        [
+          400,
+          137
+        ],
+        [
+          1413,
+          150
+        ],
+        [
+          1412,
+          195
+        ],
+        [
+          399,
+          182
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          292
+        ],
+        [
+          1413,
+          305
+        ],
+        [
+          1412,
+          350
+        ],
+        [
+          399,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        399,
+        137,
+        1413,
+        195
+      ],
+      "text": "BÀN VỀ VIỆC QUY CÔNG CHO PHẬT VÀ ĐẠO (): 3 KM THANH",
+      "confidence": 0.8641
+    },
+    {
+      "line_id": "0376_viet_002",
+      "bbox": [
+        [
+          279,
+          214
+        ],
+        [
+          1413,
+          214
+        ],
+        [
+          1413,
+          263
+        ],
+        [
+          279,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          369
+        ],
+        [
+          1413,
+          369
+        ],
+        [
+          1413,
+          418
+        ],
+        [
+          279,
+          418
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        214,
+        1413,
+        263
+      ],
+      "text": "Những việc trú tính trong cửa tưởng, quyết thắng ngoài nghìn dặm, đều",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0376_viet_003",
+      "bbox": [
+        [
+          184,
+          255
+        ],
+        [
+          1009,
+          259
+        ],
+        [
+          1009,
+          298
+        ],
+        [
+          184,
+          293
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          410
+        ],
+        [
+          1009,
+          414
+        ],
+        [
+          1009,
+          453
+        ],
+        [
+          184,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        255,
+        1009,
+        298
+      ],
+      "text": "là công của bậc tướng giỏi cầm quân nơi chiến trận",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0376_viet_004",
+      "bbox": [
+        [
+          277,
+          304
+        ],
+        [
+          1411,
+          313
+        ],
+        [
+          1410,
+          356
+        ],
+        [
+          276,
+          347
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          459
+        ],
+        [
+          1411,
+          468
+        ],
+        [
+          1410,
+          511
+        ],
+        [
+          276,
+          502
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        304,
+        1411,
+        356
+      ],
+      "text": "Thái phó Lý Công Bình phá được quân Chân-lạp vào cướp châu Nghệ-",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0376_viet_005",
+      "bbox": [
+        [
+          182,
+          347
+        ],
+        [
+          1409,
+          353
+        ],
+        [
+          1408,
+          394
+        ],
+        [
+          181,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          502
+        ],
+        [
+          1409,
+          508
+        ],
+        [
+          1408,
+          549
+        ],
+        [
+          181,
+          543
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        347,
+        1409,
+        394
+      ],
+      "text": "an, sai người báo tin thắng trận, Đáng lẽ Lý Thần Tông phải làm lễ cáo tiệp",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0376_viet_006",
+      "bbox": [
+        [
+          182,
+          381
+        ],
+        [
+          1406,
+          390
+        ],
+        [
+          1406,
+          435
+        ],
+        [
+          181,
+          426
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          536
+        ],
+        [
+          1406,
+          545
+        ],
+        [
+          1406,
+          590
+        ],
+        [
+          181,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        381,
+        1406,
+        435
+      ],
+      "text": "ở Thái miếu, bàn công ở triều đình, khen thường công dẹp giặc cho bọn Lý",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0376_viet_007",
+      "bbox": [
+        [
+          182,
+          422
+        ],
+        [
+          1409,
+          428
+        ],
+        [
+          1408,
+          471
+        ],
+        [
+          181,
+          465
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          577
+        ],
+        [
+          1409,
+          583
+        ],
+        [
+          1408,
+          626
+        ],
+        [
+          181,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        422,
+        1409,
+        471
+      ],
+      "text": "Công Binh mới phải. Nay lại quy công cho Phật, Đạo, đến khắp các chùa và",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0376_viet_008",
+      "bbox": [
+        [
+          179,
+          463
+        ],
+        [
+          1409,
+          465
+        ],
+        [
+          1408,
+          510
+        ],
+        [
+          179,
+          508
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          618
+        ],
+        [
+          1409,
+          620
+        ],
+        [
+          1408,
+          665
+        ],
+        [
+          179,
+          663
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        463,
+        1409,
+        510
+      ],
+      "text": "các quản (?) lễ tạ, như thế không phải là cách ủy lạo kẻ có công, cồ lệ chí khi",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0376_viet_009",
+      "bbox": [
+        [
+          181,
+          506
+        ],
+        [
+          347,
+          503
+        ],
+        [
+          348,
+          542
+        ],
+        [
+          182,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          661
+        ],
+        [
+          347,
+          658
+        ],
+        [
+          348,
+          697
+        ],
+        [
+          182,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        503,
+        348,
+        544
+      ],
+      "text": "quân lính",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0376_viet_010",
+      "bbox": [
+        [
+          868,
+          550
+        ],
+        [
+          1331,
+          550
+        ],
+        [
+          1331,
+          580
+        ],
+        [
+          868,
+          580
+        ]
+      ],
+      "bbox_original": [
+        [
+          868,
+          705
+        ],
+        [
+          1331,
+          705
+        ],
+        [
+          1331,
+          735
+        ],
+        [
+          868,
+          735
+        ]
+      ],
+      "box_xyxy": [
+        868,
+        550,
+        1331,
+        580
+      ],
+      "text": "CAO HUY GIU M CAO XUÂN HUY",
+      "confidence": 0.8666
+    },
+    {
+      "line_id": "0376_viet_011",
+      "bbox": [
+        [
+          184,
+          625
+        ],
+        [
+          367,
+          625
+        ],
+        [
+          367,
+          662
+        ],
+        [
+          184,
+          662
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          780
+        ],
+        [
+          367,
+          780
+        ],
+        [
+          367,
+          817
+        ],
+        [
+          184,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        625,
+        367,
+        662
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0376_viet_012",
+      "bbox": [
+        [
+          637,
+          660
+        ],
+        [
+          938,
+          662
+        ],
+        [
+          937,
+          698
+        ],
+        [
+          637,
+          696
+        ]
+      ],
+      "bbox_original": [
+        [
+          637,
+          815
+        ],
+        [
+          938,
+          817
+        ],
+        [
+          937,
+          853
+        ],
+        [
+          637,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        637,
+        660,
+        938,
+        698
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0376_viet_013",
+      "bbox": [
+        [
+          171,
+          717
+        ],
+        [
+          1406,
+          724
+        ],
+        [
+          1406,
+          760
+        ],
+        [
+          171,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          872
+        ],
+        [
+          1406,
+          879
+        ],
+        [
+          1406,
+          915
+        ],
+        [
+          171,
+          909
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        717,
+        1406,
+        760
+      ],
+      "text": "(1) Đầu đề do chúng tôi thêm. Theo ĐVSKTT. ngày Giáp dần tháng Hai năm Mậu thân",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0376_viet_014",
+      "bbox": [
+        [
+          238,
+          752
+        ],
+        [
+          1409,
+          758
+        ],
+        [
+          1408,
+          801
+        ],
+        [
+          238,
+          794
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          907
+        ],
+        [
+          1409,
+          913
+        ],
+        [
+          1408,
+          956
+        ],
+        [
+          238,
+          949
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        752,
+        1409,
+        801
+      ],
+      "text": "(1128), hơn 2 vạn người Chân-lạp 4 lắc vào cướp châu Nghệ an X 4 - Thái phó",
+      "confidence": 0.8863
+    },
+    {
+      "line_id": "0376_viet_015",
+      "bbox": [
+        [
+          242,
+          792
+        ],
+        [
+          1402,
+          799
+        ],
+        [
+          1402,
+          835
+        ],
+        [
+          242,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          947
+        ],
+        [
+          1402,
+          954
+        ],
+        [
+          1402,
+          990
+        ],
+        [
+          242,
+          984
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        792,
+        1402,
+        835
+      ],
+      "text": "Lý Công Binh đem quản đi đánh, Ngày Đinh mão thư báo tin thắng trận của Còng Bình",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0376_viet_016",
+      "bbox": [
+        [
+          242,
+          824
+        ],
+        [
+          1391,
+          831
+        ],
+        [
+          1391,
+          874
+        ],
+        [
+          242,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          979
+        ],
+        [
+          1391,
+          986
+        ],
+        [
+          1391,
+          1029
+        ],
+        [
+          242,
+          1022
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        824,
+        1391,
+        874
+      ],
+      "text": "về đến Kinh sưr, Hòm sau Thần Tông đến hai cung Thái-thanh 2 Xf. Cảnh-linh 7",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0376_viet_017",
+      "bbox": [
+        [
+          251,
+          859
+        ],
+        [
+          1407,
+          870
+        ],
+        [
+          1406,
+          915
+        ],
+        [
+          250,
+          904
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1014
+        ],
+        [
+          1407,
+          1025
+        ],
+        [
+          1406,
+          1070
+        ],
+        [
+          250,
+          1059
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        859,
+        1407,
+        915
+      ],
+      "text": "E và các chùa quản trong thành tạ ơn Phật và Thánh đã phù hộ cho Công Bình",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0376_viet_018",
+      "bbox": [
+        [
+          243,
+          899
+        ],
+        [
+          394,
+          904
+        ],
+        [
+          392,
+          941
+        ],
+        [
+          242,
+          936
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1054
+        ],
+        [
+          394,
+          1059
+        ],
+        [
+          392,
+          1096
+        ],
+        [
+          242,
+          1091
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        899,
+        394,
+        941
+      ],
+      "text": "thắng trận",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0376_viet_019",
+      "bbox": [
+        [
+          290,
+          944
+        ],
+        [
+          1404,
+          953
+        ],
+        [
+          1404,
+          990
+        ],
+        [
+          289,
+          981
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1099
+        ],
+        [
+          1404,
+          1108
+        ],
+        [
+          1404,
+          1145
+        ],
+        [
+          289,
+          1136
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        944,
+        1404,
+        990
+      ],
+      "text": "Dười thời Lý Thần Tông, Công Bình cũng có - một vai trò quan trọng. Ông nhiều",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0376_viet_020",
+      "bbox": [
+        [
+          236,
+          979
+        ],
+        [
+          1132,
+          985
+        ],
+        [
+          1132,
+          1028
+        ],
+        [
+          235,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1134
+        ],
+        [
+          1132,
+          1140
+        ],
+        [
+          1132,
+          1183
+        ],
+        [
+          235,
+          1176
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        979,
+        1132,
+        1028
+      ],
+      "text": "lần đánh thắng người Chàn-lạp vào cướp phá biên giới phía Nam.",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0376_viet_021",
+      "bbox": [
+        [
+          175,
+          1030
+        ],
+        [
+          1311,
+          1041
+        ],
+        [
+          1311,
+          1077
+        ],
+        [
+          175,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1185
+        ],
+        [
+          1311,
+          1196
+        ],
+        [
+          1311,
+          1232
+        ],
+        [
+          175,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1030,
+        1311,
+        1077
+      ],
+      "text": "(2) Nơi thờ cũng của Phật giáo gọi là chùa, nơi thờ cúng của Đạo giáo gọi là quán.",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0376_viet_022",
+      "bbox": [
+        [
+          763,
+          1244
+        ],
+        [
+          823,
+          1244
+        ],
+        [
+          823,
+          1287
+        ],
+        [
+          763,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          763,
+          1399
+        ],
+        [
+          823,
+          1399
+        ],
+        [
+          823,
+          1442
+        ],
+        [
+          763,
+          1442
+        ]
+      ],
+      "box_xyxy": [
+        763,
+        1244,
+        823,
+        1287
+      ],
+      "text": "135",
+      "confidence": 0.92
+    },
+    {
+      "line_id": "0376_viet_023",
+      "bbox": [
+        [
+          318,
+          1518
+        ],
+        [
+          1372,
+          1525
+        ],
+        [
+          1372,
+          1570
+        ],
+        [
+          317,
+          1563
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1673
+        ],
+        [
+          1372,
+          1680
+        ],
+        [
+          1372,
+          1725
+        ],
+        [
+          317,
+          1718
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1518,
+        1372,
+        1570
+      ],
+      "text": "AP - VÀ GZ712 (24%71k46k SHẶT V)",
+      "confidence": 0.46
+    },
+    {
+      "line_id": "0376_viet_024",
+      "bbox": [
+        [
+          207,
+          1576
+        ],
+        [
+          1374,
+          1576
+        ],
+        [
+          1374,
+          1626
+        ],
+        [
+          207,
+          1626
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1731
+        ],
+        [
+          1374,
+          1731
+        ],
+        [
+          1374,
+          1781
+        ],
+        [
+          207,
+          1781
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1576,
+        1374,
+        1626
+      ],
+      "text": "Lê Ăn 1.7 Năm 124 - Xé 12 % 2 (R4444 X1 Km?",
+      "confidence": 0.4902
+    },
+    {
+      "line_id": "0376_viet_025",
+      "bbox": [
+        [
+          214,
+          1630
+        ],
+        [
+          1370,
+          1636
+        ],
+        [
+          1369,
+          1681
+        ],
+        [
+          214,
+          1675
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1785
+        ],
+        [
+          1370,
+          1791
+        ],
+        [
+          1369,
+          1836
+        ],
+        [
+          214,
+          1830
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1630,
+        1370,
+        1681
+      ],
+      "text": "IRA20272ZWA3kkavà ?4",
+      "confidence": 0.5355
+    },
+    {
+      "line_id": "0376_viet_026",
+      "bbox": [
+        [
+          214,
+          1688
+        ],
+        [
+          1372,
+          1692
+        ],
+        [
+          1372,
+          1735
+        ],
+        [
+          214,
+          1730
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1843
+        ],
+        [
+          1372,
+          1847
+        ],
+        [
+          1372,
+          1890
+        ],
+        [
+          214,
+          1885
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1688,
+        1372,
+        1735
+      ],
+      "text": "FIL73H% X% LÊ KĂN 2 XÉ GIA",
+      "confidence": 0.459
+    },
+    {
+      "line_id": "0376_viet_027",
+      "bbox": [
+        [
+          322,
+          1801
+        ],
+        [
+          1379,
+          1814
+        ],
+        [
+          1378,
+          1863
+        ],
+        [
+          322,
+          1850
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          1956
+        ],
+        [
+          1379,
+          1969
+        ],
+        [
+          1378,
+          2018
+        ],
+        [
+          322,
+          2005
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        1801,
+        1379,
+        1863
+      ],
+      "text": "Đến Thị Hệ Thị Trong An - Nếp K. Mô 16 E.7. Tổn đấy",
+      "confidence": 0.5029
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC QUY CÔNG CHO PHẬT VÀ ĐẠO (): 3 KM THANH",
+      "Những việc trú tính trong cửa tưởng, quyết thắng ngoài nghìn dặm, đều",
+      "là công của bậc tướng giỏi cầm quân nơi chiến trận",
+      "Thái phó Lý Công Bình phá được quân Chân-lạp vào cướp châu Nghệ-",
+      "an, sai người báo tin thắng trận, Đáng lẽ Lý Thần Tông phải làm lễ cáo tiệp",
+      "ở Thái miếu, bàn công ở triều đình, khen thường công dẹp giặc cho bọn Lý",
+      "Công Binh mới phải. Nay lại quy công cho Phật, Đạo, đến khắp các chùa và",
+      "các quản (?) lễ tạ, như thế không phải là cách ủy lạo kẻ có công, cồ lệ chí khi",
+      "quân lính",
+      "CAO HUY GIU M CAO XUÂN HUY",
+      "CHỦ THÍCH:",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1) Đầu đề do chúng tôi thêm. Theo ĐVSKTT. ngày Giáp dần tháng Hai năm Mậu thân",
+      "(1128), hơn 2 vạn người Chân-lạp 4 lắc vào cướp châu Nghệ an X 4 - Thái phó",
+      "Lý Công Binh đem quản đi đánh, Ngày Đinh mão thư báo tin thắng trận của Còng Bình",
+      "về đến Kinh sưr, Hòm sau Thần Tông đến hai cung Thái-thanh 2 Xf. Cảnh-linh 7",
+      "E và các chùa quản trong thành tạ ơn Phật và Thánh đã phù hộ cho Công Bình",
+      "thắng trận",
+      "Dười thời Lý Thần Tông, Công Bình cũng có - một vai trò quan trọng. Ông nhiều",
+      "lần đánh thắng người Chàn-lạp vào cướp phá biên giới phía Nam.",
+      "(2) Nơi thờ cũng của Phật giáo gọi là chùa, nơi thờ cúng của Đạo giáo gọi là quán.",
+      "135",
+      "AP - VÀ GZ712 (24%71k46k SHẶT V)",
+      "Lê Ăn 1.7 Năm 124 - Xé 12 % 2 (R4444 X1 Km?",
+      "IRA20272ZWA3kkavà ?4",
+      "FIL73H% X% LÊ KĂN 2 XÉ GIA",
+      "Đến Thị Hệ Thị Trong An - Nếp K. Mô 16 E.7. Tổn đấy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

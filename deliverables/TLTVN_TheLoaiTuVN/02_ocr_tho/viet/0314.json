@@ -1,0 +1,796 @@
+{
+  "page_id": "0314",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 314,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 849,
+    "footnote_separator_y_original": 964,
+    "effective_width": 1122,
+    "effective_height": 849
+  },
+  "items": [
+    {
+      "line_id": "0314_viet_000",
+      "bbox": [
+        [
+          126,
+          14
+        ],
+        [
+          480,
+          17
+        ],
+        [
+          480,
+          49
+        ],
+        [
+          126,
+          45
+        ]
+      ],
+      "bbox_original": [
+        [
+          126,
+          129
+        ],
+        [
+          480,
+          132
+        ],
+        [
+          480,
+          164
+        ],
+        [
+          126,
+          160
+        ]
+      ],
+      "box_xyxy": [
+        126,
+        14,
+        480,
+        49
+      ],
+      "text": "Điệu Mãn đình phương",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0314_viet_001",
+      "bbox": [
+        [
+          125,
+          62
+        ],
+        [
+          657,
+          62
+        ],
+        [
+          657,
+          93
+        ],
+        [
+          125,
+          93
+        ]
+      ],
+      "bbox_original": [
+        [
+          125,
+          177
+        ],
+        [
+          657,
+          177
+        ],
+        [
+          657,
+          208
+        ],
+        [
+          125,
+          208
+        ]
+      ],
+      "box_xyxy": [
+        125,
+        62,
+        657,
+        93
+      ],
+      "text": "Núi, biên chung đúc nên sự tỉnh anh",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0314_viet_002",
+      "bbox": [
+        [
+          123,
+          107
+        ],
+        [
+          555,
+          108
+        ],
+        [
+          555,
+          143
+        ],
+        [
+          123,
+          142
+        ]
+      ],
+      "bbox_original": [
+        [
+          123,
+          222
+        ],
+        [
+          555,
+          223
+        ],
+        [
+          555,
+          258
+        ],
+        [
+          123,
+          257
+        ]
+      ],
+      "box_xyxy": [
+        123,
+        107,
+        555,
+        143
+      ],
+      "text": "Hợp cùng đức của âm dương",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0314_viet_003",
+      "bbox": [
+        [
+          130,
+          153
+        ],
+        [
+          933,
+          153
+        ],
+        [
+          933,
+          188
+        ],
+        [
+          130,
+          188
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          268
+        ],
+        [
+          933,
+          268
+        ],
+        [
+          933,
+          303
+        ],
+        [
+          130,
+          303
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        153,
+        933,
+        188
+      ],
+      "text": "Thống nhiêp cả sự khởi đầu của quẻ Càn, sự sinh thành thuận",
+      "confidence": 0.8691
+    },
+    {
+      "line_id": "0314_viet_004",
+      "bbox": [
+        [
+          803,
+          201
+        ],
+        [
+          1022,
+          193
+        ],
+        [
+          1023,
+          230
+        ],
+        [
+          804,
+          238
+        ]
+      ],
+      "bbox_original": [
+        [
+          803,
+          316
+        ],
+        [
+          1022,
+          308
+        ],
+        [
+          1023,
+          345
+        ],
+        [
+          804,
+          353
+        ]
+      ],
+      "box_xyxy": [
+        803,
+        193,
+        1023,
+        238
+      ],
+      "text": "của quẻ khôn",
+      "confidence": 0.886
+    },
+    {
+      "line_id": "0314_viet_005",
+      "bbox": [
+        [
+          129,
+          247
+        ],
+        [
+          1033,
+          245
+        ],
+        [
+          1033,
+          280
+        ],
+        [
+          129,
+          283
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          362
+        ],
+        [
+          1033,
+          360
+        ],
+        [
+          1033,
+          395
+        ],
+        [
+          129,
+          398
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        245,
+        1033,
+        283
+      ],
+      "text": "Chỉ có nhà vua mới có thể thuận nối được phép tắc [của trời]\"",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0314_viet_006",
+      "bbox": [
+        [
+          127,
+          294
+        ],
+        [
+          729,
+          293
+        ],
+        [
+          729,
+          332
+        ],
+        [
+          127,
+          333
+        ]
+      ],
+      "bbox_original": [
+        [
+          127,
+          409
+        ],
+        [
+          729,
+          408
+        ],
+        [
+          729,
+          447
+        ],
+        [
+          127,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        127,
+        293,
+        729,
+        333
+      ],
+      "text": "Vui vẻ dễ dàng gây dựng nên khuôn mẫu",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0314_viet_007",
+      "bbox": [
+        [
+          129,
+          343
+        ],
+        [
+          421,
+          343
+        ],
+        [
+          421,
+          377
+        ],
+        [
+          129,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          458
+        ],
+        [
+          421,
+          458
+        ],
+        [
+          421,
+          492
+        ],
+        [
+          129,
+          492
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        343,
+        421,
+        377
+      ],
+      "text": "Tuổi thọ lên đến 80,",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0314_viet_008",
+      "bbox": [
+        [
+          126,
+          392
+        ],
+        [
+          949,
+          386
+        ],
+        [
+          949,
+          422
+        ],
+        [
+          126,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          126,
+          507
+        ],
+        [
+          949,
+          501
+        ],
+        [
+          949,
+          537
+        ],
+        [
+          126,
+          543
+        ]
+      ],
+      "box_xyxy": [
+        126,
+        386,
+        949,
+        428
+      ],
+      "text": "Hãng hái không ngơi nghỉ, thể theo sự vận hành của trời",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0314_viet_009",
+      "bbox": [
+        [
+          129,
+          441
+        ],
+        [
+          331,
+          441
+        ],
+        [
+          331,
+          476
+        ],
+        [
+          129,
+          476
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          556
+        ],
+        [
+          331,
+          556
+        ],
+        [
+          331,
+          591
+        ],
+        [
+          129,
+          591
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        441,
+        331,
+        476
+      ],
+      "text": "Thực đúng là,",
+      "confidence": 0.9177
+    },
+    {
+      "line_id": "0314_viet_010",
+      "bbox": [
+        [
+          124,
+          479
+        ],
+        [
+          908,
+          475
+        ],
+        [
+          908,
+          521
+        ],
+        [
+          124,
+          525
+        ]
+      ],
+      "bbox_original": [
+        [
+          124,
+          594
+        ],
+        [
+          908,
+          590
+        ],
+        [
+          908,
+          636
+        ],
+        [
+          124,
+          640
+        ]
+      ],
+      "box_xyxy": [
+        124,
+        475,
+        908,
+        525
+      ],
+      "text": "Đạo [giáo hoá tác thành] lâu bền của bậc thánh nhân?]",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0314_viet_011",
+      "bbox": [
+        [
+          132,
+          538
+        ],
+        [
+          557,
+          538
+        ],
+        [
+          557,
+          565
+        ],
+        [
+          132,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          653
+        ],
+        [
+          557,
+          653
+        ],
+        [
+          557,
+          680
+        ],
+        [
+          132,
+          680
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        538,
+        557,
+        565
+      ],
+      "text": "Khéo tác thành cho muốn vật",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0314_viet_012",
+      "bbox": [
+        [
+          125,
+          625
+        ],
+        [
+          313,
+          628
+        ],
+        [
+          313,
+          667
+        ],
+        [
+          125,
+          664
+        ]
+      ],
+      "bbox_original": [
+        [
+          125,
+          740
+        ],
+        [
+          313,
+          743
+        ],
+        [
+          313,
+          782
+        ],
+        [
+          125,
+          779
+        ]
+      ],
+      "box_xyxy": [
+        125,
+        625,
+        313,
+        667
+      ],
+      "text": "Mở yến tiệc",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0314_viet_013",
+      "bbox": [
+        [
+          132,
+          677
+        ],
+        [
+          311,
+          677
+        ],
+        [
+          311,
+          713
+        ],
+        [
+          132,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          132,
+          792
+        ],
+        [
+          311,
+          792
+        ],
+        [
+          311,
+          828
+        ],
+        [
+          132,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        132,
+        677,
+        311,
+        713
+      ],
+      "text": "Gặp hội lớn,",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0314_viet_014",
+      "bbox": [
+        [
+          133,
+          722
+        ],
+        [
+          461,
+          724
+        ],
+        [
+          460,
+          759
+        ],
+        [
+          133,
+          757
+        ]
+      ],
+      "bbox_original": [
+        [
+          133,
+          837
+        ],
+        [
+          461,
+          839
+        ],
+        [
+          460,
+          874
+        ],
+        [
+          133,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        133,
+        722,
+        461,
+        759
+      ],
+      "text": "Ánh sáng trở về vũ trụ,",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0314_viet_015",
+      "bbox": [
+        [
+          130,
+          772
+        ],
+        [
+          536,
+          771
+        ],
+        [
+          536,
+          805
+        ],
+        [
+          130,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          887
+        ],
+        [
+          536,
+          886
+        ],
+        [
+          536,
+          920
+        ],
+        [
+          130,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        771,
+        536,
+        806
+      ],
+      "text": "Phúc lành tràn ngập đất trời",
+      "confidence": 0.9317
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Điệu Mãn đình phương",
+      "Núi, biên chung đúc nên sự tỉnh anh",
+      "Hợp cùng đức của âm dương",
+      "Thống nhiêp cả sự khởi đầu của quẻ Càn, sự sinh thành thuận",
+      "của quẻ khôn",
+      "Chỉ có nhà vua mới có thể thuận nối được phép tắc [của trời]\"",
+      "Vui vẻ dễ dàng gây dựng nên khuôn mẫu",
+      "Tuổi thọ lên đến 80,",
+      "Hãng hái không ngơi nghỉ, thể theo sự vận hành của trời",
+      "Thực đúng là,",
+      "Đạo [giáo hoá tác thành] lâu bền của bậc thánh nhân?]",
+      "Khéo tác thành cho muốn vật",
+      "Mở yến tiệc",
+      "Gặp hội lớn,",
+      "Ánh sáng trở về vũ trụ,",
+      "Phúc lành tràn ngập đất trời"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

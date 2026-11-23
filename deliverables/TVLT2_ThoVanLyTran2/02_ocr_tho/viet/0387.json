@@ -1,0 +1,1947 @@
+{
+  "page_id": "0387",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 387,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0387_viet_000",
+      "bbox": [
+        [
+          159,
+          79
+        ],
+        [
+          338,
+          75
+        ],
+        [
+          340,
+          113
+        ],
+        [
+          161,
+          118
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          234
+        ],
+        [
+          338,
+          230
+        ],
+        [
+          340,
+          268
+        ],
+        [
+          161,
+          273
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        75,
+        340,
+        118
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.935
+    },
+    {
+      "line_id": "0387_viet_001",
+      "bbox": [
+        [
+          525,
+          122
+        ],
+        [
+          1076,
+          115
+        ],
+        [
+          1076,
+          154
+        ],
+        [
+          525,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          525,
+          277
+        ],
+        [
+          1076,
+          270
+        ],
+        [
+          1076,
+          309
+        ],
+        [
+          525,
+          316
+        ]
+      ],
+      "box_xyxy": [
+        525,
+        115,
+        1076,
+        161
+      ],
+      "text": "DỤ CHƯ TỲ TƯỚNG HỊCH VĂN 14",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0387_viet_002",
+      "bbox": [
+        [
+          266,
+          204
+        ],
+        [
+          1408,
+          193
+        ],
+        [
+          1409,
+          229
+        ],
+        [
+          266,
+          240
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          359
+        ],
+        [
+          1408,
+          348
+        ],
+        [
+          1409,
+          384
+        ],
+        [
+          266,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        193,
+        1409,
+        240
+      ],
+      "text": "Dư thường văn chi: Kỷ Tin dĩ thân đại tử nhi thoát Cao Đế; Do Vu",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0387_viet_003",
+      "bbox": [
+        [
+          153,
+          244
+        ],
+        [
+          1415,
+          238
+        ],
+        [
+          1415,
+          280
+        ],
+        [
+          154,
+          287
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          399
+        ],
+        [
+          1415,
+          393
+        ],
+        [
+          1415,
+          435
+        ],
+        [
+          154,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        238,
+        1415,
+        287
+      ],
+      "text": "- dĩ bối: thụ qua nhi tế Chiêu Vương, Dự Nhượng thốn, thán nhi phục chủ thù;",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0387_viet_004",
+      "bbox": [
+        [
+          171,
+          291
+        ],
+        [
+          1411,
+          283
+        ],
+        [
+          1411,
+          319
+        ],
+        [
+          171,
+          328
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          446
+        ],
+        [
+          1411,
+          438
+        ],
+        [
+          1411,
+          474
+        ],
+        [
+          171,
+          483
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        283,
+        1411,
+        328
+      ],
+      "text": "Thân Khoái đoạn tí nhi phó quốc nạn. Kinh Đức nhất tiểu sinh dã, thân dực",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0387_viet_005",
+      "bbox": [
+        [
+          160,
+          334
+        ],
+        [
+          1408,
+          323
+        ],
+        [
+          1409,
+          360
+        ],
+        [
+          160,
+          371
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          489
+        ],
+        [
+          1408,
+          478
+        ],
+        [
+          1409,
+          515
+        ],
+        [
+          160,
+          526
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        323,
+        1409,
+        371
+      ],
+      "text": "Thái Tông nhi đắc miễn Thế Sung chi vi: Cảo Khanh nhất viễn thần dã, khẩu",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0387_viet_006",
+      "bbox": [
+        [
+          162,
+          377
+        ],
+        [
+          1411,
+          368
+        ],
+        [
+          1411,
+          405
+        ],
+        [
+          162,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          532
+        ],
+        [
+          1411,
+          523
+        ],
+        [
+          1411,
+          560
+        ],
+        [
+          162,
+          568
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        368,
+        1411,
+        413
+      ],
+      "text": "mạ Lộc Sơn nhi bất tòng nghịch tặc chi kế, Tự cố trung thần nghĩa sĩ, dĩ thàn",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0387_viet_007",
+      "bbox": [
+        [
+          162,
+          420
+        ],
+        [
+          1413,
+          411
+        ],
+        [
+          1413,
+          445
+        ],
+        [
+          162,
+          454
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          575
+        ],
+        [
+          1413,
+          566
+        ],
+        [
+          1413,
+          600
+        ],
+        [
+          162,
+          609
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        411,
+        1413,
+        454
+      ],
+      "text": "tuần quốc hà đại vô chi ? Thiết sử số từ khu khu vi nhi nữ từ chi thái, đồ tử",
+      "confidence": 0.9081
+    },
+    {
+      "line_id": "0387_viet_008",
+      "bbox": [
+        [
+          179,
+          463
+        ],
+        [
+          1292,
+          456
+        ],
+        [
+          1292,
+          493
+        ],
+        [
+          179,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          618
+        ],
+        [
+          1292,
+          611
+        ],
+        [
+          1292,
+          648
+        ],
+        [
+          179,
+          654
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        456,
+        1292,
+        499
+      ],
+      "text": "dũ hạ, ô năng danh thủy trúc hạch, dữ thiên địa tương vì bất hủ tai I",
+      "confidence": 0.9139
+    },
+    {
+      "line_id": "0387_viet_009",
+      "bbox": [
+        [
+          274,
+          512
+        ],
+        [
+          1409,
+          512
+        ],
+        [
+          1409,
+          548
+        ],
+        [
+          274,
+          548
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          667
+        ],
+        [
+          1409,
+          667
+        ],
+        [
+          1409,
+          703
+        ],
+        [
+          274,
+          703
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        512,
+        1409,
+        548
+      ],
+      "text": "Nhữ đẳng thế vì tướng chủng, bất hiểu văn nghĩa, ký văn kỳ thuyết, thuận",
+      "confidence": 0.8498
+    },
+    {
+      "line_id": "0387_viet_010",
+      "bbox": [
+        [
+          177,
+          559
+        ],
+        [
+          1413,
+          552
+        ],
+        [
+          1413,
+          591
+        ],
+        [
+          177,
+          598
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          714
+        ],
+        [
+          1413,
+          707
+        ],
+        [
+          1413,
+          746
+        ],
+        [
+          177,
+          753
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        552,
+        1413,
+        598
+      ],
+      "text": "nghi tín tương bản. Gồ tiên chi sự cô trí vật luận. Kim dư dĩ Tổng, Thát chi",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0387_viet_011",
+      "bbox": [
+        [
+          175,
+          602
+        ],
+        [
+          1411,
+          595
+        ],
+        [
+          1411,
+          634
+        ],
+        [
+          175,
+          640
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          757
+        ],
+        [
+          1411,
+          750
+        ],
+        [
+          1411,
+          789
+        ],
+        [
+          175,
+          795
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        595,
+        1411,
+        640
+      ],
+      "text": "Sự ngôn chi: Vương Công Kiên bà nhân đã ? Kỳ tỷ tướng Nguyễn Văn Lập",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0387_viet_012",
+      "bbox": [
+        [
+          171,
+          645
+        ],
+        [
+          1413,
+          638
+        ],
+        [
+          1413,
+          675
+        ],
+        [
+          171,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          800
+        ],
+        [
+          1413,
+          793
+        ],
+        [
+          1413,
+          830
+        ],
+        [
+          171,
+          836
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        638,
+        1413,
+        681
+      ],
+      "text": "hựu hà nhân dã 7? Dĩ Điều-ngư tòa tỏa đầu đại chi thành, đương Mông Kha",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0387_viet_013",
+      "bbox": [
+        [
+          179,
+          685
+        ],
+        [
+          1411,
+          679
+        ],
+        [
+          1411,
+          722
+        ],
+        [
+          179,
+          728
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          840
+        ],
+        [
+          1411,
+          834
+        ],
+        [
+          1411,
+          877
+        ],
+        [
+          179,
+          883
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        679,
+        1411,
+        728
+      ],
+      "text": "đường đường bách vạn chi phong, sử Tổng chi sinh linh chỉ kim thu tử 1 Cốt-",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0387_viet_014",
+      "bbox": [
+        [
+          181,
+          730
+        ],
+        [
+          1411,
+          724
+        ],
+        [
+          1411,
+          760
+        ],
+        [
+          182,
+          767
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          885
+        ],
+        [
+          1411,
+          879
+        ],
+        [
+          1411,
+          915
+        ],
+        [
+          182,
+          922
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        724,
+        1411,
+        767
+      ],
+      "text": "đãi-ngột-lang hà nhân dã ? Kỳ tỷ tướng Xích?tu-tư hựu hà nhân đã ? Mạo",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0387_viet_015",
+      "bbox": [
+        [
+          175,
+          775
+        ],
+        [
+          1413,
+          767
+        ],
+        [
+          1413,
+          803
+        ],
+        [
+          175,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          930
+        ],
+        [
+          1413,
+          922
+        ],
+        [
+          1413,
+          958
+        ],
+        [
+          175,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        767,
+        1413,
+        812
+      ],
+      "text": "chướng lệ ư vạn lý chi đồ, quệ Nam-chiếu ir số tuần chi khoảnh, sử Thát chi",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0387_viet_016",
+      "bbox": [
+        [
+          162,
+          818
+        ],
+        [
+          685,
+          814
+        ],
+        [
+          685,
+          850
+        ],
+        [
+          162,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          973
+        ],
+        [
+          685,
+          969
+        ],
+        [
+          685,
+          1005
+        ],
+        [
+          162,
+          1010
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        814,
+        685,
+        855
+      ],
+      "text": "quân trưởng chí kim lưu danh l",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0387_viet_017",
+      "bbox": [
+        [
+          246,
+          865
+        ],
+        [
+          1415,
+          863
+        ],
+        [
+          1415,
+          906
+        ],
+        [
+          246,
+          908
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1020
+        ],
+        [
+          1415,
+          1018
+        ],
+        [
+          1415,
+          1061
+        ],
+        [
+          246,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        863,
+        1415,
+        908
+      ],
+      "text": "Huống dư dữ nhữ đẳng, sinh ư nhiễu nhương chi thu; trưởng ư gian",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0387_viet_018",
+      "bbox": [
+        [
+          173,
+          912
+        ],
+        [
+          1413,
+          908
+        ],
+        [
+          1413,
+          944
+        ],
+        [
+          173,
+          949
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1067
+        ],
+        [
+          1413,
+          1063
+        ],
+        [
+          1413,
+          1099
+        ],
+        [
+          173,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        908,
+        1413,
+        949
+      ],
+      "text": "năn chỉ tế. Thiết kiến nguy sứ văng lai, đạo đồ hàng ngọ, Trạo hào ô chi thôn",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0387_viet_019",
+      "bbox": [
+        [
+          181,
+          957
+        ],
+        [
+          1413,
+          951
+        ],
+        [
+          1413,
+          987
+        ],
+        [
+          182,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1112
+        ],
+        [
+          1413,
+          1106
+        ],
+        [
+          1413,
+          1142
+        ],
+        [
+          182,
+          1149
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        951,
+        1413,
+        994
+      ],
+      "text": "thiệt nhi lăng nhục triều đình; ủy khuyền dương chi xích khu nhi cứ ngạo tế",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0387_viet_020",
+      "bbox": [
+        [
+          179,
+          998
+        ],
+        [
+          1415,
+          992
+        ],
+        [
+          1415,
+          1034
+        ],
+        [
+          179,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1153
+        ],
+        [
+          1415,
+          1147
+        ],
+        [
+          1415,
+          1189
+        ],
+        [
+          179,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        992,
+        1415,
+        1041
+      ],
+      "text": "phụ. Thác Hốt Tất Liệt chi mệnh nhi sách ngọc bạch, đi sự vô dĩ chỉ tru cầu;",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0387_viet_021",
+      "bbox": [
+        [
+          177,
+          1045
+        ],
+        [
+          1411,
+          1036
+        ],
+        [
+          1411,
+          1073
+        ],
+        [
+          177,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1200
+        ],
+        [
+          1411,
+          1191
+        ],
+        [
+          1411,
+          1228
+        ],
+        [
+          177,
+          1237
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1036,
+        1411,
+        1082
+      ],
+      "text": "giả Vân nam vương chi hiệu nhi nhu kim ngân, dĩ kiệt hữu bạn chi tháng khố",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0387_viet_022",
+      "bbox": [
+        [
+          181,
+          1086
+        ],
+        [
+          1242,
+          1081
+        ],
+        [
+          1242,
+          1118
+        ],
+        [
+          182,
+          1122
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1241
+        ],
+        [
+          1242,
+          1236
+        ],
+        [
+          1242,
+          1273
+        ],
+        [
+          182,
+          1277
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1081,
+        1242,
+        1122
+      ],
+      "text": "Thí do dĩ nhục đầu nỗi hồ, ninh năng miễn di bậu 4? hoạn dã tai ?",
+      "confidence": 0.8839
+    },
+    {
+      "line_id": "0387_viet_023",
+      "bbox": [
+        [
+          268,
+          1137
+        ],
+        [
+          1415,
+          1129
+        ],
+        [
+          1415,
+          1171
+        ],
+        [
+          268,
+          1180
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1292
+        ],
+        [
+          1415,
+          1284
+        ],
+        [
+          1415,
+          1326
+        ],
+        [
+          268,
+          1335
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1129,
+        1415,
+        1180
+      ],
+      "text": "Dư thường làm xan vong thực, trung dạ phủ chằm, thế tử giao di, tâm",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0387_viet_024",
+      "bbox": [
+        [
+          177,
+          1180
+        ],
+        [
+          1417,
+          1174
+        ],
+        [
+          1417,
+          1216
+        ],
+        [
+          177,
+          1223
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1335
+        ],
+        [
+          1417,
+          1329
+        ],
+        [
+          1417,
+          1371
+        ],
+        [
+          177,
+          1378
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1174,
+        1417,
+        1223
+      ],
+      "text": "phúc như đảo, Thường dĩ vị năng thực nhục tầm bì, nhứ.can âm huyết vi",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0387_viet_025",
+      "bbox": [
+        [
+          171,
+          1227
+        ],
+        [
+          1417,
+          1219
+        ],
+        [
+          1417,
+          1253
+        ],
+        [
+          171,
+          1262
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1382
+        ],
+        [
+          1417,
+          1374
+        ],
+        [
+          1417,
+          1408
+        ],
+        [
+          171,
+          1417
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1219,
+        1417,
+        1262
+      ],
+      "text": "Bận dã: Tuy dư chi bách thân, cao ư thảo dã, dư chi thiên thi, khỏa ư mã nhau",
+      "confidence": 0.8551
+    },
+    {
+      "line_id": "0387_viet_026",
+      "bbox": [
+        [
+          177,
+          1270
+        ],
+        [
+          581,
+          1270
+        ],
+        [
+          581,
+          1306
+        ],
+        [
+          177,
+          1306
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1425
+        ],
+        [
+          581,
+          1425
+        ],
+        [
+          581,
+          1461
+        ],
+        [
+          177,
+          1461
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1270,
+        581,
+        1306
+      ],
+      "text": "cách, diệc nguyện vi chi",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0387_viet_027",
+      "bbox": [
+        [
+          279,
+          1321
+        ],
+        [
+          1417,
+          1317
+        ],
+        [
+          1417,
+          1354
+        ],
+        [
+          279,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          1476
+        ],
+        [
+          1417,
+          1472
+        ],
+        [
+          1417,
+          1509
+        ],
+        [
+          279,
+          1513
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        1317,
+        1417,
+        1358
+      ],
+      "text": "Nhữ đẳng cửu cư môn hạ, chưởng ác binh quyền, Vô y giả tắc ý chi dĩ y;",
+      "confidence": 0.9005
+    },
+    {
+      "line_id": "0387_viet_028",
+      "bbox": [
+        [
+          184,
+          1366
+        ],
+        [
+          1417,
+          1360
+        ],
+        [
+          1417,
+          1394
+        ],
+        [
+          184,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1521
+        ],
+        [
+          1417,
+          1515
+        ],
+        [
+          1417,
+          1549
+        ],
+        [
+          184,
+          1556
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1360,
+        1417,
+        1401
+      ],
+      "text": "vô thưc giả tắc tự chỉ dĩ thực, Quan ti giả tắc thiên kỳ tước; lộc bạc giả tắc",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0387_viet_029",
+      "bbox": [
+        [
+          184,
+          1409
+        ],
+        [
+          1419,
+          1401
+        ],
+        [
+          1419,
+          1437
+        ],
+        [
+          184,
+          1446
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1564
+        ],
+        [
+          1419,
+          1556
+        ],
+        [
+          1419,
+          1592
+        ],
+        [
+          184,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1401,
+        1419,
+        1446
+      ],
+      "text": "cấp kỹ bồng. Thủy hành cấp chu; lục hành cấp mã. Ủy chi dĩ binh tắc sinh",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0387_viet_030",
+      "bbox": [
+        [
+          184,
+          1450
+        ],
+        [
+          1417,
+          1446
+        ],
+        [
+          1417,
+          1484
+        ],
+        [
+          184,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1605
+        ],
+        [
+          1417,
+          1601
+        ],
+        [
+          1417,
+          1639
+        ],
+        [
+          184,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1446,
+        1417,
+        1489
+      ],
+      "text": "tử đồng kỳ sở vi; tiến chi tại tầm, tắc tiểu ngữ đồng kỳ sử lạc, Kỷ thị Công",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0387_viet_031",
+      "bbox": [
+        [
+          179,
+          1493
+        ],
+        [
+          1188,
+          1486
+        ],
+        [
+          1188,
+          1529
+        ],
+        [
+          179,
+          1536
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1648
+        ],
+        [
+          1188,
+          1641
+        ],
+        [
+          1188,
+          1684
+        ],
+        [
+          179,
+          1691
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1486,
+        1188,
+        1536
+      ],
+      "text": "Kiên chi vi thiên tì, Ngột Lang chi vi phó nhị, diệc vị hạ nhĩ.",
+      "confidence": 0.8993
+    },
+    {
+      "line_id": "0387_viet_032",
+      "bbox": [
+        [
+          274,
+          1546
+        ],
+        [
+          1415,
+          1542
+        ],
+        [
+          1415,
+          1578
+        ],
+        [
+          274,
+          1583
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1701
+        ],
+        [
+          1415,
+          1697
+        ],
+        [
+          1415,
+          1733
+        ],
+        [
+          274,
+          1738
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1542,
+        1415,
+        1583
+      ],
+      "text": "Nhữ đẳng tọa thị chủ nhục, tầng bắt vi Tru, thân đương quốc sĩ, tầng nhiều",
+      "confidence": 0.8426
+    },
+    {
+      "line_id": "0387_viet_033",
+      "bbox": [
+        [
+          177,
+          1589
+        ],
+        [
+          1419,
+          1583
+        ],
+        [
+          1419,
+          1625
+        ],
+        [
+          177,
+          1632
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1744
+        ],
+        [
+          1419,
+          1738
+        ],
+        [
+          1419,
+          1780
+        ],
+        [
+          177,
+          1787
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1583,
+        1419,
+        1632
+      ],
+      "text": "bất vi quý, Vi bang quốc 6? chi tướng, thị lập di tù nhi vô phần tâm, thính",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0387_viet_034",
+      "bbox": [
+        [
+          179,
+          1632
+        ],
+        [
+          1419,
+          1625
+        ],
+        [
+          1419,
+          1668
+        ],
+        [
+          179,
+          1675
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1787
+        ],
+        [
+          1419,
+          1780
+        ],
+        [
+          1419,
+          1823
+        ],
+        [
+          179,
+          1830
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1625,
+        1419,
+        1675
+      ],
+      "text": "thái thường chi nhạc, yến hưởng nguy sứ nhi vỏ, nộ sắc. Hoặc đấu, kê di, vi",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0387_viet_035",
+      "bbox": [
+        [
+          181,
+          1675
+        ],
+        [
+          1417,
+          1670
+        ],
+        [
+          1417,
+          1713
+        ],
+        [
+          182,
+          1718
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1830
+        ],
+        [
+          1417,
+          1825
+        ],
+        [
+          1417,
+          1868
+        ],
+        [
+          182,
+          1873
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1670,
+        1417,
+        1718
+      ],
+      "text": "lạc; hoặc đồ bác dĩ vì ngu, Hoặc sự điền viên dĩ dường kỳ gia, hoặc luyến",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0387_viet_036",
+      "bbox": [
+        [
+          179,
+          1718
+        ],
+        [
+          1417,
+          1713
+        ],
+        [
+          1417,
+          1756
+        ],
+        [
+          179,
+          1760
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1873
+        ],
+        [
+          1417,
+          1868
+        ],
+        [
+          1417,
+          1911
+        ],
+        [
+          179,
+          1915
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1713,
+        1417,
+        1760
+      ],
+      "text": "thê tử dĩ tr ư kỷ. Tu sinh sản chi nghiệp nhi vong, quân quốc chỉ: vu, tứ, điền",
+      "confidence": 0.8876
+    },
+    {
+      "line_id": "0387_viet_037",
+      "bbox": [
+        [
+          153,
+          1803
+        ],
+        [
+          1419,
+          1801
+        ],
+        [
+          1419,
+          1840
+        ],
+        [
+          153,
+          1842
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          1958
+        ],
+        [
+          1419,
+          1956
+        ],
+        [
+          1419,
+          1995
+        ],
+        [
+          153,
+          1997
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        1801,
+        1419,
+        1842
+      ],
+      "text": "Thoát hữu Mông Thát chi khấu lai, húng kê chi cự, hất túc dĩ xuyên lỗ giáp;",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0387_viet_038",
+      "bbox": [
+        [
+          145,
+          1844
+        ],
+        [
+          1421,
+          1842
+        ],
+        [
+          1422,
+          1885
+        ],
+        [
+          145,
+          1887
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          1999
+        ],
+        [
+          1421,
+          1997
+        ],
+        [
+          1422,
+          2040
+        ],
+        [
+          145,
+          2042
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        1842,
+        1422,
+        1887
+      ],
+      "text": "đồ bắc chi thuật, bất túc đi thi quân mưu, Điền viên chi phú, bất túc dĩ thục",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0387_viet_039",
+      "bbox": [
+        [
+          177,
+          1891
+        ],
+        [
+          1421,
+          1882
+        ],
+        [
+          1422,
+          1925
+        ],
+        [
+          177,
+          1934
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          2046
+        ],
+        [
+          1421,
+          2037
+        ],
+        [
+          1422,
+          2080
+        ],
+        [
+          177,
+          2089
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1882,
+        1422,
+        1934
+      ],
+      "text": "thiên kim chi khu: thê noa chi lụy, bất túc dĩ sung quân quốc chỉ, dụng, Sinh",
+      "confidence": 0.9092
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "DỤ CHƯ TỲ TƯỚNG HỊCH VĂN 14",
+      "Dư thường văn chi: Kỷ Tin dĩ thân đại tử nhi thoát Cao Đế; Do Vu",
+      "- dĩ bối: thụ qua nhi tế Chiêu Vương, Dự Nhượng thốn, thán nhi phục chủ thù;",
+      "Thân Khoái đoạn tí nhi phó quốc nạn. Kinh Đức nhất tiểu sinh dã, thân dực",
+      "Thái Tông nhi đắc miễn Thế Sung chi vi: Cảo Khanh nhất viễn thần dã, khẩu",
+      "mạ Lộc Sơn nhi bất tòng nghịch tặc chi kế, Tự cố trung thần nghĩa sĩ, dĩ thàn",
+      "tuần quốc hà đại vô chi ? Thiết sử số từ khu khu vi nhi nữ từ chi thái, đồ tử",
+      "dũ hạ, ô năng danh thủy trúc hạch, dữ thiên địa tương vì bất hủ tai I",
+      "Nhữ đẳng thế vì tướng chủng, bất hiểu văn nghĩa, ký văn kỳ thuyết, thuận",
+      "nghi tín tương bản. Gồ tiên chi sự cô trí vật luận. Kim dư dĩ Tổng, Thát chi",
+      "Sự ngôn chi: Vương Công Kiên bà nhân đã ? Kỳ tỷ tướng Nguyễn Văn Lập",
+      "hựu hà nhân dã 7? Dĩ Điều-ngư tòa tỏa đầu đại chi thành, đương Mông Kha",
+      "đường đường bách vạn chi phong, sử Tổng chi sinh linh chỉ kim thu tử 1 Cốt-",
+      "đãi-ngột-lang hà nhân dã ? Kỳ tỷ tướng Xích?tu-tư hựu hà nhân đã ? Mạo",
+      "chướng lệ ư vạn lý chi đồ, quệ Nam-chiếu ir số tuần chi khoảnh, sử Thát chi",
+      "quân trưởng chí kim lưu danh l",
+      "Huống dư dữ nhữ đẳng, sinh ư nhiễu nhương chi thu; trưởng ư gian",
+      "năn chỉ tế. Thiết kiến nguy sứ văng lai, đạo đồ hàng ngọ, Trạo hào ô chi thôn",
+      "thiệt nhi lăng nhục triều đình; ủy khuyền dương chi xích khu nhi cứ ngạo tế",
+      "phụ. Thác Hốt Tất Liệt chi mệnh nhi sách ngọc bạch, đi sự vô dĩ chỉ tru cầu;",
+      "giả Vân nam vương chi hiệu nhi nhu kim ngân, dĩ kiệt hữu bạn chi tháng khố",
+      "Thí do dĩ nhục đầu nỗi hồ, ninh năng miễn di bậu 4? hoạn dã tai ?",
+      "Dư thường làm xan vong thực, trung dạ phủ chằm, thế tử giao di, tâm",
+      "phúc như đảo, Thường dĩ vị năng thực nhục tầm bì, nhứ.can âm huyết vi",
+      "Bận dã: Tuy dư chi bách thân, cao ư thảo dã, dư chi thiên thi, khỏa ư mã nhau",
+      "cách, diệc nguyện vi chi",
+      "Nhữ đẳng cửu cư môn hạ, chưởng ác binh quyền, Vô y giả tắc ý chi dĩ y;",
+      "vô thưc giả tắc tự chỉ dĩ thực, Quan ti giả tắc thiên kỳ tước; lộc bạc giả tắc",
+      "cấp kỹ bồng. Thủy hành cấp chu; lục hành cấp mã. Ủy chi dĩ binh tắc sinh",
+      "tử đồng kỳ sở vi; tiến chi tại tầm, tắc tiểu ngữ đồng kỳ sử lạc, Kỷ thị Công",
+      "Kiên chi vi thiên tì, Ngột Lang chi vi phó nhị, diệc vị hạ nhĩ.",
+      "Nhữ đẳng tọa thị chủ nhục, tầng bắt vi Tru, thân đương quốc sĩ, tầng nhiều",
+      "bất vi quý, Vi bang quốc 6? chi tướng, thị lập di tù nhi vô phần tâm, thính",
+      "thái thường chi nhạc, yến hưởng nguy sứ nhi vỏ, nộ sắc. Hoặc đấu, kê di, vi",
+      "lạc; hoặc đồ bác dĩ vì ngu, Hoặc sự điền viên dĩ dường kỳ gia, hoặc luyến",
+      "thê tử dĩ tr ư kỷ. Tu sinh sản chi nghiệp nhi vong, quân quốc chỉ: vu, tứ, điền",
+      "Thoát hữu Mông Thát chi khấu lai, húng kê chi cự, hất túc dĩ xuyên lỗ giáp;",
+      "đồ bắc chi thuật, bất túc đi thi quân mưu, Điền viên chi phú, bất túc dĩ thục",
+      "thiên kim chi khu: thê noa chi lụy, bất túc dĩ sung quân quốc chỉ, dụng, Sinh"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

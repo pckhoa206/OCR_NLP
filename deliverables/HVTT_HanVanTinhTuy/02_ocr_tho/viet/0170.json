@@ -1,0 +1,1368 @@
+{
+  "page_id": "0170",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 170,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0170_viet_000",
+      "bbox": [
+        [
+          194,
+          33
+        ],
+        [
+          248,
+          33
+        ],
+        [
+          248,
+          67
+        ],
+        [
+          194,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          154
+        ],
+        [
+          248,
+          154
+        ],
+        [
+          248,
+          188
+        ],
+        [
+          194,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        33,
+        248,
+        67
+      ],
+      "text": "164",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0170_viet_001",
+      "bbox": [
+        [
+          663,
+          30
+        ],
+        [
+          987,
+          28
+        ],
+        [
+          987,
+          62
+        ],
+        [
+          663,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          151
+        ],
+        [
+          987,
+          149
+        ],
+        [
+          987,
+          183
+        ],
+        [
+          663,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        28,
+        987,
+        64
+      ],
+      "text": "PHÁN-VĂN TINH-TUY",
+      "confidence": 0.8754
+    },
+    {
+      "line_id": "0170_viet_002",
+      "bbox": [
+        [
+          297,
+          136
+        ],
+        [
+          822,
+          134
+        ],
+        [
+          822,
+          174
+        ],
+        [
+          297,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          257
+        ],
+        [
+          822,
+          255
+        ],
+        [
+          822,
+          295
+        ],
+        [
+          297,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        134,
+        822,
+        176
+      ],
+      "text": "PHILEBEZ",
+      "confidence": 0.4537
+    },
+    {
+      "line_id": "0170_viet_003",
+      "bbox": [
+        [
+          295,
+          189
+        ],
+        [
+          888,
+          187
+        ],
+        [
+          888,
+          221
+        ],
+        [
+          295,
+          223
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          310
+        ],
+        [
+          888,
+          308
+        ],
+        [
+          888,
+          342
+        ],
+        [
+          295,
+          344
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        187,
+        888,
+        223
+      ],
+      "text": "mục mục đại dại, quân thần chi gian",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0170_viet_004",
+      "bbox": [
+        [
+          224,
+          233
+        ],
+        [
+          791,
+          233
+        ],
+        [
+          791,
+          271
+        ],
+        [
+          224,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          354
+        ],
+        [
+          791,
+          354
+        ],
+        [
+          791,
+          392
+        ],
+        [
+          224,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        233,
+        791,
+        271
+      ],
+      "text": "cung kính, uy-nghi trong chồn vua tôi",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0170_viet_005",
+      "bbox": [
+        [
+          299,
+          298
+        ],
+        [
+          818,
+          296
+        ],
+        [
+          818,
+          336
+        ],
+        [
+          299,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          419
+        ],
+        [
+          818,
+          417
+        ],
+        [
+          818,
+          457
+        ],
+        [
+          299,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        296,
+        818,
+        338
+      ],
+      "text": "Xã Lễ Liên Lý Lê Khác",
+      "confidence": 0.4563
+    },
+    {
+      "line_id": "0170_viet_006",
+      "bbox": [
+        [
+          302,
+          352
+        ],
+        [
+          982,
+          352
+        ],
+        [
+          982,
+          380
+        ],
+        [
+          302,
+          380
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          473
+        ],
+        [
+          982,
+          473
+        ],
+        [
+          982,
+          501
+        ],
+        [
+          302,
+          501
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        352,
+        982,
+        380
+      ],
+      "text": "Tần khởi Trường thành, cánh hải vi quan nhau",
+      "confidence": 0.8566
+    },
+    {
+      "line_id": "0170_viet_007",
+      "bbox": [
+        [
+          225,
+          392
+        ],
+        [
+          881,
+          393
+        ],
+        [
+          881,
+          429
+        ],
+        [
+          224,
+          427
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          513
+        ],
+        [
+          881,
+          514
+        ],
+        [
+          881,
+          550
+        ],
+        [
+          224,
+          548
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        392,
+        881,
+        429
+      ],
+      "text": "Nhà Tân cát tràng thành, đặt ải đến tận bề",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0170_viet_008",
+      "bbox": [
+        [
+          297,
+          511
+        ],
+        [
+          829,
+          511
+        ],
+        [
+          829,
+          544
+        ],
+        [
+          297,
+          544
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          632
+        ],
+        [
+          829,
+          632
+        ],
+        [
+          829,
+          665
+        ],
+        [
+          297,
+          665
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        511,
+        829,
+        544
+      ],
+      "text": "đồ độc sinh linh, van lý chu ân",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0170_viet_009",
+      "bbox": [
+        [
+          223,
+          559
+        ],
+        [
+          938,
+          559
+        ],
+        [
+          938,
+          593
+        ],
+        [
+          223,
+          593
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          680
+        ],
+        [
+          938,
+          680
+        ],
+        [
+          938,
+          714
+        ],
+        [
+          223,
+          714
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        559,
+        938,
+        593
+      ],
+      "text": "bạo ngược sinh linh, máu đọng đỏ tím muốn dặm",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0170_viet_010",
+      "bbox": [
+        [
+          295,
+          623
+        ],
+        [
+          823,
+          623
+        ],
+        [
+          823,
+          663
+        ],
+        [
+          295,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          744
+        ],
+        [
+          823,
+          744
+        ],
+        [
+          823,
+          784
+        ],
+        [
+          295,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        623,
+        823,
+        663
+      ],
+      "text": "12 - 33 H F2 12 12",
+      "confidence": 0.4685
+    },
+    {
+      "line_id": "0170_viet_011",
+      "bbox": [
+        [
+          295,
+          671
+        ],
+        [
+          886,
+          671
+        ],
+        [
+          886,
+          710
+        ],
+        [
+          295,
+          710
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          792
+        ],
+        [
+          886,
+          792
+        ],
+        [
+          886,
+          831
+        ],
+        [
+          295,
+          831
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        671,
+        886,
+        710
+      ],
+      "text": "Hún kích Hung-nô, tuy đắc Âm-sơn,",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0170_viet_012",
+      "bbox": [
+        [
+          223,
+          716
+        ],
+        [
+          987,
+          718
+        ],
+        [
+          987,
+          753
+        ],
+        [
+          223,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          837
+        ],
+        [
+          987,
+          839
+        ],
+        [
+          987,
+          874
+        ],
+        [
+          223,
+          873
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        716,
+        987,
+        753
+      ],
+      "text": "Nhà Hán đánh Hung-nô, tuy chiêm được Âm-sơn,",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0170_viet_013",
+      "bbox": [
+        [
+          289,
+          782
+        ],
+        [
+          822,
+          785
+        ],
+        [
+          822,
+          825
+        ],
+        [
+          288,
+          822
+        ]
+      ],
+      "bbox_original": [
+        [
+          289,
+          903
+        ],
+        [
+          822,
+          906
+        ],
+        [
+          822,
+          946
+        ],
+        [
+          288,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        288,
+        782,
+        822,
+        825
+      ],
+      "text": "H Hà Bị sự T ăm 2",
+      "confidence": 0.5911
+    },
+    {
+      "line_id": "0170_viet_014",
+      "bbox": [
+        [
+          295,
+          832
+        ],
+        [
+          883,
+          835
+        ],
+        [
+          882,
+          871
+        ],
+        [
+          295,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          953
+        ],
+        [
+          883,
+          956
+        ],
+        [
+          882,
+          992
+        ],
+        [
+          295,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        832,
+        883,
+        871
+      ],
+      "text": "chầm hài biên dã, công bãt bồ hoan",
+      "confidence": 0.8816
+    },
+    {
+      "line_id": "0170_viet_015",
+      "bbox": [
+        [
+          224,
+          881
+        ],
+        [
+          938,
+          881
+        ],
+        [
+          938,
+          921
+        ],
+        [
+          224,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1002
+        ],
+        [
+          938,
+          1002
+        ],
+        [
+          938,
+          1042
+        ],
+        [
+          224,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        881,
+        938,
+        921
+      ],
+      "text": "nhưng gồi xương khắp đồng, công chẳng bõ hại",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0170_viet_016",
+      "bbox": [
+        [
+          294,
+          946
+        ],
+        [
+          822,
+          946
+        ],
+        [
+          822,
+          984
+        ],
+        [
+          294,
+          984
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1067
+        ],
+        [
+          822,
+          1067
+        ],
+        [
+          822,
+          1105
+        ],
+        [
+          294,
+          1105
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        946,
+        822,
+        984
+      ],
+      "text": "22% R?EM.X",
+      "confidence": 0.2416
+    },
+    {
+      "line_id": "0170_viet_017",
+      "bbox": [
+        [
+          295,
+          994
+        ],
+        [
+          761,
+          996
+        ],
+        [
+          761,
+          1036
+        ],
+        [
+          295,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1115
+        ],
+        [
+          761,
+          1117
+        ],
+        [
+          761,
+          1157
+        ],
+        [
+          295,
+          1155
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        994,
+        761,
+        1036
+      ],
+      "text": "Thương thương chưng dân,",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0170_viet_018",
+      "bbox": [
+        [
+          295,
+          1041
+        ],
+        [
+          606,
+          1043
+        ],
+        [
+          606,
+          1078
+        ],
+        [
+          295,
+          1076
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1162
+        ],
+        [
+          606,
+          1164
+        ],
+        [
+          606,
+          1199
+        ],
+        [
+          295,
+          1197
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1041,
+        606,
+        1078
+      ],
+      "text": "thùy vô phụ mẫu ?",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0170_viet_019",
+      "bbox": [
+        [
+          220,
+          1083
+        ],
+        [
+          881,
+          1088
+        ],
+        [
+          881,
+          1128
+        ],
+        [
+          219,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1204
+        ],
+        [
+          881,
+          1209
+        ],
+        [
+          881,
+          1249
+        ],
+        [
+          219,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1083,
+        881,
+        1128
+      ],
+      "text": "Sinh dân trong trời đất ai mà không cha mẹ",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0170_viet_020",
+      "bbox": [
+        [
+          294,
+          1153
+        ],
+        [
+          817,
+          1153
+        ],
+        [
+          817,
+          1194
+        ],
+        [
+          294,
+          1194
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1274
+        ],
+        [
+          817,
+          1274
+        ],
+        [
+          817,
+          1315
+        ],
+        [
+          294,
+          1315
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1153,
+        817,
+        1194
+      ],
+      "text": "12 V4 22 T",
+      "confidence": 0.4868
+    },
+    {
+      "line_id": "0170_viet_021",
+      "bbox": [
+        [
+          294,
+          1204
+        ],
+        [
+          849,
+          1205
+        ],
+        [
+          849,
+          1240
+        ],
+        [
+          294,
+          1239
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1325
+        ],
+        [
+          849,
+          1326
+        ],
+        [
+          849,
+          1361
+        ],
+        [
+          294,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1204,
+        849,
+        1240
+      ],
+      "text": "Đề huề phủng phụ, úy kỳ bất thọ",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0170_viet_022",
+      "bbox": [
+        [
+          221,
+          1249
+        ],
+        [
+          783,
+          1250
+        ],
+        [
+          783,
+          1292
+        ],
+        [
+          221,
+          1291
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1370
+        ],
+        [
+          783,
+          1371
+        ],
+        [
+          783,
+          1413
+        ],
+        [
+          221,
+          1412
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1249,
+        783,
+        1292
+      ],
+      "text": "dắt díu nâng-đờ, sợ không sông lâu;",
+      "confidence": 0.8983
+    },
+    {
+      "line_id": "0170_viet_023",
+      "bbox": [
+        [
+          292,
+          1319
+        ],
+        [
+          817,
+          1319
+        ],
+        [
+          817,
+          1359
+        ],
+        [
+          292,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1440
+        ],
+        [
+          817,
+          1440
+        ],
+        [
+          817,
+          1480
+        ],
+        [
+          292,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1319,
+        817,
+        1359
+      ],
+      "text": "- R X 40 X 40,40",
+      "confidence": 0.4226
+    },
+    {
+      "line_id": "0170_viet_024",
+      "bbox": [
+        [
+          295,
+          1369
+        ],
+        [
+          933,
+          1369
+        ],
+        [
+          933,
+          1403
+        ],
+        [
+          295,
+          1403
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1490
+        ],
+        [
+          933,
+          1490
+        ],
+        [
+          933,
+          1524
+        ],
+        [
+          295,
+          1524
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1369,
+        933,
+        1403
+      ],
+      "text": "Thùy vô huynh đệ ? như túc như thủ;",
+      "confidence": 0.903
+    },
+    {
+      "line_id": "0170_viet_025",
+      "bbox": [
+        [
+          216,
+          1411
+        ],
+        [
+          889,
+          1415
+        ],
+        [
+          889,
+          1455
+        ],
+        [
+          216,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1532
+        ],
+        [
+          889,
+          1536
+        ],
+        [
+          889,
+          1576
+        ],
+        [
+          216,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1411,
+        889,
+        1455
+      ],
+      "text": "ai mà không có anh em, như chân như tay;",
+      "confidence": 0.9264
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "164",
+      "PHILEBEZ",
+      "cung kính, uy-nghi trong chồn vua tôi",
+      "Tần khởi Trường thành, cánh hải vi quan nhau",
+      "đồ độc sinh linh, van lý chu ân",
+      "12 - 33 H F2 12 12",
+      "Nhà Hán đánh Hung-nô, tuy chiêm được Âm-sơn,",
+      "chầm hài biên dã, công bãt bồ hoan",
+      "22% R?EM.X",
+      "thùy vô phụ mẫu ?",
+      "12 V4 22 T",
+      "dắt díu nâng-đờ, sợ không sông lâu;",
+      "Thùy vô huynh đệ ? như túc như thủ;"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUY",
+      "mục mục đại dại, quân thần chi gian",
+      "Xã Lễ Liên Lý Lê Khác",
+      "Nhà Tân cát tràng thành, đặt ải đến tận bề",
+      "bạo ngược sinh linh, máu đọng đỏ tím muốn dặm",
+      "Hún kích Hung-nô, tuy đắc Âm-sơn,",
+      "H Hà Bị sự T ăm 2",
+      "nhưng gồi xương khắp đồng, công chẳng bõ hại",
+      "Thương thương chưng dân,",
+      "Sinh dân trong trời đất ai mà không cha mẹ",
+      "Đề huề phủng phụ, úy kỳ bất thọ",
+      "- R X 40 X 40,40",
+      "ai mà không có anh em, như chân như tay;"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "穆穆棟棟君臣之間",
+        "phien_am": "164",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "秦起長城竟海為關",
+        "phien_am": "PHILEBEZ",
+        "dich_nghia_gloss": "mục mục đại dại, quân thần chi gian"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "茶毒生靈萬黑朱股",
+        "phien_am": "cung kính, uy-nghi trong chồn vua tôi",
+        "dich_nghia_gloss": "Xã Lễ Liên Lý Lê Khác"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "北",
+        "phien_am": "Tần khởi Trường thành, cánh hải vi quan nhau",
+        "dich_nghia_gloss": "Nhà Tân cát tràng thành, đặt ải đến tận bề"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "漢擊匈奴雖得陰山",
+        "phien_am": "đồ độc sinh linh, van lý chu ân",
+        "dich_nghia_gloss": "bạo ngược sinh linh, máu đọng đỏ tím muốn dặm"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "枕骸遍野功不補患",
+        "phien_am": "12 - 33 H F2 12 12",
+        "dich_nghia_gloss": "Hún kích Hung-nô, tuy đắc Âm-sơn,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "蒼蒼烈",
+        "phien_am": "Nhà Hán đánh Hung-nô, tuy chiêm được Âm-sơn,",
+        "dich_nghia_gloss": "H Hà Bị sự T ăm 2"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "蒸民甡誰無父母",
+        "phien_am": "chầm hài biên dã, công bãt bồ hoan",
+        "dich_nghia_gloss": "nhưng gồi xương khắp đồng, công chẳng bõ hại"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "提才",
+        "phien_am": "22% R?EM.X",
+        "dich_nghia_gloss": "Thương thương chưng dân,"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "攜捧頁畏其不專",
+        "phien_am": "thùy vô phụ mẫu ?",
+        "dich_nghia_gloss": "Sinh dân trong trời đất ai mà không cha mẹ"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "誰無兄",
+        "phien_am": "12 V4 22 T",
+        "dich_nghia_gloss": "Đề huề phủng phụ, úy kỳ bất thọ"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "弟",
+        "phien_am": "dắt díu nâng-đờ, sợ không sông lâu;",
+        "dich_nghia_gloss": "- R X 40 X 40,40"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "女",
+        "phien_am": "Thùy vô huynh đệ ? như túc như thủ;",
+        "dich_nghia_gloss": "ai mà không có anh em, như chân như tay;"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "足如",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "尹",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

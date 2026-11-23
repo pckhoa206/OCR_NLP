@@ -1,0 +1,1132 @@
+{
+  "page_id": "0302",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 302,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1313,
+    "footnote_separator_y_original": 1428,
+    "effective_width": 1122,
+    "effective_height": 1313
+  },
+  "items": [
+    {
+      "line_id": "0302_viet_000",
+      "bbox": [
+        [
+          150,
+          11
+        ],
+        [
+          383,
+          14
+        ],
+        [
+          383,
+          52
+        ],
+        [
+          150,
+          49
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          126
+        ],
+        [
+          383,
+          129
+        ],
+        [
+          383,
+          167
+        ],
+        [
+          150,
+          164
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        11,
+        383,
+        52
+      ],
+      "text": "Nhất hộc châu",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0302_viet_001",
+      "bbox": [
+        [
+          152,
+          66
+        ],
+        [
+          658,
+          66
+        ],
+        [
+          658,
+          98
+        ],
+        [
+          152,
+          98
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          181
+        ],
+        [
+          658,
+          181
+        ],
+        [
+          658,
+          213
+        ],
+        [
+          152,
+          213
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        66,
+        658,
+        98
+      ],
+      "text": "Tân nhật bất ngôn nhân diệc thạch trị",
+      "confidence": 0.8555
+    },
+    {
+      "line_id": "0302_viet_002",
+      "bbox": [
+        [
+          151,
+          114
+        ],
+        [
+          701,
+          112
+        ],
+        [
+          701,
+          150
+        ],
+        [
+          151,
+          152
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          229
+        ],
+        [
+          701,
+          227
+        ],
+        [
+          701,
+          265
+        ],
+        [
+          151,
+          267
+        ]
+      ],
+      "box_xyxy": [
+        151,
+        112,
+        701,
+        152
+      ],
+      "text": "Thụ sắc trường thanh sương sắc bạch",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0302_viet_003",
+      "bbox": [
+        [
+          155,
+          167
+        ],
+        [
+          610,
+          167
+        ],
+        [
+          610,
+          200
+        ],
+        [
+          155,
+          200
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          282
+        ],
+        [
+          610,
+          282
+        ],
+        [
+          610,
+          315
+        ],
+        [
+          155,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        167,
+        610,
+        200
+      ],
+      "text": "Kỷ tuân trạo qua ngư khê trách;",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0302_viet_004",
+      "bbox": [
+        [
+          150,
+          209
+        ],
+        [
+          434,
+          215
+        ],
+        [
+          434,
+          253
+        ],
+        [
+          149,
+          247
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          324
+        ],
+        [
+          434,
+          330
+        ],
+        [
+          434,
+          368
+        ],
+        [
+          149,
+          362
+        ]
+      ],
+      "box_xyxy": [
+        149,
+        209,
+        434,
+        253
+      ],
+      "text": "Đáo để thung dung",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0302_viet_005",
+      "bbox": [
+        [
+          155,
+          265
+        ],
+        [
+          523,
+          265
+        ],
+        [
+          523,
+          298
+        ],
+        [
+          155,
+          298
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          380
+        ],
+        [
+          523,
+          380
+        ],
+        [
+          523,
+          413
+        ],
+        [
+          155,
+          413
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        265,
+        523,
+        298
+      ],
+      "text": "Hồng trần thiên vạn cách",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0302_viet_006",
+      "bbox": [
+        [
+          152,
+          364
+        ],
+        [
+          732,
+          362
+        ],
+        [
+          732,
+          399
+        ],
+        [
+          152,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          479
+        ],
+        [
+          732,
+          477
+        ],
+        [
+          732,
+          514
+        ],
+        [
+          152,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        362,
+        732,
+        401
+      ],
+      "text": "Nhàn ý cô sầm ngưỡng quan thái không",
+      "confidence": 0.9001
+    },
+    {
+      "line_id": "0302_viet_007",
+      "bbox": [
+        [
+          154,
+          413
+        ],
+        [
+          616,
+          414
+        ],
+        [
+          616,
+          451
+        ],
+        [
+          154,
+          450
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          528
+        ],
+        [
+          616,
+          529
+        ],
+        [
+          616,
+          566
+        ],
+        [
+          154,
+          565
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        413,
+        616,
+        451
+      ],
+      "text": "Kiến phân minh chí lí hồn dung.",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0302_viet_008",
+      "bbox": [
+        [
+          152,
+          465
+        ],
+        [
+          736,
+          462
+        ],
+        [
+          736,
+          499
+        ],
+        [
+          152,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          580
+        ],
+        [
+          736,
+          577
+        ],
+        [
+          736,
+          614
+        ],
+        [
+          152,
+          617
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        462,
+        736,
+        502
+      ],
+      "text": "Thu nguyệt bạch bích xuân thụ nãi hồng",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0302_viet_009",
+      "bbox": [
+        [
+          155,
+          518
+        ],
+        [
+          465,
+          518
+        ],
+        [
+          465,
+          551
+        ],
+        [
+          155,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          633
+        ],
+        [
+          465,
+          633
+        ],
+        [
+          465,
+          666
+        ],
+        [
+          155,
+          666
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        518,
+        465,
+        551
+      ],
+      "text": "Dưỡng nhật sinh ngu,",
+      "confidence": 0.8685
+    },
+    {
+      "line_id": "0302_viet_010",
+      "bbox": [
+        [
+          153,
+          562
+        ],
+        [
+          554,
+          566
+        ],
+        [
+          554,
+          603
+        ],
+        [
+          152,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          677
+        ],
+        [
+          554,
+          681
+        ],
+        [
+          554,
+          718
+        ],
+        [
+          152,
+          714
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        562,
+        554,
+        603
+      ],
+      "text": "Thiên nhật lãn tứ thời dung",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0302_viet_011",
+      "bbox": [
+        [
+          152,
+          617
+        ],
+        [
+          335,
+          614
+        ],
+        [
+          336,
+          652
+        ],
+        [
+          153,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          732
+        ],
+        [
+          335,
+          729
+        ],
+        [
+          336,
+          767
+        ],
+        [
+          153,
+          770
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        614,
+        336,
+        655
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9353
+    },
+    {
+      "line_id": "0302_viet_012",
+      "bbox": [
+        [
+          154,
+          665
+        ],
+        [
+          457,
+          662
+        ],
+        [
+          457,
+          699
+        ],
+        [
+          154,
+          702
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          780
+        ],
+        [
+          457,
+          777
+        ],
+        [
+          457,
+          814
+        ],
+        [
+          154,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        662,
+        457,
+        702
+      ],
+      "text": "Điệu Nhất hộc châu",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0302_viet_013",
+      "bbox": [
+        [
+          155,
+          715
+        ],
+        [
+          673,
+          711
+        ],
+        [
+          673,
+          748
+        ],
+        [
+          155,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          830
+        ],
+        [
+          673,
+          826
+        ],
+        [
+          673,
+          863
+        ],
+        [
+          155,
+          867
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        711,
+        673,
+        752
+      ],
+      "text": "Cả ngày không nói, người giống đá,",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0302_viet_014",
+      "bbox": [
+        [
+          155,
+          766
+        ],
+        [
+          814,
+          763
+        ],
+        [
+          815,
+          796
+        ],
+        [
+          155,
+          799
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          881
+        ],
+        [
+          814,
+          878
+        ],
+        [
+          815,
+          911
+        ],
+        [
+          155,
+          914
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        763,
+        815,
+        799
+      ],
+      "text": "Màu cây xanh xanh kéo dài, sương màu trăng",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0302_viet_015",
+      "bbox": [
+        [
+          156,
+          812
+        ],
+        [
+          730,
+          812
+        ],
+        [
+          730,
+          849
+        ],
+        [
+          156,
+          849
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          927
+        ],
+        [
+          730,
+          927
+        ],
+        [
+          730,
+          964
+        ],
+        [
+          156,
+          964
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        812,
+        730,
+        849
+      ],
+      "text": "Mấy tuần chèo thuyền đến khe đánh cá,",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0302_viet_016",
+      "bbox": [
+        [
+          155,
+          862
+        ],
+        [
+          534,
+          866
+        ],
+        [
+          534,
+          903
+        ],
+        [
+          155,
+          898
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          977
+        ],
+        [
+          534,
+          981
+        ],
+        [
+          534,
+          1018
+        ],
+        [
+          155,
+          1013
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        862,
+        534,
+        903
+      ],
+      "text": "Rốt cục được thong dong,",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0302_viet_017",
+      "bbox": [
+        [
+          154,
+          915
+        ],
+        [
+          627,
+          908
+        ],
+        [
+          627,
+          949
+        ],
+        [
+          154,
+          956
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          1030
+        ],
+        [
+          627,
+          1023
+        ],
+        [
+          627,
+          1064
+        ],
+        [
+          154,
+          1071
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        908,
+        627,
+        956
+      ],
+      "text": "Muôn vàn xa cách cõi hồng trần",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0302_viet_018",
+      "bbox": [
+        [
+          156,
+          1015
+        ],
+        [
+          1027,
+          1009
+        ],
+        [
+          1028,
+          1046
+        ],
+        [
+          157,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1130
+        ],
+        [
+          1027,
+          1124
+        ],
+        [
+          1028,
+          1161
+        ],
+        [
+          157,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1009,
+        1028,
+        1052
+      ],
+      "text": "Thành thơi dựa vào quả núi cô tịch, ngẳng đầu nhìn trời cao",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0302_viet_019",
+      "bbox": [
+        [
+          159,
+          1061
+        ],
+        [
+          583,
+          1066
+        ],
+        [
+          582,
+          1104
+        ],
+        [
+          159,
+          1100
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          1176
+        ],
+        [
+          583,
+          1181
+        ],
+        [
+          582,
+          1219
+        ],
+        [
+          159,
+          1215
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        1061,
+        583,
+        1104
+      ],
+      "text": "Thấy rõ ràng về sự dung hợp",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0302_viet_020",
+      "bbox": [
+        [
+          156,
+          1116
+        ],
+        [
+          724,
+          1113
+        ],
+        [
+          724,
+          1150
+        ],
+        [
+          157,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1231
+        ],
+        [
+          724,
+          1228
+        ],
+        [
+          724,
+          1265
+        ],
+        [
+          157,
+          1268
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1113,
+        724,
+        1153
+      ],
+      "text": "Trăng thu trong trẻo, cây xuân lại hồng",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0302_viet_021",
+      "bbox": [
+        [
+          158,
+          1169
+        ],
+        [
+          630,
+          1169
+        ],
+        [
+          630,
+          1201
+        ],
+        [
+          158,
+          1201
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1284
+        ],
+        [
+          630,
+          1284
+        ],
+        [
+          630,
+          1316
+        ],
+        [
+          158,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1169,
+        630,
+        1201
+      ],
+      "text": "Nuôi dưỡng một đời kẻ ngu này,",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0302_viet_022",
+      "bbox": [
+        [
+          156,
+          1216
+        ],
+        [
+          670,
+          1213
+        ],
+        [
+          670,
+          1250
+        ],
+        [
+          157,
+          1253
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          1331
+        ],
+        [
+          670,
+          1328
+        ],
+        [
+          670,
+          1365
+        ],
+        [
+          157,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1213,
+        670,
+        1253
+      ],
+      "text": "Ngàn ngày biếng, tứ thời chây lười",
+      "confidence": 0.9318
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Nhất hộc châu",
+      "Tân nhật bất ngôn nhân diệc thạch trị",
+      "Thụ sắc trường thanh sương sắc bạch",
+      "Kỷ tuân trạo qua ngư khê trách;",
+      "Đáo để thung dung",
+      "Hồng trần thiên vạn cách",
+      "Nhàn ý cô sầm ngưỡng quan thái không",
+      "Kiến phân minh chí lí hồn dung.",
+      "Thu nguyệt bạch bích xuân thụ nãi hồng",
+      "Dưỡng nhật sinh ngu,",
+      "Thiên nhật lãn tứ thời dung"
+    ],
+    "dich_nghia_lines": [
+      "Điệu Nhất hộc châu",
+      "Cả ngày không nói, người giống đá,",
+      "Màu cây xanh xanh kéo dài, sương màu trăng",
+      "Mấy tuần chèo thuyền đến khe đánh cá,",
+      "Rốt cục được thong dong,",
+      "Muôn vàn xa cách cõi hồng trần",
+      "Thành thơi dựa vào quả núi cô tịch, ngẳng đầu nhìn trời cao",
+      "Thấy rõ ràng về sự dung hợp",
+      "Trăng thu trong trẻo, cây xuân lại hồng",
+      "Nuôi dưỡng một đời kẻ ngu này,",
+      "Ngàn ngày biếng, tứ thời chây lười"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1324,14 +1324,52 @@ def _write_jsonl_records(output_dir: Path, results: Sequence[Dict[str, Any]]) ->
 
 
 def _install_kaggle_dependencies_if_needed() -> None:
-    """Install PaddleOCR and VietOCR inside a Kaggle GPU kernel when requested."""
-    pkgs = [
-        "paddlepaddle-gpu",
-        "paddleocr>=2.7.0",
-        "vietocr",
-        "opencv-python-headless",
-    ]
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", *pkgs])
+    """Install PaddleOCR and VietOCR inside a Kaggle GPU kernel when requested.
+
+    Kaggle images now ship Python 3.13, for which PyPI has no `paddlepaddle-gpu`
+    wheel, so Paddle comes from its official CUDA 11.8 index (works with Kaggle's
+    drivers on both P100 and T4). `paddleocr` stays on 2.x because this pipeline
+    uses the 2.x API (`use_gpu`, `show_log`, `.ocr(cls=True)`). `vietocr` pins
+    `pillow==10.2.0` (no cp313 wheel), so it is installed without its deps and
+    only the packages its inference path imports are added.
+    """
+    pip = [sys.executable, "-m", "pip", "install", "-q"]
+
+    def _nvidia_pins() -> List[str]:
+        out = subprocess.run(
+            [sys.executable, "-m", "pip", "freeze"], capture_output=True, text=True, check=False
+        ).stdout
+        return [ln for ln in out.splitlines() if ln.lower().startswith("nvidia-") and "==" in ln]
+
+    torch_nvidia_before = _nvidia_pins()
+    subprocess.check_call(
+        [
+            *pip,
+            "paddlepaddle-gpu==3.2.2",
+            "--extra-index-url",
+            "https://www.paddlepaddle.org.cn/packages/stable/cu118/",
+        ]
+    )
+    # Paddle's CUDA 11 deps overwrite the shared `nvidia/nccl/lib/libnccl.so.2` that the
+    # preinstalled torch links against (ImportError: undefined symbol ncclComm...), and may
+    # change other nvidia-* pins. Restore torch's exact NVIDIA libs; single-GPU Paddle does
+    # not use NCCL, and its other CUDA 11 libs have distinct sonames.
+    after = set(_nvidia_pins())
+    restore = [p for p in torch_nvidia_before if p not in after or p.lower().startswith("nvidia-nccl")]
+    if restore:
+        subprocess.check_call([*pip, "--no-deps", "--force-reinstall", *restore])
+    subprocess.check_call([*pip, "paddleocr==2.10.0", "opencv-python-headless"])
+    subprocess.check_call([*pip, "--no-deps", "vietocr==0.3.13"])
+    subprocess.check_call([*pip, "einops", "gdown", "lmdb"])
+    # Fail fast with a clear message if the torch/paddle CUDA stacks still clash.
+    subprocess.check_call(
+        [
+            sys.executable,
+            "-c",
+            "import torch, paddle; print('torch', torch.__version__, torch.cuda.is_available(),"
+            " '| paddle', paddle.__version__, paddle.device.cuda.device_count())",
+        ]
+    )
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:

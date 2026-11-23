@@ -1,0 +1,268 @@
+{
+  "page_id": "0132",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 132,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0132_viet_000",
+      "bbox": [
+        [
+          456,
+          601
+        ],
+        [
+          494,
+          601
+        ],
+        [
+          494,
+          613
+        ],
+        [
+          456,
+          613
+        ]
+      ],
+      "bbox_original": [
+        [
+          456,
+          722
+        ],
+        [
+          494,
+          722
+        ],
+        [
+          494,
+          734
+        ],
+        [
+          456,
+          734
+        ]
+      ],
+      "box_xyxy": [
+        456,
+        601,
+        494,
+        613
+      ],
+      "text": "1.1.5",
+      "confidence": 0.6844
+    },
+    {
+      "line_id": "0132_viet_001",
+      "bbox": [
+        [
+          460,
+          621
+        ],
+        [
+          572,
+          617
+        ],
+        [
+          572,
+          634
+        ],
+        [
+          461,
+          638
+        ]
+      ],
+      "bbox_original": [
+        [
+          460,
+          742
+        ],
+        [
+          572,
+          738
+        ],
+        [
+          572,
+          755
+        ],
+        [
+          461,
+          759
+        ]
+      ],
+      "box_xyxy": [
+        460,
+        617,
+        572,
+        638
+      ],
+      "text": "CHINGED",
+      "confidence": 0.5797
+    },
+    {
+      "line_id": "0132_viet_002",
+      "bbox": [
+        [
+          538,
+          710
+        ],
+        [
+          620,
+          704
+        ],
+        [
+          622,
+          729
+        ],
+        [
+          540,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          538,
+          831
+        ],
+        [
+          620,
+          825
+        ],
+        [
+          622,
+          850
+        ],
+        [
+          540,
+          856
+        ]
+      ],
+      "box_xyxy": [
+        538,
+        704,
+        622,
+        735
+      ],
+      "text": "1",
+      "confidence": 0.3459
+    },
+    {
+      "line_id": "0132_viet_003",
+      "bbox": [
+        [
+          426,
+          1255
+        ],
+        [
+          713,
+          1264
+        ],
+        [
+          711,
+          1304
+        ],
+        [
+          425,
+          1295
+        ]
+      ],
+      "bbox_original": [
+        [
+          426,
+          1376
+        ],
+        [
+          713,
+          1385
+        ],
+        [
+          711,
+          1425
+        ],
+        [
+          425,
+          1416
+        ]
+      ],
+      "box_xyxy": [
+        425,
+        1255,
+        713,
+        1304
+      ],
+      "text": "Đêm dàn ngày hát;",
+      "confidence": 0.867
+    },
+    {
+      "line_id": "0132_viet_004",
+      "bbox": [
+        [
+          407,
+          1326
+        ],
+        [
+          729,
+          1333
+        ],
+        [
+          728,
+          1368
+        ],
+        [
+          406,
+          1361
+        ]
+      ],
+      "bbox_original": [
+        [
+          407,
+          1447
+        ],
+        [
+          729,
+          1454
+        ],
+        [
+          728,
+          1489
+        ],
+        [
+          406,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        406,
+        1326,
+        729,
+        1368
+      ],
+      "text": "Làm Tân Cung Nhân I",
+      "confidence": 0.8694
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "1.1.5",
+      "CHINGED",
+      "1",
+      "Đêm dàn ngày hát;",
+      "Làm Tân Cung Nhân I"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

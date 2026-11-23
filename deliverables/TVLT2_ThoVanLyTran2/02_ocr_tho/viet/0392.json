@@ -1,0 +1,1516 @@
+{
+  "page_id": "0392",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 392,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0392_viet_000",
+      "bbox": [
+        [
+          179,
+          0
+        ],
+        [
+          225,
+          0
+        ],
+        [
+          225,
+          21
+        ],
+        [
+          179,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          155
+        ],
+        [
+          225,
+          155
+        ],
+        [
+          225,
+          176
+        ],
+        [
+          179,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        0,
+        225,
+        21
+      ],
+      "text": "394",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0392_viet_001",
+      "bbox": [
+        [
+          614,
+          0
+        ],
+        [
+          983,
+          0
+        ],
+        [
+          982,
+          35
+        ],
+        [
+          613,
+          25
+        ]
+      ],
+      "bbox_original": [
+        [
+          614,
+          155
+        ],
+        [
+          983,
+          155
+        ],
+        [
+          982,
+          190
+        ],
+        [
+          613,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        613,
+        0,
+        983,
+        35
+      ],
+      "text": "THƠ VĂN LY - TRẦN (H)",
+      "confidence": 0.8451
+    },
+    {
+      "line_id": "0392_viet_002",
+      "bbox": [
+        [
+          177,
+          103
+        ],
+        [
+          1404,
+          111
+        ],
+        [
+          1404,
+          154
+        ],
+        [
+          177,
+          146
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          258
+        ],
+        [
+          1404,
+          266
+        ],
+        [
+          1404,
+          309
+        ],
+        [
+          177,
+          301
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        103,
+        1404,
+        154
+      ],
+      "text": "(16) Nhạc thái thường: : nhạc của triều đinh dùng trong những tế lễ (quân trọng ở tông",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0392_viet_003",
+      "bbox": [
+        [
+          242,
+          141
+        ],
+        [
+          1406,
+          152
+        ],
+        [
+          1406,
+          189
+        ],
+        [
+          242,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          296
+        ],
+        [
+          1406,
+          307
+        ],
+        [
+          1406,
+          344
+        ],
+        [
+          242,
+          333
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        141,
+        1406,
+        189
+      ],
+      "text": "miểu. Bấy giờ là thời kỳ ngoại giao giữa ía và quân Nguyên, trong những tiệc yến tiếp",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0392_viet_004",
+      "bbox": [
+        [
+          242,
+          178
+        ],
+        [
+          1404,
+          189
+        ],
+        [
+          1404,
+          225
+        ],
+        [
+          242,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          333
+        ],
+        [
+          1404,
+          344
+        ],
+        [
+          1404,
+          380
+        ],
+        [
+          242,
+          369
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        178,
+        1404,
+        225
+      ],
+      "text": "sứ giặc, triều đình phải dùng đến, nhạc thái thường đề giúp vui: Trần, Quốc Tuấn coi",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0392_viet_005",
+      "bbox": [
+        [
+          244,
+          218
+        ],
+        [
+          596,
+          221
+        ],
+        [
+          596,
+          251
+        ],
+        [
+          244,
+          248
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          373
+        ],
+        [
+          596,
+          376
+        ],
+        [
+          596,
+          406
+        ],
+        [
+          244,
+          403
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        218,
+        596,
+        251
+      ],
+      "text": "đó là một điều nhục nhã",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0392_viet_006",
+      "bbox": [
+        [
+          181,
+          268
+        ],
+        [
+          912,
+          268
+        ],
+        [
+          912,
+          304
+        ],
+        [
+          181,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          423
+        ],
+        [
+          912,
+          423
+        ],
+        [
+          912,
+          459
+        ],
+        [
+          181,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        268,
+        912,
+        304
+      ],
+      "text": "(17) Thái ấp: phần đất vua phong cho các vương hàu.",
+      "confidence": 0.9132
+    },
+    {
+      "line_id": "0392_viet_007",
+      "bbox": [
+        [
+          242,
+          347
+        ],
+        [
+          1378,
+          360
+        ],
+        [
+          1378,
+          403
+        ],
+        [
+          242,
+          390
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          502
+        ],
+        [
+          1378,
+          515
+        ],
+        [
+          1378,
+          558
+        ],
+        [
+          242,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        347,
+        1378,
+        403
+      ],
+      "text": "47 122 lần 2.70 đặt 1.x23 1%",
+      "confidence": 0.5788
+    },
+    {
+      "line_id": "0392_viet_008",
+      "bbox": [
+        [
+          285,
+          387
+        ],
+        [
+          1404,
+          401
+        ],
+        [
+          1404,
+          437
+        ],
+        [
+          285,
+          424
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          542
+        ],
+        [
+          1404,
+          556
+        ],
+        [
+          1404,
+          592
+        ],
+        [
+          285,
+          579
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        387,
+        1404,
+        437
+      ],
+      "text": "Iệ Phú bão hỏa, thổ chi tích tân chi hạ nhị tàm kỳ thương: hóa vị cúp nhiện nhân",
+      "confidence": 0.8682
+    },
+    {
+      "line_id": "0392_viet_009",
+      "bbox": [
+        [
+          242,
+          424
+        ],
+        [
+          1404,
+          437
+        ],
+        [
+          1404,
+          476
+        ],
+        [
+          242,
+          462
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          579
+        ],
+        [
+          1404,
+          592
+        ],
+        [
+          1404,
+          631
+        ],
+        [
+          242,
+          617
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        424,
+        1404,
+        476
+      ],
+      "text": "vị chỉ an, nghĩa là: nôm mồi lửa đặt dười đóng củi rồi nằm lên trên, lửa chứa kịp chãy",
+      "confidence": 0.8783
+    },
+    {
+      "line_id": "0392_viet_010",
+      "bbox": [
+        [
+          244,
+          467
+        ],
+        [
+          475,
+          471
+        ],
+        [
+          475,
+          499
+        ],
+        [
+          244,
+          495
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          622
+        ],
+        [
+          475,
+          626
+        ],
+        [
+          475,
+          654
+        ],
+        [
+          244,
+          650
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        467,
+        475,
+        499
+      ],
+      "text": "văn cho là yèn v.",
+      "confidence": 0.8569
+    },
+    {
+      "line_id": "0392_viet_011",
+      "bbox": [
+        [
+          177,
+          514
+        ],
+        [
+          1411,
+          525
+        ],
+        [
+          1410,
+          559
+        ],
+        [
+          177,
+          548
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          669
+        ],
+        [
+          1411,
+          680
+        ],
+        [
+          1410,
+          714
+        ],
+        [
+          177,
+          703
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        514,
+        1411,
+        559
+      ],
+      "text": "(19) Kiềng cạnh nộng mà thồi rau nguồi (trừng cạnh xuy, tô): xuất xứ từ một câu văn của;",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0392_viet_012",
+      "bbox": [
+        [
+          240,
+          587
+        ],
+        [
+          1404,
+          600
+        ],
+        [
+          1404,
+          636
+        ],
+        [
+          240,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          742
+        ],
+        [
+          1404,
+          755
+        ],
+        [
+          1404,
+          791
+        ],
+        [
+          240,
+          778
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        587,
+        1404,
+        636
+      ],
+      "text": "người bị bỏng yì cainh nông, trong lống, e sợ, dù, gập rai. nguội đị: nữa, cũng lấy",
+      "confidence": 0.8696
+    },
+    {
+      "line_id": "0392_viet_013",
+      "bbox": [
+        [
+          244,
+          630
+        ],
+        [
+          402,
+          630
+        ],
+        [
+          402,
+          660
+        ],
+        [
+          244,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          785
+        ],
+        [
+          402,
+          785
+        ],
+        [
+          402,
+          815
+        ],
+        [
+          244,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        630,
+        402,
+        660
+      ],
+      "text": "miệng thời.",
+      "confidence": 0.869
+    },
+    {
+      "line_id": "0392_viet_014",
+      "bbox": [
+        [
+          180,
+          672
+        ],
+        [
+          1411,
+          683
+        ],
+        [
+          1410,
+          720
+        ],
+        [
+          179,
+          709
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          827
+        ],
+        [
+          1411,
+          838
+        ],
+        [
+          1410,
+          875
+        ],
+        [
+          179,
+          864
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        672,
+        1411,
+        720
+      ],
+      "text": "(20) (21) Bàng Hóng, Hận Nghệ: hai nhân vật bắn cung giải Arong thần, thoại Trung-quốc.",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0392_viet_015",
+      "bbox": [
+        [
+          177,
+          715
+        ],
+        [
+          1407,
+          728
+        ],
+        [
+          1406,
+          771
+        ],
+        [
+          177,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          870
+        ],
+        [
+          1407,
+          883
+        ],
+        [
+          1406,
+          926
+        ],
+        [
+          177,
+          913
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        715,
+        1407,
+        771
+      ],
+      "text": "(22) Của-nhai: nơi trú ngu của các vui.achư hằn o khị - vào phàu xua Hàn ở Trường-un.",
+      "confidence": 0.869
+    },
+    {
+      "line_id": "0392_viet_016",
+      "bbox": [
+        [
+          173,
+          771
+        ],
+        [
+          1402,
+          782
+        ],
+        [
+          1402,
+          825
+        ],
+        [
+          173,
+          814
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          926
+        ],
+        [
+          1402,
+          937
+        ],
+        [
+          1402,
+          980
+        ],
+        [
+          173,
+          969
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        771,
+        1402,
+        825
+      ],
+      "text": "(23) Mũi mãi vững bền: dịch thoát cầu vĩnh vi thanh chiến: Sách Thể thuyết tử Hụchép",
+      "confidence": 0.8894
+    },
+    {
+      "line_id": "0392_viet_017",
+      "bbox": [
+        [
+          238,
+          809
+        ],
+        [
+          1404,
+          823
+        ],
+        [
+          1404,
+          859
+        ],
+        [
+          237,
+          846
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          964
+        ],
+        [
+          1404,
+          978
+        ],
+        [
+          1404,
+          1014
+        ],
+        [
+          237,
+          1001
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        809,
+        1404,
+        859
+      ],
+      "text": "rằng: Vương Tử Kính 2.7 - Hk đêm nằm ngì ở trai phòng thấy một bọn trộm lên",
+      "confidence": 0.8774
+    },
+    {
+      "line_id": "0392_viet_018",
+      "bbox": [
+        [
+          238,
+          848
+        ],
+        [
+          1402,
+          861
+        ],
+        [
+          1402,
+          898
+        ],
+        [
+          237,
+          884
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1003
+        ],
+        [
+          1402,
+          1016
+        ],
+        [
+          1402,
+          1053
+        ],
+        [
+          237,
+          1039
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        848,
+        1402,
+        898
+      ],
+      "text": "vào nhà, trộm hết mọi vật, ống từ tốn 'nói với chúng: cài nệm xanh (thanh chiến) này",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0392_viet_019",
+      "bbox": [
+        [
+          236,
+          882
+        ],
+        [
+          1400,
+          898
+        ],
+        [
+          1400,
+          934
+        ],
+        [
+          235,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1037
+        ],
+        [
+          1400,
+          1053
+        ],
+        [
+          1400,
+          1089
+        ],
+        [
+          235,
+          1074
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        882,
+        1400,
+        934
+      ],
+      "text": "là đồ cũ của nhà ta, các người đứng lấy, Tác giả mượn điền này đề núi bóng về những",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0392_viet_020",
+      "bbox": [
+        [
+          240,
+          925
+        ],
+        [
+          802,
+          927
+        ],
+        [
+          801,
+          957
+        ],
+        [
+          240,
+          955
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1080
+        ],
+        [
+          802,
+          1082
+        ],
+        [
+          801,
+          1112
+        ],
+        [
+          240,
+          1110
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        925,
+        802,
+        957
+      ],
+      "text": "của cải lưu truyền tir đời no đến đời kia.",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0392_viet_021",
+      "bbox": [
+        [
+          175,
+          972
+        ],
+        [
+          1398,
+          983
+        ],
+        [
+          1398,
+          1020
+        ],
+        [
+          175,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1127
+        ],
+        [
+          1398,
+          1138
+        ],
+        [
+          1398,
+          1175
+        ],
+        [
+          175,
+          1164
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        972,
+        1398,
+        1020
+      ],
+      "text": "(24) Nguyên văn là Bình lỗ chỉ hậu, Bản dịch của Trần Trọng Kim cũng như bản chủ thích",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0392_viet_022",
+      "bbox": [
+        [
+          238,
+          1011
+        ],
+        [
+          1400,
+          1022
+        ],
+        [
+          1400,
+          1056
+        ],
+        [
+          238,
+          1045
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1166
+        ],
+        [
+          1400,
+          1177
+        ],
+        [
+          1400,
+          1211
+        ],
+        [
+          238,
+          1200
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1011,
+        1400,
+        1056
+      ],
+      "text": "của Đương Quảng Hàm trong Việt-nam thị văn hợp tuyền, 1912, đều [cho Binh-lỏ là tên",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0392_viet_023",
+      "bbox": [
+        [
+          238,
+          1045
+        ],
+        [
+          1400,
+          1058
+        ],
+        [
+          1400,
+          1095
+        ],
+        [
+          237,
+          1081
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1200
+        ],
+        [
+          1400,
+          1213
+        ],
+        [
+          1400,
+          1250
+        ],
+        [
+          237,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1045,
+        1400,
+        1095
+      ],
+      "text": "đất, Bùi Văn Nguyên cũng ức đoàn Bình lỗ tức: lá sùng Phi-lỗ thuộc huyện Kim-anh,",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0392_viet_024",
+      "bbox": [
+        [
+          238,
+          1081
+        ],
+        [
+          1402,
+          1097
+        ],
+        [
+          1402,
+          1133
+        ],
+        [
+          237,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1236
+        ],
+        [
+          1402,
+          1252
+        ],
+        [
+          1402,
+          1288
+        ],
+        [
+          237,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1081,
+        1402,
+        1133
+      ],
+      "text": "tỉnh Vĩnh-phú ngày nay, Nhưng chúng tôi tán thành cách dịch của Ngô Tát Tố, Phan",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0392_viet_025",
+      "bbox": [
+        [
+          240,
+          1118
+        ],
+        [
+          1085,
+          1129
+        ],
+        [
+          1084,
+          1165
+        ],
+        [
+          240,
+          1154
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1273
+        ],
+        [
+          1085,
+          1284
+        ],
+        [
+          1084,
+          1320
+        ],
+        [
+          240,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1118,
+        1085,
+        1165
+      ],
+      "text": "Kế, Binh.. coi, đây là một từ chỉ việc bình định giặc nói-chung.",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0392_viet_026",
+      "bbox": [
+        [
+          171,
+          1169
+        ],
+        [
+          1402,
+          1178
+        ],
+        [
+          1402,
+          1221
+        ],
+        [
+          171,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1324
+        ],
+        [
+          1402,
+          1333
+        ],
+        [
+          1402,
+          1376
+        ],
+        [
+          171,
+          1367
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1169,
+        1402,
+        1221
+      ],
+      "text": "(25) Bản dịch này có tham khảo và chọn lọc cầu chữ ở các bài dịch tròng quả khứ của Trần",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0392_viet_027",
+      "bbox": [
+        [
+          236,
+          1208
+        ],
+        [
+          1411,
+          1219
+        ],
+        [
+          1410,
+          1255
+        ],
+        [
+          235,
+          1244
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1363
+        ],
+        [
+          1411,
+          1374
+        ],
+        [
+          1410,
+          1410
+        ],
+        [
+          235,
+          1399
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1208,
+        1411,
+        1255
+      ],
+      "text": "Trong Kim (Việt-nam sử lược), Ngô Tất Tố (VHDT - 1940), Nguyễn Hồng Chi (VNCVHS.",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0392_viet_028",
+      "bbox": [
+        [
+          236,
+          1244
+        ],
+        [
+          1404,
+          1255
+        ],
+        [
+          1404,
+          1292
+        ],
+        [
+          235,
+          1281
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1399
+        ],
+        [
+          1404,
+          1410
+        ],
+        [
+          1404,
+          1447
+        ],
+        [
+          235,
+          1436
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1244,
+        1404,
+        1292
+      ],
+      "text": "19H1), Ghu Thiên (Chống quản Nguyên, 1957), Bài Văn Nguyên (HTrv VN2, 1962), Cao",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0392_viet_029",
+      "bbox": [
+        [
+          238,
+          1281
+        ],
+        [
+          1402,
+          1292
+        ],
+        [
+          1402,
+          1328
+        ],
+        [
+          237,
+          1317
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1436
+        ],
+        [
+          1402,
+          1447
+        ],
+        [
+          1402,
+          1483
+        ],
+        [
+          237,
+          1472
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1281,
+        1402,
+        1328
+      ],
+      "text": "Thuy Giu (Bd, ĐVSKTT2, 1967), Hà Văn Tăn và Phạm Thị Tàm (Cuộc kháng chiến 'chống",
+      "confidence": 0.8967
+    },
+    {
+      "line_id": "0392_viet_030",
+      "bbox": [
+        [
+          242,
+          1324
+        ],
+        [
+          635,
+          1324
+        ],
+        [
+          635,
+          1354
+        ],
+        [
+          242,
+          1354
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1479
+        ],
+        [
+          635,
+          1479
+        ],
+        [
+          635,
+          1509
+        ],
+        [
+          242,
+          1509
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1324,
+        635,
+        1354
+      ],
+      "text": "Xâm Hược Nguyên Mông: 1967).",
+      "confidence": 0.8917
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "394",
+      "THƠ VĂN LY - TRẦN (H)",
+      "(16) Nhạc thái thường: : nhạc của triều đinh dùng trong những tế lễ (quân trọng ở tông",
+      "miểu. Bấy giờ là thời kỳ ngoại giao giữa ía và quân Nguyên, trong những tiệc yến tiếp",
+      "sứ giặc, triều đình phải dùng đến, nhạc thái thường đề giúp vui: Trần, Quốc Tuấn coi",
+      "đó là một điều nhục nhã",
+      "(17) Thái ấp: phần đất vua phong cho các vương hàu.",
+      "47 122 lần 2.70 đặt 1.x23 1%",
+      "Iệ Phú bão hỏa, thổ chi tích tân chi hạ nhị tàm kỳ thương: hóa vị cúp nhiện nhân",
+      "vị chỉ an, nghĩa là: nôm mồi lửa đặt dười đóng củi rồi nằm lên trên, lửa chứa kịp chãy",
+      "văn cho là yèn v.",
+      "(19) Kiềng cạnh nộng mà thồi rau nguồi (trừng cạnh xuy, tô): xuất xứ từ một câu văn của;",
+      "người bị bỏng yì cainh nông, trong lống, e sợ, dù, gập rai. nguội đị: nữa, cũng lấy",
+      "miệng thời.",
+      "(20) (21) Bàng Hóng, Hận Nghệ: hai nhân vật bắn cung giải Arong thần, thoại Trung-quốc.",
+      "(22) Của-nhai: nơi trú ngu của các vui.achư hằn o khị - vào phàu xua Hàn ở Trường-un.",
+      "(23) Mũi mãi vững bền: dịch thoát cầu vĩnh vi thanh chiến: Sách Thể thuyết tử Hụchép",
+      "rằng: Vương Tử Kính 2.7 - Hk đêm nằm ngì ở trai phòng thấy một bọn trộm lên",
+      "vào nhà, trộm hết mọi vật, ống từ tốn 'nói với chúng: cài nệm xanh (thanh chiến) này",
+      "là đồ cũ của nhà ta, các người đứng lấy, Tác giả mượn điền này đề núi bóng về những",
+      "của cải lưu truyền tir đời no đến đời kia.",
+      "(24) Nguyên văn là Bình lỗ chỉ hậu, Bản dịch của Trần Trọng Kim cũng như bản chủ thích",
+      "của Đương Quảng Hàm trong Việt-nam thị văn hợp tuyền, 1912, đều [cho Binh-lỏ là tên",
+      "đất, Bùi Văn Nguyên cũng ức đoàn Bình lỗ tức: lá sùng Phi-lỗ thuộc huyện Kim-anh,",
+      "tỉnh Vĩnh-phú ngày nay, Nhưng chúng tôi tán thành cách dịch của Ngô Tát Tố, Phan",
+      "Kế, Binh.. coi, đây là một từ chỉ việc bình định giặc nói-chung.",
+      "(25) Bản dịch này có tham khảo và chọn lọc cầu chữ ở các bài dịch tròng quả khứ của Trần",
+      "Trong Kim (Việt-nam sử lược), Ngô Tất Tố (VHDT - 1940), Nguyễn Hồng Chi (VNCVHS.",
+      "19H1), Ghu Thiên (Chống quản Nguyên, 1957), Bài Văn Nguyên (HTrv VN2, 1962), Cao",
+      "Thuy Giu (Bd, ĐVSKTT2, 1967), Hà Văn Tăn và Phạm Thị Tàm (Cuộc kháng chiến 'chống",
+      "Xâm Hược Nguyên Mông: 1967)."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1410 @@
+{
+  "page_id": "0192",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 192,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0192_viet_000",
+      "bbox": [
+        [
+          192,
+          32
+        ],
+        [
+          245,
+          32
+        ],
+        [
+          245,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          153
+        ],
+        [
+          245,
+          153
+        ],
+        [
+          245,
+          185
+        ],
+        [
+          192,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        32,
+        245,
+        64
+      ],
+      "text": "106",
+      "confidence": 0.8167
+    },
+    {
+      "line_id": "0192_viet_001",
+      "bbox": [
+        [
+          665,
+          32
+        ],
+        [
+          985,
+          32
+        ],
+        [
+          985,
+          60
+        ],
+        [
+          665,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          153
+        ],
+        [
+          985,
+          153
+        ],
+        [
+          985,
+          181
+        ],
+        [
+          665,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        32,
+        985,
+        60
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0192_viet_002",
+      "bbox": [
+        [
+          240,
+          132
+        ],
+        [
+          702,
+          129
+        ],
+        [
+          702,
+          174
+        ],
+        [
+          240,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          253
+        ],
+        [
+          702,
+          250
+        ],
+        [
+          702,
+          295
+        ],
+        [
+          240,
+          299
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        129,
+        702,
+        178
+      ],
+      "text": "0310000000200",
+      "confidence": 0.2535
+    },
+    {
+      "line_id": "0192_viet_003",
+      "bbox": [
+        [
+          228,
+          182
+        ],
+        [
+          736,
+          186
+        ],
+        [
+          736,
+          221
+        ],
+        [
+          228,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          303
+        ],
+        [
+          736,
+          307
+        ],
+        [
+          736,
+          342
+        ],
+        [
+          228,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        182,
+        736,
+        221
+      ],
+      "text": "Kim kỳ thất thập vô nhất yên",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0192_viet_004",
+      "bbox": [
+        [
+          280,
+          233
+        ],
+        [
+          653,
+          233
+        ],
+        [
+          653,
+          261
+        ],
+        [
+          280,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          354
+        ],
+        [
+          653,
+          354
+        ],
+        [
+          653,
+          382
+        ],
+        [
+          280,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        233,
+        653,
+        261
+      ],
+      "text": "đến nay 10 nhà không còn l",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0192_viet_005",
+      "bbox": [
+        [
+          241,
+          298
+        ],
+        [
+          915,
+          296
+        ],
+        [
+          915,
+          336
+        ],
+        [
+          241,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          419
+        ],
+        [
+          915,
+          417
+        ],
+        [
+          915,
+          457
+        ],
+        [
+          241,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        296,
+        915,
+        338
+      ],
+      "text": "BLEATH",
+      "confidence": 0.4188
+    },
+    {
+      "line_id": "0192_viet_006",
+      "bbox": [
+        [
+          228,
+          345
+        ],
+        [
+          901,
+          348
+        ],
+        [
+          901,
+          387
+        ],
+        [
+          228,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          466
+        ],
+        [
+          901,
+          469
+        ],
+        [
+          901,
+          508
+        ],
+        [
+          228,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        345,
+        901,
+        387
+      ],
+      "text": "Dữ ngô phụ cư giả, thập vô nhị tam yên;",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0192_viet_007",
+      "bbox": [
+        [
+          278,
+          393
+        ],
+        [
+          862,
+          392
+        ],
+        [
+          862,
+          425
+        ],
+        [
+          279,
+          427
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          514
+        ],
+        [
+          862,
+          513
+        ],
+        [
+          862,
+          546
+        ],
+        [
+          279,
+          548
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        392,
+        862,
+        427
+      ],
+      "text": "Cùng ở với cha tôi 10 nhà không còn 2, 3.",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0192_viet_008",
+      "bbox": [
+        [
+          243,
+          462
+        ],
+        [
+          700,
+          462
+        ],
+        [
+          700,
+          502
+        ],
+        [
+          243,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          583
+        ],
+        [
+          700,
+          583
+        ],
+        [
+          700,
+          623
+        ],
+        [
+          243,
+          623
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        462,
+        700,
+        502
+      ],
+      "text": "B-tz?",
+      "confidence": 0.5067
+    },
+    {
+      "line_id": "0192_viet_009",
+      "bbox": [
+        [
+          228,
+          511
+        ],
+        [
+          709,
+          511
+        ],
+        [
+          709,
+          549
+        ],
+        [
+          228,
+          549
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          632
+        ],
+        [
+          709,
+          632
+        ],
+        [
+          709,
+          670
+        ],
+        [
+          228,
+          670
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        511,
+        709,
+        549
+      ],
+      "text": "Dữ ngô cư thập nhị niên dả,",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0192_viet_010",
+      "bbox": [
+        [
+          279,
+          556
+        ],
+        [
+          633,
+          557
+        ],
+        [
+          633,
+          593
+        ],
+        [
+          278,
+          591
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          677
+        ],
+        [
+          633,
+          678
+        ],
+        [
+          633,
+          714
+        ],
+        [
+          278,
+          712
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        556,
+        633,
+        593
+      ],
+      "text": "Cùng ở với tôi 12 năm nay",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0192_viet_011",
+      "bbox": [
+        [
+          241,
+          623
+        ],
+        [
+          769,
+          623
+        ],
+        [
+          769,
+          663
+        ],
+        [
+          241,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          744
+        ],
+        [
+          769,
+          744
+        ],
+        [
+          769,
+          784
+        ],
+        [
+          241,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        623,
+        769,
+        663
+      ],
+      "text": "0315110100192003",
+      "confidence": 0.2892
+    },
+    {
+      "line_id": "0192_viet_012",
+      "bbox": [
+        [
+          228,
+          675
+        ],
+        [
+          739,
+          676
+        ],
+        [
+          739,
+          711
+        ],
+        [
+          228,
+          710
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          796
+        ],
+        [
+          739,
+          797
+        ],
+        [
+          739,
+          832
+        ],
+        [
+          228,
+          831
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        675,
+        739,
+        711
+      ],
+      "text": "Kim kỳ thất thập vô tứ ngũ yên",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0192_viet_013",
+      "bbox": [
+        [
+          280,
+          721
+        ],
+        [
+          655,
+          721
+        ],
+        [
+          655,
+          755
+        ],
+        [
+          280,
+          755
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          842
+        ],
+        [
+          655,
+          842
+        ],
+        [
+          655,
+          876
+        ],
+        [
+          280,
+          876
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        721,
+        655,
+        755
+      ],
+      "text": "10 nhà không còn được 4, 5.",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0192_viet_014",
+      "bbox": [
+        [
+          246,
+          790
+        ],
+        [
+          979,
+          790
+        ],
+        [
+          979,
+          829
+        ],
+        [
+          246,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          911
+        ],
+        [
+          979,
+          911
+        ],
+        [
+          979,
+          950
+        ],
+        [
+          246,
+          950
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        790,
+        979,
+        829
+      ],
+      "text": "15 A 0, Pề F F Ex Lã It NB A",
+      "confidence": 0.5594
+    },
+    {
+      "line_id": "0192_viet_015",
+      "bbox": [
+        [
+          226,
+          839
+        ],
+        [
+          918,
+          840
+        ],
+        [
+          918,
+          874
+        ],
+        [
+          226,
+          872
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          960
+        ],
+        [
+          918,
+          961
+        ],
+        [
+          918,
+          995
+        ],
+        [
+          226,
+          993
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        839,
+        918,
+        874
+      ],
+      "text": "Phi tử tắc tỷ nhì, nhi ngô di bồ xà độc tồn.",
+      "confidence": 0.9132
+    },
+    {
+      "line_id": "0192_viet_016",
+      "bbox": [
+        [
+          282,
+          886
+        ],
+        [
+          920,
+          886
+        ],
+        [
+          920,
+          919
+        ],
+        [
+          282,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1007
+        ],
+        [
+          920,
+          1007
+        ],
+        [
+          920,
+          1040
+        ],
+        [
+          282,
+          1040
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        886,
+        920,
+        919
+      ],
+      "text": "Chẳng chết thì bỏ đi, tôi nhờ bắt rắn mà còn lại.",
+      "confidence": 0.92
+    },
+    {
+      "line_id": "0192_viet_017",
+      "bbox": [
+        [
+          246,
+          956
+        ],
+        [
+          633,
+          952
+        ],
+        [
+          633,
+          991
+        ],
+        [
+          247,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1077
+        ],
+        [
+          633,
+          1073
+        ],
+        [
+          633,
+          1112
+        ],
+        [
+          247,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        952,
+        633,
+        994
+      ],
+      "text": "17 22 AB A",
+      "confidence": 0.6585
+    },
+    {
+      "line_id": "0192_viet_018",
+      "bbox": [
+        [
+          228,
+          1001
+        ],
+        [
+          692,
+          1008
+        ],
+        [
+          692,
+          1043
+        ],
+        [
+          228,
+          1036
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1122
+        ],
+        [
+          692,
+          1129
+        ],
+        [
+          692,
+          1164
+        ],
+        [
+          228,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1001,
+        692,
+        1043
+      ],
+      "text": "và Hãn-lại chi lai ngô hương",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0192_viet_019",
+      "bbox": [
+        [
+          277,
+          1049
+        ],
+        [
+          658,
+          1053
+        ],
+        [
+          658,
+          1087
+        ],
+        [
+          277,
+          1083
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          1170
+        ],
+        [
+          658,
+          1174
+        ],
+        [
+          658,
+          1208
+        ],
+        [
+          277,
+          1204
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        1049,
+        658,
+        1087
+      ],
+      "text": "Bọn quan lại hung ác về làng",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0192_viet_020",
+      "bbox": [
+        [
+          243,
+          1118
+        ],
+        [
+          913,
+          1118
+        ],
+        [
+          913,
+          1158
+        ],
+        [
+          243,
+          1158
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1239
+        ],
+        [
+          913,
+          1239
+        ],
+        [
+          913,
+          1279
+        ],
+        [
+          243,
+          1279
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1118,
+        913,
+        1158
+      ],
+      "text": "03333015444474",
+      "confidence": 0.4334
+    },
+    {
+      "line_id": "0192_viet_021",
+      "bbox": [
+        [
+          228,
+          1167
+        ],
+        [
+          982,
+          1168
+        ],
+        [
+          982,
+          1204
+        ],
+        [
+          228,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1288
+        ],
+        [
+          982,
+          1289
+        ],
+        [
+          982,
+          1325
+        ],
+        [
+          228,
+          1323
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1167,
+        982,
+        1204
+      ],
+      "text": "Khiếu hiêu hồ đông tây, huy đột hồ nam bắc",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0192_viet_022",
+      "bbox": [
+        [
+          283,
+          1217
+        ],
+        [
+          734,
+          1215
+        ],
+        [
+          734,
+          1245
+        ],
+        [
+          284,
+          1247
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          1338
+        ],
+        [
+          734,
+          1336
+        ],
+        [
+          734,
+          1366
+        ],
+        [
+          284,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        1215,
+        734,
+        1247
+      ],
+      "text": "gầm-thét chỗ này đánh-đập chỗ kia",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0192_viet_023",
+      "bbox": [
+        [
+          245,
+          1281
+        ],
+        [
+          982,
+          1282
+        ],
+        [
+          982,
+          1322
+        ],
+        [
+          245,
+          1321
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1402
+        ],
+        [
+          982,
+          1403
+        ],
+        [
+          982,
+          1443
+        ],
+        [
+          245,
+          1442
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1281,
+        982,
+        1322
+      ],
+      "text": "17 Th 2 - 16 A 17 F F",
+      "confidence": 0.4881
+    },
+    {
+      "line_id": "0192_viet_024",
+      "bbox": [
+        [
+          233,
+          1334
+        ],
+        [
+          984,
+          1334
+        ],
+        [
+          984,
+          1368
+        ],
+        [
+          233,
+          1368
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1455
+        ],
+        [
+          984,
+          1455
+        ],
+        [
+          984,
+          1489
+        ],
+        [
+          233,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1334,
+        984,
+        1368
+      ],
+      "text": "Hoa nhiên nhi hãi, tur kê cầu bất đắc ninh yên",
+      "confidence": 0.92
+    },
+    {
+      "line_id": "0192_viet_025",
+      "bbox": [
+        [
+          280,
+          1383
+        ],
+        [
+          984,
+          1383
+        ],
+        [
+          984,
+          1411
+        ],
+        [
+          280,
+          1411
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1504
+        ],
+        [
+          984,
+          1504
+        ],
+        [
+          984,
+          1532
+        ],
+        [
+          280,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1383,
+        984,
+        1411
+      ],
+      "text": "Ai nấy đều nhớn-nhác sợ hãi, gà chó cũng không được",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0192_viet_026",
+      "bbox": [
+        [
+          277,
+          1423
+        ],
+        [
+          329,
+          1423
+        ],
+        [
+          329,
+          1455
+        ],
+        [
+          277,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          1544
+        ],
+        [
+          329,
+          1544
+        ],
+        [
+          329,
+          1576
+        ],
+        [
+          277,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        1423,
+        329,
+        1455
+      ],
+      "text": "yên.",
+      "confidence": 0.7966
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "106",
+      "0310000000200",
+      "đến nay 10 nhà không còn l",
+      "Dữ ngô phụ cư giả, thập vô nhị tam yên;",
+      "B-tz?",
+      "Cùng ở với tôi 12 năm nay",
+      "Kim kỳ thất thập vô tứ ngũ yên",
+      "15 A 0, Pề F F Ex Lã It NB A",
+      "Chẳng chết thì bỏ đi, tôi nhờ bắt rắn mà còn lại.",
+      "và Hãn-lại chi lai ngô hương",
+      "03333015444474",
+      "gầm-thét chỗ này đánh-đập chỗ kia",
+      "Hoa nhiên nhi hãi, tur kê cầu bất đắc ninh yên",
+      "yên."
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUÝ",
+      "Kim kỳ thất thập vô nhất yên",
+      "BLEATH",
+      "Cùng ở với cha tôi 10 nhà không còn 2, 3.",
+      "Dữ ngô cư thập nhị niên dả,",
+      "0315110100192003",
+      "10 nhà không còn được 4, 5.",
+      "Phi tử tắc tỷ nhì, nhi ngô di bồ xà độc tồn.",
+      "17 22 AB A",
+      "Bọn quan lại hung ác về làng",
+      "Khiếu hiêu hồ đông tây, huy đột hồ nam bắc",
+      "17 Th 2 - 16 A 17 F F",
+      "Ai nấy đều nhớn-nhác sợ hãi, gà chó cũng không được"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "今其室十無一為",
+        "phien_am": "106",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "求en nay",
+        "phien_am": "0310000000200",
+        "dich_nghia_gloss": "Kim kỳ thất thập vô nhất yên"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "與寺父居者十氣無興二〇三氣為",
+        "phien_am": "đến nay 10 nhà không còn l",
+        "dich_nghia_gloss": "BLEATH"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "Cing下voi",
+        "phien_am": "Dữ ngô phụ cư giả, thập vô nhị tam yên;",
+        "dich_nghia_gloss": "Cùng ở với cha tôi 10 nhà không còn 2, 3."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "與各居十",
+        "phien_am": "B-tz?",
+        "dich_nghia_gloss": "Dữ ngô cư thập nhị niên dả,"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "二年者",
+        "phien_am": "Cùng ở với tôi 12 năm nay",
+        "dich_nghia_gloss": "0315110100192003"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "Cing 下 voi",
+        "phien_am": "Kim kỳ thất thập vô tứ ngũ yên",
+        "dich_nghia_gloss": "10 nhà không còn được 4, 5."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "今其室十無四五為",
+        "phien_am": "15 A 0, Pề F F Ex Lã It NB A",
+        "dich_nghia_gloss": "Phi tử tắc tỷ nhì, nhi ngô di bồ xà độc tồn."
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "n山",
+        "phien_am": "Chẳng chết thì bỏ đi, tôi nhờ bắt rắn mà còn lại.",
+        "dich_nghia_gloss": "17 22 AB A"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "非死利徒爾而吾以捕蛇獨存",
+        "phien_am": "và Hãn-lại chi lai ngô hương",
+        "dich_nghia_gloss": "Bọn quan lại hung ác về làng"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "悍興吏之氣力",
+        "phien_am": "03333015444474",
+        "dich_nghia_gloss": "Khiếu hiêu hồ đông tây, huy đột hồ nam bắc"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "來吾鄉",
+        "phien_am": "gầm-thét chỗ này đánh-đập chỗ kia",
+        "dich_nghia_gloss": "17 Th 2 - 16 A 17 F F"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "呼覓子東西東突子南北",
+        "phien_am": "Hoa nhiên nhi hãi, tur kê cầu bất đắc ninh yên",
+        "dich_nghia_gloss": "Ai nấy đều nhớn-nhác sợ hãi, gà chó cũng không được"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "詳然而駿雖難狗不得寧為",
+        "phien_am": "yên.",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "page_id": "0152",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 152,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0152_viet_000",
+      "bbox": [
+        [
+          466,
+          1266
+        ],
+        [
+          739,
+          1266
+        ],
+        [
+          739,
+          1299
+        ],
+        [
+          466,
+          1299
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1387
+        ],
+        [
+          739,
+          1387
+        ],
+        [
+          739,
+          1420
+        ],
+        [
+          466,
+          1420
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1266,
+        739,
+        1299
+      ],
+      "text": "Lửa bình cận-dại?",
+      "confidence": 0.8946
+    },
+    {
+      "line_id": "0152_viet_001",
+      "bbox": [
+        [
+          454,
+          1334
+        ],
+        [
+          748,
+          1334
+        ],
+        [
+          748,
+          1369
+        ],
+        [
+          454,
+          1369
+        ]
+      ],
+      "bbox_original": [
+        [
+          454,
+          1455
+        ],
+        [
+          748,
+          1455
+        ],
+        [
+          748,
+          1490
+        ],
+        [
+          454,
+          1490
+        ]
+      ],
+      "box_xyxy": [
+        454,
+        1334,
+        748,
+        1369
+      ],
+      "text": "Hay Hán, hay Tân ?",
+      "confidence": 0.9029
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "Lửa bình cận-dại?",
+      "Hay Hán, hay Tân ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

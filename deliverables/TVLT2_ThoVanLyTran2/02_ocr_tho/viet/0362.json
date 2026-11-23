@@ -1,0 +1,1372 @@
+{
+  "page_id": "0362",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 362,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0362_viet_000",
+      "bbox": [
+        [
+          186,
+          0
+        ],
+        [
+          229,
+          0
+        ],
+        [
+          229,
+          21
+        ],
+        [
+          186,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          155
+        ],
+        [
+          229,
+          155
+        ],
+        [
+          229,
+          176
+        ],
+        [
+          186,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        0,
+        229,
+        21
+      ],
+      "text": "364",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0362_viet_001",
+      "bbox": [
+        [
+          624,
+          2
+        ],
+        [
+          797,
+          2
+        ],
+        [
+          797,
+          17
+        ],
+        [
+          624,
+          17
+        ]
+      ],
+      "bbox_original": [
+        [
+          624,
+          157
+        ],
+        [
+          797,
+          157
+        ],
+        [
+          797,
+          172
+        ],
+        [
+          624,
+          172
+        ]
+      ],
+      "box_xyxy": [
+        624,
+        2,
+        797,
+        17
+      ],
+      "text": "1876.VAWAY",
+      "confidence": 0.411
+    },
+    {
+      "line_id": "0362_viet_002",
+      "bbox": [
+        [
+          849,
+          0
+        ],
+        [
+          985,
+          0
+        ],
+        [
+          985,
+          21
+        ],
+        [
+          849,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          849,
+          155
+        ],
+        [
+          985,
+          155
+        ],
+        [
+          985,
+          176
+        ],
+        [
+          849,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        849,
+        0,
+        985,
+        21
+      ],
+      "text": "TRAN (L)",
+      "confidence": 0.8546
+    },
+    {
+      "line_id": "0362_viet_003",
+      "bbox": [
+        [
+          277,
+          103
+        ],
+        [
+          1415,
+          107
+        ],
+        [
+          1415,
+          144
+        ],
+        [
+          276,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          258
+        ],
+        [
+          1415,
+          262
+        ],
+        [
+          1415,
+          299
+        ],
+        [
+          276,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        103,
+        1415,
+        144
+      ],
+      "text": "Trả lời rằng: hơn thì không biết, nhưng xem ra đức của nhà Lý hậu hơn",
+      "confidence": 0.9223
+    },
+    {
+      "line_id": "0362_viet_004",
+      "bbox": [
+        [
+          186,
+          150
+        ],
+        [
+          575,
+          150
+        ],
+        [
+          575,
+          180
+        ],
+        [
+          186,
+          180
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          305
+        ],
+        [
+          575,
+          305
+        ],
+        [
+          575,
+          335
+        ],
+        [
+          186,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        150,
+        575,
+        180
+      ],
+      "text": "nhà lè. Hầy theo nhà Lý",
+      "confidence": 0.8471
+    },
+    {
+      "line_id": "0362_viet_005",
+      "bbox": [
+        [
+          869,
+          195
+        ],
+        [
+          1346,
+          197
+        ],
+        [
+          1346,
+          234
+        ],
+        [
+          868,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          869,
+          350
+        ],
+        [
+          1346,
+          352
+        ],
+        [
+          1346,
+          389
+        ],
+        [
+          868,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        868,
+        195,
+        1346,
+        234
+      ],
+      "text": "CAO HUY GIU CAO XUÂN HUY",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0362_viet_006",
+      "bbox": [
+        [
+          179,
+          287
+        ],
+        [
+          364,
+          282
+        ],
+        [
+          365,
+          319
+        ],
+        [
+          180,
+          324
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          442
+        ],
+        [
+          364,
+          437
+        ],
+        [
+          365,
+          474
+        ],
+        [
+          180,
+          479
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        282,
+        365,
+        324
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.8716
+    },
+    {
+      "line_id": "0362_viet_007",
+      "bbox": [
+        [
+          665,
+          319
+        ],
+        [
+          953,
+          319
+        ],
+        [
+          953,
+          356
+        ],
+        [
+          665,
+          356
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          474
+        ],
+        [
+          953,
+          474
+        ],
+        [
+          953,
+          511
+        ],
+        [
+          665,
+          511
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        319,
+        953,
+        356
+      ],
+      "text": "XUẤT XỬ: BVSKTT",
+      "confidence": 0.8754
+    },
+    {
+      "line_id": "0362_viet_008",
+      "bbox": [
+        [
+          177,
+          379
+        ],
+        [
+          1382,
+          370
+        ],
+        [
+          1383,
+          413
+        ],
+        [
+          177,
+          422
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          534
+        ],
+        [
+          1382,
+          525
+        ],
+        [
+          1383,
+          568
+        ],
+        [
+          177,
+          577
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        370,
+        1383,
+        422
+      ],
+      "text": "(1) Bầu đẻ do chúng lôi thém. Lê Đại Hành,, tức Lê Hoàn ((t-tê, người châu Ái X %",
+      "confidence": 0.8095
+    },
+    {
+      "line_id": "0362_viet_009",
+      "bbox": [
+        [
+          242,
+          418
+        ],
+        [
+          1406,
+          418
+        ],
+        [
+          1406,
+          454
+        ],
+        [
+          242,
+          454
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          573
+        ],
+        [
+          1406,
+          573
+        ],
+        [
+          1406,
+          609
+        ],
+        [
+          242,
+          609
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        418,
+        1406,
+        454
+      ],
+      "text": "Nay là tỉnh Thanh-hóa, Được Dương Thái hậu Ấp Á í íc truyền ngôi và các tướng tá",
+      "confidence": 0.8632
+    },
+    {
+      "line_id": "0362_viet_010",
+      "bbox": [
+        [
+          242,
+          454
+        ],
+        [
+          1071,
+          452
+        ],
+        [
+          1072,
+          488
+        ],
+        [
+          242,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          609
+        ],
+        [
+          1071,
+          607
+        ],
+        [
+          1072,
+          643
+        ],
+        [
+          242,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        452,
+        1072,
+        490
+      ],
+      "text": "suy tôn, ông lên làm vua thay nhà Đinh tử năm 980 đến 1005.",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0362_viet_011",
+      "bbox": [
+        [
+          290,
+          484
+        ],
+        [
+          1372,
+          486
+        ],
+        [
+          1372,
+          529
+        ],
+        [
+          289,
+          527
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          639
+        ],
+        [
+          1372,
+          641
+        ],
+        [
+          1372,
+          684
+        ],
+        [
+          289,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        484,
+        1372,
+        529
+      ],
+      "text": "Lý Thái Tò: tức Lý Công Văn Ấp người (974 ? 1028), người châu Cồ-pháp t",
+      "confidence": 0.8845
+    },
+    {
+      "line_id": "0362_viet_012",
+      "bbox": [
+        [
+          257,
+          529
+        ],
+        [
+          1406,
+          529
+        ],
+        [
+          1406,
+          565
+        ],
+        [
+          257,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          257,
+          684
+        ],
+        [
+          1406,
+          684
+        ],
+        [
+          1406,
+          720
+        ],
+        [
+          257,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        257,
+        529,
+        1406,
+        565
+      ],
+      "text": "[4, lộ Bắc-giang Hỉz, hay thuộc tỉnh Hà-bắc, Ông lên ngôi vua năm 1009, năm",
+      "confidence": 0.8784
+    },
+    {
+      "line_id": "0362_viet_013",
+      "bbox": [
+        [
+          247,
+          561
+        ],
+        [
+          668,
+          566
+        ],
+        [
+          667,
+          602
+        ],
+        [
+          246,
+          597
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          716
+        ],
+        [
+          668,
+          721
+        ],
+        [
+          667,
+          757
+        ],
+        [
+          246,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        561,
+        668,
+        602
+      ],
+      "text": "101G thi dời đò ra Thăng-long",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0362_viet_014",
+      "bbox": [
+        [
+          179,
+          610
+        ],
+        [
+          1417,
+          608
+        ],
+        [
+          1417,
+          645
+        ],
+        [
+          179,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          765
+        ],
+        [
+          1417,
+          763
+        ],
+        [
+          1417,
+          800
+        ],
+        [
+          179,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        608,
+        1417,
+        647
+      ],
+      "text": "() Đinh Điền và Nguyễn Bặc: hai bề tôi nhà Đinh, Khi Đinh Toàn T Lê lên ngôi, năm",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0362_viet_015",
+      "bbox": [
+        [
+          240,
+          645
+        ],
+        [
+          1411,
+          647
+        ],
+        [
+          1411,
+          683
+        ],
+        [
+          240,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          800
+        ],
+        [
+          1411,
+          802
+        ],
+        [
+          1411,
+          838
+        ],
+        [
+          240,
+          836
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        645,
+        1411,
+        683
+      ],
+      "text": "979, mới có 6 tuổi, Lê Hoàn nhiếp chính, tự xưng là Phó vương, hai người sợ Hoàn",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0362_viet_016",
+      "bbox": [
+        [
+          242,
+          683
+        ],
+        [
+          1406,
+          681
+        ],
+        [
+          1406,
+          717
+        ],
+        [
+          242,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          838
+        ],
+        [
+          1406,
+          836
+        ],
+        [
+          1406,
+          872
+        ],
+        [
+          242,
+          875
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        681,
+        1406,
+        720
+      ],
+      "text": "cướp ngôi nên đem quân đến kinh sư định giết Hoàn, Việc không thành, hai người đền",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0362_viet_017",
+      "bbox": [
+        [
+          248,
+          726
+        ],
+        [
+          339,
+          726
+        ],
+        [
+          339,
+          750
+        ],
+        [
+          248,
+          750
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          881
+        ],
+        [
+          339,
+          881
+        ],
+        [
+          339,
+          905
+        ],
+        [
+          248,
+          905
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        726,
+        339,
+        750
+      ],
+      "text": "bị giết.",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0362_viet_018",
+      "bbox": [
+        [
+          181,
+          771
+        ],
+        [
+          248,
+          771
+        ],
+        [
+          248,
+          801
+        ],
+        [
+          181,
+          801
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          926
+        ],
+        [
+          248,
+          926
+        ],
+        [
+          248,
+          956
+        ],
+        [
+          181,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        771,
+        248,
+        801
+      ],
+      "text": "(3)",
+      "confidence": 0.8909
+    },
+    {
+      "line_id": "0362_viet_019",
+      "bbox": [
+        [
+          240,
+          765
+        ],
+        [
+          1389,
+          765
+        ],
+        [
+          1389,
+          801
+        ],
+        [
+          240,
+          801
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          920
+        ],
+        [
+          1389,
+          920
+        ],
+        [
+          1389,
+          956
+        ],
+        [
+          240,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        765,
+        1389,
+        801
+      ],
+      "text": "Quân Biện, Phụng Huân: Quách Quàn Biện Ý Á Hệ Và Triện Phụng Huân Để X",
+      "confidence": 0.883
+    },
+    {
+      "line_id": "0362_viet_020",
+      "bbox": [
+        [
+          244,
+          794
+        ],
+        [
+          1402,
+          801
+        ],
+        [
+          1402,
+          844
+        ],
+        [
+          244,
+          837
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          949
+        ],
+        [
+          1402,
+          956
+        ],
+        [
+          1402,
+          999
+        ],
+        [
+          244,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        794,
+        1402,
+        844
+      ],
+      "text": "3b - Năm 981 quân Tống sang xàm lược nước ta, Lê Hoàn đóng cọc ngăn sông Bạch",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0362_viet_021",
+      "bbox": [
+        [
+          242,
+          837
+        ],
+        [
+          1385,
+          837
+        ],
+        [
+          1385,
+          880
+        ],
+        [
+          242,
+          880
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          992
+        ],
+        [
+          1385,
+          992
+        ],
+        [
+          1385,
+          1035
+        ],
+        [
+          242,
+          1035
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        837,
+        1385,
+        880
+      ],
+      "text": "đằng 6 kết - dùng kế nghi binh phá tan được quân Tống, Tưởng Hầu Nhân Bảo [2",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0362_viet_022",
+      "bbox": [
+        [
+          248,
+          876
+        ],
+        [
+          1415,
+          876
+        ],
+        [
+          1415,
+          912
+        ],
+        [
+          248,
+          912
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1031
+        ],
+        [
+          1415,
+          1031
+        ],
+        [
+          1415,
+          1067
+        ],
+        [
+          248,
+          1067
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        876,
+        1415,
+        912
+      ],
+      "text": "Lê vỹ bị giết, cảnh quân của Khảm Tố lýk/ài, bị vữ, quàn linh chết quả nửa, tường",
+      "confidence": 0.8594
+    },
+    {
+      "line_id": "0362_viet_023",
+      "bbox": [
+        [
+          244,
+          914
+        ],
+        [
+          1050,
+          914
+        ],
+        [
+          1050,
+          951
+        ],
+        [
+          244,
+          951
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1069
+        ],
+        [
+          1050,
+          1069
+        ],
+        [
+          1050,
+          1106
+        ],
+        [
+          244,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        914,
+        1050,
+        951
+      ],
+      "text": "Quân Biện và Phụng Huân bị bắt đem về Hoa-lữ. Kê Nệ",
+      "confidence": 0.8752
+    },
+    {
+      "line_id": "0362_viet_024",
+      "bbox": [
+        [
+          763,
+          1142
+        ],
+        [
+          821,
+          1142
+        ],
+        [
+          821,
+          1180
+        ],
+        [
+          763,
+          1180
+        ]
+      ],
+      "bbox_original": [
+        [
+          763,
+          1297
+        ],
+        [
+          821,
+          1297
+        ],
+        [
+          821,
+          1335
+        ],
+        [
+          763,
+          1335
+        ]
+      ],
+      "box_xyxy": [
+        763,
+        1142,
+        821,
+        1180
+      ],
+      "text": "124",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0362_viet_025",
+      "bbox": [
+        [
+          207,
+          1495
+        ],
+        [
+          1367,
+          1493
+        ],
+        [
+          1368,
+          1538
+        ],
+        [
+          207,
+          1540
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1650
+        ],
+        [
+          1367,
+          1648
+        ],
+        [
+          1368,
+          1693
+        ],
+        [
+          207,
+          1695
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1493,
+        1368,
+        1540
+      ],
+      "text": "VIỆC LÊ THỊ TH EX TIẾP ZÉT VÀ ÁY",
+      "confidence": 0.64
+    },
+    {
+      "line_id": "0362_viet_026",
+      "bbox": [
+        [
+          205,
+          1546
+        ],
+        [
+          1054,
+          1548
+        ],
+        [
+          1054,
+          1591
+        ],
+        [
+          205,
+          1589
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1701
+        ],
+        [
+          1054,
+          1703
+        ],
+        [
+          1054,
+          1746
+        ],
+        [
+          205,
+          1744
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1546,
+        1054,
+        1591
+      ],
+      "text": "% ĐẾ HỆ THẾ KIT 1kv kIT HIỆN Zo",
+      "confidence": 0.5606
+    },
+    {
+      "line_id": "0362_viet_027",
+      "bbox": [
+        [
+          316,
+          1598
+        ],
+        [
+          1417,
+          1606
+        ],
+        [
+          1417,
+          1649
+        ],
+        [
+          315,
+          1640
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1753
+        ],
+        [
+          1417,
+          1761
+        ],
+        [
+          1417,
+          1804
+        ],
+        [
+          315,
+          1795
+        ]
+      ],
+      "box_xyxy": [
+        315,
+        1598,
+        1417,
+        1649
+      ],
+      "text": "KKÍT BÙ 215% X0 (E 7 NĂM 300.7",
+      "confidence": 0.5284
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "364",
+      "1876.VAWAY",
+      "TRAN (L)",
+      "Trả lời rằng: hơn thì không biết, nhưng xem ra đức của nhà Lý hậu hơn",
+      "nhà lè. Hầy theo nhà Lý",
+      "CAO HUY GIU CAO XUÂN HUY",
+      "CHỦ THÍCH:",
+      "XUẤT XỬ: BVSKTT",
+      "(1) Bầu đẻ do chúng lôi thém. Lê Đại Hành,, tức Lê Hoàn ((t-tê, người châu Ái X %",
+      "Nay là tỉnh Thanh-hóa, Được Dương Thái hậu Ấp Á í íc truyền ngôi và các tướng tá",
+      "suy tôn, ông lên làm vua thay nhà Đinh tử năm 980 đến 1005.",
+      "Lý Thái Tò: tức Lý Công Văn Ấp người (974 ? 1028), người châu Cồ-pháp t",
+      "[4, lộ Bắc-giang Hỉz, hay thuộc tỉnh Hà-bắc, Ông lên ngôi vua năm 1009, năm",
+      "101G thi dời đò ra Thăng-long",
+      "() Đinh Điền và Nguyễn Bặc: hai bề tôi nhà Đinh, Khi Đinh Toàn T Lê lên ngôi, năm",
+      "979, mới có 6 tuổi, Lê Hoàn nhiếp chính, tự xưng là Phó vương, hai người sợ Hoàn",
+      "cướp ngôi nên đem quân đến kinh sư định giết Hoàn, Việc không thành, hai người đền",
+      "bị giết.",
+      "(3)",
+      "Quân Biện, Phụng Huân: Quách Quàn Biện Ý Á Hệ Và Triện Phụng Huân Để X",
+      "3b - Năm 981 quân Tống sang xàm lược nước ta, Lê Hoàn đóng cọc ngăn sông Bạch",
+      "đằng 6 kết - dùng kế nghi binh phá tan được quân Tống, Tưởng Hầu Nhân Bảo [2",
+      "Lê vỹ bị giết, cảnh quân của Khảm Tố lýk/ài, bị vữ, quàn linh chết quả nửa, tường",
+      "Quân Biện và Phụng Huân bị bắt đem về Hoa-lữ. Kê Nệ",
+      "124",
+      "VIỆC LÊ THỊ TH EX TIẾP ZÉT VÀ ÁY",
+      "% ĐẾ HỆ THẾ KIT 1kv kIT HIỆN Zo",
+      "KKÍT BÙ 215% X0 (E 7 NĂM 300.7"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

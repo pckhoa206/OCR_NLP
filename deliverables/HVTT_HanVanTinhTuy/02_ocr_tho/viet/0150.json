@@ -1,0 +1,1434 @@
+{
+  "page_id": "0150",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 150,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0150_viet_000",
+      "bbox": [
+        [
+          194,
+          28
+        ],
+        [
+          248,
+          28
+        ],
+        [
+          248,
+          62
+        ],
+        [
+          194,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          149
+        ],
+        [
+          248,
+          149
+        ],
+        [
+          248,
+          183
+        ],
+        [
+          194,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        28,
+        248,
+        62
+      ],
+      "text": "144",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0150_viet_001",
+      "bbox": [
+        [
+          672,
+          28
+        ],
+        [
+          989,
+          28
+        ],
+        [
+          989,
+          57
+        ],
+        [
+          672,
+          57
+        ]
+      ],
+      "bbox_original": [
+        [
+          672,
+          149
+        ],
+        [
+          989,
+          149
+        ],
+        [
+          989,
+          178
+        ],
+        [
+          672,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        672,
+        28,
+        989,
+        57
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0150_viet_002",
+      "bbox": [
+        [
+          245,
+          131
+        ],
+        [
+          847,
+          127
+        ],
+        [
+          847,
+          167
+        ],
+        [
+          245,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          252
+        ],
+        [
+          847,
+          248
+        ],
+        [
+          847,
+          288
+        ],
+        [
+          245,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        127,
+        847,
+        171
+      ],
+      "text": "về 17 - 2 8 3 (2 - 2",
+      "confidence": 0.418
+    },
+    {
+      "line_id": "0150_viet_003",
+      "bbox": [
+        [
+          228,
+          179
+        ],
+        [
+          825,
+          181
+        ],
+        [
+          825,
+          216
+        ],
+        [
+          228,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          300
+        ],
+        [
+          825,
+          302
+        ],
+        [
+          825,
+          337
+        ],
+        [
+          228,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        179,
+        825,
+        216
+      ],
+      "text": "Ta hồ l sử lục quốc các ới kỳ nhân,",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0150_viet_004",
+      "bbox": [
+        [
+          248,
+          244
+        ],
+        [
+          570,
+          244
+        ],
+        [
+          570,
+          285
+        ],
+        [
+          248,
+          285
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          365
+        ],
+        [
+          570,
+          365
+        ],
+        [
+          570,
+          406
+        ],
+        [
+          248,
+          406
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        244,
+        570,
+        285
+      ],
+      "text": "122 HE K",
+      "confidence": 0.3244
+    },
+    {
+      "line_id": "0150_viet_005",
+      "bbox": [
+        [
+          232,
+          289
+        ],
+        [
+          537,
+          295
+        ],
+        [
+          536,
+          330
+        ],
+        [
+          231,
+          325
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          410
+        ],
+        [
+          537,
+          416
+        ],
+        [
+          536,
+          451
+        ],
+        [
+          231,
+          446
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        289,
+        537,
+        330
+      ],
+      "text": "tắc túc di cự Tần;",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0150_viet_006",
+      "bbox": [
+        [
+          225,
+          331
+        ],
+        [
+          989,
+          335
+        ],
+        [
+          989,
+          375
+        ],
+        [
+          224,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          452
+        ],
+        [
+          989,
+          456
+        ],
+        [
+          989,
+          496
+        ],
+        [
+          224,
+          493
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        331,
+        989,
+        375
+      ],
+      "text": "Ôi 1 Giả sử sáu nước yêu thương dân mình, thì đủ",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0150_viet_007",
+      "bbox": [
+        [
+          197,
+          383
+        ],
+        [
+          533,
+          383
+        ],
+        [
+          533,
+          418
+        ],
+        [
+          197,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          504
+        ],
+        [
+          533,
+          504
+        ],
+        [
+          533,
+          539
+        ],
+        [
+          197,
+          539
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        383,
+        533,
+        418
+      ],
+      "text": "sức chồng lại nhà tần",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0150_viet_008",
+      "bbox": [
+        [
+          253,
+          449
+        ],
+        [
+          714,
+          449
+        ],
+        [
+          714,
+          487
+        ],
+        [
+          253,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          570
+        ],
+        [
+          714,
+          570
+        ],
+        [
+          714,
+          608
+        ],
+        [
+          253,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        449,
+        714,
+        487
+      ],
+      "text": "11 - 2 - 2, 2 - 2",
+      "confidence": 0.4805
+    },
+    {
+      "line_id": "0150_viet_009",
+      "bbox": [
+        [
+          230,
+          497
+        ],
+        [
+          739,
+          499
+        ],
+        [
+          739,
+          534
+        ],
+        [
+          229,
+          532
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          618
+        ],
+        [
+          739,
+          620
+        ],
+        [
+          739,
+          655
+        ],
+        [
+          229,
+          653
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        497,
+        739,
+        534
+      ],
+      "text": "Tần phục ái lục quốc chi nhân",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0150_viet_010",
+      "bbox": [
+        [
+          246,
+          561
+        ],
+        [
+          982,
+          559
+        ],
+        [
+          982,
+          599
+        ],
+        [
+          246,
+          601
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          682
+        ],
+        [
+          982,
+          680
+        ],
+        [
+          982,
+          720
+        ],
+        [
+          246,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        559,
+        982,
+        601
+      ],
+      "text": "NÊN TÊ TÊ TIÊN TÊ",
+      "confidence": 0.5021
+    },
+    {
+      "line_id": "0150_viet_011",
+      "bbox": [
+        [
+          235,
+          614
+        ],
+        [
+          937,
+          614
+        ],
+        [
+          937,
+          648
+        ],
+        [
+          235,
+          648
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          735
+        ],
+        [
+          937,
+          735
+        ],
+        [
+          937,
+          769
+        ],
+        [
+          235,
+          769
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        614,
+        937,
+        648
+      ],
+      "text": "tắc đệ tam thẽ khả chi van thẽ nhi vi quân,",
+      "confidence": 0.8751
+    },
+    {
+      "line_id": "0150_viet_012",
+      "bbox": [
+        [
+          248,
+          678
+        ],
+        [
+          646,
+          678
+        ],
+        [
+          646,
+          718
+        ],
+        [
+          248,
+          718
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          799
+        ],
+        [
+          646,
+          799
+        ],
+        [
+          646,
+          839
+        ],
+        [
+          248,
+          839
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        678,
+        646,
+        718
+      ],
+      "text": "17 M Hệ (",
+      "confidence": 0.686
+    },
+    {
+      "line_id": "0150_viet_013",
+      "bbox": [
+        [
+          231,
+          728
+        ],
+        [
+          648,
+          728
+        ],
+        [
+          648,
+          762
+        ],
+        [
+          231,
+          762
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          849
+        ],
+        [
+          648,
+          849
+        ],
+        [
+          648,
+          883
+        ],
+        [
+          231,
+          883
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        728,
+        648,
+        762
+      ],
+      "text": "thùy đắc nhi tộc Tần giá?",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0150_viet_014",
+      "bbox": [
+        [
+          226,
+          768
+        ],
+        [
+          987,
+          770
+        ],
+        [
+          987,
+          805
+        ],
+        [
+          226,
+          803
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          889
+        ],
+        [
+          987,
+          891
+        ],
+        [
+          987,
+          926
+        ],
+        [
+          226,
+          924
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        768,
+        987,
+        805
+      ],
+      "text": "Giả sử nhà Tân yêu thương dân sáu nước, thì làm",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0150_viet_015",
+      "bbox": [
+        [
+          197,
+          817
+        ],
+        [
+          987,
+          813
+        ],
+        [
+          987,
+          847
+        ],
+        [
+          198,
+          850
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          938
+        ],
+        [
+          987,
+          934
+        ],
+        [
+          987,
+          968
+        ],
+        [
+          198,
+          971
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        813,
+        987,
+        850
+      ],
+      "text": "vua không những ba đời mà có thể đến muôn đời",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0150_viet_016",
+      "bbox": [
+        [
+          196,
+          860
+        ],
+        [
+          613,
+          860
+        ],
+        [
+          613,
+          894
+        ],
+        [
+          196,
+          894
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          981
+        ],
+        [
+          613,
+          981
+        ],
+        [
+          613,
+          1015
+        ],
+        [
+          196,
+          1015
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        860,
+        613,
+        894
+      ],
+      "text": "tai có thể diệt cả họ được-",
+      "confidence": 0.8802
+    },
+    {
+      "line_id": "0150_viet_017",
+      "bbox": [
+        [
+          253,
+          927
+        ],
+        [
+          985,
+          927
+        ],
+        [
+          985,
+          966
+        ],
+        [
+          253,
+          966
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1048
+        ],
+        [
+          985,
+          1048
+        ],
+        [
+          985,
+          1087
+        ],
+        [
+          253,
+          1087
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        927,
+        985,
+        966
+      ],
+      "text": "xxxxxxxxxxxxxxzzzz",
+      "confidence": 0.4226
+    },
+    {
+      "line_id": "0150_viet_018",
+      "bbox": [
+        [
+          230,
+          974
+        ],
+        [
+          989,
+          976
+        ],
+        [
+          989,
+          1009
+        ],
+        [
+          229,
+          1008
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1095
+        ],
+        [
+          989,
+          1097
+        ],
+        [
+          989,
+          1130
+        ],
+        [
+          229,
+          1129
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        974,
+        989,
+        1009
+      ],
+      "text": "Tần nhân bất ha tư ai, nhi hâu nhân ai chi;",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0150_viet_019",
+      "bbox": [
+        [
+          224,
+          1018
+        ],
+        [
+          987,
+          1018
+        ],
+        [
+          987,
+          1056
+        ],
+        [
+          224,
+          1056
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1139
+        ],
+        [
+          987,
+          1139
+        ],
+        [
+          987,
+          1177
+        ],
+        [
+          224,
+          1177
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1018,
+        987,
+        1056
+      ],
+      "text": "Người nhà tần không kịp tự thương mình, mà",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0150_viet_020",
+      "bbox": [
+        [
+          194,
+          1059
+        ],
+        [
+          532,
+          1063
+        ],
+        [
+          531,
+          1105
+        ],
+        [
+          194,
+          1101
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1180
+        ],
+        [
+          532,
+          1184
+        ],
+        [
+          531,
+          1226
+        ],
+        [
+          194,
+          1222
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1059,
+        532,
+        1105
+      ],
+      "text": "người đời sau thương",
+      "confidence": 0.9335
+    },
+    {
+      "line_id": "0150_viet_021",
+      "bbox": [
+        [
+          245,
+          1127
+        ],
+        [
+          778,
+          1123
+        ],
+        [
+          778,
+          1163
+        ],
+        [
+          245,
+          1167
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1248
+        ],
+        [
+          778,
+          1244
+        ],
+        [
+          778,
+          1284
+        ],
+        [
+          245,
+          1288
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1123,
+        778,
+        1167
+      ],
+      "text": "xxzzzrazzzzz",
+      "confidence": 0.5269
+    },
+    {
+      "line_id": "0150_viet_022",
+      "bbox": [
+        [
+          235,
+          1177
+        ],
+        [
+          775,
+          1177
+        ],
+        [
+          775,
+          1210
+        ],
+        [
+          235,
+          1210
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1298
+        ],
+        [
+          775,
+          1298
+        ],
+        [
+          775,
+          1331
+        ],
+        [
+          235,
+          1331
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1177,
+        775,
+        1210
+      ],
+      "text": "nhậu nhân ai chi nhi bất giám chi,",
+      "confidence": 0.8956
+    },
+    {
+      "line_id": "0150_viet_023",
+      "bbox": [
+        [
+          248,
+          1237
+        ],
+        [
+          856,
+          1237
+        ],
+        [
+          856,
+          1276
+        ],
+        [
+          248,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1358
+        ],
+        [
+          856,
+          1358
+        ],
+        [
+          856,
+          1397
+        ],
+        [
+          248,
+          1397
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1237,
+        856,
+        1276
+      ],
+      "text": "1754x02214",
+      "confidence": 0.3305
+    },
+    {
+      "line_id": "0150_viet_024",
+      "bbox": [
+        [
+          233,
+          1286
+        ],
+        [
+          908,
+          1286
+        ],
+        [
+          908,
+          1324
+        ],
+        [
+          233,
+          1324
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1407
+        ],
+        [
+          908,
+          1407
+        ],
+        [
+          908,
+          1445
+        ],
+        [
+          233,
+          1445
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1286,
+        908,
+        1324
+      ],
+      "text": "diệc sử hậu nhân phục ai hậu nhân giã",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0150_viet_025",
+      "bbox": [
+        [
+          225,
+          1327
+        ],
+        [
+          989,
+          1331
+        ],
+        [
+          989,
+          1369
+        ],
+        [
+          224,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1448
+        ],
+        [
+          989,
+          1452
+        ],
+        [
+          989,
+          1490
+        ],
+        [
+          224,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1327,
+        989,
+        1369
+      ],
+      "text": "Người đời sau thương nhà tần, mà nều không lày",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0150_viet_026",
+      "bbox": [
+        [
+          198,
+          1371
+        ],
+        [
+          991,
+          1376
+        ],
+        [
+          990,
+          1416
+        ],
+        [
+          197,
+          1411
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1492
+        ],
+        [
+          991,
+          1497
+        ],
+        [
+          990,
+          1537
+        ],
+        [
+          197,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1371,
+        991,
+        1416
+      ],
+      "text": "đó làm gương, thì cũng lại khiên người đời sau thương",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0150_viet_027",
+      "bbox": [
+        [
+          197,
+          1421
+        ],
+        [
+          547,
+          1421
+        ],
+        [
+          547,
+          1456
+        ],
+        [
+          197,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1542
+        ],
+        [
+          547,
+          1542
+        ],
+        [
+          547,
+          1577
+        ],
+        [
+          197,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1421,
+        547,
+        1456
+      ],
+      "text": "cho người đời sau vậy",
+      "confidence": 0.9334
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "144",
+      "về 17 - 2 8 3 (2 - 2",
+      "122 HE K",
+      "Ôi 1 Giả sử sáu nước yêu thương dân mình, thì đủ",
+      "11 - 2 - 2, 2 - 2",
+      "NÊN TÊ TÊ TIÊN TÊ",
+      "17 M Hệ (",
+      "Giả sử nhà Tân yêu thương dân sáu nước, thì làm",
+      "tai có thể diệt cả họ được-",
+      "Tần nhân bất ha tư ai, nhi hâu nhân ai chi;",
+      "người đời sau thương",
+      "nhậu nhân ai chi nhi bất giám chi,"
+    ],
+    "dich_nghia_lines": [
+      "diệc sử hậu nhân phục ai hậu nhân giã",
+      "Người đời sau thương nhà tần, mà nều không lày",
+      "đó làm gương, thì cũng lại khiên người đời sau thương",
+      "cho người đời sau vậy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "噬手使六國各愛其人",
+        "phien_am": "144",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "剛足以拒泰",
+        "phien_am": "về 17 - 2 8 3 (2 - 2",
+        "dich_nghia_gloss": "Ta hồ l sử lục quốc các ới kỳ nhân,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "Oi! Gi s心!",
+        "phien_am": "122 HE K",
+        "dich_nghia_gloss": "tắc túc di cự Tần;"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "秦複愛六國",
+        "phien_am": "Ôi 1 Giả sử sáu nước yêu thương dân mình, thì đủ",
+        "dich_nghia_gloss": "sức chồng lại nhà tần"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "之",
+        "phien_am": "11 - 2 - 2, 2 - 2",
+        "dich_nghia_gloss": "Tần phục ái lục quốc chi nhân"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "則遞三世可至萬世而為君",
+        "phien_am": "NÊN TÊ TÊ TIÊN TÊ",
+        "dich_nghia_gloss": "tắc đệ tam thẽ khả chi van thẽ nhi vi quân,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "kh匠 chi",
+        "phien_am": "17 M Hệ (",
+        "dich_nghia_gloss": "thùy đắc nhi tộc Tần giá?"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "誰得而族秦也",
+        "phien_am": "Giả sử nhà Tân yêu thương dân sáu nước, thì làm",
+        "dich_nghia_gloss": "vua không những ba đời mà có thể đến muôn đời"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "秦人不暇自里而後人里之",
+        "phien_am": "tai có thể diệt cả họ được-",
+        "dich_nghia_gloss": "xxxxxxxxxxxxxxzzzz"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "hat址Qi,",
+        "phien_am": "Tần nhân bất ha tư ai, nhi hâu nhân ai chi;",
+        "dich_nghia_gloss": "Người nhà tần không kịp tự thương mình, mà"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "後人里之而不艦之",
+        "phien_am": "người đời sau thương",
+        "dich_nghia_gloss": "xxzzzrazzzzz"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "亦使後人複里後人也",
+        "phien_am": "nhậu nhân ai chi nhi bất giám chi,",
+        "dich_nghia_gloss": "1754x02214"
+      }
+    ]
+  }
+}

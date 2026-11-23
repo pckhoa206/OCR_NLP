@@ -1,0 +1,1220 @@
+{
+  "page_id": "0352",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 352,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0352_viet_000",
+      "bbox": [
+        [
+          849,
+          0
+        ],
+        [
+          994,
+          0
+        ],
+        [
+          994,
+          24
+        ],
+        [
+          849,
+          24
+        ]
+      ],
+      "bbox_original": [
+        [
+          849,
+          155
+        ],
+        [
+          994,
+          155
+        ],
+        [
+          994,
+          179
+        ],
+        [
+          849,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        849,
+        0,
+        994,
+        24
+      ],
+      "text": "TRAN (II)",
+      "confidence": 0.8294
+    },
+    {
+      "line_id": "0352_viet_001",
+      "bbox": [
+        [
+          764,
+          99
+        ],
+        [
+          852,
+          107
+        ],
+        [
+          848,
+          158
+        ],
+        [
+          759,
+          151
+        ]
+      ],
+      "bbox_original": [
+        [
+          764,
+          254
+        ],
+        [
+          852,
+          262
+        ],
+        [
+          848,
+          313
+        ],
+        [
+          759,
+          306
+        ]
+      ],
+      "box_xyxy": [
+        759,
+        99,
+        852,
+        158
+      ],
+      "text": "114",
+      "confidence": 0.9264
+    },
+    {
+      "line_id": "0352_viet_002",
+      "bbox": [
+        [
+          184,
+          640
+        ],
+        [
+          341,
+          640
+        ],
+        [
+          341,
+          664
+        ],
+        [
+          184,
+          664
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          795
+        ],
+        [
+          341,
+          795
+        ],
+        [
+          341,
+          819
+        ],
+        [
+          184,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        640,
+        341,
+        664
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.8374
+    },
+    {
+      "line_id": "0352_viet_003",
+      "bbox": [
+        [
+          365,
+          685
+        ],
+        [
+          1194,
+          679
+        ],
+        [
+          1195,
+          724
+        ],
+        [
+          365,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          840
+        ],
+        [
+          1194,
+          834
+        ],
+        [
+          1195,
+          879
+        ],
+        [
+          365,
+          885
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        679,
+        1195,
+        730
+      ],
+      "text": "NGÃ VIỆT THUỐC ĐỒNG HÁN CHI THỜI",
+      "confidence": 0.9286
+    },
+    {
+      "line_id": "0352_viet_004",
+      "bbox": [
+        [
+          274,
+          756
+        ],
+        [
+          1422,
+          760
+        ],
+        [
+          1421,
+          803
+        ],
+        [
+          274,
+          799
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          911
+        ],
+        [
+          1422,
+          915
+        ],
+        [
+          1421,
+          958
+        ],
+        [
+          274,
+          954
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        756,
+        1422,
+        803
+      ],
+      "text": "Quars sử chí ngã Việt vô chủ cái thời, vì Bắc nhân Thứ sở vô thanh hạnh",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0352_viet_005",
+      "bbox": [
+        [
+          186,
+          799
+        ],
+        [
+          1417,
+          808
+        ],
+        [
+          1417,
+          850
+        ],
+        [
+          186,
+          842
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          954
+        ],
+        [
+          1417,
+          963
+        ],
+        [
+          1417,
+          1005
+        ],
+        [
+          186,
+          997
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        799,
+        1417,
+        850
+      ],
+      "text": "già sở khốn, Bắc kinh địa viên, vô sở cáo tó, bất giác quý cảm giao lập. Kỷ kiến",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0352_viet_006",
+      "bbox": [
+        [
+          179,
+          844
+        ],
+        [
+          1413,
+          850
+        ],
+        [
+          1413,
+          893
+        ],
+        [
+          179,
+          887
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          999
+        ],
+        [
+          1413,
+          1005
+        ],
+        [
+          1413,
+          1048
+        ],
+        [
+          179,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        844,
+        1413,
+        893
+      ],
+      "text": "tính thành như Hàu Đường Minh, Tông, thời, phần hương chúc thiên, nguyện",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0352_viet_007",
+      "bbox": [
+        [
+          182,
+          887
+        ],
+        [
+          1415,
+          893
+        ],
+        [
+          1415,
+          936
+        ],
+        [
+          181,
+          929
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1042
+        ],
+        [
+          1415,
+          1048
+        ],
+        [
+          1415,
+          1091
+        ],
+        [
+          181,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        887,
+        1415,
+        936
+      ],
+      "text": "thiên vị ngã Việt tào sinh thành, nhân, tự, để kỷ quốc, di, miền Bắc nhân chi",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0352_viet_008",
+      "bbox": [
+        [
+          180,
+          931
+        ],
+        [
+          445,
+          936
+        ],
+        [
+          445,
+          975
+        ],
+        [
+          179,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1086
+        ],
+        [
+          445,
+          1091
+        ],
+        [
+          445,
+          1130
+        ],
+        [
+          179,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        931,
+        445,
+        975
+      ],
+      "text": "xâm ngư giả dã.",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0352_viet_009",
+      "bbox": [
+        [
+          190,
+          1034
+        ],
+        [
+          380,
+          1034
+        ],
+        [
+          380,
+          1064
+        ],
+        [
+          190,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1189
+        ],
+        [
+          380,
+          1189
+        ],
+        [
+          380,
+          1219
+        ],
+        [
+          190,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        1034,
+        380,
+        1064
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0352_viet_010",
+      "bbox": [
+        [
+          318,
+          1084
+        ],
+        [
+          1260,
+          1097
+        ],
+        [
+          1259,
+          1133
+        ],
+        [
+          317,
+          1120
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1239
+        ],
+        [
+          1260,
+          1252
+        ],
+        [
+          1259,
+          1288
+        ],
+        [
+          317,
+          1275
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1084,
+        1260,
+        1133
+      ],
+      "text": "BÀN VỀ THỜI KỲ NƯỚC TA PHỤ THUỘC ĐÔNG HÁN",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0352_viet_011",
+      "bbox": [
+        [
+          193,
+          1165
+        ],
+        [
+          1415,
+          1180
+        ],
+        [
+          1415,
+          1217
+        ],
+        [
+          192,
+          1201
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1320
+        ],
+        [
+          1415,
+          1335
+        ],
+        [
+          1415,
+          1372
+        ],
+        [
+          192,
+          1356
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1165,
+        1415,
+        1217
+      ],
+      "text": "Xém sử cên, thời nước Việt tai không có vua, bị: bọn T'rữ sử người Bắc",
+      "confidence": 0.856
+    },
+    {
+      "line_id": "0352_viet_012",
+      "bbox": [
+        [
+          182,
+          1210
+        ],
+        [
+          1415,
+          1225
+        ],
+        [
+          1415,
+          1262
+        ],
+        [
+          181,
+          1246
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1365
+        ],
+        [
+          1415,
+          1380
+        ],
+        [
+          1415,
+          1417
+        ],
+        [
+          181,
+          1401
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1210,
+        1415,
+        1262
+      ],
+      "text": "thìm tàn làm ishồ, Kinh đô Bắc quốc đường xa không tố cáo vào đầu được.",
+      "confidence": 0.8944
+    },
+    {
+      "line_id": "0352_viet_013",
+      "bbox": [
+        [
+          184,
+          1253
+        ],
+        [
+          1415,
+          1268
+        ],
+        [
+          1415,
+          1304
+        ],
+        [
+          183,
+          1289
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1408
+        ],
+        [
+          1415,
+          1423
+        ],
+        [
+          1415,
+          1459
+        ],
+        [
+          183,
+          1444
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1253,
+        1415,
+        1304
+      ],
+      "text": "bãi giác thấy viria thẹn vừa cảm thương. Mong có được tâm lòag tinh thành",
+      "confidence": 0.8895
+    },
+    {
+      "line_id": "0352_viet_014",
+      "bbox": [
+        [
+          184,
+          1296
+        ],
+        [
+          1419,
+          1311
+        ],
+        [
+          1419,
+          1347
+        ],
+        [
+          183,
+          1332
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1451
+        ],
+        [
+          1419,
+          1466
+        ],
+        [
+          1419,
+          1502
+        ],
+        [
+          183,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1296,
+        1419,
+        1347
+      ],
+      "text": "nbm-Minh Tông viha Hậu Đường thắp hương khấn trời (?), xin trời vì nước Việt",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0352_viet_015",
+      "bbox": [
+        [
+          184,
+          1338
+        ],
+        [
+          1422,
+          1352
+        ],
+        [
+          1421,
+          1390
+        ],
+        [
+          183,
+          1377
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1493
+        ],
+        [
+          1422,
+          1507
+        ],
+        [
+          1421,
+          1545
+        ],
+        [
+          183,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1338,
+        1422,
+        1390
+      ],
+      "text": "ta sởm sinh thánh nhân, đề tự làm vua nước nhà: khỏi bị người phương Bắc",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0352_viet_016",
+      "bbox": [
+        [
+          184,
+          1379
+        ],
+        [
+          478,
+          1386
+        ],
+        [
+          477,
+          1422
+        ],
+        [
+          183,
+          1415
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1534
+        ],
+        [
+          478,
+          1541
+        ],
+        [
+          477,
+          1577
+        ],
+        [
+          183,
+          1570
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1379,
+        478,
+        1422
+      ],
+      "text": "xâm chiếm bóc iột.",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0352_viet_017",
+      "bbox": [
+        [
+          890,
+          1450
+        ],
+        [
+          1376,
+          1454
+        ],
+        [
+          1376,
+          1484
+        ],
+        [
+          890,
+          1480
+        ]
+      ],
+      "bbox_original": [
+        [
+          890,
+          1605
+        ],
+        [
+          1376,
+          1609
+        ],
+        [
+          1376,
+          1639
+        ],
+        [
+          890,
+          1635
+        ]
+      ],
+      "box_xyxy": [
+        890,
+        1450,
+        1376,
+        1484
+      ],
+      "text": "CAO HUY GIU BẰNG THANH",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0352_viet_018",
+      "bbox": [
+        [
+          180,
+          1540
+        ],
+        [
+          361,
+          1544
+        ],
+        [
+          360,
+          1581
+        ],
+        [
+          179,
+          1576
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1695
+        ],
+        [
+          361,
+          1699
+        ],
+        [
+          360,
+          1736
+        ],
+        [
+          179,
+          1731
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1540,
+        361,
+        1581
+      ],
+      "text": "CHÚ THÍCH",
+      "confidence": 0.8526
+    },
+    {
+      "line_id": "0352_viet_019",
+      "bbox": [
+        [
+          649,
+          1582
+        ],
+        [
+          936,
+          1589
+        ],
+        [
+          935,
+          1628
+        ],
+        [
+          648,
+          1621
+        ]
+      ],
+      "bbox_original": [
+        [
+          649,
+          1737
+        ],
+        [
+          936,
+          1744
+        ],
+        [
+          935,
+          1783
+        ],
+        [
+          648,
+          1776
+        ]
+      ],
+      "box_xyxy": [
+        648,
+        1582,
+        936,
+        1628
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.8862
+    },
+    {
+      "line_id": "0352_viet_020",
+      "bbox": [
+        [
+          180,
+          1649
+        ],
+        [
+          1398,
+          1662
+        ],
+        [
+          1397,
+          1698
+        ],
+        [
+          179,
+          1685
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1804
+        ],
+        [
+          1398,
+          1817
+        ],
+        [
+          1397,
+          1853
+        ],
+        [
+          179,
+          1840
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1649,
+        1398,
+        1698
+      ],
+      "text": "(1): Đầu đề do chúng tỏi thém. Sau cuộc khởi nghĩa của Hai bà Trưng, nước tà bị nội thuộ",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0352_viet_021",
+      "bbox": [
+        [
+          240,
+          1687
+        ],
+        [
+          728,
+          1696
+        ],
+        [
+          728,
+          1726
+        ],
+        [
+          240,
+          1717
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1842
+        ],
+        [
+          728,
+          1851
+        ],
+        [
+          728,
+          1881
+        ],
+        [
+          240,
+          1872
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1687,
+        728,
+        1726
+      ],
+      "text": "Đông hán hơn 100 năm (43",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0352_viet_022",
+      "bbox": [
+        [
+          177,
+          1724
+        ],
+        [
+          1424,
+          1739
+        ],
+        [
+          1423,
+          1782
+        ],
+        [
+          177,
+          1767
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1879
+        ],
+        [
+          1424,
+          1894
+        ],
+        [
+          1423,
+          1937
+        ],
+        [
+          177,
+          1922
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1724,
+        1424,
+        1782
+      ],
+      "text": "(2) Tương truyền Minh Tông \"\"Đa Xã nhà Hậu Đường Mê Về đêm nào cũng thắp lương",
+      "confidence": 0.8556
+    },
+    {
+      "line_id": "0352_viet_023",
+      "bbox": [
+        [
+          240,
+          1767
+        ],
+        [
+          1428,
+          1780
+        ],
+        [
+          1428,
+          1816
+        ],
+        [
+          240,
+          1803
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1922
+        ],
+        [
+          1428,
+          1935
+        ],
+        [
+          1428,
+          1971
+        ],
+        [
+          240,
+          1958
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1767,
+        1428,
+        1816
+      ],
+      "text": "khấn trời rằng: Tôi là người Hồ, nhàn lúc loạn, được chúng tôn làm vua, xin trời sơm",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0352_viet_024",
+      "bbox": [
+        [
+          240,
+          1801
+        ],
+        [
+          1307,
+          1818
+        ],
+        [
+          1307,
+          1855
+        ],
+        [
+          240,
+          1837
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1956
+        ],
+        [
+          1307,
+          1973
+        ],
+        [
+          1307,
+          2010
+        ],
+        [
+          240,
+          1992
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1801,
+        1307,
+        1855
+      ],
+      "text": "sinh thánh nhân đề làm chủ, Đến năm sau thị Tổng Thái Tổ 5. 2. 2. - 2 - Sinh.",
+      "confidence": 0.8018
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRAN (II)",
+      "114",
+      "NGÃ VIỆT THUỐC ĐỒNG HÁN CHI THỜI",
+      "Quars sử chí ngã Việt vô chủ cái thời, vì Bắc nhân Thứ sở vô thanh hạnh",
+      "già sở khốn, Bắc kinh địa viên, vô sở cáo tó, bất giác quý cảm giao lập. Kỷ kiến",
+      "tính thành như Hàu Đường Minh, Tông, thời, phần hương chúc thiên, nguyện",
+      "thiên vị ngã Việt tào sinh thành, nhân, tự, để kỷ quốc, di, miền Bắc nhân chi",
+      "xâm ngư giả dã."
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ THỜI KỲ NƯỚC TA PHỤ THUỘC ĐÔNG HÁN",
+      "Xém sử cên, thời nước Việt tai không có vua, bị: bọn T'rữ sử người Bắc",
+      "thìm tàn làm ishồ, Kinh đô Bắc quốc đường xa không tố cáo vào đầu được.",
+      "bãi giác thấy viria thẹn vừa cảm thương. Mong có được tâm lòag tinh thành",
+      "nbm-Minh Tông viha Hậu Đường thắp hương khấn trời (?), xin trời vì nước Việt",
+      "ta sởm sinh thánh nhân, đề tự làm vua nước nhà: khỏi bị người phương Bắc",
+      "xâm chiếm bóc iột.",
+      "CAO HUY GIU BẰNG THANH"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

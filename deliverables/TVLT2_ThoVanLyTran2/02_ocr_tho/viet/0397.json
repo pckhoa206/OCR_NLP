@@ -1,0 +1,1324 @@
+{
+  "page_id": "0397",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 397,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0397_viet_000",
+      "bbox": [
+        [
+          629,
+          392
+        ],
+        [
+          946,
+          396
+        ],
+        [
+          946,
+          439
+        ],
+        [
+          628,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          629,
+          547
+        ],
+        [
+          946,
+          551
+        ],
+        [
+          946,
+          594
+        ],
+        [
+          628,
+          590
+        ]
+      ],
+      "box_xyxy": [
+        628,
+        392,
+        946,
+        439
+      ],
+      "text": "TRẦN HOANG",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0397_viet_001",
+      "bbox": [
+        [
+          665,
+          520
+        ],
+        [
+          905,
+          520
+        ],
+        [
+          905,
+          563
+        ],
+        [
+          665,
+          563
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          675
+        ],
+        [
+          905,
+          675
+        ],
+        [
+          905,
+          718
+        ],
+        [
+          665,
+          718
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        520,
+        905,
+        563
+      ],
+      "text": "THÁNH TÒNG",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0397_viet_002",
+      "bbox": [
+        [
+          711,
+          628
+        ],
+        [
+          892,
+          628
+        ],
+        [
+          892,
+          664
+        ],
+        [
+          711,
+          664
+        ]
+      ],
+      "bbox_original": [
+        [
+          711,
+          783
+        ],
+        [
+          892,
+          783
+        ],
+        [
+          892,
+          819
+        ],
+        [
+          711,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        711,
+        628,
+        892,
+        664
+      ],
+      "text": "249 1290",
+      "confidence": 0.6845
+    },
+    {
+      "line_id": "0397_viet_003",
+      "bbox": [
+        [
+          173,
+          816
+        ],
+        [
+          1203,
+          818
+        ],
+        [
+          1203,
+          861
+        ],
+        [
+          173,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          971
+        ],
+        [
+          1203,
+          973
+        ],
+        [
+          1203,
+          1016
+        ],
+        [
+          173,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        816,
+        1203,
+        861
+      ],
+      "text": "Trấm Canh Tỷ. Niên Hiệu Thiên Ứng Chính Binh Kỳ",
+      "confidence": 0.829
+    },
+    {
+      "line_id": "0397_viet_004",
+      "bbox": [
+        [
+          1262,
+          829
+        ],
+        [
+          1400,
+          829
+        ],
+        [
+          1400,
+          859
+        ],
+        [
+          1262,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          1262,
+          984
+        ],
+        [
+          1400,
+          984
+        ],
+        [
+          1400,
+          1014
+        ],
+        [
+          1262,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        1262,
+        829,
+        1400,
+        859
+      ],
+      "text": "thử chinh",
+      "confidence": 0.8319
+    },
+    {
+      "line_id": "0397_viet_005",
+      "bbox": [
+        [
+          169,
+          863
+        ],
+        [
+          1404,
+          870
+        ],
+        [
+          1404,
+          906
+        ],
+        [
+          168,
+          899
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1018
+        ],
+        [
+          1404,
+          1025
+        ],
+        [
+          1404,
+          1061
+        ],
+        [
+          168,
+          1054
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        863,
+        1404,
+        906
+      ],
+      "text": "(13-X-1240), lên ngôi tháng Hai năm Mậu ngọ (1258), mất ngày 25 tháng năm",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0397_viet_006",
+      "bbox": [
+        [
+          175,
+          912
+        ],
+        [
+          596,
+          912
+        ],
+        [
+          596,
+          942
+        ],
+        [
+          175,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1067
+        ],
+        [
+          596,
+          1067
+        ],
+        [
+          596,
+          1097
+        ],
+        [
+          175,
+          1097
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        912,
+        596,
+        942
+      ],
+      "text": "năm Cang dần (3-V1-1290)",
+      "confidence": 0.8079
+    },
+    {
+      "line_id": "0397_viet_007",
+      "bbox": [
+        [
+          264,
+          962
+        ],
+        [
+          1402,
+          966
+        ],
+        [
+          1402,
+          1002
+        ],
+        [
+          264,
+          998
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          1117
+        ],
+        [
+          1402,
+          1121
+        ],
+        [
+          1402,
+          1157
+        ],
+        [
+          264,
+          1153
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        962,
+        1402,
+        1002
+      ],
+      "text": "Trong 21 năm ở ngôi, Thánh Tông đã biết sử dụng nhàn tài, chăm loại trong",
+      "confidence": 0.8737
+    },
+    {
+      "line_id": "0397_viet_008",
+      "bbox": [
+        [
+          175,
+          1004
+        ],
+        [
+          1402,
+          1011
+        ],
+        [
+          1402,
+          1047
+        ],
+        [
+          175,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1159
+        ],
+        [
+          1402,
+          1166
+        ],
+        [
+          1402,
+          1202
+        ],
+        [
+          175,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1004,
+        1402,
+        1047
+      ],
+      "text": "\"việc nước, Ông đã thực hành đường lối ngoại giao mềm dẻo nhưng không kém thế trong\"",
+      "confidence": 0.8505
+    },
+    {
+      "line_id": "0397_viet_009",
+      "bbox": [
+        [
+          169,
+          1045
+        ],
+        [
+          1406,
+          1052
+        ],
+        [
+          1406,
+          1094
+        ],
+        [
+          168,
+          1088
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1200
+        ],
+        [
+          1406,
+          1207
+        ],
+        [
+          1406,
+          1249
+        ],
+        [
+          168,
+          1243
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1045,
+        1406,
+        1094
+      ],
+      "text": "phần kiên quyết đề đối phó với mưi đồ xám lược của nhà Nguyên. Kini không",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0397_viet_010",
+      "bbox": [
+        [
+          173,
+          1090
+        ],
+        [
+          1396,
+          1094
+        ],
+        [
+          1395,
+          1131
+        ],
+        [
+          173,
+          1126
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1245
+        ],
+        [
+          1396,
+          1249
+        ],
+        [
+          1395,
+          1286
+        ],
+        [
+          173,
+          1281
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1090,
+        1396,
+        1131
+      ],
+      "text": "tránh khỏi chiến tranh, ông đã có sáng kiến triệu tập hội nghị Diên-hông %",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0397_viet_011",
+      "bbox": [
+        [
+          162,
+          1135
+        ],
+        [
+          1402,
+          1139
+        ],
+        [
+          1402,
+          1176
+        ],
+        [
+          162,
+          1171
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1290
+        ],
+        [
+          1402,
+          1294
+        ],
+        [
+          1402,
+          1331
+        ],
+        [
+          162,
+          1326
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1135,
+        1402,
+        1176
+      ],
+      "text": "\"vợ, phát động tinh thần yêu nước, q sát Thát o của toàn dân, Cùng với con",
+      "confidence": 0.8758
+    },
+    {
+      "line_id": "0397_viet_012",
+      "bbox": [
+        [
+          171,
+          1171
+        ],
+        [
+          1404,
+          1182
+        ],
+        [
+          1404,
+          1225
+        ],
+        [
+          171,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1326
+        ],
+        [
+          1404,
+          1337
+        ],
+        [
+          1404,
+          1380
+        ],
+        [
+          171,
+          1369
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1171,
+        1404,
+        1225
+      ],
+      "text": "là Trầu Nhân Tông Bk 4- 5n. ông trực tiếp tham gia lãnh đạo cuộc kháng",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0397_viet_013",
+      "bbox": [
+        [
+          173,
+          1214
+        ],
+        [
+          1404,
+          1223
+        ],
+        [
+          1404,
+          1266
+        ],
+        [
+          173,
+          1257
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1369
+        ],
+        [
+          1404,
+          1378
+        ],
+        [
+          1404,
+          1421
+        ],
+        [
+          173,
+          1412
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1214,
+        1404,
+        1266
+      ],
+      "text": "chiến chống Nguyên Mông làn thứ hai và ba, góp phần không nhỏ vào các",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0397_viet_014",
+      "bbox": [
+        [
+          158,
+          1261
+        ],
+        [
+          1400,
+          1268
+        ],
+        [
+          1400,
+          1304
+        ],
+        [
+          158,
+          1298
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1416
+        ],
+        [
+          1400,
+          1423
+        ],
+        [
+          1400,
+          1459
+        ],
+        [
+          158,
+          1453
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1261,
+        1400,
+        1304
+      ],
+      "text": "chiến thắng lịch sử năm 1285 và 1288, bẻ gắy ý đồ iảm, lược của kẻ thù, Sau đó,",
+      "confidence": 0.883
+    },
+    {
+      "line_id": "0397_viet_015",
+      "bbox": [
+        [
+          160,
+          1304
+        ],
+        [
+          1363,
+          1309
+        ],
+        [
+          1363,
+          1347
+        ],
+        [
+          160,
+          1343
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1459
+        ],
+        [
+          1363,
+          1464
+        ],
+        [
+          1363,
+          1502
+        ],
+        [
+          160,
+          1498
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        1304,
+        1363,
+        1347
+      ],
+      "text": "ông về ở Bắc cung rồi đi tu, chuyên tâm nghiên cứu đạo Phật và viết sách.",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0397_viet_016",
+      "bbox": [
+        [
+          227,
+          1356
+        ],
+        [
+          1402,
+          1362
+        ],
+        [
+          1402,
+          1405
+        ],
+        [
+          227,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1511
+        ],
+        [
+          1402,
+          1517
+        ],
+        [
+          1402,
+          1560
+        ],
+        [
+          227,
+          1553
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        1356,
+        1402,
+        1405
+      ],
+      "text": "Thánh Tông là người yêu thích và giỏi thơ văn. Thơ ông giàu chất trữ",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0397_viet_017",
+      "bbox": [
+        [
+          151,
+          1396
+        ],
+        [
+          1402,
+          1405
+        ],
+        [
+          1402,
+          1450
+        ],
+        [
+          151,
+          1441
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          1551
+        ],
+        [
+          1402,
+          1560
+        ],
+        [
+          1402,
+          1605
+        ],
+        [
+          151,
+          1596
+        ]
+      ],
+      "box_xyxy": [
+        151,
+        1396,
+        1402,
+        1450
+      ],
+      "text": "- tình, kết hợp nhuần nhị giữa tỉnh thần tự hảo về đất nước, về dân tộc của",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0397_viet_018",
+      "bbox": [
+        [
+          169,
+          1443
+        ],
+        [
+          1402,
+          1450
+        ],
+        [
+          1402,
+          1493
+        ],
+        [
+          168,
+          1486
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1598
+        ],
+        [
+          1402,
+          1605
+        ],
+        [
+          1402,
+          1648
+        ],
+        [
+          168,
+          1641
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1443,
+        1402,
+        1493
+      ],
+      "text": "người chiến thắng, với tỉnh yêu cuộc sống yên vui, thanh bình, và phong độ",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0397_viet_019",
+      "bbox": [
+        [
+          169,
+          1486
+        ],
+        [
+          1404,
+          1495
+        ],
+        [
+          1404,
+          1538
+        ],
+        [
+          168,
+          1529
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1641
+        ],
+        [
+          1404,
+          1650
+        ],
+        [
+          1404,
+          1693
+        ],
+        [
+          168,
+          1684
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1486,
+        1404,
+        1538
+      ],
+      "text": "ý ung dung, phóng khoáng của một người biết tự tin, lạc quan. Trong thơ, ông",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0397_viet_020",
+      "bbox": [
+        [
+          158,
+          1531
+        ],
+        [
+          1400,
+          1540
+        ],
+        [
+          1400,
+          1576
+        ],
+        [
+          158,
+          1568
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1686
+        ],
+        [
+          1400,
+          1695
+        ],
+        [
+          1400,
+          1731
+        ],
+        [
+          158,
+          1723
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1531,
+        1400,
+        1576
+      ],
+      "text": "\"đã,xen nhịp ba của thợ dân tộc với nhịp' bốn quen thuộc của tbơ Đường, tạo",
+      "confidence": 0.893
+    },
+    {
+      "line_id": "0397_viet_021",
+      "bbox": [
+        [
+          166,
+          1574
+        ],
+        [
+          1400,
+          1581
+        ],
+        [
+          1400,
+          1617
+        ],
+        [
+          166,
+          1610
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1729
+        ],
+        [
+          1400,
+          1736
+        ],
+        [
+          1400,
+          1772
+        ],
+        [
+          166,
+          1765
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1574,
+        1400,
+        1617
+      ],
+      "text": "nên một nét mới về nhịp điệu thơ và về thơ miêu tả thiên nhiên, Đảy la thình trị",
+      "confidence": 0.8711
+    },
+    {
+      "line_id": "0397_viet_022",
+      "bbox": [
+        [
+          162,
+          1617
+        ],
+        [
+          1350,
+          1626
+        ],
+        [
+          1350,
+          1662
+        ],
+        [
+          162,
+          1653
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1772
+        ],
+        [
+          1350,
+          1781
+        ],
+        [
+          1350,
+          1817
+        ],
+        [
+          162,
+          1808
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1617,
+        1350,
+        1662
+      ],
+      "text": "nghiệm đầu tiên, mờ đầu cho những cuộc cách tản trong thờ ca Việt-nam",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0397_viet_023",
+      "bbox": [
+        [
+          259,
+          1666
+        ],
+        [
+          1406,
+          1673
+        ],
+        [
+          1406,
+          1718
+        ],
+        [
+          259,
+          1711
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1821
+        ],
+        [
+          1406,
+          1828
+        ],
+        [
+          1406,
+          1873
+        ],
+        [
+          259,
+          1866
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1666,
+        1406,
+        1718
+      ],
+      "text": "Tác phầm theo ĐVSKTT và TĐNL, Trần Hoảng có soạn các tập. Đi",
+      "confidence": 0.8855
+    },
+    {
+      "line_id": "0397_viet_024",
+      "bbox": [
+        [
+          158,
+          1707
+        ],
+        [
+          1370,
+          1713
+        ],
+        [
+          1369,
+          1763
+        ],
+        [
+          158,
+          1756
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          1862
+        ],
+        [
+          1370,
+          1868
+        ],
+        [
+          1369,
+          1918
+        ],
+        [
+          158,
+          1911
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        1707,
+        1370,
+        1763
+      ],
+      "text": "hậu lục và 14 Sự, Cơ cầu lục Sẽ Á Ak Thiền tộng liêu ngò ca Ap - 3",
+      "confidence": 0.7639
+    },
+    {
+      "line_id": "0397_viet_025",
+      "bbox": [
+        [
+          175,
+          1758
+        ],
+        [
+          1061,
+          1758
+        ],
+        [
+          1061,
+          1801
+        ],
+        [
+          175,
+          1801
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1913
+        ],
+        [
+          1061,
+          1913
+        ],
+        [
+          1061,
+          1956
+        ],
+        [
+          175,
+          1956
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1758,
+        1061,
+        1801
+      ],
+      "text": "15 72, Phòng ngưu 76, Chỉ giá minh Tất lễ minh Tế",
+      "confidence": 0.7522
+    },
+    {
+      "line_id": "0397_viet_026",
+      "bbox": [
+        [
+          266,
+          1807
+        ],
+        [
+          1229,
+          1814
+        ],
+        [
+          1229,
+          1859
+        ],
+        [
+          266,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          1962
+        ],
+        [
+          1229,
+          1969
+        ],
+        [
+          1229,
+          2014
+        ],
+        [
+          266,
+          2007
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        1807,
+        1229,
+        1859
+      ],
+      "text": "Những tác phẩm trên đều đã thất lạc, hiện chỉ còn 7.bài thợ",
+      "confidence": 0.9123
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRẦN HOANG",
+      "THÁNH TÒNG",
+      "249 1290",
+      "Trấm Canh Tỷ. Niên Hiệu Thiên Ứng Chính Binh Kỳ",
+      "thử chinh",
+      "(13-X-1240), lên ngôi tháng Hai năm Mậu ngọ (1258), mất ngày 25 tháng năm",
+      "năm Cang dần (3-V1-1290)",
+      "Trong 21 năm ở ngôi, Thánh Tông đã biết sử dụng nhàn tài, chăm loại trong",
+      "\"việc nước, Ông đã thực hành đường lối ngoại giao mềm dẻo nhưng không kém thế trong\"",
+      "phần kiên quyết đề đối phó với mưi đồ xám lược của nhà Nguyên. Kini không",
+      "tránh khỏi chiến tranh, ông đã có sáng kiến triệu tập hội nghị Diên-hông %",
+      "\"vợ, phát động tinh thần yêu nước, q sát Thát o của toàn dân, Cùng với con",
+      "là Trầu Nhân Tông Bk 4- 5n. ông trực tiếp tham gia lãnh đạo cuộc kháng",
+      "chiến chống Nguyên Mông làn thứ hai và ba, góp phần không nhỏ vào các",
+      "chiến thắng lịch sử năm 1285 và 1288, bẻ gắy ý đồ iảm, lược của kẻ thù, Sau đó,",
+      "ông về ở Bắc cung rồi đi tu, chuyên tâm nghiên cứu đạo Phật và viết sách.",
+      "Thánh Tông là người yêu thích và giỏi thơ văn. Thơ ông giàu chất trữ",
+      "- tình, kết hợp nhuần nhị giữa tỉnh thần tự hảo về đất nước, về dân tộc của",
+      "người chiến thắng, với tỉnh yêu cuộc sống yên vui, thanh bình, và phong độ",
+      "ý ung dung, phóng khoáng của một người biết tự tin, lạc quan. Trong thơ, ông",
+      "\"đã,xen nhịp ba của thợ dân tộc với nhịp' bốn quen thuộc của tbơ Đường, tạo",
+      "nên một nét mới về nhịp điệu thơ và về thơ miêu tả thiên nhiên, Đảy la thình trị",
+      "nghiệm đầu tiên, mờ đầu cho những cuộc cách tản trong thờ ca Việt-nam",
+      "Tác phầm theo ĐVSKTT và TĐNL, Trần Hoảng có soạn các tập. Đi",
+      "hậu lục và 14 Sự, Cơ cầu lục Sẽ Á Ak Thiền tộng liêu ngò ca Ap - 3",
+      "15 72, Phòng ngưu 76, Chỉ giá minh Tất lễ minh Tế",
+      "Những tác phẩm trên đều đã thất lạc, hiện chỉ còn 7.bài thợ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

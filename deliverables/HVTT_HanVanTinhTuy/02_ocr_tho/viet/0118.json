@@ -1,0 +1,1338 @@
+{
+  "page_id": "0118",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 118,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0118_viet_000",
+      "bbox": [
+        [
+          192,
+          32
+        ],
+        [
+          246,
+          32
+        ],
+        [
+          246,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          153
+        ],
+        [
+          246,
+          153
+        ],
+        [
+          246,
+          185
+        ],
+        [
+          192,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        32,
+        246,
+        64
+      ],
+      "text": "112",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0118_viet_001",
+      "bbox": [
+        [
+          667,
+          32
+        ],
+        [
+          989,
+          32
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          667,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          153
+        ],
+        [
+          989,
+          153
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          667,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        32,
+        989,
+        60
+      ],
+      "text": "PHÁN VĂN TINH-TUY",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0118_viet_002",
+      "bbox": [
+        [
+          224,
+          188
+        ],
+        [
+          957,
+          186
+        ],
+        [
+          957,
+          221
+        ],
+        [
+          224,
+          223
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          309
+        ],
+        [
+          957,
+          307
+        ],
+        [
+          957,
+          342
+        ],
+        [
+          224,
+          344
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        186,
+        957,
+        223
+      ],
+      "text": "Ngư chu xướng văn hưởng cùng Bành-lãi chi tân",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0118_viet_003",
+      "bbox": [
+        [
+          221,
+          231
+        ],
+        [
+          957,
+          233
+        ],
+        [
+          957,
+          268
+        ],
+        [
+          221,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          352
+        ],
+        [
+          957,
+          354
+        ],
+        [
+          957,
+          389
+        ],
+        [
+          221,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        231,
+        957,
+        268
+      ],
+      "text": "Thuyển câu hát han chiều, vang đến bền bành-lãi;",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0118_viet_004",
+      "bbox": [
+        [
+          245,
+          298
+        ],
+        [
+          911,
+          296
+        ],
+        [
+          911,
+          336
+        ],
+        [
+          245,
+          338
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          419
+        ],
+        [
+          911,
+          417
+        ],
+        [
+          911,
+          457
+        ],
+        [
+          245,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        296,
+        911,
+        338
+      ],
+      "text": "M X G (X M X",
+      "confidence": 0.3073
+    },
+    {
+      "line_id": "0118_viet_005",
+      "bbox": [
+        [
+          224,
+          353
+        ],
+        [
+          982,
+          353
+        ],
+        [
+          982,
+          387
+        ],
+        [
+          224,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          474
+        ],
+        [
+          982,
+          474
+        ],
+        [
+          982,
+          508
+        ],
+        [
+          224,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        353,
+        982,
+        387
+      ],
+      "text": "Nhạn trận kinh hàn, thanh đoạn hành-dương chi phò",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0118_viet_006",
+      "bbox": [
+        [
+          221,
+          392
+        ],
+        [
+          955,
+          395
+        ],
+        [
+          955,
+          435
+        ],
+        [
+          221,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          513
+        ],
+        [
+          955,
+          516
+        ],
+        [
+          955,
+          556
+        ],
+        [
+          221,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        392,
+        955,
+        435
+      ],
+      "text": "Bầy nhạn kinh rét, tiếng kêu dứt bờ hành-dương",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0118_viet_007",
+      "bbox": [
+        [
+          241,
+          460
+        ],
+        [
+          776,
+          459
+        ],
+        [
+          776,
+          499
+        ],
+        [
+          241,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          581
+        ],
+        [
+          776,
+          580
+        ],
+        [
+          776,
+          620
+        ],
+        [
+          241,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        459,
+        776,
+        501
+      ],
+      "text": "Luận 17 tế ié gia ẻ X",
+      "confidence": 0.6204
+    },
+    {
+      "line_id": "0118_viet_008",
+      "bbox": [
+        [
+          221,
+          512
+        ],
+        [
+          861,
+          512
+        ],
+        [
+          861,
+          552
+        ],
+        [
+          221,
+          552
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          633
+        ],
+        [
+          861,
+          633
+        ],
+        [
+          861,
+          673
+        ],
+        [
+          221,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        512,
+        861,
+        552
+      ],
+      "text": "Dao ngâm phủ xướng, dút hiếng suyên phi",
+      "confidence": 0.8737
+    },
+    {
+      "line_id": "0118_viet_009",
+      "bbox": [
+        [
+          221,
+          557
+        ],
+        [
+          673,
+          559
+        ],
+        [
+          673,
+          594
+        ],
+        [
+          221,
+          593
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          678
+        ],
+        [
+          673,
+          680
+        ],
+        [
+          673,
+          715
+        ],
+        [
+          221,
+          714
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        557,
+        673,
+        594
+      ],
+      "text": "Khúc ngâm xa-xôi sảng-khoái:",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0118_viet_010",
+      "bbox": [
+        [
+          221,
+          604
+        ],
+        [
+          661,
+          604
+        ],
+        [
+          661,
+          638
+        ],
+        [
+          221,
+          638
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          725
+        ],
+        [
+          661,
+          725
+        ],
+        [
+          661,
+          759
+        ],
+        [
+          221,
+          759
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        604,
+        661,
+        638
+      ],
+      "text": "thứng-thú phiêu-dật bay nhanh",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0118_viet_011",
+      "bbox": [
+        [
+          243,
+          664
+        ],
+        [
+          702,
+          668
+        ],
+        [
+          702,
+          713
+        ],
+        [
+          243,
+          710
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          785
+        ],
+        [
+          702,
+          789
+        ],
+        [
+          702,
+          834
+        ],
+        [
+          243,
+          831
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        664,
+        702,
+        713
+      ],
+      "text": "24474R4",
+      "confidence": 0.7381
+    },
+    {
+      "line_id": "0118_viet_012",
+      "bbox": [
+        [
+          221,
+          720
+        ],
+        [
+          742,
+          720
+        ],
+        [
+          742,
+          758
+        ],
+        [
+          221,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          841
+        ],
+        [
+          742,
+          841
+        ],
+        [
+          742,
+          879
+        ],
+        [
+          221,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        720,
+        742,
+        758
+      ],
+      "text": "Sảng lãi phát nhi thanh-phong sinh",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0118_viet_013",
+      "bbox": [
+        [
+          236,
+          787
+        ],
+        [
+          702,
+          785
+        ],
+        [
+          702,
+          825
+        ],
+        [
+          236,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          908
+        ],
+        [
+          702,
+          906
+        ],
+        [
+          702,
+          946
+        ],
+        [
+          236,
+          948
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        785,
+        702,
+        827
+      ],
+      "text": "- Kiên thị thuận bang",
+      "confidence": 0.4023
+    },
+    {
+      "line_id": "0118_viet_014",
+      "bbox": [
+        [
+          219,
+          839
+        ],
+        [
+          675,
+          837
+        ],
+        [
+          675,
+          877
+        ],
+        [
+          219,
+          879
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          960
+        ],
+        [
+          675,
+          958
+        ],
+        [
+          675,
+          998
+        ],
+        [
+          219,
+          1000
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        837,
+        675,
+        879
+      ],
+      "text": "siêm ca ngưng nhi bạch-vân ás.",
+      "confidence": 0.8683
+    },
+    {
+      "line_id": "0118_viet_015",
+      "bbox": [
+        [
+          221,
+          887
+        ],
+        [
+          785,
+          887
+        ],
+        [
+          785,
+          921
+        ],
+        [
+          221,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1008
+        ],
+        [
+          785,
+          1008
+        ],
+        [
+          785,
+          1042
+        ],
+        [
+          221,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        887,
+        785,
+        921
+      ],
+      "text": "Tiếng vui phát sinh, gió mát nổi dậy:",
+      "confidence": 0.8881
+    },
+    {
+      "line_id": "0118_viet_016",
+      "bbox": [
+        [
+          216,
+          931
+        ],
+        [
+          754,
+          929
+        ],
+        [
+          754,
+          964
+        ],
+        [
+          216,
+          966
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1052
+        ],
+        [
+          754,
+          1050
+        ],
+        [
+          754,
+          1085
+        ],
+        [
+          216,
+          1087
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        929,
+        754,
+        966
+      ],
+      "text": "ca nhẹ lắng chìm, mây trắng lưu lại",
+      "confidence": 0.9292
+    },
+    {
+      "line_id": "0118_viet_017",
+      "bbox": [
+        [
+          240,
+          996
+        ],
+        [
+          908,
+          994
+        ],
+        [
+          908,
+          1034
+        ],
+        [
+          240,
+          1036
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1117
+        ],
+        [
+          908,
+          1115
+        ],
+        [
+          908,
+          1155
+        ],
+        [
+          240,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        994,
+        908,
+        1036
+      ],
+      "text": "H E sk ff ầm lê 74",
+      "confidence": 0.5222
+    },
+    {
+      "line_id": "0118_viet_018",
+      "bbox": [
+        [
+          218,
+          1050
+        ],
+        [
+          888,
+          1048
+        ],
+        [
+          888,
+          1081
+        ],
+        [
+          218,
+          1083
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1171
+        ],
+        [
+          888,
+          1169
+        ],
+        [
+          888,
+          1202
+        ],
+        [
+          218,
+          1204
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        1048,
+        888,
+        1083
+      ],
+      "text": "Kỳ viên lục trúc, khi lăng bành-trạch chi tốn",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0118_viet_019",
+      "bbox": [
+        [
+          216,
+          1091
+        ],
+        [
+          935,
+          1093
+        ],
+        [
+          935,
+          1127
+        ],
+        [
+          216,
+          1125
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1212
+        ],
+        [
+          935,
+          1214
+        ],
+        [
+          935,
+          1248
+        ],
+        [
+          216,
+          1246
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1091,
+        935,
+        1127
+      ],
+      "text": "Tre lục vườn kỳ, khí lan chén rượu bành-trạch;",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0118_viet_020",
+      "bbox": [
+        [
+          238,
+          1155
+        ],
+        [
+          906,
+          1152
+        ],
+        [
+          906,
+          1197
+        ],
+        [
+          238,
+          1200
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1276
+        ],
+        [
+          906,
+          1273
+        ],
+        [
+          906,
+          1318
+        ],
+        [
+          238,
+          1321
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1152,
+        906,
+        1200
+      ],
+      "text": "H XXXXXXXXXIỄN Z",
+      "confidence": 0.5469
+    },
+    {
+      "line_id": "0118_viet_021",
+      "bbox": [
+        [
+          219,
+          1212
+        ],
+        [
+          980,
+          1210
+        ],
+        [
+          980,
+          1245
+        ],
+        [
+          219,
+          1247
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1333
+        ],
+        [
+          980,
+          1331
+        ],
+        [
+          980,
+          1366
+        ],
+        [
+          219,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1210,
+        980,
+        1247
+      ],
+      "text": "Nghiệp thủy chu hoa, quung chiêu Lâm-xuyên chi bút",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0118_viet_022",
+      "bbox": [
+        [
+          214,
+          1255
+        ],
+        [
+          947,
+          1255
+        ],
+        [
+          947,
+          1289
+        ],
+        [
+          214,
+          1289
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1376
+        ],
+        [
+          947,
+          1376
+        ],
+        [
+          947,
+          1410
+        ],
+        [
+          214,
+          1410
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1255,
+        947,
+        1289
+      ],
+      "text": "sắc đỏ sông nghiệp, ánh soi ngọn bút Lâm-xuyên",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0118_viet_023",
+      "bbox": [
+        [
+          238,
+          1317
+        ],
+        [
+          628,
+          1321
+        ],
+        [
+          627,
+          1361
+        ],
+        [
+          238,
+          1357
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1438
+        ],
+        [
+          628,
+          1442
+        ],
+        [
+          627,
+          1482
+        ],
+        [
+          238,
+          1478
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1317,
+        628,
+        1361
+      ],
+      "text": "03110000000200",
+      "confidence": 0.2404
+    },
+    {
+      "line_id": "0118_viet_024",
+      "bbox": [
+        [
+          219,
+          1373
+        ],
+        [
+          581,
+          1373
+        ],
+        [
+          581,
+          1408
+        ],
+        [
+          219,
+          1408
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1494
+        ],
+        [
+          581,
+          1494
+        ],
+        [
+          581,
+          1529
+        ],
+        [
+          219,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1373,
+        581,
+        1408
+      ],
+      "text": "Tứ mỹ cụ, nhị nan tỉnh",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0118_viet_025",
+      "bbox": [
+        [
+          214,
+          1416
+        ],
+        [
+          699,
+          1418
+        ],
+        [
+          699,
+          1451
+        ],
+        [
+          214,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1537
+        ],
+        [
+          699,
+          1539
+        ],
+        [
+          699,
+          1572
+        ],
+        [
+          214,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1416,
+        699,
+        1451
+      ],
+      "text": "Sẫn bòn điều hay, đủ hai hậc tôt",
+      "confidence": 0.8905
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "112",
+      "Ngư chu xướng văn hưởng cùng Bành-lãi chi tân",
+      "M X G (X M X",
+      "Bầy nhạn kinh rét, tiếng kêu dứt bờ hành-dương",
+      "Dao ngâm phủ xướng, dút hiếng suyên phi",
+      "thứng-thú phiêu-dật bay nhanh",
+      "Sảng lãi phát nhi thanh-phong sinh",
+      "siêm ca ngưng nhi bạch-vân ás.",
+      "ca nhẹ lắng chìm, mây trắng lưu lại",
+      "Kỳ viên lục trúc, khi lăng bành-trạch chi tốn",
+      "H XXXXXXXXXIỄN Z",
+      "sắc đỏ sông nghiệp, ánh soi ngọn bút Lâm-xuyên"
+    ],
+    "dich_nghia_lines": [
+      "Tứ mỹ cụ, nhị nan tỉnh",
+      "Sẫn bòn điều hay, đủ hai hậc tôt"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "漁舟唱晚響興窮武畫之濱",
+        "phien_am": "112",
+        "dich_nghia_gloss": "PHÁN VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "雁陣驚寒·聲、斷•衡陽之浦",
+        "phien_am": "Ngư chu xướng văn hưởng cùng Bành-lãi chi tân",
+        "dich_nghia_gloss": "Thuyển câu hát han chiều, vang đến bền bành-lãi;"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "遙吟俯暢逸興送飛",
+        "phien_am": "M X G (X M X",
+        "dich_nghia_gloss": "Nhạn trận kinh hàn, thanh đoạn hành-dương chi phò"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "爽葫•發而清風生",
+        "phien_am": "Bầy nhạn kinh rét, tiếng kêu dứt bờ hành-dương",
+        "dich_nghia_gloss": "Luận 17 tế ié gia ẻ X"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "力Hi",
+        "phien_am": "Dao ngâm phủ xướng, dút hiếng suyên phi",
+        "dich_nghia_gloss": "Khúc ngâm xa-xôi sảng-khoái:"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "紙歌凝而白雲過",
+        "phien_am": "thứng-thú phiêu-dật bay nhanh",
+        "dich_nghia_gloss": "24474R4"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "淇園綠竹氣凌武澤之博",
+        "phien_am": "Sảng lãi phát nhi thanh-phong sinh",
+        "dich_nghia_gloss": "- Kiên thị thuận bang"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "K江",
+        "phien_am": "siêm ca ngưng nhi bạch-vân ás.",
+        "dich_nghia_gloss": "Tiếng vui phát sinh, gió mát nổi dậy:"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "鄭水朱華光照",
+        "phien_am": "ca nhẹ lắng chìm, mây trắng lưu lại",
+        "dich_nghia_gloss": "H E sk ff ầm lê 74"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "臨",
+        "phien_am": "Kỳ viên lục trúc, khi lăng bành-trạch chi tốn",
+        "dich_nghia_gloss": "Tre lục vườn kỳ, khí lan chén rượu bành-trạch;"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "川之筆",
+        "phien_am": "H XXXXXXXXXIỄN Z",
+        "dich_nghia_gloss": "Nghiệp thủy chu hoa, quung chiêu Lâm-xuyên chi bút"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "四美具二難托",
+        "phien_am": "sắc đỏ sông nghiệp, ánh soi ngọn bút Lâm-xuyên",
+        "dich_nghia_gloss": "03110000000200"
+      }
+    ]
+  }
+}

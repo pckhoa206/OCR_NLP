@@ -1,0 +1,1472 @@
+{
+  "page_id": "0148",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 148,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0148_viet_000",
+      "bbox": [
+        [
+          196,
+          32
+        ],
+        [
+          250,
+          32
+        ],
+        [
+          250,
+          65
+        ],
+        [
+          196,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          153
+        ],
+        [
+          250,
+          153
+        ],
+        [
+          250,
+          186
+        ],
+        [
+          196,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        32,
+        250,
+        65
+      ],
+      "text": "142",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0148_viet_001",
+      "bbox": [
+        [
+          670,
+          32
+        ],
+        [
+          989,
+          32
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          670,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          153
+        ],
+        [
+          989,
+          153
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          670,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        32,
+        989,
+        60
+      ],
+      "text": "PHÁN VĂN TINH-TUY",
+      "confidence": 0.8877
+    },
+    {
+      "line_id": "0148_viet_002",
+      "bbox": [
+        [
+          246,
+          136
+        ],
+        [
+          984,
+          132
+        ],
+        [
+          984,
+          172
+        ],
+        [
+          247,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          257
+        ],
+        [
+          984,
+          253
+        ],
+        [
+          984,
+          293
+        ],
+        [
+          247,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        132,
+        984,
+        176
+      ],
+      "text": "FRT XXXXXXXX",
+      "confidence": 0.5966
+    },
+    {
+      "line_id": "0148_viet_003",
+      "bbox": [
+        [
+          230,
+          184
+        ],
+        [
+          986,
+          188
+        ],
+        [
+          985,
+          221
+        ],
+        [
+          229,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          305
+        ],
+        [
+          986,
+          309
+        ],
+        [
+          985,
+          342
+        ],
+        [
+          229,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        184,
+        986,
+        221
+      ],
+      "text": "Sử thiên hạ chi nhân bất cảm ngôn nhi cảm nộ:",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0148_viet_004",
+      "bbox": [
+        [
+          223,
+          224
+        ],
+        [
+          987,
+          228
+        ],
+        [
+          987,
+          270
+        ],
+        [
+          223,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          345
+        ],
+        [
+          987,
+          349
+        ],
+        [
+          987,
+          391
+        ],
+        [
+          223,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        224,
+        987,
+        270
+      ],
+      "text": "Khiên cho người trong thiên-hạ không dám nói ra",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0148_viet_005",
+      "bbox": [
+        [
+          198,
+          271
+        ],
+        [
+          513,
+          275
+        ],
+        [
+          513,
+          315
+        ],
+        [
+          197,
+          311
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          392
+        ],
+        [
+          513,
+          396
+        ],
+        [
+          513,
+          436
+        ],
+        [
+          197,
+          432
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        271,
+        513,
+        315
+      ],
+      "text": "nhưng dám căm giận",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0148_viet_006",
+      "bbox": [
+        [
+          251,
+          335
+        ],
+        [
+          778,
+          335
+        ],
+        [
+          778,
+          375
+        ],
+        [
+          251,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          456
+        ],
+        [
+          778,
+          456
+        ],
+        [
+          778,
+          496
+        ],
+        [
+          251,
+          496
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        335,
+        778,
+        375
+      ],
+      "text": "15 22, TN ĐẾ TẾ",
+      "confidence": 0.4048
+    },
+    {
+      "line_id": "0148_viet_007",
+      "bbox": [
+        [
+          233,
+          387
+        ],
+        [
+          808,
+          385
+        ],
+        [
+          808,
+          418
+        ],
+        [
+          233,
+          420
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          508
+        ],
+        [
+          808,
+          506
+        ],
+        [
+          808,
+          539
+        ],
+        [
+          233,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        385,
+        808,
+        420
+      ],
+      "text": "độc phu chi tâm nhật ích kiêu cõ. trị",
+      "confidence": 0.8404
+    },
+    {
+      "line_id": "0148_viet_008",
+      "bbox": [
+        [
+          229,
+          429
+        ],
+        [
+          984,
+          429
+        ],
+        [
+          984,
+          467
+        ],
+        [
+          229,
+          467
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          550
+        ],
+        [
+          984,
+          550
+        ],
+        [
+          984,
+          588
+        ],
+        [
+          229,
+          588
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        429,
+        984,
+        467
+      ],
+      "text": "(Nhưng) lòng của tên độc-phu ngày càng thêm kiêu",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0148_viet_009",
+      "bbox": [
+        [
+          194,
+          476
+        ],
+        [
+          408,
+          472
+        ],
+        [
+          409,
+          512
+        ],
+        [
+          195,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          597
+        ],
+        [
+          408,
+          593
+        ],
+        [
+          409,
+          633
+        ],
+        [
+          195,
+          637
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        472,
+        409,
+        516
+      ],
+      "text": "căng, ngoan-cô.",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0148_viet_010",
+      "bbox": [
+        [
+          255,
+          532
+        ],
+        [
+          638,
+          532
+        ],
+        [
+          638,
+          572
+        ],
+        [
+          255,
+          572
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          653
+        ],
+        [
+          638,
+          653
+        ],
+        [
+          638,
+          693
+        ],
+        [
+          255,
+          693
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        532,
+        638,
+        572
+      ],
+      "text": "0330000000200",
+      "confidence": 0.2696
+    },
+    {
+      "line_id": "0148_viet_011",
+      "bbox": [
+        [
+          235,
+          579
+        ],
+        [
+          721,
+          583
+        ],
+        [
+          720,
+          618
+        ],
+        [
+          234,
+          614
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          700
+        ],
+        [
+          721,
+          704
+        ],
+        [
+          720,
+          739
+        ],
+        [
+          234,
+          735
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        579,
+        721,
+        618
+      ],
+      "text": "Thú tốt khiêu, hàm-cốc cử;",
+      "confidence": 0.8742
+    },
+    {
+      "line_id": "0148_viet_012",
+      "bbox": [
+        [
+          228,
+          624
+        ],
+        [
+          985,
+          624
+        ],
+        [
+          985,
+          663
+        ],
+        [
+          228,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          745
+        ],
+        [
+          985,
+          745
+        ],
+        [
+          985,
+          784
+        ],
+        [
+          228,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        624,
+        985,
+        663
+      ],
+      "text": "(Vì thế), tên lính thú trân thiệp cầt tiếng hô lớn",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0148_viet_013",
+      "bbox": [
+        [
+          224,
+          670
+        ],
+        [
+          815,
+          670
+        ],
+        [
+          815,
+          708
+        ],
+        [
+          224,
+          708
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          791
+        ],
+        [
+          815,
+          791
+        ],
+        [
+          815,
+          829
+        ],
+        [
+          224,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        670,
+        815,
+        708
+      ],
+      "text": "Lưu-Bang đánh phá cửa quan hàm-cồc.",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0148_viet_014",
+      "bbox": [
+        [
+          253,
+          733
+        ],
+        [
+          783,
+          733
+        ],
+        [
+          783,
+          772
+        ],
+        [
+          253,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          854
+        ],
+        [
+          783,
+          854
+        ],
+        [
+          783,
+          893
+        ],
+        [
+          253,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        733,
+        783,
+        772
+      ],
+      "text": "1220100120142",
+      "confidence": 0.2407
+    },
+    {
+      "line_id": "0148_viet_015",
+      "bbox": [
+        [
+          229,
+          783
+        ],
+        [
+          817,
+          783
+        ],
+        [
+          817,
+          817
+        ],
+        [
+          229,
+          817
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          904
+        ],
+        [
+          817,
+          904
+        ],
+        [
+          817,
+          938
+        ],
+        [
+          229,
+          938
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        783,
+        817,
+        817
+      ],
+      "text": "Sở nhân nhất cự, khả lân tiêu thồ .",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0148_viet_016",
+      "bbox": [
+        [
+          223,
+          824
+        ],
+        [
+          982,
+          829
+        ],
+        [
+          982,
+          864
+        ],
+        [
+          223,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          945
+        ],
+        [
+          982,
+          950
+        ],
+        [
+          982,
+          985
+        ],
+        [
+          223,
+          980
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        824,
+        982,
+        864
+      ],
+      "text": "Một mồi lửa của người nước sở hạng vũ cháy bùng",
+      "confidence": 0.8966
+    },
+    {
+      "line_id": "0148_viet_017",
+      "bbox": [
+        [
+          226,
+          870
+        ],
+        [
+          945,
+          870
+        ],
+        [
+          945,
+          909
+        ],
+        [
+          226,
+          909
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          991
+        ],
+        [
+          945,
+          991
+        ],
+        [
+          945,
+          1030
+        ],
+        [
+          226,
+          1030
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        870,
+        945,
+        909
+      ],
+      "text": "Thương thay chỉ còn lại một đám đất cháy khô [",
+      "confidence": 0.9027
+    },
+    {
+      "line_id": "0148_viet_018",
+      "bbox": [
+        [
+          245,
+          924
+        ],
+        [
+          363,
+          924
+        ],
+        [
+          363,
+          974
+        ],
+        [
+          245,
+          974
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1045
+        ],
+        [
+          363,
+          1045
+        ],
+        [
+          363,
+          1095
+        ],
+        [
+          245,
+          1095
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        924,
+        363,
+        974
+      ],
+      "text": "về nguy",
+      "confidence": 0.5142
+    },
+    {
+      "line_id": "0148_viet_019",
+      "bbox": [
+        [
+          226,
+          973
+        ],
+        [
+          343,
+          973
+        ],
+        [
+          343,
+          1009
+        ],
+        [
+          226,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1094
+        ],
+        [
+          343,
+          1094
+        ],
+        [
+          343,
+          1130
+        ],
+        [
+          226,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        973,
+        343,
+        1009
+      ],
+      "text": "Ô hô [",
+      "confidence": 0.7755
+    },
+    {
+      "line_id": "0148_viet_020",
+      "bbox": [
+        [
+          224,
+          1023
+        ],
+        [
+          363,
+          1023
+        ],
+        [
+          363,
+          1053
+        ],
+        [
+          224,
+          1053
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1144
+        ],
+        [
+          363,
+          1144
+        ],
+        [
+          363,
+          1174
+        ],
+        [
+          224,
+          1174
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1023,
+        363,
+        1053
+      ],
+      "text": "Than ôi I",
+      "confidence": 0.853
+    },
+    {
+      "line_id": "0148_viet_021",
+      "bbox": [
+        [
+          248,
+          1081
+        ],
+        [
+          925,
+          1081
+        ],
+        [
+          925,
+          1120
+        ],
+        [
+          248,
+          1120
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1202
+        ],
+        [
+          925,
+          1202
+        ],
+        [
+          925,
+          1241
+        ],
+        [
+          248,
+          1241
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1081,
+        925,
+        1120
+      ],
+      "text": "- x x x x Entalazal",
+      "confidence": 0.3345
+    },
+    {
+      "line_id": "0148_viet_022",
+      "bbox": [
+        [
+          235,
+          1132
+        ],
+        [
+          930,
+          1130
+        ],
+        [
+          930,
+          1165
+        ],
+        [
+          235,
+          1167
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1253
+        ],
+        [
+          930,
+          1251
+        ],
+        [
+          930,
+          1286
+        ],
+        [
+          235,
+          1288
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1130,
+        930,
+        1167
+      ],
+      "text": "diệc lục quốc giả, lục quốc dã, phi Tần dã",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0148_viet_023",
+      "bbox": [
+        [
+          226,
+          1175
+        ],
+        [
+          984,
+          1175
+        ],
+        [
+          984,
+          1209
+        ],
+        [
+          226,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1296
+        ],
+        [
+          984,
+          1296
+        ],
+        [
+          984,
+          1330
+        ],
+        [
+          226,
+          1330
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1175,
+        984,
+        1209
+      ],
+      "text": "Kẻ diệt sáu nước chính là sáu nước, chớ không phải",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0148_viet_024",
+      "bbox": [
+        [
+          196,
+          1220
+        ],
+        [
+          326,
+          1220
+        ],
+        [
+          326,
+          1250
+        ],
+        [
+          196,
+          1250
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1341
+        ],
+        [
+          326,
+          1341
+        ],
+        [
+          326,
+          1371
+        ],
+        [
+          196,
+          1371
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1220,
+        326,
+        1250
+      ],
+      "text": "nhà tân",
+      "confidence": 0.8899
+    },
+    {
+      "line_id": "0148_viet_025",
+      "bbox": [
+        [
+          248,
+          1277
+        ],
+        [
+          854,
+          1276
+        ],
+        [
+          854,
+          1316
+        ],
+        [
+          248,
+          1317
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1398
+        ],
+        [
+          854,
+          1397
+        ],
+        [
+          854,
+          1437
+        ],
+        [
+          248,
+          1438
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1276,
+        854,
+        1317
+      ],
+      "text": "42 - 2 (L E LAFFFL",
+      "confidence": 0.3502
+    },
+    {
+      "line_id": "0148_viet_026",
+      "bbox": [
+        [
+          235,
+          1329
+        ],
+        [
+          876,
+          1329
+        ],
+        [
+          876,
+          1363
+        ],
+        [
+          235,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1450
+        ],
+        [
+          876,
+          1450
+        ],
+        [
+          876,
+          1484
+        ],
+        [
+          235,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1329,
+        876,
+        1363
+      ],
+      "text": "Tộc Tân giả, Tần dã, phi thiên hạ dã nội",
+      "confidence": 0.8672
+    },
+    {
+      "line_id": "0148_viet_027",
+      "bbox": [
+        [
+          223,
+          1368
+        ],
+        [
+          989,
+          1371
+        ],
+        [
+          989,
+          1411
+        ],
+        [
+          223,
+          1408
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1489
+        ],
+        [
+          989,
+          1492
+        ],
+        [
+          989,
+          1532
+        ],
+        [
+          223,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1368,
+        989,
+        1411
+      ],
+      "text": "Kẻ giết cả họ nhà Tần chính là nhà Tân, chớ không",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0148_viet_028",
+      "bbox": [
+        [
+          199,
+          1416
+        ],
+        [
+          385,
+          1416
+        ],
+        [
+          385,
+          1451
+        ],
+        [
+          199,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1537
+        ],
+        [
+          385,
+          1537
+        ],
+        [
+          385,
+          1572
+        ],
+        [
+          199,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1416,
+        385,
+        1451
+      ],
+      "text": "phải thiên-hạ",
+      "confidence": 0.9336
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "142",
+      "FRT XXXXXXXX",
+      "Khiên cho người trong thiên-hạ không dám nói ra",
+      "15 22, TN ĐẾ TẾ",
+      "(Nhưng) lòng của tên độc-phu ngày càng thêm kiêu",
+      "0330000000200",
+      "(Vì thế), tên lính thú trân thiệp cầt tiếng hô lớn",
+      "1220100120142",
+      "Một mồi lửa của người nước sở hạng vũ cháy bùng",
+      "về nguy"
+    ],
+    "dich_nghia_lines": [
+      "Than ôi I",
+      "- x x x x Entalazal",
+      "diệc lục quốc giả, lục quốc dã, phi Tần dã",
+      "Kẻ diệt sáu nước chính là sáu nước, chớ không phải",
+      "nhà tân",
+      "42 - 2 (L E LAFFFL",
+      "Tộc Tân giả, Tần dã, phi thiên hạ dã nội",
+      "Kẻ giết cả họ nhà Tần chính là nhà Tân, chớ không",
+      "phải thiên-hạ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "使天下之人不敢言而敢怒",
+        "phien_am": "142",
+        "dich_nghia_gloss": "PHÁN VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "獨夫之",
+        "phien_am": "FRT XXXXXXXX",
+        "dich_nghia_gloss": "Sử thiên hạ chi nhân bất cảm ngôn nhi cảm nộ:"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "日昇益驕固",
+        "phien_am": "Khiên cho người trong thiên-hạ không dám nói ra",
+        "dich_nghia_gloss": "nhưng dám căm giận"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "戍卒叫甬谷•舉",
+        "phien_am": "15 22, TN ĐẾ TẾ",
+        "dich_nghia_gloss": "độc phu chi tâm nhật ích kiêu cõ. trị"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "楚人一炬可憐焦土",
+        "phien_am": "(Nhưng) lòng của tên độc-phu ngày càng thêm kiêu",
+        "dich_nghia_gloss": "căng, ngoan-cô."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "鴻呼",
+        "phien_am": "0330000000200",
+        "dich_nghia_gloss": "Thú tốt khiêu, hàm-cốc cử;"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "滅六國者六國也非泰也",
+        "phien_am": "(Vì thế), tên lính thú trân thiệp cầt tiếng hô lớn",
+        "dich_nghia_gloss": "Lưu-Bang đánh phá cửa quan hàm-cồc."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "族秦者興泰也",
+        "phien_am": "1220100120142",
+        "dich_nghia_gloss": "Sở nhân nhất cự, khả lân tiêu thồ ."
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "非",
+        "phien_am": "Một mồi lửa của người nước sở hạng vũ cháy bùng",
+        "dich_nghia_gloss": "Thương thay chỉ còn lại một đám đất cháy khô ["
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "天下也",
+        "phien_am": "về nguy",
+        "dich_nghia_gloss": "Ô hô ["
+      }
+    ]
+  }
+}

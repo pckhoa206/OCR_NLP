@@ -1,0 +1,1132 @@
+{
+  "page_id": "0333",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 333,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1161,
+    "footnote_separator_y_original": 1276,
+    "effective_width": 1122,
+    "effective_height": 1161
+  },
+  "items": [
+    {
+      "line_id": "0333_viet_000",
+      "bbox": [
+        [
+          208,
+          5
+        ],
+        [
+          533,
+          5
+        ],
+        [
+          533,
+          29
+        ],
+        [
+          208,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          120
+        ],
+        [
+          533,
+          120
+        ],
+        [
+          533,
+          144
+        ],
+        [
+          208,
+          144
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        5,
+        533,
+        29
+      ],
+      "text": "Ngàn thu nơi ngo1 nha",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0333_viet_001",
+      "bbox": [
+        [
+          594,
+          7
+        ],
+        [
+          929,
+          6
+        ],
+        [
+          929,
+          23
+        ],
+        [
+          594,
+          24
+        ]
+      ],
+      "bbox_original": [
+        [
+          594,
+          122
+        ],
+        [
+          929,
+          121
+        ],
+        [
+          929,
+          138
+        ],
+        [
+          594,
+          139
+        ]
+      ],
+      "box_xyxy": [
+        594,
+        6,
+        929,
+        24
+      ],
+      "text": "bien tuoi tien keo dai",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0333_viet_002",
+      "bbox": [
+        [
+          204,
+          40
+        ],
+        [
+          993,
+          40
+        ],
+        [
+          993,
+          80
+        ],
+        [
+          204,
+          80
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          155
+        ],
+        [
+          993,
+          155
+        ],
+        [
+          993,
+          195
+        ],
+        [
+          204,
+          195
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        40,
+        993,
+        80
+      ],
+      "text": "Ngọn đuốc ngọc nơi thềm Đế Nghiêu mãi chiếu sáng",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0333_viet_003",
+      "bbox": [
+        [
+          384,
+          160
+        ],
+        [
+          868,
+          160
+        ],
+        [
+          868,
+          196
+        ],
+        [
+          384,
+          196
+        ]
+      ],
+      "bbox_original": [
+        [
+          384,
+          275
+        ],
+        [
+          868,
+          275
+        ],
+        [
+          868,
+          311
+        ],
+        [
+          384,
+          311
+        ]
+      ],
+      "box_xyxy": [
+        384,
+        160,
+        868,
+        196
+      ],
+      "text": "PHẠM ĐÌNH HỐ (1768 - 1839)",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0333_viet_004",
+      "bbox": [
+        [
+          204,
+          235
+        ],
+        [
+          1106,
+          240
+        ],
+        [
+          1106,
+          272
+        ],
+        [
+          204,
+          267
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          350
+        ],
+        [
+          1106,
+          355
+        ],
+        [
+          1106,
+          387
+        ],
+        [
+          204,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        235,
+        1106,
+        272
+      ],
+      "text": "Phạm Đình Hồ tự là Tùng Niên và Binh Trực (theo ghi chép thị)",
+      "confidence": 0.8703
+    },
+    {
+      "line_id": "0333_viet_005",
+      "bbox": [
+        [
+          149,
+          283
+        ],
+        [
+          1106,
+          283
+        ],
+        [
+          1106,
+          312
+        ],
+        [
+          149,
+          312
+        ]
+      ],
+      "bbox_original": [
+        [
+          149,
+          398
+        ],
+        [
+          1106,
+          398
+        ],
+        [
+          1106,
+          427
+        ],
+        [
+          149,
+          427
+        ]
+      ],
+      "box_xyxy": [
+        149,
+        283,
+        1106,
+        312
+      ],
+      "text": "Thuật trong tấp thơ Phong lâm minh lại thi tập của Nguyên An, còn có thể nhiên",
+      "confidence": 0.8126
+    },
+    {
+      "line_id": "0333_viet_006",
+      "bbox": [
+        [
+          145,
+          320
+        ],
+        [
+          1106,
+          325
+        ],
+        [
+          1106,
+          357
+        ],
+        [
+          145,
+          352
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          435
+        ],
+        [
+          1106,
+          440
+        ],
+        [
+          1106,
+          472
+        ],
+        [
+          145,
+          467
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        320,
+        1106,
+        357
+      ],
+      "text": "Tên tự khác là Kiều Niên), hiệu là Đông Dã Tiêu, người làng Đang Nhau",
+      "confidence": 0.8616
+    },
+    {
+      "line_id": "0333_viet_007",
+      "bbox": [
+        [
+          143,
+          362
+        ],
+        [
+          1101,
+          364
+        ],
+        [
+          1101,
+          402
+        ],
+        [
+          143,
+          399
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          477
+        ],
+        [
+          1101,
+          479
+        ],
+        [
+          1101,
+          517
+        ],
+        [
+          143,
+          514
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        362,
+        1101,
+        402
+      ],
+      "text": "Loan, huyện Đường An (nay là huyện cấm bình, tỉnh hải Dương)",
+      "confidence": 0.9032
+    },
+    {
+      "line_id": "0333_viet_008",
+      "bbox": [
+        [
+          144,
+          401
+        ],
+        [
+          1109,
+          404
+        ],
+        [
+          1109,
+          445
+        ],
+        [
+          144,
+          443
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          516
+        ],
+        [
+          1109,
+          519
+        ],
+        [
+          1109,
+          560
+        ],
+        [
+          144,
+          558
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        401,
+        1109,
+        445
+      ],
+      "text": "Ông xuất thân trong gia đình khoa bảng nhưng chỉ đỗ đến học vị",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0333_viet_009",
+      "bbox": [
+        [
+          145,
+          450
+        ],
+        [
+          1075,
+          447
+        ],
+        [
+          1075,
+          483
+        ],
+        [
+          145,
+          485
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          565
+        ],
+        [
+          1075,
+          562
+        ],
+        [
+          1075,
+          598
+        ],
+        [
+          145,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        447,
+        1075,
+        485
+      ],
+      "text": "Tú tài. Sau, ông được nhà nguyễn cất làm Tế tửu Quốc Tử Giám. Thuận",
+      "confidence": 0.8419
+    },
+    {
+      "line_id": "0333_viet_010",
+      "bbox": [
+        [
+          203,
+          497
+        ],
+        [
+          1099,
+          499
+        ],
+        [
+          1099,
+          532
+        ],
+        [
+          203,
+          530
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          612
+        ],
+        [
+          1099,
+          614
+        ],
+        [
+          1099,
+          647
+        ],
+        [
+          203,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        497,
+        1099,
+        532
+      ],
+      "text": "Phạm Đình Hồ là người học vân sâu sắc, trước tác phong phú",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0333_viet_011",
+      "bbox": [
+        [
+          145,
+          541
+        ],
+        [
+          1103,
+          541
+        ],
+        [
+          1103,
+          573
+        ],
+        [
+          145,
+          573
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          656
+        ],
+        [
+          1103,
+          656
+        ],
+        [
+          1103,
+          688
+        ],
+        [
+          145,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        541,
+        1103,
+        573
+      ],
+      "text": "Tác phẩm của ông có: An Nam chí, O châu lục, Ai Lao sử trình, Thuận",
+      "confidence": 0.8558
+    },
+    {
+      "line_id": "0333_viet_012",
+      "bbox": [
+        [
+          146,
+          579
+        ],
+        [
+          1105,
+          582
+        ],
+        [
+          1105,
+          618
+        ],
+        [
+          146,
+          616
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          694
+        ],
+        [
+          1105,
+          697
+        ],
+        [
+          1105,
+          733
+        ],
+        [
+          146,
+          731
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        579,
+        1105,
+        618
+      ],
+      "text": "Kiền khôn nhất lãm, Lê triều hội điển, Bang giao điển lệ, Nhật",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0333_viet_013",
+      "bbox": [
+        [
+          145,
+          622
+        ],
+        [
+          1106,
+          625
+        ],
+        [
+          1106,
+          663
+        ],
+        [
+          145,
+          659
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          737
+        ],
+        [
+          1106,
+          740
+        ],
+        [
+          1106,
+          778
+        ],
+        [
+          145,
+          774
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        622,
+        1106,
+        663
+      ],
+      "text": "dụng thường đàm, Vũ trung tuỳ bút, Tang thương ngấu lục, Đông",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0333_viet_014",
+      "bbox": [
+        [
+          144,
+          668
+        ],
+        [
+          788,
+          670
+        ],
+        [
+          788,
+          704
+        ],
+        [
+          144,
+          701
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          783
+        ],
+        [
+          788,
+          785
+        ],
+        [
+          788,
+          819
+        ],
+        [
+          144,
+          816
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        668,
+        788,
+        704
+      ],
+      "text": "Dã học ngôn thi tập, châu phong tạp thảo..",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0333_viet_015",
+      "bbox": [
+        [
+          201,
+          710
+        ],
+        [
+          1104,
+          715
+        ],
+        [
+          1104,
+          756
+        ],
+        [
+          201,
+          751
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          825
+        ],
+        [
+          1104,
+          830
+        ],
+        [
+          1104,
+          871
+        ],
+        [
+          201,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        710,
+        1104,
+        756
+      ],
+      "text": "Về từ, ông có 6 bài, chép trong sách Châu Phong tạp thảo",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0333_viet_016",
+      "bbox": [
+        [
+          145,
+          757
+        ],
+        [
+          437,
+          760
+        ],
+        [
+          436,
+          792
+        ],
+        [
+          145,
+          790
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          872
+        ],
+        [
+          437,
+          875
+        ],
+        [
+          436,
+          907
+        ],
+        [
+          145,
+          905
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        757,
+        437,
+        792
+      ],
+      "text": "(A.295, VHv.1873)",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0333_viet_017",
+      "bbox": [
+        [
+          206,
+          805
+        ],
+        [
+          316,
+          805
+        ],
+        [
+          316,
+          841
+        ],
+        [
+          206,
+          841
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          920
+        ],
+        [
+          316,
+          920
+        ],
+        [
+          316,
+          956
+        ],
+        [
+          206,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        805,
+        316,
+        841
+      ],
+      "text": "33 T km",
+      "confidence": 0.3328
+    },
+    {
+      "line_id": "0333_viet_018",
+      "bbox": [
+        [
+          202,
+          859
+        ],
+        [
+          340,
+          859
+        ],
+        [
+          340,
+          896
+        ],
+        [
+          202,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          974
+        ],
+        [
+          340,
+          974
+        ],
+        [
+          340,
+          1011
+        ],
+        [
+          202,
+          1011
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        859,
+        340,
+        896
+      ],
+      "text": "(J2N)",
+      "confidence": 0.5258
+    },
+    {
+      "line_id": "0333_viet_019",
+      "bbox": [
+        [
+          208,
+          917
+        ],
+        [
+          462,
+          917
+        ],
+        [
+          462,
+          946
+        ],
+        [
+          208,
+          946
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1032
+        ],
+        [
+          462,
+          1032
+        ],
+        [
+          462,
+          1061
+        ],
+        [
+          208,
+          1061
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        917,
+        462,
+        946
+      ],
+      "text": "1541970-142",
+      "confidence": 0.2299
+    },
+    {
+      "line_id": "0333_viet_020",
+      "bbox": [
+        [
+          199,
+          971
+        ],
+        [
+          400,
+          971
+        ],
+        [
+          400,
+          1000
+        ],
+        [
+          199,
+          1000
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1086
+        ],
+        [
+          400,
+          1086
+        ],
+        [
+          400,
+          1115
+        ],
+        [
+          199,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        971,
+        400,
+        1000
+      ],
+      "text": "m 1512",
+      "confidence": 0.2307
+    },
+    {
+      "line_id": "0333_viet_021",
+      "bbox": [
+        [
+          207,
+          1023
+        ],
+        [
+          358,
+          1023
+        ],
+        [
+          358,
+          1057
+        ],
+        [
+          207,
+          1057
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1138
+        ],
+        [
+          358,
+          1138
+        ],
+        [
+          358,
+          1172
+        ],
+        [
+          207,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1023,
+        358,
+        1057
+      ],
+      "text": "241",
+      "confidence": 0.4527
+    },
+    {
+      "line_id": "0333_viet_022",
+      "bbox": [
+        [
+          206,
+          1074
+        ],
+        [
+          359,
+          1077
+        ],
+        [
+          359,
+          1112
+        ],
+        [
+          205,
+          1109
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1189
+        ],
+        [
+          359,
+          1192
+        ],
+        [
+          359,
+          1227
+        ],
+        [
+          205,
+          1224
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1074,
+        359,
+        1112
+      ],
+      "text": "MITZ",
+      "confidence": 0.583
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Ngàn thu nơi ngo1 nha",
+      "bien tuoi tien keo dai",
+      "Ngọn đuốc ngọc nơi thềm Đế Nghiêu mãi chiếu sáng",
+      "PHẠM ĐÌNH HỐ (1768 - 1839)",
+      "Phạm Đình Hồ tự là Tùng Niên và Binh Trực (theo ghi chép thị)",
+      "Thuật trong tấp thơ Phong lâm minh lại thi tập của Nguyên An, còn có thể nhiên",
+      "Tên tự khác là Kiều Niên), hiệu là Đông Dã Tiêu, người làng Đang Nhau",
+      "Loan, huyện Đường An (nay là huyện cấm bình, tỉnh hải Dương)",
+      "Ông xuất thân trong gia đình khoa bảng nhưng chỉ đỗ đến học vị",
+      "Tú tài. Sau, ông được nhà nguyễn cất làm Tế tửu Quốc Tử Giám. Thuận",
+      "Phạm Đình Hồ là người học vân sâu sắc, trước tác phong phú",
+      "Tác phẩm của ông có: An Nam chí, O châu lục, Ai Lao sử trình, Thuận",
+      "Kiền khôn nhất lãm, Lê triều hội điển, Bang giao điển lệ, Nhật",
+      "dụng thường đàm, Vũ trung tuỳ bút, Tang thương ngấu lục, Đông",
+      "Dã học ngôn thi tập, châu phong tạp thảo..",
+      "Về từ, ông có 6 bài, chép trong sách Châu Phong tạp thảo",
+      "(A.295, VHv.1873)",
+      "33 T km",
+      "(J2N)",
+      "1541970-142",
+      "m 1512",
+      "241",
+      "MITZ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

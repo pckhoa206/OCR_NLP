@@ -1,0 +1,1275 @@
+{
+  "page_id": "0355",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 355,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0355_viet_000",
+      "bbox": [
+        [
+          884,
+          0
+        ],
+        [
+          961,
+          0
+        ],
+        [
+          961,
+          21
+        ],
+        [
+          884,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          884,
+          155
+        ],
+        [
+          961,
+          155
+        ],
+        [
+          961,
+          176
+        ],
+        [
+          884,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        884,
+        0,
+        961,
+        21
+      ],
+      "text": "TRAN",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0355_viet_001",
+      "bbox": [
+        [
+          750,
+          109
+        ],
+        [
+          849,
+          109
+        ],
+        [
+          849,
+          156
+        ],
+        [
+          750,
+          156
+        ]
+      ],
+      "bbox_original": [
+        [
+          750,
+          264
+        ],
+        [
+          849,
+          264
+        ],
+        [
+          849,
+          311
+        ],
+        [
+          750,
+          311
+        ]
+      ],
+      "box_xyxy": [
+        750,
+        109,
+        849,
+        156
+      ],
+      "text": "117",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0355_viet_002",
+      "bbox": [
+        [
+          385,
+          291
+        ],
+        [
+          1396,
+          304
+        ],
+        [
+          1395,
+          354
+        ],
+        [
+          384,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          385,
+          446
+        ],
+        [
+          1396,
+          459
+        ],
+        [
+          1395,
+          509
+        ],
+        [
+          384,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        384,
+        291,
+        1396,
+        354
+      ],
+      "text": "HZM KHI LÊ KHI THỊ THẾ THẾ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ",
+      "confidence": 0.3557
+    },
+    {
+      "line_id": "0355_viet_003",
+      "bbox": [
+        [
+          190,
+          694
+        ],
+        [
+          354,
+          694
+        ],
+        [
+          354,
+          724
+        ],
+        [
+          190,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          849
+        ],
+        [
+          354,
+          849
+        ],
+        [
+          354,
+          879
+        ],
+        [
+          190,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        694,
+        354,
+        724
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.8787
+    },
+    {
+      "line_id": "0355_viet_004",
+      "bbox": [
+        [
+          577,
+          730
+        ],
+        [
+          1022,
+          728
+        ],
+        [
+          1022,
+          765
+        ],
+        [
+          577,
+          767
+        ]
+      ],
+      "bbox_original": [
+        [
+          577,
+          885
+        ],
+        [
+          1022,
+          883
+        ],
+        [
+          1022,
+          920
+        ],
+        [
+          577,
+          922
+        ]
+      ],
+      "box_xyxy": [
+        577,
+        728,
+        1022,
+        767
+      ],
+      "text": "THIỆN VI QUỐC GIẢ LUẬN",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0355_viet_005",
+      "bbox": [
+        [
+          242,
+          807
+        ],
+        [
+          1415,
+          807
+        ],
+        [
+          1415,
+          844
+        ],
+        [
+          242,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          962
+        ],
+        [
+          1415,
+          962
+        ],
+        [
+          1415,
+          999
+        ],
+        [
+          242,
+          999
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        807,
+        1415,
+        844
+      ],
+      "text": "Nhất Lý Trác chi tham bao, Trí số thập niên Man khấu chi hoạn, huống",
+      "confidence": 0.8931
+    },
+    {
+      "line_id": "0355_viet_006",
+      "bbox": [
+        [
+          184,
+          850
+        ],
+        [
+          1415,
+          844
+        ],
+        [
+          1415,
+          887
+        ],
+        [
+          184,
+          893
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1005
+        ],
+        [
+          1415,
+          999
+        ],
+        [
+          1415,
+          1042
+        ],
+        [
+          184,
+          1048
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        844,
+        1415,
+        893
+      ],
+      "text": "thậm ngược ir Lý Trác giả hồ ? Nhất Cao Biềa chị đốc thuộc, trảm số thập vạn",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0355_viet_007",
+      "bbox": [
+        [
+          175,
+          895
+        ],
+        [
+          1419,
+          891
+        ],
+        [
+          1419,
+          929
+        ],
+        [
+          175,
+          934
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1050
+        ],
+        [
+          1419,
+          1046
+        ],
+        [
+          1419,
+          1084
+        ],
+        [
+          175,
+          1089
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        891,
+        1419,
+        934
+      ],
+      "text": "tác chúng chi cường, huống hiền ư Cao Biên giả hồ 7 Có Trác bất năng tự bảo,",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0355_viet_008",
+      "bbox": [
+        [
+          180,
+          936
+        ],
+        [
+          678,
+          940
+        ],
+        [
+          678,
+          979
+        ],
+        [
+          179,
+          974
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1091
+        ],
+        [
+          678,
+          1095
+        ],
+        [
+          678,
+          1134
+        ],
+        [
+          179,
+          1129
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        936,
+        678,
+        979
+      ],
+      "text": "nhi biền cứ thành xưng vương",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0355_viet_009",
+      "bbox": [
+        [
+          279,
+          992
+        ],
+        [
+          909,
+          992
+        ],
+        [
+          909,
+          1028
+        ],
+        [
+          279,
+          1028
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          1147
+        ],
+        [
+          909,
+          1147
+        ],
+        [
+          909,
+          1183
+        ],
+        [
+          279,
+          1183
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        992,
+        909,
+        1028
+      ],
+      "text": "Thiện vi quốc giả đương cần trạch yên",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0355_viet_010",
+      "bbox": [
+        [
+          181,
+          1090
+        ],
+        [
+          386,
+          1088
+        ],
+        [
+          387,
+          1124
+        ],
+        [
+          182,
+          1127
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1245
+        ],
+        [
+          386,
+          1243
+        ],
+        [
+          387,
+          1279
+        ],
+        [
+          182,
+          1282
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1088,
+        387,
+        1127
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0355_viet_011",
+      "bbox": [
+        [
+          521,
+          1131
+        ],
+        [
+          1104,
+          1129
+        ],
+        [
+          1104,
+          1171
+        ],
+        [
+          521,
+          1174
+        ]
+      ],
+      "bbox_original": [
+        [
+          521,
+          1286
+        ],
+        [
+          1104,
+          1284
+        ],
+        [
+          1104,
+          1326
+        ],
+        [
+          521,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        521,
+        1129,
+        1104,
+        1174
+      ],
+      "text": "BÀN VỀ NGƯỜI GIỎI TRỊ NƯỚC ()",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0355_viet_012",
+      "bbox": [
+        [
+          276,
+          1208
+        ],
+        [
+          1411,
+          1206
+        ],
+        [
+          1411,
+          1249
+        ],
+        [
+          277,
+          1251
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          1363
+        ],
+        [
+          1411,
+          1361
+        ],
+        [
+          1411,
+          1404
+        ],
+        [
+          277,
+          1406
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1206,
+        1411,
+        1251
+      ],
+      "text": "Có một Lý Trác tham bạo mà đến đến nỗi gây nền mối họa giặc Man",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0355_viet_013",
+      "bbox": [
+        [
+          179,
+          1255
+        ],
+        [
+          1408,
+          1253
+        ],
+        [
+          1409,
+          1291
+        ],
+        [
+          179,
+          1294
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1410
+        ],
+        [
+          1408,
+          1408
+        ],
+        [
+          1409,
+          1446
+        ],
+        [
+          179,
+          1449
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1253,
+        1409,
+        1294
+      ],
+      "text": "Thuận quấy nhiều đến mấy chục năm, huống chi là kẽ bạo ngược hơn Lý Trác ? Có",
+      "confidence": 0.8692
+    },
+    {
+      "line_id": "0355_viet_014",
+      "bbox": [
+        [
+          186,
+          1298
+        ],
+        [
+          1409,
+          1298
+        ],
+        [
+          1409,
+          1334
+        ],
+        [
+          186,
+          1334
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1453
+        ],
+        [
+          1409,
+          1453
+        ],
+        [
+          1409,
+          1489
+        ],
+        [
+          186,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1298,
+        1409,
+        1334
+      ],
+      "text": "một Cao Biền đốc suất thuộc tướng mà có thể giết được vài mươi vạn quân",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0355_viet_015",
+      "bbox": [
+        [
+          171,
+          1343
+        ],
+        [
+          1408,
+          1336
+        ],
+        [
+          1409,
+          1373
+        ],
+        [
+          171,
+          1379
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1498
+        ],
+        [
+          1408,
+          1491
+        ],
+        [
+          1409,
+          1528
+        ],
+        [
+          171,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1336,
+        1409,
+        1379
+      ],
+      "text": "Thế giặc hùng mạnh, huống chi là kẻ giỏi hơn Cao Biền % Cho nên Trác không thể nhiều",
+      "confidence": 0.83
+    },
+    {
+      "line_id": "0355_viet_016",
+      "bbox": [
+        [
+          169,
+          1383
+        ],
+        [
+          1182,
+          1386
+        ],
+        [
+          1182,
+          1422
+        ],
+        [
+          168,
+          1420
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1538
+        ],
+        [
+          1182,
+          1541
+        ],
+        [
+          1182,
+          1577
+        ],
+        [
+          168,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1383,
+        1182,
+        1422
+      ],
+      "text": "bảo, toàn được thân mình mà Cao Biền giữ thành xưng vương.",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0355_viet_017",
+      "bbox": [
+        [
+          274,
+          1435
+        ],
+        [
+          1056,
+          1435
+        ],
+        [
+          1056,
+          1471
+        ],
+        [
+          274,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1590
+        ],
+        [
+          1056,
+          1590
+        ],
+        [
+          1056,
+          1626
+        ],
+        [
+          274,
+          1626
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1435,
+        1056,
+        1471
+      ],
+      "text": "Kẻ khẻo tri nước phải nên lửa chon cho cần thân",
+      "confidence": 0.9008
+    },
+    {
+      "line_id": "0355_viet_018",
+      "bbox": [
+        [
+          894,
+          1501
+        ],
+        [
+          1333,
+          1501
+        ],
+        [
+          1333,
+          1529
+        ],
+        [
+          894,
+          1529
+        ]
+      ],
+      "bbox_original": [
+        [
+          894,
+          1656
+        ],
+        [
+          1333,
+          1656
+        ],
+        [
+          1333,
+          1684
+        ],
+        [
+          894,
+          1684
+        ]
+      ],
+      "box_xyxy": [
+        894,
+        1501,
+        1333,
+        1529
+      ],
+      "text": "CAO HUY GIÚ BẰNG THANH THỊ",
+      "confidence": 0.8038
+    },
+    {
+      "line_id": "0355_viet_019",
+      "bbox": [
+        [
+          184,
+          1589
+        ],
+        [
+          365,
+          1594
+        ],
+        [
+          365,
+          1624
+        ],
+        [
+          183,
+          1619
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1744
+        ],
+        [
+          365,
+          1749
+        ],
+        [
+          365,
+          1779
+        ],
+        [
+          183,
+          1774
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1589,
+        365,
+        1624
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0355_viet_020",
+      "bbox": [
+        [
+          661,
+          1630
+        ],
+        [
+          948,
+          1630
+        ],
+        [
+          948,
+          1660
+        ],
+        [
+          661,
+          1660
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          1785
+        ],
+        [
+          948,
+          1785
+        ],
+        [
+          948,
+          1815
+        ],
+        [
+          661,
+          1815
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        1630,
+        948,
+        1660
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.8952
+    },
+    {
+      "line_id": "0355_viet_021",
+      "bbox": [
+        [
+          179,
+          1688
+        ],
+        [
+          1404,
+          1685
+        ],
+        [
+          1404,
+          1722
+        ],
+        [
+          179,
+          1724
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1843
+        ],
+        [
+          1404,
+          1840
+        ],
+        [
+          1404,
+          1877
+        ],
+        [
+          179,
+          1879
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1685,
+        1404,
+        1724
+      ],
+      "text": "(1), Đầu đẻ do chúng tôi thêm: Lý Trác : làm An-nam đô hộ phủ dười thời Tùy Đường, rất nhiều thế",
+      "confidence": 0.8375
+    },
+    {
+      "line_id": "0355_viet_022",
+      "bbox": [
+        [
+          244,
+          1724
+        ],
+        [
+          1303,
+          1722
+        ],
+        [
+          1303,
+          1758
+        ],
+        [
+          244,
+          1760
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1879
+        ],
+        [
+          1303,
+          1877
+        ],
+        [
+          1303,
+          1913
+        ],
+        [
+          244,
+          1915
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1722,
+        1303,
+        1760
+      ],
+      "text": "tham tân bao ngược nên người Man cản giận dẫn đường cho người Nam-chiếu",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0355_viet_023",
+      "bbox": [
+        [
+          246,
+          1760
+        ],
+        [
+          1404,
+          1760
+        ],
+        [
+          1404,
+          1797
+        ],
+        [
+          246,
+          1797
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1915
+        ],
+        [
+          1404,
+          1915
+        ],
+        [
+          1404,
+          1952
+        ],
+        [
+          246,
+          1952
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1760,
+        1404,
+        1797
+      ],
+      "text": "đến đánh phá biên giơi, Cao Biền: năm 864, vùa Đường cử Biền sang đánh quân",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0355_viet_024",
+      "bbox": [
+        [
+          248,
+          1801
+        ],
+        [
+          1406,
+          1801
+        ],
+        [
+          1406,
+          1831
+        ],
+        [
+          248,
+          1831
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1956
+        ],
+        [
+          1406,
+          1956
+        ],
+        [
+          1406,
+          1986
+        ],
+        [
+          248,
+          1986
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1801,
+        1406,
+        1831
+      ],
+      "text": "Nam-chiếu và cho làm Tình hải quân tiết độ sử, cai trị nước ta, sau đó Biển xưng",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0355_viet_025",
+      "bbox": [
+        [
+          248,
+          1840
+        ],
+        [
+          566,
+          1840
+        ],
+        [
+          566,
+          1870
+        ],
+        [
+          248,
+          1870
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1995
+        ],
+        [
+          566,
+          1995
+        ],
+        [
+          566,
+          2025
+        ],
+        [
+          248,
+          2025
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1840,
+        566,
+        1870
+      ],
+      "text": "virong và đắp la-thanh",
+      "confidence": 0.8649
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRAN",
+      "117",
+      "HZM KHI LÊ KHI THỊ THẾ THẾ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ",
+      "THIỆN VI QUỐC GIẢ LUẬN",
+      "Nhất Lý Trác chi tham bao, Trí số thập niên Man khấu chi hoạn, huống",
+      "thậm ngược ir Lý Trác giả hồ ? Nhất Cao Biềa chị đốc thuộc, trảm số thập vạn",
+      "tác chúng chi cường, huống hiền ư Cao Biên giả hồ 7 Có Trác bất năng tự bảo,",
+      "nhi biền cứ thành xưng vương",
+      "Thiện vi quốc giả đương cần trạch yên"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ NGƯỜI GIỎI TRỊ NƯỚC ()",
+      "Có một Lý Trác tham bạo mà đến đến nỗi gây nền mối họa giặc Man",
+      "Thuận quấy nhiều đến mấy chục năm, huống chi là kẽ bạo ngược hơn Lý Trác ? Có",
+      "một Cao Biền đốc suất thuộc tướng mà có thể giết được vài mươi vạn quân",
+      "Thế giặc hùng mạnh, huống chi là kẻ giỏi hơn Cao Biền % Cho nên Trác không thể nhiều",
+      "bảo, toàn được thân mình mà Cao Biền giữ thành xưng vương.",
+      "Kẻ khẻo tri nước phải nên lửa chon cho cần thân",
+      "CAO HUY GIÚ BẰNG THANH THỊ",
+      "CHỦ THÍCH",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1), Đầu đẻ do chúng tôi thêm: Lý Trác : làm An-nam đô hộ phủ dười thời Tùy Đường, rất nhiều thế",
+      "tham tân bao ngược nên người Man cản giận dẫn đường cho người Nam-chiếu",
+      "đến đánh phá biên giơi, Cao Biền: năm 864, vùa Đường cử Biền sang đánh quân",
+      "Nam-chiếu và cho làm Tình hải quân tiết độ sử, cai trị nước ta, sau đó Biển xưng",
+      "virong và đắp la-thanh"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

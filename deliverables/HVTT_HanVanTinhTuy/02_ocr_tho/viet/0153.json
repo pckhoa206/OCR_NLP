@@ -1,0 +1,450 @@
+{
+  "page_id": "0153",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 153,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0153_viet_000",
+      "bbox": [
+        [
+          471,
+          273
+        ],
+        [
+          722,
+          273
+        ],
+        [
+          722,
+          318
+        ],
+        [
+          471,
+          318
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          394
+        ],
+        [
+          722,
+          394
+        ],
+        [
+          722,
+          439
+        ],
+        [
+          471,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        273,
+        722,
+        318
+      ],
+      "text": "19 thị thị thuận thị thuận thuận thuận thuận thiên thiên than miên                                                  ",
+      "confidence": 0.3901
+    },
+    {
+      "line_id": "0153_viet_001",
+      "bbox": [
+        [
+          349,
+          363
+        ],
+        [
+          837,
+          363
+        ],
+        [
+          837,
+          397
+        ],
+        [
+          349,
+          397
+        ]
+      ],
+      "bbox_original": [
+        [
+          349,
+          484
+        ],
+        [
+          837,
+          484
+        ],
+        [
+          837,
+          518
+        ],
+        [
+          349,
+          518
+        ]
+      ],
+      "box_xyxy": [
+        349,
+        363,
+        837,
+        397
+      ],
+      "text": "ĐIỀU CỔ CHIẾN-TRƯỜNG",
+      "confidence": 0.9176
+    },
+    {
+      "line_id": "0153_viet_002",
+      "bbox": [
+        [
+          295,
+          502
+        ],
+        [
+          896,
+          504
+        ],
+        [
+          896,
+          537
+        ],
+        [
+          295,
+          536
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          623
+        ],
+        [
+          896,
+          625
+        ],
+        [
+          896,
+          658
+        ],
+        [
+          295,
+          657
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        502,
+        896,
+        537
+      ],
+      "text": "VIỆNG BÃI CHIẾN-TRƯỜNG XƯA",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0153_viet_003",
+      "bbox": [
+        [
+          804,
+          610
+        ],
+        [
+          920,
+          605
+        ],
+        [
+          922,
+          661
+        ],
+        [
+          807,
+          665
+        ]
+      ],
+      "bbox_original": [
+        [
+          804,
+          731
+        ],
+        [
+          920,
+          726
+        ],
+        [
+          922,
+          782
+        ],
+        [
+          807,
+          786
+        ]
+      ],
+      "box_xyxy": [
+        804,
+        605,
+        922,
+        665
+      ],
+      "text": "ý",
+      "confidence": 0.0808
+    },
+    {
+      "line_id": "0153_viet_004",
+      "bbox": [
+        [
+          810,
+          690
+        ],
+        [
+          925,
+          690
+        ],
+        [
+          925,
+          726
+        ],
+        [
+          810,
+          726
+        ]
+      ],
+      "bbox_original": [
+        [
+          810,
+          811
+        ],
+        [
+          925,
+          811
+        ],
+        [
+          925,
+          847
+        ],
+        [
+          810,
+          847
+        ]
+      ],
+      "box_xyxy": [
+        810,
+        690,
+        925,
+        726
+      ],
+      "text": "Lý-Hoa",
+      "confidence": 0.9379
+    },
+    {
+      "line_id": "0153_viet_005",
+      "bbox": [
+        [
+          225,
+          1008
+        ],
+        [
+          991,
+          1015
+        ],
+        [
+          990,
+          1053
+        ],
+        [
+          224,
+          1046
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1129
+        ],
+        [
+          991,
+          1136
+        ],
+        [
+          990,
+          1174
+        ],
+        [
+          224,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1008,
+        991,
+        1053
+      ],
+      "text": "TIỂU-DẪN. - LÝ HOA, TỰ HÀ-THÚC, ĐỖ TIÊN-SĨ ĐỜI",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0153_viet_006",
+      "bbox": [
+        [
+          196,
+          1065
+        ],
+        [
+          991,
+          1066
+        ],
+        [
+          991,
+          1105
+        ],
+        [
+          196,
+          1103
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1186
+        ],
+        [
+          991,
+          1187
+        ],
+        [
+          991,
+          1226
+        ],
+        [
+          196,
+          1224
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1065,
+        991,
+        1105
+      ],
+      "text": "Khai-nguyên nhà đường, làm quan đến chức giám-sát",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0153_viet_007",
+      "bbox": [
+        [
+          196,
+          1122
+        ],
+        [
+          992,
+          1118
+        ],
+        [
+          992,
+          1157
+        ],
+        [
+          196,
+          1160
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1243
+        ],
+        [
+          992,
+          1239
+        ],
+        [
+          992,
+          1278
+        ],
+        [
+          196,
+          1281
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1118,
+        992,
+        1160
+      ],
+      "text": "ngự-sử. Sau bị quyền-thần ghen-ghét, ông cáo quan về",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0153_viet_008",
+      "bbox": [
+        [
+          196,
+          1174
+        ],
+        [
+          536,
+          1170
+        ],
+        [
+          537,
+          1205
+        ],
+        [
+          196,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1295
+        ],
+        [
+          536,
+          1291
+        ],
+        [
+          537,
+          1326
+        ],
+        [
+          196,
+          1330
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1170,
+        537,
+        1209
+      ],
+      "text": "sông cuộc đời nhàn-tản",
+      "confidence": 0.9211
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

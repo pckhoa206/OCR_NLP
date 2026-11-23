@@ -1,0 +1,1290 @@
+{
+  "page_id": "0138",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 138,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0138_viet_000",
+      "bbox": [
+        [
+          194,
+          37
+        ],
+        [
+          248,
+          37
+        ],
+        [
+          248,
+          70
+        ],
+        [
+          194,
+          70
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          158
+        ],
+        [
+          248,
+          158
+        ],
+        [
+          248,
+          191
+        ],
+        [
+          194,
+          191
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        37,
+        248,
+        70
+      ],
+      "text": "132",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0138_viet_001",
+      "bbox": [
+        [
+          670,
+          37
+        ],
+        [
+          991,
+          37
+        ],
+        [
+          991,
+          65
+        ],
+        [
+          670,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          158
+        ],
+        [
+          991,
+          158
+        ],
+        [
+          991,
+          186
+        ],
+        [
+          670,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        37,
+        991,
+        65
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0138_viet_002",
+      "bbox": [
+        [
+          250,
+          139
+        ],
+        [
+          780,
+          139
+        ],
+        [
+          780,
+          177
+        ],
+        [
+          250,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          260
+        ],
+        [
+          780,
+          260
+        ],
+        [
+          780,
+          298
+        ],
+        [
+          250,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        139,
+        780,
+        177
+      ],
+      "text": "0361980002200222",
+      "confidence": 0.2621
+    },
+    {
+      "line_id": "0138_viet_003",
+      "bbox": [
+        [
+          230,
+          192
+        ],
+        [
+          933,
+          194
+        ],
+        [
+          933,
+          229
+        ],
+        [
+          229,
+          228
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          313
+        ],
+        [
+          933,
+          315
+        ],
+        [
+          933,
+          350
+        ],
+        [
+          229,
+          349
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        192,
+        933,
+        229
+      ],
+      "text": "Ca đài noãn hưởng, xuân quang dung dung",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0138_viet_004",
+      "bbox": [
+        [
+          223,
+          238
+        ],
+        [
+          852,
+          238
+        ],
+        [
+          852,
+          276
+        ],
+        [
+          223,
+          276
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          359
+        ],
+        [
+          852,
+          359
+        ],
+        [
+          852,
+          397
+        ],
+        [
+          223,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        238,
+        852,
+        276
+      ],
+      "text": "Trên đài ca, tiềng vang âm như nắng xuân",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0138_viet_005",
+      "bbox": [
+        [
+          250,
+          318
+        ],
+        [
+          776,
+          318
+        ],
+        [
+          776,
+          357
+        ],
+        [
+          250,
+          357
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          439
+        ],
+        [
+          776,
+          439
+        ],
+        [
+          776,
+          478
+        ],
+        [
+          250,
+          478
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        318,
+        776,
+        357
+      ],
+      "text": "5 thánh thị",
+      "confidence": 0.3589
+    },
+    {
+      "line_id": "0138_viet_006",
+      "bbox": [
+        [
+          231,
+          370
+        ],
+        [
+          778,
+          370
+        ],
+        [
+          778,
+          408
+        ],
+        [
+          231,
+          408
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          491
+        ],
+        [
+          778,
+          491
+        ],
+        [
+          778,
+          529
+        ],
+        [
+          231,
+          529
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        370,
+        778,
+        408
+      ],
+      "text": "Vũ điện lãnh tu, phong vũ thê thê",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0138_viet_007",
+      "bbox": [
+        [
+          221,
+          413
+        ],
+        [
+          461,
+          417
+        ],
+        [
+          460,
+          450
+        ],
+        [
+          221,
+          447
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          534
+        ],
+        [
+          461,
+          538
+        ],
+        [
+          460,
+          571
+        ],
+        [
+          221,
+          568
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        413,
+        461,
+        450
+      ],
+      "text": "Dưới điện múa,",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0138_viet_008",
+      "bbox": [
+        [
+          223,
+          460
+        ],
+        [
+          985,
+          459
+        ],
+        [
+          986,
+          499
+        ],
+        [
+          223,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          581
+        ],
+        [
+          985,
+          580
+        ],
+        [
+          986,
+          620
+        ],
+        [
+          223,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        459,
+        986,
+        501
+      ],
+      "text": "những ồng tay áo lạnh như vừa qua con mưa gió",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0138_viet_009",
+      "bbox": [
+        [
+          230,
+          589
+        ],
+        [
+          851,
+          593
+        ],
+        [
+          850,
+          626
+        ],
+        [
+          229,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          710
+        ],
+        [
+          851,
+          714
+        ],
+        [
+          850,
+          747
+        ],
+        [
+          229,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        589,
+        851,
+        626
+      ],
+      "text": "Nhất nhật chi nội, nhất cung chi gian",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0138_viet_010",
+      "bbox": [
+        [
+          246,
+          663
+        ],
+        [
+          569,
+          663
+        ],
+        [
+          569,
+          703
+        ],
+        [
+          246,
+          703
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          784
+        ],
+        [
+          569,
+          784
+        ],
+        [
+          569,
+          824
+        ],
+        [
+          246,
+          824
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        663,
+        569,
+        703
+      ],
+      "text": "Trên Thị Trung",
+      "confidence": 0.5142
+    },
+    {
+      "line_id": "0138_viet_011",
+      "bbox": [
+        [
+          229,
+          716
+        ],
+        [
+          538,
+          716
+        ],
+        [
+          538,
+          750
+        ],
+        [
+          229,
+          750
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          837
+        ],
+        [
+          538,
+          837
+        ],
+        [
+          538,
+          871
+        ],
+        [
+          229,
+          871
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        716,
+        538,
+        750
+      ],
+      "text": "nhi khí hậu bất tề.",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0138_viet_012",
+      "bbox": [
+        [
+          222,
+          758
+        ],
+        [
+          466,
+          764
+        ],
+        [
+          465,
+          804
+        ],
+        [
+          221,
+          798
+        ]
+      ],
+      "bbox_original": [
+        [
+          222,
+          879
+        ],
+        [
+          466,
+          885
+        ],
+        [
+          465,
+          925
+        ],
+        [
+          221,
+          919
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        758,
+        466,
+        804
+      ],
+      "text": "Trong một ngày,",
+      "confidence": 0.9003
+    },
+    {
+      "line_id": "0138_viet_013",
+      "bbox": [
+        [
+          223,
+          809
+        ],
+        [
+          833,
+          805
+        ],
+        [
+          834,
+          840
+        ],
+        [
+          223,
+          844
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          930
+        ],
+        [
+          833,
+          926
+        ],
+        [
+          834,
+          961
+        ],
+        [
+          223,
+          965
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        805,
+        834,
+        844
+      ],
+      "text": "tại một cung mà khí-hậu không đều nhau",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0138_viet_014",
+      "bbox": [
+        [
+          245,
+          880
+        ],
+        [
+          776,
+          884
+        ],
+        [
+          776,
+          924
+        ],
+        [
+          245,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1001
+        ],
+        [
+          776,
+          1005
+        ],
+        [
+          776,
+          1045
+        ],
+        [
+          245,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        880,
+        776,
+        924
+      ],
+      "text": "0000000000032",
+      "confidence": 0.3203
+    },
+    {
+      "line_id": "0138_viet_015",
+      "bbox": [
+        [
+          228,
+          936
+        ],
+        [
+          933,
+          939
+        ],
+        [
+          933,
+          974
+        ],
+        [
+          228,
+          971
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1057
+        ],
+        [
+          933,
+          1060
+        ],
+        [
+          933,
+          1095
+        ],
+        [
+          228,
+          1092
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        936,
+        933,
+        974
+      ],
+      "text": "Phi tần tường dựng, vương tử hoàng tôn,",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0138_viet_016",
+      "bbox": [
+        [
+          246,
+          1011
+        ],
+        [
+          778,
+          1013
+        ],
+        [
+          778,
+          1053
+        ],
+        [
+          246,
+          1051
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1132
+        ],
+        [
+          778,
+          1134
+        ],
+        [
+          778,
+          1174
+        ],
+        [
+          246,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1011,
+        778,
+        1053
+      ],
+      "text": "MFAFFERXXX",
+      "confidence": 0.3544
+    },
+    {
+      "line_id": "0138_viet_017",
+      "bbox": [
+        [
+          229,
+          1066
+        ],
+        [
+          721,
+          1066
+        ],
+        [
+          721,
+          1100
+        ],
+        [
+          229,
+          1100
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1187
+        ],
+        [
+          721,
+          1187
+        ],
+        [
+          721,
+          1221
+        ],
+        [
+          229,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1066,
+        721,
+        1100
+      ],
+      "text": "từ lâu hạ điện, liễn lai u Tần",
+      "confidence": 0.8911
+    },
+    {
+      "line_id": "0138_viet_018",
+      "bbox": [
+        [
+          223,
+          1110
+        ],
+        [
+          986,
+          1112
+        ],
+        [
+          985,
+          1152
+        ],
+        [
+          223,
+          1150
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1231
+        ],
+        [
+          986,
+          1233
+        ],
+        [
+          985,
+          1273
+        ],
+        [
+          223,
+          1271
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1110,
+        986,
+        1152
+      ],
+      "text": "Các bà phi-tần, mạng phụ, các ông vương tử, hoàng",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0138_viet_019",
+      "bbox": [
+        [
+          193,
+          1153
+        ],
+        [
+          987,
+          1158
+        ],
+        [
+          987,
+          1197
+        ],
+        [
+          192,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1274
+        ],
+        [
+          987,
+          1279
+        ],
+        [
+          987,
+          1318
+        ],
+        [
+          192,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1153,
+        987,
+        1197
+      ],
+      "text": "tôn (của sáu nước) dời lầu, xuông điện, côi xe về hàng",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0138_viet_020",
+      "bbox": [
+        [
+          196,
+          1200
+        ],
+        [
+          326,
+          1200
+        ],
+        [
+          326,
+          1230
+        ],
+        [
+          196,
+          1230
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1321
+        ],
+        [
+          326,
+          1321
+        ],
+        [
+          326,
+          1351
+        ],
+        [
+          196,
+          1351
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1200,
+        326,
+        1230
+      ],
+      "text": "nhà tân",
+      "confidence": 0.8465
+    },
+    {
+      "line_id": "0138_viet_021",
+      "bbox": [
+        [
+          245,
+          1274
+        ],
+        [
+          778,
+          1276
+        ],
+        [
+          778,
+          1316
+        ],
+        [
+          245,
+          1314
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1395
+        ],
+        [
+          778,
+          1397
+        ],
+        [
+          778,
+          1437
+        ],
+        [
+          245,
+          1435
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1274,
+        778,
+        1316
+      ],
+      "text": "Rigưe (Ex",
+      "confidence": 0.367
+    },
+    {
+      "line_id": "0138_viet_022",
+      "bbox": [
+        [
+          228,
+          1327
+        ],
+        [
+          822,
+          1329
+        ],
+        [
+          822,
+          1364
+        ],
+        [
+          228,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1448
+        ],
+        [
+          822,
+          1450
+        ],
+        [
+          822,
+          1485
+        ],
+        [
+          228,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1327,
+        822,
+        1364
+      ],
+      "text": "Triều ca dạ huyền, vi tần cung nhân",
+      "confidence": 0.8965
+    },
+    {
+      "line_id": "0138_viet_023",
+      "bbox": [
+        [
+          219,
+          1373
+        ],
+        [
+          987,
+          1376
+        ],
+        [
+          987,
+          1416
+        ],
+        [
+          219,
+          1413
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1494
+        ],
+        [
+          987,
+          1497
+        ],
+        [
+          987,
+          1537
+        ],
+        [
+          219,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1373,
+        987,
+        1416
+      ],
+      "text": "(Những bà đó) ngày nay sớm hát, tôi đàn, làm cung",
+      "confidence": 0.9335
+    },
+    {
+      "line_id": "0138_viet_024",
+      "bbox": [
+        [
+          193,
+          1418
+        ],
+        [
+          474,
+          1420
+        ],
+        [
+          474,
+          1453
+        ],
+        [
+          192,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          1539
+        ],
+        [
+          474,
+          1541
+        ],
+        [
+          474,
+          1574
+        ],
+        [
+          192,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1418,
+        474,
+        1453
+      ],
+      "text": "nhân cho vua tần",
+      "confidence": 0.9154
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "132",
+      "0361980002200222",
+      "Trên đài ca, tiềng vang âm như nắng xuân",
+      "Vũ điện lãnh tu, phong vũ thê thê",
+      "những ồng tay áo lạnh như vừa qua con mưa gió",
+      "Trên Thị Trung",
+      "Trong một ngày,",
+      "0000000000032",
+      "MFAFFERXXX",
+      "Các bà phi-tần, mạng phụ, các ông vương tử, hoàng",
+      "nhà tân",
+      "Triều ca dạ huyền, vi tần cung nhân"
+    ],
+    "dich_nghia_lines": [
+      "nhân cho vua tần"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "歌台股響春光融",
+        "phien_am": "132",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "舞股冷袖風雨婆婆",
+        "phien_am": "0361980002200222",
+        "dich_nghia_gloss": "Ca đài noãn hưởng, xuân quang dung dung"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "日",
+        "phien_am": "Trên đài ca, tiềng vang âm như nắng xuân",
+        "dich_nghia_gloss": "5 thánh thị"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "之內一宮之",
+        "phien_am": "Vũ điện lãnh tu, phong vũ thê thê",
+        "dich_nghia_gloss": "Dưới điện múa,"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "間",
+        "phien_am": "những ồng tay áo lạnh như vừa qua con mưa gió",
+        "dich_nghia_gloss": "Nhất nhật chi nội, nhất cung chi gian"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "而氣侯不齊",
+        "phien_am": "Trên Thị Trung",
+        "dich_nghia_gloss": "nhi khí hậu bất tề."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "妃嬪",
+        "phien_am": "Trong một ngày,",
+        "dich_nghia_gloss": "tại một cung mà khí-hậu không đều nhau"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "嫡勝玉子皇孫",
+        "phien_am": "0000000000032",
+        "dich_nghia_gloss": "Phi tần tường dựng, vương tử hoàng tôn,"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "辭樓下興股擊來玲興秦",
+        "phien_am": "MFAFFERXXX",
+        "dich_nghia_gloss": "từ lâu hạ điện, liễn lai u Tần"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "北",
+        "phien_am": "Các bà phi-tần, mạng phụ, các ông vương tử, hoàng",
+        "dich_nghia_gloss": "tôn (của sáu nước) dời lầu, xuông điện, côi xe về hàng"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "朝歌夜鉉為秦宮",
+        "phien_am": "nhà tân",
+        "dich_nghia_gloss": "Rigưe (Ex"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "人",
+        "phien_am": "Triều ca dạ huyền, vi tần cung nhân",
+        "dich_nghia_gloss": "(Những bà đó) ngày nay sớm hát, tôi đàn, làm cung"
+      }
+    ]
+  }
+}

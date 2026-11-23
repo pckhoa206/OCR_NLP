@@ -1,0 +1,1368 @@
+{
+  "page_id": "0116",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 116,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0116_viet_000",
+      "bbox": [
+        [
+          194,
+          30
+        ],
+        [
+          248,
+          30
+        ],
+        [
+          248,
+          64
+        ],
+        [
+          194,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          151
+        ],
+        [
+          248,
+          151
+        ],
+        [
+          248,
+          185
+        ],
+        [
+          194,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        30,
+        248,
+        64
+      ],
+      "text": "110",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0116_viet_001",
+      "bbox": [
+        [
+          670,
+          33
+        ],
+        [
+          989,
+          33
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          670,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          154
+        ],
+        [
+          989,
+          154
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          670,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        33,
+        989,
+        62
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0116_viet_002",
+      "bbox": [
+        [
+          250,
+          137
+        ],
+        [
+          638,
+          137
+        ],
+        [
+          638,
+          177
+        ],
+        [
+          250,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          258
+        ],
+        [
+          638,
+          258
+        ],
+        [
+          638,
+          298
+        ],
+        [
+          250,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        137,
+        638,
+        177
+      ],
+      "text": "11 4 M Me",
+      "confidence": 0.6691
+    },
+    {
+      "line_id": "0116_viet_003",
+      "bbox": [
+        [
+          225,
+          186
+        ],
+        [
+          625,
+          194
+        ],
+        [
+          624,
+          230
+        ],
+        [
+          224,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          307
+        ],
+        [
+          625,
+          315
+        ],
+        [
+          624,
+          351
+        ],
+        [
+          224,
+          342
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        186,
+        625,
+        230
+      ],
+      "text": "Phi tú thát, phủ điêu mang.",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0116_viet_004",
+      "bbox": [
+        [
+          221,
+          231
+        ],
+        [
+          748,
+          234
+        ],
+        [
+          747,
+          275
+        ],
+        [
+          221,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          352
+        ],
+        [
+          748,
+          355
+        ],
+        [
+          747,
+          396
+        ],
+        [
+          221,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        231,
+        748,
+        275
+      ],
+      "text": "Mở rộng cửa tô, cúi xem cột chạm",
+      "confidence": 0.9344
+    },
+    {
+      "line_id": "0116_viet_005",
+      "bbox": [
+        [
+          250,
+          295
+        ],
+        [
+          982,
+          295
+        ],
+        [
+          982,
+          335
+        ],
+        [
+          250,
+          335
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          416
+        ],
+        [
+          982,
+          416
+        ],
+        [
+          982,
+          456
+        ],
+        [
+          250,
+          456
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        295,
+        982,
+        335
+      ],
+      "text": "LẦ 2011 FL FILE",
+      "confidence": 0.3933
+    },
+    {
+      "line_id": "0116_viet_006",
+      "bbox": [
+        [
+          226,
+          343
+        ],
+        [
+          719,
+          347
+        ],
+        [
+          719,
+          387
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          464
+        ],
+        [
+          719,
+          468
+        ],
+        [
+          719,
+          508
+        ],
+        [
+          226,
+          504
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        343,
+        719,
+        387
+      ],
+      "text": "Sơn nguyễn khoáng kỳ doanh thị",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0116_viet_007",
+      "bbox": [
+        [
+          228,
+          395
+        ],
+        [
+          631,
+          395
+        ],
+        [
+          631,
+          430
+        ],
+        [
+          228,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          516
+        ],
+        [
+          631,
+          516
+        ],
+        [
+          631,
+          551
+        ],
+        [
+          228,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        395,
+        631,
+        430
+      ],
+      "text": "Xuyên trạch hu kỳ hãi chúc",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0116_viet_008",
+      "bbox": [
+        [
+          196,
+          435
+        ],
+        [
+          989,
+          435
+        ],
+        [
+          989,
+          480
+        ],
+        [
+          196,
+          480
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          556
+        ],
+        [
+          989,
+          556
+        ],
+        [
+          989,
+          601
+        ],
+        [
+          196,
+          601
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        435,
+        989,
+        480
+      ],
+      "text": "- Đồng núi trông rộng khắp, sông đầm nhìn hãi kinh.",
+      "confidence": 0.9011
+    },
+    {
+      "line_id": "0116_viet_009",
+      "bbox": [
+        [
+          250,
+          499
+        ],
+        [
+          916,
+          501
+        ],
+        [
+          916,
+          541
+        ],
+        [
+          250,
+          539
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          620
+        ],
+        [
+          916,
+          622
+        ],
+        [
+          916,
+          662
+        ],
+        [
+          250,
+          660
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        499,
+        916,
+        541
+      ],
+      "text": "K] Mẽ % 5 về vé (2",
+      "confidence": 0.4929
+    },
+    {
+      "line_id": "0116_viet_010",
+      "bbox": [
+        [
+          226,
+          552
+        ],
+        [
+          959,
+          554
+        ],
+        [
+          958,
+          589
+        ],
+        [
+          226,
+          588
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          673
+        ],
+        [
+          959,
+          675
+        ],
+        [
+          958,
+          710
+        ],
+        [
+          226,
+          709
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        552,
+        959,
+        589
+      ],
+      "text": "Lư diêm phác địa, chung minh đỉnh thực chỉ gia",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0116_viet_011",
+      "bbox": [
+        [
+          225,
+          596
+        ],
+        [
+          572,
+          599
+        ],
+        [
+          572,
+          640
+        ],
+        [
+          224,
+          636
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          717
+        ],
+        [
+          572,
+          720
+        ],
+        [
+          572,
+          761
+        ],
+        [
+          224,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        596,
+        572,
+        640
+      ],
+      "text": "Cửa ngô giăng mặt đất,",
+      "confidence": 0.8838
+    },
+    {
+      "line_id": "0116_viet_012",
+      "bbox": [
+        [
+          223,
+          641
+        ],
+        [
+          812,
+          646
+        ],
+        [
+          811,
+          685
+        ],
+        [
+          223,
+          680
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          762
+        ],
+        [
+          812,
+          767
+        ],
+        [
+          811,
+          806
+        ],
+        [
+          223,
+          801
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        641,
+        812,
+        685
+      ],
+      "text": "đó là những nhà rung chuông, bày vạc;",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0116_viet_013",
+      "bbox": [
+        [
+          226,
+          757
+        ],
+        [
+          930,
+          760
+        ],
+        [
+          930,
+          794
+        ],
+        [
+          226,
+          790
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          878
+        ],
+        [
+          930,
+          881
+        ],
+        [
+          930,
+          915
+        ],
+        [
+          226,
+          911
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        757,
+        930,
+        794
+      ],
+      "text": "A hạm mê tân, thanh-tước hoàng-long chi trục",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0116_viet_014",
+      "bbox": [
+        [
+          223,
+          796
+        ],
+        [
+          594,
+          805
+        ],
+        [
+          593,
+          844
+        ],
+        [
+          222,
+          835
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          917
+        ],
+        [
+          594,
+          926
+        ],
+        [
+          593,
+          965
+        ],
+        [
+          222,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        796,
+        594,
+        844
+      ],
+      "text": "thuyền bè chật bên sông",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0116_viet_015",
+      "bbox": [
+        [
+          221,
+          844
+        ],
+        [
+          763,
+          849
+        ],
+        [
+          762,
+          889
+        ],
+        [
+          221,
+          884
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          965
+        ],
+        [
+          763,
+          970
+        ],
+        [
+          762,
+          1010
+        ],
+        [
+          221,
+          1005
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        844,
+        763,
+        889
+      ],
+      "text": "trục về chim sẻ xanh, con rồng vàng",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0116_viet_016",
+      "bbox": [
+        [
+          246,
+          911
+        ],
+        [
+          776,
+          911
+        ],
+        [
+          776,
+          949
+        ],
+        [
+          246,
+          949
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1032
+        ],
+        [
+          776,
+          1032
+        ],
+        [
+          776,
+          1070
+        ],
+        [
+          246,
+          1070
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        911,
+        776,
+        949
+      ],
+      "text": "kr chí x 2 tế đếm m",
+      "confidence": 0.4615
+    },
+    {
+      "line_id": "0116_viet_017",
+      "bbox": [
+        [
+          226,
+          963
+        ],
+        [
+          717,
+          963
+        ],
+        [
+          717,
+          996
+        ],
+        [
+          226,
+          996
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1084
+        ],
+        [
+          717,
+          1084
+        ],
+        [
+          717,
+          1117
+        ],
+        [
+          226,
+          1117
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        963,
+        717,
+        996
+      ],
+      "text": "Hồng tiêu vũ tế, thái triệt vân cùng",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0116_viet_018",
+      "bbox": [
+        [
+          226,
+          1006
+        ],
+        [
+          660,
+          1008
+        ],
+        [
+          660,
+          1043
+        ],
+        [
+          226,
+          1041
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1127
+        ],
+        [
+          660,
+          1129
+        ],
+        [
+          660,
+          1164
+        ],
+        [
+          226,
+          1162
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1006,
+        660,
+        1043
+      ],
+      "text": "Cầu vồng tan, con mưa tạnh,",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0116_viet_019",
+      "bbox": [
+        [
+          226,
+          1051
+        ],
+        [
+          663,
+          1055
+        ],
+        [
+          663,
+          1090
+        ],
+        [
+          226,
+          1086
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1172
+        ],
+        [
+          663,
+          1176
+        ],
+        [
+          663,
+          1211
+        ],
+        [
+          226,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1051,
+        663,
+        1090
+      ],
+      "text": "vẻ rực sáng, suốt đường mấy",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0116_viet_020",
+      "bbox": [
+        [
+          229,
+          1167
+        ],
+        [
+          579,
+          1167
+        ],
+        [
+          579,
+          1202
+        ],
+        [
+          229,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1288
+        ],
+        [
+          579,
+          1288
+        ],
+        [
+          579,
+          1323
+        ],
+        [
+          229,
+          1323
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1167,
+        579,
+        1202
+      ],
+      "text": "Lạc hà dữ cố vụ tê phi.",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0116_viet_021",
+      "bbox": [
+        [
+          227,
+          1205
+        ],
+        [
+          552,
+          1210
+        ],
+        [
+          551,
+          1251
+        ],
+        [
+          226,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1326
+        ],
+        [
+          552,
+          1331
+        ],
+        [
+          551,
+          1372
+        ],
+        [
+          226,
+          1366
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1205,
+        552,
+        1251
+      ],
+      "text": "Ráng chiều rơi xuồng",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0116_viet_022",
+      "bbox": [
+        [
+          224,
+          1257
+        ],
+        [
+          688,
+          1255
+        ],
+        [
+          689,
+          1291
+        ],
+        [
+          225,
+          1292
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1378
+        ],
+        [
+          688,
+          1376
+        ],
+        [
+          689,
+          1412
+        ],
+        [
+          225,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1255,
+        689,
+        1292
+      ],
+      "text": "cùng cái cò đơn chiếc đều bay:",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0116_viet_023",
+      "bbox": [
+        [
+          246,
+          1317
+        ],
+        [
+          705,
+          1317
+        ],
+        [
+          705,
+          1358
+        ],
+        [
+          246,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1438
+        ],
+        [
+          705,
+          1438
+        ],
+        [
+          705,
+          1479
+        ],
+        [
+          246,
+          1479
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1317,
+        705,
+        1358
+      ],
+      "text": "PX % %R R 2",
+      "confidence": 0.3401
+    },
+    {
+      "line_id": "0116_viet_024",
+      "bbox": [
+        [
+          226,
+          1369
+        ],
+        [
+          769,
+          1369
+        ],
+        [
+          769,
+          1408
+        ],
+        [
+          226,
+          1408
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1490
+        ],
+        [
+          769,
+          1490
+        ],
+        [
+          769,
+          1529
+        ],
+        [
+          226,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1369,
+        769,
+        1408
+      ],
+      "text": "Thu thủy cộng trường thiên nhất sắc",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0116_viet_025",
+      "bbox": [
+        [
+          223,
+          1413
+        ],
+        [
+          959,
+          1413
+        ],
+        [
+          959,
+          1451
+        ],
+        [
+          223,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1534
+        ],
+        [
+          959,
+          1534
+        ],
+        [
+          959,
+          1572
+        ],
+        [
+          223,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1413,
+        959,
+        1451
+      ],
+      "text": "làn nước sông thu với hàu trời kéo dài một sắc",
+      "confidence": 0.9207
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "110",
+      "11 4 M Me",
+      "Mở rộng cửa tô, cúi xem cột chạm",
+      "Sơn nguyễn khoáng kỳ doanh thị",
+      "- Đồng núi trông rộng khắp, sông đầm nhìn hãi kinh.",
+      "Lư diêm phác địa, chung minh đỉnh thực chỉ gia",
+      "đó là những nhà rung chuông, bày vạc;",
+      "thuyền bè chật bên sông",
+      "kr chí x 2 tế đếm m",
+      "Cầu vồng tan, con mưa tạnh,",
+      "Lạc hà dữ cố vụ tê phi.",
+      "cùng cái cò đơn chiếc đều bay:",
+      "Thu thủy cộng trường thiên nhất sắc"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUÝ",
+      "Phi tú thát, phủ điêu mang.",
+      "LẦ 2011 FL FILE",
+      "Xuyên trạch hu kỳ hãi chúc",
+      "K] Mẽ % 5 về vé (2",
+      "Cửa ngô giăng mặt đất,",
+      "A hạm mê tân, thanh-tước hoàng-long chi trục",
+      "trục về chim sẻ xanh, con rồng vàng",
+      "Hồng tiêu vũ tế, thái triệt vân cùng",
+      "vẻ rực sáng, suốt đường mấy",
+      "Ráng chiều rơi xuồng",
+      "PX % %R R 2",
+      "làn nước sông thu với hàu trời kéo dài một sắc"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "披鋪•聞•俯雕慧",
+        "phien_am": "110",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "M心",
+        "phien_am": "11 4 M Me",
+        "dich_nghia_gloss": "Phi tú thát, phủ điêu mang."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "山原曠其盈視川澤盱其駿賜",
+        "phien_am": "Mở rộng cửa tô, cúi xem cột chạm",
+        "dich_nghia_gloss": "LẦ 2011 FL FILE"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "閻",
+        "phien_am": "Sơn nguyễn khoáng kỳ doanh thị",
+        "dich_nghia_gloss": "Xuyên trạch hu kỳ hãi chúc"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "撲",
+        "phien_am": "- Đồng núi trông rộng khắp, sông đầm nhìn hãi kinh.",
+        "dich_nghia_gloss": "K] Mẽ % 5 về vé (2"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "地鐘鳴鼎",
+        "phien_am": "Lư diêm phác địa, chung minh đỉnh thực chỉ gia",
+        "dich_nghia_gloss": "Cửa ngô giăng mặt đất,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "食之",
+        "phien_am": "đó là những nhà rung chuông, bày vạc;",
+        "dich_nghia_gloss": "A hạm mê tân, thanh-tước hoàng-long chi trục"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "家",
+        "phien_am": "thuyền bè chật bên sông",
+        "dich_nghia_gloss": "trục về chim sẻ xanh, con rồng vàng"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "刑艦迷津青雀黃龍之軸",
+        "phien_am": "kr chí x 2 tế đếm m",
+        "dich_nghia_gloss": "Hồng tiêu vũ tế, thái triệt vân cùng"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "虹鎖雨醫彩徹雲備",
+        "phien_am": "Cầu vồng tan, con mưa tạnh,",
+        "dich_nghia_gloss": "vẻ rực sáng, suốt đường mấy"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "落霞與狐驚貝齊貝飛",
+        "phien_am": "Lạc hà dữ cố vụ tê phi.",
+        "dich_nghia_gloss": "Ráng chiều rơi xuồng"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "加i dico",
+        "phien_am": "cùng cái cò đơn chiếc đều bay:",
+        "dich_nghia_gloss": "PX % %R R 2"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "秋水龍共長龍天—色",
+        "phien_am": "Thu thủy cộng trường thiên nhất sắc",
+        "dich_nghia_gloss": "làn nước sông thu với hàu trời kéo dài một sắc"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "色",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "刀h8r",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

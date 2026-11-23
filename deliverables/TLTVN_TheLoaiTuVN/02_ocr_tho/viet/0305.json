@@ -1,0 +1,1564 @@
+{
+  "page_id": "0305",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 305,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1122,
+    "effective_height": 1525
+  },
+  "items": [
+    {
+      "line_id": "0305_viet_000",
+      "bbox": [
+        [
+          164,
+          24
+        ],
+        [
+          1063,
+          27
+        ],
+        [
+          1063,
+          59
+        ],
+        [
+          164,
+          56
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          139
+        ],
+        [
+          1063,
+          142
+        ],
+        [
+          1063,
+          174
+        ],
+        [
+          164,
+          171
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        24,
+        1063,
+        59
+      ],
+      "text": "Phan Huy Ich lúc nhỏ có tên là Phan Công Huệ, sau vì kiêng nghệ",
+      "confidence": 0.8873
+    },
+    {
+      "line_id": "0305_viet_001",
+      "bbox": [
+        [
+          102,
+          65
+        ],
+        [
+          1065,
+          65
+        ],
+        [
+          1065,
+          102
+        ],
+        [
+          102,
+          102
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          180
+        ],
+        [
+          1065,
+          180
+        ],
+        [
+          1065,
+          217
+        ],
+        [
+          102,
+          217
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        65,
+        1065,
+        102
+      ],
+      "text": "Thuý tên của Đặng Thị Huệ nên khi đi thi đổi thành Phan Huy Ich,",
+      "confidence": 0.8966
+    },
+    {
+      "line_id": "0305_viet_002",
+      "bbox": [
+        [
+          104,
+          105
+        ],
+        [
+          1065,
+          108
+        ],
+        [
+          1065,
+          145
+        ],
+        [
+          104,
+          141
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          220
+        ],
+        [
+          1065,
+          223
+        ],
+        [
+          1065,
+          260
+        ],
+        [
+          104,
+          256
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        105,
+        1065,
+        145
+      ],
+      "text": "Tự là Khiêm Thụ Phủ, hiệu là Dụ Am. Ông xuất thân từ danh môn,",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0305_viet_003",
+      "bbox": [
+        [
+          102,
+          149
+        ],
+        [
+          1065,
+          154
+        ],
+        [
+          1065,
+          186
+        ],
+        [
+          102,
+          181
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          264
+        ],
+        [
+          1065,
+          269
+        ],
+        [
+          1065,
+          301
+        ],
+        [
+          102,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        149,
+        1065,
+        186
+      ],
+      "text": "là con của Tiến sĩ Phan Huy Cần, người làng Thu Hoạch, huyện",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0305_viet_004",
+      "bbox": [
+        [
+          105,
+          192
+        ],
+        [
+          1065,
+          194
+        ],
+        [
+          1065,
+          227
+        ],
+        [
+          105,
+          226
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          307
+        ],
+        [
+          1065,
+          309
+        ],
+        [
+          1065,
+          342
+        ],
+        [
+          105,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        192,
+        1065,
+        227
+      ],
+      "text": "Thiên Lộc, phủ Đức Quang, trân Nghệ An (nay thuộc xã Lộc Thuận)",
+      "confidence": 0.8694
+    },
+    {
+      "line_id": "0305_viet_005",
+      "bbox": [
+        [
+          105,
+          235
+        ],
+        [
+          1065,
+          238
+        ],
+        [
+          1065,
+          272
+        ],
+        [
+          105,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          350
+        ],
+        [
+          1065,
+          353
+        ],
+        [
+          1065,
+          387
+        ],
+        [
+          105,
+          383
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        235,
+        1065,
+        272
+      ],
+      "text": "Châu, huyện Lộc Hà, tỉnh Hà Tĩnh), sau chuyên ra làng Thuy",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0305_viet_006",
+      "bbox": [
+        [
+          105,
+          280
+        ],
+        [
+          1065,
+          280
+        ],
+        [
+          1065,
+          311
+        ],
+        [
+          105,
+          311
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          395
+        ],
+        [
+          1065,
+          395
+        ],
+        [
+          1065,
+          426
+        ],
+        [
+          105,
+          426
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        280,
+        1065,
+        311
+      ],
+      "text": "Xã Khuê, huyện Thạch Thất, tỉnh Sơn Tây (nay thuộc xã Sài Sơn, Nam",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0305_viet_007",
+      "bbox": [
+        [
+          104,
+          319
+        ],
+        [
+          1066,
+          321
+        ],
+        [
+          1066,
+          354
+        ],
+        [
+          104,
+          353
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          434
+        ],
+        [
+          1066,
+          436
+        ],
+        [
+          1066,
+          469
+        ],
+        [
+          104,
+          468
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        319,
+        1066,
+        354
+      ],
+      "text": "10 thuyện Quốc Oai, thành phố Hà Nội), Phan Huy Ich là học trò của Nhà Nội",
+      "confidence": 0.8405
+    },
+    {
+      "line_id": "0305_viet_008",
+      "bbox": [
+        [
+          105,
+          362
+        ],
+        [
+          1065,
+          362
+        ],
+        [
+          1065,
+          399
+        ],
+        [
+          105,
+          399
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          477
+        ],
+        [
+          1065,
+          477
+        ],
+        [
+          1065,
+          514
+        ],
+        [
+          105,
+          514
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        362,
+        1065,
+        399
+      ],
+      "text": "Tiên sĩ Ngô Thì Sĩ ở làng Tả Thanh Oai, huyện Thanh Oai, trấn",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0305_viet_009",
+      "bbox": [
+        [
+          100,
+          402
+        ],
+        [
+          1065,
+          405
+        ],
+        [
+          1065,
+          443
+        ],
+        [
+          100,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          517
+        ],
+        [
+          1065,
+          520
+        ],
+        [
+          1065,
+          558
+        ],
+        [
+          100,
+          555
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        402,
+        1065,
+        443
+      ],
+      "text": "Sơn Nam, một con người được đánh giá là ?Học vấn sâu rộng.",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0305_viet_010",
+      "bbox": [
+        [
+          102,
+          445
+        ],
+        [
+          1065,
+          448
+        ],
+        [
+          1065,
+          486
+        ],
+        [
+          102,
+          483
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          560
+        ],
+        [
+          1065,
+          563
+        ],
+        [
+          1065,
+          601
+        ],
+        [
+          102,
+          598
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        445,
+        1065,
+        486
+      ],
+      "text": "văn chương hùng vĩ? (Phan Huy Chú ? Lịch triều hiến chương",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0305_viet_011",
+      "bbox": [
+        [
+          99,
+          488
+        ],
+        [
+          1065,
+          491
+        ],
+        [
+          1065,
+          529
+        ],
+        [
+          99,
+          526
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          603
+        ],
+        [
+          1065,
+          606
+        ],
+        [
+          1065,
+          644
+        ],
+        [
+          99,
+          641
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        488,
+        1065,
+        529
+      ],
+      "text": "loại chi), Ông lấy con gái Ngô Thì Sĩ, là em rể của Ngô Thì",
+      "confidence": 0.9139
+    },
+    {
+      "line_id": "0305_viet_012",
+      "bbox": [
+        [
+          94,
+          529
+        ],
+        [
+          1065,
+          534
+        ],
+        [
+          1064,
+          572
+        ],
+        [
+          94,
+          567
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          644
+        ],
+        [
+          1065,
+          649
+        ],
+        [
+          1064,
+          687
+        ],
+        [
+          94,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        529,
+        1065,
+        572
+      ],
+      "text": "- Nhậm. Sau, con trai ông là Phan Huy Chú cũng được gửi sang",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0305_viet_013",
+      "bbox": [
+        [
+          104,
+          578
+        ],
+        [
+          491,
+          578
+        ],
+        [
+          491,
+          610
+        ],
+        [
+          104,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          693
+        ],
+        [
+          491,
+          693
+        ],
+        [
+          491,
+          725
+        ],
+        [
+          104,
+          725
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        578,
+        491,
+        610
+      ],
+      "text": "học tại làng tả thanh oai.",
+      "confidence": 0.8681
+    },
+    {
+      "line_id": "0305_viet_014",
+      "bbox": [
+        [
+          163,
+          621
+        ],
+        [
+          1065,
+          620
+        ],
+        [
+          1065,
+          656
+        ],
+        [
+          163,
+          658
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          736
+        ],
+        [
+          1065,
+          735
+        ],
+        [
+          1065,
+          771
+        ],
+        [
+          163,
+          773
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        620,
+        1065,
+        658
+      ],
+      "text": "Phan Huy Ích từ nhỏ nổi tiếng thông minh, 22 tuổi đỗ Giải",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0305_viet_015",
+      "bbox": [
+        [
+          105,
+          667
+        ],
+        [
+          1065,
+          667
+        ],
+        [
+          1065,
+          699
+        ],
+        [
+          105,
+          699
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          782
+        ],
+        [
+          1065,
+          782
+        ],
+        [
+          1065,
+          814
+        ],
+        [
+          105,
+          814
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        667,
+        1065,
+        699
+      ],
+      "text": "19 nguyên (năm Tân Mão, 1771), sau đó được bố làm quan; 26 tuôi thuận thuận",
+      "confidence": 0.8131
+    },
+    {
+      "line_id": "0305_viet_016",
+      "bbox": [
+        [
+          104,
+          704
+        ],
+        [
+          1065,
+          707
+        ],
+        [
+          1065,
+          745
+        ],
+        [
+          104,
+          742
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          819
+        ],
+        [
+          1065,
+          822
+        ],
+        [
+          1065,
+          860
+        ],
+        [
+          104,
+          857
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        704,
+        1065,
+        745
+      ],
+      "text": "đỗ hội nguyên (năm ất mùi, 1775); năm bính thân (1776), đỗ",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0305_viet_017",
+      "bbox": [
+        [
+          104,
+          750
+        ],
+        [
+          360,
+          750
+        ],
+        [
+          360,
+          783
+        ],
+        [
+          104,
+          783
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          865
+        ],
+        [
+          360,
+          865
+        ],
+        [
+          360,
+          898
+        ],
+        [
+          104,
+          898
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        750,
+        360,
+        783
+      ],
+      "text": "khoa thi ứng chế.",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0305_viet_018",
+      "bbox": [
+        [
+          164,
+          797
+        ],
+        [
+          1066,
+          797
+        ],
+        [
+          1066,
+          834
+        ],
+        [
+          164,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          912
+        ],
+        [
+          1066,
+          912
+        ],
+        [
+          1066,
+          949
+        ],
+        [
+          164,
+          949
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        797,
+        1066,
+        834
+      ],
+      "text": "Thoạt tiên, ông làm quan cho triều đình Lê ? Trịnh, từng kinh",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0305_viet_019",
+      "bbox": [
+        [
+          104,
+          840
+        ],
+        [
+          1063,
+          837
+        ],
+        [
+          1063,
+          875
+        ],
+        [
+          104,
+          879
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          955
+        ],
+        [
+          1063,
+          952
+        ],
+        [
+          1063,
+          990
+        ],
+        [
+          104,
+          994
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        837,
+        1063,
+        879
+      ],
+      "text": "qua các chức: Đốc đồng Thanh Hoa, Thiêm sai tri Hình, Đô cấp",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0305_viet_020",
+      "bbox": [
+        [
+          102,
+          883
+        ],
+        [
+          1068,
+          882
+        ],
+        [
+          1068,
+          918
+        ],
+        [
+          102,
+          920
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          998
+        ],
+        [
+          1068,
+          997
+        ],
+        [
+          1068,
+          1033
+        ],
+        [
+          102,
+          1035
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        882,
+        1068,
+        920
+      ],
+      "text": "sự trung kiêm Thiêm sai tri phiên, Đốc thị Nghệ An kiêm Tán li",
+      "confidence": 0.9232
+    },
+    {
+      "line_id": "0305_viet_021",
+      "bbox": [
+        [
+          107,
+          929
+        ],
+        [
+          520,
+          929
+        ],
+        [
+          520,
+          961
+        ],
+        [
+          107,
+          961
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          1044
+        ],
+        [
+          520,
+          1044
+        ],
+        [
+          520,
+          1076
+        ],
+        [
+          107,
+          1076
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        929,
+        520,
+        961
+      ],
+      "text": "quân vụ vùng thanh nghệ...",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0305_viet_022",
+      "bbox": [
+        [
+          163,
+          972
+        ],
+        [
+          1065,
+          972
+        ],
+        [
+          1065,
+          1010
+        ],
+        [
+          163,
+          1010
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          1087
+        ],
+        [
+          1065,
+          1087
+        ],
+        [
+          1065,
+          1125
+        ],
+        [
+          163,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        972,
+        1065,
+        1010
+      ],
+      "text": "Khi Nguyễn Huệ đem quân ra Bắc lần thứ hai (1788), Phan Tháng",
+      "confidence": 0.8689
+    },
+    {
+      "line_id": "0305_viet_023",
+      "bbox": [
+        [
+          104,
+          1017
+        ],
+        [
+          1066,
+          1017
+        ],
+        [
+          1066,
+          1053
+        ],
+        [
+          104,
+          1053
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1132
+        ],
+        [
+          1066,
+          1132
+        ],
+        [
+          1066,
+          1168
+        ],
+        [
+          104,
+          1168
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1017,
+        1066,
+        1053
+      ],
+      "text": "Huy Ich cùng một số danh nho khác như vũ Huy Tân, Đoàn",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0305_viet_024",
+      "bbox": [
+        [
+          100,
+          1056
+        ],
+        [
+          1065,
+          1058
+        ],
+        [
+          1065,
+          1096
+        ],
+        [
+          100,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          1171
+        ],
+        [
+          1065,
+          1173
+        ],
+        [
+          1065,
+          1211
+        ],
+        [
+          100,
+          1209
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        1056,
+        1065,
+        1096
+      ],
+      "text": "Nguyễn Tuấn được nguyễn Huệ trọng dụng và bổ nhậm. Sau khi",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0305_viet_025",
+      "bbox": [
+        [
+          105,
+          1102
+        ],
+        [
+          1063,
+          1104
+        ],
+        [
+          1063,
+          1137
+        ],
+        [
+          105,
+          1136
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1217
+        ],
+        [
+          1063,
+          1219
+        ],
+        [
+          1063,
+          1252
+        ],
+        [
+          105,
+          1251
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1102,
+        1063,
+        1137
+      ],
+      "text": "Thai đánh bại quân Thanh năm Kỷ Dậu (1789), ông được Nguyễn Huệ Nhân",
+      "confidence": 0.8559
+    },
+    {
+      "line_id": "0305_viet_026",
+      "bbox": [
+        [
+          104,
+          1145
+        ],
+        [
+          1063,
+          1147
+        ],
+        [
+          1063,
+          1180
+        ],
+        [
+          104,
+          1179
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1260
+        ],
+        [
+          1063,
+          1262
+        ],
+        [
+          1063,
+          1295
+        ],
+        [
+          104,
+          1294
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1145,
+        1063,
+        1180
+      ],
+      "text": "Trong giao cùng Ngô Thì Nhậm phụ trách việc ngoại giao với nhà nhà trị",
+      "confidence": 0.8333
+    },
+    {
+      "line_id": "0305_viet_027",
+      "bbox": [
+        [
+          104,
+          1187
+        ],
+        [
+          1065,
+          1187
+        ],
+        [
+          1065,
+          1223
+        ],
+        [
+          104,
+          1223
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1302
+        ],
+        [
+          1065,
+          1302
+        ],
+        [
+          1065,
+          1338
+        ],
+        [
+          104,
+          1338
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1187,
+        1065,
+        1223
+      ],
+      "text": "Thanh, năm sau đi sứ Trung Quốc. Năm 1792, ông được bố làm",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0305_viet_028",
+      "bbox": [
+        [
+          104,
+          1226
+        ],
+        [
+          1065,
+          1230
+        ],
+        [
+          1065,
+          1268
+        ],
+        [
+          104,
+          1264
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1341
+        ],
+        [
+          1065,
+          1345
+        ],
+        [
+          1065,
+          1383
+        ],
+        [
+          104,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1226,
+        1065,
+        1268
+      ],
+      "text": "Thị trung ngự sử. Sau khi Quang Trung mất (1792), ông vẫn được",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0305_viet_029",
+      "bbox": [
+        [
+          105,
+          1271
+        ],
+        [
+          1063,
+          1269
+        ],
+        [
+          1063,
+          1306
+        ],
+        [
+          105,
+          1307
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1386
+        ],
+        [
+          1063,
+          1384
+        ],
+        [
+          1063,
+          1421
+        ],
+        [
+          105,
+          1422
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1269,
+        1063,
+        1307
+      ],
+      "text": "Trong giao phụ trách việc từ hàn và ngoại giao. Sau khi nhà Nguyễn thuận",
+      "confidence": 0.8573
+    },
+    {
+      "line_id": "0305_viet_030",
+      "bbox": [
+        [
+          104,
+          1309
+        ],
+        [
+          1066,
+          1312
+        ],
+        [
+          1066,
+          1349
+        ],
+        [
+          104,
+          1345
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          1424
+        ],
+        [
+          1066,
+          1427
+        ],
+        [
+          1066,
+          1464
+        ],
+        [
+          104,
+          1460
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        1309,
+        1066,
+        1349
+      ],
+      "text": "đánh bại triều Tây Sơn, năm 1803, Phan Huy Ích cùng Ngô Thì",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0305_viet_031",
+      "bbox": [
+        [
+          99,
+          1415
+        ],
+        [
+          164,
+          1415
+        ],
+        [
+          164,
+          1454
+        ],
+        [
+          99,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1530
+        ],
+        [
+          164,
+          1530
+        ],
+        [
+          164,
+          1569
+        ],
+        [
+          99,
+          1569
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        1415,
+        164,
+        1454
+      ],
+      "text": "298",
+      "confidence": 0.9241
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phan Huy Ich lúc nhỏ có tên là Phan Công Huệ, sau vì kiêng nghệ",
+      "Thuý tên của Đặng Thị Huệ nên khi đi thi đổi thành Phan Huy Ich,",
+      "Tự là Khiêm Thụ Phủ, hiệu là Dụ Am. Ông xuất thân từ danh môn,",
+      "là con của Tiến sĩ Phan Huy Cần, người làng Thu Hoạch, huyện",
+      "Thiên Lộc, phủ Đức Quang, trân Nghệ An (nay thuộc xã Lộc Thuận)",
+      "Châu, huyện Lộc Hà, tỉnh Hà Tĩnh), sau chuyên ra làng Thuy",
+      "Xã Khuê, huyện Thạch Thất, tỉnh Sơn Tây (nay thuộc xã Sài Sơn, Nam",
+      "10 thuyện Quốc Oai, thành phố Hà Nội), Phan Huy Ich là học trò của Nhà Nội",
+      "Tiên sĩ Ngô Thì Sĩ ở làng Tả Thanh Oai, huyện Thanh Oai, trấn",
+      "Sơn Nam, một con người được đánh giá là ?Học vấn sâu rộng.",
+      "văn chương hùng vĩ? (Phan Huy Chú ? Lịch triều hiến chương",
+      "loại chi), Ông lấy con gái Ngô Thì Sĩ, là em rể của Ngô Thì",
+      "- Nhậm. Sau, con trai ông là Phan Huy Chú cũng được gửi sang",
+      "học tại làng tả thanh oai.",
+      "Phan Huy Ích từ nhỏ nổi tiếng thông minh, 22 tuổi đỗ Giải",
+      "19 nguyên (năm Tân Mão, 1771), sau đó được bố làm quan; 26 tuôi thuận thuận",
+      "đỗ hội nguyên (năm ất mùi, 1775); năm bính thân (1776), đỗ",
+      "khoa thi ứng chế.",
+      "Thoạt tiên, ông làm quan cho triều đình Lê ? Trịnh, từng kinh",
+      "qua các chức: Đốc đồng Thanh Hoa, Thiêm sai tri Hình, Đô cấp",
+      "sự trung kiêm Thiêm sai tri phiên, Đốc thị Nghệ An kiêm Tán li",
+      "quân vụ vùng thanh nghệ...",
+      "Khi Nguyễn Huệ đem quân ra Bắc lần thứ hai (1788), Phan Tháng",
+      "Huy Ich cùng một số danh nho khác như vũ Huy Tân, Đoàn",
+      "Nguyễn Tuấn được nguyễn Huệ trọng dụng và bổ nhậm. Sau khi",
+      "Thai đánh bại quân Thanh năm Kỷ Dậu (1789), ông được Nguyễn Huệ Nhân",
+      "Trong giao cùng Ngô Thì Nhậm phụ trách việc ngoại giao với nhà nhà trị",
+      "Thanh, năm sau đi sứ Trung Quốc. Năm 1792, ông được bố làm",
+      "Thị trung ngự sử. Sau khi Quang Trung mất (1792), ông vẫn được",
+      "Trong giao phụ trách việc từ hàn và ngoại giao. Sau khi nhà Nguyễn thuận",
+      "đánh bại triều Tây Sơn, năm 1803, Phan Huy Ích cùng Ngô Thì",
+      "298"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

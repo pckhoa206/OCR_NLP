@@ -1,0 +1,2092 @@
+{
+  "page_id": "0222",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 222,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0222_viet_000",
+      "bbox": [
+        [
+          175,
+          88
+        ],
+        [
+          1404,
+          96
+        ],
+        [
+          1404,
+          133
+        ],
+        [
+          175,
+          124
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          243
+        ],
+        [
+          1404,
+          251
+        ],
+        [
+          1404,
+          288
+        ],
+        [
+          175,
+          279
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        88,
+        1404,
+        133
+      ],
+      "text": "tiếp đào tạo ra phái Trúc làm, mà chỉ đảm thoại với nhà vua trong nhiều năm",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0222_viet_001",
+      "bbox": [
+        [
+          173,
+          128
+        ],
+        [
+          1331,
+          137
+        ],
+        [
+          1331,
+          174
+        ],
+        [
+          173,
+          165
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          283
+        ],
+        [
+          1331,
+          292
+        ],
+        [
+          1331,
+          329
+        ],
+        [
+          173,
+          320
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        128,
+        1331,
+        174
+      ],
+      "text": "gần gũi cũng như trong những dịp vào chàu, tham dự các kỳ lễ-hội (?).",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0222_viet_002",
+      "bbox": [
+        [
+          264,
+          180
+        ],
+        [
+          1407,
+          193
+        ],
+        [
+          1406,
+          236
+        ],
+        [
+          263,
+          223
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          335
+        ],
+        [
+          1407,
+          348
+        ],
+        [
+          1406,
+          391
+        ],
+        [
+          263,
+          378
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        180,
+        1407,
+        236
+      ],
+      "text": "Sáng tác của Trần Tung được tập hợp trong bộ Thượng sĩ ngữ lục L%",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0222_viet_003",
+      "bbox": [
+        [
+          212,
+          225
+        ],
+        [
+          1404,
+          236
+        ],
+        [
+          1404,
+          272
+        ],
+        [
+          212,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          380
+        ],
+        [
+          1404,
+          391
+        ],
+        [
+          1404,
+          427
+        ],
+        [
+          212,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        225,
+        1404,
+        272
+      ],
+      "text": "Và Kệ. Bộ sách gồm ba phần: phần thứ nhất là phần ơ ngữ lục ) ? những",
+      "confidence": 0.889
+    },
+    {
+      "line_id": "0222_viet_004",
+      "bbox": [
+        [
+          177,
+          263
+        ],
+        [
+          1402,
+          274
+        ],
+        [
+          1402,
+          311
+        ],
+        [
+          177,
+          300
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          418
+        ],
+        [
+          1402,
+          429
+        ],
+        [
+          1402,
+          466
+        ],
+        [
+          177,
+          455
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        263,
+        1402,
+        311
+      ],
+      "text": "bài giảng của ông cho học trò và những công án của ông (sách gọi là ơ Tụng",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0222_viet_005",
+      "bbox": [
+        [
+          179,
+          302
+        ],
+        [
+          1404,
+          308
+        ],
+        [
+          1404,
+          349
+        ],
+        [
+          179,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          457
+        ],
+        [
+          1404,
+          463
+        ],
+        [
+          1404,
+          504
+        ],
+        [
+          179,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        302,
+        1404,
+        349
+      ],
+      "text": "cồn), phần này do Pháp Loa 7t sẽ ghi lại, Tràn Nhân Tòng lý.1 - X. khảo",
+      "confidence": 0.8506
+    },
+    {
+      "line_id": "0222_viet_006",
+      "bbox": [
+        [
+          180,
+          340
+        ],
+        [
+          1404,
+          351
+        ],
+        [
+          1404,
+          388
+        ],
+        [
+          179,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          495
+        ],
+        [
+          1404,
+          506
+        ],
+        [
+          1404,
+          543
+        ],
+        [
+          179,
+          532
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        340,
+        1404,
+        388
+      ],
+      "text": "đinh (ý), Phần thứ hai gồm 49 bài thơ đưới nhiều đề tài và nhiều thể loại, trong",
+      "confidence": 0.9058
+    },
+    {
+      "line_id": "0222_viet_007",
+      "bbox": [
+        [
+          177,
+          375
+        ],
+        [
+          1398,
+          386
+        ],
+        [
+          1397,
+          428
+        ],
+        [
+          177,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          530
+        ],
+        [
+          1398,
+          541
+        ],
+        [
+          1397,
+          583
+        ],
+        [
+          177,
+          573
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        375,
+        1398,
+        428
+      ],
+      "text": "dỏ có một bài Tịnh-bang cảnh vật ?3 Hộ 5 tổ trùng với bài Đề dã thự K?27",
+      "confidence": 0.8528
+    },
+    {
+      "line_id": "0222_viet_008",
+      "bbox": [
+        [
+          180,
+          413
+        ],
+        [
+          1413,
+          426
+        ],
+        [
+          1413,
+          469
+        ],
+        [
+          179,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          568
+        ],
+        [
+          1413,
+          581
+        ],
+        [
+          1413,
+          624
+        ],
+        [
+          179,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        413,
+        1413,
+        469
+      ],
+      "text": "gỗ của Trần Quang Khải 15, 4, BC và bài Tít sơn khả hơi 13 ư T",
+      "confidence": 0.8427
+    },
+    {
+      "line_id": "0222_viet_009",
+      "bbox": [
+        [
+          173,
+          450
+        ],
+        [
+          1411,
+          458
+        ],
+        [
+          1410,
+          508
+        ],
+        [
+          173,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          605
+        ],
+        [
+          1411,
+          613
+        ],
+        [
+          1410,
+          663
+        ],
+        [
+          173,
+          654
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        450,
+        1411,
+        508
+      ],
+      "text": "với thơ Trần Thái Tông 3R x X - Phần thứ ba gồm một bài Thượng sĩ hành",
+      "confidence": 0.8745
+    },
+    {
+      "line_id": "0222_viet_010",
+      "bbox": [
+        [
+          177,
+          495
+        ],
+        [
+          1411,
+          506
+        ],
+        [
+          1410,
+          548
+        ],
+        [
+          177,
+          537
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          650
+        ],
+        [
+          1411,
+          661
+        ],
+        [
+          1410,
+          703
+        ],
+        [
+          177,
+          692
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        495,
+        1411,
+        548
+      ],
+      "text": "trạng 1 t ff H của Trần Nhân Tông, tám bài tán của tám nhà Thiền học",
+      "confidence": 0.8798
+    },
+    {
+      "line_id": "0222_viet_011",
+      "bbox": [
+        [
+          180,
+          535
+        ],
+        [
+          1404,
+          546
+        ],
+        [
+          1404,
+          585
+        ],
+        [
+          179,
+          574
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          690
+        ],
+        [
+          1404,
+          701
+        ],
+        [
+          1404,
+          740
+        ],
+        [
+          179,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        535,
+        1404,
+        585
+      ],
+      "text": "phái Trúc lâm và một bài bại của Đô Khắc Chung At Ở M? Toàn bộ tập",
+      "confidence": 0.8719
+    },
+    {
+      "line_id": "0222_viet_012",
+      "bbox": [
+        [
+          175,
+          569
+        ],
+        [
+          1407,
+          585
+        ],
+        [
+          1406,
+          628
+        ],
+        [
+          175,
+          612
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          724
+        ],
+        [
+          1407,
+          740
+        ],
+        [
+          1406,
+          783
+        ],
+        [
+          175,
+          767
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        569,
+        1407,
+        628
+      ],
+      "text": "sách do sư tuệ nguyên Tiệt chùa Long-động đế , P) khắc in vào năm Quy",
+      "confidence": 0.8467
+    },
+    {
+      "line_id": "0222_viet_013",
+      "bbox": [
+        [
+          180,
+          617
+        ],
+        [
+          1404,
+          628
+        ],
+        [
+          1404,
+          664
+        ],
+        [
+          179,
+          653
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          772
+        ],
+        [
+          1404,
+          783
+        ],
+        [
+          1404,
+          819
+        ],
+        [
+          179,
+          808
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        617,
+        1404,
+        664
+      ],
+      "text": "hợi, niên hiệu Chính Hòa E kư thứ tư (1683), được khắc lại một lần nữa vào",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0222_viet_014",
+      "bbox": [
+        [
+          177,
+          655
+        ],
+        [
+          1404,
+          664
+        ],
+        [
+          1404,
+          700
+        ],
+        [
+          177,
+          692
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          810
+        ],
+        [
+          1404,
+          819
+        ],
+        [
+          1404,
+          855
+        ],
+        [
+          177,
+          847
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        655,
+        1404,
+        700
+      ],
+      "text": "Năm Quý mùi, niên hiệu Cảnh Hưng thứ 24 (1763), rồi lại được sư Thanh Cửa Tháng",
+      "confidence": 0.8752
+    },
+    {
+      "line_id": "0222_viet_015",
+      "bbox": [
+        [
+          184,
+          696
+        ],
+        [
+          1404,
+          703
+        ],
+        [
+          1404,
+          739
+        ],
+        [
+          184,
+          732
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          851
+        ],
+        [
+          1404,
+          858
+        ],
+        [
+          1404,
+          894
+        ],
+        [
+          184,
+          887
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        696,
+        1404,
+        739
+      ],
+      "text": "Thuận đã (sự khắc lại năm Quý mão (1903)(?). Trong khi chờ đợi một sự khảo cứu thế trong)",
+      "confidence": 0.776
+    },
+    {
+      "line_id": "0222_viet_016",
+      "bbox": [
+        [
+          180,
+          730
+        ],
+        [
+          1407,
+          741
+        ],
+        [
+          1406,
+          784
+        ],
+        [
+          179,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          885
+        ],
+        [
+          1407,
+          896
+        ],
+        [
+          1406,
+          939
+        ],
+        [
+          179,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        730,
+        1407,
+        784
+      ],
+      "text": "văn bản tỷ mỹ hơn, chúng tôi tậm sắp xếp lại trật tự tác phẩm của Trần Tung",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0222_viet_017",
+      "bbox": [
+        [
+          177,
+          771
+        ],
+        [
+          1402,
+          780
+        ],
+        [
+          1402,
+          825
+        ],
+        [
+          177,
+          816
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          926
+        ],
+        [
+          1402,
+          935
+        ],
+        [
+          1402,
+          980
+        ],
+        [
+          177,
+          971
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        771,
+        1402,
+        825
+      ],
+      "text": "theo các yêu cầu cu thể đã được trình bày trong quy cách biện soạn bộ Thơ",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0222_viet_018",
+      "bbox": [
+        [
+          175,
+          812
+        ],
+        [
+          1404,
+          820
+        ],
+        [
+          1404,
+          863
+        ],
+        [
+          175,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          967
+        ],
+        [
+          1404,
+          975
+        ],
+        [
+          1404,
+          1018
+        ],
+        [
+          175,
+          1009
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        812,
+        1404,
+        863
+      ],
+      "text": "văn Lý ? Trần, loại bò những bài trùng với người khác, và đói vời những bài",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0222_viet_019",
+      "bbox": [
+        [
+          177,
+          850
+        ],
+        [
+          1407,
+          861
+        ],
+        [
+          1406,
+          902
+        ],
+        [
+          177,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1005
+        ],
+        [
+          1407,
+          1016
+        ],
+        [
+          1406,
+          1057
+        ],
+        [
+          177,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        850,
+        1407,
+        902
+      ],
+      "text": "thuộc phần thứ, ba (tán tụng và lời bạt) thì của tác giả nào chuyền trả về cho",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0222_viet_020",
+      "bbox": [
+        [
+          178,
+          891
+        ],
+        [
+          400,
+          895
+        ],
+        [
+          399,
+          934
+        ],
+        [
+          177,
+          929
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1046
+        ],
+        [
+          400,
+          1050
+        ],
+        [
+          399,
+          1089
+        ],
+        [
+          177,
+          1084
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        891,
+        400,
+        934
+      ],
+      "text": "tác giả ấy (10).",
+      "confidence": 0.8905
+    },
+    {
+      "line_id": "0222_viet_021",
+      "bbox": [
+        [
+          173,
+          1022
+        ],
+        [
+          953,
+          1026
+        ],
+        [
+          953,
+          1056
+        ],
+        [
+          173,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1177
+        ],
+        [
+          953,
+          1181
+        ],
+        [
+          953,
+          1211
+        ],
+        [
+          173,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1022,
+        953,
+        1056
+      ],
+      "text": "(2) Theo bài Thượng sĩ hành trạng cuối bộ sách TSNL.",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0222_viet_022",
+      "bbox": [
+        [
+          169,
+          1047
+        ],
+        [
+          1407,
+          1058
+        ],
+        [
+          1406,
+          1101
+        ],
+        [
+          168,
+          1090
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1202
+        ],
+        [
+          1407,
+          1213
+        ],
+        [
+          1406,
+          1256
+        ],
+        [
+          168,
+          1245
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1047,
+        1407,
+        1101
+      ],
+      "text": "(2). Theo Hà Văn Tấn và Phạm Thị Tâm: Cuộc kháng chiến chống xâm lược Nguyên, Mông;",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0222_viet_023",
+      "bbox": [
+        [
+          234,
+          1086
+        ],
+        [
+          918,
+          1092
+        ],
+        [
+          918,
+          1122
+        ],
+        [
+          233,
+          1116
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1241
+        ],
+        [
+          918,
+          1247
+        ],
+        [
+          918,
+          1277
+        ],
+        [
+          233,
+          1271
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1086,
+        918,
+        1122
+      ],
+      "text": "Nxh. Khoa học xã hội; hà-nội; 1968, tr. 237 ? 238",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0222_viet_024",
+      "bbox": [
+        [
+          169,
+          1116
+        ],
+        [
+          1400,
+          1120
+        ],
+        [
+          1400,
+          1159
+        ],
+        [
+          168,
+          1154
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1271
+        ],
+        [
+          1400,
+          1275
+        ],
+        [
+          1400,
+          1314
+        ],
+        [
+          168,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1116,
+        1400,
+        1159
+      ],
+      "text": "(3) An-nam chi lược (tế độ 4 đế - của Lê Trác (K đị Q. IV, mục a Chính thảo vàn",
+      "confidence": 0.7711
+    },
+    {
+      "line_id": "0222_viet_025",
+      "bbox": [
+        [
+          240,
+          1278
+        ],
+        [
+          1409,
+          1287
+        ],
+        [
+          1408,
+          1324
+        ],
+        [
+          240,
+          1315
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1433
+        ],
+        [
+          1409,
+          1442
+        ],
+        [
+          1408,
+          1479
+        ],
+        [
+          240,
+          1470
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1278,
+        1409,
+        1324
+      ],
+      "text": "Nhị nguyệt, Thế tử khiến lông huynh Hụng ninh vương Tràn Tung lù lai ước hàng, cố",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0222_viet_026",
+      "bbox": [
+        [
+          205,
+          1313
+        ],
+        [
+          1406,
+          1321
+        ],
+        [
+          1406,
+          1358
+        ],
+        [
+          205,
+          1349
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1468
+        ],
+        [
+          1406,
+          1476
+        ],
+        [
+          1406,
+          1513
+        ],
+        [
+          205,
+          1504
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1313,
+        1406,
+        1358
+      ],
+      "text": "- lạo ngã sự, Dọ: nãi khiến kỳ cảm tử giả kiếp chự: dinh, Nghĩa là: 4, Tháng Hai năm",
+      "confidence": 0.8726
+    },
+    {
+      "line_id": "0222_viet_027",
+      "bbox": [
+        [
+          236,
+          1345
+        ],
+        [
+          1406,
+          1356
+        ],
+        [
+          1406,
+          1392
+        ],
+        [
+          235,
+          1381
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1500
+        ],
+        [
+          1406,
+          1511
+        ],
+        [
+          1406,
+          1547
+        ],
+        [
+          235,
+          1536
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1345,
+        1406,
+        1392
+      ],
+      "text": "Mậu tỷ, 1288 - Thế tử. Đại-việt phái người anh con bác ruột, la llưng ninh, vương",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0222_viet_028",
+      "bbox": [
+        [
+          231,
+          1411
+        ],
+        [
+          1404,
+          1420
+        ],
+        [
+          1404,
+          1456
+        ],
+        [
+          231,
+          1448
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1566
+        ],
+        [
+          1404,
+          1575
+        ],
+        [
+          1404,
+          1611
+        ],
+        [
+          231,
+          1603
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1411,
+        1404,
+        1456
+      ],
+      "text": "cho quân cảm tử tới cướp doánh trại o. Tên Trần Tung ghi ở đây rất có thề nguyên là",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0222_viet_029",
+      "bbox": [
+        [
+          233,
+          1446
+        ],
+        [
+          1406,
+          1454
+        ],
+        [
+          1406,
+          1489
+        ],
+        [
+          233,
+          1480
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1601
+        ],
+        [
+          1406,
+          1609
+        ],
+        [
+          1406,
+          1644
+        ],
+        [
+          233,
+          1635
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1446,
+        1406,
+        1489
+      ],
+      "text": "Trần Quốc Tùng mà Lê Trắc bót chữ Quốc ở giữa như ông đã làm đối với tên tất cả các",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0222_viet_030",
+      "bbox": [
+        [
+          234,
+          1480
+        ],
+        [
+          605,
+          1484
+        ],
+        [
+          605,
+          1514
+        ],
+        [
+          233,
+          1510
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1635
+        ],
+        [
+          605,
+          1639
+        ],
+        [
+          605,
+          1669
+        ],
+        [
+          233,
+          1665
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1480,
+        605,
+        1514
+      ],
+      "text": "vương hầu nhà trần khác",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0222_viet_031",
+      "bbox": [
+        [
+          171,
+          1521
+        ],
+        [
+          1404,
+          1527
+        ],
+        [
+          1404,
+          1563
+        ],
+        [
+          171,
+          1557
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1676
+        ],
+        [
+          1404,
+          1682
+        ],
+        [
+          1404,
+          1718
+        ],
+        [
+          171,
+          1712
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1521,
+        1404,
+        1563
+      ],
+      "text": "(4) - Phủ Thái-bình, sau gọi là phủ Long-hưng đt là tức là tỉnh Thái-bình ngày nay. Còn",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0222_viet_032",
+      "bbox": [
+        [
+          233,
+          1555
+        ],
+        [
+          1404,
+          1563
+        ],
+        [
+          1404,
+          1600
+        ],
+        [
+          233,
+          1591
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1710
+        ],
+        [
+          1404,
+          1718
+        ],
+        [
+          1404,
+          1755
+        ],
+        [
+          233,
+          1746
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1555,
+        1404,
+        1600
+      ],
+      "text": "Ấp Tịnh-bang chưa rõ đích xác ở đàu, Trong bài Thượng sĩ hành trạng, Tràn Nhân Tông",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0222_viet_033",
+      "bbox": [
+        [
+          220,
+          1589
+        ],
+        [
+          1327,
+          1596
+        ],
+        [
+          1326,
+          1632
+        ],
+        [
+          220,
+          1625
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          1744
+        ],
+        [
+          1327,
+          1751
+        ],
+        [
+          1326,
+          1787
+        ],
+        [
+          220,
+          1780
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        1589,
+        1327,
+        1632
+      ],
+      "text": "có nói đến trang ấp này, Trần Tung đã làm một số thơ vinh phong cảnh ở đây.",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0222_viet_034",
+      "bbox": [
+        [
+          1318,
+          1608
+        ],
+        [
+          1365,
+          1608
+        ],
+        [
+          1365,
+          1623
+        ],
+        [
+          1318,
+          1623
+        ]
+      ],
+      "bbox_original": [
+        [
+          1318,
+          1763
+        ],
+        [
+          1365,
+          1763
+        ],
+        [
+          1365,
+          1778
+        ],
+        [
+          1318,
+          1778
+        ]
+      ],
+      "box_xyxy": [
+        1318,
+        1608,
+        1365,
+        1623
+      ],
+      "text": "1980",
+      "confidence": 0.1175
+    },
+    {
+      "line_id": "0222_viet_035",
+      "bbox": [
+        [
+          169,
+          1628
+        ],
+        [
+          1406,
+          1634
+        ],
+        [
+          1406,
+          1677
+        ],
+        [
+          168,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1783
+        ],
+        [
+          1406,
+          1789
+        ],
+        [
+          1406,
+          1832
+        ],
+        [
+          168,
+          1825
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1628,
+        1406,
+        1677
+      ],
+      "text": "(6) Suy đoán của chúng tòi, dựa vào những điều ghi chép trong bài Thượng sĩ hành trạng.",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0222_viet_036",
+      "bbox": [
+        [
+          236,
+          1666
+        ],
+        [
+          1104,
+          1673
+        ],
+        [
+          1104,
+          1705
+        ],
+        [
+          235,
+          1698
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1821
+        ],
+        [
+          1104,
+          1828
+        ],
+        [
+          1104,
+          1860
+        ],
+        [
+          235,
+          1853
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1666,
+        1104,
+        1705
+      ],
+      "text": "Nhưng không sách nào ghi rõ con cháu Trần Tung như thể nào.",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0222_viet_037",
+      "bbox": [
+        [
+          175,
+          1707
+        ],
+        [
+          1398,
+          1716
+        ],
+        [
+          1398,
+          1752
+        ],
+        [
+          175,
+          1743
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1862
+        ],
+        [
+          1398,
+          1871
+        ],
+        [
+          1398,
+          1907
+        ],
+        [
+          175,
+          1898
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1707,
+        1398,
+        1752
+      ],
+      "text": "(6). Hòa quang đồng trần: thuật ngữ trong sách Lão Tử, nghĩa đen là hòa cùng ánh \"sáng,",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0222_viet_038",
+      "bbox": [
+        [
+          223,
+          1741
+        ],
+        [
+          1400,
+          1748
+        ],
+        [
+          1400,
+          1784
+        ],
+        [
+          222,
+          1778
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1896
+        ],
+        [
+          1400,
+          1903
+        ],
+        [
+          1400,
+          1939
+        ],
+        [
+          222,
+          1933
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1741,
+        1400,
+        1784
+      ],
+      "text": ": đồng nhất vời bụi bặm. ở đây ý nói người giác ngộ chân lý cao siêu của nhà Phật nhưng",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0222_viet_039",
+      "bbox": [
+        [
+          225,
+          1775
+        ],
+        [
+          745,
+          1780
+        ],
+        [
+          745,
+          1810
+        ],
+        [
+          225,
+          1805
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1930
+        ],
+        [
+          745,
+          1935
+        ],
+        [
+          745,
+          1965
+        ],
+        [
+          225,
+          1960
+        ]
+      ],
+      "box_xyxy": [
+        225,
+        1775,
+        745,
+        1810
+      ],
+      "text": "vẫn không thoát lý thế giới cõi, trần",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0222_viet_040",
+      "bbox": [
+        [
+          166,
+          1814
+        ],
+        [
+          1398,
+          1820
+        ],
+        [
+          1398,
+          1859
+        ],
+        [
+          166,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1969
+        ],
+        [
+          1398,
+          1975
+        ],
+        [
+          1398,
+          2014
+        ],
+        [
+          166,
+          2007
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1814,
+        1398,
+        1859
+      ],
+      "text": "(1) Tiêu sử đích xác của Tràn Tung thật ra còn là cả một vấn đề cần được giải đáp sáng",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0222_viet_041",
+      "bbox": [
+        [
+          214,
+          1850
+        ],
+        [
+          1398,
+          1857
+        ],
+        [
+          1398,
+          1891
+        ],
+        [
+          214,
+          1885
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          2005
+        ],
+        [
+          1398,
+          2012
+        ],
+        [
+          1398,
+          2046
+        ],
+        [
+          214,
+          2040
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1850,
+        1398,
+        1891
+      ],
+      "text": "tỏ hơn trong nhiều, công trình khoa học, mà những nét tóm tất trên đây chỉ là một vài",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0222_viet_042",
+      "bbox": [
+        [
+          231,
+          1885
+        ],
+        [
+          1396,
+          1887
+        ],
+        [
+          1396,
+          1923
+        ],
+        [
+          231,
+          1921
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          2040
+        ],
+        [
+          1396,
+          2042
+        ],
+        [
+          1396,
+          2078
+        ],
+        [
+          231,
+          2076
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1885,
+        1396,
+        1923
+      ],
+      "text": "phác họa chung nhất, kết quả của những tim tòi bước đầu, Xin xem thêm: 1. Nguyễn",
+      "confidence": 0.9196
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "tiếp đào tạo ra phái Trúc làm, mà chỉ đảm thoại với nhà vua trong nhiều năm",
+      "gần gũi cũng như trong những dịp vào chàu, tham dự các kỳ lễ-hội (?).",
+      "Sáng tác của Trần Tung được tập hợp trong bộ Thượng sĩ ngữ lục L%",
+      "Và Kệ. Bộ sách gồm ba phần: phần thứ nhất là phần ơ ngữ lục ) ? những",
+      "bài giảng của ông cho học trò và những công án của ông (sách gọi là ơ Tụng",
+      "cồn), phần này do Pháp Loa 7t sẽ ghi lại, Tràn Nhân Tòng lý.1 - X. khảo",
+      "đinh (ý), Phần thứ hai gồm 49 bài thơ đưới nhiều đề tài và nhiều thể loại, trong",
+      "dỏ có một bài Tịnh-bang cảnh vật ?3 Hộ 5 tổ trùng với bài Đề dã thự K?27",
+      "gỗ của Trần Quang Khải 15, 4, BC và bài Tít sơn khả hơi 13 ư T",
+      "với thơ Trần Thái Tông 3R x X - Phần thứ ba gồm một bài Thượng sĩ hành",
+      "trạng 1 t ff H của Trần Nhân Tông, tám bài tán của tám nhà Thiền học",
+      "phái Trúc lâm và một bài bại của Đô Khắc Chung At Ở M? Toàn bộ tập",
+      "sách do sư tuệ nguyên Tiệt chùa Long-động đế , P) khắc in vào năm Quy",
+      "hợi, niên hiệu Chính Hòa E kư thứ tư (1683), được khắc lại một lần nữa vào",
+      "Năm Quý mùi, niên hiệu Cảnh Hưng thứ 24 (1763), rồi lại được sư Thanh Cửa Tháng",
+      "Thuận đã (sự khắc lại năm Quý mão (1903)(?). Trong khi chờ đợi một sự khảo cứu thế trong)",
+      "văn bản tỷ mỹ hơn, chúng tôi tậm sắp xếp lại trật tự tác phẩm của Trần Tung",
+      "theo các yêu cầu cu thể đã được trình bày trong quy cách biện soạn bộ Thơ",
+      "văn Lý ? Trần, loại bò những bài trùng với người khác, và đói vời những bài",
+      "thuộc phần thứ, ba (tán tụng và lời bạt) thì của tác giả nào chuyền trả về cho",
+      "tác giả ấy (10).",
+      "(2) Theo bài Thượng sĩ hành trạng cuối bộ sách TSNL.",
+      "(2). Theo Hà Văn Tấn và Phạm Thị Tâm: Cuộc kháng chiến chống xâm lược Nguyên, Mông;",
+      "Nxh. Khoa học xã hội; hà-nội; 1968, tr. 237 ? 238",
+      "(3) An-nam chi lược (tế độ 4 đế - của Lê Trác (K đị Q. IV, mục a Chính thảo vàn",
+      "Nhị nguyệt, Thế tử khiến lông huynh Hụng ninh vương Tràn Tung lù lai ước hàng, cố",
+      "- lạo ngã sự, Dọ: nãi khiến kỳ cảm tử giả kiếp chự: dinh, Nghĩa là: 4, Tháng Hai năm",
+      "Mậu tỷ, 1288 - Thế tử. Đại-việt phái người anh con bác ruột, la llưng ninh, vương",
+      "cho quân cảm tử tới cướp doánh trại o. Tên Trần Tung ghi ở đây rất có thề nguyên là",
+      "Trần Quốc Tùng mà Lê Trắc bót chữ Quốc ở giữa như ông đã làm đối với tên tất cả các",
+      "vương hầu nhà trần khác",
+      "(4) - Phủ Thái-bình, sau gọi là phủ Long-hưng đt là tức là tỉnh Thái-bình ngày nay. Còn",
+      "Ấp Tịnh-bang chưa rõ đích xác ở đàu, Trong bài Thượng sĩ hành trạng, Tràn Nhân Tông",
+      "có nói đến trang ấp này, Trần Tung đã làm một số thơ vinh phong cảnh ở đây.",
+      "1980",
+      "(6) Suy đoán của chúng tòi, dựa vào những điều ghi chép trong bài Thượng sĩ hành trạng.",
+      "Nhưng không sách nào ghi rõ con cháu Trần Tung như thể nào.",
+      "(6). Hòa quang đồng trần: thuật ngữ trong sách Lão Tử, nghĩa đen là hòa cùng ánh \"sáng,",
+      ": đồng nhất vời bụi bặm. ở đây ý nói người giác ngộ chân lý cao siêu của nhà Phật nhưng",
+      "vẫn không thoát lý thế giới cõi, trần",
+      "(1) Tiêu sử đích xác của Tràn Tung thật ra còn là cả một vấn đề cần được giải đáp sáng",
+      "tỏ hơn trong nhiều, công trình khoa học, mà những nét tóm tất trên đây chỉ là một vài",
+      "phác họa chung nhất, kết quả của những tim tòi bước đầu, Xin xem thêm: 1. Nguyễn"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

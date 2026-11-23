@@ -1,0 +1,1164 @@
+{
+  "page_id": "0166",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 166,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0166_viet_000",
+      "bbox": [
+        [
+          194,
+          30
+        ],
+        [
+          246,
+          30
+        ],
+        [
+          246,
+          64
+        ],
+        [
+          194,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          151
+        ],
+        [
+          246,
+          151
+        ],
+        [
+          246,
+          185
+        ],
+        [
+          194,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        30,
+        246,
+        64
+      ],
+      "text": "160",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0166_viet_001",
+      "bbox": [
+        [
+          668,
+          27
+        ],
+        [
+          987,
+          27
+        ],
+        [
+          987,
+          60
+        ],
+        [
+          668,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          148
+        ],
+        [
+          987,
+          148
+        ],
+        [
+          987,
+          181
+        ],
+        [
+          668,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        27,
+        987,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0166_viet_002",
+      "bbox": [
+        [
+          300,
+          187
+        ],
+        [
+          778,
+          187
+        ],
+        [
+          778,
+          216
+        ],
+        [
+          300,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          308
+        ],
+        [
+          778,
+          308
+        ],
+        [
+          778,
+          337
+        ],
+        [
+          300,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        187,
+        778,
+        216
+      ],
+      "text": "chiến hỹ tail cốt bộc sa lịch trị",
+      "confidence": 0.8205
+    },
+    {
+      "line_id": "0166_viet_003",
+      "bbox": [
+        [
+          226,
+          234
+        ],
+        [
+          633,
+          234
+        ],
+        [
+          633,
+          270
+        ],
+        [
+          226,
+          270
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          355
+        ],
+        [
+          633,
+          355
+        ],
+        [
+          633,
+          391
+        ],
+        [
+          226,
+          391
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        234,
+        633,
+        270
+      ],
+      "text": "Chiến ur, thấy phơi bãi cát",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0166_viet_004",
+      "bbox": [
+        [
+          297,
+          353
+        ],
+        [
+          813,
+          355
+        ],
+        [
+          813,
+          388
+        ],
+        [
+          297,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          474
+        ],
+        [
+          813,
+          476
+        ],
+        [
+          813,
+          509
+        ],
+        [
+          297,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        353,
+        813,
+        388
+      ],
+      "text": "Điều vô thanh hề sơn tịch tích",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0166_viet_005",
+      "bbox": [
+        [
+          223,
+          400
+        ],
+        [
+          719,
+          402
+        ],
+        [
+          719,
+          442
+        ],
+        [
+          223,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          521
+        ],
+        [
+          719,
+          523
+        ],
+        [
+          719,
+          563
+        ],
+        [
+          223,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        400,
+        719,
+        442
+      ],
+      "text": "Chim không tiềng hê núi vắng-vẻ",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0166_viet_006",
+      "bbox": [
+        [
+          299,
+          522
+        ],
+        [
+          886,
+          522
+        ],
+        [
+          886,
+          561
+        ],
+        [
+          299,
+          561
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          643
+        ],
+        [
+          886,
+          643
+        ],
+        [
+          886,
+          682
+        ],
+        [
+          299,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        522,
+        886,
+        561
+      ],
+      "text": "dạ chính trường hề phong tích tích",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0166_viet_007",
+      "bbox": [
+        [
+          223,
+          572
+        ],
+        [
+          648,
+          574
+        ],
+        [
+          648,
+          609
+        ],
+        [
+          223,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          693
+        ],
+        [
+          648,
+          695
+        ],
+        [
+          648,
+          730
+        ],
+        [
+          223,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        572,
+        648,
+        609
+      ],
+      "text": "Đêm dằng dặc hề gió đìu-hiu",
+      "confidence": 0.8872
+    },
+    {
+      "line_id": "0166_viet_008",
+      "bbox": [
+        [
+          290,
+          646
+        ],
+        [
+          754,
+          646
+        ],
+        [
+          754,
+          685
+        ],
+        [
+          290,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          767
+        ],
+        [
+          754,
+          767
+        ],
+        [
+          754,
+          806
+        ],
+        [
+          290,
+          806
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        646,
+        754,
+        685
+      ],
+      "text": "A 1447RK",
+      "confidence": 0.364
+    },
+    {
+      "line_id": "0166_viet_009",
+      "bbox": [
+        [
+          299,
+          696
+        ],
+        [
+          881,
+          696
+        ],
+        [
+          881,
+          730
+        ],
+        [
+          299,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          817
+        ],
+        [
+          881,
+          817
+        ],
+        [
+          881,
+          851
+        ],
+        [
+          299,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        696,
+        881,
+        730
+      ],
+      "text": "Hồn phách kết hề thiên trăm trầm",
+      "confidence": 0.8964
+    },
+    {
+      "line_id": "0166_viet_010",
+      "bbox": [
+        [
+          226,
+          743
+        ],
+        [
+          717,
+          750
+        ],
+        [
+          717,
+          784
+        ],
+        [
+          226,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          864
+        ],
+        [
+          717,
+          871
+        ],
+        [
+          717,
+          905
+        ],
+        [
+          226,
+          898
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        743,
+        717,
+        784
+      ],
+      "text": "Hồn phách kết hề trời nặng nặng",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0166_viet_011",
+      "bbox": [
+        [
+          299,
+          815
+        ],
+        [
+          749,
+          812
+        ],
+        [
+          749,
+          852
+        ],
+        [
+          299,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          936
+        ],
+        [
+          749,
+          933
+        ],
+        [
+          749,
+          973
+        ],
+        [
+          299,
+          976
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        812,
+        749,
+        855
+      ],
+      "text": "21%75 F",
+      "confidence": 0.4727
+    },
+    {
+      "line_id": "0166_viet_012",
+      "bbox": [
+        [
+          300,
+          864
+        ],
+        [
+          788,
+          864
+        ],
+        [
+          788,
+          902
+        ],
+        [
+          300,
+          902
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          985
+        ],
+        [
+          788,
+          985
+        ],
+        [
+          788,
+          1023
+        ],
+        [
+          300,
+          1023
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        864,
+        788,
+        902
+      ],
+      "text": "qui thần tụ hề vân mịch mịch",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0166_viet_013",
+      "bbox": [
+        [
+          226,
+          910
+        ],
+        [
+          599,
+          916
+        ],
+        [
+          599,
+          951
+        ],
+        [
+          226,
+          946
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1031
+        ],
+        [
+          599,
+          1037
+        ],
+        [
+          599,
+          1072
+        ],
+        [
+          226,
+          1067
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        910,
+        599,
+        951
+      ],
+      "text": "Quỉ thân tụ hề mây u-ám.",
+      "confidence": 0.8989
+    },
+    {
+      "line_id": "0166_viet_014",
+      "bbox": [
+        [
+          302,
+          983
+        ],
+        [
+          688,
+          983
+        ],
+        [
+          688,
+          1023
+        ],
+        [
+          302,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          1104
+        ],
+        [
+          688,
+          1104
+        ],
+        [
+          688,
+          1144
+        ],
+        [
+          302,
+          1144
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        983,
+        688,
+        1023
+      ],
+      "text": "032223445",
+      "confidence": 0.3029
+    },
+    {
+      "line_id": "0166_viet_015",
+      "bbox": [
+        [
+          297,
+          1029
+        ],
+        [
+          802,
+          1031
+        ],
+        [
+          801,
+          1071
+        ],
+        [
+          297,
+          1070
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1150
+        ],
+        [
+          802,
+          1152
+        ],
+        [
+          801,
+          1192
+        ],
+        [
+          297,
+          1191
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1029,
+        802,
+        1071
+      ],
+      "text": "Nhật quang hàn hề thảo đoản,",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0166_viet_016",
+      "bbox": [
+        [
+          228,
+          1078
+        ],
+        [
+          665,
+          1085
+        ],
+        [
+          665,
+          1120
+        ],
+        [
+          228,
+          1113
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1199
+        ],
+        [
+          665,
+          1206
+        ],
+        [
+          665,
+          1241
+        ],
+        [
+          228,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1078,
+        665,
+        1120
+      ],
+      "text": "Ánh mặt trời lạnh hề cỏ ngắn",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0166_viet_017",
+      "bbox": [
+        [
+          295,
+          1204
+        ],
+        [
+          786,
+          1200
+        ],
+        [
+          786,
+          1239
+        ],
+        [
+          295,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1325
+        ],
+        [
+          786,
+          1321
+        ],
+        [
+          786,
+          1360
+        ],
+        [
+          295,
+          1363
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1200,
+        786,
+        1242
+      ],
+      "text": "nguyệt sắc khồ hề sương bạch",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0166_viet_018",
+      "bbox": [
+        [
+          226,
+          1247
+        ],
+        [
+          765,
+          1251
+        ],
+        [
+          764,
+          1291
+        ],
+        [
+          226,
+          1287
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1368
+        ],
+        [
+          765,
+          1372
+        ],
+        [
+          764,
+          1412
+        ],
+        [
+          226,
+          1408
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1247,
+        765,
+        1291
+      ],
+      "text": "Sắc vầng trăng buồn hề sương trắng",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0166_viet_019",
+      "bbox": [
+        [
+          294,
+          1317
+        ],
+        [
+          825,
+          1314
+        ],
+        [
+          825,
+          1359
+        ],
+        [
+          294,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1438
+        ],
+        [
+          825,
+          1435
+        ],
+        [
+          825,
+          1480
+        ],
+        [
+          294,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1314,
+        825,
+        1363
+      ],
+      "text": "KNA E Y?L 4",
+      "confidence": 0.4537
+    },
+    {
+      "line_id": "0166_viet_020",
+      "bbox": [
+        [
+          300,
+          1368
+        ],
+        [
+          992,
+          1363
+        ],
+        [
+          992,
+          1403
+        ],
+        [
+          301,
+          1408
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1489
+        ],
+        [
+          992,
+          1484
+        ],
+        [
+          992,
+          1524
+        ],
+        [
+          301,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1363,
+        992,
+        1408
+      ],
+      "text": "Thương tâm thảm mục, hữu như thị da",
+      "confidence": 0.9319
+    },
+    {
+      "line_id": "0166_viet_021",
+      "bbox": [
+        [
+          224,
+          1416
+        ],
+        [
+          872,
+          1416
+        ],
+        [
+          872,
+          1455
+        ],
+        [
+          224,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1537
+        ],
+        [
+          872,
+          1537
+        ],
+        [
+          872,
+          1576
+        ],
+        [
+          224,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1416,
+        872,
+        1455
+      ],
+      "text": "Lòng đau mắt thảm. Phải như thề không ở",
+      "confidence": 0.8877
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "HÁN-VĂN TINH-TUÝ",
+      "chiến hỹ tail cốt bộc sa lịch trị",
+      "Điều vô thanh hề sơn tịch tích",
+      "dạ chính trường hề phong tích tích",
+      "A 1447RK",
+      "Hồn phách kết hề trời nặng nặng",
+      "qui thần tụ hề vân mịch mịch",
+      "032223445",
+      "Ánh mặt trời lạnh hề cỏ ngắn",
+      "Sắc vầng trăng buồn hề sương trắng",
+      "Thương tâm thảm mục, hữu như thị da"
+    ],
+    "dich_nghia_lines": [
+      "160",
+      "Chiến ur, thấy phơi bãi cát",
+      "Chim không tiềng hê núi vắng-vẻ",
+      "Đêm dằng dặc hề gió đìu-hiu",
+      "Hồn phách kết hề thiên trăm trầm",
+      "21%75 F",
+      "Quỉ thân tụ hề mây u-ám.",
+      "Nhật quang hàn hề thảo đoản,",
+      "nguyệt sắc khồ hề sương bạch",
+      "KNA E Y?L 4",
+      "Lòng đau mắt thảm. Phải như thề không ở"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "我美哉骨興暴沙樂",
+        "phien_am": "HÁN-VĂN TINH-TUÝ",
+        "dich_nghia_gloss": "160"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "烏無聲分山寂寂",
+        "phien_am": "chiến hỹ tail cốt bộc sa lịch trị",
+        "dich_nghia_gloss": "Chiến ur, thấy phơi bãi cát"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "風",
+        "phien_am": "Điều vô thanh hề sơn tịch tích",
+        "dich_nghia_gloss": "Chim không tiềng hê núi vắng-vẻ"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "浙潟浙",
+        "phien_am": "dạ chính trường hề phong tích tích",
+        "dich_nghia_gloss": "Đêm dằng dặc hề gió đìu-hiu"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "源p-8up",
+        "phien_am": "A 1447RK",
+        "dich_nghia_gloss": "Hồn phách kết hề thiên trăm trầm"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "魂魄結分•天洗沈",
+        "phien_am": "Hồn phách kết hề trời nặng nặng",
+        "dich_nghia_gloss": "21%75 F"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "鬼神聚分雲冪冪",
+        "phien_am": "qui thần tụ hề vân mịch mịch",
+        "dich_nghia_gloss": "Quỉ thân tụ hề mây u-ám."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "日光寒分草",
+        "phien_am": "032223445",
+        "dich_nghia_gloss": "Nhật quang hàn hề thảo đoản,"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "寶短",
+        "phien_am": "Ánh mặt trời lạnh hề cỏ ngắn",
+        "dich_nghia_gloss": "nguyệt sắc khồ hề sương bạch"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "月良色苦分霜",
+        "phien_am": "Sắc vầng trăng buồn hề sương trắng",
+        "dich_nghia_gloss": "KNA E Y?L 4"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "白",
+        "phien_am": "Thương tâm thảm mục, hữu như thị da",
+        "dich_nghia_gloss": "Lòng đau mắt thảm. Phải như thề không ở"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "目有",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "是耶",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

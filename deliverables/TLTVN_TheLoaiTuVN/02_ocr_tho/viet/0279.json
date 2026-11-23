@@ -1,0 +1,1180 @@
+{
+  "page_id": "0279",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 279,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1303,
+    "footnote_separator_y_original": 1418,
+    "effective_width": 1122,
+    "effective_height": 1303
+  },
+  "items": [
+    {
+      "line_id": "0279_viet_000",
+      "bbox": [
+        [
+          170,
+          1
+        ],
+        [
+          589,
+          3
+        ],
+        [
+          589,
+          26
+        ],
+        [
+          170,
+          24
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          116
+        ],
+        [
+          589,
+          118
+        ],
+        [
+          589,
+          141
+        ],
+        [
+          170,
+          139
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1,
+        589,
+        26
+      ],
+      "text": "Cao dương vui thoá tôn nhan:",
+      "confidence": 0.8639
+    },
+    {
+      "line_id": "0279_viet_001",
+      "bbox": [
+        [
+          166,
+          41
+        ],
+        [
+          561,
+          41
+        ],
+        [
+          561,
+          72
+        ],
+        [
+          166,
+          72
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          156
+        ],
+        [
+          561,
+          156
+        ],
+        [
+          561,
+          187
+        ],
+        [
+          166,
+          187
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        41,
+        561,
+        72
+      ],
+      "text": "Vui nhất nhà nhiều tài tuấn;",
+      "confidence": 0.9055
+    },
+    {
+      "line_id": "0279_viet_002",
+      "bbox": [
+        [
+          165,
+          90
+        ],
+        [
+          444,
+          90
+        ],
+        [
+          444,
+          122
+        ],
+        [
+          165,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          205
+        ],
+        [
+          444,
+          205
+        ],
+        [
+          444,
+          237
+        ],
+        [
+          165,
+          237
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        90,
+        444,
+        122
+      ],
+      "text": "Dâng chén hỏi han",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0279_viet_003",
+      "bbox": [
+        [
+          163,
+          134
+        ],
+        [
+          569,
+          134
+        ],
+        [
+          569,
+          167
+        ],
+        [
+          163,
+          167
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          249
+        ],
+        [
+          569,
+          249
+        ],
+        [
+          569,
+          282
+        ],
+        [
+          163,
+          282
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        134,
+        569,
+        167
+      ],
+      "text": "Nhìn xe cỏ bồ vào triều kiến",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0279_viet_004",
+      "bbox": [
+        [
+          162,
+          183
+        ],
+        [
+          649,
+          180
+        ],
+        [
+          649,
+          216
+        ],
+        [
+          162,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          298
+        ],
+        [
+          649,
+          295
+        ],
+        [
+          649,
+          331
+        ],
+        [
+          162,
+          334
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        180,
+        649,
+        219
+      ],
+      "text": "HỘI HỢP QUAN VIÊN ĐẾN HẠNH ĐÀN",
+      "confidence": 0.9175
+    },
+    {
+      "line_id": "0279_viet_005",
+      "bbox": [
+        [
+          162,
+          228
+        ],
+        [
+          417,
+          232
+        ],
+        [
+          416,
+          269
+        ],
+        [
+          162,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          343
+        ],
+        [
+          417,
+          347
+        ],
+        [
+          416,
+          384
+        ],
+        [
+          162,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        228,
+        417,
+        269
+      ],
+      "text": "Đồng thanh chúc;",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0279_viet_006",
+      "bbox": [
+        [
+          161,
+          277
+        ],
+        [
+          634,
+          278
+        ],
+        [
+          634,
+          315
+        ],
+        [
+          160,
+          314
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          392
+        ],
+        [
+          634,
+          393
+        ],
+        [
+          634,
+          430
+        ],
+        [
+          160,
+          429
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        277,
+        634,
+        315
+      ],
+      "text": "Đất Giáng mừng người tuổi mới, trị",
+      "confidence": 0.8508
+    },
+    {
+      "line_id": "0279_viet_007",
+      "bbox": [
+        [
+          162,
+          326
+        ],
+        [
+          413,
+          329
+        ],
+        [
+          412,
+          361
+        ],
+        [
+          162,
+          358
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          441
+        ],
+        [
+          413,
+          444
+        ],
+        [
+          412,
+          476
+        ],
+        [
+          162,
+          473
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        326,
+        413,
+        361
+      ],
+      "text": "Thiên hạ bình an.",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0279_viet_008",
+      "bbox": [
+        [
+          233,
+          445
+        ],
+        [
+          918,
+          448
+        ],
+        [
+          918,
+          482
+        ],
+        [
+          233,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          560
+        ],
+        [
+          918,
+          563
+        ],
+        [
+          918,
+          597
+        ],
+        [
+          233,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        445,
+        918,
+        482
+      ],
+      "text": "HOA VIÊN KÌ NGỘ TẬP (CUỐI THẾ KỈ XVIII)",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0279_viet_009",
+      "bbox": [
+        [
+          158,
+          523
+        ],
+        [
+          1053,
+          523
+        ],
+        [
+          1053,
+          559
+        ],
+        [
+          158,
+          559
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          638
+        ],
+        [
+          1053,
+          638
+        ],
+        [
+          1053,
+          674
+        ],
+        [
+          158,
+          674
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        523,
+        1053,
+        559
+      ],
+      "text": "Hoa viên kì ngộ tập (A.2829) là một tập truyện diễm tình",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0279_viet_010",
+      "bbox": [
+        [
+          100,
+          566
+        ],
+        [
+          1055,
+          566
+        ],
+        [
+          1055,
+          599
+        ],
+        [
+          100,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          681
+        ],
+        [
+          1055,
+          681
+        ],
+        [
+          1055,
+          714
+        ],
+        [
+          100,
+          714
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        566,
+        1055,
+        599
+      ],
+      "text": "Sách không ghi niên đại, tác giả, tưa, bạt, Câu đầu tiên trong tác nhiều",
+      "confidence": 0.8845
+    },
+    {
+      "line_id": "0279_viet_011",
+      "bbox": [
+        [
+          101,
+          608
+        ],
+        [
+          1055,
+          608
+        ],
+        [
+          1055,
+          641
+        ],
+        [
+          101,
+          641
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          723
+        ],
+        [
+          1055,
+          723
+        ],
+        [
+          1055,
+          756
+        ],
+        [
+          101,
+          756
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        608,
+        1055,
+        641
+      ],
+      "text": "\"Có phâm ghi: \"\"Vào niên hiệu Cảnh Hưng triều Lê ta\"\". Cách ghi đó thể thế\"",
+      "confidence": 0.807
+    },
+    {
+      "line_id": "0279_viet_012",
+      "bbox": [
+        [
+          96,
+          646
+        ],
+        [
+          1060,
+          650
+        ],
+        [
+          1060,
+          687
+        ],
+        [
+          96,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          761
+        ],
+        [
+          1060,
+          765
+        ],
+        [
+          1060,
+          802
+        ],
+        [
+          96,
+          798
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        646,
+        1060,
+        687
+      ],
+      "text": "cho phép khăng định tác phẩm này ra đời vào thời Lê Trung hưng.",
+      "confidence": 0.9014
+    },
+    {
+      "line_id": "0279_viet_013",
+      "bbox": [
+        [
+          97,
+          689
+        ],
+        [
+          1060,
+          694
+        ],
+        [
+          1060,
+          726
+        ],
+        [
+          97,
+          722
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          804
+        ],
+        [
+          1060,
+          809
+        ],
+        [
+          1060,
+          841
+        ],
+        [
+          97,
+          837
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        689,
+        1060,
+        726
+      ],
+      "text": "có thể là sau niên hiệu Cảnh Hưng (1740 ? 1786), trước khi nhà",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0279_viet_014",
+      "bbox": [
+        [
+          94,
+          730
+        ],
+        [
+          1057,
+          733
+        ],
+        [
+          1057,
+          770
+        ],
+        [
+          94,
+          767
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          845
+        ],
+        [
+          1057,
+          848
+        ],
+        [
+          1057,
+          885
+        ],
+        [
+          94,
+          882
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        730,
+        1057,
+        770
+      ],
+      "text": "Lê hoàn toàn sụp đồ (1789), Căn cứ vào nội dung thì đây là tác",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0279_viet_015",
+      "bbox": [
+        [
+          97,
+          774
+        ],
+        [
+          1057,
+          776
+        ],
+        [
+          1057,
+          809
+        ],
+        [
+          97,
+          806
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          889
+        ],
+        [
+          1057,
+          891
+        ],
+        [
+          1057,
+          924
+        ],
+        [
+          97,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        774,
+        1057,
+        809
+      ],
+      "text": "các phẩm việt dưới ảnh hưởng của dòng tiểu thuyết diễm tình tài tử nhật",
+      "confidence": 0.8573
+    },
+    {
+      "line_id": "0279_viet_016",
+      "bbox": [
+        [
+          98,
+          817
+        ],
+        [
+          1055,
+          817
+        ],
+        [
+          1055,
+          850
+        ],
+        [
+          98,
+          850
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          932
+        ],
+        [
+          1055,
+          932
+        ],
+        [
+          1055,
+          965
+        ],
+        [
+          98,
+          965
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        817,
+        1055,
+        850
+      ],
+      "text": "Trong giai nhân thời Minh ? Thanh, trong đó dâu vết ảnh hưởng sâu sắc người trong",
+      "confidence": 0.8488
+    },
+    {
+      "line_id": "0279_viet_017",
+      "bbox": [
+        [
+          95,
+          855
+        ],
+        [
+          1056,
+          859
+        ],
+        [
+          1056,
+          896
+        ],
+        [
+          94,
+          892
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          970
+        ],
+        [
+          1056,
+          974
+        ],
+        [
+          1056,
+          1011
+        ],
+        [
+          94,
+          1007
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        855,
+        1056,
+        896
+      ],
+      "text": "nhất là các tiểu thuyết Tầm phương nhã tập và Lưu sinh mịch liên",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0279_viet_018",
+      "bbox": [
+        [
+          96,
+          900
+        ],
+        [
+          1055,
+          903
+        ],
+        [
+          1055,
+          934
+        ],
+        [
+          96,
+          931
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          1015
+        ],
+        [
+          1055,
+          1018
+        ],
+        [
+          1055,
+          1049
+        ],
+        [
+          96,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        900,
+        1055,
+        934
+      ],
+      "text": "Thuật kí thuộc bộ tiêu thuyết Quốc sắc thiên hương của Ngô Kính Sở Tháng 1",
+      "confidence": 0.8304
+    },
+    {
+      "line_id": "0279_viet_019",
+      "bbox": [
+        [
+          96,
+          942
+        ],
+        [
+          1056,
+          945
+        ],
+        [
+          1056,
+          977
+        ],
+        [
+          96,
+          975
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          1057
+        ],
+        [
+          1056,
+          1060
+        ],
+        [
+          1056,
+          1092
+        ],
+        [
+          96,
+          1090
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        942,
+        1056,
+        977
+      ],
+      "text": "thời Minh (lời tựa của Cửu Tử Sơn Nhân Tạ Hữu Khả soạn tại tháng",
+      "confidence": 0.8688
+    },
+    {
+      "line_id": "0279_viet_020",
+      "bbox": [
+        [
+          97,
+          981
+        ],
+        [
+          1056,
+          987
+        ],
+        [
+          1056,
+          1023
+        ],
+        [
+          97,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          1096
+        ],
+        [
+          1056,
+          1102
+        ],
+        [
+          1056,
+          1138
+        ],
+        [
+          97,
+          1133
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        981,
+        1056,
+        1023
+      ],
+      "text": "Vạn Quyền lâu năm Đinh Hợi, niên hiệu Vạn Lịch, 1587). Trong",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0279_viet_021",
+      "bbox": [
+        [
+          93,
+          1022
+        ],
+        [
+          1057,
+          1026
+        ],
+        [
+          1057,
+          1067
+        ],
+        [
+          93,
+          1063
+        ]
+      ],
+      "bbox_original": [
+        [
+          93,
+          1137
+        ],
+        [
+          1057,
+          1141
+        ],
+        [
+          1057,
+          1182
+        ],
+        [
+          93,
+          1178
+        ]
+      ],
+      "box_xyxy": [
+        93,
+        1022,
+        1057,
+        1067
+      ],
+      "text": "truyện dùng xen nhiều thơ, từ. Riêng phần từ có tất cả 9 bài, trong",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0279_viet_022",
+      "bbox": [
+        [
+          94,
+          1065
+        ],
+        [
+          908,
+          1064
+        ],
+        [
+          908,
+          1105
+        ],
+        [
+          94,
+          1106
+        ]
+      ],
+      "bbox_original": [
+        [
+          94,
+          1180
+        ],
+        [
+          908,
+          1179
+        ],
+        [
+          908,
+          1220
+        ],
+        [
+          94,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        94,
+        1064,
+        908,
+        1106
+      ],
+      "text": "đó hai bài không ghi từ điệu. Dưới đây trích dịch 7 bài",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0279_viet_023",
+      "bbox": [
+        [
+          157,
+          1223
+        ],
+        [
+          378,
+          1226
+        ],
+        [
+          377,
+          1258
+        ],
+        [
+          156,
+          1255
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          1338
+        ],
+        [
+          378,
+          1341
+        ],
+        [
+          377,
+          1373
+        ],
+        [
+          156,
+          1370
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        1223,
+        378,
+        1258
+      ],
+      "text": "MIXES",
+      "confidence": 0.8227
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Cao dương vui thoá tôn nhan:",
+      "Vui nhất nhà nhiều tài tuấn;",
+      "Dâng chén hỏi han",
+      "Nhìn xe cỏ bồ vào triều kiến",
+      "HỘI HỢP QUAN VIÊN ĐẾN HẠNH ĐÀN",
+      "Đồng thanh chúc;",
+      "Đất Giáng mừng người tuổi mới, trị",
+      "Thiên hạ bình an.",
+      "HOA VIÊN KÌ NGỘ TẬP (CUỐI THẾ KỈ XVIII)",
+      "Hoa viên kì ngộ tập (A.2829) là một tập truyện diễm tình",
+      "Sách không ghi niên đại, tác giả, tưa, bạt, Câu đầu tiên trong tác nhiều",
+      "\"Có phâm ghi: \"\"Vào niên hiệu Cảnh Hưng triều Lê ta\"\". Cách ghi đó thể thế\"",
+      "cho phép khăng định tác phẩm này ra đời vào thời Lê Trung hưng.",
+      "có thể là sau niên hiệu Cảnh Hưng (1740 ? 1786), trước khi nhà",
+      "Lê hoàn toàn sụp đồ (1789), Căn cứ vào nội dung thì đây là tác",
+      "các phẩm việt dưới ảnh hưởng của dòng tiểu thuyết diễm tình tài tử nhật",
+      "Trong giai nhân thời Minh ? Thanh, trong đó dâu vết ảnh hưởng sâu sắc người trong",
+      "nhất là các tiểu thuyết Tầm phương nhã tập và Lưu sinh mịch liên",
+      "Thuật kí thuộc bộ tiêu thuyết Quốc sắc thiên hương của Ngô Kính Sở Tháng 1",
+      "thời Minh (lời tựa của Cửu Tử Sơn Nhân Tạ Hữu Khả soạn tại tháng",
+      "Vạn Quyền lâu năm Đinh Hợi, niên hiệu Vạn Lịch, 1587). Trong",
+      "truyện dùng xen nhiều thơ, từ. Riêng phần từ có tất cả 9 bài, trong",
+      "đó hai bài không ghi từ điệu. Dưới đây trích dịch 7 bài",
+      "MIXES"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1074 @@
+{
+  "page_id": "0102",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 102,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0102_viet_000",
+      "bbox": [
+        [
+          196,
+          30
+        ],
+        [
+          233,
+          30
+        ],
+        [
+          233,
+          60
+        ],
+        [
+          196,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          151
+        ],
+        [
+          233,
+          151
+        ],
+        [
+          233,
+          181
+        ],
+        [
+          196,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        30,
+        233,
+        60
+      ],
+      "text": "96",
+      "confidence": 0.9391
+    },
+    {
+      "line_id": "0102_viet_001",
+      "bbox": [
+        [
+          662,
+          27
+        ],
+        [
+          989,
+          29
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          661,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          662,
+          148
+        ],
+        [
+          989,
+          150
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          661,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        27,
+        989,
+        62
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0102_viet_002",
+      "bbox": [
+        [
+          371,
+          177
+        ],
+        [
+          798,
+          181
+        ],
+        [
+          798,
+          221
+        ],
+        [
+          371,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          298
+        ],
+        [
+          798,
+          302
+        ],
+        [
+          798,
+          342
+        ],
+        [
+          371,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        177,
+        798,
+        221
+      ],
+      "text": "Thăt trung cánh vô nhân",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0102_viet_003",
+      "bbox": [
+        [
+          436,
+          239
+        ],
+        [
+          754,
+          243
+        ],
+        [
+          754,
+          285
+        ],
+        [
+          435,
+          281
+        ]
+      ],
+      "bbox_original": [
+        [
+          436,
+          360
+        ],
+        [
+          754,
+          364
+        ],
+        [
+          754,
+          406
+        ],
+        [
+          435,
+          402
+        ]
+      ],
+      "box_xyxy": [
+        435,
+        239,
+        754,
+        285
+      ],
+      "text": "MALTH",
+      "confidence": 0.6665
+    },
+    {
+      "line_id": "0102_viet_004",
+      "bbox": [
+        [
+          373,
+          291
+        ],
+        [
+          732,
+          295
+        ],
+        [
+          732,
+          330
+        ],
+        [
+          373,
+          326
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          412
+        ],
+        [
+          732,
+          416
+        ],
+        [
+          732,
+          451
+        ],
+        [
+          373,
+          447
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        291,
+        732,
+        330
+      ],
+      "text": "Duy hữu nhũ hạ tôn",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0102_viet_005",
+      "bbox": [
+        [
+          373,
+          402
+        ],
+        [
+          748,
+          405
+        ],
+        [
+          747,
+          440
+        ],
+        [
+          373,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          523
+        ],
+        [
+          748,
+          526
+        ],
+        [
+          747,
+          561
+        ],
+        [
+          373,
+          558
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        402,
+        748,
+        440
+      ],
+      "text": "Tôn hữu mẫu vị khứ.",
+      "confidence": 0.8887
+    },
+    {
+      "line_id": "0102_viet_006",
+      "bbox": [
+        [
+          373,
+          512
+        ],
+        [
+          783,
+          516
+        ],
+        [
+          783,
+          551
+        ],
+        [
+          373,
+          547
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          633
+        ],
+        [
+          783,
+          637
+        ],
+        [
+          783,
+          672
+        ],
+        [
+          373,
+          668
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        512,
+        783,
+        551
+      ],
+      "text": "Xuất nhập vô hoàn quần",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0102_viet_007",
+      "bbox": [
+        [
+          437,
+          574
+        ],
+        [
+          756,
+          574
+        ],
+        [
+          756,
+          614
+        ],
+        [
+          437,
+          614
+        ]
+      ],
+      "bbox_original": [
+        [
+          437,
+          695
+        ],
+        [
+          756,
+          695
+        ],
+        [
+          756,
+          735
+        ],
+        [
+          437,
+          735
+        ]
+      ],
+      "box_xyxy": [
+        437,
+        574,
+        756,
+        614
+      ],
+      "text": "ĐỂ HỘ THỊ KẾ",
+      "confidence": 0.4115
+    },
+    {
+      "line_id": "0102_viet_008",
+      "bbox": [
+        [
+          372,
+          622
+        ],
+        [
+          707,
+          630
+        ],
+        [
+          707,
+          665
+        ],
+        [
+          371,
+          658
+        ]
+      ],
+      "bbox_original": [
+        [
+          372,
+          743
+        ],
+        [
+          707,
+          751
+        ],
+        [
+          707,
+          786
+        ],
+        [
+          371,
+          779
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        622,
+        707,
+        665
+      ],
+      "text": "Lão âu lực tuy suy,",
+      "confidence": 0.9003
+    },
+    {
+      "line_id": "0102_viet_009",
+      "bbox": [
+        [
+          375,
+          735
+        ],
+        [
+          748,
+          740
+        ],
+        [
+          747,
+          775
+        ],
+        [
+          374,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          375,
+          856
+        ],
+        [
+          748,
+          861
+        ],
+        [
+          747,
+          896
+        ],
+        [
+          374,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        374,
+        735,
+        748,
+        775
+      ],
+      "text": "Thỉnh tòng lại da qui,",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0102_viet_010",
+      "bbox": [
+        [
+          440,
+          800
+        ],
+        [
+          754,
+          800
+        ],
+        [
+          754,
+          840
+        ],
+        [
+          440,
+          840
+        ]
+      ],
+      "bbox_original": [
+        [
+          440,
+          921
+        ],
+        [
+          754,
+          921
+        ],
+        [
+          754,
+          961
+        ],
+        [
+          440,
+          961
+        ]
+      ],
+      "box_xyxy": [
+        440,
+        800,
+        754,
+        840
+      ],
+      "text": "03.017",
+      "confidence": 0.5496
+    },
+    {
+      "line_id": "0102_viet_011",
+      "bbox": [
+        [
+          375,
+          852
+        ],
+        [
+          791,
+          852
+        ],
+        [
+          791,
+          889
+        ],
+        [
+          375,
+          889
+        ]
+      ],
+      "bbox_original": [
+        [
+          375,
+          973
+        ],
+        [
+          791,
+          973
+        ],
+        [
+          791,
+          1010
+        ],
+        [
+          375,
+          1010
+        ]
+      ],
+      "box_xyxy": [
+        375,
+        852,
+        791,
+        889
+      ],
+      "text": "Căp ứng Hà-dương dịch,",
+      "confidence": 0.888
+    },
+    {
+      "line_id": "0102_viet_012",
+      "bbox": [
+        [
+          437,
+          916
+        ],
+        [
+          758,
+          916
+        ],
+        [
+          758,
+          956
+        ],
+        [
+          437,
+          956
+        ]
+      ],
+      "bbox_original": [
+        [
+          437,
+          1037
+        ],
+        [
+          758,
+          1037
+        ],
+        [
+          758,
+          1077
+        ],
+        [
+          437,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        437,
+        916,
+        758,
+        956
+      ],
+      "text": "17 LỄ DỰ OK",
+      "confidence": 0.5928
+    },
+    {
+      "line_id": "0102_viet_013",
+      "bbox": [
+        [
+          373,
+          962
+        ],
+        [
+          706,
+          969
+        ],
+        [
+          705,
+          1003
+        ],
+        [
+          373,
+          996
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          1083
+        ],
+        [
+          706,
+          1090
+        ],
+        [
+          705,
+          1124
+        ],
+        [
+          373,
+          1117
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        962,
+        706,
+        1003
+      ],
+      "text": "Do đắc bị thần xuy.",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0102_viet_014",
+      "bbox": [
+        [
+          439,
+          1028
+        ],
+        [
+          756,
+          1028
+        ],
+        [
+          756,
+          1068
+        ],
+        [
+          439,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          439,
+          1149
+        ],
+        [
+          756,
+          1149
+        ],
+        [
+          756,
+          1189
+        ],
+        [
+          439,
+          1189
+        ]
+      ],
+      "box_xyxy": [
+        439,
+        1028,
+        756,
+        1068
+      ],
+      "text": "gzzg4",
+      "confidence": 0.4095
+    },
+    {
+      "line_id": "0102_viet_015",
+      "bbox": [
+        [
+          373,
+          1076
+        ],
+        [
+          793,
+          1080
+        ],
+        [
+          793,
+          1115
+        ],
+        [
+          373,
+          1111
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          1197
+        ],
+        [
+          793,
+          1201
+        ],
+        [
+          793,
+          1236
+        ],
+        [
+          373,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        1076,
+        793,
+        1115
+      ],
+      "text": "Dạ cửu ngữ thanh tuyệt",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0102_viet_016",
+      "bbox": [
+        [
+          434,
+          1138
+        ],
+        [
+          760,
+          1142
+        ],
+        [
+          759,
+          1182
+        ],
+        [
+          434,
+          1178
+        ]
+      ],
+      "bbox_original": [
+        [
+          434,
+          1259
+        ],
+        [
+          760,
+          1263
+        ],
+        [
+          759,
+          1303
+        ],
+        [
+          434,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        434,
+        1138,
+        760,
+        1182
+      ],
+      "text": "40 Bì 1 g pg",
+      "confidence": 0.5896
+    },
+    {
+      "line_id": "0102_viet_017",
+      "bbox": [
+        [
+          372,
+          1187
+        ],
+        [
+          797,
+          1192
+        ],
+        [
+          796,
+          1231
+        ],
+        [
+          371,
+          1225
+        ]
+      ],
+      "bbox_original": [
+        [
+          372,
+          1308
+        ],
+        [
+          797,
+          1313
+        ],
+        [
+          796,
+          1352
+        ],
+        [
+          371,
+          1346
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1187,
+        797,
+        1231
+      ],
+      "text": "Như văn kháp thanh yết",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0102_viet_018",
+      "bbox": [
+        [
+          375,
+          1302
+        ],
+        [
+          797,
+          1304
+        ],
+        [
+          796,
+          1339
+        ],
+        [
+          375,
+          1337
+        ]
+      ],
+      "bbox_original": [
+        [
+          375,
+          1423
+        ],
+        [
+          797,
+          1425
+        ],
+        [
+          796,
+          1460
+        ],
+        [
+          375,
+          1458
+        ]
+      ],
+      "box_xyxy": [
+        375,
+        1302,
+        797,
+        1339
+      ],
+      "text": "Thiên minh đăng tiền đồ,",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0102_viet_019",
+      "bbox": [
+        [
+          373,
+          1416
+        ],
+        [
+          716,
+          1420
+        ],
+        [
+          715,
+          1453
+        ],
+        [
+          373,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          1537
+        ],
+        [
+          716,
+          1541
+        ],
+        [
+          715,
+          1574
+        ],
+        [
+          373,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        1416,
+        716,
+        1453
+      ],
+      "text": "Độc dữ lão ông biệt",
+      "confidence": 0.9331
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "96",
+      "Thăt trung cánh vô nhân",
+      "Duy hữu nhũ hạ tôn",
+      "Xuất nhập vô hoàn quần",
+      "Lão âu lực tuy suy,",
+      "03.017",
+      "17 LỄ DỰ OK",
+      "gzzg4",
+      "40 Bì 1 g pg",
+      "Thiên minh đăng tiền đồ,"
+    ],
+    "dich_nghia_lines": [
+      "HÁN-VĂN TINH-TUÝ",
+      "MALTH",
+      "Tôn hữu mẫu vị khứ.",
+      "ĐỂ HỘ THỊ KẾ",
+      "Thỉnh tòng lại da qui,",
+      "Căp ứng Hà-dương dịch,",
+      "Do đắc bị thần xuy.",
+      "Dạ cửu ngữ thanh tuyệt",
+      "Như văn kháp thanh yết",
+      "Độc dữ lão ông biệt"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "室中興更興無人",
+        "phien_am": "96",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "惟•有乳下孫",
+        "phien_am": "Thăt trung cánh vô nhân",
+        "dich_nghia_gloss": "MALTH"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "孫有母未去",
+        "phien_am": "Duy hữu nhũ hạ tôn",
+        "dich_nghia_gloss": "Tôn hữu mẫu vị khứ."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "出入無完務",
+        "phien_am": "Xuất nhập vô hoàn quần",
+        "dich_nghia_gloss": "ĐỂ HỘ THỊ KẾ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "老姬力雖•里",
+        "phien_am": "Lão âu lực tuy suy,",
+        "dich_nghia_gloss": "Thỉnh tòng lại da qui,"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "敬u lirt tur siey.",
+        "phien_am": "03.017",
+        "dich_nghia_gloss": "Căp ứng Hà-dương dịch,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "請從吏•夜歸",
+        "phien_am": "17 LỄ DỰ OK",
+        "dich_nghia_gloss": "Do đắc bị thần xuy."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "急應河陽役",
+        "phien_am": "gzzg4",
+        "dich_nghia_gloss": "Dạ cửu ngữ thanh tuyệt"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "猶得備晨炊",
+        "phien_am": "40 Bì 1 g pg",
+        "dich_nghia_gloss": "Như văn kháp thanh yết"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "夜久語聲絕",
+        "phien_am": "Thiên minh đăng tiền đồ,",
+        "dich_nghia_gloss": "Độc dữ lão ông biệt"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "如間泣聲咽",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "天明登前途",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "獨與老翁列",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "Doe:電",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

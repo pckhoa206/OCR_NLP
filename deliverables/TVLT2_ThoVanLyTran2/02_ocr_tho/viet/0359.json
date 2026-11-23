@@ -1,0 +1,1275 @@
+{
+  "page_id": "0359",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 359,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0359_viet_000",
+      "bbox": [
+        [
+          758,
+          99
+        ],
+        [
+          836,
+          99
+        ],
+        [
+          836,
+          150
+        ],
+        [
+          758,
+          150
+        ]
+      ],
+      "bbox_original": [
+        [
+          758,
+          254
+        ],
+        [
+          836,
+          254
+        ],
+        [
+          836,
+          305
+        ],
+        [
+          758,
+          305
+        ]
+      ],
+      "box_xyxy": [
+        758,
+        99,
+        836,
+        150
+      ],
+      "text": "121",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0359_viet_001",
+      "bbox": [
+        [
+          562,
+          182
+        ],
+        [
+          985,
+          182
+        ],
+        [
+          985,
+          257
+        ],
+        [
+          562,
+          257
+        ]
+      ],
+      "bbox_original": [
+        [
+          562,
+          337
+        ],
+        [
+          985,
+          337
+        ],
+        [
+          985,
+          412
+        ],
+        [
+          562,
+          412
+        ]
+      ],
+      "box_xyxy": [
+        562,
+        182,
+        985,
+        257
+      ],
+      "text": "T.7.6",
+      "confidence": 0.4788
+    },
+    {
+      "line_id": "0359_viet_002",
+      "bbox": [
+        [
+          193,
+          445
+        ],
+        [
+          718,
+          456
+        ],
+        [
+          717,
+          506
+        ],
+        [
+          192,
+          494
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          600
+        ],
+        [
+          718,
+          611
+        ],
+        [
+          717,
+          661
+        ],
+        [
+          192,
+          649
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        445,
+        718,
+        506
+      ],
+      "text": "VÀ ĐỂ TỚI ZÉE LẠK",
+      "confidence": 0.5321
+    },
+    {
+      "line_id": "0359_viet_003",
+      "bbox": [
+        [
+          181,
+          640
+        ],
+        [
+          346,
+          640
+        ],
+        [
+          346,
+          670
+        ],
+        [
+          181,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          795
+        ],
+        [
+          346,
+          795
+        ],
+        [
+          346,
+          825
+        ],
+        [
+          181,
+          825
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        640,
+        346,
+        670
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0359_viet_004",
+      "bbox": [
+        [
+          579,
+          677
+        ],
+        [
+          1018,
+          681
+        ],
+        [
+          1017,
+          718
+        ],
+        [
+          579,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          579,
+          832
+        ],
+        [
+          1018,
+          836
+        ],
+        [
+          1017,
+          873
+        ],
+        [
+          579,
+          868
+        ]
+      ],
+      "box_xyxy": [
+        579,
+        677,
+        1018,
+        718
+      ],
+      "text": "ĐINH TIÊN HOÀNG LUẬN",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0359_viet_005",
+      "bbox": [
+        [
+          275,
+          745
+        ],
+        [
+          1407,
+          758
+        ],
+        [
+          1406,
+          797
+        ],
+        [
+          274,
+          784
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          900
+        ],
+        [
+          1407,
+          913
+        ],
+        [
+          1406,
+          952
+        ],
+        [
+          274,
+          939
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        745,
+        1407,
+        797
+      ],
+      "text": "Tiên Hoàng dĩ quả nhân chi tài mình, cái thế chi dũng lược, đương ngã",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0359_viet_006",
+      "bbox": [
+        [
+          175,
+          790
+        ],
+        [
+          1409,
+          801
+        ],
+        [
+          1408,
+          840
+        ],
+        [
+          175,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          945
+        ],
+        [
+          1409,
+          956
+        ],
+        [
+          1408,
+          995
+        ],
+        [
+          175,
+          984
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        790,
+        1409,
+        840
+      ],
+      "text": "Niệt về chủ, quần hàng: cát cức chi thời, nhất cử: nhi, Thập nhị sứ quân tân",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0359_viet_007",
+      "bbox": [
+        [
+          180,
+          829
+        ],
+        [
+          1413,
+          842
+        ],
+        [
+          1413,
+          885
+        ],
+        [
+          179,
+          872
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          984
+        ],
+        [
+          1413,
+          997
+        ],
+        [
+          1413,
+          1040
+        ],
+        [
+          179,
+          1027
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        829,
+        1413,
+        885
+      ],
+      "text": "phục: kỳ: khai quốc kiến, đó, cải xưng Hoàng đế, tri bách, quan, thiết lục quân,",
+      "confidence": 0.893
+    },
+    {
+      "line_id": "0359_viet_008",
+      "bbox": [
+        [
+          169,
+          874
+        ],
+        [
+          1409,
+          887
+        ],
+        [
+          1408,
+          923
+        ],
+        [
+          168,
+          910
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1029
+        ],
+        [
+          1409,
+          1042
+        ],
+        [
+          1408,
+          1078
+        ],
+        [
+          168,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        874,
+        1409,
+        923
+      ],
+      "text": "chế đờ lược bị. Đãi thiên ý vị ngũ Việt phục sinh thánh triết, di tiếp Triệu",
+      "confidence": 0.9104
+    },
+    {
+      "line_id": "0359_viet_009",
+      "bbox": [
+        [
+          180,
+          914
+        ],
+        [
+          586,
+          921
+        ],
+        [
+          585,
+          958
+        ],
+        [
+          179,
+          951
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1069
+        ],
+        [
+          586,
+          1076
+        ],
+        [
+          585,
+          1113
+        ],
+        [
+          179,
+          1106
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        914,
+        586,
+        958
+      ],
+      "text": "Vương chi thống dã dir 7",
+      "confidence": 0.8634
+    },
+    {
+      "line_id": "0359_viet_010",
+      "bbox": [
+        [
+          171,
+          1015
+        ],
+        [
+          376,
+          1015
+        ],
+        [
+          376,
+          1043
+        ],
+        [
+          171,
+          1043
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1170
+        ],
+        [
+          376,
+          1170
+        ],
+        [
+          376,
+          1198
+        ],
+        [
+          171,
+          1198
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1015,
+        376,
+        1043
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0359_viet_011",
+      "bbox": [
+        [
+          523,
+          1045
+        ],
+        [
+          1059,
+          1054
+        ],
+        [
+          1058,
+          1097
+        ],
+        [
+          523,
+          1088
+        ]
+      ],
+      "bbox_original": [
+        [
+          523,
+          1200
+        ],
+        [
+          1059,
+          1209
+        ],
+        [
+          1058,
+          1252
+        ],
+        [
+          523,
+          1243
+        ]
+      ],
+      "box_xyxy": [
+        523,
+        1045,
+        1059,
+        1097
+      ],
+      "text": "BÀN VỀ ĐINH TIÊN HOÀNG (I)",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0359_viet_012",
+      "bbox": [
+        [
+          169,
+          1150
+        ],
+        [
+          1407,
+          1167
+        ],
+        [
+          1406,
+          1210
+        ],
+        [
+          168,
+          1193
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1305
+        ],
+        [
+          1407,
+          1322
+        ],
+        [
+          1406,
+          1365
+        ],
+        [
+          168,
+          1348
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1150,
+        1407,
+        1210
+      ],
+      "text": "hạ, đảm đương lúc nước Việt ta không có chủ, các hùng trưởng cát cứ khắp",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0359_viet_013",
+      "bbox": [
+        [
+          165,
+          1191
+        ],
+        [
+          1404,
+          1206
+        ],
+        [
+          1404,
+          1249
+        ],
+        [
+          164,
+          1233
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1346
+        ],
+        [
+          1404,
+          1361
+        ],
+        [
+          1404,
+          1404
+        ],
+        [
+          164,
+          1388
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        1191,
+        1404,
+        1249
+      ],
+      "text": "nơi, một lần cử sự, Mười hai sử quân đều thần phục hết, Thế rồi mở nước, dựng",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0359_viet_014",
+      "bbox": [
+        [
+          169,
+          1229
+        ],
+        [
+          1407,
+          1244
+        ],
+        [
+          1406,
+          1287
+        ],
+        [
+          168,
+          1272
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1384
+        ],
+        [
+          1407,
+          1399
+        ],
+        [
+          1406,
+          1442
+        ],
+        [
+          168,
+          1427
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1229,
+        1407,
+        1287
+      ],
+      "text": "đô, đồi niên hiệu, xirng Hoàng để, đặt trăm quan, lập sáu, quân, chế độ gần",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0359_viet_015",
+      "bbox": [
+        [
+          1367,
+          1362
+        ],
+        [
+          1398,
+          1362
+        ],
+        [
+          1398,
+          1377
+        ],
+        [
+          1367,
+          1377
+        ]
+      ],
+      "bbox_original": [
+        [
+          1367,
+          1517
+        ],
+        [
+          1398,
+          1517
+        ],
+        [
+          1398,
+          1532
+        ],
+        [
+          1367,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        1367,
+        1362,
+        1398,
+        1377
+      ],
+      "text": "...",
+      "confidence": 0.6169
+    },
+    {
+      "line_id": "0359_viet_016",
+      "bbox": [
+        [
+          174,
+          1434
+        ],
+        [
+          370,
+          1442
+        ],
+        [
+          369,
+          1476
+        ],
+        [
+          172,
+          1469
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          1589
+        ],
+        [
+          370,
+          1597
+        ],
+        [
+          369,
+          1631
+        ],
+        [
+          172,
+          1624
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1434,
+        370,
+        1476
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.8667
+    },
+    {
+      "line_id": "0359_viet_017",
+      "bbox": [
+        [
+          562,
+          1471
+        ],
+        [
+          936,
+          1480
+        ],
+        [
+          935,
+          1517
+        ],
+        [
+          561,
+          1507
+        ]
+      ],
+      "bbox_original": [
+        [
+          562,
+          1626
+        ],
+        [
+          936,
+          1635
+        ],
+        [
+          935,
+          1672
+        ],
+        [
+          561,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        561,
+        1471,
+        936,
+        1517
+      ],
+      "text": "XUẤT XỨ ĐVSKTT",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0359_viet_018",
+      "bbox": [
+        [
+          232,
+          1565
+        ],
+        [
+          1402,
+          1583
+        ],
+        [
+          1402,
+          1619
+        ],
+        [
+          231,
+          1602
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1720
+        ],
+        [
+          1402,
+          1738
+        ],
+        [
+          1402,
+          1774
+        ],
+        [
+          231,
+          1757
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1565,
+        1402,
+        1619
+      ],
+      "text": "Hoa-lư Ác lê): may thuộc tỉnh, Hà-nam-ninh, Sau khi dẹp xong Mười Sai sử quân (968)",
+      "confidence": 0.8797
+    },
+    {
+      "line_id": "0359_viet_019",
+      "bbox": [
+        [
+          188,
+          1600
+        ],
+        [
+          1402,
+          1617
+        ],
+        [
+          1402,
+          1656
+        ],
+        [
+          188,
+          1638
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1755
+        ],
+        [
+          1402,
+          1772
+        ],
+        [
+          1402,
+          1811
+        ],
+        [
+          188,
+          1793
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1600,
+        1402,
+        1656
+      ],
+      "text": "1995 - ông lên ngôi via, lập ra nhà Đinh, đóng đò ở Hoa-lư, Đinh Tiên Hoàng làm vua được",
+      "confidence": 0.8538
+    },
+    {
+      "line_id": "0359_viet_020",
+      "bbox": [
+        [
+          204,
+          1634
+        ],
+        [
+          502,
+          1643
+        ],
+        [
+          500,
+          1679
+        ],
+        [
+          203,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1789
+        ],
+        [
+          502,
+          1798
+        ],
+        [
+          500,
+          1834
+        ],
+        [
+          203,
+          1825
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        1634,
+        502,
+        1679
+      ],
+      "text": "12 năm (968 ? 979)",
+      "confidence": 0.8519
+    },
+    {
+      "line_id": "0359_viet_021",
+      "bbox": [
+        [
+          162,
+          1677
+        ],
+        [
+          1400,
+          1694
+        ],
+        [
+          1399,
+          1737
+        ],
+        [
+          162,
+          1720
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1832
+        ],
+        [
+          1400,
+          1849
+        ],
+        [
+          1399,
+          1892
+        ],
+        [
+          162,
+          1875
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1677,
+        1400,
+        1737
+      ],
+      "text": "(2) - Triệu vương: chỉ Triệu Đà 4% Nề (208 trước,CN ? 137 trước CN), vốn người Trung",
+      "confidence": 0.8896
+    },
+    {
+      "line_id": "0359_viet_022",
+      "bbox": [
+        [
+          236,
+          1715
+        ],
+        [
+          1402,
+          1731
+        ],
+        [
+          1402,
+          1773
+        ],
+        [
+          235,
+          1758
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1870
+        ],
+        [
+          1402,
+          1886
+        ],
+        [
+          1402,
+          1928
+        ],
+        [
+          235,
+          1913
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1715,
+        1402,
+        1773
+      ],
+      "text": "quốc, làm một chức Uy ở quận Nam-hải rõi .4 - khoảng năm 208 trước CN sang đánh",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0359_viet_023",
+      "bbox": [
+        [
+          229,
+          1756
+        ],
+        [
+          1404,
+          1769
+        ],
+        [
+          1404,
+          1806
+        ],
+        [
+          229,
+          1792
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1911
+        ],
+        [
+          1404,
+          1924
+        ],
+        [
+          1404,
+          1961
+        ],
+        [
+          229,
+          1947
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1756,
+        1404,
+        1806
+      ],
+      "text": "nước tai rồi xứng vương: Hầu-hết sử sách cử đều gọi là một triều í đại của nước ta, vì",
+      "confidence": 0.8957
+    },
+    {
+      "line_id": "0359_viet_024",
+      "bbox": [
+        [
+          229,
+          1786
+        ],
+        [
+          1404,
+          1801
+        ],
+        [
+          1404,
+          1844
+        ],
+        [
+          229,
+          1829
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1941
+        ],
+        [
+          1404,
+          1956
+        ],
+        [
+          1404,
+          1999
+        ],
+        [
+          229,
+          1984
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1786,
+        1404,
+        1844
+      ],
+      "text": "Triệu Đà đã xây durng mước Âu-lạc Sà 13-thành một quốc gia - riêng biệt, gọi là nước",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0359_viet_025",
+      "bbox": [
+        [
+          234,
+          1824
+        ],
+        [
+          797,
+          1838
+        ],
+        [
+          797,
+          1874
+        ],
+        [
+          233,
+          1861
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1979
+        ],
+        [
+          797,
+          1993
+        ],
+        [
+          797,
+          2029
+        ],
+        [
+          233,
+          2016
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1824,
+        797,
+        1874
+      ],
+      "text": "Nam-việt tến tỷ độc lập với nhà Hán",
+      "confidence": 0.86
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "121",
+      "T.7.6",
+      "VÀ ĐỂ TỚI ZÉE LẠK",
+      "ĐINH TIÊN HOÀNG LUẬN",
+      "Tiên Hoàng dĩ quả nhân chi tài mình, cái thế chi dũng lược, đương ngã",
+      "Niệt về chủ, quần hàng: cát cức chi thời, nhất cử: nhi, Thập nhị sứ quân tân",
+      "phục: kỳ: khai quốc kiến, đó, cải xưng Hoàng đế, tri bách, quan, thiết lục quân,",
+      "chế đờ lược bị. Đãi thiên ý vị ngũ Việt phục sinh thánh triết, di tiếp Triệu",
+      "Vương chi thống dã dir 7"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ ĐINH TIÊN HOÀNG (I)",
+      "hạ, đảm đương lúc nước Việt ta không có chủ, các hùng trưởng cát cứ khắp",
+      "nơi, một lần cử sự, Mười hai sử quân đều thần phục hết, Thế rồi mở nước, dựng",
+      "đô, đồi niên hiệu, xirng Hoàng để, đặt trăm quan, lập sáu, quân, chế độ gần",
+      "...",
+      "CHỦ THÍCH",
+      "XUẤT XỨ ĐVSKTT",
+      "Hoa-lư Ác lê): may thuộc tỉnh, Hà-nam-ninh, Sau khi dẹp xong Mười Sai sử quân (968)",
+      "1995 - ông lên ngôi via, lập ra nhà Đinh, đóng đò ở Hoa-lư, Đinh Tiên Hoàng làm vua được",
+      "12 năm (968 ? 979)",
+      "(2) - Triệu vương: chỉ Triệu Đà 4% Nề (208 trước,CN ? 137 trước CN), vốn người Trung",
+      "quốc, làm một chức Uy ở quận Nam-hải rõi .4 - khoảng năm 208 trước CN sang đánh",
+      "nước tai rồi xứng vương: Hầu-hết sử sách cử đều gọi là một triều í đại của nước ta, vì",
+      "Triệu Đà đã xây durng mước Âu-lạc Sà 13-thành một quốc gia - riêng biệt, gọi là nước",
+      "Nam-việt tến tỷ độc lập với nhà Hán"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

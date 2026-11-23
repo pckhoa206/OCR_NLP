@@ -1,0 +1,1002 @@
+{
+  "page_id": "0130",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 130,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0130_viet_000",
+      "bbox": [
+        [
+          196,
+          28
+        ],
+        [
+          250,
+          28
+        ],
+        [
+          250,
+          60
+        ],
+        [
+          196,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          149
+        ],
+        [
+          250,
+          149
+        ],
+        [
+          250,
+          181
+        ],
+        [
+          196,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        28,
+        250,
+        60
+      ],
+      "text": "124",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0130_viet_001",
+      "bbox": [
+        [
+          665,
+          27
+        ],
+        [
+          989,
+          27
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          665,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          148
+        ],
+        [
+          989,
+          148
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          665,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        27,
+        989,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0130_viet_002",
+      "bbox": [
+        [
+          253,
+          134
+        ],
+        [
+          775,
+          134
+        ],
+        [
+          775,
+          167
+        ],
+        [
+          253,
+          167
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          255
+        ],
+        [
+          775,
+          255
+        ],
+        [
+          775,
+          288
+        ],
+        [
+          253,
+          288
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        134,
+        775,
+        167
+      ],
+      "text": "038545509001911",
+      "confidence": 0.335
+    },
+    {
+      "line_id": "0130_viet_003",
+      "bbox": [
+        [
+          226,
+          184
+        ],
+        [
+          822,
+          186
+        ],
+        [
+          822,
+          226
+        ],
+        [
+          226,
+          224
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          305
+        ],
+        [
+          822,
+          307
+        ],
+        [
+          822,
+          347
+        ],
+        [
+          226,
+          345
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        184,
+        822,
+        226
+      ],
+      "text": "Nhất ngôn quân phú, tứ vận cầu thành",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0130_viet_004",
+      "bbox": [
+        [
+          225,
+          236
+        ],
+        [
+          980,
+          239
+        ],
+        [
+          980,
+          275
+        ],
+        [
+          224,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          357
+        ],
+        [
+          980,
+          360
+        ],
+        [
+          980,
+          396
+        ],
+        [
+          224,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        236,
+        980,
+        275
+      ],
+      "text": "Trước ngỏ một lời, sau bày tình ý, đồng thời bồn vận",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0130_viet_005",
+      "bbox": [
+        [
+          200,
+          277
+        ],
+        [
+          337,
+          289
+        ],
+        [
+          334,
+          324
+        ],
+        [
+          196,
+          312
+        ]
+      ],
+      "bbox_original": [
+        [
+          200,
+          398
+        ],
+        [
+          337,
+          410
+        ],
+        [
+          334,
+          445
+        ],
+        [
+          196,
+          433
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        277,
+        337,
+        324
+      ],
+      "text": "đếu xong.",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0130_viet_006",
+      "bbox": [
+        [
+          360,
+          378
+        ],
+        [
+          815,
+          380
+        ],
+        [
+          815,
+          420
+        ],
+        [
+          359,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          499
+        ],
+        [
+          815,
+          501
+        ],
+        [
+          815,
+          541
+        ],
+        [
+          359,
+          539
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        378,
+        815,
+        420
+      ],
+      "text": "1% 1, KỂ 11",
+      "confidence": 0.5561
+    },
+    {
+      "line_id": "0130_viet_007",
+      "bbox": [
+        [
+          282,
+          435
+        ],
+        [
+          802,
+          437
+        ],
+        [
+          801,
+          477
+        ],
+        [
+          282,
+          475
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          556
+        ],
+        [
+          802,
+          558
+        ],
+        [
+          801,
+          598
+        ],
+        [
+          282,
+          596
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        435,
+        802,
+        477
+      ],
+      "text": "Đằng-vương cao các lâm giang-chử,",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0130_viet_008",
+      "bbox": [
+        [
+          283,
+          572
+        ],
+        [
+          724,
+          572
+        ],
+        [
+          724,
+          611
+        ],
+        [
+          283,
+          611
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          693
+        ],
+        [
+          724,
+          693
+        ],
+        [
+          724,
+          732
+        ],
+        [
+          283,
+          732
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        572,
+        724,
+        611
+      ],
+      "text": "Bội ngọc minh loan bãi ca vũ.",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0130_viet_009",
+      "bbox": [
+        [
+          365,
+          646
+        ],
+        [
+          813,
+          646
+        ],
+        [
+          813,
+          686
+        ],
+        [
+          365,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          767
+        ],
+        [
+          813,
+          767
+        ],
+        [
+          813,
+          807
+        ],
+        [
+          365,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        646,
+        813,
+        686
+      ],
+      "text": "0310000000035",
+      "confidence": 0.2428
+    },
+    {
+      "line_id": "0130_viet_010",
+      "bbox": [
+        [
+          285,
+          706
+        ],
+        [
+          795,
+          706
+        ],
+        [
+          795,
+          745
+        ],
+        [
+          285,
+          745
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          827
+        ],
+        [
+          795,
+          827
+        ],
+        [
+          795,
+          866
+        ],
+        [
+          285,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        706,
+        795,
+        745
+      ],
+      "text": "Họa đồng triều phi nam-phô vân;",
+      "confidence": 0.8996
+    },
+    {
+      "line_id": "0130_viet_011",
+      "bbox": [
+        [
+          364,
+          780
+        ],
+        [
+          817,
+          778
+        ],
+        [
+          817,
+          820
+        ],
+        [
+          365,
+          822
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          901
+        ],
+        [
+          817,
+          899
+        ],
+        [
+          817,
+          941
+        ],
+        [
+          365,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        778,
+        817,
+        822
+      ],
+      "text": "2 - 4 5.1",
+      "confidence": 0.5373
+    },
+    {
+      "line_id": "0130_viet_012",
+      "bbox": [
+        [
+          283,
+          840
+        ],
+        [
+          763,
+          839
+        ],
+        [
+          763,
+          874
+        ],
+        [
+          284,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          961
+        ],
+        [
+          763,
+          960
+        ],
+        [
+          763,
+          995
+        ],
+        [
+          284,
+          997
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        839,
+        763,
+        876
+      ],
+      "text": "Châu liêm mộ quyền tây-sơn vũ",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0130_viet_013",
+      "bbox": [
+        [
+          280,
+          1014
+        ],
+        [
+          756,
+          1016
+        ],
+        [
+          756,
+          1050
+        ],
+        [
+          280,
+          1048
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1135
+        ],
+        [
+          756,
+          1137
+        ],
+        [
+          756,
+          1171
+        ],
+        [
+          280,
+          1169
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1014,
+        756,
+        1050
+      ],
+      "text": "Nhàn vân đàm ảnh nhật du du,",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0130_viet_014",
+      "bbox": [
+        [
+          283,
+          1148
+        ],
+        [
+          705,
+          1147
+        ],
+        [
+          705,
+          1182
+        ],
+        [
+          284,
+          1184
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          1269
+        ],
+        [
+          705,
+          1268
+        ],
+        [
+          705,
+          1303
+        ],
+        [
+          284,
+          1305
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        1147,
+        705,
+        1184
+      ],
+      "text": "Vật hoán tinh di kỷ độ thu i",
+      "confidence": 0.8991
+    },
+    {
+      "line_id": "0130_viet_015",
+      "bbox": [
+        [
+          361,
+          1224
+        ],
+        [
+          812,
+          1224
+        ],
+        [
+          812,
+          1264
+        ],
+        [
+          361,
+          1264
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1345
+        ],
+        [
+          812,
+          1345
+        ],
+        [
+          812,
+          1385
+        ],
+        [
+          361,
+          1385
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1224,
+        812,
+        1264
+      ],
+      "text": "03474174",
+      "confidence": 0.3593
+    },
+    {
+      "line_id": "0130_viet_016",
+      "bbox": [
+        [
+          280,
+          1282
+        ],
+        [
+          687,
+          1281
+        ],
+        [
+          687,
+          1321
+        ],
+        [
+          280,
+          1322
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1403
+        ],
+        [
+          687,
+          1402
+        ],
+        [
+          687,
+          1442
+        ],
+        [
+          280,
+          1443
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1281,
+        687,
+        1322
+      ],
+      "text": "Các-trung đề tử kim hà tại ?",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0130_viet_017",
+      "bbox": [
+        [
+          358,
+          1358
+        ],
+        [
+          813,
+          1358
+        ],
+        [
+          813,
+          1398
+        ],
+        [
+          358,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          358,
+          1479
+        ],
+        [
+          813,
+          1479
+        ],
+        [
+          813,
+          1519
+        ],
+        [
+          358,
+          1519
+        ]
+      ],
+      "box_xyxy": [
+        358,
+        1358,
+        813,
+        1398
+      ],
+      "text": "930000000056",
+      "confidence": 0.2625
+    },
+    {
+      "line_id": "0130_viet_018",
+      "bbox": [
+        [
+          280,
+          1416
+        ],
+        [
+          882,
+          1414
+        ],
+        [
+          883,
+          1455
+        ],
+        [
+          280,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1537
+        ],
+        [
+          882,
+          1535
+        ],
+        [
+          883,
+          1576
+        ],
+        [
+          280,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1414,
+        883,
+        1456
+      ],
+      "text": "Hạm ngoại trường giang không tự lưu",
+      "confidence": 0.9272
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "124",
+      "038545509001911",
+      "Trước ngỏ một lời, sau bày tình ý, đồng thời bồn vận",
+      "1% 1, KỂ 11",
+      "Bội ngọc minh loan bãi ca vũ.",
+      "Họa đồng triều phi nam-phô vân;",
+      "Châu liêm mộ quyền tây-sơn vũ",
+      "Vật hoán tinh di kỷ độ thu i",
+      "Các-trung đề tử kim hà tại ?",
+      "Hạm ngoại trường giang không tự lưu"
+    ],
+    "dich_nghia_lines": [
+      "HÁN-VĂN TINH-TUY",
+      "Nhất ngôn quân phú, tứ vận cầu thành",
+      "đếu xong.",
+      "Đằng-vương cao các lâm giang-chử,",
+      "0310000000035",
+      "2 - 4 5.1",
+      "Nhàn vân đàm ảnh nhật du du,",
+      "03474174",
+      "930000000056"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "一言均賦四龍俱成",
+        "phien_am": "124",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "!hin座",
+        "phien_am": "038545509001911",
+        "dich_nghia_gloss": "Nhất ngôn quân phú, tứ vận cầu thành"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "勝王高間雲臨江渚",
+        "phien_am": "Trước ngỏ một lời, sau bày tình ý, đồng thời bồn vận",
+        "dich_nghia_gloss": "đếu xong."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "佩玉鴻鸞兒罷歌舞",
+        "phien_am": "1% 1, KỂ 11",
+        "dich_nghia_gloss": "Đằng-vương cao các lâm giang-chử,"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "畫棟朝飛南浦雲",
+        "phien_am": "Bội ngọc minh loan bãi ca vũ.",
+        "dich_nghia_gloss": "0310000000035"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "朱簾墓港西山雨",
+        "phien_am": "Họa đồng triều phi nam-phô vân;",
+        "dich_nghia_gloss": "2 - 4 5.1"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "間雲潭影日悠悠",
+        "phien_am": "Châu liêm mộ quyền tây-sơn vũ",
+        "dich_nghia_gloss": "Nhàn vân đàm ảnh nhật du du,"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "物換星移幾度秋",
+        "phien_am": "Vật hoán tinh di kỷ độ thu i",
+        "dich_nghia_gloss": "03474174"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "閻乂中興帝子今何在",
+        "phien_am": "Các-trung đề tử kim hà tại ?",
+        "dich_nghia_gloss": "930000000056"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "檻外長江空自流",
+        "phien_am": "Hạm ngoại trường giang không tự lưu",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

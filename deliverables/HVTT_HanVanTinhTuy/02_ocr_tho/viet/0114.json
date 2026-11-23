@@ -1,0 +1,1280 @@
+{
+  "page_id": "0114",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 114,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0114_viet_000",
+      "bbox": [
+        [
+          194,
+          35
+        ],
+        [
+          248,
+          35
+        ],
+        [
+          248,
+          69
+        ],
+        [
+          194,
+          69
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          156
+        ],
+        [
+          248,
+          156
+        ],
+        [
+          248,
+          190
+        ],
+        [
+          194,
+          190
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        35,
+        248,
+        69
+      ],
+      "text": "j0e",
+      "confidence": 0.6566
+    },
+    {
+      "line_id": "0114_viet_001",
+      "bbox": [
+        [
+          663,
+          34
+        ],
+        [
+          989,
+          32
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          663,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          155
+        ],
+        [
+          989,
+          153
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          663,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        32,
+        989,
+        64
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0114_viet_002",
+      "bbox": [
+        [
+          250,
+          136
+        ],
+        [
+          640,
+          136
+        ],
+        [
+          640,
+          181
+        ],
+        [
+          250,
+          181
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          257
+        ],
+        [
+          640,
+          257
+        ],
+        [
+          640,
+          302
+        ],
+        [
+          250,
+          302
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        136,
+        640,
+        181
+      ],
+      "text": "18 HP L.3",
+      "confidence": 0.4474
+    },
+    {
+      "line_id": "0114_viet_003",
+      "bbox": [
+        [
+          226,
+          193
+        ],
+        [
+          661,
+          193
+        ],
+        [
+          661,
+          226
+        ],
+        [
+          226,
+          226
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          314
+        ],
+        [
+          661,
+          314
+        ],
+        [
+          661,
+          347
+        ],
+        [
+          226,
+          347
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        193,
+        661,
+        226
+      ],
+      "text": "Nghiêm tham phi u thượng lộ",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0114_viet_004",
+      "bbox": [
+        [
+          221,
+          236
+        ],
+        [
+          700,
+          238
+        ],
+        [
+          700,
+          278
+        ],
+        [
+          221,
+          276
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          357
+        ],
+        [
+          700,
+          359
+        ],
+        [
+          700,
+          399
+        ],
+        [
+          221,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        236,
+        700,
+        278
+      ],
+      "text": "Trông ngựa xe trên đường cái;",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0114_viet_005",
+      "bbox": [
+        [
+          248,
+          303
+        ],
+        [
+          641,
+          303
+        ],
+        [
+          641,
+          348
+        ],
+        [
+          248,
+          348
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          424
+        ],
+        [
+          641,
+          424
+        ],
+        [
+          641,
+          469
+        ],
+        [
+          248,
+          469
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        303,
+        641,
+        348
+      ],
+      "text": "VAGRÉT",
+      "confidence": 0.4164
+    },
+    {
+      "line_id": "0114_viet_006",
+      "bbox": [
+        [
+          226,
+          357
+        ],
+        [
+          641,
+          358
+        ],
+        [
+          641,
+          393
+        ],
+        [
+          226,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          478
+        ],
+        [
+          641,
+          479
+        ],
+        [
+          641,
+          514
+        ],
+        [
+          226,
+          513
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        357,
+        641,
+        393
+      ],
+      "text": "Phỏng phong cảnh u sùng an",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0114_viet_007",
+      "bbox": [
+        [
+          223,
+          405
+        ],
+        [
+          616,
+          409
+        ],
+        [
+          616,
+          444
+        ],
+        [
+          223,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          526
+        ],
+        [
+          616,
+          530
+        ],
+        [
+          616,
+          565
+        ],
+        [
+          223,
+          561
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        405,
+        616,
+        444
+      ],
+      "text": "hỏi phong cảnh nơi gò cao",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0114_viet_008",
+      "bbox": [
+        [
+          248,
+          470
+        ],
+        [
+          636,
+          470
+        ],
+        [
+          636,
+          511
+        ],
+        [
+          248,
+          511
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          591
+        ],
+        [
+          636,
+          591
+        ],
+        [
+          636,
+          632
+        ],
+        [
+          248,
+          632
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        470,
+        636,
+        511
+      ],
+      "text": "4325",
+      "confidence": 0.2484
+    },
+    {
+      "line_id": "0114_viet_009",
+      "bbox": [
+        [
+          226,
+          524
+        ],
+        [
+          623,
+          524
+        ],
+        [
+          623,
+          557
+        ],
+        [
+          226,
+          557
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          645
+        ],
+        [
+          623,
+          645
+        ],
+        [
+          623,
+          678
+        ],
+        [
+          226,
+          678
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        524,
+        623,
+        557
+      ],
+      "text": "Lâm đe-sử chỉ trường châu, trị",
+      "confidence": 0.8388
+    },
+    {
+      "line_id": "0114_viet_010",
+      "bbox": [
+        [
+          223,
+          569
+        ],
+        [
+          732,
+          571
+        ],
+        [
+          732,
+          606
+        ],
+        [
+          223,
+          604
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          690
+        ],
+        [
+          732,
+          692
+        ],
+        [
+          732,
+          727
+        ],
+        [
+          223,
+          725
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        569,
+        732,
+        606
+      ],
+      "text": "Đện miền trường châu của đề-tử,",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0114_viet_011",
+      "bbox": [
+        [
+          246,
+          640
+        ],
+        [
+          637,
+          634
+        ],
+        [
+          638,
+          674
+        ],
+        [
+          247,
+          680
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          761
+        ],
+        [
+          637,
+          755
+        ],
+        [
+          638,
+          795
+        ],
+        [
+          247,
+          801
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        634,
+        638,
+        680
+      ],
+      "text": "17 14 LZ Ề",
+      "confidence": 0.7128
+    },
+    {
+      "line_id": "0114_viet_012",
+      "bbox": [
+        [
+          225,
+          688
+        ],
+        [
+          640,
+          691
+        ],
+        [
+          639,
+          727
+        ],
+        [
+          224,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          809
+        ],
+        [
+          640,
+          812
+        ],
+        [
+          639,
+          848
+        ],
+        [
+          224,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        688,
+        640,
+        727
+      ],
+      "text": "Đức tiên-nhân chỉ cựu quin",
+      "confidence": 0.8697
+    },
+    {
+      "line_id": "0114_viet_013",
+      "bbox": [
+        [
+          223,
+          737
+        ],
+        [
+          729,
+          738
+        ],
+        [
+          729,
+          773
+        ],
+        [
+          223,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          858
+        ],
+        [
+          729,
+          859
+        ],
+        [
+          729,
+          894
+        ],
+        [
+          223,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        737,
+        729,
+        773
+      ],
+      "text": "tìm được quán cũ của người tiên",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0114_viet_014",
+      "bbox": [
+        [
+          223,
+          855
+        ],
+        [
+          891,
+          855
+        ],
+        [
+          891,
+          894
+        ],
+        [
+          223,
+          894
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          976
+        ],
+        [
+          891,
+          976
+        ],
+        [
+          891,
+          1015
+        ],
+        [
+          223,
+          1015
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        855,
+        891,
+        894
+      ],
+      "text": "Tâng loan tửng thúy, thượng xuất trùng-siêu",
+      "confidence": 0.9047
+    },
+    {
+      "line_id": "0114_viet_015",
+      "bbox": [
+        [
+          223,
+          902
+        ],
+        [
+          786,
+          907
+        ],
+        [
+          786,
+          943
+        ],
+        [
+          223,
+          937
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1023
+        ],
+        [
+          786,
+          1028
+        ],
+        [
+          786,
+          1064
+        ],
+        [
+          223,
+          1058
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        902,
+        786,
+        943
+      ],
+      "text": "Núi non cao biêc, nhô khỏi lớp mây",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0114_viet_016",
+      "bbox": [
+        [
+          251,
+          976
+        ],
+        [
+          780,
+          976
+        ],
+        [
+          780,
+          1014
+        ],
+        [
+          251,
+          1014
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1097
+        ],
+        [
+          780,
+          1097
+        ],
+        [
+          780,
+          1135
+        ],
+        [
+          251,
+          1135
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        976,
+        780,
+        1014
+      ],
+      "text": "NGUYỄN THỊ THẾ THẾ",
+      "confidence": 0.5618
+    },
+    {
+      "line_id": "0114_viet_017",
+      "bbox": [
+        [
+          226,
+          1026
+        ],
+        [
+          672,
+          1030
+        ],
+        [
+          671,
+          1063
+        ],
+        [
+          226,
+          1060
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1147
+        ],
+        [
+          672,
+          1151
+        ],
+        [
+          671,
+          1184
+        ],
+        [
+          226,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1026,
+        672,
+        1063
+      ],
+      "text": "Phi các lưu dan, hạ lâm vô địa",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0114_viet_018",
+      "bbox": [
+        [
+          223,
+          1075
+        ],
+        [
+          959,
+          1076
+        ],
+        [
+          958,
+          1115
+        ],
+        [
+          223,
+          1113
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1196
+        ],
+        [
+          959,
+          1197
+        ],
+        [
+          958,
+          1236
+        ],
+        [
+          223,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1075,
+        959,
+        1115
+      ],
+      "text": "bóng gác bay, màu son chảy, dưới không sát đầt",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0114_viet_019",
+      "bbox": [
+        [
+          248,
+          1145
+        ],
+        [
+          918,
+          1147
+        ],
+        [
+          918,
+          1187
+        ],
+        [
+          248,
+          1185
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1266
+        ],
+        [
+          918,
+          1268
+        ],
+        [
+          918,
+          1308
+        ],
+        [
+          248,
+          1306
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1145,
+        918,
+        1187
+      ],
+      "text": "Khác k đã bê lê z khác",
+      "confidence": 0.4226
+    },
+    {
+      "line_id": "0114_viet_020",
+      "bbox": [
+        [
+          229,
+          1200
+        ],
+        [
+          899,
+          1200
+        ],
+        [
+          899,
+          1234
+        ],
+        [
+          229,
+          1234
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1321
+        ],
+        [
+          899,
+          1321
+        ],
+        [
+          899,
+          1355
+        ],
+        [
+          229,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1200,
+        899,
+        1234
+      ],
+      "text": "Hạc đinh phù chử, cùng đảo dựs chỉ oanh hôi",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0114_viet_021",
+      "bbox": [
+        [
+          226,
+          1244
+        ],
+        [
+          888,
+          1245
+        ],
+        [
+          888,
+          1286
+        ],
+        [
+          226,
+          1284
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1365
+        ],
+        [
+          888,
+          1366
+        ],
+        [
+          888,
+          1407
+        ],
+        [
+          226,
+          1405
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1244,
+        888,
+        1286
+      ],
+      "text": "Bên hạc, bãi phù quanh-co đền tận đảo cồn;",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0114_viet_022",
+      "bbox": [
+        [
+          245,
+          1316
+        ],
+        [
+          920,
+          1312
+        ],
+        [
+          920,
+          1358
+        ],
+        [
+          245,
+          1361
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1437
+        ],
+        [
+          920,
+          1433
+        ],
+        [
+          920,
+          1479
+        ],
+        [
+          245,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1312,
+        920,
+        1361
+      ],
+      "text": "H Thành 3 PH Thị Zillezil",
+      "confidence": 0.4642
+    },
+    {
+      "line_id": "0114_viet_023",
+      "bbox": [
+        [
+          229,
+          1369
+        ],
+        [
+          915,
+          1368
+        ],
+        [
+          915,
+          1401
+        ],
+        [
+          230,
+          1403
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1490
+        ],
+        [
+          915,
+          1489
+        ],
+        [
+          915,
+          1522
+        ],
+        [
+          230,
+          1524
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1368,
+        915,
+        1403
+      ],
+      "text": "Quê điện lan cung, tức cương loan chi thể thê.",
+      "confidence": 0.901
+    },
+    {
+      "line_id": "0114_viet_024",
+      "bbox": [
+        [
+          226,
+          1415
+        ],
+        [
+          960,
+          1413
+        ],
+        [
+          960,
+          1448
+        ],
+        [
+          226,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1536
+        ],
+        [
+          960,
+          1534
+        ],
+        [
+          960,
+          1569
+        ],
+        [
+          226,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1413,
+        960,
+        1450
+      ],
+      "text": "điện quề, cung lan bày ra cái thể thể của núi non.",
+      "confidence": 0.9106
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "j0e",
+      "18 HP L.3",
+      "Trông ngựa xe trên đường cái;",
+      "Phỏng phong cảnh u sùng an",
+      "4325",
+      "Đện miền trường châu của đề-tử,",
+      "Đức tiên-nhân chỉ cựu quin",
+      "Tâng loan tửng thúy, thượng xuất trùng-siêu",
+      "NGUYỄN THỊ THẾ THẾ",
+      "bóng gác bay, màu son chảy, dưới không sát đầt"
+    ],
+    "dich_nghia_lines": [
+      "Hạc đinh phù chử, cùng đảo dựs chỉ oanh hôi",
+      "Bên hạc, bãi phù quanh-co đền tận đảo cồn;",
+      "H Thành 3 PH Thị Zillezil",
+      "Quê điện lan cung, tức cương loan chi thể thê.",
+      "điện quề, cung lan bày ra cái thể thể của núi non."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "像膠聯扮上路",
+        "phien_am": "j0e",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "訪風景放崇阿",
+        "phien_am": "18 HP L.3",
+        "dich_nghia_gloss": "Nghiêm tham phi u thượng lộ"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "臨帝子之長",
+        "phien_am": "Trông ngựa xe trên đường cái;",
+        "dich_nghia_gloss": "VAGRÉT"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "洲",
+        "phien_am": "Phỏng phong cảnh u sùng an",
+        "dich_nghia_gloss": "hỏi phong cảnh nơi gò cao"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "得仙囍人之舊館",
+        "phien_am": "4325",
+        "dich_nghia_gloss": "Lâm đe-sử chỉ trường châu, trị"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "層密年翠上出重宵",
+        "phien_am": "Đện miền trường châu của đề-tử,",
+        "dich_nghia_gloss": "17 14 LZ Ề"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "飛間流丹下臨無地",
+        "phien_am": "Đức tiên-nhân chỉ cựu quin",
+        "dich_nghia_gloss": "tìm được quán cũ của người tiên"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "鶴汀覓清窮島嶼之茶",
+        "phien_am": "Tâng loan tửng thúy, thượng xuất trùng-siêu",
+        "dich_nghia_gloss": "Núi non cao biêc, nhô khỏi lớp mây"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "桂興殿興蘭興宮",
+        "phien_am": "NGUYỄN THỊ THẾ THẾ",
+        "dich_nghia_gloss": "Phi các lưu dan, hạ lâm vô địa"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "印岡密之體剪",
+        "phien_am": "bóng gác bay, màu son chảy, dưới không sát đầt",
+        "dich_nghia_gloss": "Khác k đã bê lê z khác"
+      }
+    ]
+  }
+}

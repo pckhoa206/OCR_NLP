@@ -1,0 +1,1131 @@
+{
+  "page_id": "0311",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 311,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1066,
+    "footnote_separator_y_original": 1181,
+    "effective_width": 1122,
+    "effective_height": 1066
+  },
+  "items": [
+    {
+      "line_id": "0311_viet_000",
+      "bbox": [
+        [
+          125,
+          2
+        ],
+        [
+          951,
+          5
+        ],
+        [
+          951,
+          29
+        ],
+        [
+          125,
+          26
+        ]
+      ],
+      "bbox_original": [
+        [
+          125,
+          117
+        ],
+        [
+          951,
+          120
+        ],
+        [
+          951,
+          144
+        ],
+        [
+          125,
+          141
+        ]
+      ],
+      "box_xyxy": [
+        125,
+        2,
+        951,
+        29
+      ],
+      "text": "1974.517, NĂM 121, 177.17 KE.EATION",
+      "confidence": 0.5286
+    },
+    {
+      "line_id": "0311_viet_001",
+      "bbox": [
+        [
+          179,
+          49
+        ],
+        [
+          334,
+          53
+        ],
+        [
+          334,
+          82
+        ],
+        [
+          179,
+          78
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          164
+        ],
+        [
+          334,
+          168
+        ],
+        [
+          334,
+          197
+        ],
+        [
+          179,
+          193
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        49,
+        334,
+        82
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0311_viet_002",
+      "bbox": [
+        [
+          289,
+          98
+        ],
+        [
+          907,
+          100
+        ],
+        [
+          907,
+          132
+        ],
+        [
+          289,
+          130
+        ]
+      ],
+      "bbox_original": [
+        [
+          289,
+          213
+        ],
+        [
+          907,
+          215
+        ],
+        [
+          907,
+          247
+        ],
+        [
+          289,
+          245
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        98,
+        907,
+        132
+      ],
+      "text": "Khâm chúc đại vạn thọ từ khúc thập điệu thánh",
+      "confidence": 0.8571
+    },
+    {
+      "line_id": "0311_viet_003",
+      "bbox": [
+        [
+          179,
+          145
+        ],
+        [
+          1078,
+          145
+        ],
+        [
+          1078,
+          181
+        ],
+        [
+          179,
+          181
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          260
+        ],
+        [
+          1078,
+          260
+        ],
+        [
+          1078,
+          296
+        ],
+        [
+          179,
+          296
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        145,
+        1078,
+        181
+      ],
+      "text": "Xuân quý nhập cận, nghị thành, dư phụng nghĩ chúc hồ từ",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0311_viet_004",
+      "bbox": [
+        [
+          120,
+          188
+        ],
+        [
+          1072,
+          189
+        ],
+        [
+          1072,
+          221
+        ],
+        [
+          120,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          120,
+          303
+        ],
+        [
+          1072,
+          304
+        ],
+        [
+          1072,
+          336
+        ],
+        [
+          120,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        120,
+        188,
+        1072,
+        221
+      ],
+      "text": "19 thập điệu, tiên tả kim tiên, tuỳ biểu văn đầu đệ, Thanh đế ha chỉ, trong",
+      "confidence": 0.8495
+    },
+    {
+      "line_id": "0311_viet_005",
+      "bbox": [
+        [
+          118,
+          228
+        ],
+        [
+          1076,
+          231
+        ],
+        [
+          1076,
+          268
+        ],
+        [
+          118,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          343
+        ],
+        [
+          1076,
+          346
+        ],
+        [
+          1076,
+          383
+        ],
+        [
+          118,
+          380
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        228,
+        1076,
+        268
+      ],
+      "text": "10 trạch bản quốc linh công thập danh, án phách diễn xướng, đái tuỳ",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0311_viet_006",
+      "bbox": [
+        [
+          119,
+          270
+        ],
+        [
+          1078,
+          272
+        ],
+        [
+          1078,
+          309
+        ],
+        [
+          119,
+          307
+        ]
+      ],
+      "bbox_original": [
+        [
+          119,
+          385
+        ],
+        [
+          1078,
+          387
+        ],
+        [
+          1078,
+          424
+        ],
+        [
+          119,
+          422
+        ]
+      ],
+      "box_xyxy": [
+        119,
+        270,
+        1078,
+        309
+      ],
+      "text": "cận chúc. Chí thị, khâm thị ngự điện khai yến, Lễ bộ dẫn ngã",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0311_viet_007",
+      "bbox": [
+        [
+          119,
+          314
+        ],
+        [
+          1076,
+          315
+        ],
+        [
+          1076,
+          352
+        ],
+        [
+          119,
+          351
+        ]
+      ],
+      "bbox_original": [
+        [
+          119,
+          429
+        ],
+        [
+          1076,
+          430
+        ],
+        [
+          1076,
+          467
+        ],
+        [
+          119,
+          466
+        ]
+      ],
+      "box_xyxy": [
+        119,
+        314,
+        1076,
+        352
+      ],
+      "text": "xã quốc linh công, tiền nhập xướng khúc, phụng Đại hoàng đế gia nhau",
+      "confidence": 0.8651
+    },
+    {
+      "line_id": "0311_viet_008",
+      "bbox": [
+        [
+          118,
+          358
+        ],
+        [
+          1076,
+          361
+        ],
+        [
+          1076,
+          396
+        ],
+        [
+          118,
+          394
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          473
+        ],
+        [
+          1076,
+          476
+        ],
+        [
+          1076,
+          511
+        ],
+        [
+          118,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        358,
+        1076,
+        396
+      ],
+      "text": "duyệt, hậu thưởng ngân tệ, tái mệnh Thái thường quan tuyến lê",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0311_viet_009",
+      "bbox": [
+        [
+          117,
+          401
+        ],
+        [
+          1073,
+          403
+        ],
+        [
+          1073,
+          439
+        ],
+        [
+          117,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          516
+        ],
+        [
+          1073,
+          518
+        ],
+        [
+          1073,
+          554
+        ],
+        [
+          117,
+          552
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        401,
+        1073,
+        439
+      ],
+      "text": "viên thập nhân, y ngã quốc linh công trang dạng, Tú tài mạo;",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0311_viet_010",
+      "bbox": [
+        [
+          118,
+          444
+        ],
+        [
+          1075,
+          444
+        ],
+        [
+          1075,
+          479
+        ],
+        [
+          118,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          118,
+          559
+        ],
+        [
+          1075,
+          559
+        ],
+        [
+          1075,
+          594
+        ],
+        [
+          118,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        444,
+        1075,
+        479
+      ],
+      "text": "xã giao lĩnh y, cấm địch sênh có tê tưu, triệu ngã linh công nhập câm thuận thuận",
+      "confidence": 0.8252
+    },
+    {
+      "line_id": "0311_viet_011",
+      "bbox": [
+        [
+          117,
+          488
+        ],
+        [
+          1076,
+          489
+        ],
+        [
+          1076,
+          521
+        ],
+        [
+          117,
+          520
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          603
+        ],
+        [
+          1076,
+          604
+        ],
+        [
+          1076,
+          636
+        ],
+        [
+          117,
+          635
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        488,
+        1076,
+        521
+      ],
+      "text": "Nội, giao tha thao Nam âm, diên khúc điêu, số nhật tập thuc, Khai",
+      "confidence": 0.9028
+    },
+    {
+      "line_id": "0311_viet_012",
+      "bbox": [
+        [
+          115,
+          528
+        ],
+        [
+          1076,
+          534
+        ],
+        [
+          1076,
+          566
+        ],
+        [
+          114,
+          560
+        ]
+      ],
+      "bbox_original": [
+        [
+          115,
+          643
+        ],
+        [
+          1076,
+          649
+        ],
+        [
+          1076,
+          681
+        ],
+        [
+          114,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        114,
+        528,
+        1076,
+        566
+      ],
+      "text": "Xã yên thời, dân Nam Bắc linh công, phân liệt lưỡng hàng đối xướng",
+      "confidence": 0.8951
+    },
+    {
+      "line_id": "0311_viet_013",
+      "bbox": [
+        [
+          117,
+          570
+        ],
+        [
+          544,
+          575
+        ],
+        [
+          543,
+          610
+        ],
+        [
+          117,
+          605
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          685
+        ],
+        [
+          544,
+          690
+        ],
+        [
+          543,
+          725
+        ],
+        [
+          117,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        570,
+        544,
+        610
+      ],
+      "text": "Thể cách diệc tương phù hợp",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0311_viet_014",
+      "bbox": [
+        [
+          178,
+          622
+        ],
+        [
+          356,
+          622
+        ],
+        [
+          356,
+          656
+        ],
+        [
+          178,
+          656
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          737
+        ],
+        [
+          356,
+          737
+        ],
+        [
+          356,
+          771
+        ],
+        [
+          178,
+          771
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        622,
+        356,
+        656
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0311_viet_015",
+      "bbox": [
+        [
+          277,
+          669
+        ],
+        [
+          909,
+          667
+        ],
+        [
+          909,
+          703
+        ],
+        [
+          277,
+          704
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          784
+        ],
+        [
+          909,
+          782
+        ],
+        [
+          909,
+          818
+        ],
+        [
+          277,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        667,
+        909,
+        704
+      ],
+      "text": "Mười điệu từ khúc kính chức đại vạn thọ",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0311_viet_016",
+      "bbox": [
+        [
+          174,
+          714
+        ],
+        [
+          1078,
+          715
+        ],
+        [
+          1078,
+          752
+        ],
+        [
+          174,
+          751
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          829
+        ],
+        [
+          1078,
+          830
+        ],
+        [
+          1078,
+          867
+        ],
+        [
+          174,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        714,
+        1078,
+        752
+      ],
+      "text": "Cuối xuân vào chầu, bàn định xong, tôi vâng soạn? 10 bài từ",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0311_viet_017",
+      "bbox": [
+        [
+          117,
+          755
+        ],
+        [
+          1075,
+          759
+        ],
+        [
+          1075,
+          795
+        ],
+        [
+          117,
+          791
+        ]
+      ],
+      "bbox_original": [
+        [
+          117,
+          870
+        ],
+        [
+          1075,
+          874
+        ],
+        [
+          1075,
+          910
+        ],
+        [
+          117,
+          906
+        ]
+      ],
+      "box_xyxy": [
+        117,
+        755,
+        1075,
+        795
+      ],
+      "text": "xã để chúc phúc, trước hết viết ra kim tiên, đem đệ trình cùng biểu thuận",
+      "confidence": 0.8762
+    },
+    {
+      "line_id": "0311_viet_018",
+      "bbox": [
+        [
+          116,
+          802
+        ],
+        [
+          1074,
+          804
+        ],
+        [
+          1074,
+          836
+        ],
+        [
+          116,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          116,
+          917
+        ],
+        [
+          1074,
+          919
+        ],
+        [
+          1074,
+          951
+        ],
+        [
+          116,
+          949
+        ]
+      ],
+      "box_xyxy": [
+        116,
+        802,
+        1074,
+        836
+      ],
+      "text": "19 văn Hoàng đề nhà Thanh hạ chỉ chọn 10 nhạc công bản quốc , án thuận trị",
+      "confidence": 0.7971
+    },
+    {
+      "line_id": "0311_viet_019",
+      "bbox": [
+        [
+          115,
+          841
+        ],
+        [
+          1073,
+          846
+        ],
+        [
+          1073,
+          882
+        ],
+        [
+          114,
+          877
+        ]
+      ],
+      "bbox_original": [
+        [
+          115,
+          956
+        ],
+        [
+          1073,
+          961
+        ],
+        [
+          1073,
+          997
+        ],
+        [
+          114,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        114,
+        841,
+        1073,
+        882
+      ],
+      "text": "phách diễn xướng, đưa theo vào chầu chúc tụng. Đến lúc này,",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0311_viet_020",
+      "bbox": [
+        [
+          115,
+          885
+        ],
+        [
+          1075,
+          888
+        ],
+        [
+          1075,
+          923
+        ],
+        [
+          115,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          115,
+          1000
+        ],
+        [
+          1075,
+          1003
+        ],
+        [
+          1075,
+          1038
+        ],
+        [
+          115,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        115,
+        885,
+        1075,
+        923
+      ],
+      "text": "được hầu khai yên tại ngự điện, bộ Lễ dẫn nhạc công nước ta vào",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0311_viet_021",
+      "bbox": [
+        [
+          113,
+          929
+        ],
+        [
+          1074,
+          932
+        ],
+        [
+          1074,
+          965
+        ],
+        [
+          113,
+          962
+        ]
+      ],
+      "bbox_original": [
+        [
+          113,
+          1044
+        ],
+        [
+          1074,
+          1047
+        ],
+        [
+          1074,
+          1080
+        ],
+        [
+          113,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        113,
+        929,
+        1074,
+        965
+      ],
+      "text": "Thát trước, đại Hoàng đề đẹp dạ, hậu thưởng tiên bạc, lại mệnh cho nhau",
+      "confidence": 0.8673
+    },
+    {
+      "line_id": "0311_viet_022",
+      "bbox": [
+        [
+          116,
+          973
+        ],
+        [
+          1073,
+          974
+        ],
+        [
+          1073,
+          1010
+        ],
+        [
+          116,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          116,
+          1088
+        ],
+        [
+          1073,
+          1089
+        ],
+        [
+          1073,
+          1125
+        ],
+        [
+          116,
+          1124
+        ]
+      ],
+      "box_xyxy": [
+        116,
+        973,
+        1073,
+        1010
+      ],
+      "text": "quan Thái thường chọn 10 nhạc công?, phục trang giông như nhạc",
+      "confidence": 0.9214
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "1974.517, NĂM 121, 177.17 KE.EATION",
+      "Khâm chúc đại vạn thọ từ khúc thập điệu thánh",
+      "Xuân quý nhập cận, nghị thành, dư phụng nghĩ chúc hồ từ",
+      "19 thập điệu, tiên tả kim tiên, tuỳ biểu văn đầu đệ, Thanh đế ha chỉ, trong",
+      "10 trạch bản quốc linh công thập danh, án phách diễn xướng, đái tuỳ",
+      "cận chúc. Chí thị, khâm thị ngự điện khai yến, Lễ bộ dẫn ngã",
+      "xã quốc linh công, tiền nhập xướng khúc, phụng Đại hoàng đế gia nhau",
+      "duyệt, hậu thưởng ngân tệ, tái mệnh Thái thường quan tuyến lê",
+      "viên thập nhân, y ngã quốc linh công trang dạng, Tú tài mạo;",
+      "xã giao lĩnh y, cấm địch sênh có tê tưu, triệu ngã linh công nhập câm thuận thuận",
+      "Nội, giao tha thao Nam âm, diên khúc điêu, số nhật tập thuc, Khai",
+      "Xã yên thời, dân Nam Bắc linh công, phân liệt lưỡng hàng đối xướng",
+      "Thể cách diệc tương phù hợp"
+    ],
+    "dich_nghia_lines": [
+      "Mười điệu từ khúc kính chức đại vạn thọ",
+      "Cuối xuân vào chầu, bàn định xong, tôi vâng soạn? 10 bài từ",
+      "xã để chúc phúc, trước hết viết ra kim tiên, đem đệ trình cùng biểu thuận",
+      "19 văn Hoàng đề nhà Thanh hạ chỉ chọn 10 nhạc công bản quốc , án thuận trị",
+      "phách diễn xướng, đưa theo vào chầu chúc tụng. Đến lúc này,",
+      "được hầu khai yên tại ngự điện, bộ Lễ dẫn nhạc công nước ta vào",
+      "Thát trước, đại Hoàng đề đẹp dạ, hậu thưởng tiên bạc, lại mệnh cho nhau",
+      "quan Thái thường chọn 10 nhạc công?, phục trang giông như nhạc"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

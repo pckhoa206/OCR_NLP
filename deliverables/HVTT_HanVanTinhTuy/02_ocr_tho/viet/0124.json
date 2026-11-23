@@ -1,0 +1,1362 @@
+{
+  "page_id": "0124",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 124,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0124_viet_000",
+      "bbox": [
+        [
+          192,
+          28
+        ],
+        [
+          245,
+          28
+        ],
+        [
+          245,
+          60
+        ],
+        [
+          192,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          149
+        ],
+        [
+          245,
+          149
+        ],
+        [
+          245,
+          181
+        ],
+        [
+          192,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        28,
+        245,
+        60
+      ],
+      "text": "118",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0124_viet_001",
+      "bbox": [
+        [
+          668,
+          23
+        ],
+        [
+          989,
+          25
+        ],
+        [
+          989,
+          59
+        ],
+        [
+          668,
+          57
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          144
+        ],
+        [
+          989,
+          146
+        ],
+        [
+          989,
+          180
+        ],
+        [
+          668,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        23,
+        989,
+        59
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9022
+    },
+    {
+      "line_id": "0124_viet_002",
+      "bbox": [
+        [
+          228,
+          181
+        ],
+        [
+          916,
+          182
+        ],
+        [
+          916,
+          218
+        ],
+        [
+          228,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          302
+        ],
+        [
+          916,
+          303
+        ],
+        [
+          916,
+          339
+        ],
+        [
+          228,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        181,
+        916,
+        218
+      ],
+      "text": "Lão đương ích tráng, ninh trì bạch-thủ chi tâm",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0124_viet_003",
+      "bbox": [
+        [
+          223,
+          226
+        ],
+        [
+          960,
+          229
+        ],
+        [
+          960,
+          265
+        ],
+        [
+          223,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          347
+        ],
+        [
+          960,
+          350
+        ],
+        [
+          960,
+          386
+        ],
+        [
+          223,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        226,
+        960,
+        265
+      ],
+      "text": "Tuổi già càng phải mạnh, nên hiểu lòng đầu bạc;",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0124_viet_004",
+      "bbox": [
+        [
+          248,
+          288
+        ],
+        [
+          916,
+          291
+        ],
+        [
+          916,
+          332
+        ],
+        [
+          248,
+          328
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          409
+        ],
+        [
+          916,
+          412
+        ],
+        [
+          916,
+          453
+        ],
+        [
+          248,
+          449
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        288,
+        916,
+        332
+      ],
+      "text": "2013 LỚI TÉ R 5 TÉ",
+      "confidence": 0.4113
+    },
+    {
+      "line_id": "0124_viet_005",
+      "bbox": [
+        [
+          229,
+          343
+        ],
+        [
+          903,
+          343
+        ],
+        [
+          903,
+          377
+        ],
+        [
+          229,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          464
+        ],
+        [
+          903,
+          464
+        ],
+        [
+          903,
+          498
+        ],
+        [
+          229,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        343,
+        903,
+        377
+      ],
+      "text": "Cùng thà ích kiên, bất trụy thanh-văn chi chỉ",
+      "confidence": 0.8811
+    },
+    {
+      "line_id": "0124_viet_006",
+      "bbox": [
+        [
+          223,
+          387
+        ],
+        [
+          957,
+          388
+        ],
+        [
+          957,
+          424
+        ],
+        [
+          223,
+          422
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          508
+        ],
+        [
+          957,
+          509
+        ],
+        [
+          957,
+          545
+        ],
+        [
+          223,
+          543
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        387,
+        957,
+        424
+      ],
+      "text": "lúc cùng nên thêm vững, không rớt chí mây xanh",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0124_viet_007",
+      "bbox": [
+        [
+          250,
+          450
+        ],
+        [
+          982,
+          450
+        ],
+        [
+          982,
+          490
+        ],
+        [
+          250,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          571
+        ],
+        [
+          982,
+          571
+        ],
+        [
+          982,
+          611
+        ],
+        [
+          250,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        450,
+        982,
+        490
+      ],
+      "text": "HAI KT. R ĐẾ EX HOA HỌ NỘI",
+      "confidence": 0.4147
+    },
+    {
+      "line_id": "0124_viet_008",
+      "bbox": [
+        [
+          226,
+          499
+        ],
+        [
+          712,
+          504
+        ],
+        [
+          712,
+          539
+        ],
+        [
+          226,
+          534
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          620
+        ],
+        [
+          712,
+          625
+        ],
+        [
+          712,
+          660
+        ],
+        [
+          226,
+          655
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        499,
+        712,
+        539
+      ],
+      "text": "Chước tham-tuyên nhi giác sảng",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0124_viet_009",
+      "bbox": [
+        [
+          224,
+          552
+        ],
+        [
+          575,
+          552
+        ],
+        [
+          575,
+          586
+        ],
+        [
+          224,
+          586
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          673
+        ],
+        [
+          575,
+          673
+        ],
+        [
+          575,
+          707
+        ],
+        [
+          224,
+          707
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        552,
+        575,
+        586
+      ],
+      "text": "xử hạc triệt dĩ do hoan.",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0124_viet_010",
+      "bbox": [
+        [
+          223,
+          592
+        ],
+        [
+          776,
+          596
+        ],
+        [
+          776,
+          636
+        ],
+        [
+          223,
+          633
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          713
+        ],
+        [
+          776,
+          717
+        ],
+        [
+          776,
+          757
+        ],
+        [
+          223,
+          754
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        592,
+        776,
+        636
+      ],
+      "text": "Uồng nước Suối tham lòng vẫn sáng;",
+      "confidence": 0.8918
+    },
+    {
+      "line_id": "0124_viet_011",
+      "bbox": [
+        [
+          219,
+          638
+        ],
+        [
+          682,
+          639
+        ],
+        [
+          682,
+          680
+        ],
+        [
+          219,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          759
+        ],
+        [
+          682,
+          760
+        ],
+        [
+          682,
+          801
+        ],
+        [
+          219,
+          799
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        638,
+        682,
+        680
+      ],
+      "text": "ở nơi cùng khổ, bụng còn vui.",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0124_viet_012",
+      "bbox": [
+        [
+          248,
+          703
+        ],
+        [
+          773,
+          703
+        ],
+        [
+          773,
+          743
+        ],
+        [
+          248,
+          743
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          824
+        ],
+        [
+          773,
+          824
+        ],
+        [
+          773,
+          864
+        ],
+        [
+          248,
+          864
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        703,
+        773,
+        743
+      ],
+      "text": "VỀ LÀ HÀ ĐỀ T IẾ",
+      "confidence": 0.5823
+    },
+    {
+      "line_id": "0124_viet_013",
+      "bbox": [
+        [
+          228,
+          753
+        ],
+        [
+          721,
+          757
+        ],
+        [
+          720,
+          792
+        ],
+        [
+          228,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          874
+        ],
+        [
+          721,
+          878
+        ],
+        [
+          720,
+          913
+        ],
+        [
+          228,
+          909
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        753,
+        721,
+        792
+      ],
+      "text": "Bắc-hải tuy xa, phù dao khả tiếp;",
+      "confidence": 0.923
+    },
+    {
+      "line_id": "0124_viet_014",
+      "bbox": [
+        [
+          223,
+          800
+        ],
+        [
+          928,
+          800
+        ],
+        [
+          928,
+          839
+        ],
+        [
+          223,
+          839
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          921
+        ],
+        [
+          928,
+          921
+        ],
+        [
+          928,
+          960
+        ],
+        [
+          223,
+          960
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        800,
+        928,
+        839
+      ],
+      "text": "Biển bắc tuy xa-xôi, nhưng cõi gió có thể đi tới",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0124_viet_015",
+      "bbox": [
+        [
+          248,
+          864
+        ],
+        [
+          776,
+          864
+        ],
+        [
+          776,
+          904
+        ],
+        [
+          248,
+          904
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          985
+        ],
+        [
+          776,
+          985
+        ],
+        [
+          776,
+          1025
+        ],
+        [
+          248,
+          1025
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        864,
+        776,
+        904
+      ],
+      "text": "R E C Hệ từ xé k",
+      "confidence": 0.5776
+    },
+    {
+      "line_id": "0124_viet_016",
+      "bbox": [
+        [
+          219,
+          914
+        ],
+        [
+          724,
+          916
+        ],
+        [
+          724,
+          956
+        ],
+        [
+          219,
+          954
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1035
+        ],
+        [
+          724,
+          1037
+        ],
+        [
+          724,
+          1077
+        ],
+        [
+          219,
+          1075
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        914,
+        724,
+        956
+      ],
+      "text": "Đồng ngu dĩ thệ, tang du phi văn",
+      "confidence": 0.9176
+    },
+    {
+      "line_id": "0124_viet_017",
+      "bbox": [
+        [
+          221,
+          962
+        ],
+        [
+          926,
+          964
+        ],
+        [
+          926,
+          999
+        ],
+        [
+          221,
+          998
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1083
+        ],
+        [
+          926,
+          1085
+        ],
+        [
+          926,
+          1120
+        ],
+        [
+          221,
+          1119
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        962,
+        926,
+        999
+      ],
+      "text": "Đã để trôi qua lúc mặt trời mọc phương đông",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0124_viet_018",
+      "bbox": [
+        [
+          223,
+          1008
+        ],
+        [
+          744,
+          1008
+        ],
+        [
+          744,
+          1046
+        ],
+        [
+          223,
+          1046
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1129
+        ],
+        [
+          744,
+          1129
+        ],
+        [
+          744,
+          1167
+        ],
+        [
+          223,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1008,
+        744,
+        1046
+      ],
+      "text": "nhưng khi bóng lặn khóm tang-du,",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0124_viet_019",
+      "bbox": [
+        [
+          223,
+          1053
+        ],
+        [
+          503,
+          1049
+        ],
+        [
+          503,
+          1085
+        ],
+        [
+          223,
+          1088
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1174
+        ],
+        [
+          503,
+          1170
+        ],
+        [
+          503,
+          1206
+        ],
+        [
+          223,
+          1209
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1049,
+        503,
+        1088
+      ],
+      "text": "phải đầu đá muộn",
+      "confidence": 0.8924
+    },
+    {
+      "line_id": "0124_viet_020",
+      "bbox": [
+        [
+          224,
+          1167
+        ],
+        [
+          984,
+          1165
+        ],
+        [
+          984,
+          1200
+        ],
+        [
+          224,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1288
+        ],
+        [
+          984,
+          1286
+        ],
+        [
+          984,
+          1321
+        ],
+        [
+          224,
+          1323
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1165,
+        984,
+        1202
+      ],
+      "text": "Mạnh thường cao-khiết, không hoài báo quốc chi tâm",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0124_viet_021",
+      "bbox": [
+        [
+          224,
+          1214
+        ],
+        [
+          945,
+          1214
+        ],
+        [
+          945,
+          1247
+        ],
+        [
+          224,
+          1247
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1335
+        ],
+        [
+          945,
+          1335
+        ],
+        [
+          945,
+          1368
+        ],
+        [
+          224,
+          1368
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1214,
+        945,
+        1247
+      ],
+      "text": "Mạnh-thường thanh-cao, vẫn mang lòng báo quốc",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0124_viet_022",
+      "bbox": [
+        [
+          243,
+          1276
+        ],
+        [
+          918,
+          1269
+        ],
+        [
+          918,
+          1309
+        ],
+        [
+          243,
+          1316
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1397
+        ],
+        [
+          918,
+          1390
+        ],
+        [
+          918,
+          1430
+        ],
+        [
+          243,
+          1437
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1269,
+        918,
+        1316
+      ],
+      "text": "15 Người (12 (22 Tcx",
+      "confidence": 0.3253
+    },
+    {
+      "line_id": "0124_viet_023",
+      "bbox": [
+        [
+          223,
+          1324
+        ],
+        [
+          991,
+          1322
+        ],
+        [
+          991,
+          1363
+        ],
+        [
+          223,
+          1364
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1445
+        ],
+        [
+          991,
+          1443
+        ],
+        [
+          991,
+          1484
+        ],
+        [
+          223,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1322,
+        991,
+        1364
+      ],
+      "text": "Nguyễn Tích xướng-cuống, khởi hiệu cùng đồ chs",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0124_viet_024",
+      "bbox": [
+        [
+          199,
+          1378
+        ],
+        [
+          268,
+          1378
+        ],
+        [
+          268,
+          1409
+        ],
+        [
+          199,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1499
+        ],
+        [
+          268,
+          1499
+        ],
+        [
+          268,
+          1530
+        ],
+        [
+          199,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1378,
+        268,
+        1409
+      ],
+      "text": "khôc.",
+      "confidence": 0.8
+    },
+    {
+      "line_id": "0124_viet_025",
+      "bbox": [
+        [
+          221,
+          1420
+        ],
+        [
+          982,
+          1420
+        ],
+        [
+          982,
+          1458
+        ],
+        [
+          221,
+          1458
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1541
+        ],
+        [
+          982,
+          1541
+        ],
+        [
+          982,
+          1579
+        ],
+        [
+          221,
+          1579
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1420,
+        982,
+        1458
+      ],
+      "text": "Nguyễn Tịch rồ dại, há bắt chước khóc đường cùng",
+      "confidence": 0.9299
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "118",
+      "Lão đương ích tráng, ninh trì bạch-thủ chi tâm",
+      "2013 LỚI TÉ R 5 TÉ",
+      "lúc cùng nên thêm vững, không rớt chí mây xanh",
+      "Chước tham-tuyên nhi giác sảng",
+      "Uồng nước Suối tham lòng vẫn sáng;",
+      "VỀ LÀ HÀ ĐỀ T IẾ",
+      "Biển bắc tuy xa-xôi, nhưng cõi gió có thể đi tới",
+      "Đồng ngu dĩ thệ, tang du phi văn",
+      "nhưng khi bóng lặn khóm tang-du,",
+      "Mạnh thường cao-khiết, không hoài báo quốc chi tâm",
+      "15 Người (12 (22 Tcx",
+      "khôc."
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUÝ",
+      "Tuổi già càng phải mạnh, nên hiểu lòng đầu bạc;",
+      "Cùng thà ích kiên, bất trụy thanh-văn chi chỉ",
+      "HAI KT. R ĐẾ EX HOA HỌ NỘI",
+      "xử hạc triệt dĩ do hoan.",
+      "ở nơi cùng khổ, bụng còn vui.",
+      "Bắc-hải tuy xa, phù dao khả tiếp;",
+      "R E C Hệ từ xé k",
+      "Đã để trôi qua lúc mặt trời mọc phương đông",
+      "phải đầu đá muộn",
+      "Mạnh-thường thanh-cao, vẫn mang lòng báo quốc",
+      "Nguyễn Tích xướng-cuống, khởi hiệu cùng đồ chs",
+      "Nguyễn Tịch rồ dại, há bắt chước khóc đường cùng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "老當益壯寧知白首之心",
+        "phien_am": "118",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "窮且益堅不堡青雲之志",
+        "phien_am": "Lão đương ích tráng, ninh trì bạch-thủ chi tâm",
+        "dich_nghia_gloss": "Tuổi già càng phải mạnh, nên hiểu lòng đầu bạc;"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "酌貪泉而覺爽處涸轍以猶惟",
+        "phien_am": "2013 LỚI TÉ R 5 TÉ",
+        "dich_nghia_gloss": "Cùng thà ích kiên, bất trụy thanh-văn chi chỉ"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "北海雖股扶搖可接",
+        "phien_am": "lúc cùng nên thêm vững, không rớt chí mây xanh",
+        "dich_nghia_gloss": "HAI KT. R ĐẾ EX HOA HỌ NỘI"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "東隅已逝菜榆非晚",
+        "phien_am": "Chước tham-tuyên nhi giác sảng",
+        "dich_nghia_gloss": "xử hạc triệt dĩ do hoan."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "孟嘗高",
+        "phien_am": "Uồng nước Suối tham lòng vẫn sáng;",
+        "dich_nghia_gloss": "ở nơi cùng khổ, bụng còn vui."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "潔",
+        "phien_am": "VỀ LÀ HÀ ĐỀ T IẾ",
+        "dich_nghia_gloss": "Bắc-hải tuy xa, phù dao khả tiếp;"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "空",
+        "phien_am": "Biển bắc tuy xa-xôi, nhưng cõi gió có thể đi tới",
+        "dich_nghia_gloss": "R E C Hệ từ xé k"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "懷",
+        "phien_am": "Đồng ngu dĩ thệ, tang du phi văn",
+        "dich_nghia_gloss": "Đã để trôi qua lúc mặt trời mọc phương đông"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "報囍國崙之心",
+        "phien_am": "nhưng khi bóng lặn khóm tang-du,",
+        "dich_nghia_gloss": "phải đầu đá muộn"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "阮籍",
+        "phien_am": "Mạnh thường cao-khiết, không hoài báo quốc chi tâm",
+        "dich_nghia_gloss": "Mạnh-thường thanh-cao, vẫn mang lòng báo quốc"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "狂皇至",
+        "phien_am": "15 Người (12 (22 Tcx",
+        "dich_nghia_gloss": "Nguyễn Tích xướng-cuống, khởi hiệu cùng đồ chs"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "效興窮",
+        "phien_am": "khôc.",
+        "dich_nghia_gloss": "Nguyễn Tịch rồ dại, há bắt chước khóc đường cùng"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "途之哭",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

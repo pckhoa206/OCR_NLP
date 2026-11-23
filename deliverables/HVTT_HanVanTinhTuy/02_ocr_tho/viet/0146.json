@@ -1,0 +1,1419 @@
+{
+  "page_id": "0146",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 146,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0146_viet_000",
+      "bbox": [
+        [
+          194,
+          28
+        ],
+        [
+          248,
+          28
+        ],
+        [
+          248,
+          62
+        ],
+        [
+          194,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          149
+        ],
+        [
+          248,
+          149
+        ],
+        [
+          248,
+          183
+        ],
+        [
+          194,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        28,
+        248,
+        62
+      ],
+      "text": "140",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0146_viet_001",
+      "bbox": [
+        [
+          670,
+          28
+        ],
+        [
+          989,
+          28
+        ],
+        [
+          989,
+          57
+        ],
+        [
+          670,
+          57
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          149
+        ],
+        [
+          989,
+          149
+        ],
+        [
+          989,
+          178
+        ],
+        [
+          670,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        28,
+        989,
+        57
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0146_viet_002",
+      "bbox": [
+        [
+          248,
+          132
+        ],
+        [
+          982,
+          132
+        ],
+        [
+          982,
+          171
+        ],
+        [
+          248,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          253
+        ],
+        [
+          982,
+          253
+        ],
+        [
+          982,
+          292
+        ],
+        [
+          248,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        132,
+        982,
+        171
+      ],
+      "text": "PHAZAZAKZA",
+      "confidence": 0.5958
+    },
+    {
+      "line_id": "0146_viet_003",
+      "bbox": [
+        [
+          230,
+          177
+        ],
+        [
+          991,
+          181
+        ],
+        [
+          990,
+          219
+        ],
+        [
+          229,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          298
+        ],
+        [
+          991,
+          302
+        ],
+        [
+          990,
+          340
+        ],
+        [
+          229,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        177,
+        991,
+        219
+      ],
+      "text": "Sử phụ đồng chi trụ đa ư nam mẫu chi nông",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0146_viet_004",
+      "bbox": [
+        [
+          196,
+          226
+        ],
+        [
+          292,
+          226
+        ],
+        [
+          292,
+          261
+        ],
+        [
+          196,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          347
+        ],
+        [
+          292,
+          347
+        ],
+        [
+          292,
+          382
+        ],
+        [
+          196,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        226,
+        292,
+        261
+      ],
+      "text": "phu;",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0146_viet_005",
+      "bbox": [
+        [
+          221,
+          264
+        ],
+        [
+          989,
+          266
+        ],
+        [
+          989,
+          306
+        ],
+        [
+          221,
+          305
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          385
+        ],
+        [
+          989,
+          387
+        ],
+        [
+          989,
+          427
+        ],
+        [
+          221,
+          426
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        264,
+        989,
+        306
+      ],
+      "text": "Khiên cho những cây cột đội đòn nóc nhiều hơn",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0146_viet_006",
+      "bbox": [
+        [
+          194,
+          311
+        ],
+        [
+          913,
+          315
+        ],
+        [
+          913,
+          353
+        ],
+        [
+          194,
+          350
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          432
+        ],
+        [
+          913,
+          436
+        ],
+        [
+          913,
+          474
+        ],
+        [
+          194,
+          471
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        311,
+        913,
+        353
+      ],
+      "text": "những người nông-phu ở cánh đồng phía nam;",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0146_viet_007",
+      "bbox": [
+        [
+          248,
+          378
+        ],
+        [
+          984,
+          380
+        ],
+        [
+          984,
+          419
+        ],
+        [
+          248,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          499
+        ],
+        [
+          984,
+          501
+        ],
+        [
+          984,
+          540
+        ],
+        [
+          248,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        378,
+        984,
+        419
+      ],
+      "text": "PZ434421",
+      "confidence": 0.4989
+    },
+    {
+      "line_id": "0146_viet_008",
+      "bbox": [
+        [
+          230,
+          428
+        ],
+        [
+          989,
+          434
+        ],
+        [
+          989,
+          467
+        ],
+        [
+          229,
+          462
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          549
+        ],
+        [
+          989,
+          555
+        ],
+        [
+          989,
+          588
+        ],
+        [
+          229,
+          583
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        428,
+        989,
+        467
+      ],
+      "text": "dá lương chi triện đa ư cơ thượng chi công",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0146_viet_009",
+      "bbox": [
+        [
+          198,
+          471
+        ],
+        [
+          273,
+          478
+        ],
+        [
+          270,
+          510
+        ],
+        [
+          195,
+          503
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          592
+        ],
+        [
+          273,
+          599
+        ],
+        [
+          270,
+          631
+        ],
+        [
+          195,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        471,
+        273,
+        510
+      ],
+      "text": "nữ",
+      "confidence": 0.8721
+    },
+    {
+      "line_id": "0146_viet_010",
+      "bbox": [
+        [
+          224,
+          517
+        ],
+        [
+          989,
+          517
+        ],
+        [
+          989,
+          556
+        ],
+        [
+          224,
+          556
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          638
+        ],
+        [
+          989,
+          638
+        ],
+        [
+          989,
+          677
+        ],
+        [
+          224,
+          677
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        517,
+        989,
+        556
+      ],
+      "text": "những khúc gỗ gác rường nhà nhiều hơn những cô",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0146_viet_011",
+      "bbox": [
+        [
+          198,
+          561
+        ],
+        [
+          557,
+          563
+        ],
+        [
+          557,
+          598
+        ],
+        [
+          197,
+          596
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          682
+        ],
+        [
+          557,
+          684
+        ],
+        [
+          557,
+          719
+        ],
+        [
+          197,
+          717
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        561,
+        557,
+        598
+      ],
+      "text": "thợ dệt trên khung cửi;",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0146_viet_012",
+      "bbox": [
+        [
+          246,
+          626
+        ],
+        [
+          987,
+          623
+        ],
+        [
+          987,
+          668
+        ],
+        [
+          247,
+          671
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          747
+        ],
+        [
+          987,
+          744
+        ],
+        [
+          987,
+          789
+        ],
+        [
+          247,
+          792
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        623,
+        987,
+        671
+      ],
+      "text": "11 HẠ 3 ĐỀ LẦN XXX",
+      "confidence": 0.4101
+    },
+    {
+      "line_id": "0146_viet_013",
+      "bbox": [
+        [
+          235,
+          673
+        ],
+        [
+          955,
+          676
+        ],
+        [
+          955,
+          715
+        ],
+        [
+          234,
+          711
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          794
+        ],
+        [
+          955,
+          797
+        ],
+        [
+          955,
+          836
+        ],
+        [
+          234,
+          832
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        673,
+        955,
+        715
+      ],
+      "text": "đinh đầu lân lân, đa ư tại dữu chi túc lạp;",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0146_viet_014",
+      "bbox": [
+        [
+          224,
+          720
+        ],
+        [
+          991,
+          720
+        ],
+        [
+          991,
+          758
+        ],
+        [
+          224,
+          758
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          841
+        ],
+        [
+          991,
+          841
+        ],
+        [
+          991,
+          879
+        ],
+        [
+          224,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        720,
+        991,
+        758
+      ],
+      "text": "những dầu đinh chạm nhau kêu vang nhiều hơn",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0146_viet_015",
+      "bbox": [
+        [
+          198,
+          765
+        ],
+        [
+          675,
+          767
+        ],
+        [
+          675,
+          802
+        ],
+        [
+          197,
+          800
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          886
+        ],
+        [
+          675,
+          888
+        ],
+        [
+          675,
+          923
+        ],
+        [
+          197,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        765,
+        675,
+        802
+      ],
+      "text": "những hột thóc trong kho chứa;",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0146_viet_016",
+      "bbox": [
+        [
+          235,
+          884
+        ],
+        [
+          987,
+          884
+        ],
+        [
+          987,
+          917
+        ],
+        [
+          235,
+          917
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1005
+        ],
+        [
+          987,
+          1005
+        ],
+        [
+          987,
+          1038
+        ],
+        [
+          235,
+          1038
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        884,
+        987,
+        917
+      ],
+      "text": "ngóa phùng sâm si, đa ư chu thân chi bach lú:",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0146_viet_017",
+      "bbox": [
+        [
+          223,
+          924
+        ],
+        [
+          991,
+          922
+        ],
+        [
+          991,
+          962
+        ],
+        [
+          223,
+          964
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1045
+        ],
+        [
+          991,
+          1043
+        ],
+        [
+          991,
+          1083
+        ],
+        [
+          223,
+          1085
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        922,
+        991,
+        964
+      ],
+      "text": "những đường ngói tiếp giáp nhau so-le nhiều hơn",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0146_viet_018",
+      "bbox": [
+        [
+          197,
+          969
+        ],
+        [
+          849,
+          969
+        ],
+        [
+          849,
+          1008
+        ],
+        [
+          197,
+          1008
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1090
+        ],
+        [
+          849,
+          1090
+        ],
+        [
+          849,
+          1129
+        ],
+        [
+          197,
+          1129
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        969,
+        849,
+        1008
+      ],
+      "text": "những sợi vải, sợi tơ che phủ khắp mình",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0146_viet_019",
+      "bbox": [
+        [
+          253,
+          1035
+        ],
+        [
+          982,
+          1033
+        ],
+        [
+          982,
+          1073
+        ],
+        [
+          253,
+          1075
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1156
+        ],
+        [
+          982,
+          1154
+        ],
+        [
+          982,
+          1194
+        ],
+        [
+          253,
+          1196
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1033,
+        982,
+        1075
+      ],
+      "text": "trần đế 3%rizeria",
+      "confidence": 0.5787
+    },
+    {
+      "line_id": "0146_viet_020",
+      "bbox": [
+        [
+          231,
+          1086
+        ],
+        [
+          989,
+          1083
+        ],
+        [
+          989,
+          1116
+        ],
+        [
+          231,
+          1120
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1207
+        ],
+        [
+          989,
+          1204
+        ],
+        [
+          989,
+          1237
+        ],
+        [
+          231,
+          1241
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1083,
+        989,
+        1120
+      ],
+      "text": "trực lan hoành hạm đa ư cửu thồ chi thành",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0146_viet_021",
+      "bbox": [
+        [
+          197,
+          1132
+        ],
+        [
+          319,
+          1126
+        ],
+        [
+          321,
+          1163
+        ],
+        [
+          199,
+          1169
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1253
+        ],
+        [
+          319,
+          1247
+        ],
+        [
+          321,
+          1284
+        ],
+        [
+          199,
+          1290
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1126,
+        321,
+        1169
+      ],
+      "text": "quách ;",
+      "confidence": 0.8519
+    },
+    {
+      "line_id": "0146_viet_022",
+      "bbox": [
+        [
+          223,
+          1168
+        ],
+        [
+          533,
+          1172
+        ],
+        [
+          533,
+          1212
+        ],
+        [
+          223,
+          1208
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1289
+        ],
+        [
+          533,
+          1293
+        ],
+        [
+          533,
+          1333
+        ],
+        [
+          223,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1168,
+        533,
+        1212
+      ],
+      "text": "những lan-can thẳng",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0146_viet_023",
+      "bbox": [
+        [
+          224,
+          1217
+        ],
+        [
+          987,
+          1217
+        ],
+        [
+          987,
+          1257
+        ],
+        [
+          224,
+          1257
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1338
+        ],
+        [
+          987,
+          1338
+        ],
+        [
+          987,
+          1378
+        ],
+        [
+          224,
+          1378
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1217,
+        987,
+        1257
+      ],
+      "text": "những ván hiên-ngang nhiều hơn những thành",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0146_viet_024",
+      "bbox": [
+        [
+          197,
+          1266
+        ],
+        [
+          513,
+          1264
+        ],
+        [
+          513,
+          1299
+        ],
+        [
+          198,
+          1301
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1387
+        ],
+        [
+          513,
+          1385
+        ],
+        [
+          513,
+          1420
+        ],
+        [
+          198,
+          1422
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1264,
+        513,
+        1301
+      ],
+      "text": "quách của chín châu;",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0146_viet_025",
+      "bbox": [
+        [
+          248,
+          1322
+        ],
+        [
+          987,
+          1326
+        ],
+        [
+          987,
+          1366
+        ],
+        [
+          248,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1443
+        ],
+        [
+          987,
+          1447
+        ],
+        [
+          987,
+          1487
+        ],
+        [
+          248,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1322,
+        987,
+        1366
+      ],
+      "text": "E 3è về 3% định x z là 13",
+      "confidence": 0.5589
+    },
+    {
+      "line_id": "0146_viet_026",
+      "bbox": [
+        [
+          233,
+          1376
+        ],
+        [
+          987,
+          1374
+        ],
+        [
+          987,
+          1413
+        ],
+        [
+          233,
+          1415
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1497
+        ],
+        [
+          987,
+          1495
+        ],
+        [
+          987,
+          1534
+        ],
+        [
+          233,
+          1536
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1374,
+        987,
+        1415
+      ],
+      "text": "quản huyền âu nha, đa ư thị nhân chi ngôn ngữ",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0146_viet_027",
+      "bbox": [
+        [
+          228,
+          1421
+        ],
+        [
+          984,
+          1421
+        ],
+        [
+          984,
+          1455
+        ],
+        [
+          228,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1542
+        ],
+        [
+          984,
+          1542
+        ],
+        [
+          984,
+          1576
+        ],
+        [
+          228,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1421,
+        984,
+        1455
+      ],
+      "text": "tiếng đàn sáo ổn ào nhiều hơn tiếng người trong chợ",
+      "confidence": 0.906
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "140",
+      "PHAZAZAKZA",
+      "phu;",
+      "những người nông-phu ở cánh đồng phía nam;",
+      "dá lương chi triện đa ư cơ thượng chi công",
+      "những khúc gỗ gác rường nhà nhiều hơn những cô",
+      "11 HẠ 3 ĐỀ LẦN XXX",
+      "những dầu đinh chạm nhau kêu vang nhiều hơn",
+      "ngóa phùng sâm si, đa ư chu thân chi bach lú:"
+    ],
+    "dich_nghia_lines": [
+      "những sợi vải, sợi tơ che phủ khắp mình",
+      "trần đế 3%rizeria",
+      "trực lan hoành hạm đa ư cửu thồ chi thành",
+      "quách ;",
+      "những lan-can thẳng",
+      "những ván hiên-ngang nhiều hơn những thành",
+      "quách của chín châu;",
+      "E 3è về 3% định x z là 13",
+      "quản huyền âu nha, đa ư thị nhân chi ngôn ngữ",
+      "tiếng đàn sáo ổn ào nhiều hơn tiếng người trong chợ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "使貨棟之柱多玲南敵之農夫",
+        "phien_am": "140",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "北",
+        "phien_am": "PHAZAZAKZA",
+        "dich_nghia_gloss": "Sử phụ đồng chi trụ đa ư nam mẫu chi nông"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "架梁之核多鈴機上之工女",
+        "phien_am": "phu;",
+        "dich_nghia_gloss": "Khiên cho những cây cột đội đòn nóc nhiều hơn"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "釘頭磷磷多扮在使之慄粒",
+        "phien_am": "những người nông-phu ở cánh đồng phía nam;",
+        "dich_nghia_gloss": "PZ434421"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "縫參差多妙周身之泉線",
+        "phien_am": "dá lương chi triện đa ư cơ thượng chi công",
+        "dich_nghia_gloss": "nữ"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "直欄橫盤多",
+        "phien_am": "những khúc gỗ gác rường nhà nhiều hơn những cô",
+        "dich_nghia_gloss": "thợ dệt trên khung cửi;"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "鈴九土之城郭",
+        "phien_am": "11 HẠ 3 ĐỀ LẦN XXX",
+        "dich_nghia_gloss": "đinh đầu lân lân, đa ư tại dữu chi túc lạp;"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "管興弦區啞多興力",
+        "phien_am": "những dầu đinh chạm nhau kêu vang nhiều hơn",
+        "dich_nghia_gloss": "những hột thóc trong kho chứa;"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "玲市人之言語",
+        "phien_am": "ngóa phùng sâm si, đa ư chu thân chi bach lú:",
+        "dich_nghia_gloss": "những đường ngói tiếp giáp nhau so-le nhiều hơn"
+      }
+    ]
+  }
+}

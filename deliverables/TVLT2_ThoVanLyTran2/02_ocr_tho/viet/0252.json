@@ -1,0 +1,1660 @@
+{
+  "page_id": "0252",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 252,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0252_viet_000",
+      "bbox": [
+        [
+          179,
+          105
+        ],
+        [
+          350,
+          105
+        ],
+        [
+          350,
+          135
+        ],
+        [
+          179,
+          135
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          260
+        ],
+        [
+          350,
+          260
+        ],
+        [
+          350,
+          290
+        ],
+        [
+          179,
+          290
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        105,
+        350,
+        135
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.8768
+    },
+    {
+      "line_id": "0252_viet_001",
+      "bbox": [
+        [
+          668,
+          133
+        ],
+        [
+          907,
+          135
+        ],
+        [
+          907,
+          171
+        ],
+        [
+          667,
+          169
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          288
+        ],
+        [
+          907,
+          290
+        ],
+        [
+          907,
+          326
+        ],
+        [
+          667,
+          324
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        133,
+        907,
+        171
+      ],
+      "text": "XUẤT XỨ: TSNL",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0252_viet_002",
+      "bbox": [
+        [
+          229,
+          227
+        ],
+        [
+          1406,
+          229
+        ],
+        [
+          1406,
+          272
+        ],
+        [
+          229,
+          270
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          382
+        ],
+        [
+          1406,
+          384
+        ],
+        [
+          1406,
+          427
+        ],
+        [
+          229,
+          425
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        227,
+        1406,
+        272
+      ],
+      "text": "Quốc Nghiễn Tất Đuý, Ông có tham gia cuộc kháng chiến chống xâm lược Nguyên",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0252_viet_003",
+      "bbox": [
+        [
+          236,
+          291
+        ],
+        [
+          1400,
+          298
+        ],
+        [
+          1400,
+          336
+        ],
+        [
+          235,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          446
+        ],
+        [
+          1400,
+          453
+        ],
+        [
+          1400,
+          491
+        ],
+        [
+          235,
+          485
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        291,
+        1400,
+        336
+      ],
+      "text": "lệnh không bức chủng nữa, đề chúng rút yên ôn, nhưng ông. vẫn đem quân đón đánh,",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0252_viet_004",
+      "bbox": [
+        [
+          238,
+          325
+        ],
+        [
+          1402,
+          330
+        ],
+        [
+          1402,
+          368
+        ],
+        [
+          238,
+          364
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          480
+        ],
+        [
+          1402,
+          485
+        ],
+        [
+          1402,
+          523
+        ],
+        [
+          238,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        325,
+        1402,
+        368
+      ],
+      "text": "nên không được phong thưởng, Theo y bài thơ này thì hình như sau kháng chiến thắng",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0252_viet_005",
+      "bbox": [
+        [
+          233,
+          362
+        ],
+        [
+          1082,
+          364
+        ],
+        [
+          1082,
+          401
+        ],
+        [
+          233,
+          398
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          517
+        ],
+        [
+          1082,
+          519
+        ],
+        [
+          1082,
+          556
+        ],
+        [
+          233,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        362,
+        1082,
+        401
+      ],
+      "text": "lợi ít lâu, ông về ở ần, Hai chữ (nguyên quân v chưa rõ là gì.",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0252_viet_006",
+      "bbox": [
+        [
+          171,
+          403
+        ],
+        [
+          1374,
+          403
+        ],
+        [
+          1374,
+          445
+        ],
+        [
+          171,
+          445
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          558
+        ],
+        [
+          1374,
+          558
+        ],
+        [
+          1374,
+          600
+        ],
+        [
+          171,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        403,
+        1374,
+        445
+      ],
+      "text": "(2) Thiếu-thất: xem Cht.11, bài Phổ thuyết hướng thượng nhất lộ, số 8, của Trần Cảnh,",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0252_viet_007",
+      "bbox": [
+        [
+          238,
+          482
+        ],
+        [
+          1400,
+          484
+        ],
+        [
+          1400,
+          520
+        ],
+        [
+          238,
+          518
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          637
+        ],
+        [
+          1400,
+          639
+        ],
+        [
+          1400,
+          675
+        ],
+        [
+          238,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        482,
+        1400,
+        520
+      ],
+      "text": "Hộ tỉnh Hồ-bắc H4 XG: Trung quốc, Sự - Hoằng Nhẫn 34 A - vị tồ. thứ năm của",
+      "confidence": 0.842
+    },
+    {
+      "line_id": "0252_viet_008",
+      "bbox": [
+        [
+          236,
+          512
+        ],
+        [
+          1387,
+          516
+        ],
+        [
+          1387,
+          555
+        ],
+        [
+          235,
+          550
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          667
+        ],
+        [
+          1387,
+          671
+        ],
+        [
+          1387,
+          710
+        ],
+        [
+          235,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        512,
+        1387,
+        555
+      ],
+      "text": "Thiên tông tu ở, đảy, Về sau, giữa hai học trò xuất sắc của ông là Thần Tú 47 Ấp",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0252_viet_009",
+      "bbox": [
+        [
+          233,
+          580
+        ],
+        [
+          1404,
+          580
+        ],
+        [
+          1404,
+          617
+        ],
+        [
+          233,
+          617
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          735
+        ],
+        [
+          1404,
+          735
+        ],
+        [
+          1404,
+          772
+        ],
+        [
+          233,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        580,
+        1404,
+        617
+      ],
+      "text": "Tuệ Năng trốn, đị, Ở đây, tác giả muốn nói đến sự kiện đỏ. Xem thêm Cht.64, bài Phú",
+      "confidence": 0.8944
+    },
+    {
+      "line_id": "0252_viet_010",
+      "bbox": [
+        [
+          238,
+          617
+        ],
+        [
+          776,
+          617
+        ],
+        [
+          776,
+          647
+        ],
+        [
+          238,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          772
+        ],
+        [
+          776,
+          772
+        ],
+        [
+          776,
+          802
+        ],
+        [
+          238,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        617,
+        776,
+        647
+      ],
+      "text": "cư irăn lạc đạo, số 205, của Trần Khâm",
+      "confidence": 0.8608
+    },
+    {
+      "line_id": "0252_viet_011",
+      "bbox": [
+        [
+          173,
+          658
+        ],
+        [
+          743,
+          653
+        ],
+        [
+          743,
+          690
+        ],
+        [
+          173,
+          694
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          813
+        ],
+        [
+          743,
+          808
+        ],
+        [
+          743,
+          845
+        ],
+        [
+          173,
+          849
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        653,
+        743,
+        694
+      ],
+      "text": "(4) Trần xử sĩ: tức là Trần Quốc: Nghiên",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0252_viet_012",
+      "bbox": [
+        [
+          853,
+          953
+        ],
+        [
+          1370,
+          955
+        ],
+        [
+          1370,
+          994
+        ],
+        [
+          853,
+          992
+        ]
+      ],
+      "bbox_original": [
+        [
+          853,
+          1108
+        ],
+        [
+          1370,
+          1110
+        ],
+        [
+          1370,
+          1149
+        ],
+        [
+          853,
+          1147
+        ]
+      ],
+      "box_xyxy": [
+        853,
+        953,
+        1370,
+        994
+      ],
+      "text": "TỤNG THÁNH TÔNG ĐẠO HỌC",
+      "confidence": 0.9277
+    },
+    {
+      "line_id": "0252_viet_013",
+      "bbox": [
+        [
+          821,
+          1026
+        ],
+        [
+          1402,
+          1030
+        ],
+        [
+          1402,
+          1067
+        ],
+        [
+          821,
+          1062
+        ]
+      ],
+      "bbox_original": [
+        [
+          821,
+          1181
+        ],
+        [
+          1402,
+          1185
+        ],
+        [
+          1402,
+          1222
+        ],
+        [
+          821,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        821,
+        1026,
+        1402,
+        1067
+      ],
+      "text": "Thánh học cao minh đạt cồ cảm (kim)",
+      "confidence": 0.9013
+    },
+    {
+      "line_id": "0252_viet_014",
+      "bbox": [
+        [
+          806,
+          1075
+        ],
+        [
+          1402,
+          1084
+        ],
+        [
+          1402,
+          1127
+        ],
+        [
+          806,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          806,
+          1230
+        ],
+        [
+          1402,
+          1239
+        ],
+        [
+          1402,
+          1282
+        ],
+        [
+          806,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        806,
+        1075,
+        1402,
+        1127
+      ],
+      "text": "Thiết nhiên long 1? tạng quán hoa làm",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0252_viet_015",
+      "bbox": [
+        [
+          813,
+          1131
+        ],
+        [
+          1402,
+          1137
+        ],
+        [
+          1402,
+          1176
+        ],
+        [
+          812,
+          1169
+        ]
+      ],
+      "bbox_original": [
+        [
+          813,
+          1286
+        ],
+        [
+          1402,
+          1292
+        ],
+        [
+          1402,
+          1331
+        ],
+        [
+          812,
+          1324
+        ]
+      ],
+      "box_xyxy": [
+        812,
+        1131,
+        1402,
+        1176
+      ],
+      "text": "Thích phong ký đắc khai quyền bảo",
+      "confidence": 0.9326
+    },
+    {
+      "line_id": "0252_viet_016",
+      "bbox": [
+        [
+          802,
+          1184
+        ],
+        [
+          1318,
+          1189
+        ],
+        [
+          1318,
+          1227
+        ],
+        [
+          801,
+          1223
+        ]
+      ],
+      "bbox_original": [
+        [
+          802,
+          1339
+        ],
+        [
+          1318,
+          1344
+        ],
+        [
+          1318,
+          1382
+        ],
+        [
+          801,
+          1378
+        ]
+      ],
+      "box_xyxy": [
+        801,
+        1184,
+        1318,
+        1227
+      ],
+      "text": "Tổ ý tương vô thấu thủy châm",
+      "confidence": 0.9005
+    },
+    {
+      "line_id": "0252_viet_017",
+      "bbox": [
+        [
+          785,
+          1233
+        ],
+        [
+          1404,
+          1242
+        ],
+        [
+          1404,
+          1285
+        ],
+        [
+          784,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          785,
+          1388
+        ],
+        [
+          1404,
+          1397
+        ],
+        [
+          1404,
+          1440
+        ],
+        [
+          784,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        784,
+        1233,
+        1404,
+        1285
+      ],
+      "text": "Tri bạt Thiền quan thông Thiếu-thất",
+      "confidence": 0.9044
+    },
+    {
+      "line_id": "0252_viet_018",
+      "bbox": [
+        [
+          813,
+          1289
+        ],
+        [
+          1324,
+          1294
+        ],
+        [
+          1324,
+          1332
+        ],
+        [
+          812,
+          1328
+        ]
+      ],
+      "bbox_original": [
+        [
+          813,
+          1444
+        ],
+        [
+          1324,
+          1449
+        ],
+        [
+          1324,
+          1487
+        ],
+        [
+          812,
+          1483
+        ]
+      ],
+      "box_xyxy": [
+        812,
+        1289,
+        1324,
+        1332
+      ],
+      "text": "Tỉnh siêu giáo hải khóa Uy Âm",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0252_viet_019",
+      "bbox": [
+        [
+          299,
+          1315
+        ],
+        [
+          664,
+          1322
+        ],
+        [
+          663,
+          1367
+        ],
+        [
+          298,
+          1360
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1470
+        ],
+        [
+          664,
+          1477
+        ],
+        [
+          663,
+          1522
+        ],
+        [
+          298,
+          1515
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1315,
+        664,
+        1367
+      ],
+      "text": "PHƯƠNG THỊ THỊ THỊ THỊ THỊ THUY",
+      "confidence": 0.4501
+    },
+    {
+      "line_id": "0252_viet_020",
+      "bbox": [
+        [
+          810,
+          1343
+        ],
+        [
+          1355,
+          1347
+        ],
+        [
+          1354,
+          1386
+        ],
+        [
+          810,
+          1381
+        ]
+      ],
+      "bbox_original": [
+        [
+          810,
+          1498
+        ],
+        [
+          1355,
+          1502
+        ],
+        [
+          1354,
+          1541
+        ],
+        [
+          810,
+          1536
+        ]
+      ],
+      "box_xyxy": [
+        810,
+        1343,
+        1355,
+        1386
+      ],
+      "text": "Nhân gian 2% chỉ kiến thiên sơn tủ,",
+      "confidence": 0.8926
+    },
+    {
+      "line_id": "0252_viet_021",
+      "bbox": [
+        [
+          301,
+          1366
+        ],
+        [
+          668,
+          1375
+        ],
+        [
+          667,
+          1420
+        ],
+        [
+          300,
+          1411
+        ]
+      ],
+      "bbox_original": [
+        [
+          301,
+          1521
+        ],
+        [
+          668,
+          1530
+        ],
+        [
+          667,
+          1575
+        ],
+        [
+          300,
+          1566
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1366,
+        668,
+        1420
+      ],
+      "text": "- P224.4",
+      "confidence": 0.4962
+    },
+    {
+      "line_id": "0252_viet_022",
+      "bbox": [
+        [
+          821,
+          1396
+        ],
+        [
+          1370,
+          1401
+        ],
+        [
+          1369,
+          1437
+        ],
+        [
+          821,
+          1433
+        ]
+      ],
+      "bbox_original": [
+        [
+          821,
+          1551
+        ],
+        [
+          1370,
+          1556
+        ],
+        [
+          1369,
+          1592
+        ],
+        [
+          821,
+          1588
+        ]
+      ],
+      "box_xyxy": [
+        821,
+        1396,
+        1370,
+        1437
+      ],
+      "text": "Thùy thính viên đề thâm xứ thàm",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0252_viet_023",
+      "bbox": [
+        [
+          299,
+          1415
+        ],
+        [
+          694,
+          1425
+        ],
+        [
+          693,
+          1470
+        ],
+        [
+          298,
+          1460
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1570
+        ],
+        [
+          694,
+          1580
+        ],
+        [
+          693,
+          1625
+        ],
+        [
+          298,
+          1615
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1415,
+        694,
+        1470
+      ],
+      "text": "SENTIFICATION",
+      "confidence": 0.5529
+    },
+    {
+      "line_id": "0252_viet_024",
+      "bbox": [
+        [
+          178,
+          1471
+        ],
+        [
+          370,
+          1476
+        ],
+        [
+          369,
+          1512
+        ],
+        [
+          177,
+          1507
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          1626
+        ],
+        [
+          370,
+          1631
+        ],
+        [
+          369,
+          1667
+        ],
+        [
+          177,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1471,
+        370,
+        1512
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0252_viet_025",
+      "bbox": [
+        [
+          439,
+          1505
+        ],
+        [
+          1134,
+          1512
+        ],
+        [
+          1134,
+          1557
+        ],
+        [
+          438,
+          1550
+        ]
+      ],
+      "bbox_original": [
+        [
+          439,
+          1660
+        ],
+        [
+          1134,
+          1667
+        ],
+        [
+          1134,
+          1712
+        ],
+        [
+          438,
+          1705
+        ]
+      ],
+      "box_xyxy": [
+        438,
+        1505,
+        1134,
+        1557
+      ],
+      "text": "CA TỤNG ĐẠO HỌC CỦA THÁNH TÔNG (')",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0252_viet_026",
+      "bbox": [
+        [
+          365,
+          1578
+        ],
+        [
+          1251,
+          1589
+        ],
+        [
+          1251,
+          1626
+        ],
+        [
+          365,
+          1615
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          1733
+        ],
+        [
+          1251,
+          1744
+        ],
+        [
+          1251,
+          1781
+        ],
+        [
+          365,
+          1770
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        1578,
+        1251,
+        1626
+      ],
+      "text": "Cái học của bạc thánh cao minh thông suốt cả xưa nay,",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0252_viet_027",
+      "bbox": [
+        [
+          363,
+          1630
+        ],
+        [
+          1398,
+          1634
+        ],
+        [
+          1398,
+          1673
+        ],
+        [
+          363,
+          1668
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1785
+        ],
+        [
+          1398,
+          1789
+        ],
+        [
+          1398,
+          1828
+        ],
+        [
+          363,
+          1823
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1630,
+        1398,
+        1673
+      ],
+      "text": "Rõ ràng kinh tạng ở Long cung (?) đã thấu suột được tâm hoa (?)",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0252_viet_028",
+      "bbox": [
+        [
+          361,
+          1673
+        ],
+        [
+          1165,
+          1679
+        ],
+        [
+          1164,
+          1722
+        ],
+        [
+          361,
+          1715
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1828
+        ],
+        [
+          1165,
+          1834
+        ],
+        [
+          1164,
+          1877
+        ],
+        [
+          361,
+          1870
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1673,
+        1165,
+        1722
+      ],
+      "text": "Phong độ của Thiên đã được pháp bảo mở bàn tay.",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0252_viet_029",
+      "bbox": [
+        [
+          363,
+          1715
+        ],
+        [
+          1404,
+          1726
+        ],
+        [
+          1404,
+          1769
+        ],
+        [
+          363,
+          1758
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1870
+        ],
+        [
+          1404,
+          1881
+        ],
+        [
+          1404,
+          1924
+        ],
+        [
+          363,
+          1913
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1715,
+        1404,
+        1769
+      ],
+      "text": "Ý Tổ bầu như không ý nào không phải là chiếc kim thấu tới đảy nước.",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0252_viet_030",
+      "bbox": [
+        [
+          363,
+          1765
+        ],
+        [
+          1182,
+          1771
+        ],
+        [
+          1181,
+          1814
+        ],
+        [
+          363,
+          1807
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1920
+        ],
+        [
+          1182,
+          1926
+        ],
+        [
+          1181,
+          1969
+        ],
+        [
+          363,
+          1962
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1765,
+        1182,
+        1814
+      ],
+      "text": "Trị hội nơi cửa Thiên sánh ngang với Thiếu-thất (?).",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0252_viet_031",
+      "bbox": [
+        [
+          363,
+          1810
+        ],
+        [
+          1003,
+          1816
+        ],
+        [
+          1002,
+          1859
+        ],
+        [
+          363,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1965
+        ],
+        [
+          1003,
+          1971
+        ],
+        [
+          1002,
+          2014
+        ],
+        [
+          363,
+          2007
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1810,
+        1003,
+        1859
+      ],
+      "text": "Tỉnh vượt ngoài hề giáo ái cả Uy Âm (5).",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0252_viet_032",
+      "bbox": [
+        [
+          367,
+          1861
+        ],
+        [
+          955,
+          1863
+        ],
+        [
+          955,
+          1900
+        ],
+        [
+          367,
+          1897
+        ]
+      ],
+      "bbox_original": [
+        [
+          367,
+          2016
+        ],
+        [
+          955,
+          2018
+        ],
+        [
+          955,
+          2055
+        ],
+        [
+          367,
+          2052
+        ]
+      ],
+      "box_xyxy": [
+        367,
+        1861,
+        955,
+        1900
+      ],
+      "text": "Người đời chỉ thấy núi nọn xành tốt;",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0252_viet_033",
+      "bbox": [
+        [
+          363,
+          1902
+        ],
+        [
+          1402,
+          1910
+        ],
+        [
+          1402,
+          1953
+        ],
+        [
+          363,
+          1945
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          2057
+        ],
+        [
+          1402,
+          2065
+        ],
+        [
+          1402,
+          2108
+        ],
+        [
+          363,
+          2100
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1902,
+        1402,
+        1953
+      ],
+      "text": "Nào ai nghe thấy tiếng vượn kêu sàu thẩm trong nơi sáu thầm (?)",
+      "confidence": 0.9079
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "CHỦ THÍCH:",
+      "XUẤT XỨ: TSNL",
+      "Quốc Nghiễn Tất Đuý, Ông có tham gia cuộc kháng chiến chống xâm lược Nguyên",
+      "lệnh không bức chủng nữa, đề chúng rút yên ôn, nhưng ông. vẫn đem quân đón đánh,",
+      "nên không được phong thưởng, Theo y bài thơ này thì hình như sau kháng chiến thắng",
+      "lợi ít lâu, ông về ở ần, Hai chữ (nguyên quân v chưa rõ là gì.",
+      "(2) Thiếu-thất: xem Cht.11, bài Phổ thuyết hướng thượng nhất lộ, số 8, của Trần Cảnh,",
+      "Hộ tỉnh Hồ-bắc H4 XG: Trung quốc, Sự - Hoằng Nhẫn 34 A - vị tồ. thứ năm của",
+      "Thiên tông tu ở, đảy, Về sau, giữa hai học trò xuất sắc của ông là Thần Tú 47 Ấp",
+      "Tuệ Năng trốn, đị, Ở đây, tác giả muốn nói đến sự kiện đỏ. Xem thêm Cht.64, bài Phú",
+      "cư irăn lạc đạo, số 205, của Trần Khâm",
+      "(4) Trần xử sĩ: tức là Trần Quốc: Nghiên",
+      "TỤNG THÁNH TÔNG ĐẠO HỌC",
+      "Thánh học cao minh đạt cồ cảm (kim)",
+      "Thiết nhiên long 1? tạng quán hoa làm",
+      "Thích phong ký đắc khai quyền bảo",
+      "Tổ ý tương vô thấu thủy châm",
+      "Tri bạt Thiền quan thông Thiếu-thất",
+      "Tỉnh siêu giáo hải khóa Uy Âm",
+      "PHƯƠNG THỊ THỊ THỊ THỊ THỊ THUY",
+      "Nhân gian 2% chỉ kiến thiên sơn tủ,",
+      "- P224.4",
+      "Thùy thính viên đề thâm xứ thàm",
+      "SENTIFICATION"
+    ],
+    "dich_nghia_lines": [
+      "CA TỤNG ĐẠO HỌC CỦA THÁNH TÔNG (')",
+      "Cái học của bạc thánh cao minh thông suốt cả xưa nay,",
+      "Rõ ràng kinh tạng ở Long cung (?) đã thấu suột được tâm hoa (?)",
+      "Phong độ của Thiên đã được pháp bảo mở bàn tay.",
+      "Ý Tổ bầu như không ý nào không phải là chiếc kim thấu tới đảy nước.",
+      "Trị hội nơi cửa Thiên sánh ngang với Thiếu-thất (?).",
+      "Tỉnh vượt ngoài hề giáo ái cả Uy Âm (5).",
+      "Người đời chỉ thấy núi nọn xành tốt;",
+      "Nào ai nghe thấy tiếng vượn kêu sàu thẩm trong nơi sáu thầm (?)"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

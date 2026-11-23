@@ -1,0 +1,1280 @@
+{
+  "page_id": "0186",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 186,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0186_viet_000",
+      "bbox": [
+        [
+          194,
+          30
+        ],
+        [
+          248,
+          30
+        ],
+        [
+          248,
+          62
+        ],
+        [
+          194,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          151
+        ],
+        [
+          248,
+          151
+        ],
+        [
+          248,
+          183
+        ],
+        [
+          194,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        30,
+        248,
+        62
+      ],
+      "text": "180",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0186_viet_001",
+      "bbox": [
+        [
+          667,
+          30
+        ],
+        [
+          985,
+          30
+        ],
+        [
+          985,
+          59
+        ],
+        [
+          667,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          151
+        ],
+        [
+          985,
+          151
+        ],
+        [
+          985,
+          180
+        ],
+        [
+          667,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        667,
+        30,
+        985,
+        59
+      ],
+      "text": "PHÁN VĂN TINH-TUÝ",
+      "confidence": 0.8476
+    },
+    {
+      "line_id": "0186_viet_002",
+      "bbox": [
+        [
+          250,
+          129
+        ],
+        [
+          499,
+          129
+        ],
+        [
+          499,
+          174
+        ],
+        [
+          250,
+          174
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          250
+        ],
+        [
+          499,
+          250
+        ],
+        [
+          499,
+          295
+        ],
+        [
+          250,
+          295
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        129,
+        499,
+        174
+      ],
+      "text": "Xã Lê",
+      "confidence": 0.2659
+    },
+    {
+      "line_id": "0186_viet_003",
+      "bbox": [
+        [
+          232,
+          181
+        ],
+        [
+          501,
+          184
+        ],
+        [
+          501,
+          219
+        ],
+        [
+          231,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          302
+        ],
+        [
+          501,
+          305
+        ],
+        [
+          501,
+          340
+        ],
+        [
+          231,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        181,
+        501,
+        219
+      ],
+      "text": "Tuẽ phú kỳ nhị",
+      "confidence": 0.885
+    },
+    {
+      "line_id": "0186_viet_004",
+      "bbox": [
+        [
+          280,
+          228
+        ],
+        [
+          565,
+          231
+        ],
+        [
+          565,
+          265
+        ],
+        [
+          280,
+          261
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          349
+        ],
+        [
+          565,
+          352
+        ],
+        [
+          565,
+          386
+        ],
+        [
+          280,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        228,
+        565,
+        265
+      ],
+      "text": "mỗi năm nộp hai con.",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0186_viet_005",
+      "bbox": [
+        [
+          253,
+          301
+        ],
+        [
+          916,
+          300
+        ],
+        [
+          916,
+          340
+        ],
+        [
+          253,
+          342
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          422
+        ],
+        [
+          916,
+          421
+        ],
+        [
+          916,
+          461
+        ],
+        [
+          253,
+          463
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        300,
+        916,
+        342
+      ],
+      "text": "% Tân 2 2 2 (2 % % % T AN AN AN ANH",
+      "confidence": 0.4361
+    },
+    {
+      "line_id": "0186_viet_006",
+      "bbox": [
+        [
+          236,
+          352
+        ],
+        [
+          948,
+          353
+        ],
+        [
+          948,
+          388
+        ],
+        [
+          236,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          473
+        ],
+        [
+          948,
+          474
+        ],
+        [
+          948,
+          509
+        ],
+        [
+          236,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        352,
+        948,
+        388
+      ],
+      "text": "Mộ hữu năng bồ chi giả, dương kỳ tô nhập thuận",
+      "confidence": 0.8571
+    },
+    {
+      "line_id": "0186_viet_007",
+      "bbox": [
+        [
+          283,
+          402
+        ],
+        [
+          856,
+          402
+        ],
+        [
+          856,
+          430
+        ],
+        [
+          283,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          523
+        ],
+        [
+          856,
+          523
+        ],
+        [
+          856,
+          551
+        ],
+        [
+          283,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        402,
+        856,
+        430
+      ],
+      "text": "Thuê kẻ nào bắt rắn đem nộp thì tha thuê",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0186_viet_008",
+      "bbox": [
+        [
+          245,
+          470
+        ],
+        [
+          780,
+          469
+        ],
+        [
+          780,
+          514
+        ],
+        [
+          245,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          591
+        ],
+        [
+          780,
+          590
+        ],
+        [
+          780,
+          635
+        ],
+        [
+          245,
+          637
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        469,
+        780,
+        516
+      ],
+      "text": "20122444",
+      "confidence": 0.435
+    },
+    {
+      "line_id": "0186_viet_009",
+      "bbox": [
+        [
+          233,
+          521
+        ],
+        [
+          876,
+          524
+        ],
+        [
+          876,
+          557
+        ],
+        [
+          233,
+          554
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          642
+        ],
+        [
+          876,
+          645
+        ],
+        [
+          876,
+          678
+        ],
+        [
+          233,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        521,
+        876,
+        557
+      ],
+      "text": "Vinh châu chi nhân tranh bôn tầu yên",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0186_viet_010",
+      "bbox": [
+        [
+          285,
+          572
+        ],
+        [
+          861,
+          572
+        ],
+        [
+          861,
+          601
+        ],
+        [
+          285,
+          601
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          693
+        ],
+        [
+          861,
+          693
+        ],
+        [
+          861,
+          722
+        ],
+        [
+          285,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        572,
+        861,
+        601
+      ],
+      "text": "Sau người ta tranh nhau làm nghề bắt rắn",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0186_viet_011",
+      "bbox": [
+        [
+          231,
+          691
+        ],
+        [
+          985,
+          690
+        ],
+        [
+          986,
+          730
+        ],
+        [
+          231,
+          732
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          812
+        ],
+        [
+          985,
+          811
+        ],
+        [
+          986,
+          851
+        ],
+        [
+          231,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        690,
+        986,
+        732
+      ],
+      "text": "Hữu Tưởng thị giả, chuyên kỳ lợi, tam thẽ hĩ",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0186_viet_012",
+      "bbox": [
+        [
+          282,
+          740
+        ],
+        [
+          867,
+          738
+        ],
+        [
+          867,
+          773
+        ],
+        [
+          282,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          861
+        ],
+        [
+          867,
+          859
+        ],
+        [
+          867,
+          894
+        ],
+        [
+          282,
+          896
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        738,
+        867,
+        775
+      ],
+      "text": "Có họ Tường chuyên cái lợi ấy đã ba đời",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0186_viet_013",
+      "bbox": [
+        [
+          248,
+          814
+        ],
+        [
+          840,
+          810
+        ],
+        [
+          840,
+          850
+        ],
+        [
+          248,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          935
+        ],
+        [
+          840,
+          931
+        ],
+        [
+          840,
+          971
+        ],
+        [
+          248,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        810,
+        840,
+        854
+      ],
+      "text": "2201270000022",
+      "confidence": 0.3265
+    },
+    {
+      "line_id": "0186_viet_014",
+      "bbox": [
+        [
+          233,
+          864
+        ],
+        [
+          861,
+          864
+        ],
+        [
+          861,
+          897
+        ],
+        [
+          233,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          985
+        ],
+        [
+          861,
+          985
+        ],
+        [
+          861,
+          1018
+        ],
+        [
+          233,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        864,
+        861,
+        897
+      ],
+      "text": "Văn chi, tất viết: a ngô tồ tử ư thị",
+      "confidence": 0.9003
+    },
+    {
+      "line_id": "0186_viet_015",
+      "bbox": [
+        [
+          278,
+          909
+        ],
+        [
+          778,
+          907
+        ],
+        [
+          778,
+          941
+        ],
+        [
+          279,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          1030
+        ],
+        [
+          778,
+          1028
+        ],
+        [
+          778,
+          1062
+        ],
+        [
+          279,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        907,
+        778,
+        942
+      ],
+      "text": "Hỏi thì nói: Ông tôi chết vì bắt rắn,",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0186_viet_016",
+      "bbox": [
+        [
+          246,
+          986
+        ],
+        [
+          913,
+          983
+        ],
+        [
+          913,
+          1021
+        ],
+        [
+          247,
+          1025
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1107
+        ],
+        [
+          913,
+          1104
+        ],
+        [
+          913,
+          1142
+        ],
+        [
+          247,
+          1146
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        983,
+        913,
+        1025
+      ],
+      "text": "212422222",
+      "confidence": 0.3529
+    },
+    {
+      "line_id": "0186_viet_017",
+      "bbox": [
+        [
+          229,
+          1035
+        ],
+        [
+          812,
+          1033
+        ],
+        [
+          812,
+          1068
+        ],
+        [
+          230,
+          1070
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1156
+        ],
+        [
+          812,
+          1154
+        ],
+        [
+          812,
+          1189
+        ],
+        [
+          230,
+          1191
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1033,
+        812,
+        1070
+      ],
+      "text": "Ngô phụ tử ư thi, kim ngô tự vi chi",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0186_viet_018",
+      "bbox": [
+        [
+          280,
+          1081
+        ],
+        [
+          635,
+          1081
+        ],
+        [
+          635,
+          1115
+        ],
+        [
+          280,
+          1115
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1202
+        ],
+        [
+          635,
+          1202
+        ],
+        [
+          635,
+          1236
+        ],
+        [
+          280,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1081,
+        635,
+        1115
+      ],
+      "text": "cha tôi chết vì rắn, nay tôi",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0186_viet_019",
+      "bbox": [
+        [
+          246,
+          1155
+        ],
+        [
+          776,
+          1153
+        ],
+        [
+          776,
+          1193
+        ],
+        [
+          246,
+          1195
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1276
+        ],
+        [
+          776,
+          1274
+        ],
+        [
+          776,
+          1314
+        ],
+        [
+          246,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1153,
+        776,
+        1195
+      ],
+      "text": "t?xxxxx",
+      "confidence": 0.4424
+    },
+    {
+      "line_id": "0186_viet_020",
+      "bbox": [
+        [
+          236,
+          1205
+        ],
+        [
+          768,
+          1204
+        ],
+        [
+          768,
+          1239
+        ],
+        [
+          236,
+          1240
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1326
+        ],
+        [
+          768,
+          1325
+        ],
+        [
+          768,
+          1360
+        ],
+        [
+          236,
+          1361
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1204,
+        768,
+        1240
+      ],
+      "text": "Thập nhị niên, cơ tử giả sồ hiv.",
+      "confidence": 0.9104
+    },
+    {
+      "line_id": "0186_viet_021",
+      "bbox": [
+        [
+          280,
+          1252
+        ],
+        [
+          768,
+          1250
+        ],
+        [
+          768,
+          1284
+        ],
+        [
+          280,
+          1286
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1373
+        ],
+        [
+          768,
+          1371
+        ],
+        [
+          768,
+          1405
+        ],
+        [
+          280,
+          1407
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1250,
+        768,
+        1286
+      ],
+      "text": "nối nghề 12 năm đã mấy lần suýt chết.",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0186_viet_022",
+      "bbox": [
+        [
+          251,
+          1326
+        ],
+        [
+          705,
+          1324
+        ],
+        [
+          705,
+          1364
+        ],
+        [
+          252,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1447
+        ],
+        [
+          705,
+          1445
+        ],
+        [
+          705,
+          1485
+        ],
+        [
+          252,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1324,
+        705,
+        1366
+      ],
+      "text": "Lê X đề đế",
+      "confidence": 0.3633
+    },
+    {
+      "line_id": "0186_viet_023",
+      "bbox": [
+        [
+          233,
+          1376
+        ],
+        [
+          849,
+          1373
+        ],
+        [
+          849,
+          1408
+        ],
+        [
+          233,
+          1411
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1497
+        ],
+        [
+          849,
+          1494
+        ],
+        [
+          849,
+          1529
+        ],
+        [
+          233,
+          1532
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1373,
+        849,
+        1411
+      ],
+      "text": "Ngôn chi, mao nhược thậm thích giả",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0186_viet_024",
+      "bbox": [
+        [
+          285,
+          1425
+        ],
+        [
+          721,
+          1425
+        ],
+        [
+          721,
+          1453
+        ],
+        [
+          285,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          1546
+        ],
+        [
+          721,
+          1546
+        ],
+        [
+          721,
+          1574
+        ],
+        [
+          285,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        1425,
+        721,
+        1453
+      ],
+      "text": "Nói vậy mà mặt như rắt đau-đớn.",
+      "confidence": 0.9091
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "PHÁN VĂN TINH-TUÝ",
+      "Xã Lê",
+      "mỗi năm nộp hai con.",
+      "Mộ hữu năng bồ chi giả, dương kỳ tô nhập thuận",
+      "20122444",
+      "Sau người ta tranh nhau làm nghề bắt rắn",
+      "Có họ Tường chuyên cái lợi ấy đã ba đời",
+      "Văn chi, tất viết: a ngô tồ tử ư thị",
+      "212422222",
+      "cha tôi chết vì rắn, nay tôi"
+    ],
+    "dich_nghia_lines": [
+      "Thập nhị niên, cơ tử giả sồ hiv.",
+      "nối nghề 12 năm đã mấy lần suýt chết.",
+      "Lê X đề đế",
+      "Ngôn chi, mao nhược thậm thích giả",
+      "Nói vậy mà mặt như rắt đau-đớn."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "歲賦其二",
+        "phien_am": "PHÁN VĂN TINH-TUÝ",
+        "dich_nghia_gloss": "180"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "莫有能捕之春當其租入",
+        "phien_am": "Xã Lê",
+        "dich_nghia_gloss": "Tuẽ phú kỳ nhị"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "永州之人爭奔走為",
+        "phien_am": "mỗi năm nộp hai con.",
+        "dich_nghia_gloss": "% Tân 2 2 2 (2 % % % T AN AN AN ANH"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "有蔣氏者專其利三世吳",
+        "phien_am": "Mộ hữu năng bồ chi giả, dương kỳ tô nhập thuận",
+        "dich_nghia_gloss": "Thuê kẻ nào bắt rắn đem nộp thì tha thuê"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "問之則日吾祖死放是",
+        "phien_am": "20122444",
+        "dich_nghia_gloss": "Vinh châu chi nhân tranh bôn tầu yên"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "t蔚 ti誕thi",
+        "phien_am": "Sau người ta tranh nhau làm nghề bắt rắn",
+        "dich_nghia_gloss": "Hữu Tưởng thị giả, chuyên kỳ lợi, tam thẽ hĩ"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "吾父死扮是今吾嗣為之",
+        "phien_am": "Có họ Tường chuyên cái lợi ấy đã ba đời",
+        "dich_nghia_gloss": "2201270000022"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "十〇二年幾死者數吳",
+        "phien_am": "Văn chi, tất viết: a ngô tồ tử ư thị",
+        "dich_nghia_gloss": "Hỏi thì nói: Ông tôi chết vì bắt rắn,"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "tit gia so hi力.",
+        "phien_am": "212422222",
+        "dich_nghia_gloss": "Ngô phụ tử ư thi, kim ngô tự vi chi"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "言之貌若興甚感者",
+        "phien_am": "cha tôi chết vì rắn, nay tôi",
+        "dich_nghia_gloss": "t?xxxxx"
+      }
+    ]
+  }
+}

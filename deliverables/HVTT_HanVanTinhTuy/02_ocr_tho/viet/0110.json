@@ -1,0 +1,1260 @@
+{
+  "page_id": "0110",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 110,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0110_viet_000",
+      "bbox": [
+        [
+          191,
+          35
+        ],
+        [
+          245,
+          35
+        ],
+        [
+          245,
+          67
+        ],
+        [
+          191,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          156
+        ],
+        [
+          245,
+          156
+        ],
+        [
+          245,
+          188
+        ],
+        [
+          191,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        35,
+        245,
+        67
+      ],
+      "text": "104",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0110_viet_001",
+      "bbox": [
+        [
+          663,
+          30
+        ],
+        [
+          985,
+          30
+        ],
+        [
+          985,
+          64
+        ],
+        [
+          663,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          663,
+          151
+        ],
+        [
+          985,
+          151
+        ],
+        [
+          985,
+          185
+        ],
+        [
+          663,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        30,
+        985,
+        64
+      ],
+      "text": "PHÁN-VĂN TINH-TUY",
+      "confidence": 0.8806
+    },
+    {
+      "line_id": "0110_viet_002",
+      "bbox": [
+        [
+          241,
+          136
+        ],
+        [
+          774,
+          134
+        ],
+        [
+          775,
+          174
+        ],
+        [
+          241,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          257
+        ],
+        [
+          774,
+          255
+        ],
+        [
+          775,
+          295
+        ],
+        [
+          241,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        134,
+        775,
+        176
+      ],
+      "text": "1011 4 Từ X K",
+      "confidence": 0.517
+    },
+    {
+      "line_id": "0110_viet_003",
+      "bbox": [
+        [
+          226,
+          189
+        ],
+        [
+          756,
+          186
+        ],
+        [
+          756,
+          219
+        ],
+        [
+          226,
+          223
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          310
+        ],
+        [
+          756,
+          307
+        ],
+        [
+          756,
+          340
+        ],
+        [
+          226,
+          344
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        186,
+        756,
+        223
+      ],
+      "text": "Hùng châu vụ liệt tuân-thúi tinh trì.",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0110_viet_004",
+      "bbox": [
+        [
+          221,
+          233
+        ],
+        [
+          876,
+          236
+        ],
+        [
+          876,
+          271
+        ],
+        [
+          221,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          354
+        ],
+        [
+          876,
+          357
+        ],
+        [
+          876,
+          392
+        ],
+        [
+          221,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        233,
+        876,
+        271
+      ],
+      "text": "Chôn hùng châu như sương mù giải-giáng",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0110_viet_005",
+      "bbox": [
+        [
+          221,
+          280
+        ],
+        [
+          795,
+          276
+        ],
+        [
+          795,
+          315
+        ],
+        [
+          221,
+          318
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          401
+        ],
+        [
+          795,
+          397
+        ],
+        [
+          795,
+          436
+        ],
+        [
+          221,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        276,
+        795,
+        318
+      ],
+      "text": "người anh-tuân như ngôi sao rong-ruổi",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0110_viet_006",
+      "bbox": [
+        [
+          245,
+          350
+        ],
+        [
+          708,
+          345
+        ],
+        [
+          709,
+          390
+        ],
+        [
+          245,
+          395
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          471
+        ],
+        [
+          708,
+          466
+        ],
+        [
+          709,
+          511
+        ],
+        [
+          245,
+          516
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        345,
+        709,
+        395
+      ],
+      "text": "GWELZ",
+      "confidence": 0.6721
+    },
+    {
+      "line_id": "0110_viet_007",
+      "bbox": [
+        [
+          223,
+          400
+        ],
+        [
+          695,
+          403
+        ],
+        [
+          695,
+          439
+        ],
+        [
+          223,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          521
+        ],
+        [
+          695,
+          524
+        ],
+        [
+          695,
+          560
+        ],
+        [
+          223,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        400,
+        695,
+        439
+      ],
+      "text": "Đài hoàng chăm Di Hạ chi giao",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0110_viet_008",
+      "bbox": [
+        [
+          221,
+          449
+        ],
+        [
+          910,
+          449
+        ],
+        [
+          910,
+          487
+        ],
+        [
+          221,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          570
+        ],
+        [
+          910,
+          570
+        ],
+        [
+          910,
+          608
+        ],
+        [
+          221,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        449,
+        910,
+        487
+      ],
+      "text": "Đài, hào nằm gồi lên giao giới vùng Dì, Hạ;",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0110_viet_009",
+      "bbox": [
+        [
+          224,
+          572
+        ],
+        [
+          688,
+          572
+        ],
+        [
+          688,
+          611
+        ],
+        [
+          224,
+          611
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          693
+        ],
+        [
+          688,
+          693
+        ],
+        [
+          688,
+          732
+        ],
+        [
+          224,
+          732
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        572,
+        688,
+        611
+      ],
+      "text": "Tân chủ tận đông nam chi mỹ",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0110_viet_010",
+      "bbox": [
+        [
+          223,
+          623
+        ],
+        [
+          943,
+          624
+        ],
+        [
+          943,
+          660
+        ],
+        [
+          223,
+          658
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          744
+        ],
+        [
+          943,
+          745
+        ],
+        [
+          943,
+          781
+        ],
+        [
+          223,
+          779
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        623,
+        943,
+        660
+      ],
+      "text": "khích, chủ đều là những vẻ đẹp miền đông, nam",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0110_viet_011",
+      "bbox": [
+        [
+          248,
+          696
+        ],
+        [
+          984,
+          696
+        ],
+        [
+          984,
+          737
+        ],
+        [
+          248,
+          737
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          817
+        ],
+        [
+          984,
+          817
+        ],
+        [
+          984,
+          858
+        ],
+        [
+          248,
+          858
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        696,
+        984,
+        737
+      ],
+      "text": "42 M2 2 P. X% Xé Kế",
+      "confidence": 0.4095
+    },
+    {
+      "line_id": "0110_viet_012",
+      "bbox": [
+        [
+          226,
+          745
+        ],
+        [
+          992,
+          747
+        ],
+        [
+          992,
+          787
+        ],
+        [
+          226,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          866
+        ],
+        [
+          992,
+          868
+        ],
+        [
+          992,
+          908
+        ],
+        [
+          226,
+          906
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        745,
+        992,
+        787
+      ],
+      "text": "Đó đốc Dilm-công chi nhã-vọng, khải kích dao lâm",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0110_viet_013",
+      "bbox": [
+        [
+          225,
+          795
+        ],
+        [
+          989,
+          800
+        ],
+        [
+          989,
+          839
+        ],
+        [
+          224,
+          834
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          916
+        ],
+        [
+          989,
+          921
+        ],
+        [
+          989,
+          960
+        ],
+        [
+          224,
+          955
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        795,
+        989,
+        839
+      ],
+      "text": "Tiếng-tăm của đô-đốc Diêm-bá-Dư cùng với những",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0110_viet_014",
+      "bbox": [
+        [
+          201,
+          844
+        ],
+        [
+          581,
+          847
+        ],
+        [
+          580,
+          877
+        ],
+        [
+          201,
+          874
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          965
+        ],
+        [
+          581,
+          968
+        ],
+        [
+          580,
+          998
+        ],
+        [
+          201,
+          995
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        844,
+        581,
+        877
+      ],
+      "text": "khải-kích đi đền miền xa.",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0110_viet_015",
+      "bbox": [
+        [
+          248,
+          916
+        ],
+        [
+          986,
+          917
+        ],
+        [
+          985,
+          958
+        ],
+        [
+          248,
+          956
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1037
+        ],
+        [
+          986,
+          1038
+        ],
+        [
+          985,
+          1079
+        ],
+        [
+          248,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        916,
+        986,
+        958
+      ],
+      "text": "FLH 2 2 - 2 - 2 -                                                                                                        --------",
+      "confidence": 0.464
+    },
+    {
+      "line_id": "0110_viet_016",
+      "bbox": [
+        [
+          230,
+          969
+        ],
+        [
+          948,
+          971
+        ],
+        [
+          948,
+          1006
+        ],
+        [
+          229,
+          1004
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1090
+        ],
+        [
+          948,
+          1092
+        ],
+        [
+          948,
+          1127
+        ],
+        [
+          229,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        969,
+        948,
+        1006
+      ],
+      "text": "Vũ-văn tân-châu chi ý phạm, thiêm duy tạm trú",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0110_viet_017",
+      "bbox": [
+        [
+          225,
+          1018
+        ],
+        [
+          991,
+          1021
+        ],
+        [
+          990,
+          1055
+        ],
+        [
+          224,
+          1051
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1139
+        ],
+        [
+          991,
+          1142
+        ],
+        [
+          990,
+          1176
+        ],
+        [
+          224,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1018,
+        991,
+        1055
+      ],
+      "text": "Quan thái thú Vũ-văn-Quân, là mô phạm của châu",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0110_viet_018",
+      "bbox": [
+        [
+          196,
+          1058
+        ],
+        [
+          657,
+          1065
+        ],
+        [
+          656,
+          1105
+        ],
+        [
+          196,
+          1098
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1179
+        ],
+        [
+          657,
+          1186
+        ],
+        [
+          656,
+          1226
+        ],
+        [
+          196,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1058,
+        657,
+        1105
+      ],
+      "text": "mới, tạm dừng xe tại chồn này",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0110_viet_019",
+      "bbox": [
+        [
+          252,
+          1135
+        ],
+        [
+          776,
+          1140
+        ],
+        [
+          776,
+          1180
+        ],
+        [
+          251,
+          1175
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1256
+        ],
+        [
+          776,
+          1261
+        ],
+        [
+          776,
+          1301
+        ],
+        [
+          251,
+          1296
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1135,
+        776,
+        1180
+      ],
+      "text": "tá k Masto",
+      "confidence": 0.4338
+    },
+    {
+      "line_id": "0110_viet_020",
+      "bbox": [
+        [
+          231,
+          1187
+        ],
+        [
+          800,
+          1190
+        ],
+        [
+          800,
+          1229
+        ],
+        [
+          231,
+          1225
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1308
+        ],
+        [
+          800,
+          1311
+        ],
+        [
+          800,
+          1350
+        ],
+        [
+          231,
+          1346
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1187,
+        800,
+        1229
+      ],
+      "text": "Thập suân hưu-hạ, thắng hữu như vân",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0110_viet_021",
+      "bbox": [
+        [
+          226,
+          1237
+        ],
+        [
+          798,
+          1242
+        ],
+        [
+          798,
+          1276
+        ],
+        [
+          226,
+          1270
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1358
+        ],
+        [
+          798,
+          1363
+        ],
+        [
+          798,
+          1397
+        ],
+        [
+          226,
+          1391
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1237,
+        798,
+        1276
+      ],
+      "text": "Mười tuần nhàn rỗi, bạn tòt như mây",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0110_viet_022",
+      "bbox": [
+        [
+          230,
+          1361
+        ],
+        [
+          832,
+          1368
+        ],
+        [
+          832,
+          1408
+        ],
+        [
+          229,
+          1401
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1482
+        ],
+        [
+          832,
+          1489
+        ],
+        [
+          832,
+          1529
+        ],
+        [
+          229,
+          1522
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1361,
+        832,
+        1408
+      ],
+      "text": "Thiên-lý phùng nghinh, cao-bằng mãn tọa",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0110_viet_023",
+      "bbox": [
+        [
+          233,
+          1418
+        ],
+        [
+          808,
+          1418
+        ],
+        [
+          808,
+          1451
+        ],
+        [
+          233,
+          1451
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1539
+        ],
+        [
+          808,
+          1539
+        ],
+        [
+          808,
+          1572
+        ],
+        [
+          233,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1418,
+        808,
+        1451
+      ],
+      "text": "10 ngàn dặm đón chào, bạn hiến đầy chỗ",
+      "confidence": 0.8652
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "104",
+      "1011 4 Từ X K",
+      "Chôn hùng châu như sương mù giải-giáng",
+      "GWELZ",
+      "Đài, hào nằm gồi lên giao giới vùng Dì, Hạ;",
+      "khích, chủ đều là những vẻ đẹp miền đông, nam",
+      "Đó đốc Dilm-công chi nhã-vọng, khải kích dao lâm",
+      "khải-kích đi đền miền xa.",
+      "Vũ-văn tân-châu chi ý phạm, thiêm duy tạm trú",
+      "mới, tạm dừng xe tại chồn này",
+      "Thập suân hưu-hạ, thắng hữu như vân",
+      "Thiên-lý phùng nghinh, cao-bằng mãn tọa"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUY",
+      "Hùng châu vụ liệt tuân-thúi tinh trì.",
+      "người anh-tuân như ngôi sao rong-ruổi",
+      "Đài hoàng chăm Di Hạ chi giao",
+      "Tân chủ tận đông nam chi mỹ",
+      "42 M2 2 P. X% Xé Kế",
+      "Tiếng-tăm của đô-đốc Diêm-bá-Dư cùng với những",
+      "FLH 2 2 - 2 - 2 -                                                                                                        --------",
+      "Quan thái thú Vũ-văn-Quân, là mô phạm của châu",
+      "tá k Masto",
+      "Mười tuần nhàn rỗi, bạn tòt như mây",
+      "10 ngàn dặm đón chào, bạn hiến đầy chỗ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "雄州秀列俊彩星雲馳",
+        "phien_am": "104",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "台",
+        "phien_am": "1011 4 Từ X K",
+        "dich_nghia_gloss": "Hùng châu vụ liệt tuân-thúi tinh trì."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "夷",
+        "phien_am": "Chôn hùng châu như sương mù giải-giáng",
+        "dich_nghia_gloss": "người anh-tuân như ngôi sao rong-ruổi"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "頁",
+        "phien_am": "GWELZ",
+        "dich_nghia_gloss": "Đài hoàng chăm Di Hạ chi giao"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "之交",
+        "phien_am": "Đài, hào nằm gồi lên giao giới vùng Dì, Hạ;",
+        "dich_nghia_gloss": "Tân chủ tận đông nam chi mỹ"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "賓主畫東南",
+        "phien_am": "khích, chủ đều là những vẻ đẹp miền đông, nam",
+        "dich_nghia_gloss": "42 M2 2 P. X% Xé Kế"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "之囍美",
+        "phien_am": "Đó đốc Dilm-công chi nhã-vọng, khải kích dao lâm",
+        "dich_nghia_gloss": "Tiếng-tăm của đô-đốc Diêm-bá-Dư cùng với những"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "都督間公之雅望榮戰遙臨",
+        "phien_am": "khải-kích đi đền miền xa.",
+        "dich_nghia_gloss": "FLH 2 2 - 2 - 2 -                                                                                                        --------"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "宇文新州之懿範灣惟暫駐",
+        "phien_am": "Vũ-văn tân-châu chi ý phạm, thiêm duy tạm trú",
+        "dich_nghia_gloss": "Quan thái thú Vũ-văn-Quân, là mô phạm của châu"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "十包休服勝友如雲",
+        "phien_am": "mới, tạm dừng xe tại chồn này",
+        "dich_nghia_gloss": "tá k Masto"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "千黑達主",
+        "phien_am": "Thập suân hưu-hạ, thắng hữu như vân",
+        "dich_nghia_gloss": "Mười tuần nhàn rỗi, bạn tòt như mây"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "迎高",
+        "phien_am": "Thiên-lý phùng nghinh, cao-bằng mãn tọa",
+        "dich_nghia_gloss": "10 ngàn dặm đón chào, bạn hiến đầy chỗ"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "朋滿座",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

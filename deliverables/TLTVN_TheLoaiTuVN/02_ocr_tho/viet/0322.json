@@ -1,0 +1,796 @@
+{
+  "page_id": "0322",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 322,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1002,
+    "footnote_separator_y_original": 1117,
+    "effective_width": 1122,
+    "effective_height": 1002
+  },
+  "items": [
+    {
+      "line_id": "0322_viet_000",
+      "bbox": [
+        [
+          150,
+          10
+        ],
+        [
+          677,
+          9
+        ],
+        [
+          677,
+          42
+        ],
+        [
+          150,
+          43
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          125
+        ],
+        [
+          677,
+          124
+        ],
+        [
+          677,
+          157
+        ],
+        [
+          150,
+          158
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        9,
+        677,
+        43
+      ],
+      "text": "Lời giáo huân phô bày ở đạo dài lâu",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0322_viet_001",
+      "bbox": [
+        [
+          152,
+          56
+        ],
+        [
+          450,
+          56
+        ],
+        [
+          450,
+          92
+        ],
+        [
+          152,
+          92
+        ]
+      ],
+      "bbox_original": [
+        [
+          152,
+          171
+        ],
+        [
+          450,
+          171
+        ],
+        [
+          450,
+          207
+        ],
+        [
+          152,
+          207
+        ]
+      ],
+      "box_xyxy": [
+        152,
+        56,
+        450,
+        92
+      ],
+      "text": "Sự việc lại kì ít thấy",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0322_viet_002",
+      "bbox": [
+        [
+          148,
+          103
+        ],
+        [
+          783,
+          98
+        ],
+        [
+          783,
+          137
+        ],
+        [
+          149,
+          142
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          218
+        ],
+        [
+          783,
+          213
+        ],
+        [
+          783,
+          252
+        ],
+        [
+          149,
+          257
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        98,
+        783,
+        142
+      ],
+      "text": "Bậc thánh nhân trung quốc? lại tuổi thọ cao",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0322_viet_003",
+      "bbox": [
+        [
+          151,
+          200
+        ],
+        [
+          782,
+          194
+        ],
+        [
+          782,
+          233
+        ],
+        [
+          151,
+          239
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          315
+        ],
+        [
+          782,
+          309
+        ],
+        [
+          782,
+          348
+        ],
+        [
+          151,
+          354
+        ]
+      ],
+      "box_xyxy": [
+        151,
+        194,
+        782,
+        239
+      ],
+      "text": "Vận hành một cách mạnh mẽ, hợp với trời",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0322_viet_004",
+      "bbox": [
+        [
+          151,
+          247
+        ],
+        [
+          705,
+          248
+        ],
+        [
+          705,
+          283
+        ],
+        [
+          151,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          362
+        ],
+        [
+          705,
+          363
+        ],
+        [
+          705,
+          398
+        ],
+        [
+          151,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        151,
+        247,
+        705,
+        283
+      ],
+      "text": "Khiến phương xa xôi nhún thuận theo",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0322_viet_005",
+      "bbox": [
+        [
+          150,
+          295
+        ],
+        [
+          536,
+          295
+        ],
+        [
+          536,
+          331
+        ],
+        [
+          150,
+          331
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          410
+        ],
+        [
+          536,
+          410
+        ],
+        [
+          536,
+          446
+        ],
+        [
+          150,
+          446
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        295,
+        536,
+        331
+      ],
+      "text": "Nơi mặt trời soi chiếu đến",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0322_viet_006",
+      "bbox": [
+        [
+          148,
+          342
+        ],
+        [
+          887,
+          334
+        ],
+        [
+          887,
+          381
+        ],
+        [
+          149,
+          390
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          457
+        ],
+        [
+          887,
+          449
+        ],
+        [
+          887,
+          496
+        ],
+        [
+          149,
+          505
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        334,
+        887,
+        390
+      ],
+      "text": "Bấy giờ đều phải gắng gỏi tạo lập công lao to lớn?",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0322_viet_007",
+      "bbox": [
+        [
+          148,
+          393
+        ],
+        [
+          902,
+          391
+        ],
+        [
+          902,
+          429
+        ],
+        [
+          149,
+          431
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          508
+        ],
+        [
+          902,
+          506
+        ],
+        [
+          902,
+          544
+        ],
+        [
+          149,
+          546
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        391,
+        902,
+        431
+      ],
+      "text": "Sùng ngưỡng sự uy nghiêm, đẹp đẽ trong cấm cung",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0322_viet_008",
+      "bbox": [
+        [
+          150,
+          439
+        ],
+        [
+          729,
+          443
+        ],
+        [
+          729,
+          479
+        ],
+        [
+          150,
+          475
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          554
+        ],
+        [
+          729,
+          558
+        ],
+        [
+          729,
+          594
+        ],
+        [
+          150,
+          590
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        439,
+        729,
+        479
+      ],
+      "text": "Kính cần nhảy múa ở nhà minh đường",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0322_viet_009",
+      "bbox": [
+        [
+          142,
+          490
+        ],
+        [
+          667,
+          481
+        ],
+        [
+          668,
+          529
+        ],
+        [
+          143,
+          537
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          605
+        ],
+        [
+          667,
+          596
+        ],
+        [
+          668,
+          644
+        ],
+        [
+          143,
+          652
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        481,
+        668,
+        537
+      ],
+      "text": "Mang lòng thành của loài hoa quỳ 5,",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0322_viet_010",
+      "bbox": [
+        [
+          146,
+          586
+        ],
+        [
+          203,
+          586
+        ],
+        [
+          203,
+          623
+        ],
+        [
+          146,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          701
+        ],
+        [
+          203,
+          701
+        ],
+        [
+          203,
+          738
+        ],
+        [
+          146,
+          738
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        586,
+        203,
+        623
+      ],
+      "text": "IV.",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0322_viet_011",
+      "bbox": [
+        [
+          150,
+          637
+        ],
+        [
+          261,
+          634
+        ],
+        [
+          262,
+          671
+        ],
+        [
+          151,
+          674
+        ]
+      ],
+      "bbox_original": [
+        [
+          150,
+          752
+        ],
+        [
+          261,
+          749
+        ],
+        [
+          262,
+          786
+        ],
+        [
+          151,
+          789
+        ]
+      ],
+      "box_xyxy": [
+        150,
+        634,
+        262,
+        674
+      ],
+      "text": "ESIAL",
+      "confidence": 0.7839
+    },
+    {
+      "line_id": "0322_viet_012",
+      "bbox": [
+        [
+          153,
+          746
+        ],
+        [
+          376,
+          746
+        ],
+        [
+          376,
+          777
+        ],
+        [
+          153,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          153,
+          861
+        ],
+        [
+          376,
+          861
+        ],
+        [
+          376,
+          892
+        ],
+        [
+          153,
+          892
+        ]
+      ],
+      "box_xyxy": [
+        153,
+        746,
+        376,
+        777
+      ],
+      "text": "Krikéeh",
+      "confidence": 0.7039
+    },
+    {
+      "line_id": "0322_viet_013",
+      "bbox": [
+        [
+          154,
+          799
+        ],
+        [
+          413,
+          799
+        ],
+        [
+          413,
+          830
+        ],
+        [
+          154,
+          830
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          914
+        ],
+        [
+          413,
+          914
+        ],
+        [
+          413,
+          945
+        ],
+        [
+          154,
+          945
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        799,
+        413,
+        830
+      ],
+      "text": "menafz",
+      "confidence": 0.4934
+    },
+    {
+      "line_id": "0322_viet_014",
+      "bbox": [
+        [
+          157,
+          854
+        ],
+        [
+          342,
+          854
+        ],
+        [
+          342,
+          886
+        ],
+        [
+          157,
+          886
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          969
+        ],
+        [
+          342,
+          969
+        ],
+        [
+          342,
+          1001
+        ],
+        [
+          157,
+          1001
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        854,
+        342,
+        886
+      ],
+      "text": "25751",
+      "confidence": 0.5679
+    },
+    {
+      "line_id": "0322_viet_015",
+      "bbox": [
+        [
+          157,
+          908
+        ],
+        [
+          341,
+          908
+        ],
+        [
+          341,
+          939
+        ],
+        [
+          157,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          1023
+        ],
+        [
+          341,
+          1023
+        ],
+        [
+          341,
+          1054
+        ],
+        [
+          157,
+          1054
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        908,
+        341,
+        939
+      ],
+      "text": "2127",
+      "confidence": 0.2166
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Lời giáo huân phô bày ở đạo dài lâu",
+      "Sự việc lại kì ít thấy",
+      "Bậc thánh nhân trung quốc? lại tuổi thọ cao",
+      "Vận hành một cách mạnh mẽ, hợp với trời",
+      "Khiến phương xa xôi nhún thuận theo",
+      "Nơi mặt trời soi chiếu đến",
+      "Bấy giờ đều phải gắng gỏi tạo lập công lao to lớn?",
+      "Sùng ngưỡng sự uy nghiêm, đẹp đẽ trong cấm cung",
+      "Kính cần nhảy múa ở nhà minh đường",
+      "Mang lòng thành của loài hoa quỳ 5,",
+      "IV.",
+      "ESIAL",
+      "Krikéeh",
+      "menafz",
+      "25751",
+      "2127"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

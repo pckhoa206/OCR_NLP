@@ -1,0 +1,1420 @@
+{
+  "page_id": "0382",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 382,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0382_viet_000",
+      "bbox": [
+        [
+          579,
+          403
+        ],
+        [
+          987,
+          403
+        ],
+        [
+          987,
+          445
+        ],
+        [
+          579,
+          445
+        ]
+      ],
+      "bbox_original": [
+        [
+          579,
+          558
+        ],
+        [
+          987,
+          558
+        ],
+        [
+          987,
+          600
+        ],
+        [
+          579,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        579,
+        403,
+        987,
+        445
+      ],
+      "text": "TRẦN QUỐC TUẤN",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0382_viet_001",
+      "bbox": [
+        [
+          624,
+          531
+        ],
+        [
+          955,
+          531
+        ],
+        [
+          955,
+          568
+        ],
+        [
+          624,
+          568
+        ]
+      ],
+      "bbox_original": [
+        [
+          624,
+          686
+        ],
+        [
+          955,
+          686
+        ],
+        [
+          955,
+          723
+        ],
+        [
+          624,
+          723
+        ]
+      ],
+      "box_xyxy": [
+        624,
+        531,
+        955,
+        568
+      ],
+      "text": "HƯNG ĐẠO VƯƠNG",
+      "confidence": 0.8861
+    },
+    {
+      "line_id": "0382_viet_002",
+      "bbox": [
+        [
+          661,
+          628
+        ],
+        [
+          905,
+          628
+        ],
+        [
+          905,
+          670
+        ],
+        [
+          661,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          783
+        ],
+        [
+          905,
+          783
+        ],
+        [
+          905,
+          825
+        ],
+        [
+          661,
+          825
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        628,
+        905,
+        670
+      ],
+      "text": "(1232 7 - 1300)",
+      "confidence": 0.8281
+    },
+    {
+      "line_id": "0382_viet_003",
+      "bbox": [
+        [
+          264,
+          777
+        ],
+        [
+          1404,
+          784
+        ],
+        [
+          1404,
+          827
+        ],
+        [
+          263,
+          820
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          932
+        ],
+        [
+          1404,
+          939
+        ],
+        [
+          1404,
+          982
+        ],
+        [
+          263,
+          975
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        777,
+        1404,
+        827
+      ],
+      "text": "Ông là con An sinh vương Trần Liễu [k Ap ('), cháu gọi Trần Thái Tông",
+      "confidence": 0.893
+    },
+    {
+      "line_id": "0382_viet_004",
+      "bbox": [
+        [
+          190,
+          825
+        ],
+        [
+          1387,
+          822
+        ],
+        [
+          1387,
+          865
+        ],
+        [
+          190,
+          867
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          980
+        ],
+        [
+          1387,
+          977
+        ],
+        [
+          1387,
+          1020
+        ],
+        [
+          190,
+          1022
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        822,
+        1387,
+        867
+      ],
+      "text": "5XX k bằng chủ, người hương Tức-mặc Bộ 5, phủ Thiên-trường R",
+      "confidence": 0.8506
+    },
+    {
+      "line_id": "0382_viet_005",
+      "bbox": [
+        [
+          179,
+          867
+        ],
+        [
+          1391,
+          863
+        ],
+        [
+          1391,
+          906
+        ],
+        [
+          179,
+          910
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1022
+        ],
+        [
+          1391,
+          1018
+        ],
+        [
+          1391,
+          1061
+        ],
+        [
+          179,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        863,
+        1391,
+        910
+      ],
+      "text": "(?), được phong ấp ở hương Vạn-kiếp Ấp tb, thuộc huyện Chi-linh E",
+      "confidence": 0.8563
+    },
+    {
+      "line_id": "0382_viet_006",
+      "bbox": [
+        [
+          195,
+          906
+        ],
+        [
+          1406,
+          912
+        ],
+        [
+          1406,
+          955
+        ],
+        [
+          194,
+          949
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1061
+        ],
+        [
+          1406,
+          1067
+        ],
+        [
+          1406,
+          1110
+        ],
+        [
+          194,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        906,
+        1406,
+        955
+      ],
+      "text": "- châu nam-sách đề ;, lộ Lạng-giang ăk (f). Sinb khoảng 1232().",
+      "confidence": 0.8123
+    },
+    {
+      "line_id": "0382_viet_007",
+      "bbox": [
+        [
+          259,
+          966
+        ],
+        [
+          1404,
+          966
+        ],
+        [
+          1404,
+          1002
+        ],
+        [
+          259,
+          1002
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1121
+        ],
+        [
+          1404,
+          1121
+        ],
+        [
+          1404,
+          1157
+        ],
+        [
+          259,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        966,
+        1404,
+        1002
+      ],
+      "text": "Theo truyền thuyết, từ nhỏ Tràn Quốc Tuấn đã ham thích trò chơi đánh",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0382_viet_008",
+      "bbox": [
+        [
+          179,
+          1013
+        ],
+        [
+          1402,
+          1013
+        ],
+        [
+          1402,
+          1043
+        ],
+        [
+          179,
+          1043
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1168
+        ],
+        [
+          1402,
+          1168
+        ],
+        [
+          1402,
+          1198
+        ],
+        [
+          179,
+          1198
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1013,
+        1402,
+        1043
+      ],
+      "text": "Trận, sáu tuổi biết làm thơ (ý), Lớn lên, học vẫn rất uyên bắc, vừa giỏi văng nhà nhau",
+      "confidence": 0.8263
+    },
+    {
+      "line_id": "0382_viet_009",
+      "bbox": [
+        [
+          175,
+          1049
+        ],
+        [
+          1398,
+          1052
+        ],
+        [
+          1398,
+          1090
+        ],
+        [
+          175,
+          1088
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1204
+        ],
+        [
+          1398,
+          1207
+        ],
+        [
+          1398,
+          1245
+        ],
+        [
+          175,
+          1243
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1049,
+        1398,
+        1090
+      ],
+      "text": "chương vừa hiến thấu lục thao tam lược, cười ngựra, bắn cung đều thành thạo",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0382_viet_010",
+      "bbox": [
+        [
+          175,
+          1092
+        ],
+        [
+          1402,
+          1094
+        ],
+        [
+          1402,
+          1131
+        ],
+        [
+          175,
+          1129
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1247
+        ],
+        [
+          1402,
+          1249
+        ],
+        [
+          1402,
+          1286
+        ],
+        [
+          175,
+          1284
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1092,
+        1402,
+        1131
+      ],
+      "text": "Năm 1257, quân Nguyên sang xâm lược nước ta lần đầu, ông được cử càm thuận",
+      "confidence": 0.8829
+    },
+    {
+      "line_id": "0382_viet_011",
+      "bbox": [
+        [
+          179,
+          1139
+        ],
+        [
+          1402,
+          1139
+        ],
+        [
+          1402,
+          1176
+        ],
+        [
+          179,
+          1176
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1294
+        ],
+        [
+          1402,
+          1294
+        ],
+        [
+          1402,
+          1331
+        ],
+        [
+          179,
+          1331
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1139,
+        1402,
+        1176
+      ],
+      "text": "quân giữ biên thủy phía Bắc. Ba chục năm sau, trong hai cuộc kháng chiến",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0382_viet_012",
+      "bbox": [
+        [
+          179,
+          1180
+        ],
+        [
+          1404,
+          1182
+        ],
+        [
+          1404,
+          1219
+        ],
+        [
+          179,
+          1216
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1335
+        ],
+        [
+          1404,
+          1337
+        ],
+        [
+          1404,
+          1374
+        ],
+        [
+          179,
+          1371
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1180,
+        1404,
+        1219
+      ],
+      "text": "chống Nguyên Mông lần thứ hai (1285), và lần thứ ba (1287 ? 88), ông lại",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0382_viet_013",
+      "bbox": [
+        [
+          173,
+          1216
+        ],
+        [
+          1402,
+          1223
+        ],
+        [
+          1402,
+          1266
+        ],
+        [
+          173,
+          1259
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1371
+        ],
+        [
+          1402,
+          1378
+        ],
+        [
+          1402,
+          1421
+        ],
+        [
+          173,
+          1414
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1216,
+        1402,
+        1266
+      ],
+      "text": "được đề bạt làm Tiết chế thống lĩnh toàn quân và đã giành thắng lợi lầy lừng.",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0382_viet_014",
+      "bbox": [
+        [
+          268,
+          1270
+        ],
+        [
+          1409,
+          1277
+        ],
+        [
+          1408,
+          1319
+        ],
+        [
+          268,
+          1313
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1425
+        ],
+        [
+          1409,
+          1432
+        ],
+        [
+          1408,
+          1474
+        ],
+        [
+          268,
+          1468
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1270,
+        1409,
+        1319
+      ],
+      "text": "Là một vị tướng tài kiêm văn võ, biết đánh giá dùng vai trò quan trọng",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0382_viet_015",
+      "bbox": [
+        [
+          184,
+          1321
+        ],
+        [
+          1400,
+          1321
+        ],
+        [
+          1400,
+          1351
+        ],
+        [
+          184,
+          1351
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1476
+        ],
+        [
+          1400,
+          1476
+        ],
+        [
+          1400,
+          1506
+        ],
+        [
+          184,
+          1506
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1321,
+        1400,
+        1351
+      ],
+      "text": "các của dân ? nền tảng của xã tắc ? và của quân ? lông cánh của chim hồng chim trong thế này",
+      "confidence": 0.8372
+    },
+    {
+      "line_id": "0382_viet_016",
+      "bbox": [
+        [
+          181,
+          1360
+        ],
+        [
+          1404,
+          1360
+        ],
+        [
+          1404,
+          1396
+        ],
+        [
+          181,
+          1396
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1515
+        ],
+        [
+          1404,
+          1515
+        ],
+        [
+          1404,
+          1551
+        ],
+        [
+          181,
+          1551
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1360,
+        1404,
+        1396
+      ],
+      "text": "Thu bộc ? Trần Hưng Đạo đã biết đề ra một đường lối quân sự ưu việt, có tính thế nhật thuận",
+      "confidence": 0.8022
+    },
+    {
+      "line_id": "0382_viet_017",
+      "bbox": [
+        [
+          182,
+          1403
+        ],
+        [
+          1404,
+          1405
+        ],
+        [
+          1404,
+          1441
+        ],
+        [
+          181,
+          1439
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1558
+        ],
+        [
+          1404,
+          1560
+        ],
+        [
+          1404,
+          1596
+        ],
+        [
+          181,
+          1594
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1403,
+        1404,
+        1441
+      ],
+      "text": "Các chất nhân dân, mà tiêu biểu là hai cuộc rút lui chiến lược khỏi Kinh thành",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0382_viet_018",
+      "bbox": [
+        [
+          173,
+          1443
+        ],
+        [
+          1400,
+          1446
+        ],
+        [
+          1400,
+          1488
+        ],
+        [
+          173,
+          1486
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1598
+        ],
+        [
+          1400,
+          1601
+        ],
+        [
+          1400,
+          1643
+        ],
+        [
+          173,
+          1641
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1443,
+        1400,
+        1488
+      ],
+      "text": "Thăng-long, tránh cho nhà Trần những tốn thất lớn, và tạo thời cơ bẻ gãy",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0382_viet_019",
+      "bbox": [
+        [
+          175,
+          1491
+        ],
+        [
+          1402,
+          1491
+        ],
+        [
+          1402,
+          1527
+        ],
+        [
+          175,
+          1527
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1646
+        ],
+        [
+          1402,
+          1646
+        ],
+        [
+          1402,
+          1682
+        ],
+        [
+          175,
+          1682
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1491,
+        1402,
+        1527
+      ],
+      "text": "lực lượng của địch, Những kế hoạch làm vườn không nhà trống trên khắp các nhà trong",
+      "confidence": 0.8561
+    },
+    {
+      "line_id": "0382_viet_020",
+      "bbox": [
+        [
+          175,
+          1531
+        ],
+        [
+          1402,
+          1533
+        ],
+        [
+          1402,
+          1572
+        ],
+        [
+          175,
+          1570
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1686
+        ],
+        [
+          1402,
+          1688
+        ],
+        [
+          1402,
+          1727
+        ],
+        [
+          175,
+          1725
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1531,
+        1402,
+        1572
+      ],
+      "text": "nẻo đường mà giặc đi qua, những hoạt động phối hợp nhịp nhàng giữa hương",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0382_viet_021",
+      "bbox": [
+        [
+          173,
+          1574
+        ],
+        [
+          1402,
+          1576
+        ],
+        [
+          1402,
+          1613
+        ],
+        [
+          173,
+          1611
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1729
+        ],
+        [
+          1402,
+          1731
+        ],
+        [
+          1402,
+          1768
+        ],
+        [
+          173,
+          1766
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1574,
+        1402,
+        1613
+      ],
+      "text": "binh và quân đội chính quy của nhà nước, những trận phục kích lừng danh tháng",
+      "confidence": 0.8785
+    },
+    {
+      "line_id": "0382_viet_022",
+      "bbox": [
+        [
+          175,
+          1617
+        ],
+        [
+          1402,
+          1621
+        ],
+        [
+          1402,
+          1658
+        ],
+        [
+          175,
+          1653
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1772
+        ],
+        [
+          1402,
+          1776
+        ],
+        [
+          1402,
+          1813
+        ],
+        [
+          175,
+          1808
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1617,
+        1402,
+        1658
+      ],
+      "text": "như trận Bạch-đẳng 4 ấk đã làm cho tên tuổi của ông sống mãi. Ngày đến",
+      "confidence": 0.9061
+    },
+    {
+      "line_id": "0382_viet_023",
+      "bbox": [
+        [
+          177,
+          1660
+        ],
+        [
+          1363,
+          1662
+        ],
+        [
+          1363,
+          1701
+        ],
+        [
+          177,
+          1698
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1815
+        ],
+        [
+          1363,
+          1817
+        ],
+        [
+          1363,
+          1856
+        ],
+        [
+          177,
+          1853
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1660,
+        1363,
+        1701
+      ],
+      "text": "kẻ thù cũng phải nhắc đến mấy chữ Hưng đạo vương với niềm kính trọng.",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0382_viet_024",
+      "bbox": [
+        [
+          274,
+          1715
+        ],
+        [
+          1404,
+          1715
+        ],
+        [
+          1404,
+          1752
+        ],
+        [
+          274,
+          1752
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1870
+        ],
+        [
+          1404,
+          1870
+        ],
+        [
+          1404,
+          1907
+        ],
+        [
+          274,
+          1907
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1715,
+        1404,
+        1752
+      ],
+      "text": "Bên cạnh tư tưởng quản sự đột xuất, Trần Quốc Tuấn còn nêu một tấm thuận",
+      "confidence": 0.8807
+    },
+    {
+      "line_id": "0382_viet_025",
+      "bbox": [
+        [
+          177,
+          1760
+        ],
+        [
+          1402,
+          1756
+        ],
+        [
+          1402,
+          1793
+        ],
+        [
+          177,
+          1797
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1915
+        ],
+        [
+          1402,
+          1911
+        ],
+        [
+          1402,
+          1948
+        ],
+        [
+          177,
+          1952
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1756,
+        1402,
+        1797
+      ],
+      "text": "ngương về lòng trung nghĩa sáng suốt, biết gạt bỏ mọi biểm khích riêng đề đoàn",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0382_viet_026",
+      "bbox": [
+        [
+          173,
+          1799
+        ],
+        [
+          1406,
+          1799
+        ],
+        [
+          1406,
+          1842
+        ],
+        [
+          173,
+          1842
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1954
+        ],
+        [
+          1406,
+          1954
+        ],
+        [
+          1406,
+          1997
+        ],
+        [
+          173,
+          1997
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1799,
+        1406,
+        1842
+      ],
+      "text": "kết các tòn thất và tướng tả trong triều nhằm phò vua giúp nước, đánh bại kẻ",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0382_viet_027",
+      "bbox": [
+        [
+          171,
+          1837
+        ],
+        [
+          1404,
+          1842
+        ],
+        [
+          1404,
+          1885
+        ],
+        [
+          171,
+          1880
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1992
+        ],
+        [
+          1404,
+          1997
+        ],
+        [
+          1404,
+          2040
+        ],
+        [
+          171,
+          2035
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1837,
+        1404,
+        1885
+      ],
+      "text": "thù (?), Sử sách từng ghi lại câu nói nồi tiếng của ông với vua Trần Thánh Tông",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0382_viet_028",
+      "bbox": [
+        [
+          199,
+          1878
+        ],
+        [
+          1409,
+          1883
+        ],
+        [
+          1408,
+          1928
+        ],
+        [
+          199,
+          1923
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          2033
+        ],
+        [
+          1409,
+          2038
+        ],
+        [
+          1408,
+          2083
+        ],
+        [
+          199,
+          2078
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1878,
+        1409,
+        1928
+      ],
+      "text": "[X ấp ất, khi đất nước đang làm vào tình thế nghìn cần treo sợi tóc: e Xin",
+      "confidence": 0.8849
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRẦN QUỐC TUẤN",
+      "HƯNG ĐẠO VƯƠNG",
+      "(1232 7 - 1300)",
+      "Ông là con An sinh vương Trần Liễu [k Ap ('), cháu gọi Trần Thái Tông",
+      "5XX k bằng chủ, người hương Tức-mặc Bộ 5, phủ Thiên-trường R",
+      "(?), được phong ấp ở hương Vạn-kiếp Ấp tb, thuộc huyện Chi-linh E",
+      "- châu nam-sách đề ;, lộ Lạng-giang ăk (f). Sinb khoảng 1232().",
+      "Theo truyền thuyết, từ nhỏ Tràn Quốc Tuấn đã ham thích trò chơi đánh",
+      "Trận, sáu tuổi biết làm thơ (ý), Lớn lên, học vẫn rất uyên bắc, vừa giỏi văng nhà nhau",
+      "chương vừa hiến thấu lục thao tam lược, cười ngựra, bắn cung đều thành thạo",
+      "Năm 1257, quân Nguyên sang xâm lược nước ta lần đầu, ông được cử càm thuận",
+      "quân giữ biên thủy phía Bắc. Ba chục năm sau, trong hai cuộc kháng chiến",
+      "chống Nguyên Mông lần thứ hai (1285), và lần thứ ba (1287 ? 88), ông lại",
+      "được đề bạt làm Tiết chế thống lĩnh toàn quân và đã giành thắng lợi lầy lừng.",
+      "Là một vị tướng tài kiêm văn võ, biết đánh giá dùng vai trò quan trọng",
+      "các của dân ? nền tảng của xã tắc ? và của quân ? lông cánh của chim hồng chim trong thế này",
+      "Thu bộc ? Trần Hưng Đạo đã biết đề ra một đường lối quân sự ưu việt, có tính thế nhật thuận",
+      "Các chất nhân dân, mà tiêu biểu là hai cuộc rút lui chiến lược khỏi Kinh thành",
+      "Thăng-long, tránh cho nhà Trần những tốn thất lớn, và tạo thời cơ bẻ gãy",
+      "lực lượng của địch, Những kế hoạch làm vườn không nhà trống trên khắp các nhà trong",
+      "nẻo đường mà giặc đi qua, những hoạt động phối hợp nhịp nhàng giữa hương",
+      "binh và quân đội chính quy của nhà nước, những trận phục kích lừng danh tháng",
+      "như trận Bạch-đẳng 4 ấk đã làm cho tên tuổi của ông sống mãi. Ngày đến",
+      "kẻ thù cũng phải nhắc đến mấy chữ Hưng đạo vương với niềm kính trọng.",
+      "Bên cạnh tư tưởng quản sự đột xuất, Trần Quốc Tuấn còn nêu một tấm thuận",
+      "ngương về lòng trung nghĩa sáng suốt, biết gạt bỏ mọi biểm khích riêng đề đoàn",
+      "kết các tòn thất và tướng tả trong triều nhằm phò vua giúp nước, đánh bại kẻ",
+      "thù (?), Sử sách từng ghi lại câu nói nồi tiếng của ông với vua Trần Thánh Tông",
+      "[X ấp ất, khi đất nước đang làm vào tình thế nghìn cần treo sợi tóc: e Xin"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,1314 @@
+{
+  "page_id": "0184",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 184,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0184_viet_000",
+      "bbox": [
+        [
+          194,
+          35
+        ],
+        [
+          246,
+          35
+        ],
+        [
+          246,
+          67
+        ],
+        [
+          194,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          156
+        ],
+        [
+          246,
+          156
+        ],
+        [
+          246,
+          188
+        ],
+        [
+          194,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        35,
+        246,
+        67
+      ],
+      "text": "178",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0184_viet_001",
+      "bbox": [
+        [
+          670,
+          33
+        ],
+        [
+          987,
+          33
+        ],
+        [
+          987,
+          62
+        ],
+        [
+          670,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          154
+        ],
+        [
+          987,
+          154
+        ],
+        [
+          987,
+          183
+        ],
+        [
+          670,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        33,
+        987,
+        62
+      ],
+      "text": "PHÁN-VĂN TINH-TUY",
+      "confidence": 0.8898
+    },
+    {
+      "line_id": "0184_viet_002",
+      "bbox": [
+        [
+          248,
+          139
+        ],
+        [
+          705,
+          139
+        ],
+        [
+          705,
+          177
+        ],
+        [
+          248,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          260
+        ],
+        [
+          705,
+          260
+        ],
+        [
+          705,
+          298
+        ],
+        [
+          248,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        139,
+        705,
+        177
+      ],
+      "text": "KH27 LÊ % %",
+      "confidence": 0.5004
+    },
+    {
+      "line_id": "0184_viet_003",
+      "bbox": [
+        [
+          230,
+          187
+        ],
+        [
+          704,
+          189
+        ],
+        [
+          704,
+          219
+        ],
+        [
+          229,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          308
+        ],
+        [
+          704,
+          310
+        ],
+        [
+          704,
+          340
+        ],
+        [
+          229,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        187,
+        704,
+        219
+      ],
+      "text": "Vinh châu chi dõ, sản di xà",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0184_viet_004",
+      "bbox": [
+        [
+          280,
+          234
+        ],
+        [
+          732,
+          233
+        ],
+        [
+          732,
+          266
+        ],
+        [
+          280,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          355
+        ],
+        [
+          732,
+          354
+        ],
+        [
+          732,
+          387
+        ],
+        [
+          280,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        233,
+        732,
+        268
+      ],
+      "text": "Cánh-đồng Vĩnh-châu có thứ rắn lạ",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0184_viet_005",
+      "bbox": [
+        [
+          246,
+          305
+        ],
+        [
+          496,
+          301
+        ],
+        [
+          496,
+          348
+        ],
+        [
+          247,
+          352
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          426
+        ],
+        [
+          496,
+          422
+        ],
+        [
+          496,
+          469
+        ],
+        [
+          247,
+          473
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        301,
+        496,
+        352
+      ],
+      "text": "4",
+      "confidence": 0.378
+    },
+    {
+      "line_id": "0184_viet_006",
+      "bbox": [
+        [
+          230,
+          355
+        ],
+        [
+          613,
+          360
+        ],
+        [
+          612,
+          394
+        ],
+        [
+          229,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          476
+        ],
+        [
+          613,
+          481
+        ],
+        [
+          612,
+          515
+        ],
+        [
+          229,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        355,
+        613,
+        394
+      ],
+      "text": "Hắc chất bạch chương",
+      "confidence": 0.9157
+    },
+    {
+      "line_id": "0184_viet_007",
+      "bbox": [
+        [
+          279,
+          400
+        ],
+        [
+          515,
+          404
+        ],
+        [
+          514,
+          439
+        ],
+        [
+          278,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          521
+        ],
+        [
+          515,
+          525
+        ],
+        [
+          514,
+          560
+        ],
+        [
+          278,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        400,
+        515,
+        439
+      ],
+      "text": "Lõt đen văn trắng",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0184_viet_008",
+      "bbox": [
+        [
+          231,
+          526
+        ],
+        [
+          586,
+          526
+        ],
+        [
+          586,
+          561
+        ],
+        [
+          231,
+          561
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          647
+        ],
+        [
+          586,
+          647
+        ],
+        [
+          586,
+          682
+        ],
+        [
+          231,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        526,
+        586,
+        561
+      ],
+      "text": "Súc thảo mộc tận tử",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0184_viet_009",
+      "bbox": [
+        [
+          282,
+          573
+        ],
+        [
+          727,
+          571
+        ],
+        [
+          727,
+          604
+        ],
+        [
+          282,
+          606
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          694
+        ],
+        [
+          727,
+          692
+        ],
+        [
+          727,
+          725
+        ],
+        [
+          282,
+          727
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        571,
+        727,
+        606
+      ],
+      "text": "Chạm vào cỏ cây, cỏ cây chết hết",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0184_viet_010",
+      "bbox": [
+        [
+          248,
+          644
+        ],
+        [
+          705,
+          644
+        ],
+        [
+          705,
+          683
+        ],
+        [
+          248,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          765
+        ],
+        [
+          705,
+          765
+        ],
+        [
+          705,
+          804
+        ],
+        [
+          248,
+          804
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        644,
+        705,
+        683
+      ],
+      "text": "2514222",
+      "confidence": 0.4416
+    },
+    {
+      "line_id": "0184_viet_011",
+      "bbox": [
+        [
+          231,
+          690
+        ],
+        [
+          732,
+          691
+        ],
+        [
+          732,
+          732
+        ],
+        [
+          231,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          811
+        ],
+        [
+          732,
+          812
+        ],
+        [
+          732,
+          853
+        ],
+        [
+          231,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        690,
+        732,
+        732
+      ],
+      "text": "Di khiết nhân, vô ngự chi giả",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0184_viet_012",
+      "bbox": [
+        [
+          285,
+          743
+        ],
+        [
+          825,
+          743
+        ],
+        [
+          825,
+          772
+        ],
+        [
+          285,
+          772
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          864
+        ],
+        [
+          825,
+          864
+        ],
+        [
+          825,
+          893
+        ],
+        [
+          285,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        743,
+        825,
+        772
+      ],
+      "text": "Cấn người thì không có cách gì chứa nồi",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0184_viet_013",
+      "bbox": [
+        [
+          250,
+          814
+        ],
+        [
+          780,
+          814
+        ],
+        [
+          780,
+          852
+        ],
+        [
+          250,
+          852
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          935
+        ],
+        [
+          780,
+          935
+        ],
+        [
+          780,
+          973
+        ],
+        [
+          250,
+          973
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        814,
+        780,
+        852
+      ],
+      "text": "17 To 2 Lv. Ê",
+      "confidence": 0.5385
+    },
+    {
+      "line_id": "0184_viet_014",
+      "bbox": [
+        [
+          231,
+          860
+        ],
+        [
+          768,
+          864
+        ],
+        [
+          768,
+          899
+        ],
+        [
+          231,
+          896
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          981
+        ],
+        [
+          768,
+          985
+        ],
+        [
+          768,
+          1020
+        ],
+        [
+          231,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        860,
+        768,
+        899
+      ],
+      "text": "- Nhiên đắc nhi thõ chỉ, di vi nhi,",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0184_viet_015",
+      "bbox": [
+        [
+          282,
+          911
+        ],
+        [
+          780,
+          911
+        ],
+        [
+          780,
+          944
+        ],
+        [
+          282,
+          944
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1032
+        ],
+        [
+          780,
+          1032
+        ],
+        [
+          780,
+          1065
+        ],
+        [
+          282,
+          1065
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        911,
+        780,
+        944
+      ],
+      "text": "Nhưng bắt mà ướp thịt làm món ăn",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0184_viet_016",
+      "bbox": [
+        [
+          253,
+          981
+        ],
+        [
+          845,
+          981
+        ],
+        [
+          845,
+          1021
+        ],
+        [
+          253,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1102
+        ],
+        [
+          845,
+          1102
+        ],
+        [
+          845,
+          1142
+        ],
+        [
+          253,
+          1142
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        981,
+        845,
+        1021
+      ],
+      "text": "T-C tura",
+      "confidence": 0.4327
+    },
+    {
+      "line_id": "0184_viet_017",
+      "bbox": [
+        [
+          236,
+          1031
+        ],
+        [
+          908,
+          1035
+        ],
+        [
+          908,
+          1070
+        ],
+        [
+          236,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1152
+        ],
+        [
+          908,
+          1156
+        ],
+        [
+          908,
+          1191
+        ],
+        [
+          236,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1031,
+        908,
+        1070
+      ],
+      "text": "Khả di di đại phong, loan, uyền, lâu, lệ;",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0184_viet_018",
+      "bbox": [
+        [
+          280,
+          1078
+        ],
+        [
+          989,
+          1080
+        ],
+        [
+          989,
+          1113
+        ],
+        [
+          280,
+          1111
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1199
+        ],
+        [
+          989,
+          1201
+        ],
+        [
+          989,
+          1234
+        ],
+        [
+          280,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1078,
+        989,
+        1113
+      ],
+      "text": "có thể khỏi được các bệnh đại phong, loan, uyền, lâu, lệ",
+      "confidence": 0.9276
+    },
+    {
+      "line_id": "0184_viet_019",
+      "bbox": [
+        [
+          251,
+          1152
+        ],
+        [
+          638,
+          1152
+        ],
+        [
+          638,
+          1192
+        ],
+        [
+          251,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1273
+        ],
+        [
+          638,
+          1273
+        ],
+        [
+          638,
+          1313
+        ],
+        [
+          251,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1152,
+        638,
+        1192
+      ],
+      "text": "1 RM A",
+      "confidence": 0.3891
+    },
+    {
+      "line_id": "0184_viet_020",
+      "bbox": [
+        [
+          235,
+          1198
+        ],
+        [
+          692,
+          1205
+        ],
+        [
+          692,
+          1239
+        ],
+        [
+          234,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          1319
+        ],
+        [
+          692,
+          1326
+        ],
+        [
+          692,
+          1360
+        ],
+        [
+          234,
+          1353
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1198,
+        692,
+        1239
+      ],
+      "text": "Khứ tử cơ; sát tam trùng",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0184_viet_021",
+      "bbox": [
+        [
+          282,
+          1247
+        ],
+        [
+          802,
+          1249
+        ],
+        [
+          801,
+          1282
+        ],
+        [
+          282,
+          1281
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1368
+        ],
+        [
+          802,
+          1370
+        ],
+        [
+          801,
+          1403
+        ],
+        [
+          282,
+          1402
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        1247,
+        802,
+        1282
+      ],
+      "text": "Dùng làm thuốc cao lên da và sát trùng",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0184_viet_022",
+      "bbox": [
+        [
+          255,
+          1322
+        ],
+        [
+          850,
+          1322
+        ],
+        [
+          850,
+          1363
+        ],
+        [
+          255,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1443
+        ],
+        [
+          850,
+          1443
+        ],
+        [
+          850,
+          1484
+        ],
+        [
+          255,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1322,
+        850,
+        1363
+      ],
+      "text": "14 k 2 - 2 - 2 - 1 - 2 - 2 k k z",
+      "confidence": 0.466
+    },
+    {
+      "line_id": "0184_viet_023",
+      "bbox": [
+        [
+          236,
+          1371
+        ],
+        [
+          883,
+          1371
+        ],
+        [
+          883,
+          1409
+        ],
+        [
+          236,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1492
+        ],
+        [
+          883,
+          1492
+        ],
+        [
+          883,
+          1530
+        ],
+        [
+          236,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1371,
+        883,
+        1409
+      ],
+      "text": "Kỳ thủy, thái y di vương mệnh tụ chi",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0184_viet_024",
+      "bbox": [
+        [
+          283,
+          1420
+        ],
+        [
+          915,
+          1418
+        ],
+        [
+          915,
+          1448
+        ],
+        [
+          284,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          1541
+        ],
+        [
+          915,
+          1539
+        ],
+        [
+          915,
+          1569
+        ],
+        [
+          284,
+          1571
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        1418,
+        915,
+        1450
+      ],
+      "text": "Lúc đầu, quan thái y thco mệnh vua đi kiêm rắn",
+      "confidence": 0.9254
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "178",
+      "KH27 LÊ % %",
+      "Cánh-đồng Vĩnh-châu có thứ rắn lạ",
+      "Hắc chất bạch chương",
+      "Súc thảo mộc tận tử",
+      "2514222",
+      "Cấn người thì không có cách gì chứa nồi",
+      "- Nhiên đắc nhi thõ chỉ, di vi nhi,",
+      "T-C tura",
+      "có thể khỏi được các bệnh đại phong, loan, uyền, lâu, lệ",
+      "Khứ tử cơ; sát tam trùng",
+      "14 k 2 - 2 - 2 - 1 - 2 - 2 k k z",
+      "Lúc đầu, quan thái y thco mệnh vua đi kiêm rắn"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN-VĂN TINH-TUY",
+      "Vinh châu chi dõ, sản di xà",
+      "4",
+      "Lõt đen văn trắng",
+      "Chạm vào cỏ cây, cỏ cây chết hết",
+      "Di khiết nhân, vô ngự chi giả",
+      "17 To 2 Lv. Ê",
+      "Nhưng bắt mà ướp thịt làm món ăn",
+      "Khả di di đại phong, loan, uyền, lâu, lệ;",
+      "1 RM A",
+      "Dùng làm thuốc cao lên da và sát trùng",
+      "Kỳ thủy, thái y di vương mệnh tụ chi"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "永龍州龍之龍野興產具蛇",
+        "phien_am": "178",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "黑質白章",
+        "phien_am": "KH27 LÊ % %",
+        "dich_nghia_gloss": "Vinh châu chi dõ, sản di xà"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "觸草木畫死",
+        "phien_am": "Cánh-đồng Vĩnh-châu có thứ rắn lạ",
+        "dich_nghia_gloss": "4"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "以醬人無樂之者",
+        "phien_am": "Hắc chất bạch chương",
+        "dich_nghia_gloss": "Lõt đen văn trắng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "然得而脂之以馬餌",
+        "phien_am": "Súc thảo mộc tận tử",
+        "dich_nghia_gloss": "Chạm vào cỏ cây, cỏ cây chết hết"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "可以己大風摩統產瘤",
+        "phien_am": "2514222",
+        "dich_nghia_gloss": "Di khiết nhân, vô ngự chi giả"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "山",
+        "phien_am": "Cấn người thì không có cách gì chứa nồi",
+        "dich_nghia_gloss": "17 To 2 Lv. Ê"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "去死肌殺三",
+        "phien_am": "- Nhiên đắc nhi thõ chỉ, di vi nhi,",
+        "dich_nghia_gloss": "Nhưng bắt mà ướp thịt làm món ăn"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "蟲",
+        "phien_am": "T-C tura",
+        "dich_nghia_gloss": "Khả di di đại phong, loan, uyền, lâu, lệ;"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "址",
+        "phien_am": "có thể khỏi được các bệnh đại phong, loan, uyền, lâu, lệ",
+        "dich_nghia_gloss": "1 RM A"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "其始",
+        "phien_am": "Khứ tử cơ; sát tam trùng",
+        "dich_nghia_gloss": "Dùng làm thuốc cao lên da và sát trùng"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "園太醫",
+        "phien_am": "14 k 2 - 2 - 2 - 1 - 2 - 2 k k z",
+        "dich_nghia_gloss": "Kỳ thủy, thái y di vương mệnh tụ chi"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "以",
+        "phien_am": "Lúc đầu, quan thái y thco mệnh vua đi kiêm rắn",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "命聚之",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

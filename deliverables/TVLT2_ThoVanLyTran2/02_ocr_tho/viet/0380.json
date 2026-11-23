@@ -1,0 +1,1179 @@
+{
+  "page_id": "0380",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 380,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0380_viet_000",
+      "bbox": [
+        [
+          268,
+          71
+        ],
+        [
+          1402,
+          73
+        ],
+        [
+          1402,
+          116
+        ],
+        [
+          268,
+          113
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          226
+        ],
+        [
+          1402,
+          228
+        ],
+        [
+          1402,
+          271
+        ],
+        [
+          268,
+          268
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        71,
+        1402,
+        116
+      ],
+      "text": "Lòng kẻ làm cha mẹ ai chẳng muốn con cải cỏ vợ có chòng. Thánh nhân",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0380_viet_001",
+      "bbox": [
+        [
+          177,
+          116
+        ],
+        [
+          1400,
+          118
+        ],
+        [
+          1400,
+          161
+        ],
+        [
+          177,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          271
+        ],
+        [
+          1400,
+          273
+        ],
+        [
+          1400,
+          316
+        ],
+        [
+          177,
+          313
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        116,
+        1400,
+        161
+      ],
+      "text": "thế lòng ấy, chỉ sợ kẻ thất phu thất phụ không được yên ổn nơi chốn của họ.",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0380_viet_002",
+      "bbox": [
+        [
+          181,
+          163
+        ],
+        [
+          1402,
+          163
+        ],
+        [
+          1402,
+          199
+        ],
+        [
+          181,
+          199
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          318
+        ],
+        [
+          1402,
+          318
+        ],
+        [
+          1402,
+          354
+        ],
+        [
+          181,
+          354
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        163,
+        1402,
+        199
+      ],
+      "text": "Cho nên Kinh thi đã biếu hiện điều đó trong bài Đào yêu và bài Phiếu hữu",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0380_viet_003",
+      "bbox": [
+        [
+          181,
+          206
+        ],
+        [
+          976,
+          206
+        ],
+        [
+          976,
+          242
+        ],
+        [
+          181,
+          242
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          361
+        ],
+        [
+          976,
+          361
+        ],
+        [
+          976,
+          397
+        ],
+        [
+          181,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        206,
+        976,
+        242
+      ],
+      "text": "mai, khen hôn thú kịp thời và chê việc để lỡ thời.",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0380_viet_004",
+      "bbox": [
+        [
+          242,
+          257
+        ],
+        [
+          1404,
+          259
+        ],
+        [
+          1404,
+          298
+        ],
+        [
+          242,
+          296
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          412
+        ],
+        [
+          1404,
+          414
+        ],
+        [
+          1404,
+          453
+        ],
+        [
+          242,
+          451
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        257,
+        1404,
+        298
+      ],
+      "text": "Thế mà Thần Tông xuống chiếu bắt con gải các quan phải đợi vua tuyền",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0380_viet_005",
+      "bbox": [
+        [
+          177,
+          304
+        ],
+        [
+          1400,
+          304
+        ],
+        [
+          1400,
+          341
+        ],
+        [
+          177,
+          341
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          459
+        ],
+        [
+          1400,
+          459
+        ],
+        [
+          1400,
+          496
+        ],
+        [
+          177,
+          496
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        304,
+        1400,
+        341
+      ],
+      "text": "xong cung nữ, ai không trúng mới được lấy chồng. Đỏ là tự phụng sự cho",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0380_viet_006",
+      "bbox": [
+        [
+          175,
+          347
+        ],
+        [
+          1022,
+          347
+        ],
+        [
+          1022,
+          383
+        ],
+        [
+          175,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          502
+        ],
+        [
+          1022,
+          502
+        ],
+        [
+          1022,
+          538
+        ],
+        [
+          175,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        347,
+        1022,
+        383
+      ],
+      "text": "mình, đầu phải tấm lòng của người làm cha mẹ dân 1",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0380_viet_007",
+      "bbox": [
+        [
+          886,
+          411
+        ],
+        [
+          1326,
+          411
+        ],
+        [
+          1326,
+          441
+        ],
+        [
+          886,
+          441
+        ]
+      ],
+      "bbox_original": [
+        [
+          886,
+          566
+        ],
+        [
+          1326,
+          566
+        ],
+        [
+          1326,
+          596
+        ],
+        [
+          886,
+          596
+        ]
+      ],
+      "box_xyxy": [
+        886,
+        411,
+        1326,
+        441
+      ],
+      "text": "CAO HUY GIỮ - BẰNG THANH",
+      "confidence": 0.8626
+    },
+    {
+      "line_id": "0380_viet_008",
+      "bbox": [
+        [
+          178,
+          501
+        ],
+        [
+          363,
+          508
+        ],
+        [
+          362,
+          547
+        ],
+        [
+          177,
+          539
+        ]
+      ],
+      "bbox_original": [
+        [
+          178,
+          656
+        ],
+        [
+          363,
+          663
+        ],
+        [
+          362,
+          702
+        ],
+        [
+          177,
+          694
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        501,
+        363,
+        547
+      ],
+      "text": "CHỨ THÍCH:",
+      "confidence": 0.8777
+    },
+    {
+      "line_id": "0380_viet_009",
+      "bbox": [
+        [
+          635,
+          546
+        ],
+        [
+          929,
+          548
+        ],
+        [
+          929,
+          585
+        ],
+        [
+          635,
+          582
+        ]
+      ],
+      "bbox_original": [
+        [
+          635,
+          701
+        ],
+        [
+          929,
+          703
+        ],
+        [
+          929,
+          740
+        ],
+        [
+          635,
+          737
+        ]
+      ],
+      "box_xyxy": [
+        635,
+        546,
+        929,
+        585
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0380_viet_010",
+      "bbox": [
+        [
+          181,
+          617
+        ],
+        [
+          1398,
+          617
+        ],
+        [
+          1398,
+          647
+        ],
+        [
+          181,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          772
+        ],
+        [
+          1398,
+          772
+        ],
+        [
+          1398,
+          802
+        ],
+        [
+          181,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        617,
+        1398,
+        647
+      ],
+      "text": "Thuật (1) Đầu đề do chúng tôi thềm, ĐVSKTT chép tờ chiễu này ban bố vào tháng Giêng năm 1990 tháng 1990",
+      "confidence": 0.7925
+    },
+    {
+      "line_id": "0380_viet_011",
+      "bbox": [
+        [
+          242,
+          653
+        ],
+        [
+          469,
+          653
+        ],
+        [
+          469,
+          683
+        ],
+        [
+          242,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          808
+        ],
+        [
+          469,
+          808
+        ],
+        [
+          469,
+          838
+        ],
+        [
+          242,
+          838
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        653,
+        469,
+        683
+      ],
+      "text": "Canh tuất (1130)",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0380_viet_012",
+      "bbox": [
+        [
+          754,
+          912
+        ],
+        [
+          825,
+          912
+        ],
+        [
+          825,
+          959
+        ],
+        [
+          754,
+          959
+        ]
+      ],
+      "bbox_original": [
+        [
+          754,
+          1067
+        ],
+        [
+          825,
+          1067
+        ],
+        [
+          825,
+          1114
+        ],
+        [
+          754,
+          1114
+        ]
+      ],
+      "box_xyxy": [
+        754,
+        912,
+        825,
+        959
+      ],
+      "text": "138",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0380_viet_013",
+      "bbox": [
+        [
+          320,
+          1131
+        ],
+        [
+          1368,
+          1139
+        ],
+        [
+          1367,
+          1182
+        ],
+        [
+          320,
+          1174
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          1286
+        ],
+        [
+          1368,
+          1294
+        ],
+        [
+          1367,
+          1337
+        ],
+        [
+          320,
+          1329
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        1131,
+        1368,
+        1182
+      ],
+      "text": "HANDERSTATES",
+      "confidence": 0.3198
+    },
+    {
+      "line_id": "0380_viet_014",
+      "bbox": [
+        [
+          214,
+          1193
+        ],
+        [
+          1372,
+          1193
+        ],
+        [
+          1372,
+          1242
+        ],
+        [
+          214,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1348
+        ],
+        [
+          1372,
+          1348
+        ],
+        [
+          1372,
+          1397
+        ],
+        [
+          214,
+          1397
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1193,
+        1372,
+        1242
+      ],
+      "text": "STAKEWARDS",
+      "confidence": 0.41
+    },
+    {
+      "line_id": "0380_viet_015",
+      "bbox": [
+        [
+          212,
+          1246
+        ],
+        [
+          1385,
+          1249
+        ],
+        [
+          1385,
+          1294
+        ],
+        [
+          212,
+          1291
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          1401
+        ],
+        [
+          1385,
+          1404
+        ],
+        [
+          1385,
+          1449
+        ],
+        [
+          212,
+          1446
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        1246,
+        1385,
+        1294
+      ],
+      "text": "% P.Ăm Splazekel%ok Hiệf Ab Kkkkzz?",
+      "confidence": 0.6068
+    },
+    {
+      "line_id": "0380_viet_016",
+      "bbox": [
+        [
+          214,
+          1300
+        ],
+        [
+          1374,
+          1306
+        ],
+        [
+          1374,
+          1349
+        ],
+        [
+          214,
+          1343
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1455
+        ],
+        [
+          1374,
+          1461
+        ],
+        [
+          1374,
+          1504
+        ],
+        [
+          214,
+          1498
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1300,
+        1374,
+        1349
+      ],
+      "text": "1 AntztikExtaphs",
+      "confidence": 0.4525
+    },
+    {
+      "line_id": "0380_viet_017",
+      "bbox": [
+        [
+          188,
+          1542
+        ],
+        [
+          354,
+          1542
+        ],
+        [
+          354,
+          1578
+        ],
+        [
+          188,
+          1578
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1697
+        ],
+        [
+          354,
+          1697
+        ],
+        [
+          354,
+          1733
+        ],
+        [
+          188,
+          1733
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1542,
+        354,
+        1578
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0380_viet_018",
+      "bbox": [
+        [
+          570,
+          1587
+        ],
+        [
+          1039,
+          1587
+        ],
+        [
+          1039,
+          1623
+        ],
+        [
+          570,
+          1623
+        ]
+      ],
+      "bbox_original": [
+        [
+          570,
+          1742
+        ],
+        [
+          1039,
+          1742
+        ],
+        [
+          1039,
+          1778
+        ],
+        [
+          570,
+          1778
+        ]
+      ],
+      "box_xyxy": [
+        570,
+        1587,
+        1039,
+        1623
+      ],
+      "text": "DƯỜNG HỒ DI HOẠN LUẬN",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0380_viet_019",
+      "bbox": [
+        [
+          281,
+          1668
+        ],
+        [
+          1413,
+          1668
+        ],
+        [
+          1413,
+          1705
+        ],
+        [
+          281,
+          1705
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1823
+        ],
+        [
+          1413,
+          1823
+        ],
+        [
+          1413,
+          1860
+        ],
+        [
+          281,
+          1860
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1668,
+        1413,
+        1705
+      ],
+      "text": "Đỗ Anh Vũ xuất nhập cấm đình, tơ thông mẫu bậu, tội mạc đại yên. Vũ",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0380_viet_020",
+      "bbox": [
+        [
+          188,
+          1709
+        ],
+        [
+          1424,
+          1709
+        ],
+        [
+          1424,
+          1752
+        ],
+        [
+          188,
+          1752
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1864
+        ],
+        [
+          1424,
+          1864
+        ],
+        [
+          1424,
+          1907
+        ],
+        [
+          188,
+          1907
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1709,
+        1424,
+        1752
+      ],
+      "text": "Đời đằng nghi đình tấu gian trạng, thu bồ hệ ngục nhi tru chi, khả dã. Kim",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0380_viet_021",
+      "bbox": [
+        [
+          188,
+          1756
+        ],
+        [
+          1409,
+          1756
+        ],
+        [
+          1409,
+          1793
+        ],
+        [
+          188,
+          1793
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1911
+        ],
+        [
+          1409,
+          1911
+        ],
+        [
+          1409,
+          1948
+        ],
+        [
+          188,
+          1948
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1756,
+        1409,
+        1793
+      ],
+      "text": "mãi xuất chúng nhân đột nhập Việt-thành môn, kinh' biếp ấu chúa, cưỡng cầu",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0380_viet_022",
+      "bbox": [
+        [
+          184,
+          1837
+        ],
+        [
+          1413,
+          1844
+        ],
+        [
+          1413,
+          1880
+        ],
+        [
+          184,
+          1874
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1992
+        ],
+        [
+          1413,
+          1999
+        ],
+        [
+          1413,
+          2035
+        ],
+        [
+          184,
+          2029
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1837,
+        1413,
+        1880
+      ],
+      "text": "Dương chi ngôn: Hậu cánh vì kỳ sở sát, luy cập số thập nhân, sở: vị dưỡng",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0380_viet_023",
+      "bbox": [
+        [
+          186,
+          1878
+        ],
+        [
+          422,
+          1883
+        ],
+        [
+          421,
+          1919
+        ],
+        [
+          186,
+          1914
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          2033
+        ],
+        [
+          422,
+          2038
+        ],
+        [
+          421,
+          2074
+        ],
+        [
+          186,
+          2069
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1878,
+        422,
+        1919
+      ],
+      "text": "hồ di hoạn đã.",
+      "confidence": 0.8981
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "Lòng kẻ làm cha mẹ ai chẳng muốn con cải cỏ vợ có chòng. Thánh nhân",
+      "thế lòng ấy, chỉ sợ kẻ thất phu thất phụ không được yên ổn nơi chốn của họ.",
+      "Cho nên Kinh thi đã biếu hiện điều đó trong bài Đào yêu và bài Phiếu hữu",
+      "mai, khen hôn thú kịp thời và chê việc để lỡ thời.",
+      "Thế mà Thần Tông xuống chiếu bắt con gải các quan phải đợi vua tuyền",
+      "xong cung nữ, ai không trúng mới được lấy chồng. Đỏ là tự phụng sự cho",
+      "mình, đầu phải tấm lòng của người làm cha mẹ dân 1",
+      "CAO HUY GIỮ - BẰNG THANH",
+      "CHỨ THÍCH:",
+      "XUẤT XỨ: ĐVSKTT",
+      "Thuật (1) Đầu đề do chúng tôi thềm, ĐVSKTT chép tờ chiễu này ban bố vào tháng Giêng năm 1990 tháng 1990",
+      "Canh tuất (1130)",
+      "138",
+      "HANDERSTATES",
+      "STAKEWARDS",
+      "% P.Ăm Splazekel%ok Hiệf Ab Kkkkzz?",
+      "1 AntztikExtaphs",
+      "DƯỜNG HỒ DI HOẠN LUẬN",
+      "Đỗ Anh Vũ xuất nhập cấm đình, tơ thông mẫu bậu, tội mạc đại yên. Vũ",
+      "Đời đằng nghi đình tấu gian trạng, thu bồ hệ ngục nhi tru chi, khả dã. Kim",
+      "mãi xuất chúng nhân đột nhập Việt-thành môn, kinh' biếp ấu chúa, cưỡng cầu",
+      "Dương chi ngôn: Hậu cánh vì kỳ sở sát, luy cập số thập nhân, sở: vị dưỡng",
+      "hồ di hoạn đã."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

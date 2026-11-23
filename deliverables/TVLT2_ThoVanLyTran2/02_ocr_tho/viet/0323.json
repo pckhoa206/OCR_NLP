@@ -1,0 +1,2188 @@
+{
+  "page_id": "0323",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 323,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0323_viet_000",
+      "bbox": [
+        [
+          177,
+          84
+        ],
+        [
+          1374,
+          81
+        ],
+        [
+          1374,
+          120
+        ],
+        [
+          177,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          239
+        ],
+        [
+          1374,
+          236
+        ],
+        [
+          1374,
+          275
+        ],
+        [
+          177,
+          277
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        81,
+        1374,
+        122
+      ],
+      "text": "(3) Đôi vành chuyền (song phí cốc): xuất xứ từ càu thơ 9 A đặ ức gi",
+      "confidence": 0.8566
+    },
+    {
+      "line_id": "0323_viet_001",
+      "bbox": [
+        [
+          274,
+          120
+        ],
+        [
+          1413,
+          122
+        ],
+        [
+          1413,
+          159
+        ],
+        [
+          274,
+          156
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          275
+        ],
+        [
+          1413,
+          277
+        ],
+        [
+          1413,
+          314
+        ],
+        [
+          274,
+          311
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        120,
+        1413,
+        159
+      ],
+      "text": "- G1 Nhật nguyệt chuyền song cốc; Cồ kim đồng nhất khâu, Nghĩa là - chặt trời",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0323_viet_002",
+      "bbox": [
+        [
+          251,
+          158
+        ],
+        [
+          1413,
+          158
+        ],
+        [
+          1413,
+          195
+        ],
+        [
+          251,
+          195
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          313
+        ],
+        [
+          1413,
+          313
+        ],
+        [
+          1413,
+          350
+        ],
+        [
+          251,
+          350
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        158,
+        1413,
+        195
+      ],
+      "text": "mặt trăng chuyền vần như hai bánh xe, Xưa nay người ta đều trở về một năm mồ x.",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0323_viet_003",
+      "bbox": [
+        [
+          246,
+          193
+        ],
+        [
+          1413,
+          197
+        ],
+        [
+          1413,
+          231
+        ],
+        [
+          246,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          348
+        ],
+        [
+          1413,
+          352
+        ],
+        [
+          1413,
+          386
+        ],
+        [
+          246,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        193,
+        1413,
+        231
+      ],
+      "text": "Cả hai càu của Tuệ Trung muốn nói: nểu đã hiều sự vận hành của thời gian là nhanh",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0323_viet_004",
+      "bbox": [
+        [
+          246,
+          229
+        ],
+        [
+          1411,
+          231
+        ],
+        [
+          1411,
+          268
+        ],
+        [
+          246,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          384
+        ],
+        [
+          1411,
+          386
+        ],
+        [
+          1411,
+          423
+        ],
+        [
+          246,
+          421
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        229,
+        1411,
+        268
+      ],
+      "text": "chóng không cuõng được, thì sự sống chết của con người chỉ như một chút bọt giữa",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0323_viet_005",
+      "bbox": [
+        [
+          218,
+          268
+        ],
+        [
+          724,
+          268
+        ],
+        [
+          724,
+          304
+        ],
+        [
+          218,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          423
+        ],
+        [
+          724,
+          423
+        ],
+        [
+          724,
+          459
+        ],
+        [
+          218,
+          459
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        268,
+        724,
+        304
+      ],
+      "text": "biền cả, không cần gì phải lo láng.",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0323_viet_006",
+      "bbox": [
+        [
+          179,
+          311
+        ],
+        [
+          1413,
+          311
+        ],
+        [
+          1413,
+          353
+        ],
+        [
+          179,
+          353
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          466
+        ],
+        [
+          1413,
+          466
+        ],
+        [
+          1413,
+          508
+        ],
+        [
+          179,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        311,
+        1413,
+        353
+      ],
+      "text": "(4) Quy Sơn: tức Thiền sư Lĩnh Hưu É Vạ xem Chị, 19, bài Niêm tụng kệ, số 2), của",
+      "confidence": 0.8828
+    },
+    {
+      "line_id": "0323_viet_007",
+      "bbox": [
+        [
+          244,
+          379
+        ],
+        [
+          1413,
+          381
+        ],
+        [
+          1413,
+          418
+        ],
+        [
+          244,
+          415
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          534
+        ],
+        [
+          1413,
+          536
+        ],
+        [
+          1413,
+          573
+        ],
+        [
+          244,
+          570
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        379,
+        1413,
+        418
+      ],
+      "text": "đường nói rằng: trăm năm sau nữa, lão tăng này sẽ làm một con trâu đen ở nhà người",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0323_viet_008",
+      "bbox": [
+        [
+          244,
+          418
+        ],
+        [
+          1411,
+          418
+        ],
+        [
+          1411,
+          448
+        ],
+        [
+          244,
+          448
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          573
+        ],
+        [
+          1411,
+          573
+        ],
+        [
+          1411,
+          603
+        ],
+        [
+          244,
+          603
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        418,
+        1411,
+        448
+      ],
+      "text": "đàn việt dưới chân núi, Hông bên hữu viết năm chữ, xlão sư Quy Sơn nọ,... - Đương",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0323_viet_009",
+      "bbox": [
+        [
+          240,
+          450
+        ],
+        [
+          1411,
+          450
+        ],
+        [
+          1411,
+          480
+        ],
+        [
+          240,
+          480
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          605
+        ],
+        [
+          1411,
+          605
+        ],
+        [
+          1411,
+          635
+        ],
+        [
+          240,
+          635
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        450,
+        1411,
+        480
+      ],
+      "text": "nhiên lúc.bấy giờ ai muốn gọi thày tăng múi Quy-sơn là con trầu đen, hay goi con tràu",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0323_viet_010",
+      "bbox": [
+        [
+          192,
+          484
+        ],
+        [
+          838,
+          480
+        ],
+        [
+          838,
+          510
+        ],
+        [
+          192,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          639
+        ],
+        [
+          838,
+          635
+        ],
+        [
+          838,
+          665
+        ],
+        [
+          192,
+          669
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        480,
+        838,
+        514
+      ],
+      "text": "đen là thầy tăng núi Quy-sơn đều được cả",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0323_viet_011",
+      "bbox": [
+        [
+          212,
+          559
+        ],
+        [
+          1406,
+          559
+        ],
+        [
+          1406,
+          595
+        ],
+        [
+          212,
+          595
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          714
+        ],
+        [
+          1406,
+          714
+        ],
+        [
+          1406,
+          750
+        ],
+        [
+          212,
+          750
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        559,
+        1406,
+        595
+      ],
+      "text": "- càu thơ nổi tiếng ở cấu trúc đầo trang táo bạo của chúng, Lẽ ra, nếu xếp theo trật tụ",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0323_viet_012",
+      "bbox": [
+        [
+          179,
+          604
+        ],
+        [
+          246,
+          604
+        ],
+        [
+          246,
+          625
+        ],
+        [
+          179,
+          625
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          759
+        ],
+        [
+          246,
+          759
+        ],
+        [
+          246,
+          780
+        ],
+        [
+          179,
+          780
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        604,
+        246,
+        625
+      ],
+      "text": "19900000",
+      "confidence": 0.189
+    },
+    {
+      "line_id": "0323_viet_013",
+      "bbox": [
+        [
+          238,
+          598
+        ],
+        [
+          730,
+          593
+        ],
+        [
+          730,
+          623
+        ],
+        [
+          238,
+          628
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          753
+        ],
+        [
+          730,
+          748
+        ],
+        [
+          730,
+          778
+        ],
+        [
+          238,
+          783
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        593,
+        730,
+        628
+      ],
+      "text": "ngữ pháp bình thường thi phải là;",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0323_viet_014",
+      "bbox": [
+        [
+          570,
+          638
+        ],
+        [
+          957,
+          638
+        ],
+        [
+          957,
+          668
+        ],
+        [
+          570,
+          668
+        ]
+      ],
+      "bbox_original": [
+        [
+          570,
+          793
+        ],
+        [
+          957,
+          793
+        ],
+        [
+          957,
+          823
+        ],
+        [
+          570,
+          823
+        ]
+      ],
+      "box_xyxy": [
+        570,
+        638,
+        957,
+        668
+      ],
+      "text": "Anh vũ trác tàn hồng dạo lạp,",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0323_viet_015",
+      "bbox": [
+        [
+          568,
+          675
+        ],
+        [
+          1028,
+          675
+        ],
+        [
+          1028,
+          705
+        ],
+        [
+          568,
+          705
+        ]
+      ],
+      "bbox_original": [
+        [
+          568,
+          830
+        ],
+        [
+          1028,
+          830
+        ],
+        [
+          1028,
+          860
+        ],
+        [
+          568,
+          860
+        ]
+      ],
+      "box_xyxy": [
+        568,
+        675,
+        1028,
+        705
+      ],
+      "text": "Phượng hoàng thè lão bích ngỏ chi.",
+      "confidence": 0.8779
+    },
+    {
+      "line_id": "0323_viet_016",
+      "bbox": [
+        [
+          166,
+          726
+        ],
+        [
+          383,
+          715
+        ],
+        [
+          385,
+          751
+        ],
+        [
+          168,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          881
+        ],
+        [
+          383,
+          870
+        ],
+        [
+          385,
+          906
+        ],
+        [
+          168,
+          918
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        715,
+        385,
+        763
+      ],
+      "text": "Nghĩa là:",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0323_viet_017",
+      "bbox": [
+        [
+          568,
+          722
+        ],
+        [
+          1015,
+          722
+        ],
+        [
+          1015,
+          752
+        ],
+        [
+          568,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          568,
+          877
+        ],
+        [
+          1015,
+          877
+        ],
+        [
+          1015,
+          907
+        ],
+        [
+          568,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        568,
+        722,
+        1015,
+        752
+      ],
+      "text": "Chim anh vũ mỗ thừa hạt nếp đờ",
+      "confidence": 0.8956
+    },
+    {
+      "line_id": "0323_viet_018",
+      "bbox": [
+        [
+          562,
+          756
+        ],
+        [
+          1218,
+          754
+        ],
+        [
+          1218,
+          790
+        ],
+        [
+          562,
+          792
+        ]
+      ],
+      "bbox_original": [
+        [
+          562,
+          911
+        ],
+        [
+          1218,
+          909
+        ],
+        [
+          1218,
+          945
+        ],
+        [
+          562,
+          947
+        ]
+      ],
+      "box_xyxy": [
+        562,
+        754,
+        1218,
+        792
+      ],
+      "text": "Chim phượng hoàng đậu già cành ngô đồng biếc.",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0323_viet_019",
+      "bbox": [
+        [
+          175,
+          805
+        ],
+        [
+          1411,
+          801
+        ],
+        [
+          1411,
+          844
+        ],
+        [
+          175,
+          848
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          960
+        ],
+        [
+          1411,
+          956
+        ],
+        [
+          1411,
+          999
+        ],
+        [
+          175,
+          1003
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        801,
+        1411,
+        848
+      ],
+      "text": "(6) Tất Đạt Đa: tên của Phật Thích Ca khi còn là Thái tử: Xem Cht.19, bài Phồ khuyến",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0323_viet_020",
+      "bbox": [
+        [
+          177,
+          889
+        ],
+        [
+          1409,
+          889
+        ],
+        [
+          1409,
+          925
+        ],
+        [
+          177,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1044
+        ],
+        [
+          1409,
+          1044
+        ],
+        [
+          1409,
+          1080
+        ],
+        [
+          177,
+          1080
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        889,
+        1409,
+        925
+      ],
+      "text": "(7): Đề gợi bảo a tinh thấy 0 cho ông Á Nan (Ananda), Phật đã dùng cách co năm ngón tay",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0323_viet_021",
+      "bbox": [
+        [
+          240,
+          925
+        ],
+        [
+          1406,
+          925
+        ],
+        [
+          1406,
+          955
+        ],
+        [
+          240,
+          955
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1080
+        ],
+        [
+          1406,
+          1080
+        ],
+        [
+          1406,
+          1110
+        ],
+        [
+          240,
+          1110
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        925,
+        1406,
+        955
+      ],
+      "text": "lại, rồi lại mở ra, mở: ra rồi lại co lại, và hỏi rằng: cồng thấy gi/s. A Nan đáp: a Tôl",
+      "confidence": 0.8931
+    },
+    {
+      "line_id": "0323_viet_022",
+      "bbox": [
+        [
+          246,
+          955
+        ],
+        [
+          1404,
+          957
+        ],
+        [
+          1404,
+          987
+        ],
+        [
+          246,
+          985
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1110
+        ],
+        [
+          1404,
+          1112
+        ],
+        [
+          1404,
+          1142
+        ],
+        [
+          246,
+          1140
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        955,
+        1404,
+        987
+      ],
+      "text": "thấy bản tay a bách bảo luân 9 của Như Lai lúc mở lúc nằm v, Phật bảo: đông thấy tay",
+      "confidence": 0.8955
+    },
+    {
+      "line_id": "0323_viet_023",
+      "bbox": [
+        [
+          244,
+          992
+        ],
+        [
+          1404,
+          992
+        ],
+        [
+          1404,
+          1019
+        ],
+        [
+          244,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1147
+        ],
+        [
+          1404,
+          1147
+        ],
+        [
+          1404,
+          1174
+        ],
+        [
+          244,
+          1174
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        992,
+        1404,
+        1019
+      ],
+      "text": "thuật tôi khi mở khi năm, đó là tay tối khi mờ khi nắm hay là ở cái thấy n của ông có mở có thể nhật thế",
+      "confidence": 0.7958
+    },
+    {
+      "line_id": "0323_viet_024",
+      "bbox": [
+        [
+          248,
+          1058
+        ],
+        [
+          1409,
+          1058
+        ],
+        [
+          1409,
+          1086
+        ],
+        [
+          248,
+          1086
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1213
+        ],
+        [
+          1409,
+          1213
+        ],
+        [
+          1409,
+          1241
+        ],
+        [
+          248,
+          1241
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1058,
+        1409,
+        1086
+      ],
+      "text": "Thiến thiết tính thấy o của tôi có mở có nắm 0, Tuệ Trung dẫn điền tích này đề nhắc nhở học thuận thuận",
+      "confidence": 0.7777
+    },
+    {
+      "line_id": "0323_viet_025",
+      "bbox": [
+        [
+          240,
+          1086
+        ],
+        [
+          1411,
+          1088
+        ],
+        [
+          1411,
+          1124
+        ],
+        [
+          240,
+          1122
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1241
+        ],
+        [
+          1411,
+          1243
+        ],
+        [
+          1411,
+          1279
+        ],
+        [
+          240,
+          1277
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1086,
+        1411,
+        1124
+      ],
+      "text": "trò rằng không nến đồng nhất giữa ở cải thấy o và các hiện tượng diễn ra bên ngoài:",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0323_viet_026",
+      "bbox": [
+        [
+          212,
+          1118
+        ],
+        [
+          1411,
+          1120
+        ],
+        [
+          1411,
+          1157
+        ],
+        [
+          212,
+          1154
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          1273
+        ],
+        [
+          1411,
+          1275
+        ],
+        [
+          1411,
+          1312
+        ],
+        [
+          212,
+          1309
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        1118,
+        1411,
+        1157
+      ],
+      "text": "16 - các hiện tượng bên ngoài đập vào mắt ta là vọng động, là giả, cũng như ta ấn tay vào",
+      "confidence": 0.8913
+    },
+    {
+      "line_id": "0323_viet_027",
+      "bbox": [
+        [
+          236,
+          1150
+        ],
+        [
+          1413,
+          1152
+        ],
+        [
+          1413,
+          1189
+        ],
+        [
+          235,
+          1186
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1305
+        ],
+        [
+          1413,
+          1307
+        ],
+        [
+          1413,
+          1344
+        ],
+        [
+          235,
+          1341
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1150,
+        1413,
+        1189
+      ],
+      "text": "mắt thì, thấy nhiều đốm hoa trong không trung, Và như vày, việc Thái tử Tất Đạt Đa",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0323_viet_028",
+      "bbox": [
+        [
+          242,
+          1184
+        ],
+        [
+          1404,
+          1184
+        ],
+        [
+          1404,
+          1221
+        ],
+        [
+          242,
+          1221
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1339
+        ],
+        [
+          1404,
+          1339
+        ],
+        [
+          1404,
+          1376
+        ],
+        [
+          242,
+          1376
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1184,
+        1404,
+        1221
+      ],
+      "text": "vào miếu thần, tượng thần sụp lạy, cũng là một hiện tượng giả, là huyẻn thoại mà thôi.",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0323_viet_029",
+      "bbox": [
+        [
+          242,
+          1216
+        ],
+        [
+          864,
+          1219
+        ],
+        [
+          864,
+          1255
+        ],
+        [
+          242,
+          1253
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1371
+        ],
+        [
+          864,
+          1374
+        ],
+        [
+          864,
+          1410
+        ],
+        [
+          242,
+          1408
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1216,
+        864,
+        1255
+      ],
+      "text": "Xem Cht. 2, bài Kiến giải; số 61, cùng tác giả.",
+      "confidence": 0.9132
+    },
+    {
+      "line_id": "0323_viet_030",
+      "bbox": [
+        [
+          175,
+          1259
+        ],
+        [
+          1406,
+          1264
+        ],
+        [
+          1406,
+          1306
+        ],
+        [
+          175,
+          1302
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1414
+        ],
+        [
+          1406,
+          1419
+        ],
+        [
+          1406,
+          1461
+        ],
+        [
+          175,
+          1457
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1259,
+        1406,
+        1306
+      ],
+      "text": "(8). Nam Tuyền: tức Thiên sư Phồ Nguyện % Aý . xem Cht. 21, bài Niêm tụng kệ, số 21.",
+      "confidence": 0.865
+    },
+    {
+      "line_id": "0323_viet_031",
+      "bbox": [
+        [
+          238,
+          1296
+        ],
+        [
+          882,
+          1302
+        ],
+        [
+          881,
+          1339
+        ],
+        [
+          237,
+          1332
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1451
+        ],
+        [
+          882,
+          1457
+        ],
+        [
+          881,
+          1494
+        ],
+        [
+          237,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1296,
+        882,
+        1339
+      ],
+      "text": "- Của Trần Gảnh. Theo Ngũ đăng hội nguyên 7 %",
+      "confidence": 0.8296
+    },
+    {
+      "line_id": "0323_viet_032",
+      "bbox": [
+        [
+          207,
+          1362
+        ],
+        [
+          1402,
+          1366
+        ],
+        [
+          1402,
+          1403
+        ],
+        [
+          207,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1517
+        ],
+        [
+          1402,
+          1521
+        ],
+        [
+          1402,
+          1558
+        ],
+        [
+          207,
+          1553
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1362,
+        1402,
+        1403
+      ],
+      "text": "Tăng nói: - Tồi mua 7, Ông bảo: a Giả bán không đất, không rẻ, không mùa sao được 7 n",
+      "confidence": 0.8645
+    },
+    {
+      "line_id": "0323_viet_033",
+      "bbox": [
+        [
+          227,
+          1394
+        ],
+        [
+          480,
+          1396
+        ],
+        [
+          479,
+          1433
+        ],
+        [
+          227,
+          1431
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1549
+        ],
+        [
+          480,
+          1551
+        ],
+        [
+          479,
+          1588
+        ],
+        [
+          227,
+          1586
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        1394,
+        480,
+        1433
+      ],
+      "text": "Môn tăng im lặng",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0323_viet_034",
+      "bbox": [
+        [
+          175,
+          1441
+        ],
+        [
+          1283,
+          1448
+        ],
+        [
+          1283,
+          1484
+        ],
+        [
+          175,
+          1478
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1596
+        ],
+        [
+          1283,
+          1603
+        ],
+        [
+          1283,
+          1639
+        ],
+        [
+          175,
+          1633
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1441,
+        1283,
+        1484
+      ],
+      "text": "(9) ? Mũ tồ: xem Cht, 2, bài Phồ thuyết hướng thượng nhất lộ, số 8, của Tràn Cảnh.",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0323_viet_035",
+      "bbox": [
+        [
+          173,
+          1486
+        ],
+        [
+          1404,
+          1491
+        ],
+        [
+          1404,
+          1533
+        ],
+        [
+          173,
+          1529
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1641
+        ],
+        [
+          1404,
+          1646
+        ],
+        [
+          1404,
+          1688
+        ],
+        [
+          173,
+          1684
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1486,
+        1404,
+        1533
+      ],
+      "text": "(10) (11) Từ phương Tây tời: Tây sang : đều dịch từ chữ ở Tây lai n, xem Cht.34, bài Niêm",
+      "confidence": 0.8882
+    },
+    {
+      "line_id": "0323_viet_036",
+      "bbox": [
+        [
+          229,
+          1525
+        ],
+        [
+          644,
+          1529
+        ],
+        [
+          644,
+          1559
+        ],
+        [
+          229,
+          1555
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1680
+        ],
+        [
+          644,
+          1684
+        ],
+        [
+          644,
+          1714
+        ],
+        [
+          229,
+          1710
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1525,
+        644,
+        1559
+      ],
+      "text": "tụng kệ, số 21, của trần cảnh",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0323_viet_037",
+      "bbox": [
+        [
+          173,
+          1561
+        ],
+        [
+          1404,
+          1572
+        ],
+        [
+          1404,
+          1617
+        ],
+        [
+          173,
+          1606
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1716
+        ],
+        [
+          1404,
+          1727
+        ],
+        [
+          1404,
+          1772
+        ],
+        [
+          173,
+          1761
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1561,
+        1404,
+        1617
+      ],
+      "text": "(12) Lịnh Vân: tức Thiền sư Chỉ Cần t Íp cao tăng đời Đường, tu ở núi Linh-vân",
+      "confidence": 0.893
+    },
+    {
+      "line_id": "0323_viet_038",
+      "bbox": [
+        [
+          247,
+          1600
+        ],
+        [
+          1404,
+          1611
+        ],
+        [
+          1404,
+          1654
+        ],
+        [
+          246,
+          1643
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1755
+        ],
+        [
+          1404,
+          1766
+        ],
+        [
+          1404,
+          1809
+        ],
+        [
+          246,
+          1798
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1600,
+        1404,
+        1654
+      ],
+      "text": "Phúc châu Tà ởth, nên có hiệu là Linh Vân. Theo Ngũ đăng hội nguyên",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0323_viet_039",
+      "bbox": [
+        [
+          251,
+          1640
+        ],
+        [
+          1402,
+          1649
+        ],
+        [
+          1402,
+          1692
+        ],
+        [
+          250,
+          1683
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1795
+        ],
+        [
+          1402,
+          1804
+        ],
+        [
+          1402,
+          1847
+        ],
+        [
+          250,
+          1838
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1640,
+        1402,
+        1692
+      ],
+      "text": "5, lễ ộ xã lúc đầu ông theo học ở Quy-sơn lập từu, một hôm nhân nhìn hoa",
+      "confidence": 0.8493
+    },
+    {
+      "line_id": "0323_viet_040",
+      "bbox": [
+        [
+          238,
+          1677
+        ],
+        [
+          774,
+          1686
+        ],
+        [
+          773,
+          1722
+        ],
+        [
+          237,
+          1713
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1832
+        ],
+        [
+          774,
+          1841
+        ],
+        [
+          773,
+          1877
+        ],
+        [
+          237,
+          1868
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1677,
+        774,
+        1722
+      ],
+      "text": "đao nở mà ngộ đạo. Ông có làm bài kê",
+      "confidence": 0.8857
+    },
+    {
+      "line_id": "0323_viet_041",
+      "bbox": [
+        [
+          572,
+          1780
+        ],
+        [
+          609,
+          1780
+        ],
+        [
+          609,
+          1810
+        ],
+        [
+          572,
+          1810
+        ]
+      ],
+      "bbox_original": [
+        [
+          572,
+          1935
+        ],
+        [
+          609,
+          1935
+        ],
+        [
+          609,
+          1965
+        ],
+        [
+          572,
+          1965
+        ]
+      ],
+      "box_xyxy": [
+        572,
+        1780,
+        609,
+        1810
+      ],
+      "text": "12]",
+      "confidence": 0.8363
+    },
+    {
+      "line_id": "0323_viet_042",
+      "bbox": [
+        [
+          706,
+          1773
+        ],
+        [
+          757,
+          1765
+        ],
+        [
+          764,
+          1812
+        ],
+        [
+          714,
+          1821
+        ]
+      ],
+      "bbox_original": [
+        [
+          706,
+          1928
+        ],
+        [
+          757,
+          1920
+        ],
+        [
+          764,
+          1967
+        ],
+        [
+          714,
+          1976
+        ]
+      ],
+      "box_xyxy": [
+        706,
+        1765,
+        764,
+        1821
+      ],
+      "text": "%",
+      "confidence": 0.484
+    },
+    {
+      "line_id": "0323_viet_043",
+      "bbox": [
+        [
+          714,
+          1814
+        ],
+        [
+          994,
+          1819
+        ],
+        [
+          993,
+          1872
+        ],
+        [
+          713,
+          1867
+        ]
+      ],
+      "bbox_original": [
+        [
+          714,
+          1969
+        ],
+        [
+          994,
+          1974
+        ],
+        [
+          993,
+          2027
+        ],
+        [
+          713,
+          2022
+        ]
+      ],
+      "box_xyxy": [
+        713,
+        1814,
+        994,
+        1872
+      ],
+      "text": "L AM TẾ",
+      "confidence": 0.4913
+    },
+    {
+      "line_id": "0323_viet_044",
+      "bbox": [
+        [
+          493,
+          1867
+        ],
+        [
+          990,
+          1874
+        ],
+        [
+          989,
+          1923
+        ],
+        [
+          492,
+          1917
+        ]
+      ],
+      "bbox_original": [
+        [
+          493,
+          2022
+        ],
+        [
+          990,
+          2029
+        ],
+        [
+          989,
+          2078
+        ],
+        [
+          492,
+          2072
+        ]
+      ],
+      "box_xyxy": [
+        492,
+        1867,
+        990,
+        1923
+      ],
+      "text": "03110000009",
+      "confidence": 0.3697
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(3) Đôi vành chuyền (song phí cốc): xuất xứ từ càu thơ 9 A đặ ức gi",
+      "- G1 Nhật nguyệt chuyền song cốc; Cồ kim đồng nhất khâu, Nghĩa là - chặt trời",
+      "mặt trăng chuyền vần như hai bánh xe, Xưa nay người ta đều trở về một năm mồ x.",
+      "Cả hai càu của Tuệ Trung muốn nói: nểu đã hiều sự vận hành của thời gian là nhanh",
+      "chóng không cuõng được, thì sự sống chết của con người chỉ như một chút bọt giữa",
+      "biền cả, không cần gì phải lo láng.",
+      "(4) Quy Sơn: tức Thiền sư Lĩnh Hưu É Vạ xem Chị, 19, bài Niêm tụng kệ, số 2), của",
+      "đường nói rằng: trăm năm sau nữa, lão tăng này sẽ làm một con trâu đen ở nhà người",
+      "đàn việt dưới chân núi, Hông bên hữu viết năm chữ, xlão sư Quy Sơn nọ,... - Đương",
+      "nhiên lúc.bấy giờ ai muốn gọi thày tăng múi Quy-sơn là con trầu đen, hay goi con tràu",
+      "đen là thầy tăng núi Quy-sơn đều được cả",
+      "- càu thơ nổi tiếng ở cấu trúc đầo trang táo bạo của chúng, Lẽ ra, nếu xếp theo trật tụ",
+      "19900000",
+      "ngữ pháp bình thường thi phải là;",
+      "Anh vũ trác tàn hồng dạo lạp,",
+      "Phượng hoàng thè lão bích ngỏ chi.",
+      "Nghĩa là:",
+      "Chim anh vũ mỗ thừa hạt nếp đờ",
+      "Chim phượng hoàng đậu già cành ngô đồng biếc.",
+      "(6) Tất Đạt Đa: tên của Phật Thích Ca khi còn là Thái tử: Xem Cht.19, bài Phồ khuyến",
+      "(7): Đề gợi bảo a tinh thấy 0 cho ông Á Nan (Ananda), Phật đã dùng cách co năm ngón tay",
+      "lại, rồi lại mở ra, mở: ra rồi lại co lại, và hỏi rằng: cồng thấy gi/s. A Nan đáp: a Tôl",
+      "thấy bản tay a bách bảo luân 9 của Như Lai lúc mở lúc nằm v, Phật bảo: đông thấy tay",
+      "thuật tôi khi mở khi năm, đó là tay tối khi mờ khi nắm hay là ở cái thấy n của ông có mở có thể nhật thế",
+      "Thiến thiết tính thấy o của tôi có mở có nắm 0, Tuệ Trung dẫn điền tích này đề nhắc nhở học thuận thuận",
+      "trò rằng không nến đồng nhất giữa ở cải thấy o và các hiện tượng diễn ra bên ngoài:",
+      "16 - các hiện tượng bên ngoài đập vào mắt ta là vọng động, là giả, cũng như ta ấn tay vào",
+      "mắt thì, thấy nhiều đốm hoa trong không trung, Và như vày, việc Thái tử Tất Đạt Đa",
+      "vào miếu thần, tượng thần sụp lạy, cũng là một hiện tượng giả, là huyẻn thoại mà thôi.",
+      "Xem Cht. 2, bài Kiến giải; số 61, cùng tác giả.",
+      "(8). Nam Tuyền: tức Thiên sư Phồ Nguyện % Aý . xem Cht. 21, bài Niêm tụng kệ, số 21.",
+      "- Của Trần Gảnh. Theo Ngũ đăng hội nguyên 7 %",
+      "Tăng nói: - Tồi mua 7, Ông bảo: a Giả bán không đất, không rẻ, không mùa sao được 7 n",
+      "Môn tăng im lặng",
+      "(9) ? Mũ tồ: xem Cht, 2, bài Phồ thuyết hướng thượng nhất lộ, số 8, của Tràn Cảnh.",
+      "(10) (11) Từ phương Tây tời: Tây sang : đều dịch từ chữ ở Tây lai n, xem Cht.34, bài Niêm",
+      "tụng kệ, số 21, của trần cảnh",
+      "(12) Lịnh Vân: tức Thiền sư Chỉ Cần t Íp cao tăng đời Đường, tu ở núi Linh-vân",
+      "Phúc châu Tà ởth, nên có hiệu là Linh Vân. Theo Ngũ đăng hội nguyên",
+      "5, lễ ộ xã lúc đầu ông theo học ở Quy-sơn lập từu, một hôm nhân nhìn hoa",
+      "đao nở mà ngộ đạo. Ông có làm bài kê",
+      "12]",
+      "%",
+      "L AM TẾ",
+      "03110000009"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

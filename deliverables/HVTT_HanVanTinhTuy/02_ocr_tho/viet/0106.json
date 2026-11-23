@@ -1,0 +1,1324 @@
+{
+  "page_id": "0106",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 106,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0106_viet_000",
+      "bbox": [
+        [
+          195,
+          26
+        ],
+        [
+          249,
+          31
+        ],
+        [
+          246,
+          64
+        ],
+        [
+          192,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          147
+        ],
+        [
+          249,
+          152
+        ],
+        [
+          246,
+          185
+        ],
+        [
+          192,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        26,
+        249,
+        64
+      ],
+      "text": "100",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0106_viet_001",
+      "bbox": [
+        [
+          779,
+          27
+        ],
+        [
+          990,
+          23
+        ],
+        [
+          991,
+          60
+        ],
+        [
+          780,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          779,
+          148
+        ],
+        [
+          990,
+          144
+        ],
+        [
+          991,
+          181
+        ],
+        [
+          780,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        779,
+        23,
+        991,
+        64
+      ],
+      "text": "TIỂU-DẦN",
+      "confidence": 0.7767
+    },
+    {
+      "line_id": "0106_viet_002",
+      "bbox": [
+        [
+          197,
+          139
+        ],
+        [
+          985,
+          139
+        ],
+        [
+          985,
+          172
+        ],
+        [
+          197,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          260
+        ],
+        [
+          985,
+          260
+        ],
+        [
+          985,
+          293
+        ],
+        [
+          197,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        139,
+        985,
+        172
+      ],
+      "text": "Tiệc ở gác Đằng-vương do quan Đô-dộc Hồng-Châu là Nội",
+      "confidence": 0.8509
+    },
+    {
+      "line_id": "0106_viet_003",
+      "bbox": [
+        [
+          192,
+          179
+        ],
+        [
+          991,
+          183
+        ],
+        [
+          990,
+          223
+        ],
+        [
+          192,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          300
+        ],
+        [
+          991,
+          304
+        ],
+        [
+          990,
+          344
+        ],
+        [
+          192,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        179,
+        991,
+        223
+      ],
+      "text": "Diêm-bá-Dư đãi liêu-thuộc. Tử-An tuy còn ít tuổi",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0106_viet_004",
+      "bbox": [
+        [
+          194,
+          231
+        ],
+        [
+          991,
+          233
+        ],
+        [
+          991,
+          273
+        ],
+        [
+          194,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          352
+        ],
+        [
+          991,
+          354
+        ],
+        [
+          991,
+          394
+        ],
+        [
+          194,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        231,
+        991,
+        273
+      ],
+      "text": "nhưng vì nổi tiếng văn-chương, và lại là con một quan",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0106_viet_005",
+      "bbox": [
+        [
+          196,
+          280
+        ],
+        [
+          916,
+          281
+        ],
+        [
+          916,
+          321
+        ],
+        [
+          196,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          401
+        ],
+        [
+          916,
+          402
+        ],
+        [
+          916,
+          442
+        ],
+        [
+          196,
+          441
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        280,
+        916,
+        321
+      ],
+      "text": "thái-thú đóng-liêu với Diêm, nên cũng được mời.",
+      "confidence": 0.901
+    },
+    {
+      "line_id": "0106_viet_006",
+      "bbox": [
+        [
+          221,
+          335
+        ],
+        [
+          994,
+          345
+        ],
+        [
+          994,
+          390
+        ],
+        [
+          221,
+          380
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          456
+        ],
+        [
+          994,
+          466
+        ],
+        [
+          994,
+          511
+        ],
+        [
+          221,
+          501
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        335,
+        994,
+        390
+      ],
+      "text": "Diêm-bá-Dư muồn khoc tài con rề là Ngô-tử-Chương",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0106_viet_007",
+      "bbox": [
+        [
+          198,
+          392
+        ],
+        [
+          991,
+          397
+        ],
+        [
+          990,
+          435
+        ],
+        [
+          197,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          513
+        ],
+        [
+          991,
+          518
+        ],
+        [
+          990,
+          556
+        ],
+        [
+          197,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        392,
+        991,
+        435
+      ],
+      "text": "nên đã bảo làm sắn bài tự Đằng-vương các, rối lại lây",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0106_viet_008",
+      "bbox": [
+        [
+          201,
+          447
+        ],
+        [
+          992,
+          447
+        ],
+        [
+          992,
+          480
+        ],
+        [
+          201,
+          480
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          568
+        ],
+        [
+          992,
+          568
+        ],
+        [
+          992,
+          601
+        ],
+        [
+          201,
+          601
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        447,
+        992,
+        480
+      ],
+      "text": "đầu-đề ây yêu cầu các tân-khách làm. Các tân-khách đều",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0106_viet_009",
+      "bbox": [
+        [
+          197,
+          497
+        ],
+        [
+          989,
+          495
+        ],
+        [
+          989,
+          531
+        ],
+        [
+          197,
+          532
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          618
+        ],
+        [
+          989,
+          616
+        ],
+        [
+          989,
+          652
+        ],
+        [
+          197,
+          653
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        495,
+        989,
+        532
+      ],
+      "text": "Có ý nhường Ngô tử-Chương. Riêng Tử An không biết",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0106_viet_010",
+      "bbox": [
+        [
+          194,
+          544
+        ],
+        [
+          992,
+          542
+        ],
+        [
+          992,
+          583
+        ],
+        [
+          194,
+          584
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          665
+        ],
+        [
+          992,
+          663
+        ],
+        [
+          992,
+          704
+        ],
+        [
+          194,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        542,
+        992,
+        584
+      ],
+      "text": "dụng ý của Diêm đô đồc, cầm bút viết ngay. Diêm",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0106_viet_011",
+      "bbox": [
+        [
+          197,
+          593
+        ],
+        [
+          991,
+          593
+        ],
+        [
+          991,
+          631
+        ],
+        [
+          197,
+          631
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          714
+        ],
+        [
+          991,
+          714
+        ],
+        [
+          991,
+          752
+        ],
+        [
+          197,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        593,
+        991,
+        631
+      ],
+      "text": "không bằng lòng nhưng không tiện nói ra, cho người",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0106_viet_012",
+      "bbox": [
+        [
+          199,
+          645
+        ],
+        [
+          992,
+          641
+        ],
+        [
+          992,
+          675
+        ],
+        [
+          199,
+          678
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          766
+        ],
+        [
+          992,
+          762
+        ],
+        [
+          992,
+          796
+        ],
+        [
+          199,
+          799
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        641,
+        992,
+        678
+      ],
+      "text": "đứng bên tử An xem viết được câu nào thì cho biết",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0106_viet_013",
+      "bbox": [
+        [
+          196,
+          693
+        ],
+        [
+          991,
+          691
+        ],
+        [
+          991,
+          730
+        ],
+        [
+          196,
+          732
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          814
+        ],
+        [
+          991,
+          812
+        ],
+        [
+          991,
+          851
+        ],
+        [
+          196,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        691,
+        991,
+        732
+      ],
+      "text": "ngay. Khi thầy câu mở đầu, Diêm công đã nguôi giận,",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0106_viet_014",
+      "bbox": [
+        [
+          199,
+          743
+        ],
+        [
+          478,
+          743
+        ],
+        [
+          478,
+          778
+        ],
+        [
+          199,
+          778
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          864
+        ],
+        [
+          478,
+          864
+        ],
+        [
+          478,
+          899
+        ],
+        [
+          199,
+          899
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        743,
+        478,
+        778
+      ],
+      "text": "kịp nghe đến cầu:",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0106_viet_015",
+      "bbox": [
+        [
+          317,
+          814
+        ],
+        [
+          648,
+          814
+        ],
+        [
+          648,
+          849
+        ],
+        [
+          317,
+          849
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          935
+        ],
+        [
+          648,
+          935
+        ],
+        [
+          648,
+          970
+        ],
+        [
+          317,
+          970
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        814,
+        648,
+        849
+      ],
+      "text": "Lạc hà dữ cô vụ tê phi",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0106_viet_016",
+      "bbox": [
+        [
+          316,
+          884
+        ],
+        [
+          879,
+          884
+        ],
+        [
+          879,
+          922
+        ],
+        [
+          316,
+          922
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1005
+        ],
+        [
+          879,
+          1005
+        ],
+        [
+          879,
+          1043
+        ],
+        [
+          316,
+          1043
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        884,
+        879,
+        922
+      ],
+      "text": "Thu thủy cộng trường thiên nhất sắc",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0106_viet_017",
+      "bbox": [
+        [
+          201,
+          959
+        ],
+        [
+          683,
+          956
+        ],
+        [
+          684,
+          989
+        ],
+        [
+          201,
+          993
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1080
+        ],
+        [
+          683,
+          1077
+        ],
+        [
+          684,
+          1110
+        ],
+        [
+          201,
+          1114
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        956,
+        684,
+        993
+      ],
+      "text": "Diêm-công khen thực là thiên tài",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0106_viet_018",
+      "bbox": [
+        [
+          228,
+          1028
+        ],
+        [
+          991,
+          1030
+        ],
+        [
+          991,
+          1065
+        ],
+        [
+          228,
+          1063
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1149
+        ],
+        [
+          991,
+          1151
+        ],
+        [
+          991,
+          1186
+        ],
+        [
+          228,
+          1184
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1028,
+        991,
+        1065
+      ],
+      "text": "Tử-An viết xong, tân-khách xúm lại xem, ai này đều",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0106_viet_019",
+      "bbox": [
+        [
+          201,
+          1078
+        ],
+        [
+          997,
+          1078
+        ],
+        [
+          997,
+          1118
+        ],
+        [
+          201,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1199
+        ],
+        [
+          997,
+          1199
+        ],
+        [
+          997,
+          1239
+        ],
+        [
+          201,
+          1239
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1078,
+        997,
+        1118
+      ],
+      "text": "bái phục. Ngô-tử-Chương xâu-hồ không dám đưa bài",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0106_viet_020",
+      "bbox": [
+        [
+          199,
+          1122
+        ],
+        [
+          992,
+          1123
+        ],
+        [
+          992,
+          1163
+        ],
+        [
+          199,
+          1162
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1243
+        ],
+        [
+          992,
+          1244
+        ],
+        [
+          992,
+          1284
+        ],
+        [
+          199,
+          1283
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1122,
+        992,
+        1163
+      ],
+      "text": "mình ra. Trước đó, năm 14 tuổi, Tử-An gặp quan Thái",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0106_viet_021",
+      "bbox": [
+        [
+          201,
+          1172
+        ],
+        [
+          994,
+          1170
+        ],
+        [
+          994,
+          1210
+        ],
+        [
+          201,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          1293
+        ],
+        [
+          994,
+          1291
+        ],
+        [
+          994,
+          1331
+        ],
+        [
+          201,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1170,
+        994,
+        1212
+      ],
+      "text": "thường Lưu-tường Đạo, dâng thơ bày tỏ chí mình",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0106_viet_022",
+      "bbox": [
+        [
+          203,
+          1225
+        ],
+        [
+          994,
+          1225
+        ],
+        [
+          994,
+          1259
+        ],
+        [
+          203,
+          1259
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1346
+        ],
+        [
+          994,
+          1346
+        ],
+        [
+          994,
+          1380
+        ],
+        [
+          203,
+          1380
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        1225,
+        994,
+        1259
+      ],
+      "text": "Tường Đạo xem rất lây làm kinh-dị, dầng lên vua Cac",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0106_viet_023",
+      "bbox": [
+        [
+          203,
+          1271
+        ],
+        [
+          994,
+          1271
+        ],
+        [
+          994,
+          1304
+        ],
+        [
+          203,
+          1304
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1392
+        ],
+        [
+          994,
+          1392
+        ],
+        [
+          994,
+          1425
+        ],
+        [
+          203,
+          1425
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        1271,
+        994,
+        1304
+      ],
+      "text": "Tôn (650-683). Vua cho triệu Tử-An vào điện thi đồ:",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0106_viet_024",
+      "bbox": [
+        [
+          199,
+          1314
+        ],
+        [
+          996,
+          1317
+        ],
+        [
+          996,
+          1358
+        ],
+        [
+          199,
+          1354
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1435
+        ],
+        [
+          996,
+          1438
+        ],
+        [
+          996,
+          1479
+        ],
+        [
+          199,
+          1475
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1314,
+        996,
+        1358
+      ],
+      "text": "sách, được liệt vào hạng cao-đệ, làm chức Triều-tán-lang",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0106_viet_025",
+      "bbox": [
+        [
+          202,
+          1369
+        ],
+        [
+          997,
+          1368
+        ],
+        [
+          997,
+          1403
+        ],
+        [
+          203,
+          1404
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1490
+        ],
+        [
+          997,
+          1489
+        ],
+        [
+          997,
+          1524
+        ],
+        [
+          203,
+          1525
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1368,
+        997,
+        1404
+      ],
+      "text": "Thường dâng lên những bài tụng, được ban khen, từ",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0106_viet_026",
+      "bbox": [
+        [
+          206,
+          1421
+        ],
+        [
+          540,
+          1421
+        ],
+        [
+          540,
+          1456
+        ],
+        [
+          206,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1542
+        ],
+        [
+          540,
+          1542
+        ],
+        [
+          540,
+          1577
+        ],
+        [
+          206,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1421,
+        540,
+        1456
+      ],
+      "text": "đây tiềng tăm lừng lấy",
+      "confidence": 0.9124
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [
+      "100",
+      "TIỂU-DẦN",
+      "Tiệc ở gác Đằng-vương do quan Đô-dộc Hồng-Châu là Nội",
+      "Diêm-bá-Dư đãi liêu-thuộc. Tử-An tuy còn ít tuổi",
+      "nhưng vì nổi tiếng văn-chương, và lại là con một quan",
+      "thái-thú đóng-liêu với Diêm, nên cũng được mời.",
+      "Diêm-bá-Dư muồn khoc tài con rề là Ngô-tử-Chương",
+      "nên đã bảo làm sắn bài tự Đằng-vương các, rối lại lây",
+      "đầu-đề ây yêu cầu các tân-khách làm. Các tân-khách đều",
+      "Có ý nhường Ngô tử-Chương. Riêng Tử An không biết",
+      "dụng ý của Diêm đô đồc, cầm bút viết ngay. Diêm",
+      "không bằng lòng nhưng không tiện nói ra, cho người",
+      "đứng bên tử An xem viết được câu nào thì cho biết",
+      "ngay. Khi thầy câu mở đầu, Diêm công đã nguôi giận,",
+      "kịp nghe đến cầu:",
+      "Lạc hà dữ cô vụ tê phi",
+      "Thu thủy cộng trường thiên nhất sắc",
+      "Diêm-công khen thực là thiên tài",
+      "Tử-An viết xong, tân-khách xúm lại xem, ai này đều",
+      "bái phục. Ngô-tử-Chương xâu-hồ không dám đưa bài",
+      "mình ra. Trước đó, năm 14 tuổi, Tử-An gặp quan Thái",
+      "thường Lưu-tường Đạo, dâng thơ bày tỏ chí mình",
+      "Tường Đạo xem rất lây làm kinh-dị, dầng lên vua Cac",
+      "Tôn (650-683). Vua cho triệu Tử-An vào điện thi đồ:",
+      "sách, được liệt vào hạng cao-đệ, làm chức Triều-tán-lang",
+      "Thường dâng lên những bài tụng, được ban khen, từ",
+      "đây tiềng tăm lừng lấy"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

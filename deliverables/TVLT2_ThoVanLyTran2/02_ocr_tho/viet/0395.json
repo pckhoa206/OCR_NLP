@@ -1,0 +1,1986 @@
+{
+  "page_id": "0395",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 395,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0395_viet_000",
+      "bbox": [
+        [
+          277,
+          77
+        ],
+        [
+          1413,
+          79
+        ],
+        [
+          1413,
+          124
+        ],
+        [
+          276,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          232
+        ],
+        [
+          1413,
+          234
+        ],
+        [
+          1413,
+          279
+        ],
+        [
+          276,
+          277
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        77,
+        1413,
+        124
+      ],
+      "text": "Tạc giả Toa Đò, Ô Mã Nhí tứ diện bao vì, quân thần đồng tâm, huynh",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0395_viet_001",
+      "bbox": [
+        [
+          179,
+          124
+        ],
+        [
+          1238,
+          124
+        ],
+        [
+          1238,
+          161
+        ],
+        [
+          179,
+          161
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          279
+        ],
+        [
+          1238,
+          279
+        ],
+        [
+          1238,
+          316
+        ],
+        [
+          179,
+          316
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        124,
+        1238,
+        161
+      ],
+      "text": "đệ hòa mục, quốc gia tịnh lực, bỉ tự tựu càm, thiên sử nhiên dâ..",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0395_viet_002",
+      "bbox": [
+        [
+          274,
+          171
+        ],
+        [
+          1415,
+          176
+        ],
+        [
+          1415,
+          219
+        ],
+        [
+          274,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          326
+        ],
+        [
+          1415,
+          331
+        ],
+        [
+          1415,
+          374
+        ],
+        [
+          274,
+          369
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        171,
+        1415,
+        219
+      ],
+      "text": "Đại khải bì thị thường trận, ngã thị đoàn binh, dĩ đoản chế trường, binh",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0395_viet_003",
+      "bbox": [
+        [
+          179,
+          214
+        ],
+        [
+          1415,
+          214
+        ],
+        [
+          1415,
+          257
+        ],
+        [
+          179,
+          257
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          369
+        ],
+        [
+          1415,
+          369
+        ],
+        [
+          1415,
+          412
+        ],
+        [
+          179,
+          412
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        214,
+        1415,
+        257
+      ],
+      "text": "pháp chi thường dã. Kỳ kiến bì quân biến chi, như hỏa như phong, kỳ thế dị",
+      "confidence": 0.9055
+    },
+    {
+      "line_id": "0395_viet_004",
+      "bbox": [
+        [
+          179,
+          257
+        ],
+        [
+          1413,
+          257
+        ],
+        [
+          1413,
+          293
+        ],
+        [
+          179,
+          293
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          412
+        ],
+        [
+          1413,
+          412
+        ],
+        [
+          1413,
+          448
+        ],
+        [
+          179,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        257,
+        1413,
+        293
+      ],
+      "text": "chế, Nhược dụng tàm thực, hoãn hành, bắt vụ dân tài, bất cầu tóc thắng, tắc",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0395_viet_005",
+      "bbox": [
+        [
+          173,
+          293
+        ],
+        [
+          1419,
+          291
+        ],
+        [
+          1419,
+          334
+        ],
+        [
+          173,
+          336
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          448
+        ],
+        [
+          1419,
+          446
+        ],
+        [
+          1419,
+          489
+        ],
+        [
+          173,
+          491
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        291,
+        1419,
+        336
+      ],
+      "text": "bạt dụng lương tường, quan kỳ quyền biến, như vì kỳ nhiên, tùy thời chế nghi;",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0395_viet_006",
+      "bbox": [
+        [
+          184,
+          338
+        ],
+        [
+          1411,
+          338
+        ],
+        [
+          1411,
+          368
+        ],
+        [
+          184,
+          368
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          493
+        ],
+        [
+          1411,
+          493
+        ],
+        [
+          1411,
+          523
+        ],
+        [
+          184,
+          523
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        338,
+        1411,
+        368
+      ],
+      "text": "Thu thu ? đắc phụ tử cbi binh, thủy khả dung dã, Thà khoan dân lực dĩ vì thâm căng thuận thuận",
+      "confidence": 0.7933
+    },
+    {
+      "line_id": "0395_viet_007",
+      "bbox": [
+        [
+          181,
+          373
+        ],
+        [
+          940,
+          373
+        ],
+        [
+          940,
+          415
+        ],
+        [
+          181,
+          415
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          528
+        ],
+        [
+          940,
+          528
+        ],
+        [
+          940,
+          570
+        ],
+        [
+          181,
+          570
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        373,
+        940,
+        415
+      ],
+      "text": "cố đế chi kế, thử thủ quốc chi thượng sách dã.",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0395_viet_008",
+      "bbox": [
+        [
+          186,
+          471
+        ],
+        [
+          378,
+          471
+        ],
+        [
+          378,
+          501
+        ],
+        [
+          186,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          626
+        ],
+        [
+          378,
+          626
+        ],
+        [
+          378,
+          656
+        ],
+        [
+          186,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        471,
+        378,
+        501
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8991
+    },
+    {
+      "line_id": "0395_viet_009",
+      "bbox": [
+        [
+          553,
+          505
+        ],
+        [
+          1048,
+          508
+        ],
+        [
+          1048,
+          544
+        ],
+        [
+          553,
+          542
+        ]
+      ],
+      "bbox_original": [
+        [
+          553,
+          660
+        ],
+        [
+          1048,
+          663
+        ],
+        [
+          1048,
+          699
+        ],
+        [
+          553,
+          697
+        ]
+      ],
+      "box_xyxy": [
+        553,
+        505,
+        1048,
+        544
+      ],
+      "text": "CĂN DẶN TRƯỚC KHI MẤT (?)",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0395_viet_010",
+      "bbox": [
+        [
+          281,
+          578
+        ],
+        [
+          1411,
+          578
+        ],
+        [
+          1411,
+          615
+        ],
+        [
+          281,
+          615
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          733
+        ],
+        [
+          1411,
+          733
+        ],
+        [
+          1411,
+          770
+        ],
+        [
+          281,
+          770
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        578,
+        1411,
+        615
+      ],
+      "text": "Xtra kia, Triệu Vũ Đế (3) dựng nước, vua Hán đem quân sang đánh, dân",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0395_viet_011",
+      "bbox": [
+        [
+          184,
+          619
+        ],
+        [
+          1415,
+          615
+        ],
+        [
+          1415,
+          651
+        ],
+        [
+          184,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          774
+        ],
+        [
+          1415,
+          770
+        ],
+        [
+          1415,
+          806
+        ],
+        [
+          184,
+          810
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        615,
+        1415,
+        655
+      ],
+      "text": "chúng bên làm kế a vườn không nhà trống p. Rồi đại binh kéo sang châu Liêm.",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0395_viet_012",
+      "bbox": [
+        [
+          186,
+          657
+        ],
+        [
+          1415,
+          657
+        ],
+        [
+          1415,
+          694
+        ],
+        [
+          186,
+          694
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          812
+        ],
+        [
+          1415,
+          812
+        ],
+        [
+          1415,
+          849
+        ],
+        [
+          186,
+          849
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        657,
+        1415,
+        694
+      ],
+      "text": "châu Khâm (?) đánh vào Trường-sa (?), đoàn bình thì tập kích phía sau. Đó là",
+      "confidence": 0.8988
+    },
+    {
+      "line_id": "0395_viet_013",
+      "bbox": [
+        [
+          184,
+          692
+        ],
+        [
+          1415,
+          694
+        ],
+        [
+          1415,
+          737
+        ],
+        [
+          184,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          847
+        ],
+        [
+          1415,
+          849
+        ],
+        [
+          1415,
+          892
+        ],
+        [
+          184,
+          890
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        692,
+        1415,
+        737
+      ],
+      "text": "một thời Đời Đinh, Lê, đề bạt được bậc hiền lài, côi Nam vừa hùng cường",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0395_viet_014",
+      "bbox": [
+        [
+          184,
+          737
+        ],
+        [
+          1413,
+          737
+        ],
+        [
+          1413,
+          773
+        ],
+        [
+          184,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          892
+        ],
+        [
+          1413,
+          892
+        ],
+        [
+          1413,
+          928
+        ],
+        [
+          184,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        737,
+        1413,
+        773
+      ],
+      "text": "lên mà phương Bắc thì đang mỏi mẹt suy yếu, Trên dưới cùng ý nguyên,",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0395_viet_015",
+      "bbox": [
+        [
+          186,
+          775
+        ],
+        [
+          1413,
+          775
+        ],
+        [
+          1413,
+          812
+        ],
+        [
+          186,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          930
+        ],
+        [
+          1413,
+          930
+        ],
+        [
+          1413,
+          967
+        ],
+        [
+          186,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        775,
+        1413,
+        812
+      ],
+      "text": "lòng dân không chia lia, xây thành Bình-lỗ (5) mà phá được quân Tổng, Đó",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0395_viet_016",
+      "bbox": [
+        [
+          190,
+          818
+        ],
+        [
+          1411,
+          818
+        ],
+        [
+          1411,
+          848
+        ],
+        [
+          190,
+          848
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          973
+        ],
+        [
+          1411,
+          973
+        ],
+        [
+          1411,
+          1003
+        ],
+        [
+          190,
+          1003
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        818,
+        1411,
+        848
+      ],
+      "text": "Theo thời lại là một thời, Nhà Lý vừa mở mang cơ nghiệp, quân Tổng đã xâm phạm vào thế nhật thuận",
+      "confidence": 0.7902
+    },
+    {
+      "line_id": "0395_viet_017",
+      "bbox": [
+        [
+          186,
+          855
+        ],
+        [
+          1411,
+          855
+        ],
+        [
+          1411,
+          891
+        ],
+        [
+          186,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1010
+        ],
+        [
+          1411,
+          1010
+        ],
+        [
+          1411,
+          1046
+        ],
+        [
+          186,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        855,
+        1411,
+        891
+      ],
+      "text": "bờ côi, Bèn dùng Lý Thường Kiệt để đánh châu Khảm, chàu Liêm, mấy lần",
+      "confidence": 0.8944
+    },
+    {
+      "line_id": "0395_viet_018",
+      "bbox": [
+        [
+          192,
+          897
+        ],
+        [
+          1028,
+          897
+        ],
+        [
+          1028,
+          927
+        ],
+        [
+          192,
+          927
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1052
+        ],
+        [
+          1028,
+          1052
+        ],
+        [
+          1028,
+          1082
+        ],
+        [
+          192,
+          1082
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        897,
+        1028,
+        927
+      ],
+      "text": "đến tận Mai-lĩnh (6). Âv là có cái thế đánh được vậy.",
+      "confidence": 0.8848
+    },
+    {
+      "line_id": "0395_viet_019",
+      "bbox": [
+        [
+          272,
+          947
+        ],
+        [
+          1411,
+          947
+        ],
+        [
+          1411,
+          983
+        ],
+        [
+          272,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1102
+        ],
+        [
+          1411,
+          1102
+        ],
+        [
+          1411,
+          1138
+        ],
+        [
+          272,
+          1138
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        947,
+        1411,
+        983
+      ],
+      "text": "\"Có Mới rồi Toa Đô(?) và Ô Mà Nhi (B) bốn mặt bao vây, nhờ vua tôi đồng thời\"",
+      "confidence": 0.8289
+    },
+    {
+      "line_id": "0395_viet_020",
+      "bbox": [
+        [
+          184,
+          989
+        ],
+        [
+          1411,
+          985
+        ],
+        [
+          1411,
+          1022
+        ],
+        [
+          184,
+          1026
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1144
+        ],
+        [
+          1411,
+          1140
+        ],
+        [
+          1411,
+          1177
+        ],
+        [
+          184,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        985,
+        1411,
+        1026
+      ],
+      "text": "lòng, anh em hòa thuận, cả nước dồn sức lại mà bọn chúng đành phải chịu",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0395_viet_021",
+      "bbox": [
+        [
+          186,
+          1028
+        ],
+        [
+          903,
+          1028
+        ],
+        [
+          903,
+          1064
+        ],
+        [
+          186,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1183
+        ],
+        [
+          903,
+          1183
+        ],
+        [
+          903,
+          1219
+        ],
+        [
+          186,
+          1219
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1028,
+        903,
+        1064
+      ],
+      "text": "trói, đó cũng là do lòng trời xui nên như vậy",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0395_viet_022",
+      "bbox": [
+        [
+          274,
+          1082
+        ],
+        [
+          1413,
+          1077
+        ],
+        [
+          1413,
+          1114
+        ],
+        [
+          274,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          1237
+        ],
+        [
+          1413,
+          1232
+        ],
+        [
+          1413,
+          1269
+        ],
+        [
+          274,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        1077,
+        1413,
+        1118
+      ],
+      "text": "Tóm lại, giặc cậy trận dài, ta cậy hình ngắn, lấy, ngắn chế dài là lẽ",
+      "confidence": 0.9045
+    },
+    {
+      "line_id": "0395_viet_023",
+      "bbox": [
+        [
+          186,
+          1120
+        ],
+        [
+          1413,
+          1116
+        ],
+        [
+          1413,
+          1152
+        ],
+        [
+          186,
+          1157
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1275
+        ],
+        [
+          1413,
+          1271
+        ],
+        [
+          1413,
+          1307
+        ],
+        [
+          186,
+          1312
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1116,
+        1413,
+        1157
+      ],
+      "text": "thường của bình pháp. Nếu thấy quân giặc đến ở gt như lửa to gió táp thì đó",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0395_viet_024",
+      "bbox": [
+        [
+          184,
+          1159
+        ],
+        [
+          1406,
+          1159
+        ],
+        [
+          1406,
+          1195
+        ],
+        [
+          184,
+          1195
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1314
+        ],
+        [
+          1406,
+          1314
+        ],
+        [
+          1406,
+          1350
+        ],
+        [
+          184,
+          1350
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1159,
+        1406,
+        1195
+      ],
+      "text": "Thế là tình thế dễ chế ngự, Nếu chúng dùng lối tầm ăn là, hành binh dần dà nhà nội",
+      "confidence": 0.8292
+    },
+    {
+      "line_id": "0395_viet_025",
+      "bbox": [
+        [
+          186,
+          1199
+        ],
+        [
+          1411,
+          1199
+        ],
+        [
+          1411,
+          1236
+        ],
+        [
+          186,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1354
+        ],
+        [
+          1411,
+          1354
+        ],
+        [
+          1411,
+          1391
+        ],
+        [
+          186,
+          1391
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1199,
+        1411,
+        1236
+      ],
+      "text": "không ham của dân, không cốt thắng mau, thì phải kén dùng tưởng giồi, liệu",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0395_viet_026",
+      "bbox": [
+        [
+          184,
+          1240
+        ],
+        [
+          1408,
+          1236
+        ],
+        [
+          1409,
+          1272
+        ],
+        [
+          184,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1395
+        ],
+        [
+          1408,
+          1391
+        ],
+        [
+          1409,
+          1427
+        ],
+        [
+          184,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1236,
+        1409,
+        1276
+      ],
+      "text": "xem quyền biển, gióng như đánh cờ, phải tùy tình thế mà đưa nước chống cho",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0395_viet_027",
+      "bbox": [
+        [
+          181,
+          1276
+        ],
+        [
+          1408,
+          1274
+        ],
+        [
+          1409,
+          1313
+        ],
+        [
+          182,
+          1315
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1431
+        ],
+        [
+          1408,
+          1429
+        ],
+        [
+          1409,
+          1468
+        ],
+        [
+          182,
+          1470
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1274,
+        1409,
+        1315
+      ],
+      "text": "thích hợp. Phải gây dựng được một a đội quân cha con n rồi mới có thể sử",
+      "confidence": 0.8947
+    },
+    {
+      "line_id": "0395_viet_028",
+      "bbox": [
+        [
+          179,
+          1313
+        ],
+        [
+          1413,
+          1315
+        ],
+        [
+          1413,
+          1358
+        ],
+        [
+          179,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1468
+        ],
+        [
+          1413,
+          1470
+        ],
+        [
+          1413,
+          1513
+        ],
+        [
+          179,
+          1511
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1313,
+        1413,
+        1358
+      ],
+      "text": "dụng được. Và lại, khoan sức cho dân đề làm kế sâu rễ hền gốc, đó là thượng",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0395_viet_029",
+      "bbox": [
+        [
+          184,
+          1355
+        ],
+        [
+          486,
+          1360
+        ],
+        [
+          486,
+          1397
+        ],
+        [
+          183,
+          1392
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1510
+        ],
+        [
+          486,
+          1515
+        ],
+        [
+          486,
+          1552
+        ],
+        [
+          183,
+          1547
+        ]
+      ],
+      "box_xyxy": [
+        183,
+        1355,
+        486,
+        1397
+      ],
+      "text": "sách giữ nước vậy",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0395_viet_030",
+      "bbox": [
+        [
+          1203,
+          1405
+        ],
+        [
+          1337,
+          1405
+        ],
+        [
+          1337,
+          1441
+        ],
+        [
+          1203,
+          1441
+        ]
+      ],
+      "bbox_original": [
+        [
+          1203,
+          1560
+        ],
+        [
+          1337,
+          1560
+        ],
+        [
+          1337,
+          1596
+        ],
+        [
+          1203,
+          1596
+        ]
+      ],
+      "box_xyxy": [
+        1203,
+        1405,
+        1337,
+        1441
+      ],
+      "text": "HUỆ CHỈ",
+      "confidence": 0.8865
+    },
+    {
+      "line_id": "0395_viet_031",
+      "bbox": [
+        [
+          182,
+          1482
+        ],
+        [
+          368,
+          1487
+        ],
+        [
+          367,
+          1523
+        ],
+        [
+          181,
+          1518
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1637
+        ],
+        [
+          368,
+          1642
+        ],
+        [
+          367,
+          1678
+        ],
+        [
+          181,
+          1673
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1482,
+        368,
+        1523
+      ],
+      "text": "KHẢO ĐÍNH:",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0395_viet_032",
+      "bbox": [
+        [
+          568,
+          1518
+        ],
+        [
+          1031,
+          1521
+        ],
+        [
+          1030,
+          1557
+        ],
+        [
+          568,
+          1555
+        ]
+      ],
+      "bbox_original": [
+        [
+          568,
+          1673
+        ],
+        [
+          1031,
+          1676
+        ],
+        [
+          1030,
+          1712
+        ],
+        [
+          568,
+          1710
+        ]
+      ],
+      "box_xyxy": [
+        568,
+        1518,
+        1031,
+        1557
+      ],
+      "text": "VĂN BẢN KHẢO ĐÍNH: DYSKTT",
+      "confidence": 0.9017
+    },
+    {
+      "line_id": "0395_viet_033",
+      "bbox": [
+        [
+          182,
+          1574
+        ],
+        [
+          1093,
+          1578
+        ],
+        [
+          1093,
+          1621
+        ],
+        [
+          181,
+          1617
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1729
+        ],
+        [
+          1093,
+          1733
+        ],
+        [
+          1093,
+          1776
+        ],
+        [
+          181,
+          1772
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1574,
+        1093,
+        1621
+      ],
+      "text": "[8 - DVSKTT 12, có lẽ là chữ thu khắc nhàm 4K. Tạm chữa lại",
+      "confidence": 0.8503
+    },
+    {
+      "line_id": "0395_viet_034",
+      "bbox": [
+        [
+          188,
+          1660
+        ],
+        [
+          369,
+          1660
+        ],
+        [
+          369,
+          1690
+        ],
+        [
+          188,
+          1690
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1815
+        ],
+        [
+          369,
+          1815
+        ],
+        [
+          369,
+          1845
+        ],
+        [
+          188,
+          1845
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1660,
+        369,
+        1690
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.8954
+    },
+    {
+      "line_id": "0395_viet_035",
+      "bbox": [
+        [
+          184,
+          1707
+        ],
+        [
+          1411,
+          1711
+        ],
+        [
+          1411,
+          1746
+        ],
+        [
+          184,
+          1741
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1862
+        ],
+        [
+          1411,
+          1866
+        ],
+        [
+          1411,
+          1901
+        ],
+        [
+          184,
+          1896
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1707,
+        1411,
+        1746
+      ],
+      "text": "1) Đầu đề do chúng tỏi thêm. DVTKTT, Q. V1, chép rằng, ngày 24 tháng Sáu năm Canh tỷ",
+      "confidence": 0.9054
+    },
+    {
+      "line_id": "0395_viet_036",
+      "bbox": [
+        [
+          244,
+          1743
+        ],
+        [
+          1411,
+          1748
+        ],
+        [
+          1411,
+          1784
+        ],
+        [
+          244,
+          1780
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1898
+        ],
+        [
+          1411,
+          1903
+        ],
+        [
+          1411,
+          1939
+        ],
+        [
+          244,
+          1935
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1743,
+        1411,
+        1784
+      ],
+      "text": "(1300) Tràn Quốc Tuấn Ốm nặng, vua Trần Ảnh Tông đến tàn nhà riêng ở Vạn-kiếp đế",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0395_viet_037",
+      "bbox": [
+        [
+          246,
+          1777
+        ],
+        [
+          1309,
+          1786
+        ],
+        [
+          1309,
+          1825
+        ],
+        [
+          246,
+          1816
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1932
+        ],
+        [
+          1309,
+          1941
+        ],
+        [
+          1309,
+          1980
+        ],
+        [
+          246,
+          1971
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1777,
+        1309,
+        1825
+      ],
+      "text": "thăm, nhân đó vua hỏi ông: 20 tỷ 1 đế 26 8 (2 13 - 14 t kỷ tế tế p. 0",
+      "confidence": 0.6789
+    },
+    {
+      "line_id": "0395_viet_038",
+      "bbox": [
+        [
+          244,
+          1818
+        ],
+        [
+          1406,
+          1825
+        ],
+        [
+          1406,
+          1859
+        ],
+        [
+          244,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1973
+        ],
+        [
+          1406,
+          1980
+        ],
+        [
+          1406,
+          2014
+        ],
+        [
+          244,
+          2007
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1818,
+        1406,
+        1859
+      ],
+      "text": "Như hữu bất hủy Bắc khẩu loi xâm, kỳ sách an lại 7, nghĩa là: a Nếu như không may",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0395_viet_039",
+      "bbox": [
+        [
+          244,
+          1855
+        ],
+        [
+          1411,
+          1859
+        ],
+        [
+          1411,
+          1895
+        ],
+        [
+          244,
+          1891
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2010
+        ],
+        [
+          1411,
+          2014
+        ],
+        [
+          1411,
+          2050
+        ],
+        [
+          244,
+          2046
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1855,
+        1411,
+        1895
+      ],
+      "text": "ông chết mà giặc Bắc lại sang xảm lăng thì kế sách làm sao 2n.Trào Quốc Tuến đã trả",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0395_viet_040",
+      "bbox": [
+        [
+          244,
+          1895
+        ],
+        [
+          562,
+          1895
+        ],
+        [
+          562,
+          1925
+        ],
+        [
+          244,
+          1925
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2050
+        ],
+        [
+          562,
+          2050
+        ],
+        [
+          562,
+          2080
+        ],
+        [
+          244,
+          2080
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1895,
+        562,
+        1925
+      ],
+      "text": "lời bằng đean văn trên",
+      "confidence": 0.93
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "Tạc giả Toa Đò, Ô Mã Nhí tứ diện bao vì, quân thần đồng tâm, huynh",
+      "đệ hòa mục, quốc gia tịnh lực, bỉ tự tựu càm, thiên sử nhiên dâ..",
+      "Đại khải bì thị thường trận, ngã thị đoàn binh, dĩ đoản chế trường, binh",
+      "pháp chi thường dã. Kỳ kiến bì quân biến chi, như hỏa như phong, kỳ thế dị",
+      "chế, Nhược dụng tàm thực, hoãn hành, bắt vụ dân tài, bất cầu tóc thắng, tắc",
+      "bạt dụng lương tường, quan kỳ quyền biến, như vì kỳ nhiên, tùy thời chế nghi;",
+      "Thu thu ? đắc phụ tử cbi binh, thủy khả dung dã, Thà khoan dân lực dĩ vì thâm căng thuận thuận",
+      "cố đế chi kế, thử thủ quốc chi thượng sách dã."
+    ],
+    "dich_nghia_lines": [
+      "CĂN DẶN TRƯỚC KHI MẤT (?)",
+      "Xtra kia, Triệu Vũ Đế (3) dựng nước, vua Hán đem quân sang đánh, dân",
+      "chúng bên làm kế a vườn không nhà trống p. Rồi đại binh kéo sang châu Liêm.",
+      "châu Khâm (?) đánh vào Trường-sa (?), đoàn bình thì tập kích phía sau. Đó là",
+      "một thời Đời Đinh, Lê, đề bạt được bậc hiền lài, côi Nam vừa hùng cường",
+      "lên mà phương Bắc thì đang mỏi mẹt suy yếu, Trên dưới cùng ý nguyên,",
+      "lòng dân không chia lia, xây thành Bình-lỗ (5) mà phá được quân Tổng, Đó",
+      "Theo thời lại là một thời, Nhà Lý vừa mở mang cơ nghiệp, quân Tổng đã xâm phạm vào thế nhật thuận",
+      "bờ côi, Bèn dùng Lý Thường Kiệt để đánh châu Khảm, chàu Liêm, mấy lần",
+      "đến tận Mai-lĩnh (6). Âv là có cái thế đánh được vậy.",
+      "\"Có Mới rồi Toa Đô(?) và Ô Mà Nhi (B) bốn mặt bao vây, nhờ vua tôi đồng thời\"",
+      "lòng, anh em hòa thuận, cả nước dồn sức lại mà bọn chúng đành phải chịu",
+      "trói, đó cũng là do lòng trời xui nên như vậy",
+      "Tóm lại, giặc cậy trận dài, ta cậy hình ngắn, lấy, ngắn chế dài là lẽ",
+      "thường của bình pháp. Nếu thấy quân giặc đến ở gt như lửa to gió táp thì đó",
+      "Thế là tình thế dễ chế ngự, Nếu chúng dùng lối tầm ăn là, hành binh dần dà nhà nội",
+      "không ham của dân, không cốt thắng mau, thì phải kén dùng tưởng giồi, liệu",
+      "xem quyền biển, gióng như đánh cờ, phải tùy tình thế mà đưa nước chống cho",
+      "thích hợp. Phải gây dựng được một a đội quân cha con n rồi mới có thể sử",
+      "dụng được. Và lại, khoan sức cho dân đề làm kế sâu rễ hền gốc, đó là thượng",
+      "sách giữ nước vậy",
+      "HUỆ CHỈ"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

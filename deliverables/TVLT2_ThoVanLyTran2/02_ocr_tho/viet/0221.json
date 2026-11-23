@@ -1,0 +1,1516 @@
+{
+  "page_id": "0221",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 221,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0221_viet_000",
+      "bbox": [
+        [
+          564,
+          103
+        ],
+        [
+          700,
+          103
+        ],
+        [
+          700,
+          118
+        ],
+        [
+          564,
+          118
+        ]
+      ],
+      "bbox_original": [
+        [
+          564,
+          258
+        ],
+        [
+          700,
+          258
+        ],
+        [
+          700,
+          273
+        ],
+        [
+          564,
+          273
+        ]
+      ],
+      "box_xyxy": [
+        564,
+        103,
+        700,
+        118
+      ],
+      "text": "0381008880",
+      "confidence": 0.31
+    },
+    {
+      "line_id": "0221_viet_001",
+      "bbox": [
+        [
+          664,
+          308
+        ],
+        [
+          925,
+          313
+        ],
+        [
+          924,
+          349
+        ],
+        [
+          663,
+          345
+        ]
+      ],
+      "bbox_original": [
+        [
+          664,
+          463
+        ],
+        [
+          925,
+          468
+        ],
+        [
+          924,
+          504
+        ],
+        [
+          663,
+          500
+        ]
+      ],
+      "box_xyxy": [
+        663,
+        308,
+        925,
+        349
+      ],
+      "text": "TRẦN TUNG",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0221_viet_002",
+      "bbox": [
+        [
+          469,
+          435
+        ],
+        [
+          525,
+          435
+        ],
+        [
+          525,
+          450
+        ],
+        [
+          469,
+          450
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          590
+        ],
+        [
+          525,
+          590
+        ],
+        [
+          525,
+          605
+        ],
+        [
+          469,
+          605
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        435,
+        525,
+        450
+      ],
+      "text": "1.000",
+      "confidence": 0.3333
+    },
+    {
+      "line_id": "0221_viet_003",
+      "bbox": [
+        [
+          575,
+          428
+        ],
+        [
+          1009,
+          428
+        ],
+        [
+          1009,
+          471
+        ],
+        [
+          575,
+          471
+        ]
+      ],
+      "bbox_original": [
+        [
+          575,
+          583
+        ],
+        [
+          1009,
+          583
+        ],
+        [
+          1009,
+          626
+        ],
+        [
+          575,
+          626
+        ]
+      ],
+      "box_xyxy": [
+        575,
+        428,
+        1009,
+        471
+      ],
+      "text": "TUỆ TRUNG THƯỢNG SĨ",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0221_viet_004",
+      "bbox": [
+        [
+          488,
+          473
+        ],
+        [
+          529,
+          473
+        ],
+        [
+          529,
+          488
+        ],
+        [
+          488,
+          488
+        ]
+      ],
+      "bbox_original": [
+        [
+          488,
+          628
+        ],
+        [
+          529,
+          628
+        ],
+        [
+          529,
+          643
+        ],
+        [
+          488,
+          643
+        ]
+      ],
+      "box_xyxy": [
+        488,
+        473,
+        529,
+        488
+      ],
+      "text": "13:1:",
+      "confidence": 0.2242
+    },
+    {
+      "line_id": "0221_viet_005",
+      "bbox": [
+        [
+          691,
+          546
+        ],
+        [
+          933,
+          546
+        ],
+        [
+          933,
+          589
+        ],
+        [
+          691,
+          589
+        ]
+      ],
+      "bbox_original": [
+        [
+          691,
+          701
+        ],
+        [
+          933,
+          701
+        ],
+        [
+          933,
+          744
+        ],
+        [
+          691,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        691,
+        546,
+        933,
+        589
+      ],
+      "text": "(1230-1291)",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0221_viet_006",
+      "bbox": [
+        [
+          177,
+          743
+        ],
+        [
+          1413,
+          745
+        ],
+        [
+          1413,
+          790
+        ],
+        [
+          177,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          898
+        ],
+        [
+          1413,
+          900
+        ],
+        [
+          1413,
+          945
+        ],
+        [
+          177,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        743,
+        1413,
+        790
+      ],
+      "text": "Trần Quốc Tuấn / Số 4, và cũng là anh ruột Hoàng hậu, Nguyên Thành",
+      "confidence": 0.8506
+    },
+    {
+      "line_id": "0221_viet_007",
+      "bbox": [
+        [
+          184,
+          786
+        ],
+        [
+          1413,
+          786
+        ],
+        [
+          1413,
+          829
+        ],
+        [
+          184,
+          829
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          941
+        ],
+        [
+          1413,
+          941
+        ],
+        [
+          1413,
+          984
+        ],
+        [
+          184,
+          984
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        786,
+        1413,
+        829
+      ],
+      "text": "Thiên Cảm Lễ Xật Vợ Vua Tràn Thành Tông Rý 2. Khi Trần Liễu",
+      "confidence": 0.8532
+    },
+    {
+      "line_id": "0221_viet_008",
+      "bbox": [
+        [
+          190,
+          831
+        ],
+        [
+          1409,
+          831
+        ],
+        [
+          1409,
+          861
+        ],
+        [
+          190,
+          861
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          986
+        ],
+        [
+          1409,
+          986
+        ],
+        [
+          1409,
+          1016
+        ],
+        [
+          190,
+          1016
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        831,
+        1409,
+        861
+      ],
+      "text": "Thuận mất [1251), Thượng hoàng Tràn Thái Tồng n cảm vì nghĩa, phong cho ông tước chính thức",
+      "confidence": 0.8119
+    },
+    {
+      "line_id": "0221_viet_009",
+      "bbox": [
+        [
+          184,
+          867
+        ],
+        [
+          1411,
+          865
+        ],
+        [
+          1411,
+          902
+        ],
+        [
+          184,
+          904
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1022
+        ],
+        [
+          1411,
+          1020
+        ],
+        [
+          1411,
+          1057
+        ],
+        [
+          184,
+          1059
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        865,
+        1411,
+        904
+      ],
+      "text": "Hưng ninh vương (1), Căng như phần lớn các vương hầu thàn tín của nhà",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0221_viet_010",
+      "bbox": [
+        [
+          181,
+          904
+        ],
+        [
+          1411,
+          902
+        ],
+        [
+          1411,
+          944
+        ],
+        [
+          182,
+          947
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1059
+        ],
+        [
+          1411,
+          1057
+        ],
+        [
+          1411,
+          1099
+        ],
+        [
+          182,
+          1102
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        902,
+        1411,
+        947
+      ],
+      "text": "Trần, trong ba cuộc kháng chiến chống Nguyên Mông (1257 ? 58; 1285: 1287?88);",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0221_viet_011",
+      "bbox": [
+        [
+          186,
+          947
+        ],
+        [
+          1409,
+          947
+        ],
+        [
+          1409,
+          983
+        ],
+        [
+          186,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1102
+        ],
+        [
+          1409,
+          1102
+        ],
+        [
+          1409,
+          1138
+        ],
+        [
+          186,
+          1138
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        947,
+        1409,
+        983
+      ],
+      "text": "Trần Tong đã trực tiếp tham gia cầm quân chống giặc, Dưới quyền điều khiến",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0221_viet_012",
+      "bbox": [
+        [
+          186,
+          985
+        ],
+        [
+          1409,
+          985
+        ],
+        [
+          1409,
+          1022
+        ],
+        [
+          186,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1140
+        ],
+        [
+          1409,
+          1140
+        ],
+        [
+          1409,
+          1177
+        ],
+        [
+          186,
+          1177
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        985,
+        1409,
+        1022
+      ],
+      "text": "Của Quốc còng tiết chế Trần Quốc Tuấn, trong cuộc kháng chiến lần thứ hai;",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0221_viet_013",
+      "bbox": [
+        [
+          181,
+          1026
+        ],
+        [
+          1411,
+          1022
+        ],
+        [
+          1411,
+          1058
+        ],
+        [
+          182,
+          1062
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1181
+        ],
+        [
+          1411,
+          1177
+        ],
+        [
+          1411,
+          1213
+        ],
+        [
+          182,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1022,
+        1411,
+        1062
+      ],
+      "text": "vào ngày 10 tháng Sáu năm 1285, khi Thoạt Hoan 12 38 núng thế bắt đầu rút",
+      "confidence": 0.8868
+    },
+    {
+      "line_id": "0221_viet_014",
+      "bbox": [
+        [
+          179,
+          1062
+        ],
+        [
+          1404,
+          1060
+        ],
+        [
+          1404,
+          1097
+        ],
+        [
+          179,
+          1099
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1217
+        ],
+        [
+          1404,
+          1215
+        ],
+        [
+          1404,
+          1252
+        ],
+        [
+          179,
+          1254
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1060,
+        1404,
+        1099
+      ],
+      "text": "Thuận khôi bờ Bắc sông Hồng thì ông cũng với Hưng đạo vương đem hơn hải vạn thời thời",
+      "confidence": 0.8098
+    },
+    {
+      "line_id": "0221_viet_015",
+      "bbox": [
+        [
+          169,
+          1139
+        ],
+        [
+          1406,
+          1144
+        ],
+        [
+          1406,
+          1180
+        ],
+        [
+          168,
+          1176
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1294
+        ],
+        [
+          1406,
+          1299
+        ],
+        [
+          1406,
+          1335
+        ],
+        [
+          168,
+          1331
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1139,
+        1406,
+        1180
+      ],
+      "text": "đuổi Thoát Hoan chay dài đến sông Nhir-nguyệt 40 ý (?). Và trong cuộc",
+      "confidence": 0.8319
+    },
+    {
+      "line_id": "0221_viet_016",
+      "bbox": [
+        [
+          177,
+          1182
+        ],
+        [
+          1409,
+          1182
+        ],
+        [
+          1409,
+          1219
+        ],
+        [
+          177,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1337
+        ],
+        [
+          1409,
+          1337
+        ],
+        [
+          1409,
+          1374
+        ],
+        [
+          177,
+          1374
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1182,
+        1409,
+        1219
+      ],
+      "text": "kháng chiến, lần thứ bạ, ông còn, được giao: những nhiệm vụ ngoại giao quan",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0221_viet_017",
+      "bbox": [
+        [
+          173,
+          1221
+        ],
+        [
+          1411,
+          1221
+        ],
+        [
+          1411,
+          1257
+        ],
+        [
+          173,
+          1257
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1376
+        ],
+        [
+          1411,
+          1376
+        ],
+        [
+          1411,
+          1412
+        ],
+        [
+          173,
+          1412
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1221,
+        1411,
+        1257
+      ],
+      "text": "thuật trọng, nhiều lần đến đồn trại giặc vờ ước hẹn trả hàng, làm cho quần giặc mắt",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0221_viet_018",
+      "bbox": [
+        [
+          169,
+          1255
+        ],
+        [
+          1097,
+          1257
+        ],
+        [
+          1097,
+          1302
+        ],
+        [
+          168,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1410
+        ],
+        [
+          1097,
+          1412
+        ],
+        [
+          1097,
+          1457
+        ],
+        [
+          168,
+          1455
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1255,
+        1097,
+        1302
+      ],
+      "text": "cảnh giác, sau do cho quân đến cướp doanh trại giặc (s).",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0221_viet_019",
+      "bbox": [
+        [
+          188,
+          1315
+        ],
+        [
+          1411,
+          1317
+        ],
+        [
+          1411,
+          1360
+        ],
+        [
+          188,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1470
+        ],
+        [
+          1411,
+          1472
+        ],
+        [
+          1411,
+          1515
+        ],
+        [
+          188,
+          1513
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1315,
+        1411,
+        1360
+      ],
+      "text": "giữa Sau ngày kháng chiến thắng lợi, tài liệu có nhắc tới Trần Tung hầu như",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0221_viet_020",
+      "bbox": [
+        [
+          181,
+          1362
+        ],
+        [
+          1409,
+          1362
+        ],
+        [
+          1409,
+          1399
+        ],
+        [
+          181,
+          1399
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1517
+        ],
+        [
+          1409,
+          1517
+        ],
+        [
+          1409,
+          1554
+        ],
+        [
+          181,
+          1554
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1362,
+        1409,
+        1399
+      ],
+      "text": "rất ít Hình nhữ ông được nhân chức Tiết đồ sử, cọi giữ phủ Thái-bình X 7.",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0221_viet_021",
+      "bbox": [
+        [
+          171,
+          1403
+        ],
+        [
+          1409,
+          1403
+        ],
+        [
+          1409,
+          1446
+        ],
+        [
+          171,
+          1446
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1558
+        ],
+        [
+          1409,
+          1558
+        ],
+        [
+          1409,
+          1601
+        ],
+        [
+          171,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1403,
+        1409,
+        1446
+      ],
+      "text": "nhưng chỉ ít làu, ông đã luị về áp, Tỉnh-bạng - % 7p, có lễ là trang-ấp được",
+      "confidence": 0.8289
+    },
+    {
+      "line_id": "0221_viet_022",
+      "bbox": [
+        [
+          166,
+          1443
+        ],
+        [
+          1404,
+          1443
+        ],
+        [
+          1404,
+          1486
+        ],
+        [
+          166,
+          1486
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1598
+        ],
+        [
+          1404,
+          1598
+        ],
+        [
+          1404,
+          1641
+        ],
+        [
+          166,
+          1641
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1443,
+        1404,
+        1486
+      ],
+      "text": "Thuận phong (4), dựng Đường-chân trang ất đế jê: tiếp tục theo đuổi ham thích của nhành",
+      "confidence": 0.7954
+    },
+    {
+      "line_id": "0221_viet_023",
+      "bbox": [
+        [
+          171,
+          1488
+        ],
+        [
+          529,
+          1488
+        ],
+        [
+          529,
+          1518
+        ],
+        [
+          171,
+          1518
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1643
+        ],
+        [
+          529,
+          1643
+        ],
+        [
+          529,
+          1673
+        ],
+        [
+          171,
+          1673
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1488,
+        529,
+        1518
+      ],
+      "text": "là tham cửu đạo phàt",
+      "confidence": 0.8831
+    },
+    {
+      "line_id": "0221_viet_024",
+      "bbox": [
+        [
+          171,
+          1587
+        ],
+        [
+          1406,
+          1583
+        ],
+        [
+          1406,
+          1619
+        ],
+        [
+          171,
+          1623
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1742
+        ],
+        [
+          1406,
+          1738
+        ],
+        [
+          1406,
+          1774
+        ],
+        [
+          171,
+          1778
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1583,
+        1406,
+        1623
+      ],
+      "text": "nhâu vật nòi tiếng: cuối: đời Lý và là học trò của Thiền sư Tức Lự 4. lý",
+      "confidence": 0.8581
+    },
+    {
+      "line_id": "0221_viet_025",
+      "bbox": [
+        [
+          169,
+          1621
+        ],
+        [
+          1406,
+          1623
+        ],
+        [
+          1406,
+          1666
+        ],
+        [
+          168,
+          1664
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1776
+        ],
+        [
+          1406,
+          1778
+        ],
+        [
+          1406,
+          1821
+        ],
+        [
+          168,
+          1819
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1621,
+        1406,
+        1666
+      ],
+      "text": "Nhưng ông tu Phật ma không hề xuất gia, không giữ dùng các, phép a tam quy D,",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0221_viet_026",
+      "bbox": [
+        [
+          175,
+          1664
+        ],
+        [
+          1404,
+          1662
+        ],
+        [
+          1404,
+          1700
+        ],
+        [
+          175,
+          1703
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1819
+        ],
+        [
+          1404,
+          1817
+        ],
+        [
+          1404,
+          1855
+        ],
+        [
+          175,
+          1858
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1662,
+        1404,
+        1703
+      ],
+      "text": "c ngũ giới n, và có phần chấc vẫn có gia đình-như ímọi vương-bầu. khác (?)",
+      "confidence": 0.875
+    },
+    {
+      "line_id": "0221_viet_027",
+      "bbox": [
+        [
+          171,
+          1703
+        ],
+        [
+          1404,
+          1700
+        ],
+        [
+          1404,
+          1737
+        ],
+        [
+          171,
+          1739
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1858
+        ],
+        [
+          1404,
+          1855
+        ],
+        [
+          1404,
+          1892
+        ],
+        [
+          171,
+          1894
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1700,
+        1404,
+        1739
+      ],
+      "text": "Bằng trí xét đoàn sắc sảo của minh, Trần Tung đã trở thành một nhà, Thiều Nam",
+      "confidence": 0.8739
+    },
+    {
+      "line_id": "0221_viet_028",
+      "bbox": [
+        [
+          177,
+          1782
+        ],
+        [
+          1404,
+          1782
+        ],
+        [
+          1404,
+          1818
+        ],
+        [
+          177,
+          1818
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1937
+        ],
+        [
+          1404,
+          1937
+        ],
+        [
+          1404,
+          1973
+        ],
+        [
+          177,
+          1973
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1782,
+        1404,
+        1818
+      ],
+      "text": "đồ khư khu bảw viu vào những khái niệm có sau, biết chòa quang đông nghiệp",
+      "confidence": 0.8499
+    },
+    {
+      "line_id": "0221_viet_029",
+      "bbox": [
+        [
+          173,
+          1818
+        ],
+        [
+          1406,
+          1818
+        ],
+        [
+          1406,
+          1861
+        ],
+        [
+          173,
+          1861
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1973
+        ],
+        [
+          1406,
+          1973
+        ],
+        [
+          1406,
+          2016
+        ],
+        [
+          173,
+          2016
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1818,
+        1406,
+        1861
+      ],
+      "text": "Trần vị (ý), Ông đirọc Thượng hoang Trần Thánh: Tổng rất kinh trọng: tôn-Lành",
+      "confidence": 0.8405
+    },
+    {
+      "line_id": "0221_viet_030",
+      "bbox": [
+        [
+          169,
+          1861
+        ],
+        [
+          1402,
+          1861
+        ],
+        [
+          1402,
+          1898
+        ],
+        [
+          169,
+          1898
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          2016
+        ],
+        [
+          1402,
+          2016
+        ],
+        [
+          1402,
+          2053
+        ],
+        [
+          169,
+          2053
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1861,
+        1402,
+        1898
+      ],
+      "text": "- sư huynh, và vua Trần Nhân Tông tòni làm thầy, mặc. dầu thất rà ông không trực",
+      "confidence": 0.8737
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "0381008880",
+      "TRẦN TUNG",
+      "1.000",
+      "TUỆ TRUNG THƯỢNG SĨ",
+      "13:1:",
+      "(1230-1291)",
+      "Trần Quốc Tuấn / Số 4, và cũng là anh ruột Hoàng hậu, Nguyên Thành",
+      "Thiên Cảm Lễ Xật Vợ Vua Tràn Thành Tông Rý 2. Khi Trần Liễu",
+      "Thuận mất [1251), Thượng hoàng Tràn Thái Tồng n cảm vì nghĩa, phong cho ông tước chính thức",
+      "Hưng ninh vương (1), Căng như phần lớn các vương hầu thàn tín của nhà",
+      "Trần, trong ba cuộc kháng chiến chống Nguyên Mông (1257 ? 58; 1285: 1287?88);",
+      "Trần Tong đã trực tiếp tham gia cầm quân chống giặc, Dưới quyền điều khiến",
+      "Của Quốc còng tiết chế Trần Quốc Tuấn, trong cuộc kháng chiến lần thứ hai;",
+      "vào ngày 10 tháng Sáu năm 1285, khi Thoạt Hoan 12 38 núng thế bắt đầu rút",
+      "Thuận khôi bờ Bắc sông Hồng thì ông cũng với Hưng đạo vương đem hơn hải vạn thời thời",
+      "đuổi Thoát Hoan chay dài đến sông Nhir-nguyệt 40 ý (?). Và trong cuộc",
+      "kháng chiến, lần thứ bạ, ông còn, được giao: những nhiệm vụ ngoại giao quan",
+      "thuật trọng, nhiều lần đến đồn trại giặc vờ ước hẹn trả hàng, làm cho quần giặc mắt",
+      "cảnh giác, sau do cho quân đến cướp doanh trại giặc (s).",
+      "giữa Sau ngày kháng chiến thắng lợi, tài liệu có nhắc tới Trần Tung hầu như",
+      "rất ít Hình nhữ ông được nhân chức Tiết đồ sử, cọi giữ phủ Thái-bình X 7.",
+      "nhưng chỉ ít làu, ông đã luị về áp, Tỉnh-bạng - % 7p, có lễ là trang-ấp được",
+      "Thuận phong (4), dựng Đường-chân trang ất đế jê: tiếp tục theo đuổi ham thích của nhành",
+      "là tham cửu đạo phàt",
+      "nhâu vật nòi tiếng: cuối: đời Lý và là học trò của Thiền sư Tức Lự 4. lý",
+      "Nhưng ông tu Phật ma không hề xuất gia, không giữ dùng các, phép a tam quy D,",
+      "c ngũ giới n, và có phần chấc vẫn có gia đình-như ímọi vương-bầu. khác (?)",
+      "Bằng trí xét đoàn sắc sảo của minh, Trần Tung đã trở thành một nhà, Thiều Nam",
+      "đồ khư khu bảw viu vào những khái niệm có sau, biết chòa quang đông nghiệp",
+      "Trần vị (ý), Ông đirọc Thượng hoang Trần Thánh: Tổng rất kinh trọng: tôn-Lành",
+      "- sư huynh, và vua Trần Nhân Tông tòni làm thầy, mặc. dầu thất rà ông không trực"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

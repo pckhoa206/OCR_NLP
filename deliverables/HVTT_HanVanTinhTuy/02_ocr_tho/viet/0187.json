@@ -1,0 +1,403 @@
+{
+  "page_id": "0187",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 187,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0187_viet_000",
+      "bbox": [
+        [
+          197,
+          104
+        ],
+        [
+          535,
+          102
+        ],
+        [
+          535,
+          137
+        ],
+        [
+          198,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          225
+        ],
+        [
+          535,
+          223
+        ],
+        [
+          535,
+          258
+        ],
+        [
+          198,
+          260
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        102,
+        535,
+        139
+      ],
+      "text": "BỒ XÀ GIÁ THUYẾT",
+      "confidence": 0.8389
+    },
+    {
+      "line_id": "0187_viet_001",
+      "bbox": [
+        [
+          942,
+          107
+        ],
+        [
+          994,
+          107
+        ],
+        [
+          994,
+          141
+        ],
+        [
+          942,
+          141
+        ]
+      ],
+      "bbox_original": [
+        [
+          942,
+          228
+        ],
+        [
+          994,
+          228
+        ],
+        [
+          994,
+          262
+        ],
+        [
+          942,
+          262
+        ]
+      ],
+      "box_xyxy": [
+        942,
+        107,
+        994,
+        141
+      ],
+      "text": "181",
+      "confidence": 0.9303
+    },
+    {
+      "line_id": "0187_viet_002",
+      "bbox": [
+        [
+          368,
+          325
+        ],
+        [
+          771,
+          328
+        ],
+        [
+          771,
+          363
+        ],
+        [
+          368,
+          360
+        ]
+      ],
+      "bbox_original": [
+        [
+          368,
+          446
+        ],
+        [
+          771,
+          449
+        ],
+        [
+          771,
+          484
+        ],
+        [
+          368,
+          481
+        ]
+      ],
+      "box_xyxy": [
+        368,
+        325,
+        771,
+        363
+      ],
+      "text": "Hễ ai nộp được hai con",
+      "confidence": 0.9262
+    },
+    {
+      "line_id": "0187_viet_003",
+      "bbox": [
+        [
+          265,
+          529
+        ],
+        [
+          884,
+          532
+        ],
+        [
+          884,
+          566
+        ],
+        [
+          265,
+          562
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          650
+        ],
+        [
+          884,
+          653
+        ],
+        [
+          884,
+          687
+        ],
+        [
+          265,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        529,
+        884,
+        566
+      ],
+      "text": "Thuẽ thân sẽ miễn cho tròn một năm",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0187_viet_004",
+      "bbox": [
+        [
+          302,
+          735
+        ],
+        [
+          834,
+          737
+        ],
+        [
+          834,
+          772
+        ],
+        [
+          302,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          856
+        ],
+        [
+          834,
+          858
+        ],
+        [
+          834,
+          893
+        ],
+        [
+          302,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        735,
+        834,
+        772
+      ],
+      "text": "Dân từ đây cùng chăm bắt rắn,",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0187_viet_005",
+      "bbox": [
+        [
+          304,
+          936
+        ],
+        [
+          857,
+          936
+        ],
+        [
+          857,
+          969
+        ],
+        [
+          304,
+          969
+        ]
+      ],
+      "bbox_original": [
+        [
+          304,
+          1057
+        ],
+        [
+          857,
+          1057
+        ],
+        [
+          857,
+          1090
+        ],
+        [
+          304,
+          1090
+        ]
+      ],
+      "box_xyxy": [
+        304,
+        936,
+        857,
+        969
+      ],
+      "text": "Họ Tưởng đây chuyên đến ba đời",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0187_viet_006",
+      "bbox": [
+        [
+          372,
+          1133
+        ],
+        [
+          822,
+          1138
+        ],
+        [
+          822,
+          1177
+        ],
+        [
+          371,
+          1172
+        ]
+      ],
+      "bbox_original": [
+        [
+          372,
+          1254
+        ],
+        [
+          822,
+          1259
+        ],
+        [
+          822,
+          1298
+        ],
+        [
+          371,
+          1293
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1133,
+        822,
+        1177
+      ],
+      "text": "Ông, cha, rắn cắn chết rồi,",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0187_viet_007",
+      "bbox": [
+        [
+          270,
+          1339
+        ],
+        [
+          923,
+          1341
+        ],
+        [
+          923,
+          1381
+        ],
+        [
+          270,
+          1379
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          1460
+        ],
+        [
+          923,
+          1462
+        ],
+        [
+          923,
+          1502
+        ],
+        [
+          270,
+          1500
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        1339,
+        923,
+        1381
+      ],
+      "text": "Còn mình cũng suýt mạng toi mấy lần",
+      "confidence": 0.9175
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "page_id": "0396",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 396,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0396_viet_000",
+      "bbox": [
+        [
+          173,
+          83
+        ],
+        [
+          1422,
+          94
+        ],
+        [
+          1421,
+          139
+        ],
+        [
+          173,
+          128
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          238
+        ],
+        [
+          1422,
+          249
+        ],
+        [
+          1421,
+          294
+        ],
+        [
+          173,
+          283
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        83,
+        1422,
+        139
+      ],
+      "text": "(2) - Triệu Vũ Đế: (298 TCN ? J37 TCN), tức, Triệu Đà đỗ Tê",
+      "confidence": 0.8295
+    },
+    {
+      "line_id": "0396_viet_001",
+      "bbox": [
+        [
+          233,
+          133
+        ],
+        [
+          752,
+          133
+        ],
+        [
+          752,
+          163
+        ],
+        [
+          233,
+          163
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          288
+        ],
+        [
+          752,
+          288
+        ],
+        [
+          752,
+          318
+        ],
+        [
+          233,
+          318
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        133,
+        752,
+        163
+      ],
+      "text": "Hoàng luận, số 12/, của Lê Văn Hưu",
+      "confidence": 0.8739
+    },
+    {
+      "line_id": "0396_viet_002",
+      "bbox": [
+        [
+          171,
+          173
+        ],
+        [
+          1419,
+          184
+        ],
+        [
+          1419,
+          227
+        ],
+        [
+          171,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          328
+        ],
+        [
+          1419,
+          339
+        ],
+        [
+          1419,
+          382
+        ],
+        [
+          171,
+          371
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        173,
+        1419,
+        227
+      ],
+      "text": "(ở) ; Châu Liêm, Châu Khâm: hai - châu (phủ) của Trung quốc, đều thuộc, tỉnh Quảng-đồng",
+      "confidence": 0.8864
+    },
+    {
+      "line_id": "0396_viet_003",
+      "bbox": [
+        [
+          173,
+          223
+        ],
+        [
+          1121,
+          225
+        ],
+        [
+          1121,
+          274
+        ],
+        [
+          173,
+          272
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          378
+        ],
+        [
+          1121,
+          380
+        ],
+        [
+          1121,
+          429
+        ],
+        [
+          173,
+          427
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        223,
+        1121,
+        274
+      ],
+      "text": "(4) Trường-sư: tên huyện, thuộc tỉnh hồ-nam tận đã Trung-quốc",
+      "confidence": 0.8354
+    },
+    {
+      "line_id": "0396_viet_004",
+      "bbox": [
+        [
+          234,
+          349
+        ],
+        [
+          1417,
+          360
+        ],
+        [
+          1417,
+          403
+        ],
+        [
+          233,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          504
+        ],
+        [
+          1417,
+          515
+        ],
+        [
+          1417,
+          558
+        ],
+        [
+          233,
+          547
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        349,
+        1417,
+        403
+      ],
+      "text": "Bình-lỗ có lễ thuộc, đất, Thái-nguyên, Bri, ĐVSKTT Tập 2, đoán Bình-iô ở khoảng sông",
+      "confidence": 0.882
+    },
+    {
+      "line_id": "0396_viet_005",
+      "bbox": [
+        [
+          233,
+          424
+        ],
+        [
+          1415,
+          431
+        ],
+        [
+          1415,
+          473
+        ],
+        [
+          233,
+          467
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          579
+        ],
+        [
+          1415,
+          586
+        ],
+        [
+          1415,
+          628
+        ],
+        [
+          233,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        424,
+        1415,
+        473
+      ],
+      "text": "nguyệt và nhà Lý cũng đấp lùy ở, đẩy đề chặn quào Tổng, Nhưng theo nhiều nhà nghiên",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0396_viet_006",
+      "bbox": [
+        [
+          246,
+          469
+        ],
+        [
+          944,
+          467
+        ],
+        [
+          944,
+          497
+        ],
+        [
+          246,
+          499
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          624
+        ],
+        [
+          944,
+          622
+        ],
+        [
+          944,
+          652
+        ],
+        [
+          246,
+          654
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        467,
+        944,
+        499
+      ],
+      "text": "cứu gần đây thì Bình-lỗ hồi xưa chính là Phù-lỏ",
+      "confidence": 0.8715
+    },
+    {
+      "line_id": "0396_viet_007",
+      "bbox": [
+        [
+          1009,
+          471
+        ],
+        [
+          1406,
+          471
+        ],
+        [
+          1406,
+          501
+        ],
+        [
+          1009,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          1009,
+          626
+        ],
+        [
+          1406,
+          626
+        ],
+        [
+          1406,
+          656
+        ],
+        [
+          1009,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        1009,
+        471,
+        1406,
+        501
+      ],
+      "text": "1, thuộc huyện Kim anh",
+      "confidence": 0.8375
+    },
+    {
+      "line_id": "0396_viet_008",
+      "bbox": [
+        [
+          240,
+          497
+        ],
+        [
+          573,
+          501
+        ],
+        [
+          572,
+          538
+        ],
+        [
+          240,
+          533
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          652
+        ],
+        [
+          573,
+          656
+        ],
+        [
+          572,
+          693
+        ],
+        [
+          240,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        497,
+        573,
+        538
+      ],
+      "text": "Vĩnh phú ngày nay",
+      "confidence": 0.8711
+    },
+    {
+      "line_id": "0396_viet_009",
+      "bbox": [
+        [
+          175,
+          533
+        ],
+        [
+          1411,
+          538
+        ],
+        [
+          1411,
+          587
+        ],
+        [
+          175,
+          582
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          688
+        ],
+        [
+          1411,
+          693
+        ],
+        [
+          1411,
+          742
+        ],
+        [
+          175,
+          737
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        533,
+        1411,
+        587
+      ],
+      "text": "(G) - Mai lĩnh: tec đèo Đại-dù X lễ ? phía Nam: huyện Đại-dĩi X.53 tỉnh Giang-tây",
+      "confidence": 0.8224
+    },
+    {
+      "line_id": "0396_viet_010",
+      "bbox": [
+        [
+          229,
+          572
+        ],
+        [
+          1409,
+          574
+        ],
+        [
+          1408,
+          619
+        ],
+        [
+          229,
+          617
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          727
+        ],
+        [
+          1409,
+          729
+        ],
+        [
+          1408,
+          774
+        ],
+        [
+          229,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        572,
+        1409,
+        619
+      ],
+      "text": "11 - Hồi Quảng đong lần 3 - với Quảng-tây lề tĩ - Thật ra theo sử chép thi Lý",
+      "confidence": 0.8028
+    },
+    {
+      "line_id": "0396_viet_011",
+      "bbox": [
+        [
+          242,
+          617
+        ],
+        [
+          836,
+          617
+        ],
+        [
+          836,
+          647
+        ],
+        [
+          242,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          772
+        ],
+        [
+          836,
+          772
+        ],
+        [
+          836,
+          802
+        ],
+        [
+          242,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        617,
+        836,
+        647
+      ],
+      "text": "Thường Kiệt không tirng đánh đến mai-iĩnh.",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0396_viet_012",
+      "bbox": [
+        [
+          171,
+          664
+        ],
+        [
+          1406,
+          666
+        ],
+        [
+          1406,
+          705
+        ],
+        [
+          171,
+          702
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          819
+        ],
+        [
+          1406,
+          821
+        ],
+        [
+          1406,
+          860
+        ],
+        [
+          171,
+          857
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        664,
+        1406,
+        705
+      ],
+      "text": "(2) Toa Đó: tức X?gh?tu (Sogatu), một viên tướng Mông-cò, được Hốt Tất Liệt cử sang",
+      "confidence": 0.8792
+    },
+    {
+      "line_id": "0396_viet_013",
+      "bbox": [
+        [
+          229,
+          696
+        ],
+        [
+          1406,
+          700
+        ],
+        [
+          1406,
+          743
+        ],
+        [
+          229,
+          739
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          851
+        ],
+        [
+          1406,
+          855
+        ],
+        [
+          1406,
+          898
+        ],
+        [
+          229,
+          894
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        696,
+        1406,
+        743
+      ],
+      "text": "\"xâm lược Chiếm-thành từ sở, và Đại-việt, Trong cuộc kháng chiến lào thứ hai của",
+      "confidence": 0.8984
+    },
+    {
+      "line_id": "0396_viet_014",
+      "bbox": [
+        [
+          242,
+          743
+        ],
+        [
+          670,
+          743
+        ],
+        [
+          670,
+          773
+        ],
+        [
+          242,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          898
+        ],
+        [
+          670,
+          898
+        ],
+        [
+          670,
+          928
+        ],
+        [
+          242,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        743,
+        670,
+        773
+      ],
+      "text": "quân và dân ta, y hị chém chết.",
+      "confidence": 0.8833
+    },
+    {
+      "line_id": "0396_viet_015",
+      "bbox": [
+        [
+          175,
+          792
+        ],
+        [
+          248,
+          792
+        ],
+        [
+          248,
+          822
+        ],
+        [
+          175,
+          822
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          947
+        ],
+        [
+          248,
+          947
+        ],
+        [
+          248,
+          977
+        ],
+        [
+          175,
+          977
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        792,
+        248,
+        822
+      ],
+      "text": "(8)",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0396_viet_016",
+      "bbox": [
+        [
+          231,
+          784
+        ],
+        [
+          1404,
+          790
+        ],
+        [
+          1404,
+          833
+        ],
+        [
+          231,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          939
+        ],
+        [
+          1404,
+          945
+        ],
+        [
+          1404,
+          988
+        ],
+        [
+          231,
+          982
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        784,
+        1404,
+        833
+      ],
+      "text": "Ở Mã Nhí: tức Opa Batu (Oijar Đ-atu) một viên tưởng dưới trường Thoát Hown, tiếng",
+      "confidence": 0.8585
+    },
+    {
+      "line_id": "0396_viet_017",
+      "bbox": [
+        [
+          235,
+          829
+        ],
+        [
+          1225,
+          829
+        ],
+        [
+          1225,
+          865
+        ],
+        [
+          235,
+          865
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          984
+        ],
+        [
+          1225,
+          984
+        ],
+        [
+          1225,
+          1020
+        ],
+        [
+          235,
+          1020
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        829,
+        1225,
+        865
+      ],
+      "text": "rhai lần sang xâm lược Đại-việt, sau, bị quân dân ta bắt sống, và dìm chét,",
+      "confidence": 0.9048
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "(2) - Triệu Vũ Đế: (298 TCN ? J37 TCN), tức, Triệu Đà đỗ Tê",
+      "Hoàng luận, số 12/, của Lê Văn Hưu",
+      "(ở) ; Châu Liêm, Châu Khâm: hai - châu (phủ) của Trung quốc, đều thuộc, tỉnh Quảng-đồng",
+      "(4) Trường-sư: tên huyện, thuộc tỉnh hồ-nam tận đã Trung-quốc",
+      "Bình-lỗ có lễ thuộc, đất, Thái-nguyên, Bri, ĐVSKTT Tập 2, đoán Bình-iô ở khoảng sông",
+      "nguyệt và nhà Lý cũng đấp lùy ở, đẩy đề chặn quào Tổng, Nhưng theo nhiều nhà nghiên",
+      "cứu gần đây thì Bình-lỗ hồi xưa chính là Phù-lỏ",
+      "1, thuộc huyện Kim anh",
+      "Vĩnh phú ngày nay",
+      "(G) - Mai lĩnh: tec đèo Đại-dù X lễ ? phía Nam: huyện Đại-dĩi X.53 tỉnh Giang-tây",
+      "11 - Hồi Quảng đong lần 3 - với Quảng-tây lề tĩ - Thật ra theo sử chép thi Lý",
+      "Thường Kiệt không tirng đánh đến mai-iĩnh.",
+      "(2) Toa Đó: tức X?gh?tu (Sogatu), một viên tướng Mông-cò, được Hốt Tất Liệt cử sang",
+      "\"xâm lược Chiếm-thành từ sở, và Đại-việt, Trong cuộc kháng chiến lào thứ hai của",
+      "quân và dân ta, y hị chém chết.",
+      "(8)",
+      "Ở Mã Nhí: tức Opa Batu (Oijar Đ-atu) một viên tưởng dưới trường Thoát Hown, tiếng",
+      "rhai lần sang xâm lược Đại-việt, sau, bị quân dân ta bắt sống, và dìm chét,"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

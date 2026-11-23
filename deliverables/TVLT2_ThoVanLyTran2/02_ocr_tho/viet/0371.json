@@ -1,0 +1,1083 @@
+{
+  "page_id": "0371",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 371,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0371_viet_000",
+      "bbox": [
+        [
+          233,
+          120
+        ],
+        [
+          1404,
+          118
+        ],
+        [
+          1404,
+          156
+        ],
+        [
+          233,
+          159
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          275
+        ],
+        [
+          1404,
+          273
+        ],
+        [
+          1404,
+          311
+        ],
+        [
+          233,
+          314
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        118,
+        1404,
+        159
+      ],
+      "text": "Luận ngữ 7 đế thiên Tử Lộ 7 Hà: khi ông này hỏi: Nếu vua nước Vệ dùng",
+      "confidence": 0.8835
+    },
+    {
+      "line_id": "0371_viet_001",
+      "bbox": [
+        [
+          229,
+          186
+        ],
+        [
+          1389,
+          184
+        ],
+        [
+          1389,
+          229
+        ],
+        [
+          229,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          341
+        ],
+        [
+          1389,
+          339
+        ],
+        [
+          1389,
+          384
+        ],
+        [
+          229,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        184,
+        1389,
+        231
+      ],
+      "text": "13 THỊ THỊ THỊ THỊ THỊ THỊ THỊ THUẬN THỊ THU % 4",
+      "confidence": 0.3822
+    },
+    {
+      "line_id": "0371_viet_002",
+      "bbox": [
+        [
+          233,
+          266
+        ],
+        [
+          1406,
+          261
+        ],
+        [
+          1406,
+          304
+        ],
+        [
+          233,
+          308
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          421
+        ],
+        [
+          1406,
+          416
+        ],
+        [
+          1406,
+          459
+        ],
+        [
+          233,
+          463
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        261,
+        1406,
+        308
+      ],
+      "text": "ngôn bất thuận, ngôn bất thuận tắc sự bất, thành; sự bất thành tắc lễ nhạc bất hưng; lễ",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0371_viet_003",
+      "bbox": [
+        [
+          233,
+          338
+        ],
+        [
+          1402,
+          334
+        ],
+        [
+          1402,
+          377
+        ],
+        [
+          233,
+          381
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          493
+        ],
+        [
+          1402,
+          489
+        ],
+        [
+          1402,
+          532
+        ],
+        [
+          233,
+          536
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        334,
+        1402,
+        381
+      ],
+      "text": "Nghĩa Jà: Tên không đung thí lời không thuận, lời không thuận thì việc không thành;",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0371_viet_004",
+      "bbox": [
+        [
+          233,
+          377
+        ],
+        [
+          1398,
+          375
+        ],
+        [
+          1398,
+          411
+        ],
+        [
+          233,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          532
+        ],
+        [
+          1398,
+          530
+        ],
+        [
+          1398,
+          566
+        ],
+        [
+          233,
+          568
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        375,
+        1398,
+        413
+      ],
+      "text": "thuy việc không thành thị lễ nhậc không hưng khởi; lễ nhạc không hưng khởi thì hình phạt nhật",
+      "confidence": 0.8547
+    },
+    {
+      "line_id": "0371_viet_005",
+      "bbox": [
+        [
+          229,
+          416
+        ],
+        [
+          1281,
+          411
+        ],
+        [
+          1281,
+          448
+        ],
+        [
+          229,
+          452
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          571
+        ],
+        [
+          1281,
+          566
+        ],
+        [
+          1281,
+          603
+        ],
+        [
+          229,
+          607
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        411,
+        1281,
+        452
+      ],
+      "text": "không trúng; hình phạt không trúng thi dân không biết hành động thế nào.",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0371_viet_006",
+      "bbox": [
+        [
+          750,
+          694
+        ],
+        [
+          830,
+          694
+        ],
+        [
+          830,
+          735
+        ],
+        [
+          750,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          750,
+          849
+        ],
+        [
+          830,
+          849
+        ],
+        [
+          830,
+          890
+        ],
+        [
+          750,
+          890
+        ]
+      ],
+      "box_xyxy": [
+        750,
+        694,
+        830,
+        735
+      ],
+      "text": "131",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0371_viet_007",
+      "bbox": [
+        [
+          346,
+          921
+        ],
+        [
+          1396,
+          923
+        ],
+        [
+          1395,
+          981
+        ],
+        [
+          346,
+          979
+        ]
+      ],
+      "bbox_original": [
+        [
+          346,
+          1076
+        ],
+        [
+          1396,
+          1078
+        ],
+        [
+          1395,
+          1136
+        ],
+        [
+          346,
+          1134
+        ]
+      ],
+      "box_xyxy": [
+        346,
+        921,
+        1396,
+        981
+      ],
+      "text": "ĐẶNG 22.1940-7 HẠI TẾ KẾT HỢ H",
+      "confidence": 0.4762
+    },
+    {
+      "line_id": "0371_viet_008",
+      "bbox": [
+        [
+          240,
+          1079
+        ],
+        [
+          1396,
+          1092
+        ],
+        [
+          1395,
+          1144
+        ],
+        [
+          240,
+          1131
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1234
+        ],
+        [
+          1396,
+          1247
+        ],
+        [
+          1395,
+          1299
+        ],
+        [
+          240,
+          1286
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1079,
+        1396,
+        1144
+      ],
+      "text": "PHIẾN Z.4K VỊ 44 ĐẶC KIỆP TẾN H MẶT TẠI",
+      "confidence": 0.5246
+    },
+    {
+      "line_id": "0371_viet_009",
+      "bbox": [
+        [
+          244,
+          1133
+        ],
+        [
+          1407,
+          1142
+        ],
+        [
+          1406,
+          1193
+        ],
+        [
+          244,
+          1184
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1288
+        ],
+        [
+          1407,
+          1297
+        ],
+        [
+          1406,
+          1348
+        ],
+        [
+          244,
+          1339
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1133,
+        1407,
+        1193
+      ],
+      "text": "Ty.40 ĐÃ EPP LÊ VỀ ARE 147 (421?17-7 Án H2) H4",
+      "confidence": 0.5105
+    },
+    {
+      "line_id": "0371_viet_010",
+      "bbox": [
+        [
+          359,
+          1248
+        ],
+        [
+          1404,
+          1257
+        ],
+        [
+          1404,
+          1302
+        ],
+        [
+          358,
+          1293
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          1403
+        ],
+        [
+          1404,
+          1412
+        ],
+        [
+          1404,
+          1457
+        ],
+        [
+          358,
+          1448
+        ]
+      ],
+      "box_xyxy": [
+        358,
+        1248,
+        1404,
+        1302
+      ],
+      "text": "XÃ THỊ VỊ KO Z. MỸ ĐỀ THÀ THẾ TAT",
+      "confidence": 0.4909
+    },
+    {
+      "line_id": "0371_viet_011",
+      "bbox": [
+        [
+          248,
+          1311
+        ],
+        [
+          529,
+          1311
+        ],
+        [
+          529,
+          1356
+        ],
+        [
+          248,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1466
+        ],
+        [
+          529,
+          1466
+        ],
+        [
+          529,
+          1511
+        ],
+        [
+          248,
+          1511
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1311,
+        529,
+        1356
+      ],
+      "text": "TB Lý 1",
+      "confidence": 0.4409
+    },
+    {
+      "line_id": "0371_viet_012",
+      "bbox": [
+        [
+          188,
+          1450
+        ],
+        [
+          318,
+          1450
+        ],
+        [
+          318,
+          1473
+        ],
+        [
+          188,
+          1473
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1605
+        ],
+        [
+          318,
+          1605
+        ],
+        [
+          318,
+          1628
+        ],
+        [
+          188,
+          1628
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1450,
+        318,
+        1473
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.8526
+    },
+    {
+      "line_id": "0371_viet_013",
+      "bbox": [
+        [
+          620,
+          1489
+        ],
+        [
+          963,
+          1486
+        ],
+        [
+          964,
+          1523
+        ],
+        [
+          620,
+          1525
+        ]
+      ],
+      "bbox_original": [
+        [
+          620,
+          1644
+        ],
+        [
+          963,
+          1641
+        ],
+        [
+          964,
+          1678
+        ],
+        [
+          620,
+          1680
+        ]
+      ],
+      "box_xyxy": [
+        620,
+        1486,
+        964,
+        1525
+      ],
+      "text": "GIA TÔN HIỆU LUẬN",
+      "confidence": 0.9364
+    },
+    {
+      "line_id": "0371_viet_014",
+      "bbox": [
+        [
+          268,
+          1566
+        ],
+        [
+          1406,
+          1563
+        ],
+        [
+          1406,
+          1606
+        ],
+        [
+          268,
+          1608
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1721
+        ],
+        [
+          1406,
+          1718
+        ],
+        [
+          1406,
+          1761
+        ],
+        [
+          268,
+          1763
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1563,
+        1406,
+        1608
+      ],
+      "text": "Để Nghiêu, Để Thuấn, Văn Vương, Vũ Vương giai dĩ nhất lự vi hiệu,",
+      "confidence": 0.9139
+    },
+    {
+      "line_id": "0371_viet_015",
+      "bbox": [
+        [
+          177,
+          1615
+        ],
+        [
+          752,
+          1613
+        ],
+        [
+          752,
+          1649
+        ],
+        [
+          177,
+          1651
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1770
+        ],
+        [
+          752,
+          1768
+        ],
+        [
+          752,
+          1804
+        ],
+        [
+          177,
+          1806
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1613,
+        752,
+        1651
+      ],
+      "text": "vị thường hữu tăng kỳ tôn hiệu dã",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0371_viet_016",
+      "bbox": [
+        [
+          255,
+          1664
+        ],
+        [
+          1406,
+          1658
+        ],
+        [
+          1406,
+          1700
+        ],
+        [
+          255,
+          1707
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1819
+        ],
+        [
+          1406,
+          1813
+        ],
+        [
+          1406,
+          1855
+        ],
+        [
+          255,
+          1862
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1658,
+        1406,
+        1707
+      ],
+      "text": "Hậu thế đế vương hiếu vi khoa đại, nãi hữu lũy chỉ số thập dư tự giả",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0371_viet_017",
+      "bbox": [
+        [
+          171,
+          1707
+        ],
+        [
+          1406,
+          1703
+        ],
+        [
+          1406,
+          1745
+        ],
+        [
+          171,
+          1750
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          1862
+        ],
+        [
+          1406,
+          1858
+        ],
+        [
+          1406,
+          1900
+        ],
+        [
+          171,
+          1905
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        1703,
+        1406,
+        1750
+      ],
+      "text": "Nhiên dĩ công đức xưng chi, vì hữu dĩ vật kiện cập Man Dị liên xuyết ư kỳ gian",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0371_viet_018",
+      "bbox": [
+        [
+          168,
+          1750
+        ],
+        [
+          1408,
+          1741
+        ],
+        [
+          1409,
+          1790
+        ],
+        [
+          169,
+          1799
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1905
+        ],
+        [
+          1408,
+          1896
+        ],
+        [
+          1409,
+          1945
+        ],
+        [
+          169,
+          1954
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1741,
+        1409,
+        1799
+      ],
+      "text": "giả dã: Thải Tông nãi nạp quân thần sở thượng á Kim dũng ngân sinh, Nùng",
+      "confidence": 0.8929
+    },
+    {
+      "line_id": "0371_viet_019",
+      "bbox": [
+        [
+          166,
+          1793
+        ],
+        [
+          1335,
+          1788
+        ],
+        [
+          1335,
+          1831
+        ],
+        [
+          166,
+          1835
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1948
+        ],
+        [
+          1335,
+          1943
+        ],
+        [
+          1335,
+          1986
+        ],
+        [
+          166,
+          1990
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1788,
+        1335,
+        1835
+      ],
+      "text": "binh Phiên phục x bát tự vi hiệu, tắc ir khoa đại trung hựu thất ư thô hỹ.",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0371_viet_020",
+      "bbox": [
+        [
+          268,
+          1844
+        ],
+        [
+          1404,
+          1840
+        ],
+        [
+          1404,
+          1885
+        ],
+        [
+          268,
+          1889
+        ]
+      ],
+      "bbox_original": [
+        [
+          268,
+          1999
+        ],
+        [
+          1404,
+          1995
+        ],
+        [
+          1404,
+          2040
+        ],
+        [
+          268,
+          2044
+        ]
+      ],
+      "box_xyxy": [
+        268,
+        1840,
+        1404,
+        1889
+      ],
+      "text": "Thái Tông bất học, vô dị trì chi, nhi nho thàn tiến, thử, dị du mị kỳ thế nhất",
+      "confidence": 0.8198
+    },
+    {
+      "line_id": "0371_viet_021",
+      "bbox": [
+        [
+          184,
+          1898
+        ],
+        [
+          592,
+          1898
+        ],
+        [
+          592,
+          1928
+        ],
+        [
+          184,
+          1928
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          2053
+        ],
+        [
+          592,
+          2053
+        ],
+        [
+          592,
+          2083
+        ],
+        [
+          184,
+          2083
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1898,
+        592,
+        1928
+      ],
+      "text": "quân, bắt khá vi vô tội dã",
+      "confidence": 0.8881
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "Luận ngữ 7 đế thiên Tử Lộ 7 Hà: khi ông này hỏi: Nếu vua nước Vệ dùng",
+      "13 THỊ THỊ THỊ THỊ THỊ THỊ THỊ THUẬN THỊ THU % 4",
+      "ngôn bất thuận, ngôn bất thuận tắc sự bất, thành; sự bất thành tắc lễ nhạc bất hưng; lễ",
+      "Nghĩa Jà: Tên không đung thí lời không thuận, lời không thuận thì việc không thành;",
+      "thuy việc không thành thị lễ nhậc không hưng khởi; lễ nhạc không hưng khởi thì hình phạt nhật",
+      "không trúng; hình phạt không trúng thi dân không biết hành động thế nào.",
+      "131",
+      "ĐẶNG 22.1940-7 HẠI TẾ KẾT HỢ H",
+      "PHIẾN Z.4K VỊ 44 ĐẶC KIỆP TẾN H MẶT TẠI",
+      "Ty.40 ĐÃ EPP LÊ VỀ ARE 147 (421?17-7 Án H2) H4",
+      "XÃ THỊ VỊ KO Z. MỸ ĐỀ THÀ THẾ TAT",
+      "TB Lý 1",
+      "GIA TÔN HIỆU LUẬN",
+      "Để Nghiêu, Để Thuấn, Văn Vương, Vũ Vương giai dĩ nhất lự vi hiệu,",
+      "vị thường hữu tăng kỳ tôn hiệu dã",
+      "Hậu thế đế vương hiếu vi khoa đại, nãi hữu lũy chỉ số thập dư tự giả",
+      "Nhiên dĩ công đức xưng chi, vì hữu dĩ vật kiện cập Man Dị liên xuyết ư kỳ gian",
+      "giả dã: Thải Tông nãi nạp quân thần sở thượng á Kim dũng ngân sinh, Nùng",
+      "binh Phiên phục x bát tự vi hiệu, tắc ir khoa đại trung hựu thất ư thô hỹ.",
+      "Thái Tông bất học, vô dị trì chi, nhi nho thàn tiến, thử, dị du mị kỳ thế nhất",
+      "quân, bắt khá vi vô tội dã"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

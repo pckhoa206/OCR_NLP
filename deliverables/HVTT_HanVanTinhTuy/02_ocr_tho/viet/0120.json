@@ -1,0 +1,1320 @@
+{
+  "page_id": "0120",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 120,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0120_viet_000",
+      "bbox": [
+        [
+          192,
+          28
+        ],
+        [
+          243,
+          28
+        ],
+        [
+          243,
+          62
+        ],
+        [
+          192,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          149
+        ],
+        [
+          243,
+          149
+        ],
+        [
+          243,
+          183
+        ],
+        [
+          192,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        28,
+        243,
+        62
+      ],
+      "text": "114",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0120_viet_001",
+      "bbox": [
+        [
+          665,
+          28
+        ],
+        [
+          989,
+          32
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          665,
+          57
+        ]
+      ],
+      "bbox_original": [
+        [
+          665,
+          149
+        ],
+        [
+          989,
+          153
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          665,
+          178
+        ]
+      ],
+      "box_xyxy": [
+        665,
+        28,
+        989,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.8851
+    },
+    {
+      "line_id": "0120_viet_002",
+      "bbox": [
+        [
+          250,
+          132
+        ],
+        [
+          979,
+          132
+        ],
+        [
+          979,
+          171
+        ],
+        [
+          250,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          253
+        ],
+        [
+          979,
+          253
+        ],
+        [
+          979,
+          292
+        ],
+        [
+          250,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        132,
+        979,
+        171
+      ],
+      "text": "6 NAPRAIZER",
+      "confidence": 0.5939
+    },
+    {
+      "line_id": "0120_viet_003",
+      "bbox": [
+        [
+          224,
+          182
+        ],
+        [
+          977,
+          184
+        ],
+        [
+          977,
+          219
+        ],
+        [
+          224,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          303
+        ],
+        [
+          977,
+          305
+        ],
+        [
+          977,
+          340
+        ],
+        [
+          224,
+          339
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        182,
+        977,
+        219
+      ],
+      "text": "Cùng thể miện ư trung thiên, cực ngu du ư hạ nhận",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0120_viet_004",
+      "bbox": [
+        [
+          221,
+          224
+        ],
+        [
+          926,
+          224
+        ],
+        [
+          926,
+          263
+        ],
+        [
+          221,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          345
+        ],
+        [
+          926,
+          345
+        ],
+        [
+          926,
+          384
+        ],
+        [
+          221,
+          384
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        224,
+        926,
+        263
+      ],
+      "text": "Ngắm khắp khoảng trời, vui hết ngày nhàn rỗi",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0120_viet_005",
+      "bbox": [
+        [
+          220,
+          338
+        ],
+        [
+          894,
+          343
+        ],
+        [
+          894,
+          383
+        ],
+        [
+          219,
+          378
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          459
+        ],
+        [
+          894,
+          464
+        ],
+        [
+          894,
+          504
+        ],
+        [
+          219,
+          499
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        338,
+        894,
+        383
+      ],
+      "text": "Thiên cao địa quýnh, giác vũ-trụ chi vô cùng",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0120_viet_006",
+      "bbox": [
+        [
+          220,
+          381
+        ],
+        [
+          871,
+          390
+        ],
+        [
+          870,
+          430
+        ],
+        [
+          219,
+          422
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          502
+        ],
+        [
+          871,
+          511
+        ],
+        [
+          870,
+          551
+        ],
+        [
+          219,
+          543
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        381,
+        871,
+        430
+      ],
+      "text": "Trời cao, đầt xit, biết vũ-trụ rộng vô cùng;",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0120_viet_007",
+      "bbox": [
+        [
+          221,
+          504
+        ],
+        [
+          869,
+          507
+        ],
+        [
+          869,
+          546
+        ],
+        [
+          221,
+          542
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          625
+        ],
+        [
+          869,
+          628
+        ],
+        [
+          869,
+          667
+        ],
+        [
+          221,
+          663
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        504,
+        869,
+        546
+      ],
+      "text": "Hứng tận bi lai, thức doanh-hư chi hữu sô.",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0120_viet_008",
+      "bbox": [
+        [
+          218,
+          551
+        ],
+        [
+          810,
+          554
+        ],
+        [
+          810,
+          588
+        ],
+        [
+          218,
+          584
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          672
+        ],
+        [
+          810,
+          675
+        ],
+        [
+          810,
+          709
+        ],
+        [
+          218,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        551,
+        810,
+        588
+      ],
+      "text": "hứng hết, buồn về, hiểu đầy vơi là có sồ.",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0120_viet_009",
+      "bbox": [
+        [
+          241,
+          616
+        ],
+        [
+          979,
+          618
+        ],
+        [
+          979,
+          658
+        ],
+        [
+          241,
+          656
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          737
+        ],
+        [
+          979,
+          739
+        ],
+        [
+          979,
+          779
+        ],
+        [
+          241,
+          777
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        616,
+        979,
+        658
+      ],
+      "text": "247HETHGSK5",
+      "confidence": 0.4506
+    },
+    {
+      "line_id": "0120_viet_010",
+      "bbox": [
+        [
+          221,
+          673
+        ],
+        [
+          982,
+          675
+        ],
+        [
+          982,
+          710
+        ],
+        [
+          221,
+          708
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          794
+        ],
+        [
+          982,
+          796
+        ],
+        [
+          982,
+          831
+        ],
+        [
+          221,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        673,
+        982,
+        710
+      ],
+      "text": "Vọng Trường-an ư nhật hạ, Chỉ Ngô hội ư vân gian",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0120_viet_011",
+      "bbox": [
+        [
+          218,
+          716
+        ],
+        [
+          704,
+          718
+        ],
+        [
+          704,
+          753
+        ],
+        [
+          218,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          837
+        ],
+        [
+          704,
+          839
+        ],
+        [
+          704,
+          874
+        ],
+        [
+          218,
+          873
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        716,
+        704,
+        753
+      ],
+      "text": "Trông Trường-an dưới mặt trời;",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0120_viet_012",
+      "bbox": [
+        [
+          216,
+          760
+        ],
+        [
+          677,
+          762
+        ],
+        [
+          677,
+          802
+        ],
+        [
+          216,
+          800
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          881
+        ],
+        [
+          677,
+          883
+        ],
+        [
+          677,
+          923
+        ],
+        [
+          216,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        760,
+        677,
+        802
+      ],
+      "text": "trỏ ngô-hội trong khoảng mây",
+      "confidence": 0.9229
+    },
+    {
+      "line_id": "0120_viet_013",
+      "bbox": [
+        [
+          238,
+          824
+        ],
+        [
+          702,
+          824
+        ],
+        [
+          702,
+          869
+        ],
+        [
+          238,
+          869
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          945
+        ],
+        [
+          702,
+          945
+        ],
+        [
+          702,
+          990
+        ],
+        [
+          238,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        824,
+        702,
+        869
+      ],
+      "text": "0311010100132",
+      "confidence": 0.2528
+    },
+    {
+      "line_id": "0120_viet_014",
+      "bbox": [
+        [
+          219,
+          882
+        ],
+        [
+          685,
+          882
+        ],
+        [
+          685,
+          911
+        ],
+        [
+          219,
+          911
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1003
+        ],
+        [
+          685,
+          1003
+        ],
+        [
+          685,
+          1032
+        ],
+        [
+          219,
+          1032
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        882,
+        685,
+        911
+      ],
+      "text": "Đia thê cục nhi nam-minh thám",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0120_viet_015",
+      "bbox": [
+        [
+          216,
+          922
+        ],
+        [
+          800,
+          926
+        ],
+        [
+          800,
+          961
+        ],
+        [
+          216,
+          957
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1043
+        ],
+        [
+          800,
+          1047
+        ],
+        [
+          800,
+          1082
+        ],
+        [
+          216,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        922,
+        800,
+        961
+      ],
+      "text": "Thê đất tận cùng, biển nam sâu thằm",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0120_viet_016",
+      "bbox": [
+        [
+          240,
+          993
+        ],
+        [
+          695,
+          993
+        ],
+        [
+          695,
+          1031
+        ],
+        [
+          240,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1114
+        ],
+        [
+          695,
+          1114
+        ],
+        [
+          695,
+          1152
+        ],
+        [
+          240,
+          1152
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        993,
+        695,
+        1031
+      ],
+      "text": "Rê Học Thánh",
+      "confidence": 0.4831
+    },
+    {
+      "line_id": "0120_viet_017",
+      "bbox": [
+        [
+          216,
+          1041
+        ],
+        [
+          682,
+          1043
+        ],
+        [
+          682,
+          1078
+        ],
+        [
+          216,
+          1076
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1162
+        ],
+        [
+          682,
+          1164
+        ],
+        [
+          682,
+          1199
+        ],
+        [
+          216,
+          1197
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1041,
+        682,
+        1078
+      ],
+      "text": "Thiên trụ cao nhi bắc-thân viễn",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0120_viet_018",
+      "bbox": [
+        [
+          214,
+          1088
+        ],
+        [
+          678,
+          1090
+        ],
+        [
+          678,
+          1125
+        ],
+        [
+          214,
+          1123
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1209
+        ],
+        [
+          678,
+          1211
+        ],
+        [
+          678,
+          1246
+        ],
+        [
+          214,
+          1244
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1088,
+        678,
+        1125
+      ],
+      "text": "cột trời cao ngầt, sao bắc xa-xôi.",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0120_viet_019",
+      "bbox": [
+        [
+          238,
+          1152
+        ],
+        [
+          910,
+          1157
+        ],
+        [
+          909,
+          1197
+        ],
+        [
+          238,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1273
+        ],
+        [
+          910,
+          1278
+        ],
+        [
+          909,
+          1318
+        ],
+        [
+          238,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1152,
+        910,
+        1197
+      ],
+      "text": "M Ham Kill Kk.L",
+      "confidence": 0.2941
+    },
+    {
+      "line_id": "0120_viet_020",
+      "bbox": [
+        [
+          218,
+          1209
+        ],
+        [
+          878,
+          1209
+        ],
+        [
+          878,
+          1242
+        ],
+        [
+          218,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1330
+        ],
+        [
+          878,
+          1330
+        ],
+        [
+          878,
+          1363
+        ],
+        [
+          218,
+          1363
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        1209,
+        878,
+        1242
+      ],
+      "text": "Quan san nan việt, thùy bì thất-lộ chỉ nhân",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0120_viet_021",
+      "bbox": [
+        [
+          213,
+          1250
+        ],
+        [
+          948,
+          1254
+        ],
+        [
+          948,
+          1292
+        ],
+        [
+          213,
+          1289
+        ]
+      ],
+      "bbox_original": [
+        [
+          213,
+          1371
+        ],
+        [
+          948,
+          1375
+        ],
+        [
+          948,
+          1413
+        ],
+        [
+          213,
+          1410
+        ]
+      ],
+      "box_xyxy": [
+        213,
+        1250,
+        948,
+        1292
+      ],
+      "text": "Quan san khó vượt, nào ai thường người lạc lồi;",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0120_viet_022",
+      "bbox": [
+        [
+          236,
+          1317
+        ],
+        [
+          910,
+          1319
+        ],
+        [
+          909,
+          1359
+        ],
+        [
+          236,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1438
+        ],
+        [
+          910,
+          1440
+        ],
+        [
+          909,
+          1480
+        ],
+        [
+          236,
+          1479
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1317,
+        910,
+        1359
+      ],
+      "text": "XXXXXX 2 (2 (2 (2 -2",
+      "confidence": 0.382
+    },
+    {
+      "line_id": "0120_viet_023",
+      "bbox": [
+        [
+          216,
+          1371
+        ],
+        [
+          979,
+          1373
+        ],
+        [
+          979,
+          1408
+        ],
+        [
+          216,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1492
+        ],
+        [
+          979,
+          1494
+        ],
+        [
+          979,
+          1529
+        ],
+        [
+          216,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1371,
+        979,
+        1408
+      ],
+      "text": "Bình thủy tương phùng, tận thị tha-hương chi khách",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0120_viet_024",
+      "bbox": [
+        [
+          208,
+          1409
+        ],
+        [
+          933,
+          1416
+        ],
+        [
+          933,
+          1462
+        ],
+        [
+          207,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1530
+        ],
+        [
+          933,
+          1537
+        ],
+        [
+          933,
+          1583
+        ],
+        [
+          207,
+          1576
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1409,
+        933,
+        1462
+      ],
+      "text": "bèo nước gặp nhau, hết thảy là khách tha-hương.",
+      "confidence": 0.9172
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "114",
+      "6 NAPRAIZER",
+      "Ngắm khắp khoảng trời, vui hết ngày nhàn rỗi",
+      "Trời cao, đầt xit, biết vũ-trụ rộng vô cùng;",
+      "hứng hết, buồn về, hiểu đầy vơi là có sồ.",
+      "Vọng Trường-an ư nhật hạ, Chỉ Ngô hội ư vân gian",
+      "trỏ ngô-hội trong khoảng mây",
+      "Đia thê cục nhi nam-minh thám",
+      "Rê Học Thánh",
+      "cột trời cao ngầt, sao bắc xa-xôi.",
+      "Quan san nan việt, thùy bì thất-lộ chỉ nhân",
+      "XXXXXX 2 (2 (2 (2 -2",
+      "bèo nước gặp nhau, hết thảy là khách tha-hương."
+    ],
+    "dich_nghia_lines": [
+      "HÁN-VĂN TINH-TUÝ",
+      "Cùng thể miện ư trung thiên, cực ngu du ư hạ nhận",
+      "Thiên cao địa quýnh, giác vũ-trụ chi vô cùng",
+      "Hứng tận bi lai, thức doanh-hư chi hữu sô.",
+      "247HETHGSK5",
+      "Trông Trường-an dưới mặt trời;",
+      "0311010100132",
+      "Thê đất tận cùng, biển nam sâu thằm",
+      "Thiên trụ cao nhi bắc-thân viễn",
+      "M Ham Kill Kk.L",
+      "Quan san khó vượt, nào ai thường người lạc lồi;",
+      "Bình thủy tương phùng, tận thị tha-hương chi khách"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "窮聯騎扮中天極娛送扮波日",
+        "phien_am": "114",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "du 址 ha nha!",
+        "phien_am": "6 NAPRAIZER",
+        "dich_nghia_gloss": "Cùng thể miện ư trung thiên, cực ngu du ư hạ nhận"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "高地迫覺宇宙之無窮",
+        "phien_am": "Ngắm khắp khoảng trời, vui hết ngày nhàn rỗi",
+        "dich_nghia_gloss": "Thiên cao địa quýnh, giác vũ-trụ chi vô cùng"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "攝t",
+        "phien_am": "Trời cao, đầt xit, biết vũ-trụ rộng vô cùng;",
+        "dich_nghia_gloss": "Hứng tận bi lai, thức doanh-hư chi hữu sô."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "興畫興悲來識盈虛之有數",
+        "phien_am": "hứng hết, buồn về, hiểu đầy vơi là có sồ.",
+        "dich_nghia_gloss": "247HETHGSK5"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "望",
+        "phien_am": "Vọng Trường-an ư nhật hạ, Chỉ Ngô hội ư vân gian",
+        "dich_nghia_gloss": "Trông Trường-an dưới mặt trời;"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "長安分日下指吳會扮雲間",
+        "phien_am": "trỏ ngô-hội trong khoảng mây",
+        "dich_nghia_gloss": "0311010100132"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "加a, Chi",
+        "phien_am": "Đia thê cục nhi nam-minh thám",
+        "dich_nghia_gloss": "Thê đất tận cùng, biển nam sâu thằm"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "地墊板而南淇",
+        "phien_am": "Rê Học Thánh",
+        "dich_nghia_gloss": "Thiên trụ cao nhi bắc-thân viễn"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "深",
+        "phien_am": "cột trời cao ngầt, sao bắc xa-xôi.",
+        "dich_nghia_gloss": "M Ham Kill Kk.L"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "天柱高",
+        "phien_am": "Quan san nan việt, thùy bì thất-lộ chỉ nhân",
+        "dich_nghia_gloss": "Quan san khó vượt, nào ai thường người lạc lồi;"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "而北龍辰遠",
+        "phien_am": "XXXXXX 2 (2 (2 (2 -2",
+        "dich_nghia_gloss": "Bình thủy tương phùng, tận thị tha-hương chi khách"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "關山難越誰悲失路之嵙人",
+        "phien_am": "bèo nước gặp nhau, hết thảy là khách tha-hương.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "萍水龍相龍達盡",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "讚是讚他鄉之客",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

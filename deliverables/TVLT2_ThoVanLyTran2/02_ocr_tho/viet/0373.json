@@ -1,0 +1,2139 @@
+{
+  "page_id": "0373",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 373,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0373_viet_000",
+      "bbox": [
+        [
+          179,
+          88
+        ],
+        [
+          345,
+          83
+        ],
+        [
+          346,
+          120
+        ],
+        [
+          180,
+          125
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          243
+        ],
+        [
+          345,
+          238
+        ],
+        [
+          346,
+          275
+        ],
+        [
+          180,
+          280
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        83,
+        346,
+        125
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0373_viet_001",
+      "bbox": [
+        [
+          449,
+          120
+        ],
+        [
+          1141,
+          120
+        ],
+        [
+          1141,
+          156
+        ],
+        [
+          449,
+          156
+        ]
+      ],
+      "bbox_original": [
+        [
+          449,
+          275
+        ],
+        [
+          1141,
+          275
+        ],
+        [
+          1141,
+          311
+        ],
+        [
+          449,
+          311
+        ]
+      ],
+      "box_xyxy": [
+        449,
+        120,
+        1141,
+        156
+      ],
+      "text": "NỊCH TIỂU NHÂN NHI VONG ĐẠI SỰ LUẬN THỊ",
+      "confidence": 0.8638
+    },
+    {
+      "line_id": "0373_viet_002",
+      "bbox": [
+        [
+          266,
+          184
+        ],
+        [
+          1406,
+          189
+        ],
+        [
+          1406,
+          225
+        ],
+        [
+          266,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          266,
+          339
+        ],
+        [
+          1406,
+          344
+        ],
+        [
+          1406,
+          380
+        ],
+        [
+          266,
+          376
+        ]
+      ],
+      "box_xyxy": [
+        266,
+        184,
+        1406,
+        225
+      ],
+      "text": "Tiền niêu Nùng Tồn Phúc chi bạn nghịch, tiếm biệu, khai quốc, trí quan",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0373_viet_003",
+      "bbox": [
+        [
+          184,
+          227
+        ],
+        [
+          1404,
+          227
+        ],
+        [
+          1404,
+          263
+        ],
+        [
+          184,
+          263
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          382
+        ],
+        [
+          1404,
+          382
+        ],
+        [
+          1404,
+          418
+        ],
+        [
+          184,
+          418
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        227,
+        1404,
+        263
+      ],
+      "text": "Thuộc; Thái Tông kỷ tội Tồn Phúc nhi di kỳ tử Trí Cao. Kim Trí Cao phục đạo thuận",
+      "confidence": 0.8407
+    },
+    {
+      "line_id": "0373_viet_004",
+      "bbox": [
+        [
+          175,
+          263
+        ],
+        [
+          1409,
+          263
+        ],
+        [
+          1409,
+          306
+        ],
+        [
+          175,
+          306
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          418
+        ],
+        [
+          1409,
+          418
+        ],
+        [
+          1409,
+          461
+        ],
+        [
+          175,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        263,
+        1409,
+        306
+      ],
+      "text": "\"kỳ phụ chi bất quỹ, tắc kỳ tội đại hỹ, tru chỉ khả dã; đoạt kỳ tước ấp, giáng",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0373_viet_005",
+      "bbox": [
+        [
+          177,
+          306
+        ],
+        [
+          1404,
+          306
+        ],
+        [
+          1404,
+          343
+        ],
+        [
+          177,
+          343
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          461
+        ],
+        [
+          1404,
+          461
+        ],
+        [
+          1404,
+          498
+        ],
+        [
+          177,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        306,
+        1404,
+        343
+      ],
+      "text": "Thuận vì thứ: nhân diệc khả dã. Thải Tông kỷ xá kỳ tội, hựu dĩ châu quậu phu ích chỉ,",
+      "confidence": 0.8582
+    },
+    {
+      "line_id": "0373_viet_006",
+      "bbox": [
+        [
+          175,
+          340
+        ],
+        [
+          1409,
+          343
+        ],
+        [
+          1408,
+          386
+        ],
+        [
+          175,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          495
+        ],
+        [
+          1409,
+          498
+        ],
+        [
+          1408,
+          541
+        ],
+        [
+          175,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        340,
+        1409,
+        386
+      ],
+      "text": "từ ấn phong vi Thái bảo, tắc tưởng phạt vô chương. Cập kỳ vi: Quảng-nguyên",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0373_viet_007",
+      "bbox": [
+        [
+          179,
+          383
+        ],
+        [
+          1406,
+          383
+        ],
+        [
+          1406,
+          420
+        ],
+        [
+          179,
+          420
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          538
+        ],
+        [
+          1406,
+          538
+        ],
+        [
+          1406,
+          575
+        ],
+        [
+          179,
+          575
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        383,
+        1406,
+        420
+      ],
+      "text": "xã chi hoạn, nải xuất bịnh dĩ viện làn vi từ, hà dĩ dị phóng hồ hủy, sử chi phệ thế",
+      "confidence": 0.8681
+    },
+    {
+      "line_id": "0373_viet_008",
+      "bbox": [
+        [
+          179,
+          424
+        ],
+        [
+          579,
+          420
+        ],
+        [
+          579,
+          456
+        ],
+        [
+          180,
+          461
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          579
+        ],
+        [
+          579,
+          575
+        ],
+        [
+          579,
+          611
+        ],
+        [
+          180,
+          616
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        420,
+        579,
+        461
+      ],
+      "text": "nhân nhi từ cứu chi tai l",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0373_viet_009",
+      "bbox": [
+        [
+          277,
+          473
+        ],
+        [
+          1344,
+          473
+        ],
+        [
+          1344,
+          510
+        ],
+        [
+          277,
+          510
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          628
+        ],
+        [
+          1344,
+          628
+        ],
+        [
+          1344,
+          665
+        ],
+        [
+          277,
+          665
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        473,
+        1344,
+        510
+      ],
+      "text": "Cái nịch Phật thị chi tiểu nhân nhi vong kỳ quốc chỉ đại nghĩa dã.",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0373_viet_010",
+      "bbox": [
+        [
+          843,
+          525
+        ],
+        [
+          875,
+          525
+        ],
+        [
+          875,
+          540
+        ],
+        [
+          843,
+          540
+        ]
+      ],
+      "bbox_original": [
+        [
+          843,
+          680
+        ],
+        [
+          875,
+          680
+        ],
+        [
+          875,
+          695
+        ],
+        [
+          843,
+          695
+        ]
+      ],
+      "box_xyxy": [
+        843,
+        525,
+        875,
+        540
+      ],
+      "text": "332",
+      "confidence": 0.2763
+    },
+    {
+      "line_id": "0373_viet_011",
+      "bbox": [
+        [
+          170,
+          551
+        ],
+        [
+          382,
+          544
+        ],
+        [
+          383,
+          574
+        ],
+        [
+          171,
+          581
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          706
+        ],
+        [
+          382,
+          699
+        ],
+        [
+          383,
+          729
+        ],
+        [
+          171,
+          736
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        544,
+        383,
+        581
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8786
+    },
+    {
+      "line_id": "0373_viet_012",
+      "bbox": [
+        [
+          305,
+          582
+        ],
+        [
+          1283,
+          585
+        ],
+        [
+          1283,
+          630
+        ],
+        [
+          305,
+          627
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          737
+        ],
+        [
+          1283,
+          740
+        ],
+        [
+          1283,
+          785
+        ],
+        [
+          305,
+          782
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        582,
+        1283,
+        630
+      ],
+      "text": "BÀN VỀ VIỆC HÀM ĐIỀU NHÂN NHỎ MÀ QUÊN VIỆC LỚN(1)",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0373_viet_013",
+      "bbox": [
+        [
+          277,
+          655
+        ],
+        [
+          1406,
+          655
+        ],
+        [
+          1406,
+          692
+        ],
+        [
+          277,
+          692
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          810
+        ],
+        [
+          1406,
+          810
+        ],
+        [
+          1406,
+          847
+        ],
+        [
+          277,
+          847
+        ]
+      ],
+      "box_xyxy": [
+        277,
+        655,
+        1406,
+        692
+      ],
+      "text": "Xã Năm trước Nùng Tồn Phúc phản nghịch, tiếm hiệu, mở nước, sắp đặt nhà nhiều",
+      "confidence": 0.8457
+    },
+    {
+      "line_id": "0373_viet_014",
+      "bbox": [
+        [
+          179,
+          694
+        ],
+        [
+          1408,
+          687
+        ],
+        [
+          1409,
+          732
+        ],
+        [
+          179,
+          739
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          849
+        ],
+        [
+          1408,
+          842
+        ],
+        [
+          1409,
+          887
+        ],
+        [
+          179,
+          894
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        687,
+        1409,
+        739
+      ],
+      "text": "quan thuộc; Thái Tòng đã bắt tội Tồn Phúc, nhưng đề lại con là Trí Cao (7).",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0373_viet_015",
+      "bbox": [
+        [
+          179,
+          735
+        ],
+        [
+          1408,
+          732
+        ],
+        [
+          1409,
+          771
+        ],
+        [
+          179,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          890
+        ],
+        [
+          1408,
+          887
+        ],
+        [
+          1409,
+          926
+        ],
+        [
+          179,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        732,
+        1409,
+        773
+      ],
+      "text": "Nay Trỉ Cao lại noi theo việc trải phép của cha thì tội to lầm, giết đi là phải;",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0373_viet_016",
+      "bbox": [
+        [
+          179,
+          775
+        ],
+        [
+          1406,
+          771
+        ],
+        [
+          1406,
+          807
+        ],
+        [
+          179,
+          812
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          930
+        ],
+        [
+          1406,
+          926
+        ],
+        [
+          1406,
+          962
+        ],
+        [
+          179,
+          967
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        771,
+        1406,
+        812
+      ],
+      "text": "lấy lại tước ấp, giảng làm thứ dân cũng là phải, Nhưng, Thái Tông đã tha tội",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0373_viet_017",
+      "bbox": [
+        [
+          173,
+          812
+        ],
+        [
+          1408,
+          807
+        ],
+        [
+          1409,
+          850
+        ],
+        [
+          173,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          967
+        ],
+        [
+          1408,
+          962
+        ],
+        [
+          1409,
+          1005
+        ],
+        [
+          173,
+          1010
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        807,
+        1409,
+        855
+      ],
+      "text": "lại còn cho thêm mấy châu quận, cho ấn phong tước thái bảo, như i thế là",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0373_viet_018",
+      "bbox": [
+        [
+          175,
+          850
+        ],
+        [
+          1408,
+          848
+        ],
+        [
+          1409,
+          891
+        ],
+        [
+          175,
+          893
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1005
+        ],
+        [
+          1408,
+          1003
+        ],
+        [
+          1409,
+          1046
+        ],
+        [
+          175,
+          1048
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        848,
+        1409,
+        893
+      ],
+      "text": "thưởng phạt không minh. Đến khi Trí Cao quấy rối Quảng-nguyên, phải",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0373_viet_019",
+      "bbox": [
+        [
+          173,
+          891
+        ],
+        [
+          1404,
+          891
+        ],
+        [
+          1404,
+          927
+        ],
+        [
+          173,
+          927
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1046
+        ],
+        [
+          1404,
+          1046
+        ],
+        [
+          1404,
+          1082
+        ],
+        [
+          173,
+          1082
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        891,
+        1404,
+        927
+      ],
+      "text": "Thành đem quân đi đánh, lại lấy cờ là giúp nước láng giềng (3). Như thế có khác gia thế trị",
+      "confidence": 0.8247
+    },
+    {
+      "line_id": "0373_viet_020",
+      "bbox": [
+        [
+          173,
+          932
+        ],
+        [
+          1046,
+          929
+        ],
+        [
+          1046,
+          966
+        ],
+        [
+          173,
+          968
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1087
+        ],
+        [
+          1046,
+          1084
+        ],
+        [
+          1046,
+          1121
+        ],
+        [
+          173,
+          1123
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        929,
+        1046,
+        968
+      ],
+      "text": "thả hồ, lê giác cho cắn người rồi mới từ từ đến cứu ?",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0373_viet_021",
+      "bbox": [
+        [
+          168,
+          979
+        ],
+        [
+          1402,
+          977
+        ],
+        [
+          1402,
+          1015
+        ],
+        [
+          169,
+          1017
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1134
+        ],
+        [
+          1402,
+          1132
+        ],
+        [
+          1402,
+          1170
+        ],
+        [
+          169,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        977,
+        1402,
+        1017
+      ],
+      "text": "Bởi vì Thái Tòng say đầm cải nhân nhỏ của nhà Phật mà quên cái nghĩa",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0373_viet_022",
+      "bbox": [
+        [
+          168,
+          1022
+        ],
+        [
+          592,
+          1017
+        ],
+        [
+          592,
+          1056
+        ],
+        [
+          169,
+          1060
+        ]
+      ],
+      "bbox_original": [
+        [
+          168,
+          1177
+        ],
+        [
+          592,
+          1172
+        ],
+        [
+          592,
+          1211
+        ],
+        [
+          169,
+          1215
+        ]
+      ],
+      "box_xyxy": [
+        168,
+        1017,
+        592,
+        1060
+      ],
+      "text": "lớn của quốc gia đó thôi",
+      "confidence": 0.9362
+    },
+    {
+      "line_id": "0373_viet_023",
+      "bbox": [
+        [
+          903,
+          1052
+        ],
+        [
+          1331,
+          1052
+        ],
+        [
+          1331,
+          1079
+        ],
+        [
+          903,
+          1079
+        ]
+      ],
+      "bbox_original": [
+        [
+          903,
+          1207
+        ],
+        [
+          1331,
+          1207
+        ],
+        [
+          1331,
+          1234
+        ],
+        [
+          903,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        903,
+        1052,
+        1331,
+        1079
+      ],
+      "text": "CÁO HUY GIÚ BẰNG THANH",
+      "confidence": 0.8611
+    },
+    {
+      "line_id": "0373_viet_024",
+      "bbox": [
+        [
+          188,
+          1120
+        ],
+        [
+          387,
+          1120
+        ],
+        [
+          387,
+          1150
+        ],
+        [
+          188,
+          1150
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1275
+        ],
+        [
+          387,
+          1275
+        ],
+        [
+          387,
+          1305
+        ],
+        [
+          188,
+          1305
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1120,
+        387,
+        1150
+      ],
+      "text": "GHÚ THÍCH",
+      "confidence": 0.8185
+    },
+    {
+      "line_id": "0373_viet_025",
+      "bbox": [
+        [
+          648,
+          1139
+        ],
+        [
+          933,
+          1142
+        ],
+        [
+          933,
+          1178
+        ],
+        [
+          648,
+          1176
+        ]
+      ],
+      "bbox_original": [
+        [
+          648,
+          1294
+        ],
+        [
+          933,
+          1297
+        ],
+        [
+          933,
+          1333
+        ],
+        [
+          648,
+          1331
+        ]
+      ],
+      "box_xyxy": [
+        648,
+        1139,
+        933,
+        1178
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0373_viet_026",
+      "bbox": [
+        [
+          179,
+          1195
+        ],
+        [
+          616,
+          1193
+        ],
+        [
+          616,
+          1229
+        ],
+        [
+          179,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1350
+        ],
+        [
+          616,
+          1348
+        ],
+        [
+          616,
+          1384
+        ],
+        [
+          179,
+          1387
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1193,
+        616,
+        1232
+      ],
+      "text": "(1). Đầu đề do chúng tôi thêm",
+      "confidence": 0.9252
+    },
+    {
+      "line_id": "0373_viet_027",
+      "bbox": [
+        [
+          175,
+          1240
+        ],
+        [
+          1411,
+          1242
+        ],
+        [
+          1411,
+          1279
+        ],
+        [
+          175,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1395
+        ],
+        [
+          1411,
+          1397
+        ],
+        [
+          1411,
+          1434
+        ],
+        [
+          175,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1240,
+        1411,
+        1279
+      ],
+      "text": "(2) Theo ĐVSKTT năm 1039 Nùng Tồn Phúc chiếm châu Quảng-nguyên đối làm nước",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0373_viet_028",
+      "bbox": [
+        [
+          238,
+          1274
+        ],
+        [
+          1411,
+          1279
+        ],
+        [
+          1411,
+          1317
+        ],
+        [
+          238,
+          1313
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1429
+        ],
+        [
+          1411,
+          1434
+        ],
+        [
+          1411,
+          1472
+        ],
+        [
+          238,
+          1468
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1274,
+        1411,
+        1317
+      ],
+      "text": "Trường-sinh k ý ý, phong con trai Trí Thông Ây iễ, tước, vương, vợ A Nùng,",
+      "confidence": 0.8622
+    },
+    {
+      "line_id": "0373_viet_029",
+      "bbox": [
+        [
+          244,
+          1317
+        ],
+        [
+          1409,
+          1319
+        ],
+        [
+          1408,
+          1349
+        ],
+        [
+          244,
+          1347
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1472
+        ],
+        [
+          1409,
+          1474
+        ],
+        [
+          1408,
+          1504
+        ],
+        [
+          244,
+          1502
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1317,
+        1409,
+        1349
+      ],
+      "text": "làm hoàng hậu, chuẩn bị giáp binh, thành trì, đối lập với nhà Lý, Tháng Hai năm ấy",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0373_viet_030",
+      "bbox": [
+        [
+          244,
+          1349
+        ],
+        [
+          1411,
+          1351
+        ],
+        [
+          1411,
+          1388
+        ],
+        [
+          244,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1504
+        ],
+        [
+          1411,
+          1506
+        ],
+        [
+          1411,
+          1543
+        ],
+        [
+          244,
+          1541
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1349,
+        1411,
+        1388
+      ],
+      "text": "Lý Thái Tông đem quần đi đánh, bắt được cha con Tồn Phúc và Tri Thông, riêng Ả",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0373_viet_031",
+      "bbox": [
+        [
+          246,
+          1390
+        ],
+        [
+          1406,
+          1390
+        ],
+        [
+          1406,
+          1420
+        ],
+        [
+          246,
+          1420
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1545
+        ],
+        [
+          1406,
+          1545
+        ],
+        [
+          1406,
+          1575
+        ],
+        [
+          246,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1390,
+        1406,
+        1420
+      ],
+      "text": "Nùng và Trí Cao chay thoát, Thái Tòng cũng không truy lùng, Năm 1041 Trí Cao lại trởng thời tháng",
+      "confidence": 0.8362
+    },
+    {
+      "line_id": "0373_viet_032",
+      "bbox": [
+        [
+          246,
+          1422
+        ],
+        [
+          1409,
+          1422
+        ],
+        [
+          1409,
+          1458
+        ],
+        [
+          246,
+          1458
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1577
+        ],
+        [
+          1409,
+          1577
+        ],
+        [
+          1409,
+          1613
+        ],
+        [
+          246,
+          1613
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1422,
+        1409,
+        1458
+      ],
+      "text": "về chiếm cứ chàu Thảng-do lđá b. đồi làm nước Đại-lịch t đặt Thái Tông sai",
+      "confidence": 0.8412
+    },
+    {
+      "line_id": "0373_viet_033",
+      "bbox": [
+        [
+          246,
+          1463
+        ],
+        [
+          1406,
+          1463
+        ],
+        [
+          1406,
+          1493
+        ],
+        [
+          246,
+          1493
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1618
+        ],
+        [
+          1406,
+          1618
+        ],
+        [
+          1406,
+          1648
+        ],
+        [
+          246,
+          1648
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1463,
+        1406,
+        1493
+      ],
+      "text": "Thế trong tưởng đi đánh, bắt được Trí Cao đém về Kinh, Nhưng Thái Tông không bắt tội lại cho nhật",
+      "confidence": 0.8509
+    },
+    {
+      "line_id": "0373_viet_034",
+      "bbox": [
+        [
+          246,
+          1495
+        ],
+        [
+          1393,
+          1495
+        ],
+        [
+          1393,
+          1531
+        ],
+        [
+          246,
+          1531
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1650
+        ],
+        [
+          1393,
+          1650
+        ],
+        [
+          1393,
+          1686
+        ],
+        [
+          246,
+          1686
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1495,
+        1393,
+        1531
+      ],
+      "text": "giữ chàu Quảng-nguyên như cũ và cho thêm các động: Lỏi-hỏa",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0373_viet_035",
+      "bbox": [
+        [
+          255,
+          1525
+        ],
+        [
+          1411,
+          1529
+        ],
+        [
+          1411,
+          1572
+        ],
+        [
+          255,
+          1568
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1680
+        ],
+        [
+          1411,
+          1684
+        ],
+        [
+          1411,
+          1727
+        ],
+        [
+          255,
+          1723
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1525,
+        1411,
+        1572
+      ],
+      "text": "L và chàu Tr-lãng 2 /R (phần lờn thuộc đất Cao-bằng ngày nay), Đến năm 1043",
+      "confidence": 0.8863
+    },
+    {
+      "line_id": "0373_viet_036",
+      "bbox": [
+        [
+          242,
+          1570
+        ],
+        [
+          1404,
+          1570
+        ],
+        [
+          1404,
+          1606
+        ],
+        [
+          242,
+          1606
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1725
+        ],
+        [
+          1404,
+          1725
+        ],
+        [
+          1404,
+          1761
+        ],
+        [
+          242,
+          1761
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1570,
+        1404,
+        1606
+      ],
+      "text": "Thái Tổng sai Ngùy Trưng XX /X đến Quảng-nguyên trao Ấn và phong tước Thải bảo",
+      "confidence": 0.8661
+    },
+    {
+      "line_id": "0373_viet_037",
+      "bbox": [
+        [
+          166,
+          1613
+        ],
+        [
+          1409,
+          1615
+        ],
+        [
+          1408,
+          1651
+        ],
+        [
+          166,
+          1649
+        ]
+      ],
+      "bbox_original": [
+        [
+          166,
+          1768
+        ],
+        [
+          1409,
+          1770
+        ],
+        [
+          1408,
+          1806
+        ],
+        [
+          166,
+          1804
+        ]
+      ],
+      "box_xyxy": [
+        166,
+        1613,
+        1409,
+        1651
+      ],
+      "text": "(3) Tháng Tư năm 1952 Núng Trí Cao lại nồi dậy, xưng là Nhàn vương AF I, đặt tên",
+      "confidence": 0.908
+    },
+    {
+      "line_id": "0373_viet_038",
+      "bbox": [
+        [
+          242,
+          1653
+        ],
+        [
+          1406,
+          1653
+        ],
+        [
+          1406,
+          1690
+        ],
+        [
+          242,
+          1690
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1808
+        ],
+        [
+          1406,
+          1808
+        ],
+        [
+          1406,
+          1845
+        ],
+        [
+          242,
+          1845
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1653,
+        1406,
+        1690
+      ],
+      "text": "nước là Đại-nam, K đó - đánh sang các châu Ung Yê, Hoành kỹ. đến tận thành",
+      "confidence": 0.873
+    },
+    {
+      "line_id": "0373_viet_039",
+      "bbox": [
+        [
+          244,
+          1692
+        ],
+        [
+          1406,
+          1692
+        ],
+        [
+          1406,
+          1722
+        ],
+        [
+          244,
+          1722
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1847
+        ],
+        [
+          1406,
+          1847
+        ],
+        [
+          1406,
+          1877
+        ],
+        [
+          244,
+          1877
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1692,
+        1406,
+        1722
+      ],
+      "text": "Ngoài Quảng-châu Ấu W nước Tổng đề mở rộng biên giới. Nhà Tổng phải huy động",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0373_viet_040",
+      "bbox": [
+        [
+          240,
+          1724
+        ],
+        [
+          1404,
+          1722
+        ],
+        [
+          1404,
+          1758
+        ],
+        [
+          240,
+          1760
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1879
+        ],
+        [
+          1404,
+          1877
+        ],
+        [
+          1404,
+          1913
+        ],
+        [
+          240,
+          1915
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1722,
+        1404,
+        1760
+      ],
+      "text": "một lực lượng quản lớn đi đánh dẹp. Khi cuộc giao chiến bắt đầu Lý Thái Tông xinh",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0373_viet_041",
+      "bbox": [
+        [
+          244,
+          1765
+        ],
+        [
+          1074,
+          1765
+        ],
+        [
+          1074,
+          1795
+        ],
+        [
+          244,
+          1795
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1920
+        ],
+        [
+          1074,
+          1920
+        ],
+        [
+          1074,
+          1950
+        ],
+        [
+          244,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1765,
+        1074,
+        1795
+      ],
+      "text": "đem quân giúp Tổng, Sau khi bàn bạc, nhà Tổng không thuận",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0373_viet_042",
+      "bbox": [
+        [
+          296,
+          1805
+        ],
+        [
+          1404,
+          1805
+        ],
+        [
+          1404,
+          1835
+        ],
+        [
+          296,
+          1835
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          1960
+        ],
+        [
+          1404,
+          1960
+        ],
+        [
+          1404,
+          1990
+        ],
+        [
+          296,
+          1990
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        1805,
+        1404,
+        1835
+      ],
+      "text": "- Năm 1053 Trị Cao thua, quần xin Thái Tông cứu viện, Thái Tổng sai quân đi cứu,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0373_viet_043",
+      "bbox": [
+        [
+          242,
+          1840
+        ],
+        [
+          1400,
+          1840
+        ],
+        [
+          1400,
+          1870
+        ],
+        [
+          242,
+          1870
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1995
+        ],
+        [
+          1400,
+          1995
+        ],
+        [
+          1400,
+          2025
+        ],
+        [
+          242,
+          2025
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1840,
+        1400,
+        1870
+      ],
+      "text": "nhưng Trì Cao vẫn thrữa, và cuối cùng bị nirinc Đài-lý X 52P bắt chém dàng nhà Tổng",
+      "confidence": 0.8655
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "NỊCH TIỂU NHÂN NHI VONG ĐẠI SỰ LUẬN THỊ",
+      "Tiền niêu Nùng Tồn Phúc chi bạn nghịch, tiếm biệu, khai quốc, trí quan",
+      "Thuộc; Thái Tông kỷ tội Tồn Phúc nhi di kỳ tử Trí Cao. Kim Trí Cao phục đạo thuận",
+      "\"kỳ phụ chi bất quỹ, tắc kỳ tội đại hỹ, tru chỉ khả dã; đoạt kỳ tước ấp, giáng",
+      "Thuận vì thứ: nhân diệc khả dã. Thải Tông kỷ xá kỳ tội, hựu dĩ châu quậu phu ích chỉ,",
+      "từ ấn phong vi Thái bảo, tắc tưởng phạt vô chương. Cập kỳ vi: Quảng-nguyên",
+      "xã chi hoạn, nải xuất bịnh dĩ viện làn vi từ, hà dĩ dị phóng hồ hủy, sử chi phệ thế",
+      "nhân nhi từ cứu chi tai l",
+      "Cái nịch Phật thị chi tiểu nhân nhi vong kỳ quốc chỉ đại nghĩa dã.",
+      "332"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC HÀM ĐIỀU NHÂN NHỎ MÀ QUÊN VIỆC LỚN(1)",
+      "Xã Năm trước Nùng Tồn Phúc phản nghịch, tiếm hiệu, mở nước, sắp đặt nhà nhiều",
+      "quan thuộc; Thái Tòng đã bắt tội Tồn Phúc, nhưng đề lại con là Trí Cao (7).",
+      "Nay Trỉ Cao lại noi theo việc trải phép của cha thì tội to lầm, giết đi là phải;",
+      "lấy lại tước ấp, giảng làm thứ dân cũng là phải, Nhưng, Thái Tông đã tha tội",
+      "lại còn cho thêm mấy châu quận, cho ấn phong tước thái bảo, như i thế là",
+      "thưởng phạt không minh. Đến khi Trí Cao quấy rối Quảng-nguyên, phải",
+      "Thành đem quân đi đánh, lại lấy cờ là giúp nước láng giềng (3). Như thế có khác gia thế trị",
+      "thả hồ, lê giác cho cắn người rồi mới từ từ đến cứu ?",
+      "Bởi vì Thái Tòng say đầm cải nhân nhỏ của nhà Phật mà quên cái nghĩa",
+      "lớn của quốc gia đó thôi",
+      "CÁO HUY GIÚ BẰNG THANH",
+      "GHÚ THÍCH",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1). Đầu đề do chúng tôi thêm",
+      "(2) Theo ĐVSKTT năm 1039 Nùng Tồn Phúc chiếm châu Quảng-nguyên đối làm nước",
+      "Trường-sinh k ý ý, phong con trai Trí Thông Ây iễ, tước, vương, vợ A Nùng,",
+      "làm hoàng hậu, chuẩn bị giáp binh, thành trì, đối lập với nhà Lý, Tháng Hai năm ấy",
+      "Lý Thái Tông đem quần đi đánh, bắt được cha con Tồn Phúc và Tri Thông, riêng Ả",
+      "Nùng và Trí Cao chay thoát, Thái Tòng cũng không truy lùng, Năm 1041 Trí Cao lại trởng thời tháng",
+      "về chiếm cứ chàu Thảng-do lđá b. đồi làm nước Đại-lịch t đặt Thái Tông sai",
+      "Thế trong tưởng đi đánh, bắt được Trí Cao đém về Kinh, Nhưng Thái Tông không bắt tội lại cho nhật",
+      "giữ chàu Quảng-nguyên như cũ và cho thêm các động: Lỏi-hỏa",
+      "L và chàu Tr-lãng 2 /R (phần lờn thuộc đất Cao-bằng ngày nay), Đến năm 1043",
+      "Thái Tổng sai Ngùy Trưng XX /X đến Quảng-nguyên trao Ấn và phong tước Thải bảo",
+      "(3) Tháng Tư năm 1952 Núng Trí Cao lại nồi dậy, xưng là Nhàn vương AF I, đặt tên",
+      "nước là Đại-nam, K đó - đánh sang các châu Ung Yê, Hoành kỹ. đến tận thành",
+      "Ngoài Quảng-châu Ấu W nước Tổng đề mở rộng biên giới. Nhà Tổng phải huy động",
+      "một lực lượng quản lớn đi đánh dẹp. Khi cuộc giao chiến bắt đầu Lý Thái Tông xinh",
+      "đem quân giúp Tổng, Sau khi bàn bạc, nhà Tổng không thuận",
+      "- Năm 1053 Trị Cao thua, quần xin Thái Tông cứu viện, Thái Tổng sai quân đi cứu,",
+      "nhưng Trì Cao vẫn thrữa, và cuối cùng bị nirinc Đài-lý X 52P bắt chém dàng nhà Tổng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

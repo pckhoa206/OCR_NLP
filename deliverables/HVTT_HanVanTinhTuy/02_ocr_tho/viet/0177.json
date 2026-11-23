@@ -1,0 +1,450 @@
+{
+  "page_id": "0177",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 177,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0177_viet_000",
+      "bbox": [
+        [
+          505,
+          276
+        ],
+        [
+          692,
+          276
+        ],
+        [
+          692,
+          323
+        ],
+        [
+          505,
+          323
+        ]
+      ],
+      "bbox_original": [
+        [
+          505,
+          397
+        ],
+        [
+          692,
+          397
+        ],
+        [
+          692,
+          444
+        ],
+        [
+          505,
+          444
+        ]
+      ],
+      "box_xyxy": [
+        505,
+        276,
+        692,
+        323
+      ],
+      "text": "7 F E",
+      "confidence": 0.4203
+    },
+    {
+      "line_id": "0177_viet_001",
+      "bbox": [
+        [
+          467,
+          347
+        ],
+        [
+          724,
+          347
+        ],
+        [
+          724,
+          387
+        ],
+        [
+          467,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          468
+        ],
+        [
+          724,
+          468
+        ],
+        [
+          724,
+          508
+        ],
+        [
+          467,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        347,
+        724,
+        387
+      ],
+      "text": "HỮU SỞ TƯ",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0177_viet_002",
+      "bbox": [
+        [
+          518,
+          462
+        ],
+        [
+          673,
+          462
+        ],
+        [
+          673,
+          502
+        ],
+        [
+          518,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          518,
+          583
+        ],
+        [
+          673,
+          583
+        ],
+        [
+          673,
+          623
+        ],
+        [
+          518,
+          623
+        ]
+      ],
+      "box_xyxy": [
+        518,
+        462,
+        673,
+        502
+      ],
+      "text": "NHỚ AI",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0177_viet_003",
+      "bbox": [
+        [
+          768,
+          640
+        ],
+        [
+          912,
+          649
+        ],
+        [
+          910,
+          689
+        ],
+        [
+          765,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          768,
+          761
+        ],
+        [
+          912,
+          770
+        ],
+        [
+          910,
+          810
+        ],
+        [
+          765,
+          802
+        ]
+      ],
+      "box_xyxy": [
+        765,
+        640,
+        912,
+        689
+      ],
+      "text": "Lư-Đồng",
+      "confidence": 0.8914
+    },
+    {
+      "line_id": "0177_viet_004",
+      "bbox": [
+        [
+          226,
+          949
+        ],
+        [
+          987,
+          953
+        ],
+        [
+          987,
+          998
+        ],
+        [
+          226,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1070
+        ],
+        [
+          987,
+          1074
+        ],
+        [
+          987,
+          1119
+        ],
+        [
+          226,
+          1115
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        949,
+        987,
+        998
+      ],
+      "text": "TIỂU-DẪN. - LƯ-ĐÔNG, ĐỜI ĐƯỜNG, NGƯỜI ĐẤT TÊ",
+      "confidence": 0.8726
+    },
+    {
+      "line_id": "0177_viet_005",
+      "bbox": [
+        [
+          197,
+          1013
+        ],
+        [
+          991,
+          1013
+        ],
+        [
+          991,
+          1046
+        ],
+        [
+          197,
+          1046
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1134
+        ],
+        [
+          991,
+          1134
+        ],
+        [
+          991,
+          1167
+        ],
+        [
+          197,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1013,
+        991,
+        1046
+      ],
+      "text": "xuyên, biệt hiệu ngọc-xuyến tử. vòn tính hiều học, xem",
+      "confidence": 0.8892
+    },
+    {
+      "line_id": "0177_viet_006",
+      "bbox": [
+        [
+          197,
+          1065
+        ],
+        [
+          989,
+          1063
+        ],
+        [
+          989,
+          1098
+        ],
+        [
+          197,
+          1100
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1186
+        ],
+        [
+          989,
+          1184
+        ],
+        [
+          989,
+          1219
+        ],
+        [
+          197,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1063,
+        989,
+        1100
+      ],
+      "text": "rộng, thích uồng trà ngon, có làm bài a Trà-ca v rất được",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0177_viet_007",
+      "bbox": [
+        [
+          194,
+          1113
+        ],
+        [
+          991,
+          1115
+        ],
+        [
+          991,
+          1155
+        ],
+        [
+          194,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1234
+        ],
+        [
+          991,
+          1236
+        ],
+        [
+          991,
+          1276
+        ],
+        [
+          194,
+          1274
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        1113,
+        991,
+        1155
+      ],
+      "text": "khen-ngợi. Sau gặp cuộc biên Cam-lộ, bị bọn hoạn-quan",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0177_viet_008",
+      "bbox": [
+        [
+          191,
+          1172
+        ],
+        [
+          256,
+          1162
+        ],
+        [
+          262,
+          1202
+        ],
+        [
+          197,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1293
+        ],
+        [
+          256,
+          1283
+        ],
+        [
+          262,
+          1323
+        ],
+        [
+          197,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1162,
+        262,
+        1212
+      ],
+      "text": "giềt.",
+      "confidence": 0.8043
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_commentary_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

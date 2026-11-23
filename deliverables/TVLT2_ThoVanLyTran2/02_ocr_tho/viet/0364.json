@@ -1,0 +1,1036 @@
+{
+  "page_id": "0364",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 364,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0364_viet_000",
+      "bbox": [
+        [
+          181,
+          0
+        ],
+        [
+          223,
+          0
+        ],
+        [
+          223,
+          24
+        ],
+        [
+          181,
+          24
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          155
+        ],
+        [
+          223,
+          155
+        ],
+        [
+          223,
+          179
+        ],
+        [
+          181,
+          179
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        0,
+        223,
+        24
+      ],
+      "text": "366",
+      "confidence": 0.9365
+    },
+    {
+      "line_id": "0364_viet_001",
+      "bbox": [
+        [
+          633,
+          0
+        ],
+        [
+          996,
+          0
+        ],
+        [
+          996,
+          30
+        ],
+        [
+          633,
+          30
+        ]
+      ],
+      "bbox_original": [
+        [
+          633,
+          155
+        ],
+        [
+          996,
+          155
+        ],
+        [
+          996,
+          185
+        ],
+        [
+          633,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        633,
+        0,
+        996,
+        30
+      ],
+      "text": "THƠ VĂN LÝ TRĂN (II)",
+      "confidence": 0.8278
+    },
+    {
+      "line_id": "0364_viet_002",
+      "bbox": [
+        [
+          199,
+          109
+        ],
+        [
+          341,
+          109
+        ],
+        [
+          341,
+          139
+        ],
+        [
+          199,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          264
+        ],
+        [
+          341,
+          264
+        ],
+        [
+          341,
+          294
+        ],
+        [
+          199,
+          294
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        109,
+        341,
+        139
+      ],
+      "text": "PHIỀN ÂM",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0364_viet_003",
+      "bbox": [
+        [
+          549,
+          146
+        ],
+        [
+          1063,
+          148
+        ],
+        [
+          1063,
+          191
+        ],
+        [
+          549,
+          188
+        ]
+      ],
+      "bbox_original": [
+        [
+          549,
+          301
+        ],
+        [
+          1063,
+          303
+        ],
+        [
+          1063,
+          346
+        ],
+        [
+          549,
+          343
+        ]
+      ],
+      "box_xyxy": [
+        549,
+        146,
+        1063,
+        191
+      ],
+      "text": "NGỌA TRIỀU THÍ HUYNH LUẬN",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0364_viet_004",
+      "bbox": [
+        [
+          283,
+          223
+        ],
+        [
+          1426,
+          227
+        ],
+        [
+          1426,
+          270
+        ],
+        [
+          283,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          378
+        ],
+        [
+          1426,
+          382
+        ],
+        [
+          1426,
+          425
+        ],
+        [
+          283,
+          421
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        223,
+        1426,
+        270
+      ],
+      "text": "Ngọa Triều thí kỳ huynh nhi tự lập, ngược kỳ chúng dĩ tự sinh, dĩ chỉ",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0364_viet_005",
+      "bbox": [
+        [
+          190,
+          266
+        ],
+        [
+          1424,
+          266
+        ],
+        [
+          1424,
+          315
+        ],
+        [
+          190,
+          315
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          421
+        ],
+        [
+          1424,
+          421
+        ],
+        [
+          1424,
+          470
+        ],
+        [
+          190,
+          470
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        266,
+        1424,
+        315
+      ],
+      "text": "Vong quốc thất tộ, phi Lê thị chi bất hạnh dã: kỳ quả tại Đại Hành bái tảo",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0364_viet_006",
+      "bbox": [
+        [
+          194,
+          315
+        ],
+        [
+          1197,
+          315
+        ],
+        [
+          1197,
+          351
+        ],
+        [
+          194,
+          351
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          470
+        ],
+        [
+          1197,
+          470
+        ],
+        [
+          1197,
+          506
+        ],
+        [
+          194,
+          506
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        315,
+        1197,
+        351
+      ],
+      "text": "chính trừ vị, dữ Trung Tông bất năng phòng kỳ vi dĩ chí chi dã.",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0364_viet_007",
+      "bbox": [
+        [
+          190,
+          409
+        ],
+        [
+          390,
+          404
+        ],
+        [
+          391,
+          441
+        ],
+        [
+          191,
+          446
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          564
+        ],
+        [
+          390,
+          559
+        ],
+        [
+          391,
+          596
+        ],
+        [
+          191,
+          601
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        404,
+        391,
+        446
+      ],
+      "text": "DỊCH NGHĨA:",
+      "confidence": 0.8761
+    },
+    {
+      "line_id": "0364_viet_008",
+      "bbox": [
+        [
+          471,
+          448
+        ],
+        [
+          1128,
+          452
+        ],
+        [
+          1127,
+          497
+        ],
+        [
+          471,
+          492
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          603
+        ],
+        [
+          1128,
+          607
+        ],
+        [
+          1127,
+          652
+        ],
+        [
+          471,
+          647
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        448,
+        1128,
+        497
+      ],
+      "text": "BÀN VỀ VIỆC NGỌA TRIỀU GIẾT ANH (3)",
+      "confidence": 0.9268
+    },
+    {
+      "line_id": "0364_viet_009",
+      "bbox": [
+        [
+          287,
+          529
+        ],
+        [
+          1421,
+          529
+        ],
+        [
+          1421,
+          565
+        ],
+        [
+          287,
+          565
+        ]
+      ],
+      "bbox_original": [
+        [
+          287,
+          684
+        ],
+        [
+          1421,
+          684
+        ],
+        [
+          1421,
+          720
+        ],
+        [
+          287,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        287,
+        529,
+        1421,
+        565
+      ],
+      "text": "Ngọa Triều (3) giết anh, tự lập làm vua, bạo ngược với dân chúng đề thỏa",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0364_viet_010",
+      "bbox": [
+        [
+          190,
+          570
+        ],
+        [
+          1443,
+          570
+        ],
+        [
+          1443,
+          613
+        ],
+        [
+          190,
+          613
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          725
+        ],
+        [
+          1443,
+          725
+        ],
+        [
+          1443,
+          768
+        ],
+        [
+          190,
+          768
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        570,
+        1443,
+        613
+      ],
+      "text": "lòng hung ác của mình, đến nỗi mất ngòi, mất nước, Đó không phải là sự bất -",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0364_viet_011",
+      "bbox": [
+        [
+          186,
+          655
+        ],
+        [
+          1249,
+          653
+        ],
+        [
+          1249,
+          696
+        ],
+        [
+          186,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          810
+        ],
+        [
+          1249,
+          808
+        ],
+        [
+          1249,
+          851
+        ],
+        [
+          186,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        653,
+        1249,
+        698
+      ],
+      "text": "không biết phòng giữ từ khi sự: việc mới chớm nở nên đến nổi thế.",
+      "confidence": 0.8998
+    },
+    {
+      "line_id": "0364_viet_012",
+      "bbox": [
+        [
+          1108,
+          715
+        ],
+        [
+          1305,
+          715
+        ],
+        [
+          1305,
+          745
+        ],
+        [
+          1108,
+          745
+        ]
+      ],
+      "bbox_original": [
+        [
+          1108,
+          870
+        ],
+        [
+          1305,
+          870
+        ],
+        [
+          1305,
+          900
+        ],
+        [
+          1108,
+          900
+        ]
+      ],
+      "box_xyxy": [
+        1108,
+        715,
+        1305,
+        745
+      ],
+      "text": "CAO HUY GIU",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0364_viet_013",
+      "bbox": [
+        [
+          185,
+          810
+        ],
+        [
+          362,
+          805
+        ],
+        [
+          363,
+          841
+        ],
+        [
+          186,
+          846
+        ]
+      ],
+      "bbox_original": [
+        [
+          185,
+          965
+        ],
+        [
+          362,
+          960
+        ],
+        [
+          363,
+          996
+        ],
+        [
+          186,
+          1001
+        ]
+      ],
+      "box_xyxy": [
+        185,
+        805,
+        363,
+        846
+      ],
+      "text": "CHỦ THÍCH",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0364_viet_014",
+      "bbox": [
+        [
+          661,
+          846
+        ],
+        [
+          940,
+          846
+        ],
+        [
+          940,
+          876
+        ],
+        [
+          661,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          661,
+          1001
+        ],
+        [
+          940,
+          1001
+        ],
+        [
+          940,
+          1031
+        ],
+        [
+          661,
+          1031
+        ]
+      ],
+      "box_xyxy": [
+        661,
+        846,
+        940,
+        876
+      ],
+      "text": "XUẤT XỨ: ĐVSKTT",
+      "confidence": 0.9132
+    },
+    {
+      "line_id": "0364_viet_015",
+      "bbox": [
+        [
+          184,
+          900
+        ],
+        [
+          1419,
+          893
+        ],
+        [
+          1419,
+          938
+        ],
+        [
+          184,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1055
+        ],
+        [
+          1419,
+          1048
+        ],
+        [
+          1419,
+          1093
+        ],
+        [
+          184,
+          1100
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        893,
+        1419,
+        945
+      ],
+      "text": "(1) Đàu đề do chúng tôi thêm. Lê Trung Tông : tên là Long Việt Hế % . con thứ ba lệ",
+      "confidence": 0.8731
+    },
+    {
+      "line_id": "0364_viet_016",
+      "bbox": [
+        [
+          246,
+          940
+        ],
+        [
+          1071,
+          936
+        ],
+        [
+          1072,
+          972
+        ],
+        [
+          246,
+          977
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1095
+        ],
+        [
+          1071,
+          1091
+        ],
+        [
+          1072,
+          1127
+        ],
+        [
+          246,
+          1132
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        936,
+        1072,
+        977
+      ],
+      "text": "Đại Hành, lên ngỏi được ba ngày thi bị em là Ngọa Triều giết.",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0364_viet_017",
+      "bbox": [
+        [
+          186,
+          989
+        ],
+        [
+          1413,
+          981
+        ],
+        [
+          1413,
+          1017
+        ],
+        [
+          186,
+          1026
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1144
+        ],
+        [
+          1413,
+          1136
+        ],
+        [
+          1413,
+          1172
+        ],
+        [
+          186,
+          1181
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        981,
+        1413,
+        1026
+      ],
+      "text": "(2) Ngọa Triều : xem Cht. 2, bài Thuy Luận (Bàn về việc đặt tên thuy), số 124, cùng tác giả.",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0364_viet_018",
+      "bbox": [
+        [
+          765,
+          1219
+        ],
+        [
+          843,
+          1219
+        ],
+        [
+          843,
+          1268
+        ],
+        [
+          765,
+          1268
+        ]
+      ],
+      "bbox_original": [
+        [
+          765,
+          1374
+        ],
+        [
+          843,
+          1374
+        ],
+        [
+          843,
+          1423
+        ],
+        [
+          765,
+          1423
+        ]
+      ],
+      "box_xyxy": [
+        765,
+        1219,
+        843,
+        1268
+      ],
+      "text": "126",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0364_viet_019",
+      "bbox": [
+        [
+          571,
+          1291
+        ],
+        [
+          1048,
+          1298
+        ],
+        [
+          1047,
+          1373
+        ],
+        [
+          570,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          571,
+          1446
+        ],
+        [
+          1048,
+          1453
+        ],
+        [
+          1047,
+          1528
+        ],
+        [
+          570,
+          1521
+        ]
+      ],
+      "box_xyxy": [
+        570,
+        1291,
+        1048,
+        1373
+      ],
+      "text": "64 Sẽ E",
+      "confidence": 0.5352
+    },
+    {
+      "line_id": "0364_viet_020",
+      "bbox": [
+        [
+          242,
+          1495
+        ],
+        [
+          1394,
+          1504
+        ],
+        [
+          1393,
+          1546
+        ],
+        [
+          242,
+          1538
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1650
+        ],
+        [
+          1394,
+          1659
+        ],
+        [
+          1393,
+          1701
+        ],
+        [
+          242,
+          1693
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1495,
+        1394,
+        1546
+      ],
+      "text": "Đi Trans 13 Lắc 2, 742 đã 1 Ft 107 N Form",
+      "confidence": 0.5193
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "366",
+      "THƠ VĂN LÝ TRĂN (II)",
+      "PHIỀN ÂM",
+      "NGỌA TRIỀU THÍ HUYNH LUẬN",
+      "Ngọa Triều thí kỳ huynh nhi tự lập, ngược kỳ chúng dĩ tự sinh, dĩ chỉ",
+      "Vong quốc thất tộ, phi Lê thị chi bất hạnh dã: kỳ quả tại Đại Hành bái tảo",
+      "chính trừ vị, dữ Trung Tông bất năng phòng kỳ vi dĩ chí chi dã."
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC NGỌA TRIỀU GIẾT ANH (3)",
+      "Ngọa Triều (3) giết anh, tự lập làm vua, bạo ngược với dân chúng đề thỏa",
+      "lòng hung ác của mình, đến nỗi mất ngòi, mất nước, Đó không phải là sự bất -",
+      "không biết phòng giữ từ khi sự: việc mới chớm nở nên đến nổi thế.",
+      "CAO HUY GIU",
+      "CHỦ THÍCH",
+      "XUẤT XỨ: ĐVSKTT",
+      "(1) Đàu đề do chúng tôi thêm. Lê Trung Tông : tên là Long Việt Hế % . con thứ ba lệ",
+      "Đại Hành, lên ngỏi được ba ngày thi bị em là Ngọa Triều giết.",
+      "(2) Ngọa Triều : xem Cht. 2, bài Thuy Luận (Bàn về việc đặt tên thuy), số 124, cùng tác giả.",
+      "126",
+      "64 Sẽ E",
+      "Đi Trans 13 Lắc 2, 742 đã 1 Ft 107 N Form"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

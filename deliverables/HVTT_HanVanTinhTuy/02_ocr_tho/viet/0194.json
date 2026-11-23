@@ -1,0 +1,1368 @@
+{
+  "page_id": "0194",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 194,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0194_viet_000",
+      "bbox": [
+        [
+          196,
+          32
+        ],
+        [
+          250,
+          32
+        ],
+        [
+          250,
+          64
+        ],
+        [
+          196,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          153
+        ],
+        [
+          250,
+          153
+        ],
+        [
+          250,
+          185
+        ],
+        [
+          196,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        32,
+        250,
+        64
+      ],
+      "text": "186",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0194_viet_001",
+      "bbox": [
+        [
+          668,
+          32
+        ],
+        [
+          989,
+          32
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          668,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          153
+        ],
+        [
+          989,
+          153
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          668,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        32,
+        989,
+        60
+      ],
+      "text": "PHÁN VĂN TINH-TUÝ",
+      "confidence": 0.8869
+    },
+    {
+      "line_id": "0194_viet_002",
+      "bbox": [
+        [
+          251,
+          136
+        ],
+        [
+          569,
+          136
+        ],
+        [
+          569,
+          171
+        ],
+        [
+          251,
+          171
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          257
+        ],
+        [
+          569,
+          257
+        ],
+        [
+          569,
+          292
+        ],
+        [
+          251,
+          292
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        136,
+        569,
+        171
+      ],
+      "text": "LÊ TẾ) TẾ) THỊ THỊ",
+      "confidence": 0.498
+    },
+    {
+      "line_id": "0194_viet_003",
+      "bbox": [
+        [
+          199,
+          186
+        ],
+        [
+          604,
+          184
+        ],
+        [
+          604,
+          214
+        ],
+        [
+          199,
+          216
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          307
+        ],
+        [
+          604,
+          305
+        ],
+        [
+          604,
+          335
+        ],
+        [
+          199,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        184,
+        604,
+        216
+      ],
+      "text": "Và Ngô tuân-tuân nhi khởi trị",
+      "confidence": 0.8006
+    },
+    {
+      "line_id": "0194_viet_004",
+      "bbox": [
+        [
+          219,
+          224
+        ],
+        [
+          597,
+          224
+        ],
+        [
+          597,
+          258
+        ],
+        [
+          219,
+          258
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          345
+        ],
+        [
+          597,
+          345
+        ],
+        [
+          597,
+          379
+        ],
+        [
+          219,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        224,
+        597,
+        258
+      ],
+      "text": "Tôi lo ngay-ngáy trở dậy dòm",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0194_viet_005",
+      "bbox": [
+        [
+          248,
+          293
+        ],
+        [
+          984,
+          290
+        ],
+        [
+          984,
+          330
+        ],
+        [
+          248,
+          333
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          414
+        ],
+        [
+          984,
+          411
+        ],
+        [
+          984,
+          451
+        ],
+        [
+          248,
+          454
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        290,
+        984,
+        333
+      ],
+      "text": "101572 G%42 N7 - Đ- T. N T. NGHI",
+      "confidence": 0.2852
+    },
+    {
+      "line_id": "0194_viet_006",
+      "bbox": [
+        [
+          194,
+          343
+        ],
+        [
+          766,
+          345
+        ],
+        [
+          766,
+          378
+        ],
+        [
+          194,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          464
+        ],
+        [
+          766,
+          466
+        ],
+        [
+          766,
+          499
+        ],
+        [
+          194,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        343,
+        766,
+        378
+      ],
+      "text": "Thị kỳ hũ, nhi ngô xà thượng tồn",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0194_viet_007",
+      "bbox": [
+        [
+          196,
+          383
+        ],
+        [
+          564,
+          392
+        ],
+        [
+          563,
+          427
+        ],
+        [
+          195,
+          418
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          504
+        ],
+        [
+          564,
+          513
+        ],
+        [
+          563,
+          548
+        ],
+        [
+          195,
+          539
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        383,
+        564,
+        427
+      ],
+      "text": "Tắc hỉ nhiên nhi ngọa.",
+      "confidence": 0.8842
+    },
+    {
+      "line_id": "0194_viet_008",
+      "bbox": [
+        [
+          221,
+          432
+        ],
+        [
+          780,
+          432
+        ],
+        [
+          780,
+          455
+        ],
+        [
+          221,
+          455
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          553
+        ],
+        [
+          780,
+          553
+        ],
+        [
+          780,
+          576
+        ],
+        [
+          221,
+          576
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        432,
+        780,
+        455
+      ],
+      "text": "vào hũ, thấy rắn còn, mới yên tâm mà nằm",
+      "confidence": 0.8733
+    },
+    {
+      "line_id": "0194_viet_009",
+      "bbox": [
+        [
+          246,
+          495
+        ],
+        [
+          704,
+          495
+        ],
+        [
+          704,
+          534
+        ],
+        [
+          246,
+          534
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          616
+        ],
+        [
+          704,
+          616
+        ],
+        [
+          704,
+          655
+        ],
+        [
+          246,
+          655
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        495,
+        704,
+        534
+      ],
+      "text": "X2247",
+      "confidence": 0.2542
+    },
+    {
+      "line_id": "0194_viet_010",
+      "bbox": [
+        [
+          203,
+          544
+        ],
+        [
+          700,
+          547
+        ],
+        [
+          700,
+          581
+        ],
+        [
+          202,
+          577
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          665
+        ],
+        [
+          700,
+          668
+        ],
+        [
+          700,
+          702
+        ],
+        [
+          202,
+          698
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        544,
+        700,
+        581
+      ],
+      "text": "Cần tự chi, thời nhi hiễn yên",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0194_viet_011",
+      "bbox": [
+        [
+          221,
+          582
+        ],
+        [
+          699,
+          588
+        ],
+        [
+          698,
+          621
+        ],
+        [
+          221,
+          616
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          703
+        ],
+        [
+          699,
+          709
+        ],
+        [
+          698,
+          742
+        ],
+        [
+          221,
+          737
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        582,
+        699,
+        621
+      ],
+      "text": "Kính cần cho nó ăn, đợi kỳ đem nộp",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0194_viet_012",
+      "bbox": [
+        [
+          248,
+          655
+        ],
+        [
+          982,
+          653
+        ],
+        [
+          982,
+          693
+        ],
+        [
+          248,
+          695
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          776
+        ],
+        [
+          982,
+          774
+        ],
+        [
+          982,
+          814
+        ],
+        [
+          248,
+          816
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        653,
+        982,
+        695
+      ],
+      "text": "irrelizers",
+      "confidence": 0.651
+    },
+    {
+      "line_id": "0194_viet_013",
+      "bbox": [
+        [
+          196,
+          703
+        ],
+        [
+          984,
+          705
+        ],
+        [
+          984,
+          738
+        ],
+        [
+          196,
+          737
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          824
+        ],
+        [
+          984,
+          826
+        ],
+        [
+          984,
+          859
+        ],
+        [
+          196,
+          858
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        703,
+        984,
+        738
+      ],
+      "text": "Thoái nhi cam thực kỳ thồ chi hữu, di tận ngô xỉ xuất",
+      "confidence": 0.8641
+    },
+    {
+      "line_id": "0194_viet_014",
+      "bbox": [
+        [
+          218,
+          745
+        ],
+        [
+          850,
+          745
+        ],
+        [
+          850,
+          778
+        ],
+        [
+          218,
+          778
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          866
+        ],
+        [
+          850,
+          866
+        ],
+        [
+          850,
+          899
+        ],
+        [
+          218,
+          899
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        745,
+        850,
+        778
+      ],
+      "text": "Nộp rồi, thì có cái gì ăn nấy cho trọn tuổi trời",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0194_viet_015",
+      "bbox": [
+        [
+          198,
+          862
+        ],
+        [
+          851,
+          864
+        ],
+        [
+          850,
+          899
+        ],
+        [
+          197,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          983
+        ],
+        [
+          851,
+          985
+        ],
+        [
+          850,
+          1020
+        ],
+        [
+          197,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        862,
+        851,
+        899
+      ],
+      "text": "Xã Cái nhất tuẽ nhi phạm tử giả, nhi yên thị",
+      "confidence": 0.8175
+    },
+    {
+      "line_id": "0194_viet_016",
+      "bbox": [
+        [
+          216,
+          901
+        ],
+        [
+          692,
+          902
+        ],
+        [
+          692,
+          936
+        ],
+        [
+          216,
+          934
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1022
+        ],
+        [
+          692,
+          1023
+        ],
+        [
+          692,
+          1057
+        ],
+        [
+          216,
+          1055
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        901,
+        692,
+        936
+      ],
+      "text": "Số là trong 1 năm chỉ liêu chết 2 lần",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0194_viet_017",
+      "bbox": [
+        [
+          246,
+          969
+        ],
+        [
+          705,
+          971
+        ],
+        [
+          705,
+          1011
+        ],
+        [
+          246,
+          1009
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1090
+        ],
+        [
+          705,
+          1092
+        ],
+        [
+          705,
+          1132
+        ],
+        [
+          246,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        969,
+        705,
+        1011
+      ],
+      "text": "03000000002",
+      "confidence": 0.2619
+    },
+    {
+      "line_id": "0194_viet_018",
+      "bbox": [
+        [
+          198,
+          1019
+        ],
+        [
+          587,
+          1021
+        ],
+        [
+          587,
+          1056
+        ],
+        [
+          197,
+          1055
+        ]
+      ],
+      "bbox_original": [
+        [
+          198,
+          1140
+        ],
+        [
+          587,
+          1142
+        ],
+        [
+          587,
+          1177
+        ],
+        [
+          197,
+          1176
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1019,
+        587,
+        1056
+      ],
+      "text": "Kỳ du tắc hi hi nhi lạc,",
+      "confidence": 0.8956
+    },
+    {
+      "line_id": "0194_viet_019",
+      "bbox": [
+        [
+          219,
+          1061
+        ],
+        [
+          569,
+          1061
+        ],
+        [
+          569,
+          1090
+        ],
+        [
+          219,
+          1090
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1182
+        ],
+        [
+          569,
+          1182
+        ],
+        [
+          569,
+          1211
+        ],
+        [
+          219,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1061,
+        569,
+        1090
+      ],
+      "text": "còn thì được hú hí vui vẻ.",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0194_viet_020",
+      "bbox": [
+        [
+          197,
+          1177
+        ],
+        [
+          987,
+          1178
+        ],
+        [
+          987,
+          1214
+        ],
+        [
+          197,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1298
+        ],
+        [
+          987,
+          1299
+        ],
+        [
+          987,
+          1335
+        ],
+        [
+          197,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1177,
+        987,
+        1214
+      ],
+      "text": "Khởi nhược ngô hương lân nhi đán đán hữu thuận",
+      "confidence": 0.8492
+    },
+    {
+      "line_id": "0194_viet_021",
+      "bbox": [
+        [
+          197,
+          1225
+        ],
+        [
+          317,
+          1225
+        ],
+        [
+          317,
+          1255
+        ],
+        [
+          197,
+          1255
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1346
+        ],
+        [
+          317,
+          1346
+        ],
+        [
+          317,
+          1376
+        ],
+        [
+          197,
+          1376
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1225,
+        317,
+        1255
+      ],
+      "text": "thi tail",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0194_viet_022",
+      "bbox": [
+        [
+          213,
+          1259
+        ],
+        [
+          857,
+          1264
+        ],
+        [
+          857,
+          1302
+        ],
+        [
+          213,
+          1297
+        ]
+      ],
+      "bbox_original": [
+        [
+          213,
+          1380
+        ],
+        [
+          857,
+          1385
+        ],
+        [
+          857,
+          1423
+        ],
+        [
+          213,
+          1418
+        ]
+      ],
+      "box_xyxy": [
+        213,
+        1259,
+        857,
+        1302
+      ],
+      "text": "Há lại như người làng ngày nào cũng bị nạn ấy ?",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0194_viet_023",
+      "bbox": [
+        [
+          245,
+          1332
+        ],
+        [
+          982,
+          1332
+        ],
+        [
+          982,
+          1371
+        ],
+        [
+          245,
+          1371
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1453
+        ],
+        [
+          982,
+          1453
+        ],
+        [
+          982,
+          1492
+        ],
+        [
+          245,
+          1492
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1332,
+        982,
+        1371
+      ],
+      "text": "A Rivitoterazza",
+      "confidence": 0.527
+    },
+    {
+      "line_id": "0194_viet_024",
+      "bbox": [
+        [
+          196,
+          1381
+        ],
+        [
+          989,
+          1383
+        ],
+        [
+          989,
+          1418
+        ],
+        [
+          196,
+          1416
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1502
+        ],
+        [
+          989,
+          1504
+        ],
+        [
+          989,
+          1539
+        ],
+        [
+          196,
+          1537
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        1381,
+        989,
+        1418
+      ],
+      "text": "a Kim tuy tử vu thử, Tỷ ngô hương lân chi tử,",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0194_viet_025",
+      "bbox": [
+        [
+          216,
+          1419
+        ],
+        [
+          861,
+          1421
+        ],
+        [
+          861,
+          1455
+        ],
+        [
+          216,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1540
+        ],
+        [
+          861,
+          1542
+        ],
+        [
+          861,
+          1576
+        ],
+        [
+          216,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1419,
+        861,
+        1455
+      ],
+      "text": "Nay dẫu chết về nghề này so với người làng chét",
+      "confidence": 0.9184
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "186",
+      "LÊ TẾ) TẾ) THỊ THỊ",
+      "Tôi lo ngay-ngáy trở dậy dòm",
+      "Thị kỳ hũ, nhi ngô xà thượng tồn",
+      "vào hũ, thấy rắn còn, mới yên tâm mà nằm",
+      "Cần tự chi, thời nhi hiễn yên",
+      "irrelizers",
+      "Nộp rồi, thì có cái gì ăn nấy cho trọn tuổi trời",
+      "Số là trong 1 năm chỉ liêu chết 2 lần",
+      "Kỳ du tắc hi hi nhi lạc,",
+      "Khởi nhược ngô hương lân nhi đán đán hữu thuận",
+      "Há lại như người làng ngày nào cũng bị nạn ấy ?",
+      "a Kim tuy tử vu thử, Tỷ ngô hương lân chi tử,"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN VĂN TINH-TUÝ",
+      "Và Ngô tuân-tuân nhi khởi trị",
+      "101572 G%42 N7 - Đ- T. N T. NGHI",
+      "Tắc hỉ nhiên nhi ngọa.",
+      "X2247",
+      "Kính cần cho nó ăn, đợi kỳ đem nộp",
+      "Thoái nhi cam thực kỳ thồ chi hữu, di tận ngô xỉ xuất",
+      "Xã Cái nhất tuẽ nhi phạm tử giả, nhi yên thị",
+      "03000000002",
+      "còn thì được hú hí vui vẻ.",
+      "thi tail",
+      "A Rivitoterazza",
+      "Nay dẫu chết về nghề này so với người làng chét"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "吾恂恂而起",
+        "phien_am": "186",
+        "dich_nghia_gloss": "PHÁN VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "tr心",
+        "phien_am": "LÊ TẾ) TẾ) THỊ THỊ",
+        "dich_nghia_gloss": "Và Ngô tuân-tuân nhi khởi trị"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "視其折而吾蛇尚存則弛然而卧",
+        "phien_am": "Tôi lo ngay-ngáy trở dậy dòm",
+        "dich_nghia_gloss": "101572 G%42 N7 - Đ- T. N T. NGHI"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "元i",
+        "phien_am": "Thị kỳ hũ, nhi ngô xà thượng tồn",
+        "dich_nghia_gloss": "Tắc hỉ nhiên nhi ngọa."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "謹食之時而獻馬",
+        "phien_am": "vào hũ, thấy rắn còn, mới yên tâm mà nằm",
+        "dich_nghia_gloss": "X2247"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "江n,",
+        "phien_am": "Cần tự chi, thời nhi hiễn yên",
+        "dich_nghia_gloss": "Kính cần cho nó ăn, đợi kỳ đem nộp"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "退而甘食其土之有以盡吾藍",
+        "phien_am": "irrelizers",
+        "dich_nghia_gloss": "Thoái nhi cam thực kỳ thồ chi hữu, di tận ngô xỉ xuất"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "蓋一歲之犯死者二為",
+        "phien_am": "Nộp rồi, thì có cái gì ăn nấy cho trọn tuổi trời",
+        "dich_nghia_gloss": "Xã Cái nhất tuẽ nhi phạm tử giả, nhi yên thị"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "其餘則熙熙而樂",
+        "phien_am": "Số là trong 1 năm chỉ liêu chết 2 lần",
+        "dich_nghia_gloss": "03000000002"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "笠若吾卿都之旦旦有是哉",
+        "phien_am": "Kỳ du tắc hi hi nhi lạc,",
+        "dich_nghia_gloss": "còn thì được hú hí vui vẻ."
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "全",
+        "phien_am": "Khởi nhược ngô hương lân nhi đán đán hữu thuận",
+        "dich_nghia_gloss": "thi tail"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "雖",
+        "phien_am": "Há lại như người làng ngày nào cũng bị nạn ấy ?",
+        "dich_nghia_gloss": "A Rivitoterazza"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "死",
+        "phien_am": "a Kim tuy tử vu thử, Tỷ ngô hương lân chi tử,",
+        "dich_nghia_gloss": "Nay dẫu chết về nghề này so với người làng chét"
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "於",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "此比吾郵鄰之死",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

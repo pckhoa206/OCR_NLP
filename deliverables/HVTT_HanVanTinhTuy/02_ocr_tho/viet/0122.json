@@ -1,0 +1,1290 @@
+{
+  "page_id": "0122",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 122,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0122_viet_000",
+      "bbox": [
+        [
+          192,
+          32
+        ],
+        [
+          245,
+          32
+        ],
+        [
+          245,
+          64
+        ],
+        [
+          192,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          153
+        ],
+        [
+          245,
+          153
+        ],
+        [
+          245,
+          185
+        ],
+        [
+          192,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        32,
+        245,
+        64
+      ],
+      "text": "116",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0122_viet_001",
+      "bbox": [
+        [
+          668,
+          30
+        ],
+        [
+          989,
+          30
+        ],
+        [
+          989,
+          59
+        ],
+        [
+          668,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          151
+        ],
+        [
+          989,
+          151
+        ],
+        [
+          989,
+          180
+        ],
+        [
+          668,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        30,
+        989,
+        59
+      ],
+      "text": "PHÁN-VĂN TINH-TUY",
+      "confidence": 0.887
+    },
+    {
+      "line_id": "0122_viet_002",
+      "bbox": [
+        [
+          246,
+          132
+        ],
+        [
+          640,
+          134
+        ],
+        [
+          639,
+          174
+        ],
+        [
+          246,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          253
+        ],
+        [
+          640,
+          255
+        ],
+        [
+          639,
+          295
+        ],
+        [
+          246,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        132,
+        640,
+        174
+      ],
+      "text": "4477",
+      "confidence": 0.3363
+    },
+    {
+      "line_id": "0122_viet_003",
+      "bbox": [
+        [
+          228,
+          184
+        ],
+        [
+          592,
+          189
+        ],
+        [
+          592,
+          219
+        ],
+        [
+          228,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          305
+        ],
+        [
+          592,
+          310
+        ],
+        [
+          592,
+          340
+        ],
+        [
+          228,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        184,
+        592,
+        219
+      ],
+      "text": "Hoài đê-hôn nhi bất kiên",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0122_viet_004",
+      "bbox": [
+        [
+          225,
+          226
+        ],
+        [
+          955,
+          231
+        ],
+        [
+          955,
+          270
+        ],
+        [
+          224,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          347
+        ],
+        [
+          955,
+          352
+        ],
+        [
+          955,
+          391
+        ],
+        [
+          224,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        226,
+        955,
+        270
+      ],
+      "text": "Tưởng nhớ chôn cửa vua, không trông thầy được",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0122_viet_005",
+      "bbox": [
+        [
+          245,
+          300
+        ],
+        [
+          638,
+          303
+        ],
+        [
+          638,
+          348
+        ],
+        [
+          245,
+          345
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          421
+        ],
+        [
+          638,
+          424
+        ],
+        [
+          638,
+          469
+        ],
+        [
+          245,
+          466
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        300,
+        638,
+        348
+      ],
+      "text": "2017",
+      "confidence": 0.2336
+    },
+    {
+      "line_id": "0122_viet_006",
+      "bbox": [
+        [
+          229,
+          358
+        ],
+        [
+          658,
+          358
+        ],
+        [
+          658,
+          392
+        ],
+        [
+          229,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          479
+        ],
+        [
+          658,
+          479
+        ],
+        [
+          658,
+          513
+        ],
+        [
+          229,
+          513
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        358,
+        658,
+        392
+      ],
+      "text": "Phụng tuyên thất di hd niên l",
+      "confidence": 0.8845
+    },
+    {
+      "line_id": "0122_viet_007",
+      "bbox": [
+        [
+          226,
+          405
+        ],
+        [
+          943,
+          405
+        ],
+        [
+          943,
+          439
+        ],
+        [
+          226,
+          439
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          526
+        ],
+        [
+          943,
+          526
+        ],
+        [
+          943,
+          560
+        ],
+        [
+          226,
+          560
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        405,
+        943,
+        439
+      ],
+      "text": "phụng chiều nơi tuyên-thất, chẳng biết năm nào",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0122_viet_008",
+      "bbox": [
+        [
+          246,
+          475
+        ],
+        [
+          913,
+          474
+        ],
+        [
+          913,
+          514
+        ],
+        [
+          246,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          596
+        ],
+        [
+          913,
+          595
+        ],
+        [
+          913,
+          635
+        ],
+        [
+          246,
+          637
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        474,
+        913,
+        516
+      ],
+      "text": "về 03 đã T A T A 2 trập 2",
+      "confidence": 0.5224
+    },
+    {
+      "line_id": "0122_viet_009",
+      "bbox": [
+        [
+          224,
+          524
+        ],
+        [
+          893,
+          526
+        ],
+        [
+          893,
+          561
+        ],
+        [
+          224,
+          559
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          645
+        ],
+        [
+          893,
+          647
+        ],
+        [
+          893,
+          682
+        ],
+        [
+          224,
+          680
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        524,
+        893,
+        561
+      ],
+      "text": "Ta hôi Thời vận bất tê, mệnh đồ đa suyễn",
+      "confidence": 0.9019
+    },
+    {
+      "line_id": "0122_viet_010",
+      "bbox": [
+        [
+          223,
+          566
+        ],
+        [
+          987,
+          567
+        ],
+        [
+          987,
+          609
+        ],
+        [
+          223,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          687
+        ],
+        [
+          987,
+          688
+        ],
+        [
+          987,
+          730
+        ],
+        [
+          223,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        566,
+        987,
+        609
+      ],
+      "text": "Than thời vận chẳng thường, số mệnh ngang trái",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0122_viet_011",
+      "bbox": [
+        [
+          226,
+          691
+        ],
+        [
+          852,
+          695
+        ],
+        [
+          852,
+          733
+        ],
+        [
+          226,
+          730
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          812
+        ],
+        [
+          852,
+          816
+        ],
+        [
+          852,
+          854
+        ],
+        [
+          226,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        691,
+        852,
+        733
+      ],
+      "text": "Phùng-Đường dị lão, Lý Quảng nan phong",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0122_viet_012",
+      "bbox": [
+        [
+          223,
+          733
+        ],
+        [
+          913,
+          735
+        ],
+        [
+          913,
+          775
+        ],
+        [
+          223,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          854
+        ],
+        [
+          913,
+          856
+        ],
+        [
+          913,
+          896
+        ],
+        [
+          223,
+          894
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        733,
+        913,
+        775
+      ],
+      "text": "Phùng Đường dễ già nu: Lý Quảng khó được",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0122_viet_013",
+      "bbox": [
+        [
+          196,
+          783
+        ],
+        [
+          356,
+          783
+        ],
+        [
+          356,
+          819
+        ],
+        [
+          196,
+          819
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          904
+        ],
+        [
+          356,
+          904
+        ],
+        [
+          356,
+          940
+        ],
+        [
+          196,
+          940
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        783,
+        356,
+        819
+      ],
+      "text": "phong hầu",
+      "confidence": 0.9353
+    },
+    {
+      "line_id": "0122_viet_014",
+      "bbox": [
+        [
+          250,
+          852
+        ],
+        [
+          915,
+          852
+        ],
+        [
+          915,
+          891
+        ],
+        [
+          250,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          973
+        ],
+        [
+          915,
+          973
+        ],
+        [
+          915,
+          1012
+        ],
+        [
+          250,
+          1012
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        852,
+        915,
+        891
+      ],
+      "text": "05 đề kể đị đếm mỹ",
+      "confidence": 0.491
+    },
+    {
+      "line_id": "0122_viet_015",
+      "bbox": [
+        [
+          229,
+          906
+        ],
+        [
+          943,
+          906
+        ],
+        [
+          943,
+          939
+        ],
+        [
+          229,
+          939
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1027
+        ],
+        [
+          943,
+          1027
+        ],
+        [
+          943,
+          1060
+        ],
+        [
+          229,
+          1060
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        906,
+        943,
+        939
+      ],
+      "text": "Khuất Giả-Nghị u Trường-sa, phi vô thánh-chúa",
+      "confidence": 0.9
+    },
+    {
+      "line_id": "0122_viet_016",
+      "bbox": [
+        [
+          225,
+          949
+        ],
+        [
+          719,
+          953
+        ],
+        [
+          719,
+          986
+        ],
+        [
+          224,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1070
+        ],
+        [
+          719,
+          1074
+        ],
+        [
+          719,
+          1107
+        ],
+        [
+          224,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        949,
+        719,
+        986
+      ],
+      "text": "Giả-Nghị bị khuất nơi trường-sa,",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0122_viet_017",
+      "bbox": [
+        [
+          226,
+          993
+        ],
+        [
+          742,
+          993
+        ],
+        [
+          742,
+          1031
+        ],
+        [
+          226,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1114
+        ],
+        [
+          742,
+          1114
+        ],
+        [
+          742,
+          1152
+        ],
+        [
+          226,
+          1152
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        993,
+        742,
+        1031
+      ],
+      "text": "chẳng phải không vua hiền thánh;",
+      "confidence": 0.8868
+    },
+    {
+      "line_id": "0122_viet_018",
+      "bbox": [
+        [
+          248,
+          1063
+        ],
+        [
+          915,
+          1066
+        ],
+        [
+          914,
+          1112
+        ],
+        [
+          248,
+          1108
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1184
+        ],
+        [
+          915,
+          1187
+        ],
+        [
+          914,
+          1233
+        ],
+        [
+          248,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1063,
+        915,
+        1112
+      ],
+      "text": "R ĐÃ H VỀ G ĐẶT",
+      "confidence": 0.4372
+    },
+    {
+      "line_id": "0122_viet_019",
+      "bbox": [
+        [
+          228,
+          1118
+        ],
+        [
+          987,
+          1118
+        ],
+        [
+          987,
+          1157
+        ],
+        [
+          228,
+          1157
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1239
+        ],
+        [
+          987,
+          1239
+        ],
+        [
+          987,
+          1278
+        ],
+        [
+          228,
+          1278
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1118,
+        987,
+        1157
+      ],
+      "text": "Thoán Lương Hông ư hải-khúc, khởi phạp minh-thì",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0122_viet_020",
+      "bbox": [
+        [
+          223,
+          1162
+        ],
+        [
+          773,
+          1162
+        ],
+        [
+          773,
+          1200
+        ],
+        [
+          223,
+          1200
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1283
+        ],
+        [
+          773,
+          1283
+        ],
+        [
+          773,
+          1321
+        ],
+        [
+          223,
+          1321
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1162,
+        773,
+        1200
+      ],
+      "text": "Lương Hồng phải náu miền hải giốc,",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0122_viet_021",
+      "bbox": [
+        [
+          224,
+          1205
+        ],
+        [
+          677,
+          1205
+        ],
+        [
+          677,
+          1244
+        ],
+        [
+          224,
+          1244
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1326
+        ],
+        [
+          677,
+          1326
+        ],
+        [
+          677,
+          1365
+        ],
+        [
+          224,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1205,
+        677,
+        1244
+      ],
+      "text": "đầu có thiêu thời quang-minh.",
+      "confidence": 0.9001
+    },
+    {
+      "line_id": "0122_viet_022",
+      "bbox": [
+        [
+          226,
+          1331
+        ],
+        [
+          862,
+          1331
+        ],
+        [
+          862,
+          1364
+        ],
+        [
+          226,
+          1364
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1452
+        ],
+        [
+          862,
+          1452
+        ],
+        [
+          862,
+          1485
+        ],
+        [
+          226,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1331,
+        862,
+        1364
+      ],
+      "text": "Sở lai: Quân-tử un bán, dạt-nhân tri mệnh",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0122_viet_023",
+      "bbox": [
+        [
+          223,
+          1373
+        ],
+        [
+          851,
+          1374
+        ],
+        [
+          850,
+          1410
+        ],
+        [
+          223,
+          1408
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1494
+        ],
+        [
+          851,
+          1495
+        ],
+        [
+          850,
+          1531
+        ],
+        [
+          223,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1373,
+        851,
+        1410
+      ],
+      "text": "Nhờ được: người quân-tử vui cảnh nghèo,",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0122_viet_024",
+      "bbox": [
+        [
+          221,
+          1420
+        ],
+        [
+          611,
+          1418
+        ],
+        [
+          611,
+          1451
+        ],
+        [
+          221,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1541
+        ],
+        [
+          611,
+          1539
+        ],
+        [
+          611,
+          1572
+        ],
+        [
+          221,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1418,
+        611,
+        1453
+      ],
+      "text": "bậc đạt-nhân biết rõ mệnh",
+      "confidence": 0.9066
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "PHÁN-VĂN TINH-TUY",
+      "4477",
+      "Tưởng nhớ chôn cửa vua, không trông thầy được",
+      "Phụng tuyên thất di hd niên l",
+      "về 03 đã T A T A 2 trập 2",
+      "Than thời vận chẳng thường, số mệnh ngang trái",
+      "Phùng Đường dễ già nu: Lý Quảng khó được",
+      "05 đề kể đị đếm mỹ",
+      "Giả-Nghị bị khuất nơi trường-sa,",
+      "R ĐÃ H VỀ G ĐẶT",
+      "Lương Hồng phải náu miền hải giốc,",
+      "Sở lai: Quân-tử un bán, dạt-nhân tri mệnh"
+    ],
+    "dich_nghia_lines": [
+      "bậc đạt-nhân biết rõ mệnh"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "懷帝間而不見",
+        "phien_am": "PHÁN-VĂN TINH-TUY",
+        "dich_nghia_gloss": "116"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "de片8n",
+        "phien_am": "4477",
+        "dich_nghia_gloss": "Hoài đê-hôn nhi bất kiên"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "奉宣室以何",
+        "phien_am": "Tưởng nhớ chôn cửa vua, không trông thầy được",
+        "dich_nghia_gloss": "2017"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "年",
+        "phien_am": "Phụng tuyên thất di hd niên l",
+        "dich_nghia_gloss": "phụng chiều nơi tuyên-thất, chẳng biết năm nào"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "鳴呼時",
+        "phien_am": "về 03 đã T A T A 2 trập 2",
+        "dich_nghia_gloss": "Ta hôi Thời vận bất tê, mệnh đồ đa suyễn"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "運不香命途多興外",
+        "phien_am": "Than thời vận chẳng thường, số mệnh ngang trái",
+        "dich_nghia_gloss": "Phùng-Đường dị lão, Lý Quảng nan phong"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "馮唐•易老李廣難封",
+        "phien_am": "Phùng Đường dễ già nu: Lý Quảng khó được",
+        "dich_nghia_gloss": "phong hầu"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "屈賈誼放長沙非無聖主",
+        "phien_am": "05 đề kể đị đếm mỹ",
+        "dich_nghia_gloss": "Khuất Giả-Nghị u Trường-sa, phi vô thánh-chúa"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "竄梁鴻鈴海曲直之明時",
+        "phien_am": "Giả-Nghị bị khuất nơi trường-sa,",
+        "dich_nghia_gloss": "chẳng phải không vua hiền thánh;"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "所",
+        "phien_am": "R ĐÃ H VỀ G ĐẶT",
+        "dich_nghia_gloss": "Thoán Lương Hông ư hải-khúc, khởi phạp minh-thì"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "賴君子安廆貧達",
+        "phien_am": "Lương Hồng phải náu miền hải giốc,",
+        "dich_nghia_gloss": "đầu có thiêu thời quang-minh."
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "人知命",
+        "phien_am": "Sở lai: Quân-tử un bán, dạt-nhân tri mệnh",
+        "dich_nghia_gloss": "Nhờ được: người quân-tử vui cảnh nghèo,"
+      }
+    ]
+  }
+}

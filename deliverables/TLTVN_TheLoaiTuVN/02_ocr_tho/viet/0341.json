@@ -1,0 +1,892 @@
+{
+  "page_id": "0341",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 341,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 963,
+    "footnote_separator_y_original": 1078,
+    "effective_width": 1122,
+    "effective_height": 963
+  },
+  "items": [
+    {
+      "line_id": "0341_viet_000",
+      "bbox": [
+        [
+          174,
+          3
+        ],
+        [
+          1072,
+          7
+        ],
+        [
+          1072,
+          35
+        ],
+        [
+          174,
+          31
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          118
+        ],
+        [
+          1072,
+          122
+        ],
+        [
+          1072,
+          150
+        ],
+        [
+          174,
+          146
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        3,
+        1072,
+        35
+      ],
+      "text": "ĐỂ TRƯỜNG THAY VŨ HUYNH NHÂN KHI THÂN PHỤ THỊ",
+      "confidence": 0.8025
+    },
+    {
+      "line_id": "0341_viet_001",
+      "bbox": [
+        [
+          114,
+          42
+        ],
+        [
+          268,
+          38
+        ],
+        [
+          269,
+          74
+        ],
+        [
+          115,
+          78
+        ]
+      ],
+      "bbox_original": [
+        [
+          114,
+          157
+        ],
+        [
+          268,
+          153
+        ],
+        [
+          269,
+          189
+        ],
+        [
+          115,
+          193
+        ]
+      ],
+      "box_xyxy": [
+        114,
+        38,
+        269,
+        78
+      ],
+      "text": "QUA ĐỜI",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0341_viet_002",
+      "bbox": [
+        [
+          177,
+          92
+        ],
+        [
+          553,
+          96
+        ],
+        [
+          553,
+          129
+        ],
+        [
+          176,
+          125
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          207
+        ],
+        [
+          553,
+          211
+        ],
+        [
+          553,
+          244
+        ],
+        [
+          176,
+          240
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        92,
+        553,
+        129
+      ],
+      "text": "(Điệu Mãn đình phương)",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0341_viet_003",
+      "bbox": [
+        [
+          174,
+          140
+        ],
+        [
+          469,
+          142
+        ],
+        [
+          468,
+          175
+        ],
+        [
+          174,
+          172
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          255
+        ],
+        [
+          469,
+          257
+        ],
+        [
+          468,
+          290
+        ],
+        [
+          174,
+          287
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        140,
+        469,
+        175
+      ],
+      "text": "Người có tội tình gì,",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0341_viet_004",
+      "bbox": [
+        [
+          173,
+          185
+        ],
+        [
+          509,
+          191
+        ],
+        [
+          508,
+          227
+        ],
+        [
+          173,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          300
+        ],
+        [
+          509,
+          306
+        ],
+        [
+          508,
+          342
+        ],
+        [
+          173,
+          336
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        185,
+        509,
+        227
+      ],
+      "text": "Trời chẳng thương xót,",
+      "confidence": 0.904
+    },
+    {
+      "line_id": "0341_viet_005",
+      "bbox": [
+        [
+          174,
+          234
+        ],
+        [
+          691,
+          237
+        ],
+        [
+          691,
+          277
+        ],
+        [
+          174,
+          273
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          349
+        ],
+        [
+          691,
+          352
+        ],
+        [
+          691,
+          392
+        ],
+        [
+          174,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        234,
+        691,
+        277
+      ],
+      "text": "Chăng gì bằng sự lựa chọn của trời.",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0341_viet_006",
+      "bbox": [
+        [
+          173,
+          285
+        ],
+        [
+          539,
+          288
+        ],
+        [
+          539,
+          323
+        ],
+        [
+          173,
+          319
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          400
+        ],
+        [
+          539,
+          403
+        ],
+        [
+          539,
+          438
+        ],
+        [
+          173,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        285,
+        539,
+        323
+      ],
+      "text": "Sáng nay, ngày hôm qua",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0341_viet_007",
+      "bbox": [
+        [
+          173,
+          332
+        ],
+        [
+          882,
+          330
+        ],
+        [
+          882,
+          369
+        ],
+        [
+          173,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          447
+        ],
+        [
+          882,
+          445
+        ],
+        [
+          882,
+          484
+        ],
+        [
+          173,
+          487
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        330,
+        882,
+        372
+      ],
+      "text": "Chớp mắt bỗng biển xanh hoá thành nương dâu",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0341_viet_008",
+      "bbox": [
+        [
+          173,
+          382
+        ],
+        [
+          781,
+          382
+        ],
+        [
+          781,
+          417
+        ],
+        [
+          173,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          497
+        ],
+        [
+          781,
+          497
+        ],
+        [
+          781,
+          532
+        ],
+        [
+          173,
+          532
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        382,
+        781,
+        417
+      ],
+      "text": "Nhớ khi xưa, [con cháu] vui vầy dưới gối",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0341_viet_009",
+      "bbox": [
+        [
+          172,
+          432
+        ],
+        [
+          988,
+          433
+        ],
+        [
+          988,
+          468
+        ],
+        [
+          172,
+          466
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          547
+        ],
+        [
+          988,
+          548
+        ],
+        [
+          988,
+          583
+        ],
+        [
+          172,
+          581
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        432,
+        988,
+        468
+      ],
+      "text": "Dưới bóng cây hoè, điêm xuyết cho ánh năng mùa xuân",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0341_viet_010",
+      "bbox": [
+        [
+          172,
+          478
+        ],
+        [
+          563,
+          482
+        ],
+        [
+          563,
+          517
+        ],
+        [
+          172,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          593
+        ],
+        [
+          563,
+          597
+        ],
+        [
+          563,
+          632
+        ],
+        [
+          172,
+          629
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        478,
+        563,
+        517
+      ],
+      "text": "Đừng nhắc đến chuyện đó,",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0341_viet_011",
+      "bbox": [
+        [
+          174,
+          529
+        ],
+        [
+          423,
+          531
+        ],
+        [
+          423,
+          564
+        ],
+        [
+          174,
+          561
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          644
+        ],
+        [
+          423,
+          646
+        ],
+        [
+          423,
+          679
+        ],
+        [
+          174,
+          676
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        529,
+        423,
+        564
+      ],
+      "text": "Con thơ kém cỏi,",
+      "confidence": 0.9151
+    },
+    {
+      "line_id": "0341_viet_012",
+      "bbox": [
+        [
+          173,
+          573
+        ],
+        [
+          958,
+          580
+        ],
+        [
+          958,
+          615
+        ],
+        [
+          173,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          688
+        ],
+        [
+          958,
+          695
+        ],
+        [
+          958,
+          730
+        ],
+        [
+          173,
+          723
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        573,
+        958,
+        615
+      ],
+      "text": "Chưa thể báo đền dầu chỉ như hạt bụi [so với núi cao]",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0341_viet_013",
+      "bbox": [
+        [
+          639,
+          625
+        ],
+        [
+          1071,
+          627
+        ],
+        [
+          1070,
+          663
+        ],
+        [
+          639,
+          661
+        ]
+      ],
+      "bbox_original": [
+        [
+          639,
+          740
+        ],
+        [
+          1071,
+          742
+        ],
+        [
+          1070,
+          778
+        ],
+        [
+          639,
+          776
+        ]
+      ],
+      "box_xyxy": [
+        639,
+        625,
+        1071,
+        663
+      ],
+      "text": "như giọt nước [so với bể lớn]",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0341_viet_014",
+      "bbox": [
+        [
+          172,
+          721
+        ],
+        [
+          477,
+          721
+        ],
+        [
+          477,
+          756
+        ],
+        [
+          172,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          836
+        ],
+        [
+          477,
+          836
+        ],
+        [
+          477,
+          871
+        ],
+        [
+          172,
+          871
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        721,
+        477,
+        756
+      ],
+      "text": "Ngoảnh đầu nhìn lại,",
+      "confidence": 0.8973
+    },
+    {
+      "line_id": "0341_viet_015",
+      "bbox": [
+        [
+          172,
+          772
+        ],
+        [
+          376,
+          774
+        ],
+        [
+          376,
+          807
+        ],
+        [
+          172,
+          804
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          887
+        ],
+        [
+          376,
+          889
+        ],
+        [
+          376,
+          922
+        ],
+        [
+          172,
+          919
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        772,
+        376,
+        807
+      ],
+      "text": "Ngày đoàn tụ,",
+      "confidence": 0.898
+    },
+    {
+      "line_id": "0341_viet_016",
+      "bbox": [
+        [
+          172,
+          818
+        ],
+        [
+          743,
+          814
+        ],
+        [
+          743,
+          853
+        ],
+        [
+          172,
+          858
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          933
+        ],
+        [
+          743,
+          929
+        ],
+        [
+          743,
+          968
+        ],
+        [
+          172,
+          973
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        814,
+        743,
+        858
+      ],
+      "text": "Cây ngô đồng họ hàn trồng xanh biếc?",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0341_viet_017",
+      "bbox": [
+        [
+          174,
+          867
+        ],
+        [
+          679,
+          867
+        ],
+        [
+          679,
+          906
+        ],
+        [
+          174,
+          906
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          982
+        ],
+        [
+          679,
+          982
+        ],
+        [
+          679,
+          1021
+        ],
+        [
+          174,
+          1021
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        867,
+        679,
+        906
+      ],
+      "text": "Cây quê họ đậu trồng đưa hương?",
+      "confidence": 0.8993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "ĐỂ TRƯỜNG THAY VŨ HUYNH NHÂN KHI THÂN PHỤ THỊ",
+      "QUA ĐỜI",
+      "(Điệu Mãn đình phương)",
+      "Người có tội tình gì,",
+      "Trời chẳng thương xót,",
+      "Chăng gì bằng sự lựa chọn của trời.",
+      "Sáng nay, ngày hôm qua",
+      "Chớp mắt bỗng biển xanh hoá thành nương dâu",
+      "Nhớ khi xưa, [con cháu] vui vầy dưới gối",
+      "Dưới bóng cây hoè, điêm xuyết cho ánh năng mùa xuân",
+      "Đừng nhắc đến chuyện đó,",
+      "Con thơ kém cỏi,",
+      "Chưa thể báo đền dầu chỉ như hạt bụi [so với núi cao]",
+      "như giọt nước [so với bể lớn]",
+      "Ngoảnh đầu nhìn lại,",
+      "Ngày đoàn tụ,",
+      "Cây ngô đồng họ hàn trồng xanh biếc?",
+      "Cây quê họ đậu trồng đưa hương?"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

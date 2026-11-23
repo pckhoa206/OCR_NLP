@@ -1,0 +1,1386 @@
+{
+  "page_id": "0134",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 134,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0134_viet_000",
+      "bbox": [
+        [
+          197,
+          28
+        ],
+        [
+          250,
+          28
+        ],
+        [
+          250,
+          60
+        ],
+        [
+          197,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          149
+        ],
+        [
+          250,
+          149
+        ],
+        [
+          250,
+          181
+        ],
+        [
+          197,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        28,
+        250,
+        60
+      ],
+      "text": "128",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0134_viet_001",
+      "bbox": [
+        [
+          670,
+          27
+        ],
+        [
+          990,
+          25
+        ],
+        [
+          991,
+          59
+        ],
+        [
+          670,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          148
+        ],
+        [
+          990,
+          146
+        ],
+        [
+          991,
+          180
+        ],
+        [
+          670,
+          181
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        25,
+        991,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0134_viet_002",
+      "bbox": [
+        [
+          251,
+          132
+        ],
+        [
+          641,
+          132
+        ],
+        [
+          641,
+          167
+        ],
+        [
+          251,
+          167
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          253
+        ],
+        [
+          641,
+          253
+        ],
+        [
+          641,
+          288
+        ],
+        [
+          251,
+          288
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        132,
+        641,
+        167
+      ],
+      "text": "X1",
+      "confidence": 0.3878
+    },
+    {
+      "line_id": "0134_viet_003",
+      "bbox": [
+        [
+          233,
+          179
+        ],
+        [
+          682,
+          181
+        ],
+        [
+          682,
+          216
+        ],
+        [
+          233,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          300
+        ],
+        [
+          682,
+          302
+        ],
+        [
+          682,
+          337
+        ],
+        [
+          233,
+          335
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        179,
+        682,
+        216
+      ],
+      "text": "Lục vương tất, tứ hải nhãt,",
+      "confidence": 0.8815
+    },
+    {
+      "line_id": "0134_viet_004",
+      "bbox": [
+        [
+          228,
+          224
+        ],
+        [
+          763,
+          226
+        ],
+        [
+          763,
+          261
+        ],
+        [
+          228,
+          259
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          345
+        ],
+        [
+          763,
+          347
+        ],
+        [
+          763,
+          382
+        ],
+        [
+          228,
+          380
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        224,
+        763,
+        261
+      ],
+      "text": "Sáu vua hết thời, bồn bể thông nhật",
+      "confidence": 0.8966
+    },
+    {
+      "line_id": "0134_viet_005",
+      "bbox": [
+        [
+          252,
+          294
+        ],
+        [
+          640,
+          298
+        ],
+        [
+          639,
+          343
+        ],
+        [
+          251,
+          340
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          415
+        ],
+        [
+          640,
+          419
+        ],
+        [
+          639,
+          464
+        ],
+        [
+          251,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        294,
+        640,
+        343
+      ],
+      "text": "FLABLE",
+      "confidence": 0.7797
+    },
+    {
+      "line_id": "0134_viet_006",
+      "bbox": [
+        [
+          231,
+          345
+        ],
+        [
+          707,
+          348
+        ],
+        [
+          707,
+          388
+        ],
+        [
+          231,
+          385
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          466
+        ],
+        [
+          707,
+          469
+        ],
+        [
+          707,
+          509
+        ],
+        [
+          231,
+          506
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        345,
+        707,
+        388
+      ],
+      "text": "Thục sơn ngột, A phòng xuất",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0134_viet_007",
+      "bbox": [
+        [
+          225,
+          386
+        ],
+        [
+          692,
+          395
+        ],
+        [
+          691,
+          435
+        ],
+        [
+          224,
+          427
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          507
+        ],
+        [
+          692,
+          516
+        ],
+        [
+          691,
+          556
+        ],
+        [
+          224,
+          548
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        386,
+        692,
+        435
+      ],
+      "text": "Giữa miền núi thục cao phẳng",
+      "confidence": 0.9023
+    },
+    {
+      "line_id": "0134_viet_008",
+      "bbox": [
+        [
+          224,
+          440
+        ],
+        [
+          552,
+          437
+        ],
+        [
+          552,
+          477
+        ],
+        [
+          225,
+          481
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          561
+        ],
+        [
+          552,
+          558
+        ],
+        [
+          552,
+          598
+        ],
+        [
+          225,
+          602
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        437,
+        552,
+        481
+      ],
+      "text": "cung A-phòng hiện ra",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0134_viet_009",
+      "bbox": [
+        [
+          253,
+          511
+        ],
+        [
+          913,
+          511
+        ],
+        [
+          913,
+          551
+        ],
+        [
+          253,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          632
+        ],
+        [
+          913,
+          632
+        ],
+        [
+          913,
+          672
+        ],
+        [
+          253,
+          672
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        511,
+        913,
+        551
+      ],
+      "text": "LRETAPER",
+      "confidence": 0.6936
+    },
+    {
+      "line_id": "0134_viet_010",
+      "bbox": [
+        [
+          233,
+          559
+        ],
+        [
+          950,
+          561
+        ],
+        [
+          950,
+          599
+        ],
+        [
+          233,
+          598
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          680
+        ],
+        [
+          950,
+          682
+        ],
+        [
+          950,
+          720
+        ],
+        [
+          233,
+          719
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        559,
+        950,
+        599
+      ],
+      "text": "Phúc áp tam bách dư lý, cách ly thiên nhật",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0134_viet_011",
+      "bbox": [
+        [
+          225,
+          604
+        ],
+        [
+          871,
+          608
+        ],
+        [
+          871,
+          646
+        ],
+        [
+          224,
+          643
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          725
+        ],
+        [
+          871,
+          729
+        ],
+        [
+          871,
+          767
+        ],
+        [
+          224,
+          764
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        604,
+        871,
+        646
+      ],
+      "text": "Che kín hơn ba trăm dặm, xa cách mặt trời.",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0134_viet_012",
+      "bbox": [
+        [
+          250,
+          680
+        ],
+        [
+          982,
+          680
+        ],
+        [
+          982,
+          720
+        ],
+        [
+          250,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          801
+        ],
+        [
+          982,
+          801
+        ],
+        [
+          982,
+          841
+        ],
+        [
+          250,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        680,
+        982,
+        720
+      ],
+      "text": "12 01 dt 15 15 t tế 2 thuần thuận thuận thị thuận thị thuận thuận thuận thuật thuập t thuổn thế thế thế thế t thế    nhế         ",
+      "confidence": 0.3352
+    },
+    {
+      "line_id": "0134_viet_013",
+      "bbox": [
+        [
+          231,
+          730
+        ],
+        [
+          985,
+          730
+        ],
+        [
+          985,
+          763
+        ],
+        [
+          231,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          851
+        ],
+        [
+          985,
+          851
+        ],
+        [
+          985,
+          884
+        ],
+        [
+          231,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        730,
+        985,
+        763
+      ],
+      "text": "Ly sơn bắc cầu nhi tây chiết, trực tầu hàm",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0134_viet_014",
+      "bbox": [
+        [
+          201,
+          773
+        ],
+        [
+          310,
+          781
+        ],
+        [
+          307,
+          811
+        ],
+        [
+          198,
+          803
+        ]
+      ],
+      "bbox_original": [
+        [
+          201,
+          894
+        ],
+        [
+          310,
+          902
+        ],
+        [
+          307,
+          932
+        ],
+        [
+          198,
+          924
+        ]
+      ],
+      "box_xyxy": [
+        198,
+        773,
+        310,
+        811
+      ],
+      "text": "dương.",
+      "confidence": 0.8756
+    },
+    {
+      "line_id": "0134_viet_015",
+      "bbox": [
+        [
+          226,
+          819
+        ],
+        [
+          989,
+          819
+        ],
+        [
+          989,
+          859
+        ],
+        [
+          226,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          940
+        ],
+        [
+          989,
+          940
+        ],
+        [
+          989,
+          980
+        ],
+        [
+          226,
+          980
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        819,
+        989,
+        859
+      ],
+      "text": "Núi Ly-sơn nổi từ bắc, ngoẹo sang tây, chạy thẳng",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0134_viet_016",
+      "bbox": [
+        [
+          197,
+          857
+        ],
+        [
+          446,
+          868
+        ],
+        [
+          444,
+          908
+        ],
+        [
+          195,
+          897
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          978
+        ],
+        [
+          446,
+          989
+        ],
+        [
+          444,
+          1029
+        ],
+        [
+          195,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        857,
+        446,
+        908
+      ],
+      "text": "đên hàm dương",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0134_viet_017",
+      "bbox": [
+        [
+          248,
+          941
+        ],
+        [
+          780,
+          941
+        ],
+        [
+          780,
+          981
+        ],
+        [
+          248,
+          981
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1062
+        ],
+        [
+          780,
+          1062
+        ],
+        [
+          780,
+          1102
+        ],
+        [
+          248,
+          1102
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        941,
+        780,
+        981
+      ],
+      "text": "1014 - GÌN E",
+      "confidence": 0.5136
+    },
+    {
+      "line_id": "0134_viet_018",
+      "bbox": [
+        [
+          230,
+          986
+        ],
+        [
+          952,
+          993
+        ],
+        [
+          952,
+          1031
+        ],
+        [
+          229,
+          1024
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1107
+        ],
+        [
+          952,
+          1114
+        ],
+        [
+          952,
+          1152
+        ],
+        [
+          229,
+          1145
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        986,
+        952,
+        1031
+      ],
+      "text": "Nhị xuyên dung dung, lưu nhập cung tường",
+      "confidence": 0.9352
+    },
+    {
+      "line_id": "0134_viet_019",
+      "bbox": [
+        [
+          226,
+          1033
+        ],
+        [
+          987,
+          1040
+        ],
+        [
+          987,
+          1080
+        ],
+        [
+          226,
+          1073
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1154
+        ],
+        [
+          987,
+          1161
+        ],
+        [
+          987,
+          1201
+        ],
+        [
+          226,
+          1194
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1033,
+        987,
+        1080
+      ],
+      "text": "Hai con sông nước tràn đầy chảy vào bên vách cung",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0134_viet_020",
+      "bbox": [
+        [
+          250,
+          1106
+        ],
+        [
+          781,
+          1108
+        ],
+        [
+          781,
+          1153
+        ],
+        [
+          250,
+          1152
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1227
+        ],
+        [
+          781,
+          1229
+        ],
+        [
+          781,
+          1274
+        ],
+        [
+          250,
+          1273
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1106,
+        781,
+        1153
+      ],
+      "text": "184100001201",
+      "confidence": 0.2168
+    },
+    {
+      "line_id": "0134_viet_021",
+      "bbox": [
+        [
+          231,
+          1160
+        ],
+        [
+          781,
+          1162
+        ],
+        [
+          781,
+          1197
+        ],
+        [
+          231,
+          1195
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          1281
+        ],
+        [
+          781,
+          1283
+        ],
+        [
+          781,
+          1318
+        ],
+        [
+          231,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        1160,
+        781,
+        1197
+      ],
+      "text": "Ngũ bộ nhất lâu, tháp bộ nhất các,",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0134_viet_022",
+      "bbox": [
+        [
+          225,
+          1203
+        ],
+        [
+          842,
+          1210
+        ],
+        [
+          842,
+          1244
+        ],
+        [
+          224,
+          1237
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          1324
+        ],
+        [
+          842,
+          1331
+        ],
+        [
+          842,
+          1365
+        ],
+        [
+          224,
+          1358
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1203,
+        842,
+        1244
+      ],
+      "text": "Năm bước có một lầu, mười bước một gác",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0134_viet_023",
+      "bbox": [
+        [
+          248,
+          1277
+        ],
+        [
+          780,
+          1279
+        ],
+        [
+          780,
+          1321
+        ],
+        [
+          248,
+          1319
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1398
+        ],
+        [
+          780,
+          1400
+        ],
+        [
+          780,
+          1442
+        ],
+        [
+          248,
+          1440
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1277,
+        780,
+        1321
+      ],
+      "text": "034215700137",
+      "confidence": 0.31
+    },
+    {
+      "line_id": "0134_viet_024",
+      "bbox": [
+        [
+          229,
+          1332
+        ],
+        [
+          849,
+          1332
+        ],
+        [
+          849,
+          1366
+        ],
+        [
+          229,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1453
+        ],
+        [
+          849,
+          1453
+        ],
+        [
+          849,
+          1487
+        ],
+        [
+          229,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1332,
+        849,
+        1366
+      ],
+      "text": "lang yêu man hồi, thiềm nha cao trác",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0134_viet_025",
+      "bbox": [
+        [
+          219,
+          1374
+        ],
+        [
+          989,
+          1376
+        ],
+        [
+          989,
+          1415
+        ],
+        [
+          219,
+          1413
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          1495
+        ],
+        [
+          989,
+          1497
+        ],
+        [
+          989,
+          1536
+        ],
+        [
+          219,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        1374,
+        989,
+        1415
+      ],
+      "text": "Những mầp thành mái nhà nhô cao, tựa như chìm",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0134_viet_026",
+      "bbox": [
+        [
+          199,
+          1425
+        ],
+        [
+          371,
+          1425
+        ],
+        [
+          371,
+          1453
+        ],
+        [
+          199,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          1546
+        ],
+        [
+          371,
+          1546
+        ],
+        [
+          371,
+          1574
+        ],
+        [
+          199,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        1425,
+        371,
+        1453
+      ],
+      "text": "đậu ăn thóc.",
+      "confidence": 0.8912
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "128",
+      "X1",
+      "Sáu vua hết thời, bồn bể thông nhật",
+      "Thục sơn ngột, A phòng xuất",
+      "cung A-phòng hiện ra",
+      "Phúc áp tam bách dư lý, cách ly thiên nhật",
+      "12 01 dt 15 15 t tế 2 thuần thuận thuận thị thuận thị thuận thuận thuận thuật thuập t thuổn thế thế thế thế t thế    nhế",
+      "dương.",
+      "đên hàm dương",
+      "Nhị xuyên dung dung, lưu nhập cung tường",
+      "184100001201",
+      "Năm bước có một lầu, mười bước một gác"
+    ],
+    "dich_nghia_lines": [
+      "lang yêu man hồi, thiềm nha cao trác",
+      "Những mầp thành mái nhà nhô cao, tựa như chìm",
+      "đậu ăn thóc."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "六王畢四海",
+        "phien_am": "128",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "蜀山元阿房",
+        "phien_am": "X1",
+        "dich_nghia_gloss": "Lục vương tất, tứ hải nhãt,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "環山北",
+        "phien_am": "Sáu vua hết thời, bồn bể thông nhật",
+        "dich_nghia_gloss": "FLABLE"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "構而西折直走咸陽",
+        "phien_am": "Thục sơn ngột, A phòng xuất",
+        "dich_nghia_gloss": "Giữa miền núi thục cao phẳng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "川",
+        "phien_am": "cung A-phòng hiện ra",
+        "dich_nghia_gloss": "LRETAPER"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "溶",
+        "phien_am": "Phúc áp tam bách dư lý, cách ly thiên nhật",
+        "dich_nghia_gloss": "Che kín hơn ba trăm dặm, xa cách mặt trời."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "溶流",
+        "phien_am": "12 01 dt 15 15 t tế 2 thuần thuận thuận thị thuận thị thuận thuận thuận thuật thuập t thuổn thế thế thế thế t thế    nhế",
+        "dich_nghia_gloss": "Ly sơn bắc cầu nhi tây chiết, trực tầu hàm"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "入",
+        "phien_am": "dương.",
+        "dich_nghia_gloss": "Núi Ly-sơn nổi từ bắc, ngoẹo sang tây, chạy thẳng"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "宮貝精",
+        "phien_am": "đên hàm dương",
+        "dich_nghia_gloss": "1014 - GÌN E"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "五步一樓十步一間",
+        "phien_am": "Nhị xuyên dung dung, lưu nhập cung tường",
+        "dich_nghia_gloss": "Hai con sông nước tràn đầy chảy vào bên vách cung"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "廊腰鰻迎",
+        "phien_am": "184100001201",
+        "dich_nghia_gloss": "Ngũ bộ nhất lâu, tháp bộ nhất các,"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "詹興牙高啄",
+        "phien_am": "Năm bước có một lầu, mười bước một gác",
+        "dich_nghia_gloss": "034215700137"
+      }
+    ]
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "page_id": "0338",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 338,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 848,
+    "footnote_separator_y_original": 963,
+    "effective_width": 1122,
+    "effective_height": 848
+  },
+  "items": [
+    {
+      "line_id": "0338_viet_000",
+      "bbox": [
+        [
+          161,
+          13
+        ],
+        [
+          866,
+          9
+        ],
+        [
+          866,
+          44
+        ],
+        [
+          161,
+          47
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          128
+        ],
+        [
+          866,
+          124
+        ],
+        [
+          866,
+          159
+        ],
+        [
+          161,
+          162
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        9,
+        866,
+        47
+      ],
+      "text": "VIẾT THAY CHÁU HỌ NGUYỄN HUY CẦN",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0338_viet_001",
+      "bbox": [
+        [
+          104,
+          55
+        ],
+        [
+          470,
+          55
+        ],
+        [
+          470,
+          90
+        ],
+        [
+          104,
+          90
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          170
+        ],
+        [
+          470,
+          170
+        ],
+        [
+          470,
+          205
+        ],
+        [
+          104,
+          205
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        55,
+        470,
+        90
+      ],
+      "text": "CHÚC THỌ BÀ NGOẠI",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0338_viet_002",
+      "bbox": [
+        [
+          162,
+          105
+        ],
+        [
+          467,
+          102
+        ],
+        [
+          468,
+          137
+        ],
+        [
+          163,
+          140
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          220
+        ],
+        [
+          467,
+          217
+        ],
+        [
+          468,
+          252
+        ],
+        [
+          163,
+          255
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        102,
+        468,
+        140
+      ],
+      "text": "(Điệu Thiên thu tuế)",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0338_viet_003",
+      "bbox": [
+        [
+          158,
+          149
+        ],
+        [
+          394,
+          151
+        ],
+        [
+          394,
+          187
+        ],
+        [
+          158,
+          184
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          264
+        ],
+        [
+          394,
+          266
+        ],
+        [
+          394,
+          302
+        ],
+        [
+          158,
+          299
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        149,
+        394,
+        187
+      ],
+      "text": "Liễu rủ, hoa nở,",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0338_viet_004",
+      "bbox": [
+        [
+          160,
+          199
+        ],
+        [
+          517,
+          199
+        ],
+        [
+          517,
+          234
+        ],
+        [
+          160,
+          234
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          314
+        ],
+        [
+          517,
+          314
+        ],
+        [
+          517,
+          349
+        ],
+        [
+          160,
+          349
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        199,
+        517,
+        234
+      ],
+      "text": "Đúng dịp đầu mùa xuân",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0338_viet_005",
+      "bbox": [
+        [
+          160,
+          248
+        ],
+        [
+          529,
+          248
+        ],
+        [
+          529,
+          282
+        ],
+        [
+          160,
+          282
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          363
+        ],
+        [
+          529,
+          363
+        ],
+        [
+          529,
+          397
+        ],
+        [
+          160,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        248,
+        529,
+        282
+      ],
+      "text": "Mặt trời phía đông âm áp",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0338_viet_006",
+      "bbox": [
+        [
+          159,
+          294
+        ],
+        [
+          439,
+          294
+        ],
+        [
+          439,
+          333
+        ],
+        [
+          159,
+          333
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          409
+        ],
+        [
+          439,
+          409
+        ],
+        [
+          439,
+          448
+        ],
+        [
+          159,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        294,
+        439,
+        333
+      ],
+      "text": "Ngọn gió âm nồng",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0338_viet_007",
+      "bbox": [
+        [
+          162,
+          346
+        ],
+        [
+          760,
+          346
+        ],
+        [
+          760,
+          377
+        ],
+        [
+          162,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          461
+        ],
+        [
+          760,
+          461
+        ],
+        [
+          760,
+          492
+        ],
+        [
+          162,
+          492
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        346,
+        760,
+        377
+      ],
+      "text": "Rượu ba tháng mùa xuân đang hâm nóng",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0338_viet_008",
+      "bbox": [
+        [
+          159,
+          386
+        ],
+        [
+          709,
+          387
+        ],
+        [
+          709,
+          426
+        ],
+        [
+          159,
+          425
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          501
+        ],
+        [
+          709,
+          502
+        ],
+        [
+          709,
+          541
+        ],
+        [
+          159,
+          540
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        386,
+        709,
+        426
+      ],
+      "text": "Chốn xa xăm? tiết trời mới sang xuân",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0338_viet_009",
+      "bbox": [
+        [
+          159,
+          439
+        ],
+        [
+          390,
+          441
+        ],
+        [
+          390,
+          476
+        ],
+        [
+          159,
+          473
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          554
+        ],
+        [
+          390,
+          556
+        ],
+        [
+          390,
+          591
+        ],
+        [
+          159,
+          588
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        439,
+        390,
+        476
+      ],
+      "text": "Mừng bà ngoại",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0338_viet_010",
+      "bbox": [
+        [
+          158,
+          488
+        ],
+        [
+          737,
+          478
+        ],
+        [
+          738,
+          521
+        ],
+        [
+          158,
+          530
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          603
+        ],
+        [
+          737,
+          593
+        ],
+        [
+          738,
+          636
+        ],
+        [
+          158,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        478,
+        738,
+        530
+      ],
+      "text": "Trước sân, mặc áo hoa quân quần múa3",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0338_viet_011",
+      "bbox": [
+        [
+          161,
+          583
+        ],
+        [
+          667,
+          582
+        ],
+        [
+          667,
+          616
+        ],
+        [
+          161,
+          618
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          698
+        ],
+        [
+          667,
+          697
+        ],
+        [
+          667,
+          731
+        ],
+        [
+          161,
+          733
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        582,
+        667,
+        618
+      ],
+      "text": "Trên nhà, dung mạo hiền từ an vui,",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0338_viet_012",
+      "bbox": [
+        [
+          161,
+          631
+        ],
+        [
+          566,
+          631
+        ],
+        [
+          566,
+          666
+        ],
+        [
+          161,
+          666
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          746
+        ],
+        [
+          566,
+          746
+        ],
+        [
+          566,
+          781
+        ],
+        [
+          161,
+          781
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        631,
+        566,
+        666
+      ],
+      "text": "Dưới gối có thừa phúc lành",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0338_viet_013",
+      "bbox": [
+        [
+          163,
+          676
+        ],
+        [
+          478,
+          680
+        ],
+        [
+          478,
+          717
+        ],
+        [
+          162,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          791
+        ],
+        [
+          478,
+          795
+        ],
+        [
+          478,
+          832
+        ],
+        [
+          162,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        676,
+        478,
+        717
+      ],
+      "text": "Gốc cây già xum xuê;",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0338_viet_014",
+      "bbox": [
+        [
+          162,
+          728
+        ],
+        [
+          521,
+          723
+        ],
+        [
+          521,
+          758
+        ],
+        [
+          163,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          843
+        ],
+        [
+          521,
+          838
+        ],
+        [
+          521,
+          873
+        ],
+        [
+          163,
+          878
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        723,
+        521,
+        763
+      ],
+      "text": "Cành cháu [con] tươi tốt",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0338_viet_015",
+      "bbox": [
+        [
+          164,
+          772
+        ],
+        [
+          776,
+          772
+        ],
+        [
+          776,
+          810
+        ],
+        [
+          164,
+          810
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          887
+        ],
+        [
+          776,
+          887
+        ],
+        [
+          776,
+          925
+        ],
+        [
+          164,
+          925
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        772,
+        776,
+        810
+      ],
+      "text": "Chưa thể thành được cháu ngoại hiến quý 4",
+      "confidence": 0.9195
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "VIẾT THAY CHÁU HỌ NGUYỄN HUY CẦN",
+      "CHÚC THỌ BÀ NGOẠI",
+      "(Điệu Thiên thu tuế)",
+      "Liễu rủ, hoa nở,",
+      "Đúng dịp đầu mùa xuân",
+      "Mặt trời phía đông âm áp",
+      "Ngọn gió âm nồng",
+      "Rượu ba tháng mùa xuân đang hâm nóng",
+      "Chốn xa xăm? tiết trời mới sang xuân",
+      "Mừng bà ngoại",
+      "Trước sân, mặc áo hoa quân quần múa3",
+      "Trên nhà, dung mạo hiền từ an vui,",
+      "Dưới gối có thừa phúc lành",
+      "Gốc cây già xum xuê;",
+      "Cành cháu [con] tươi tốt",
+      "Chưa thể thành được cháu ngoại hiến quý 4"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

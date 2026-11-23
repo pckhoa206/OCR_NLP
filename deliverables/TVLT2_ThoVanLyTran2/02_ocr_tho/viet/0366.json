@@ -1,0 +1,1564 @@
+{
+  "page_id": "0366",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 366,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0366_viet_000",
+      "bbox": [
+        [
+          849,
+          0
+        ],
+        [
+          976,
+          0
+        ],
+        [
+          976,
+          21
+        ],
+        [
+          849,
+          21
+        ]
+      ],
+      "bbox_original": [
+        [
+          849,
+          155
+        ],
+        [
+          976,
+          155
+        ],
+        [
+          976,
+          176
+        ],
+        [
+          849,
+          176
+        ]
+      ],
+      "box_xyxy": [
+        849,
+        0,
+        976,
+        21
+      ],
+      "text": "TRAN (12)",
+      "confidence": 0.8391
+    },
+    {
+      "line_id": "0366_viet_001",
+      "bbox": [
+        [
+          210,
+          281
+        ],
+        [
+          333,
+          281
+        ],
+        [
+          333,
+          334
+        ],
+        [
+          210,
+          334
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          436
+        ],
+        [
+          333,
+          436
+        ],
+        [
+          333,
+          489
+        ],
+        [
+          210,
+          489
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        281,
+        333,
+        334
+      ],
+      "text": "E. Tw.",
+      "confidence": 0.4136
+    },
+    {
+      "line_id": "0366_viet_002",
+      "bbox": [
+        [
+          184,
+          503
+        ],
+        [
+          333,
+          503
+        ],
+        [
+          333,
+          527
+        ],
+        [
+          184,
+          527
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          658
+        ],
+        [
+          333,
+          658
+        ],
+        [
+          333,
+          682
+        ],
+        [
+          184,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        503,
+        333,
+        527
+      ],
+      "text": "PHIỄN ÂM",
+      "confidence": 0.8677
+    },
+    {
+      "line_id": "0366_viet_003",
+      "bbox": [
+        [
+          566,
+          544
+        ],
+        [
+          1015,
+          544
+        ],
+        [
+          1015,
+          580
+        ],
+        [
+          566,
+          580
+        ]
+      ],
+      "bbox_original": [
+        [
+          566,
+          699
+        ],
+        [
+          1015,
+          699
+        ],
+        [
+          1015,
+          735
+        ],
+        [
+          566,
+          735
+        ]
+      ],
+      "box_xyxy": [
+        566,
+        544,
+        1015,
+        580
+      ],
+      "text": "LÝ GIA SỪNG PHẬT LUẬN",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0366_viet_004",
+      "bbox": [
+        [
+          274,
+          621
+        ],
+        [
+          1404,
+          621
+        ],
+        [
+          1404,
+          657
+        ],
+        [
+          274,
+          657
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          776
+        ],
+        [
+          1404,
+          776
+        ],
+        [
+          1404,
+          812
+        ],
+        [
+          274,
+          812
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        621,
+        1404,
+        657
+      ],
+      "text": "Lý Thái Tổ tức đế vì, phủ cập nhị niên, tông miếu vị kiến, xã tắc vì lập nhiên",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0366_viet_005",
+      "bbox": [
+        [
+          175,
+          662
+        ],
+        [
+          1411,
+          660
+        ],
+        [
+          1411,
+          702
+        ],
+        [
+          175,
+          705
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          817
+        ],
+        [
+          1411,
+          815
+        ],
+        [
+          1411,
+          857
+        ],
+        [
+          175,
+          860
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        660,
+        1411,
+        705
+      ],
+      "text": "tiên ư Thiên-đức phủ sảng lập bắt tự, hựu trùng tu chư lộ tự quản, nhi độ",
+      "confidence": 0.9128
+    },
+    {
+      "line_id": "0366_viet_006",
+      "bbox": [
+        [
+          177,
+          702
+        ],
+        [
+          1411,
+          705
+        ],
+        [
+          1411,
+          747
+        ],
+        [
+          177,
+          745
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          857
+        ],
+        [
+          1411,
+          860
+        ],
+        [
+          1411,
+          902
+        ],
+        [
+          177,
+          900
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        702,
+        1411,
+        747
+      ],
+      "text": "kinh sư thiên dư nhân vi tăng, tắc thổ mộc tài lực chỉ phi bất khả thăng",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0366_viet_007",
+      "bbox": [
+        [
+          176,
+          754
+        ],
+        [
+          321,
+          747
+        ],
+        [
+          323,
+          783
+        ],
+        [
+          178,
+          791
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          909
+        ],
+        [
+          321,
+          902
+        ],
+        [
+          323,
+          938
+        ],
+        [
+          178,
+          946
+        ]
+      ],
+      "box_xyxy": [
+        176,
+        747,
+        323,
+        791
+      ],
+      "text": "ngôn dã",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0366_viet_008",
+      "bbox": [
+        [
+          272,
+          803
+        ],
+        [
+          1411,
+          801
+        ],
+        [
+          1411,
+          837
+        ],
+        [
+          272,
+          840
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          958
+        ],
+        [
+          1411,
+          956
+        ],
+        [
+          1411,
+          992
+        ],
+        [
+          272,
+          995
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        801,
+        1411,
+        840
+      ],
+      "text": "Tài phi thiên vũ, lực phi thần tác, khởi phi tuấn dân chi cao huyết dư 7",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0366_viet_009",
+      "bbox": [
+        [
+          181,
+          846
+        ],
+        [
+          1411,
+          844
+        ],
+        [
+          1411,
+          880
+        ],
+        [
+          182,
+          882
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1001
+        ],
+        [
+          1411,
+          999
+        ],
+        [
+          1411,
+          1035
+        ],
+        [
+          182,
+          1037
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        844,
+        1411,
+        882
+      ],
+      "text": "Tuấn dân chỉ cáo huyết, khả vì tu phúc dư % Sáng nghiệp chỉ c.ủ, rung hành",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0366_viet_010",
+      "bbox": [
+        [
+          179,
+          889
+        ],
+        [
+          1411,
+          887
+        ],
+        [
+          1411,
+          923
+        ],
+        [
+          179,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1044
+        ],
+        [
+          1411,
+          1042
+        ],
+        [
+          1411,
+          1078
+        ],
+        [
+          179,
+          1080
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        887,
+        1411,
+        925
+      ],
+      "text": "cần kiêm, do khủng tử tòn chi xa đài, nhi Thái Tổ thùy pháp n tư thử, nghi",
+      "confidence": 0.8912
+    },
+    {
+      "line_id": "0366_viet_011",
+      "bbox": [
+        [
+          179,
+          930
+        ],
+        [
+          1411,
+          927
+        ],
+        [
+          1411,
+          970
+        ],
+        [
+          179,
+          972
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1085
+        ],
+        [
+          1411,
+          1082
+        ],
+        [
+          1411,
+          1125
+        ],
+        [
+          179,
+          1127
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        927,
+        1411,
+        972
+      ],
+      "text": "kỳ hậu thế khởi lăng tiêu chỉ đổ pha, lập tước thạch chi tự. trợ, Phật cung",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0366_viet_012",
+      "bbox": [
+        [
+          177,
+          975
+        ],
+        [
+          1411,
+          970
+        ],
+        [
+          1411,
+          1011
+        ],
+        [
+          177,
+          1015
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1130
+        ],
+        [
+          1411,
+          1125
+        ],
+        [
+          1411,
+          1166
+        ],
+        [
+          177,
+          1170
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        970,
+        1411,
+        1015
+      ],
+      "text": "trảng lệ bội ư thần cư. Hạ giai hóa chi, chị hữu hủy hình dịch piyc, phá sản",
+      "confidence": 0.8953
+    },
+    {
+      "line_id": "0366_viet_013",
+      "bbox": [
+        [
+          179,
+          1013
+        ],
+        [
+          1413,
+          1011
+        ],
+        [
+          1413,
+          1054
+        ],
+        [
+          179,
+          1056
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1168
+        ],
+        [
+          1413,
+          1166
+        ],
+        [
+          1413,
+          1209
+        ],
+        [
+          179,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1011,
+        1413,
+        1056
+      ],
+      "text": "đào thân. Bách tinh thái bán vi tăng, quốc nội đảo xứ giai tự, kỳ nguyên khởi",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0366_viet_014",
+      "bbox": [
+        [
+          186,
+          1064
+        ],
+        [
+          391,
+          1064
+        ],
+        [
+          391,
+          1094
+        ],
+        [
+          186,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1219
+        ],
+        [
+          391,
+          1219
+        ],
+        [
+          391,
+          1249
+        ],
+        [
+          186,
+          1249
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1064,
+        391,
+        1094
+      ],
+      "text": "vô sở tư tai ổ",
+      "confidence": 0.8551
+    },
+    {
+      "line_id": "0366_viet_015",
+      "bbox": [
+        [
+          181,
+          1159
+        ],
+        [
+          367,
+          1156
+        ],
+        [
+          367,
+          1189
+        ],
+        [
+          182,
+          1191
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1314
+        ],
+        [
+          367,
+          1311
+        ],
+        [
+          367,
+          1344
+        ],
+        [
+          182,
+          1346
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1156,
+        367,
+        1191
+      ],
+      "text": "DỊCH NGHĨA SĨ",
+      "confidence": 0.793
+    },
+    {
+      "line_id": "0366_viet_016",
+      "bbox": [
+        [
+          495,
+          1199
+        ],
+        [
+          1093,
+          1199
+        ],
+        [
+          1093,
+          1236
+        ],
+        [
+          495,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          495,
+          1354
+        ],
+        [
+          1093,
+          1354
+        ],
+        [
+          1093,
+          1391
+        ],
+        [
+          495,
+          1391
+        ]
+      ],
+      "box_xyxy": [
+        495,
+        1199,
+        1093,
+        1236
+      ],
+      "text": "BÀN VỀ VIỆC NHÀ LÝ SÙNG PHẬT ()",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0366_viet_017",
+      "bbox": [
+        [
+          285,
+          1276
+        ],
+        [
+          1411,
+          1272
+        ],
+        [
+          1411,
+          1309
+        ],
+        [
+          285,
+          1313
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          1431
+        ],
+        [
+          1411,
+          1427
+        ],
+        [
+          1411,
+          1464
+        ],
+        [
+          285,
+          1468
+        ]
+      ],
+      "box_xyxy": [
+        285,
+        1272,
+        1411,
+        1313
+      ],
+      "text": "Lý Thái Tổ lên ngói mới được hai năm, tông miếu (?) chưa dựng.",
+      "confidence": 0.9177
+    },
+    {
+      "line_id": "0366_viet_018",
+      "bbox": [
+        [
+          179,
+          1324
+        ],
+        [
+          1408,
+          1315
+        ],
+        [
+          1409,
+          1351
+        ],
+        [
+          179,
+          1360
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1479
+        ],
+        [
+          1408,
+          1470
+        ],
+        [
+          1409,
+          1506
+        ],
+        [
+          179,
+          1515
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1315,
+        1409,
+        1360
+      ],
+      "text": "xã tắc (?) chưa xây mà trước hết đã dựng tảm ngôi chùa ở phủ Thiên-đức, lại",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0366_viet_019",
+      "bbox": [
+        [
+          179,
+          1364
+        ],
+        [
+          1411,
+          1356
+        ],
+        [
+          1411,
+          1394
+        ],
+        [
+          179,
+          1403
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1519
+        ],
+        [
+          1411,
+          1511
+        ],
+        [
+          1411,
+          1549
+        ],
+        [
+          179,
+          1558
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1356,
+        1411,
+        1403
+      ],
+      "text": "sửa chữa chùa quản ở các lộ, cấp độ điệp (?) cho hơn một nghìn sư sãi ở kinh",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0366_viet_020",
+      "bbox": [
+        [
+          179,
+          1407
+        ],
+        [
+          1411,
+          1398
+        ],
+        [
+          1411,
+          1435
+        ],
+        [
+          179,
+          1444
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1562
+        ],
+        [
+          1411,
+          1553
+        ],
+        [
+          1411,
+          1590
+        ],
+        [
+          179,
+          1599
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1398,
+        1411,
+        1444
+      ],
+      "text": "đô. Thế thì tiêu phi sức lực của cải cho việc xây chùa, làm tháp biết bao nhiêu",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0366_viet_021",
+      "bbox": [
+        [
+          162,
+          1452
+        ],
+        [
+          295,
+          1447
+        ],
+        [
+          296,
+          1482
+        ],
+        [
+          163,
+          1487
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1607
+        ],
+        [
+          295,
+          1602
+        ],
+        [
+          296,
+          1637
+        ],
+        [
+          163,
+          1642
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1447,
+        296,
+        1487
+      ],
+      "text": "mà kề",
+      "confidence": 0.9376
+    },
+    {
+      "line_id": "0366_viet_022",
+      "bbox": [
+        [
+          261,
+          1501
+        ],
+        [
+          1413,
+          1493
+        ],
+        [
+          1413,
+          1533
+        ],
+        [
+          262,
+          1542
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          1656
+        ],
+        [
+          1413,
+          1648
+        ],
+        [
+          1413,
+          1688
+        ],
+        [
+          262,
+          1697
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1493,
+        1413,
+        1542
+      ],
+      "text": "- Của cải chẳng phải trời mưa cho, sức lực chẳng phải thần làm cho, như",
+      "confidence": 0.9214
+    },
+    {
+      "line_id": "0366_viet_023",
+      "bbox": [
+        [
+          179,
+          1546
+        ],
+        [
+          1423,
+          1538
+        ],
+        [
+          1424,
+          1574
+        ],
+        [
+          179,
+          1583
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1701
+        ],
+        [
+          1423,
+          1693
+        ],
+        [
+          1424,
+          1729
+        ],
+        [
+          179,
+          1738
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1538,
+        1424,
+        1583
+      ],
+      "text": "thế hà chẳng.phải là khơi vét máu mỡ của dân ư7: Khơi vét máu mở của dân sau",
+      "confidence": 0.8616
+    },
+    {
+      "line_id": "0366_viet_024",
+      "bbox": [
+        [
+          181,
+          1589
+        ],
+        [
+          1415,
+          1583
+        ],
+        [
+          1415,
+          1619
+        ],
+        [
+          182,
+          1626
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1744
+        ],
+        [
+          1415,
+          1738
+        ],
+        [
+          1415,
+          1774
+        ],
+        [
+          182,
+          1781
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1583,
+        1415,
+        1626
+      ],
+      "text": "có thể gọi là tu phúc được chăng ? Bậc-vua sáng nghiệp tự mình, cần kiệm còn",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0366_viet_025",
+      "bbox": [
+        [
+          175,
+          1630
+        ],
+        [
+          1417,
+          1621
+        ],
+        [
+          1417,
+          1664
+        ],
+        [
+          175,
+          1673
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1785
+        ],
+        [
+          1417,
+          1776
+        ],
+        [
+          1417,
+          1819
+        ],
+        [
+          175,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1621,
+        1417,
+        1673
+      ],
+      "text": "lo con cháu ngày sau xa xỉ lười nhác, huống chi Thái Tổ nếu gương như thế;",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0366_viet_026",
+      "bbox": [
+        [
+          179,
+          1673
+        ],
+        [
+          1415,
+          1664
+        ],
+        [
+          1415,
+          1707
+        ],
+        [
+          180,
+          1716
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1828
+        ],
+        [
+          1415,
+          1819
+        ],
+        [
+          1415,
+          1862
+        ],
+        [
+          180,
+          1871
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1664,
+        1415,
+        1716
+      ],
+      "text": "trách gì con cháu đời sau chẳng xây tháp cao, ngút trời, trồng cột chùa đá",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0366_viet_027",
+      "bbox": [
+        [
+          181,
+          1718
+        ],
+        [
+          1413,
+          1707
+        ],
+        [
+          1413,
+          1743
+        ],
+        [
+          182,
+          1754
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1873
+        ],
+        [
+          1413,
+          1862
+        ],
+        [
+          1413,
+          1898
+        ],
+        [
+          182,
+          1909
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1707,
+        1413,
+        1754
+      ],
+      "text": "chạm(5); chùa Phật iộng lẫy hơn cả cung vua, Người dười học theo, có kễ hủy",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0366_viet_028",
+      "bbox": [
+        [
+          181,
+          1760
+        ],
+        [
+          1421,
+          1752
+        ],
+        [
+          1422,
+          1788
+        ],
+        [
+          182,
+          1797
+        ]
+      ],
+      "bbox_original": [
+        [
+          181,
+          1915
+        ],
+        [
+          1421,
+          1907
+        ],
+        [
+          1422,
+          1943
+        ],
+        [
+          182,
+          1952
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1752,
+        1422,
+        1797
+      ],
+      "text": "hoại thân thế, thay đồi cách ăn mặc, bỏ sản nghiệp, trốn thân thích, Dân quá",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0366_viet_029",
+      "bbox": [
+        [
+          179,
+          1801
+        ],
+        [
+          1415,
+          1790
+        ],
+        [
+          1415,
+          1833
+        ],
+        [
+          180,
+          1844
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1956
+        ],
+        [
+          1415,
+          1945
+        ],
+        [
+          1415,
+          1988
+        ],
+        [
+          180,
+          1999
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1790,
+        1415,
+        1844
+      ],
+      "text": "nửa là sư sãi, khắp nước chỗ nào cũng chùa chiền, nguồn gốc há chẳng phải",
+      "confidence": 0.9254
+    },
+    {
+      "line_id": "0366_viet_030",
+      "bbox": [
+        [
+          186,
+          1848
+        ],
+        [
+          456,
+          1848
+        ],
+        [
+          456,
+          1878
+        ],
+        [
+          186,
+          1878
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          2003
+        ],
+        [
+          456,
+          2003
+        ],
+        [
+          456,
+          2033
+        ],
+        [
+          186,
+          2033
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1848,
+        456,
+        1878
+      ],
+      "text": "từ đó mà ra sao?",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0366_viet_031",
+      "bbox": [
+        [
+          884,
+          1898
+        ],
+        [
+          1339,
+          1898
+        ],
+        [
+          1339,
+          1928
+        ],
+        [
+          884,
+          1928
+        ]
+      ],
+      "bbox_original": [
+        [
+          884,
+          2053
+        ],
+        [
+          1339,
+          2053
+        ],
+        [
+          1339,
+          2083
+        ],
+        [
+          884,
+          2083
+        ]
+      ],
+      "box_xyxy": [
+        884,
+        1898,
+        1339,
+        1928
+      ],
+      "text": "CAO HUY GIU BẰNG THANH",
+      "confidence": 0.9062
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "TRAN (12)",
+      "E. Tw.",
+      "PHIỄN ÂM",
+      "LÝ GIA SỪNG PHẬT LUẬN",
+      "Lý Thái Tổ tức đế vì, phủ cập nhị niên, tông miếu vị kiến, xã tắc vì lập nhiên",
+      "tiên ư Thiên-đức phủ sảng lập bắt tự, hựu trùng tu chư lộ tự quản, nhi độ",
+      "kinh sư thiên dư nhân vi tăng, tắc thổ mộc tài lực chỉ phi bất khả thăng",
+      "ngôn dã",
+      "Tài phi thiên vũ, lực phi thần tác, khởi phi tuấn dân chi cao huyết dư 7",
+      "Tuấn dân chỉ cáo huyết, khả vì tu phúc dư % Sáng nghiệp chỉ c.ủ, rung hành",
+      "cần kiêm, do khủng tử tòn chi xa đài, nhi Thái Tổ thùy pháp n tư thử, nghi",
+      "kỳ hậu thế khởi lăng tiêu chỉ đổ pha, lập tước thạch chi tự. trợ, Phật cung",
+      "trảng lệ bội ư thần cư. Hạ giai hóa chi, chị hữu hủy hình dịch piyc, phá sản",
+      "đào thân. Bách tinh thái bán vi tăng, quốc nội đảo xứ giai tự, kỳ nguyên khởi",
+      "vô sở tư tai ổ"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC NHÀ LÝ SÙNG PHẬT ()",
+      "Lý Thái Tổ lên ngói mới được hai năm, tông miếu (?) chưa dựng.",
+      "xã tắc (?) chưa xây mà trước hết đã dựng tảm ngôi chùa ở phủ Thiên-đức, lại",
+      "sửa chữa chùa quản ở các lộ, cấp độ điệp (?) cho hơn một nghìn sư sãi ở kinh",
+      "đô. Thế thì tiêu phi sức lực của cải cho việc xây chùa, làm tháp biết bao nhiêu",
+      "mà kề",
+      "- Của cải chẳng phải trời mưa cho, sức lực chẳng phải thần làm cho, như",
+      "thế hà chẳng.phải là khơi vét máu mỡ của dân ư7: Khơi vét máu mở của dân sau",
+      "có thể gọi là tu phúc được chăng ? Bậc-vua sáng nghiệp tự mình, cần kiệm còn",
+      "lo con cháu ngày sau xa xỉ lười nhác, huống chi Thái Tổ nếu gương như thế;",
+      "trách gì con cháu đời sau chẳng xây tháp cao, ngút trời, trồng cột chùa đá",
+      "chạm(5); chùa Phật iộng lẫy hơn cả cung vua, Người dười học theo, có kễ hủy",
+      "hoại thân thế, thay đồi cách ăn mặc, bỏ sản nghiệp, trốn thân thích, Dân quá",
+      "nửa là sư sãi, khắp nước chỗ nào cũng chùa chiền, nguồn gốc há chẳng phải",
+      "từ đó mà ra sao?",
+      "CAO HUY GIU BẰNG THANH"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

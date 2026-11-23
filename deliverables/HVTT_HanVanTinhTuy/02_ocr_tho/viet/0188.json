@@ -1,0 +1,1332 @@
+{
+  "page_id": "0188",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 188,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0188_viet_000",
+      "bbox": [
+        [
+          196,
+          28
+        ],
+        [
+          248,
+          28
+        ],
+        [
+          248,
+          62
+        ],
+        [
+          196,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          149
+        ],
+        [
+          248,
+          149
+        ],
+        [
+          248,
+          183
+        ],
+        [
+          196,
+          183
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        28,
+        248,
+        62
+      ],
+      "text": "182",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0188_viet_001",
+      "bbox": [
+        [
+          667,
+          28
+        ],
+        [
+          989,
+          30
+        ],
+        [
+          989,
+          60
+        ],
+        [
+          666,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          667,
+          149
+        ],
+        [
+          989,
+          151
+        ],
+        [
+          989,
+          181
+        ],
+        [
+          666,
+          180
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        28,
+        989,
+        60
+      ],
+      "text": "HÁN-VĂN TINH-TUY",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0188_viet_002",
+      "bbox": [
+        [
+          231,
+          184
+        ],
+        [
+          903,
+          186
+        ],
+        [
+          903,
+          221
+        ],
+        [
+          231,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          305
+        ],
+        [
+          903,
+          307
+        ],
+        [
+          903,
+          342
+        ],
+        [
+          231,
+          340
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        184,
+        903,
+        221
+      ],
+      "text": "- Dư bi chỉ. Thả viết: a Nhược độc chi hồ. thị",
+      "confidence": 0.8115
+    },
+    {
+      "line_id": "0188_viet_003",
+      "bbox": [
+        [
+          279,
+          233
+        ],
+        [
+          734,
+          236
+        ],
+        [
+          734,
+          270
+        ],
+        [
+          278,
+          266
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          354
+        ],
+        [
+          734,
+          357
+        ],
+        [
+          734,
+          391
+        ],
+        [
+          278,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        233,
+        734,
+        270
+      ],
+      "text": "Ta thương tình mới hỏi: nghề này",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0188_viet_004",
+      "bbox": [
+        [
+          250,
+          306
+        ],
+        [
+          984,
+          306
+        ],
+        [
+          984,
+          345
+        ],
+        [
+          250,
+          345
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          427
+        ],
+        [
+          984,
+          427
+        ],
+        [
+          984,
+          466
+        ],
+        [
+          250,
+          466
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        306,
+        984,
+        345
+      ],
+      "text": "F?7%?22%?2x-2",
+      "confidence": 0.3051
+    },
+    {
+      "line_id": "0188_viet_005",
+      "bbox": [
+        [
+          206,
+          370
+        ],
+        [
+          530,
+          370
+        ],
+        [
+          530,
+          405
+        ],
+        [
+          206,
+          405
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          491
+        ],
+        [
+          530,
+          491
+        ],
+        [
+          530,
+          526
+        ],
+        [
+          206,
+          526
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        370,
+        530,
+        405
+      ],
+      "text": "% ( A) [3] (3 GO",
+      "confidence": 0.3816
+    },
+    {
+      "line_id": "0188_viet_006",
+      "bbox": [
+        [
+          228,
+          418
+        ],
+        [
+          986,
+          420
+        ],
+        [
+          985,
+          460
+        ],
+        [
+          228,
+          459
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          539
+        ],
+        [
+          986,
+          541
+        ],
+        [
+          985,
+          581
+        ],
+        [
+          228,
+          580
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        418,
+        986,
+        460
+      ],
+      "text": "Dư tương cáo ư lị sự giả, canh nhược dịch",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0188_viet_007",
+      "bbox": [
+        [
+          199,
+          469
+        ],
+        [
+          716,
+          469
+        ],
+        [
+          716,
+          507
+        ],
+        [
+          199,
+          507
+        ]
+      ],
+      "bbox_original": [
+        [
+          199,
+          590
+        ],
+        [
+          716,
+          590
+        ],
+        [
+          716,
+          628
+        ],
+        [
+          199,
+          628
+        ]
+      ],
+      "box_xyxy": [
+        199,
+        469,
+        716,
+        507
+      ],
+      "text": "phục nhược phú, tắc hà như ? v",
+      "confidence": 0.8863
+    },
+    {
+      "line_id": "0188_viet_008",
+      "bbox": [
+        [
+          282,
+          517
+        ],
+        [
+          991,
+          517
+        ],
+        [
+          991,
+          551
+        ],
+        [
+          282,
+          551
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          638
+        ],
+        [
+          991,
+          638
+        ],
+        [
+          991,
+          672
+        ],
+        [
+          282,
+          672
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        517,
+        991,
+        551
+      ],
+      "text": "cực khồ lắm nhỉ 1 Đề ta nói với người giữ việc cho",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0188_viet_009",
+      "bbox": [
+        [
+          278,
+          557
+        ],
+        [
+          697,
+          557
+        ],
+        [
+          697,
+          591
+        ],
+        [
+          278,
+          591
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          678
+        ],
+        [
+          697,
+          678
+        ],
+        [
+          697,
+          712
+        ],
+        [
+          278,
+          712
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        557,
+        697,
+        591
+      ],
+      "text": "anh đồi nghề rồi đóng thuẽ nhé",
+      "confidence": 0.8927
+    },
+    {
+      "line_id": "0188_viet_010",
+      "bbox": [
+        [
+          251,
+          631
+        ],
+        [
+          845,
+          631
+        ],
+        [
+          845,
+          670
+        ],
+        [
+          251,
+          670
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          752
+        ],
+        [
+          845,
+          752
+        ],
+        [
+          845,
+          791
+        ],
+        [
+          251,
+          791
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        631,
+        845,
+        670
+      ],
+      "text": "03622013131312",
+      "confidence": 0.3308
+    },
+    {
+      "line_id": "0188_viet_011",
+      "bbox": [
+        [
+          233,
+          681
+        ],
+        [
+          989,
+          683
+        ],
+        [
+          989,
+          722
+        ],
+        [
+          233,
+          720
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          802
+        ],
+        [
+          989,
+          804
+        ],
+        [
+          989,
+          843
+        ],
+        [
+          233,
+          841
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        681,
+        989,
+        722
+      ],
+      "text": "Tưởng thị đại thích, uông nhiên xuất thẽ, viết:",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0188_viet_012",
+      "bbox": [
+        [
+          283,
+          735
+        ],
+        [
+          746,
+          735
+        ],
+        [
+          746,
+          763
+        ],
+        [
+          283,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          856
+        ],
+        [
+          746,
+          856
+        ],
+        [
+          746,
+          884
+        ],
+        [
+          283,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        735,
+        746,
+        763
+      ],
+      "text": "Họ Tưởng đau-đớn bội phần khóc",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0188_viet_013",
+      "bbox": [
+        [
+          245,
+          805
+        ],
+        [
+          705,
+          800
+        ],
+        [
+          706,
+          842
+        ],
+        [
+          245,
+          847
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          926
+        ],
+        [
+          705,
+          921
+        ],
+        [
+          706,
+          963
+        ],
+        [
+          245,
+          968
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        800,
+        706,
+        847
+      ],
+      "text": "B-2242",
+      "confidence": 0.3691
+    },
+    {
+      "line_id": "0188_viet_014",
+      "bbox": [
+        [
+          197,
+          857
+        ],
+        [
+          747,
+          855
+        ],
+        [
+          748,
+          891
+        ],
+        [
+          198,
+          892
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          978
+        ],
+        [
+          747,
+          976
+        ],
+        [
+          748,
+          1012
+        ],
+        [
+          198,
+          1013
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        855,
+        748,
+        892
+      ],
+      "text": "Xã Lu Quân tương ai, nhi sinh chi hồ. nội",
+      "confidence": 0.8193
+    },
+    {
+      "line_id": "0188_viet_015",
+      "bbox": [
+        [
+          280,
+          900
+        ],
+        [
+          682,
+          906
+        ],
+        [
+          681,
+          941
+        ],
+        [
+          280,
+          936
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1021
+        ],
+        [
+          682,
+          1027
+        ],
+        [
+          681,
+          1062
+        ],
+        [
+          280,
+          1057
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        900,
+        682,
+        941
+      ],
+      "text": "Ông thương mà muốn tôi săng",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0188_viet_016",
+      "bbox": [
+        [
+          250,
+          973
+        ],
+        [
+          702,
+          974
+        ],
+        [
+          702,
+          1014
+        ],
+        [
+          250,
+          1013
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1094
+        ],
+        [
+          702,
+          1095
+        ],
+        [
+          702,
+          1135
+        ],
+        [
+          250,
+          1134
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        973,
+        702,
+        1014
+      ],
+      "text": "NBH1227",
+      "confidence": 0.3594
+    },
+    {
+      "line_id": "0188_viet_017",
+      "bbox": [
+        [
+          226,
+          1024
+        ],
+        [
+          711,
+          1028
+        ],
+        [
+          710,
+          1068
+        ],
+        [
+          226,
+          1065
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1145
+        ],
+        [
+          711,
+          1149
+        ],
+        [
+          710,
+          1189
+        ],
+        [
+          226,
+          1186
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1024,
+        711,
+        1068
+      ],
+      "text": "Tắc ngô tư dịch chi bãt hạnh,",
+      "confidence": 0.9011
+    },
+    {
+      "line_id": "0188_viet_018",
+      "bbox": [
+        [
+          282,
+          1075
+        ],
+        [
+          775,
+          1076
+        ],
+        [
+          774,
+          1112
+        ],
+        [
+          282,
+          1110
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1196
+        ],
+        [
+          775,
+          1197
+        ],
+        [
+          774,
+          1233
+        ],
+        [
+          282,
+          1231
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        1075,
+        775,
+        1112
+      ],
+      "text": "thì sự bất hạnh trong nghề tôi làm còn",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0188_viet_019",
+      "bbox": [
+        [
+          246,
+          1147
+        ],
+        [
+          923,
+          1148
+        ],
+        [
+          923,
+          1189
+        ],
+        [
+          246,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1268
+        ],
+        [
+          923,
+          1269
+        ],
+        [
+          923,
+          1310
+        ],
+        [
+          246,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1147,
+        923,
+        1189
+      ],
+      "text": "xx x 2 được x xéz z",
+      "confidence": 0.3545
+    },
+    {
+      "line_id": "0188_viet_020",
+      "bbox": [
+        [
+          230,
+          1198
+        ],
+        [
+          984,
+          1202
+        ],
+        [
+          984,
+          1242
+        ],
+        [
+          229,
+          1239
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1319
+        ],
+        [
+          984,
+          1323
+        ],
+        [
+          984,
+          1363
+        ],
+        [
+          229,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1198,
+        984,
+        1242
+      ],
+      "text": "Vị nhược phục ngô phú, bắt hạnh chi thậm dã",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0188_viet_021",
+      "bbox": [
+        [
+          280,
+          1249
+        ],
+        [
+          889,
+          1250
+        ],
+        [
+          889,
+          1284
+        ],
+        [
+          280,
+          1282
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1370
+        ],
+        [
+          889,
+          1371
+        ],
+        [
+          889,
+          1405
+        ],
+        [
+          280,
+          1403
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1249,
+        889,
+        1284
+      ],
+      "text": "chưa bằng bắt tôi đóng thuẽ, còn bất hạnh hơn",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0188_viet_022",
+      "bbox": [
+        [
+          253,
+          1321
+        ],
+        [
+          984,
+          1321
+        ],
+        [
+          984,
+          1359
+        ],
+        [
+          253,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1442
+        ],
+        [
+          984,
+          1442
+        ],
+        [
+          984,
+          1480
+        ],
+        [
+          253,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1321,
+        984,
+        1359
+      ],
+      "text": "BAREHILDNXEF",
+      "confidence": 0.5218
+    },
+    {
+      "line_id": "0188_viet_023",
+      "bbox": [
+        [
+          230,
+          1371
+        ],
+        [
+          984,
+          1373
+        ],
+        [
+          984,
+          1411
+        ],
+        [
+          229,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1492
+        ],
+        [
+          984,
+          1494
+        ],
+        [
+          984,
+          1532
+        ],
+        [
+          229,
+          1530
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1371,
+        984,
+        1411
+      ],
+      "text": "Hướng ngô bất vi tư dịch, tắc cửu dĩ bệnh hình",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0188_viet_024",
+      "bbox": [
+        [
+          282,
+          1418
+        ],
+        [
+          962,
+          1421
+        ],
+        [
+          962,
+          1456
+        ],
+        [
+          282,
+          1453
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1539
+        ],
+        [
+          962,
+          1542
+        ],
+        [
+          962,
+          1577
+        ],
+        [
+          282,
+          1574
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        1418,
+        962,
+        1456
+      ],
+      "text": "Ví tôi không làm nghề này thì khốn đốn đã lâu rồi",
+      "confidence": 0.9058
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "182",
+      "- Dư bi chỉ. Thả viết: a Nhược độc chi hồ. thị",
+      "F?7%?22%?2x-2",
+      "Dư tương cáo ư lị sự giả, canh nhược dịch",
+      "cực khồ lắm nhỉ 1 Đề ta nói với người giữ việc cho",
+      "03622013131312",
+      "Họ Tưởng đau-đớn bội phần khóc",
+      "Xã Lu Quân tương ai, nhi sinh chi hồ. nội",
+      "NBH1227",
+      "thì sự bất hạnh trong nghề tôi làm còn",
+      "Vị nhược phục ngô phú, bắt hạnh chi thậm dã",
+      "BAREHILDNXEF",
+      "Ví tôi không làm nghề này thì khốn đốn đã lâu rồi"
+    ],
+    "dich_nghia_lines": [
+      "HÁN-VĂN TINH-TUY",
+      "Ta thương tình mới hỏi: nghề này",
+      "% ( A) [3] (3 GO",
+      "phục nhược phú, tắc hà như ? v",
+      "anh đồi nghề rồi đóng thuẽ nhé",
+      "Tưởng thị đại thích, uông nhiên xuất thẽ, viết:",
+      "B-2242",
+      "Ông thương mà muốn tôi săng",
+      "Tắc ngô tư dịch chi bãt hạnh,",
+      "xx x 2 được x xéz z",
+      "chưa bằng bắt tôi đóng thuẽ, còn bất hạnh hơn",
+      "Hướng ngô bất vi tư dịch, tắc cửu dĩ bệnh hình"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "予〇悲之〇耳〇日若毒之〇子",
+        "phien_am": "182",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "予將告扮溢事者更若役複",
+        "phien_am": "- Dư bi chỉ. Thả viết: a Nhược độc chi hồ. thị",
+        "dich_nghia_gloss": "Ta thương tình mới hỏi: nghề này"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "若賦則貝何貝如",
+        "phien_am": "F?7%?22%?2x-2",
+        "dich_nghia_gloss": "% ( A) [3] (3 GO"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "正",
+        "phien_am": "Dư tương cáo ư lị sự giả, canh nhược dịch",
+        "dich_nghia_gloss": "phục nhược phú, tắc hà như ? v"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "hi nhur?力",
+        "phien_am": "cực khồ lắm nhỉ 1 Đề ta nói với người giữ việc cho",
+        "dich_nghia_gloss": "anh đồi nghề rồi đóng thuẽ nhé"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "Dhi一",
+        "phien_am": "03622013131312",
+        "dich_nghia_gloss": "Tưởng thị đại thích, uông nhiên xuất thẽ, viết:"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "蔣氏興大興咸江",
+        "phien_am": "Họ Tưởng đau-đớn bội phần khóc",
+        "dich_nghia_gloss": "B-2242"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "出涕",
+        "phien_am": "Xã Lu Quân tương ai, nhi sinh chi hồ. nội",
+        "dich_nghia_gloss": "Ông thương mà muốn tôi săng"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "日",
+        "phien_am": "NBH1227",
+        "dich_nghia_gloss": "Tắc ngô tư dịch chi bãt hạnh,"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "君將衷而生之乎",
+        "phien_am": "thì sự bất hạnh trong nghề tôi làm còn",
+        "dich_nghia_gloss": "xx x 2 được x xéz z"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "馴吾斯役之不幸",
+        "phien_am": "Vị nhược phục ngô phú, bắt hạnh chi thậm dã",
+        "dich_nghia_gloss": "chưa bằng bắt tôi đóng thuẽ, còn bất hạnh hơn"
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "未若複吾賦不幸之甚也",
+        "phien_am": "BAREHILDNXEF",
+        "dich_nghia_gloss": "Hướng ngô bất vi tư dịch, tắc cửu dĩ bệnh hình"
+      },
+      {
+        "triplet_index": 12,
+        "chu_han": "戀吾不為斯",
+        "phien_am": "Ví tôi không làm nghề này thì khốn đốn đã lâu rồi",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 13,
+        "chu_han": "役射",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 14,
+        "chu_han": "久",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 15,
+        "chu_han": "已病矣",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 16,
+        "chu_han": "山",
+        "phien_am": "",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

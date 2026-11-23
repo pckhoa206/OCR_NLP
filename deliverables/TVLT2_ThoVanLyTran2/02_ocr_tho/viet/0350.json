@@ -1,0 +1,1228 @@
+{
+  "page_id": "0350",
+  "book_type": "TVLT2",
+  "book_folder": "TVLT2_ThoVanLyTran2",
+  "page_num": 350,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 1590,
+    "original_height": 2211,
+    "crop_top_px": 155,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1590,
+    "effective_height": 2056
+  },
+  "items": [
+    {
+      "line_id": "0350_viet_000",
+      "bbox": [
+        [
+          647,
+          389
+        ],
+        [
+          940,
+          399
+        ],
+        [
+          939,
+          444
+        ],
+        [
+          645,
+          434
+        ]
+      ],
+      "bbox_original": [
+        [
+          647,
+          544
+        ],
+        [
+          940,
+          554
+        ],
+        [
+          939,
+          599
+        ],
+        [
+          645,
+          589
+        ]
+      ],
+      "box_xyxy": [
+        645,
+        389,
+        940,
+        444
+      ],
+      "text": "LÊ VĂN HƯU",
+      "confidence": 0.9376
+    },
+    {
+      "line_id": "0350_viet_001",
+      "bbox": [
+        [
+          680,
+          527
+        ],
+        [
+          901,
+          525
+        ],
+        [
+          901,
+          563
+        ],
+        [
+          681,
+          566
+        ]
+      ],
+      "bbox_original": [
+        [
+          680,
+          682
+        ],
+        [
+          901,
+          680
+        ],
+        [
+          901,
+          718
+        ],
+        [
+          681,
+          721
+        ]
+      ],
+      "box_xyxy": [
+        680,
+        525,
+        901,
+        566
+      ],
+      "text": "(1230",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0350_viet_002",
+      "bbox": [
+        [
+          270,
+          670
+        ],
+        [
+          1406,
+          677
+        ],
+        [
+          1406,
+          720
+        ],
+        [
+          270,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          270,
+          825
+        ],
+        [
+          1406,
+          832
+        ],
+        [
+          1406,
+          875
+        ],
+        [
+          270,
+          868
+        ]
+      ],
+      "box_xyxy": [
+        270,
+        670,
+        1406,
+        720
+      ],
+      "text": "Lê Văn Hưu người làng Phủ lý 2 - huyện Đông-sơn X",
+      "confidence": 0.844
+    },
+    {
+      "line_id": "0350_viet_003",
+      "bbox": [
+        [
+          182,
+          717
+        ],
+        [
+          1415,
+          724
+        ],
+        [
+          1415,
+          760
+        ],
+        [
+          181,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          872
+        ],
+        [
+          1415,
+          879
+        ],
+        [
+          1415,
+          915
+        ],
+        [
+          181,
+          909
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        717,
+        1415,
+        760
+      ],
+      "text": "Thanh-hoa về % (4), đỗ bảng nhân năm Đình mùi (1247), niên hiệu Thiên Ứng",
+      "confidence": 0.8824
+    },
+    {
+      "line_id": "0350_viet_004",
+      "bbox": [
+        [
+          1404,
+          737
+        ],
+        [
+          1426,
+          737
+        ],
+        [
+          1426,
+          754
+        ],
+        [
+          1404,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          1404,
+          892
+        ],
+        [
+          1426,
+          892
+        ],
+        [
+          1426,
+          909
+        ],
+        [
+          1404,
+          909
+        ]
+      ],
+      "box_xyxy": [
+        1404,
+        737,
+        1426,
+        754
+      ],
+      "text": "1",
+      "confidence": 0.0721
+    },
+    {
+      "line_id": "0350_viet_005",
+      "bbox": [
+        [
+          179,
+          758
+        ],
+        [
+          1413,
+          762
+        ],
+        [
+          1413,
+          807
+        ],
+        [
+          179,
+          803
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          913
+        ],
+        [
+          1413,
+          917
+        ],
+        [
+          1413,
+          962
+        ],
+        [
+          179,
+          958
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        758,
+        1413,
+        807
+      ],
+      "text": "Chính Bình X X I F dưới triều Trần Thái Tông IK XX X. Lúc đó",
+      "confidence": 0.8478
+    },
+    {
+      "line_id": "0350_viet_006",
+      "bbox": [
+        [
+          182,
+          803
+        ],
+        [
+          1419,
+          807
+        ],
+        [
+          1419,
+          844
+        ],
+        [
+          181,
+          839
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          958
+        ],
+        [
+          1419,
+          962
+        ],
+        [
+          1419,
+          999
+        ],
+        [
+          181,
+          994
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        803,
+        1419,
+        844
+      ],
+      "text": "ông mới 18 tuổi (7), Sau làm đến chức Hàn lâm học sĩ kiêm Quốc sử viện giám",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0350_viet_007",
+      "bbox": [
+        [
+          179,
+          844
+        ],
+        [
+          1417,
+          848
+        ],
+        [
+          1417,
+          891
+        ],
+        [
+          179,
+          887
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          999
+        ],
+        [
+          1417,
+          1003
+        ],
+        [
+          1417,
+          1046
+        ],
+        [
+          179,
+          1042
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        844,
+        1417,
+        891
+      ],
+      "text": "tu: Năm 1272 ông soạn xong bộ Đại-việt sử ký k đề 282 từ Triệu Vũ Đế",
+      "confidence": 0.8843
+    },
+    {
+      "line_id": "0350_viet_008",
+      "bbox": [
+        [
+          180,
+          925
+        ],
+        [
+          1409,
+          934
+        ],
+        [
+          1408,
+          979
+        ],
+        [
+          179,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1080
+        ],
+        [
+          1409,
+          1089
+        ],
+        [
+          1408,
+          1134
+        ],
+        [
+          179,
+          1125
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        925,
+        1409,
+        979
+      ],
+      "text": "của nước ta, đã được Trần Thánh Tông lễ Ủy Ák ban chiếu khen, nhưng",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0350_viet_009",
+      "bbox": [
+        [
+          182,
+          974
+        ],
+        [
+          1406,
+          979
+        ],
+        [
+          1406,
+          1015
+        ],
+        [
+          181,
+          1011
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1129
+        ],
+        [
+          1406,
+          1134
+        ],
+        [
+          1406,
+          1170
+        ],
+        [
+          181,
+          1166
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        974,
+        1406,
+        1015
+      ],
+      "text": "đáng tiếc hiện nay bộ sặch đã thất lạc, chỉ còn một ít lời bình được Ngò Sĩ Liên",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0350_viet_010",
+      "bbox": [
+        [
+          216,
+          1022
+        ],
+        [
+          1404,
+          1022
+        ],
+        [
+          1404,
+          1058
+        ],
+        [
+          216,
+          1058
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1177
+        ],
+        [
+          1404,
+          1177
+        ],
+        [
+          1404,
+          1213
+        ],
+        [
+          216,
+          1213
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1022,
+        1404,
+        1058
+      ],
+      "text": "17 (4 Ghi lại trong ĐVSKTT, Qua những đoạn văn còn lại đó, ông tỏ ra người",
+      "confidence": 0.8465
+    },
+    {
+      "line_id": "0350_viet_011",
+      "bbox": [
+        [
+          179,
+          1062
+        ],
+        [
+          1406,
+          1067
+        ],
+        [
+          1406,
+          1103
+        ],
+        [
+          179,
+          1099
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1217
+        ],
+        [
+          1406,
+          1222
+        ],
+        [
+          1406,
+          1258
+        ],
+        [
+          179,
+          1254
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1062,
+        1406,
+        1103
+      ],
+      "text": "là một sử gia có lòng yêu nước, có cách nhìn tiến bộ đối với nhiều sự kiện",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0350_viet_012",
+      "bbox": [
+        [
+          177,
+          1101
+        ],
+        [
+          1437,
+          1105
+        ],
+        [
+          1437,
+          1148
+        ],
+        [
+          177,
+          1144
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1256
+        ],
+        [
+          1437,
+          1260
+        ],
+        [
+          1437,
+          1303
+        ],
+        [
+          177,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1101,
+        1437,
+        1148
+      ],
+      "text": "lịch sử đương thời. Mặc dù còn bị quan điểm Nho giáo hạn chế nên: một đôi",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0350_viet_013",
+      "bbox": [
+        [
+          179,
+          1144
+        ],
+        [
+          1417,
+          1150
+        ],
+        [
+          1417,
+          1193
+        ],
+        [
+          179,
+          1186
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1299
+        ],
+        [
+          1417,
+          1305
+        ],
+        [
+          1417,
+          1348
+        ],
+        [
+          179,
+          1341
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1144,
+        1417,
+        1193
+      ],
+      "text": "trưởng hợp khen chê chưa thật thỏa đáng, nhưng bộ sử của ông đã đóng góp",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0350_viet_014",
+      "bbox": [
+        [
+          179,
+          1186
+        ],
+        [
+          1415,
+          1193
+        ],
+        [
+          1415,
+          1232
+        ],
+        [
+          179,
+          1225
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          1341
+        ],
+        [
+          1415,
+          1348
+        ],
+        [
+          1415,
+          1387
+        ],
+        [
+          179,
+          1380
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        1186,
+        1415,
+        1232
+      ],
+      "text": "rất nhiều cho ĐVSKTT của Ngô Sĩ Liên và đã đề lại cho chúng ta nhiều nhận",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0350_viet_015",
+      "bbox": [
+        [
+          182,
+          1234
+        ],
+        [
+          1404,
+          1238
+        ],
+        [
+          1404,
+          1274
+        ],
+        [
+          181,
+          1270
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1389
+        ],
+        [
+          1404,
+          1393
+        ],
+        [
+          1404,
+          1429
+        ],
+        [
+          181,
+          1425
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1234,
+        1404,
+        1274
+      ],
+      "text": "định quý báu về các sự kiện lịch sử cũng như những đoạn bình luận giàu",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0350_viet_016",
+      "bbox": [
+        [
+          184,
+          1281
+        ],
+        [
+          469,
+          1281
+        ],
+        [
+          469,
+          1311
+        ],
+        [
+          184,
+          1311
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1436
+        ],
+        [
+          469,
+          1436
+        ],
+        [
+          469,
+          1466
+        ],
+        [
+          184,
+          1466
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1281,
+        469,
+        1311
+      ],
+      "text": "tính chất văn học.",
+      "confidence": 0.8915
+    },
+    {
+      "line_id": "0350_viet_017",
+      "bbox": [
+        [
+          272,
+          1332
+        ],
+        [
+          1406,
+          1336
+        ],
+        [
+          1406,
+          1375
+        ],
+        [
+          272,
+          1371
+        ]
+      ],
+      "bbox_original": [
+        [
+          272,
+          1487
+        ],
+        [
+          1406,
+          1491
+        ],
+        [
+          1406,
+          1530
+        ],
+        [
+          272,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        272,
+        1332,
+        1406,
+        1375
+      ],
+      "text": "Dưới đây, chúng tôi giới thiệu toàn bộ những doạn văn bình sử ấy, sắp",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0350_viet_018",
+      "bbox": [
+        [
+          182,
+          1377
+        ],
+        [
+          1415,
+          1379
+        ],
+        [
+          1415,
+          1416
+        ],
+        [
+          181,
+          1413
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1532
+        ],
+        [
+          1415,
+          1534
+        ],
+        [
+          1415,
+          1571
+        ],
+        [
+          181,
+          1568
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1377,
+        1415,
+        1416
+      ],
+      "text": "xếp theo trật tự thời gian như ĐVSKTT đã sắp xếp, trừ bốn đoạn bản về Triệu",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0350_viet_019",
+      "bbox": [
+        [
+          177,
+          1411
+        ],
+        [
+          1415,
+          1418
+        ],
+        [
+          1415,
+          1461
+        ],
+        [
+          177,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          1566
+        ],
+        [
+          1415,
+          1573
+        ],
+        [
+          1415,
+          1616
+        ],
+        [
+          177,
+          1609
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        1411,
+        1415,
+        1461
+      ],
+      "text": "Đà Xẽ Hê, về Lữ Gia ẽ Ấn, về Sĩ Nhiệp 4 R và về việc lập vua nước",
+      "confidence": 0.8515
+    },
+    {
+      "line_id": "0350_viet_020",
+      "bbox": [
+        [
+          182,
+          1458
+        ],
+        [
+          702,
+          1463
+        ],
+        [
+          702,
+          1499
+        ],
+        [
+          181,
+          1495
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1613
+        ],
+        [
+          702,
+          1618
+        ],
+        [
+          702,
+          1654
+        ],
+        [
+          181,
+          1650
+        ]
+      ],
+      "box_xyxy": [
+        181,
+        1458,
+        702,
+        1499
+      ],
+      "text": "Chiêm-thành Y vày, tạm gác lại",
+      "confidence": 0.8796
+    },
+    {
+      "line_id": "0350_viet_021",
+      "bbox": [
+        [
+          184,
+          1763
+        ],
+        [
+          1024,
+          1763
+        ],
+        [
+          1024,
+          1793
+        ],
+        [
+          184,
+          1793
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1918
+        ],
+        [
+          1024,
+          1918
+        ],
+        [
+          1024,
+          1948
+        ],
+        [
+          184,
+          1948
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1763,
+        1024,
+        1793
+      ],
+      "text": "(i) Làng Phủ-lý: nay thuốc huyện Thiệu-hóa, tỉnh Thanh-hóa.",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0350_viet_022",
+      "bbox": [
+        [
+          175,
+          1799
+        ],
+        [
+          1391,
+          1799
+        ],
+        [
+          1391,
+          1848
+        ],
+        [
+          175,
+          1848
+        ]
+      ],
+      "bbox_original": [
+        [
+          175,
+          1954
+        ],
+        [
+          1391,
+          1954
+        ],
+        [
+          1391,
+          2003
+        ],
+        [
+          175,
+          2003
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1799,
+        1391,
+        1848
+      ],
+      "text": "(2) Theo Đăng khoa lục sưu giàng (ý 4] Hệ (K Bằn - Liệt huyện dăng khoa lục 31)",
+      "confidence": 0.8428
+    },
+    {
+      "line_id": "0350_viet_023",
+      "bbox": [
+        [
+          277,
+          1837
+        ],
+        [
+          1406,
+          1844
+        ],
+        [
+          1406,
+          1887
+        ],
+        [
+          276,
+          1880
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          1992
+        ],
+        [
+          1406,
+          1999
+        ],
+        [
+          1406,
+          2042
+        ],
+        [
+          276,
+          2035
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        1837,
+        1406,
+        1887
+      ],
+      "text": "Ký đế ký Bộ thì nói năm ấy ông mời 16 tuời, Nếu theo sách này thì Lê Văn Hưa",
+      "confidence": 0.8852
+    },
+    {
+      "line_id": "0350_viet_024",
+      "bbox": [
+        [
+          242,
+          1883
+        ],
+        [
+          1400,
+          1883
+        ],
+        [
+          1400,
+          1919
+        ],
+        [
+          242,
+          1919
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2038
+        ],
+        [
+          1400,
+          2038
+        ],
+        [
+          1400,
+          2074
+        ],
+        [
+          242,
+          2074
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1883,
+        1400,
+        1919
+      ],
+      "text": "sinh năm 1232, Chưa biết tài liệu nào đủng, chúng lôi ghi chú thêm đề bạn đọc tham khảo",
+      "confidence": 0.9207
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "LÊ VĂN HƯU",
+      "(1230",
+      "Lê Văn Hưu người làng Phủ lý 2 - huyện Đông-sơn X",
+      "Thanh-hoa về % (4), đỗ bảng nhân năm Đình mùi (1247), niên hiệu Thiên Ứng",
+      "1",
+      "Chính Bình X X I F dưới triều Trần Thái Tông IK XX X. Lúc đó",
+      "ông mới 18 tuổi (7), Sau làm đến chức Hàn lâm học sĩ kiêm Quốc sử viện giám",
+      "tu: Năm 1272 ông soạn xong bộ Đại-việt sử ký k đề 282 từ Triệu Vũ Đế",
+      "của nước ta, đã được Trần Thánh Tông lễ Ủy Ák ban chiếu khen, nhưng",
+      "đáng tiếc hiện nay bộ sặch đã thất lạc, chỉ còn một ít lời bình được Ngò Sĩ Liên",
+      "17 (4 Ghi lại trong ĐVSKTT, Qua những đoạn văn còn lại đó, ông tỏ ra người",
+      "là một sử gia có lòng yêu nước, có cách nhìn tiến bộ đối với nhiều sự kiện",
+      "lịch sử đương thời. Mặc dù còn bị quan điểm Nho giáo hạn chế nên: một đôi",
+      "trưởng hợp khen chê chưa thật thỏa đáng, nhưng bộ sử của ông đã đóng góp",
+      "rất nhiều cho ĐVSKTT của Ngô Sĩ Liên và đã đề lại cho chúng ta nhiều nhận",
+      "định quý báu về các sự kiện lịch sử cũng như những đoạn bình luận giàu",
+      "tính chất văn học.",
+      "Dưới đây, chúng tôi giới thiệu toàn bộ những doạn văn bình sử ấy, sắp",
+      "xếp theo trật tự thời gian như ĐVSKTT đã sắp xếp, trừ bốn đoạn bản về Triệu",
+      "Đà Xẽ Hê, về Lữ Gia ẽ Ấn, về Sĩ Nhiệp 4 R và về việc lập vua nước",
+      "Chiêm-thành Y vày, tạm gác lại",
+      "(i) Làng Phủ-lý: nay thuốc huyện Thiệu-hóa, tỉnh Thanh-hóa.",
+      "(2) Theo Đăng khoa lục sưu giàng (ý 4] Hệ (K Bằn - Liệt huyện dăng khoa lục 31)",
+      "Ký đế ký Bộ thì nói năm ấy ông mời 16 tuời, Nếu theo sách này thì Lê Văn Hưa",
+      "sinh năm 1232, Chưa biết tài liệu nào đủng, chúng lôi ghi chú thêm đề bạn đọc tham khảo"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

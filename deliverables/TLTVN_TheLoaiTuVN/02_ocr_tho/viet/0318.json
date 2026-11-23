@@ -1,0 +1,796 @@
+{
+  "page_id": "0318",
+  "book_type": "TLTVN",
+  "book_folder": "TLTVN_TheLoaiTuVN",
+  "page_num": 318,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1122,
+    "original_height": 1640,
+    "crop_top_px": 115,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 884,
+    "footnote_separator_y_original": 999,
+    "effective_width": 1122,
+    "effective_height": 884
+  },
+  "items": [
+    {
+      "line_id": "0318_viet_000",
+      "bbox": [
+        [
+          139,
+          7
+        ],
+        [
+          527,
+          5
+        ],
+        [
+          527,
+          36
+        ],
+        [
+          139,
+          38
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          122
+        ],
+        [
+          527,
+          120
+        ],
+        [
+          527,
+          151
+        ],
+        [
+          139,
+          153
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        5,
+        527,
+        38
+      ],
+      "text": "Ngự lô noãn xuất ỷla diên;",
+      "confidence": 0.8696
+    },
+    {
+      "line_id": "0318_viet_001",
+      "bbox": [
+        [
+          143,
+          54
+        ],
+        [
+          491,
+          54
+        ],
+        [
+          491,
+          82
+        ],
+        [
+          143,
+          82
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          169
+        ],
+        [
+          491,
+          169
+        ],
+        [
+          491,
+          197
+        ],
+        [
+          143,
+          197
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        54,
+        491,
+        82
+      ],
+      "text": "Hàn vũ đáo Quân Thiên",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0318_viet_002",
+      "bbox": [
+        [
+          139,
+          101
+        ],
+        [
+          319,
+          101
+        ],
+        [
+          319,
+          134
+        ],
+        [
+          139,
+          134
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          216
+        ],
+        [
+          319,
+          216
+        ],
+        [
+          319,
+          249
+        ],
+        [
+          139,
+          249
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        101,
+        319,
+        134
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0318_viet_003",
+      "bbox": [
+        [
+          137,
+          149
+        ],
+        [
+          418,
+          144
+        ],
+        [
+          419,
+          179
+        ],
+        [
+          137,
+          184
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          264
+        ],
+        [
+          418,
+          259
+        ],
+        [
+          419,
+          294
+        ],
+        [
+          137,
+          299
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        144,
+        419,
+        184
+      ],
+      "text": "Điệu Pháp giá dấn",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0318_viet_004",
+      "bbox": [
+        [
+          141,
+          196
+        ],
+        [
+          446,
+          196
+        ],
+        [
+          446,
+          223
+        ],
+        [
+          141,
+          223
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          311
+        ],
+        [
+          446,
+          311
+        ],
+        [
+          446,
+          338
+        ],
+        [
+          141,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        196,
+        446,
+        223
+      ],
+      "text": "Phúc lành chan chứa",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0318_viet_005",
+      "bbox": [
+        [
+          138,
+          242
+        ],
+        [
+          447,
+          244
+        ],
+        [
+          446,
+          275
+        ],
+        [
+          138,
+          273
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          357
+        ],
+        [
+          447,
+          359
+        ],
+        [
+          446,
+          390
+        ],
+        [
+          138,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        242,
+        447,
+        275
+      ],
+      "text": "Phúc lành chan chứa",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0318_viet_006",
+      "bbox": [
+        [
+          140,
+          291
+        ],
+        [
+          298,
+          291
+        ],
+        [
+          298,
+          323
+        ],
+        [
+          140,
+          323
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          406
+        ],
+        [
+          298,
+          406
+        ],
+        [
+          298,
+          438
+        ],
+        [
+          140,
+          438
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        291,
+        298,
+        323
+      ],
+      "text": "Thọ vô bờ.",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0318_viet_007",
+      "bbox": [
+        [
+          138,
+          335
+        ],
+        [
+          1047,
+          331
+        ],
+        [
+          1047,
+          372
+        ],
+        [
+          138,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          450
+        ],
+        [
+          1047,
+          446
+        ],
+        [
+          1047,
+          487
+        ],
+        [
+          138,
+          490
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        331,
+        1047,
+        375
+      ],
+      "text": "Có lúc cầu vồng trên bãi?, lại thêm thẻ vào ngôi nhà bên biển?",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0318_viet_008",
+      "bbox": [
+        [
+          140,
+          384
+        ],
+        [
+          1039,
+          384
+        ],
+        [
+          1039,
+          422
+        ],
+        [
+          140,
+          422
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          499
+        ],
+        [
+          1039,
+          499
+        ],
+        [
+          1039,
+          537
+        ],
+        [
+          140,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        384,
+        1039,
+        422
+      ],
+      "text": "Bậc thềm li? vui hoà đưa hương dẫn đưa hương thơm của trời,",
+      "confidence": 0.9104
+    },
+    {
+      "line_id": "0318_viet_009",
+      "bbox": [
+        [
+          139,
+          440
+        ],
+        [
+          930,
+          436
+        ],
+        [
+          930,
+          467
+        ],
+        [
+          139,
+          471
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          555
+        ],
+        [
+          930,
+          551
+        ],
+        [
+          930,
+          582
+        ],
+        [
+          139,
+          586
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        436,
+        930,
+        471
+      ],
+      "text": "Nghi trượng của bậc tiên hài hoà cùng dáng chân bước thế trị",
+      "confidence": 0.847
+    },
+    {
+      "line_id": "0318_viet_010",
+      "bbox": [
+        [
+          874,
+          482
+        ],
+        [
+          1039,
+          480
+        ],
+        [
+          1039,
+          520
+        ],
+        [
+          875,
+          523
+        ]
+      ],
+      "bbox_original": [
+        [
+          874,
+          597
+        ],
+        [
+          1039,
+          595
+        ],
+        [
+          1039,
+          635
+        ],
+        [
+          875,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        874,
+        480,
+        1039,
+        523
+      ],
+      "text": "[vào chầu]",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0318_viet_011",
+      "bbox": [
+        [
+          141,
+          581
+        ],
+        [
+          334,
+          584
+        ],
+        [
+          334,
+          616
+        ],
+        [
+          140,
+          613
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          696
+        ],
+        [
+          334,
+          699
+        ],
+        [
+          334,
+          731
+        ],
+        [
+          140,
+          728
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        581,
+        334,
+        616
+      ],
+      "text": "Gió đón mời,",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0318_viet_012",
+      "bbox": [
+        [
+          141,
+          631
+        ],
+        [
+          334,
+          633
+        ],
+        [
+          334,
+          665
+        ],
+        [
+          140,
+          663
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          746
+        ],
+        [
+          334,
+          748
+        ],
+        [
+          334,
+          780
+        ],
+        [
+          140,
+          778
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        631,
+        334,
+        665
+      ],
+      "text": "Gió đón mời,",
+      "confidence": 0.9068
+    },
+    {
+      "line_id": "0318_viet_013",
+      "bbox": [
+        [
+          141,
+          679
+        ],
+        [
+          563,
+          679
+        ],
+        [
+          563,
+          714
+        ],
+        [
+          141,
+          714
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          794
+        ],
+        [
+          563,
+          794
+        ],
+        [
+          563,
+          829
+        ],
+        [
+          141,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        679,
+        563,
+        714
+      ],
+      "text": "Vang lên tiếng tiêu tiếng sáo",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0318_viet_014",
+      "bbox": [
+        [
+          141,
+          727
+        ],
+        [
+          621,
+          727
+        ],
+        [
+          621,
+          762
+        ],
+        [
+          141,
+          762
+        ]
+      ],
+      "bbox_original": [
+        [
+          141,
+          842
+        ],
+        [
+          621,
+          842
+        ],
+        [
+          621,
+          877
+        ],
+        [
+          141,
+          877
+        ]
+      ],
+      "box_xyxy": [
+        141,
+        727,
+        621,
+        762
+      ],
+      "text": "Mang theo ngọc bạch tiên công]",
+      "confidence": 0.8903
+    },
+    {
+      "line_id": "0318_viet_015",
+      "bbox": [
+        [
+          471,
+          777
+        ],
+        [
+          1039,
+          772
+        ],
+        [
+          1039,
+          808
+        ],
+        [
+          471,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          892
+        ],
+        [
+          1039,
+          887
+        ],
+        [
+          1039,
+          923
+        ],
+        [
+          471,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        772,
+        1039,
+        813
+      ],
+      "text": "qua đường trạm dịch trải chín tầng trời,",
+      "confidence": 0.919
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Ngự lô noãn xuất ỷla diên;",
+      "Hàn vũ đáo Quân Thiên"
+    ],
+    "dich_nghia_lines": [
+      "Điệu Pháp giá dấn",
+      "Phúc lành chan chứa",
+      "Phúc lành chan chứa",
+      "Thọ vô bờ.",
+      "Có lúc cầu vồng trên bãi?, lại thêm thẻ vào ngôi nhà bên biển?",
+      "Bậc thềm li? vui hoà đưa hương dẫn đưa hương thơm của trời,",
+      "Nghi trượng của bậc tiên hài hoà cùng dáng chân bước thế trị",
+      "[vào chầu]",
+      "Gió đón mời,",
+      "Gió đón mời,",
+      "Vang lên tiếng tiêu tiếng sáo",
+      "Mang theo ngọc bạch tiên công]",
+      "qua đường trạm dịch trải chín tầng trời,"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

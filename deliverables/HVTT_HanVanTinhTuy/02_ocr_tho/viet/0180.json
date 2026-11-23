@@ -1,0 +1,948 @@
+{
+  "page_id": "0180",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 180,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0180_viet_000",
+      "bbox": [
+        [
+          192,
+          100
+        ],
+        [
+          246,
+          100
+        ],
+        [
+          246,
+          134
+        ],
+        [
+          192,
+          134
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          221
+        ],
+        [
+          246,
+          221
+        ],
+        [
+          246,
+          255
+        ],
+        [
+          192,
+          255
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        100,
+        246,
+        134
+      ],
+      "text": "174",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0180_viet_001",
+      "bbox": [
+        [
+          670,
+          99
+        ],
+        [
+          987,
+          100
+        ],
+        [
+          987,
+          131
+        ],
+        [
+          670,
+          129
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          220
+        ],
+        [
+          987,
+          221
+        ],
+        [
+          987,
+          252
+        ],
+        [
+          670,
+          250
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        99,
+        987,
+        131
+      ],
+      "text": "PHÁN VĂN TINH-TUY",
+      "confidence": 0.8651
+    },
+    {
+      "line_id": "0180_viet_002",
+      "bbox": [
+        [
+          295,
+          203
+        ],
+        [
+          753,
+          203
+        ],
+        [
+          753,
+          241
+        ],
+        [
+          295,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          324
+        ],
+        [
+          753,
+          324
+        ],
+        [
+          753,
+          362
+        ],
+        [
+          295,
+          362
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        203,
+        753,
+        241
+      ],
+      "text": "12 - 2012 4 - 51 - 31 - KM 2002",
+      "confidence": 0.425
+    },
+    {
+      "line_id": "0180_viet_003",
+      "bbox": [
+        [
+          263,
+          256
+        ],
+        [
+          832,
+          260
+        ],
+        [
+          832,
+          300
+        ],
+        [
+          263,
+          296
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          377
+        ],
+        [
+          832,
+          381
+        ],
+        [
+          832,
+          421
+        ],
+        [
+          263,
+          417
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        256,
+        832,
+        300
+      ],
+      "text": "Giác lai lệ trích Tương giang thủy",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0180_viet_004",
+      "bbox": [
+        [
+          292,
+          336
+        ],
+        [
+          753,
+          336
+        ],
+        [
+          753,
+          377
+        ],
+        [
+          292,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          457
+        ],
+        [
+          753,
+          457
+        ],
+        [
+          753,
+          498
+        ],
+        [
+          292,
+          498
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        336,
+        753,
+        377
+      ],
+      "text": "10151 ? 2 (2 (2 (",
+      "confidence": 0.3269
+    },
+    {
+      "line_id": "0180_viet_005",
+      "bbox": [
+        [
+          262,
+          392
+        ],
+        [
+          903,
+          393
+        ],
+        [
+          903,
+          434
+        ],
+        [
+          262,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          513
+        ],
+        [
+          903,
+          514
+        ],
+        [
+          903,
+          555
+        ],
+        [
+          262,
+          553
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        392,
+        903,
+        434
+      ],
+      "text": "Tương giang lưỡng ngạn hoa mộc thâm",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0180_viet_006",
+      "bbox": [
+        [
+          292,
+          470
+        ],
+        [
+          756,
+          474
+        ],
+        [
+          756,
+          514
+        ],
+        [
+          292,
+          510
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          591
+        ],
+        [
+          756,
+          595
+        ],
+        [
+          756,
+          635
+        ],
+        [
+          292,
+          631
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        470,
+        756,
+        514
+      ],
+      "text": "127241N",
+      "confidence": 0.3605
+    },
+    {
+      "line_id": "0180_viet_007",
+      "bbox": [
+        [
+          267,
+          532
+        ],
+        [
+          797,
+          532
+        ],
+        [
+          797,
+          566
+        ],
+        [
+          267,
+          566
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          653
+        ],
+        [
+          797,
+          653
+        ],
+        [
+          797,
+          687
+        ],
+        [
+          267,
+          687
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        532,
+        797,
+        566
+      ],
+      "text": "Mỹ nhân bãt kiến sầu nhân tâm",
+      "confidence": 0.8962
+    },
+    {
+      "line_id": "0180_viet_008",
+      "bbox": [
+        [
+          262,
+          663
+        ],
+        [
+          736,
+          668
+        ],
+        [
+          735,
+          703
+        ],
+        [
+          261,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          784
+        ],
+        [
+          736,
+          789
+        ],
+        [
+          735,
+          824
+        ],
+        [
+          261,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        663,
+        736,
+        703
+      ],
+      "text": "Hàm sầu cánh tãu lục ý cầm,",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0180_viet_009",
+      "bbox": [
+        [
+          287,
+          742
+        ],
+        [
+          749,
+          740
+        ],
+        [
+          749,
+          780
+        ],
+        [
+          287,
+          782
+        ]
+      ],
+      "bbox_original": [
+        [
+          287,
+          863
+        ],
+        [
+          749,
+          861
+        ],
+        [
+          749,
+          901
+        ],
+        [
+          287,
+          903
+        ]
+      ],
+      "box_xyxy": [
+        287,
+        740,
+        749,
+        782
+      ],
+      "text": "1000000000036",
+      "confidence": 0.249
+    },
+    {
+      "line_id": "0180_viet_010",
+      "bbox": [
+        [
+          263,
+          800
+        ],
+        [
+          771,
+          804
+        ],
+        [
+          771,
+          839
+        ],
+        [
+          263,
+          835
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          921
+        ],
+        [
+          771,
+          925
+        ],
+        [
+          771,
+          960
+        ],
+        [
+          263,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        800,
+        771,
+        839
+      ],
+      "text": "Điệu cao huyền tuyệt vô tri âm",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0180_viet_011",
+      "bbox": [
+        [
+          292,
+          879
+        ],
+        [
+          609,
+          879
+        ],
+        [
+          609,
+          919
+        ],
+        [
+          292,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1000
+        ],
+        [
+          609,
+          1000
+        ],
+        [
+          609,
+          1040
+        ],
+        [
+          292,
+          1040
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        879,
+        609,
+        919
+      ],
+      "text": "FLYFLY",
+      "confidence": 0.647
+    },
+    {
+      "line_id": "0180_viet_012",
+      "bbox": [
+        [
+          263,
+          936
+        ],
+        [
+          641,
+          937
+        ],
+        [
+          641,
+          973
+        ],
+        [
+          263,
+          971
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          1057
+        ],
+        [
+          641,
+          1058
+        ],
+        [
+          641,
+          1094
+        ],
+        [
+          263,
+          1092
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        936,
+        641,
+        973
+      ],
+      "text": "Mỹ nhân hề mỹ nhân",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0180_viet_013",
+      "bbox": [
+        [
+          290,
+          1011
+        ],
+        [
+          886,
+          1014
+        ],
+        [
+          886,
+          1055
+        ],
+        [
+          290,
+          1051
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1132
+        ],
+        [
+          886,
+          1135
+        ],
+        [
+          886,
+          1176
+        ],
+        [
+          290,
+          1172
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        1011,
+        886,
+        1055
+      ],
+      "text": "Tỉnh thị trấn",
+      "confidence": 0.4826
+    },
+    {
+      "line_id": "0180_viet_014",
+      "bbox": [
+        [
+          262,
+          1073
+        ],
+        [
+          815,
+          1075
+        ],
+        [
+          815,
+          1110
+        ],
+        [
+          262,
+          1108
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1194
+        ],
+        [
+          815,
+          1196
+        ],
+        [
+          815,
+          1231
+        ],
+        [
+          262,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1073,
+        815,
+        1110
+      ],
+      "text": "Bắt tri vi mộ vũ hề vi triêu vân,",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0180_viet_015",
+      "bbox": [
+        [
+          289,
+          1152
+        ],
+        [
+          751,
+          1152
+        ],
+        [
+          751,
+          1192
+        ],
+        [
+          289,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          289,
+          1273
+        ],
+        [
+          751,
+          1273
+        ],
+        [
+          751,
+          1313
+        ],
+        [
+          289,
+          1313
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        1152,
+        751,
+        1192
+      ],
+      "text": "AE B GH K A",
+      "confidence": 0.446
+    },
+    {
+      "line_id": "0180_viet_016",
+      "bbox": [
+        [
+          262,
+          1209
+        ],
+        [
+          810,
+          1210
+        ],
+        [
+          810,
+          1245
+        ],
+        [
+          262,
+          1244
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1330
+        ],
+        [
+          810,
+          1331
+        ],
+        [
+          810,
+          1366
+        ],
+        [
+          262,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1209,
+        810,
+        1245
+      ],
+      "text": "Tương tư nhất dạ mai hoa phát, tháng",
+      "confidence": 0.8289
+    },
+    {
+      "line_id": "0180_viet_017",
+      "bbox": [
+        [
+          262,
+          1346
+        ],
+        [
+          797,
+          1348
+        ],
+        [
+          796,
+          1383
+        ],
+        [
+          262,
+          1381
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1467
+        ],
+        [
+          797,
+          1469
+        ],
+        [
+          796,
+          1504
+        ],
+        [
+          262,
+          1502
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1346,
+        797,
+        1383
+      ],
+      "text": "Hốt đáo song tiền nghi thị quân",
+      "confidence": 0.8876
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "174",
+      "12 - 2012 4 - 51 - 31 - KM 2002",
+      "10151 ? 2 (2 (2 (",
+      "127241N",
+      "Hàm sầu cánh tãu lục ý cầm,",
+      "Điệu cao huyền tuyệt vô tri âm",
+      "Mỹ nhân hề mỹ nhân",
+      "Bắt tri vi mộ vũ hề vi triêu vân,",
+      "Tương tư nhất dạ mai hoa phát, tháng"
+    ],
+    "dich_nghia_lines": [
+      "PHÁN VĂN TINH-TUY",
+      "Giác lai lệ trích Tương giang thủy",
+      "Tương giang lưỡng ngạn hoa mộc thâm",
+      "Mỹ nhân bãt kiến sầu nhân tâm",
+      "1000000000036",
+      "FLYFLY",
+      "Tỉnh thị trấn",
+      "AE B GH K A",
+      "Hốt đáo song tiền nghi thị quân"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "覺來浜滴湘江龍水",
+        "phien_am": "174",
+        "dich_nghia_gloss": "PHÁN VĂN TINH-TUY"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "湘江兩岸興花木深",
+        "phien_am": "12 - 2012 4 - 51 - 31 - KM 2002",
+        "dich_nghia_gloss": "Giác lai lệ trích Tương giang thủy"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "美人不蠍見愁人",
+        "phien_am": "10151 ? 2 (2 (2 (",
+        "dich_nghia_gloss": "Tương giang lưỡng ngạn hoa mộc thâm"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "含愁更奏綠綺琴",
+        "phien_am": "127241N",
+        "dich_nghia_gloss": "Mỹ nhân bãt kiến sầu nhân tâm"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "調高弦紀無知音",
+        "phien_am": "Hàm sầu cánh tãu lục ý cầm,",
+        "dich_nghia_gloss": "1000000000036"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "美人分美人",
+        "phien_am": "Điệu cao huyền tuyệt vô tri âm",
+        "dich_nghia_gloss": "FLYFLY"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "不知為普雨分為朝雲",
+        "phien_am": "Mỹ nhân hề mỹ nhân",
+        "dich_nghia_gloss": "Tỉnh thị trấn"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "相思一夜梅花發",
+        "phien_am": "Bắt tri vi mộ vũ hề vi triêu vân,",
+        "dich_nghia_gloss": "AE B GH K A"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "忽讚到窗前疑讚是君",
+        "phien_am": "Tương tư nhất dạ mai hoa phát, tháng",
+        "dich_nghia_gloss": "Hốt đáo song tiền nghi thị quân"
+      }
+    ]
+  }
+}

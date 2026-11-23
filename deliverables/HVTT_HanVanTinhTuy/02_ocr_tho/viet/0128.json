@@ -1,0 +1,1376 @@
+{
+  "page_id": "0128",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 128,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0128_viet_000",
+      "bbox": [
+        [
+          197,
+          35
+        ],
+        [
+          251,
+          35
+        ],
+        [
+          251,
+          67
+        ],
+        [
+          197,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          156
+        ],
+        [
+          251,
+          156
+        ],
+        [
+          251,
+          188
+        ],
+        [
+          197,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        35,
+        251,
+        67
+      ],
+      "text": "122",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0128_viet_001",
+      "bbox": [
+        [
+          670,
+          37
+        ],
+        [
+          992,
+          37
+        ],
+        [
+          992,
+          65
+        ],
+        [
+          670,
+          65
+        ]
+      ],
+      "bbox_original": [
+        [
+          670,
+          158
+        ],
+        [
+          992,
+          158
+        ],
+        [
+          992,
+          186
+        ],
+        [
+          670,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        670,
+        37,
+        992,
+        65
+      ],
+      "text": "PHÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0128_viet_002",
+      "bbox": [
+        [
+          250,
+          136
+        ],
+        [
+          920,
+          137
+        ],
+        [
+          920,
+          177
+        ],
+        [
+          250,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          257
+        ],
+        [
+          920,
+          258
+        ],
+        [
+          920,
+          298
+        ],
+        [
+          250,
+          297
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        136,
+        920,
+        177
+      ],
+      "text": "46 Rê tế người minh",
+      "confidence": 0.5359
+    },
+    {
+      "line_id": "0128_viet_003",
+      "bbox": [
+        [
+          228,
+          186
+        ],
+        [
+          918,
+          189
+        ],
+        [
+          918,
+          229
+        ],
+        [
+          228,
+          226
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          307
+        ],
+        [
+          918,
+          310
+        ],
+        [
+          918,
+          350
+        ],
+        [
+          228,
+          347
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        186,
+        918,
+        229
+      ],
+      "text": "Dương Ý bất phùng, phủ Lăng-vân nhi tự tích",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0128_viet_004",
+      "bbox": [
+        [
+          226,
+          233
+        ],
+        [
+          989,
+          234
+        ],
+        [
+          989,
+          273
+        ],
+        [
+          226,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          354
+        ],
+        [
+          989,
+          355
+        ],
+        [
+          989,
+          394
+        ],
+        [
+          226,
+          392
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        233,
+        989,
+        273
+      ],
+      "text": "Không gặp Dương Ý, đọc thiên lăng-vân mà tự tiếc",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0128_viet_005",
+      "bbox": [
+        [
+          250,
+          310
+        ],
+        [
+          918,
+          310
+        ],
+        [
+          918,
+          350
+        ],
+        [
+          250,
+          350
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          431
+        ],
+        [
+          918,
+          431
+        ],
+        [
+          918,
+          471
+        ],
+        [
+          250,
+          471
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        310,
+        918,
+        350
+      ],
+      "text": "Số 12 Thế K Hệ Kit Kit N",
+      "confidence": 0.403
+    },
+    {
+      "line_id": "0128_viet_006",
+      "bbox": [
+        [
+          228,
+          362
+        ],
+        [
+          876,
+          362
+        ],
+        [
+          876,
+          400
+        ],
+        [
+          228,
+          400
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          483
+        ],
+        [
+          876,
+          483
+        ],
+        [
+          876,
+          521
+        ],
+        [
+          228,
+          521
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        362,
+        876,
+        400
+      ],
+      "text": "Chung kỳ ký ngộ, tầu Lưu-thủy di hà tàm ?",
+      "confidence": 0.9228
+    },
+    {
+      "line_id": "0128_viet_007",
+      "bbox": [
+        [
+          225,
+          403
+        ],
+        [
+          992,
+          407
+        ],
+        [
+          992,
+          445
+        ],
+        [
+          224,
+          442
+        ]
+      ],
+      "bbox_original": [
+        [
+          225,
+          524
+        ],
+        [
+          992,
+          528
+        ],
+        [
+          992,
+          566
+        ],
+        [
+          224,
+          563
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        403,
+        992,
+        445
+      ],
+      "text": "Đã gặp Chung-Kỳ, tàu khúc lưu-thủy có hồ thẹn gì ?",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0128_viet_008",
+      "bbox": [
+        [
+          246,
+          474
+        ],
+        [
+          920,
+          470
+        ],
+        [
+          920,
+          516
+        ],
+        [
+          247,
+          519
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          595
+        ],
+        [
+          920,
+          591
+        ],
+        [
+          920,
+          637
+        ],
+        [
+          247,
+          640
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        470,
+        920,
+        519
+      ],
+      "text": "0315 4 T5 Tế R IỀN H",
+      "confidence": 0.4254
+    },
+    {
+      "line_id": "0128_viet_009",
+      "bbox": [
+        [
+          228,
+          527
+        ],
+        [
+          947,
+          529
+        ],
+        [
+          947,
+          564
+        ],
+        [
+          228,
+          562
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          648
+        ],
+        [
+          947,
+          650
+        ],
+        [
+          947,
+          685
+        ],
+        [
+          228,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        527,
+        947,
+        564
+      ],
+      "text": "Ta hói Thắng-dia bất thường, Thịnh diên nan tái",
+      "confidence": 0.9136
+    },
+    {
+      "line_id": "0128_viet_010",
+      "bbox": [
+        [
+          226,
+          572
+        ],
+        [
+          943,
+          574
+        ],
+        [
+          943,
+          609
+        ],
+        [
+          226,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          693
+        ],
+        [
+          943,
+          695
+        ],
+        [
+          943,
+          730
+        ],
+        [
+          226,
+          729
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        572,
+        943,
+        609
+      ],
+      "text": "Than ôi ' Chồn danh-thắng chẳng thường tôn-tại,",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0128_viet_011",
+      "bbox": [
+        [
+          223,
+          616
+        ],
+        [
+          653,
+          618
+        ],
+        [
+          653,
+          653
+        ],
+        [
+          223,
+          651
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          737
+        ],
+        [
+          653,
+          739
+        ],
+        [
+          653,
+          774
+        ],
+        [
+          223,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        616,
+        653,
+        653
+      ],
+      "text": "bữa tiệc lớn khó gặp hai lần",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0128_viet_012",
+      "bbox": [
+        [
+          252,
+          686
+        ],
+        [
+          773,
+          688
+        ],
+        [
+          773,
+          728
+        ],
+        [
+          251,
+          726
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          807
+        ],
+        [
+          773,
+          809
+        ],
+        [
+          773,
+          849
+        ],
+        [
+          251,
+          847
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        686,
+        773,
+        728
+      ],
+      "text": "03210001355",
+      "confidence": 0.1978
+    },
+    {
+      "line_id": "0128_viet_013",
+      "bbox": [
+        [
+          228,
+          740
+        ],
+        [
+          743,
+          742
+        ],
+        [
+          742,
+          772
+        ],
+        [
+          228,
+          770
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          861
+        ],
+        [
+          743,
+          863
+        ],
+        [
+          742,
+          893
+        ],
+        [
+          228,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        740,
+        743,
+        772
+      ],
+      "text": "Lan-đình dĩ hì, Tử-trạch khưu hư.",
+      "confidence": 0.8738
+    },
+    {
+      "line_id": "0128_viet_014",
+      "bbox": [
+        [
+          221,
+          775
+        ],
+        [
+          940,
+          784
+        ],
+        [
+          940,
+          822
+        ],
+        [
+          221,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          896
+        ],
+        [
+          940,
+          905
+        ],
+        [
+          940,
+          943
+        ],
+        [
+          221,
+          934
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        775,
+        940,
+        822
+      ],
+      "text": "Lan-đình còn đâu nữa, Tử-trạch thành gò hoang",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0128_viet_015",
+      "bbox": [
+        [
+          248,
+          852
+        ],
+        [
+          915,
+          852
+        ],
+        [
+          915,
+          891
+        ],
+        [
+          248,
+          891
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          973
+        ],
+        [
+          915,
+          973
+        ],
+        [
+          915,
+          1012
+        ],
+        [
+          248,
+          1012
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        852,
+        915,
+        891
+      ],
+      "text": "63] Ở F (2 F F F 7 - 12 AL",
+      "confidence": 0.4045
+    },
+    {
+      "line_id": "0128_viet_016",
+      "bbox": [
+        [
+          226,
+          904
+        ],
+        [
+          876,
+          904
+        ],
+        [
+          876,
+          942
+        ],
+        [
+          226,
+          942
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1025
+        ],
+        [
+          876,
+          1025
+        ],
+        [
+          876,
+          1063
+        ],
+        [
+          226,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        904,
+        876,
+        942
+      ],
+      "text": "Lâm biệt tặng ngôn, hạnh thừa ân ư vĩ tiến",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0128_viet_017",
+      "bbox": [
+        [
+          223,
+          949
+        ],
+        [
+          987,
+          953
+        ],
+        [
+          987,
+          986
+        ],
+        [
+          223,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1070
+        ],
+        [
+          987,
+          1074
+        ],
+        [
+          987,
+          1107
+        ],
+        [
+          223,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        949,
+        987,
+        986
+      ],
+      "text": "Hân-hạnh được thừa ân trong bứa tiệc vi-đại này",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0128_viet_018",
+      "bbox": [
+        [
+          196,
+          993
+        ],
+        [
+          619,
+          996
+        ],
+        [
+          619,
+          1031
+        ],
+        [
+          196,
+          1028
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          1114
+        ],
+        [
+          619,
+          1117
+        ],
+        [
+          619,
+          1152
+        ],
+        [
+          196,
+          1149
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        993,
+        619,
+        1031
+      ],
+      "text": "tôi viết lời tặng khi lâm hiệt",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0128_viet_019",
+      "bbox": [
+        [
+          250,
+          1066
+        ],
+        [
+          920,
+          1066
+        ],
+        [
+          920,
+          1105
+        ],
+        [
+          250,
+          1105
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1187
+        ],
+        [
+          920,
+          1187
+        ],
+        [
+          920,
+          1226
+        ],
+        [
+          250,
+          1226
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1066,
+        920,
+        1105
+      ],
+      "text": "Lê 15 thế 2 (5% ght",
+      "confidence": 0.4483
+    },
+    {
+      "line_id": "0128_viet_020",
+      "bbox": [
+        [
+          221,
+          1117
+        ],
+        [
+          869,
+          1117
+        ],
+        [
+          869,
+          1155
+        ],
+        [
+          221,
+          1155
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1238
+        ],
+        [
+          869,
+          1238
+        ],
+        [
+          869,
+          1276
+        ],
+        [
+          221,
+          1276
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1117,
+        869,
+        1155
+      ],
+      "text": "Đăng cao tác phú, thị sở vọng ư quân công",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0128_viet_021",
+      "bbox": [
+        [
+          221,
+          1162
+        ],
+        [
+          989,
+          1163
+        ],
+        [
+          989,
+          1199
+        ],
+        [
+          221,
+          1197
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1283
+        ],
+        [
+          989,
+          1284
+        ],
+        [
+          989,
+          1320
+        ],
+        [
+          221,
+          1318
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1162,
+        989,
+        1199
+      ],
+      "text": "Còn như lên cao làm phú, việc đó mong-mỏi nơi các",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0128_viet_022",
+      "bbox": [
+        [
+          195,
+          1207
+        ],
+        [
+          258,
+          1218
+        ],
+        [
+          252,
+          1250
+        ],
+        [
+          189,
+          1239
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1328
+        ],
+        [
+          258,
+          1339
+        ],
+        [
+          252,
+          1371
+        ],
+        [
+          189,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        1207,
+        258,
+        1250
+      ],
+      "text": "ông.",
+      "confidence": 0.8905
+    },
+    {
+      "line_id": "0128_viet_023",
+      "bbox": [
+        [
+          251,
+          1277
+        ],
+        [
+          773,
+          1277
+        ],
+        [
+          773,
+          1311
+        ],
+        [
+          251,
+          1311
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1398
+        ],
+        [
+          773,
+          1398
+        ],
+        [
+          773,
+          1432
+        ],
+        [
+          251,
+          1432
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1277,
+        773,
+        1311
+      ],
+      "text": "13 4 Hà Xã Hì",
+      "confidence": 0.5057
+    },
+    {
+      "line_id": "0128_viet_024",
+      "bbox": [
+        [
+          224,
+          1324
+        ],
+        [
+          769,
+          1324
+        ],
+        [
+          769,
+          1363
+        ],
+        [
+          224,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1445
+        ],
+        [
+          769,
+          1445
+        ],
+        [
+          769,
+          1484
+        ],
+        [
+          224,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1324,
+        769,
+        1363
+      ],
+      "text": "Cảm kiệt bì thành, cung sơ đoàn dẫn",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0128_viet_025",
+      "bbox": [
+        [
+          221,
+          1368
+        ],
+        [
+          987,
+          1368
+        ],
+        [
+          987,
+          1406
+        ],
+        [
+          221,
+          1406
+        ]
+      ],
+      "bbox_original": [
+        [
+          221,
+          1489
+        ],
+        [
+          987,
+          1489
+        ],
+        [
+          987,
+          1527
+        ],
+        [
+          221,
+          1527
+        ]
+      ],
+      "box_xyxy": [
+        221,
+        1368,
+        987,
+        1406
+      ],
+      "text": "Xin giốc lòng thành quê-kịch, cung kính làm bài tự",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0128_viet_026",
+      "bbox": [
+        [
+          197,
+          1416
+        ],
+        [
+          272,
+          1416
+        ],
+        [
+          272,
+          1446
+        ],
+        [
+          197,
+          1446
+        ]
+      ],
+      "bbox_original": [
+        [
+          197,
+          1537
+        ],
+        [
+          272,
+          1537
+        ],
+        [
+          272,
+          1567
+        ],
+        [
+          197,
+          1567
+        ]
+      ],
+      "box_xyxy": [
+        197,
+        1416,
+        272,
+        1446
+      ],
+      "text": "ngắn",
+      "confidence": 0.9131
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "122",
+      "46 Rê tế người minh",
+      "Không gặp Dương Ý, đọc thiên lăng-vân mà tự tiếc",
+      "Chung kỳ ký ngộ, tầu Lưu-thủy di hà tàm ?",
+      "0315 4 T5 Tế R IỀN H",
+      "Than ôi ' Chồn danh-thắng chẳng thường tôn-tại,",
+      "03210001355",
+      "Lan-đình còn đâu nữa, Tử-trạch thành gò hoang",
+      "Lâm biệt tặng ngôn, hạnh thừa ân ư vĩ tiến",
+      "tôi viết lời tặng khi lâm hiệt"
+    ],
+    "dich_nghia_lines": [
+      "Đăng cao tác phú, thị sở vọng ư quân công",
+      "Còn như lên cao làm phú, việc đó mong-mỏi nơi các",
+      "ông.",
+      "13 4 Hà Xã Hì",
+      "Cảm kiệt bì thành, cung sơ đoàn dẫn",
+      "Xin giốc lòng thành quê-kịch, cung kính làm bài tự",
+      "ngắn"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "楊意不達撫凌雲而自惜",
+        "phien_am": "122",
+        "dich_nghia_gloss": "PHÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "鍾期既遇奏流水以何漸",
+        "phien_am": "46 Rê tế người minh",
+        "dich_nghia_gloss": "Dương Ý bất phùng, phủ Lăng-vân nhi tự tích"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "鴻呼勝地不•常盛延難再",
+        "phien_am": "Không gặp Dương Ý, đọc thiên lăng-vân mà tự tiếc",
+        "dich_nghia_gloss": "Số 12 Thế K Hệ Kit Kit N"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "蘭磘亭",
+        "phien_am": "Chung kỳ ký ngộ, tầu Lưu-thủy di hà tàm ?",
+        "dich_nghia_gloss": "Đã gặp Chung-Kỳ, tàu khúc lưu-thủy có hồ thẹn gì ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "已·",
+        "phien_am": "0315 4 T5 Tế R IỀN H",
+        "dich_nghia_gloss": "Ta hói Thắng-dia bất thường, Thịnh diên nan tái"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "吳梓",
+        "phien_am": "Than ôi ' Chồn danh-thắng chẳng thường tôn-tại,",
+        "dich_nghia_gloss": "bữa tiệc lớn khó gặp hai lần"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "澤丘墟",
+        "phien_am": "03210001355",
+        "dich_nghia_gloss": "Lan-đình dĩ hì, Tử-trạch khưu hư."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "臨別聘言幸承思放偉錢",
+        "phien_am": "Lan-đình còn đâu nữa, Tử-trạch thành gò hoang",
+        "dich_nghia_gloss": "63] Ở F (2 F F F 7 - 12 AL"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "登高作賦妳是讚所望扮孝公",
+        "phien_am": "Lâm biệt tặng ngôn, hạnh thừa ân ư vĩ tiến",
+        "dich_nghia_gloss": "Hân-hạnh được thừa ân trong bứa tiệc vi-đại này"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "敢竭部誠恭疏短引",
+        "phien_am": "tôi viết lời tặng khi lâm hiệt",
+        "dich_nghia_gloss": "Lê 15 thế 2 (5% ght"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1333 @@
+{
+  "page_id": "0158",
+  "book_type": "HVTT",
+  "book_folder": "HVTT_HanVanTinhTuy",
+  "page_num": 158,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1188,
+    "original_height": 1728,
+    "crop_top_px": 121,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1188,
+    "effective_height": 1607
+  },
+  "items": [
+    {
+      "line_id": "0158_viet_000",
+      "bbox": [
+        [
+          194,
+          35
+        ],
+        [
+          248,
+          35
+        ],
+        [
+          248,
+          67
+        ],
+        [
+          194,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          156
+        ],
+        [
+          248,
+          156
+        ],
+        [
+          248,
+          188
+        ],
+        [
+          194,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        35,
+        248,
+        67
+      ],
+      "text": "182",
+      "confidence": 0.7834
+    },
+    {
+      "line_id": "0158_viet_001",
+      "bbox": [
+        [
+          668,
+          30
+        ],
+        [
+          989,
+          28
+        ],
+        [
+          989,
+          62
+        ],
+        [
+          668,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          668,
+          151
+        ],
+        [
+          989,
+          149
+        ],
+        [
+          989,
+          183
+        ],
+        [
+          668,
+          185
+        ]
+      ],
+      "box_xyxy": [
+        668,
+        28,
+        989,
+        64
+      ],
+      "text": "HÁN-VĂN TINH-TUÝ",
+      "confidence": 0.9163
+    },
+    {
+      "line_id": "0158_viet_002",
+      "bbox": [
+        [
+          299,
+          188
+        ],
+        [
+          938,
+          186
+        ],
+        [
+          938,
+          226
+        ],
+        [
+          299,
+          228
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          309
+        ],
+        [
+          938,
+          307
+        ],
+        [
+          938,
+          347
+        ],
+        [
+          299,
+          349
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        186,
+        938,
+        228
+      ],
+      "text": "Ký thân phong nhận, phúc ức thùy tõ ?",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0158_viet_003",
+      "bbox": [
+        [
+          223,
+          233
+        ],
+        [
+          933,
+          234
+        ],
+        [
+          933,
+          280
+        ],
+        [
+          223,
+          278
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          354
+        ],
+        [
+          933,
+          355
+        ],
+        [
+          933,
+          401
+        ],
+        [
+          223,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        233,
+        933,
+        280
+      ],
+      "text": "Gởi thân vùng gươm giáo, uất ức ngỏ cùng ai ?",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0158_viet_004",
+      "bbox": [
+        [
+          297,
+          301
+        ],
+        [
+          825,
+          298
+        ],
+        [
+          825,
+          343
+        ],
+        [
+          297,
+          347
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          422
+        ],
+        [
+          825,
+          419
+        ],
+        [
+          825,
+          464
+        ],
+        [
+          297,
+          468
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        298,
+        825,
+        347
+      ],
+      "text": "0421135002",
+      "confidence": 0.4439
+    },
+    {
+      "line_id": "0158_viet_005",
+      "bbox": [
+        [
+          300,
+          355
+        ],
+        [
+          839,
+          355
+        ],
+        [
+          839,
+          388
+        ],
+        [
+          300,
+          388
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          476
+        ],
+        [
+          839,
+          476
+        ],
+        [
+          839,
+          509
+        ],
+        [
+          300,
+          509
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        355,
+        839,
+        388
+      ],
+      "text": "Tìn Hán nhi hoàn, đa sự tứ di;",
+      "confidence": 0.9121
+    },
+    {
+      "line_id": "0158_viet_006",
+      "bbox": [
+        [
+          224,
+          400
+        ],
+        [
+          987,
+          402
+        ],
+        [
+          987,
+          437
+        ],
+        [
+          224,
+          435
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          521
+        ],
+        [
+          987,
+          523
+        ],
+        [
+          987,
+          558
+        ],
+        [
+          224,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        400,
+        987,
+        437
+      ],
+      "text": "Từ đời Tần, Hán trở về, có nhiều chuyện với bông",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0158_viet_007",
+      "bbox": [
+        [
+          193,
+          452
+        ],
+        [
+          279,
+          446
+        ],
+        [
+          281,
+          477
+        ],
+        [
+          196,
+          483
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          573
+        ],
+        [
+          279,
+          567
+        ],
+        [
+          281,
+          598
+        ],
+        [
+          196,
+          604
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        446,
+        281,
+        483
+      ],
+      "text": "rọ di.",
+      "confidence": 0.8772
+    },
+    {
+      "line_id": "0158_viet_008",
+      "bbox": [
+        [
+          300,
+          514
+        ],
+        [
+          825,
+          514
+        ],
+        [
+          825,
+          554
+        ],
+        [
+          300,
+          554
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          635
+        ],
+        [
+          825,
+          635
+        ],
+        [
+          825,
+          675
+        ],
+        [
+          300,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        514,
+        825,
+        554
+      ],
+      "text": "0011101010111",
+      "confidence": 0.374
+    },
+    {
+      "line_id": "0158_viet_009",
+      "bbox": [
+        [
+          295,
+          566
+        ],
+        [
+          840,
+          561
+        ],
+        [
+          840,
+          594
+        ],
+        [
+          296,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          687
+        ],
+        [
+          840,
+          682
+        ],
+        [
+          840,
+          715
+        ],
+        [
+          296,
+          720
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        561,
+        840,
+        599
+      ],
+      "text": "trung châu hảo đõ, vô thẽ vô chi.",
+      "confidence": 0.885
+    },
+    {
+      "line_id": "0158_viet_010",
+      "bbox": [
+        [
+          223,
+          611
+        ],
+        [
+          989,
+          613
+        ],
+        [
+          989,
+          648
+        ],
+        [
+          223,
+          646
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          732
+        ],
+        [
+          989,
+          734
+        ],
+        [
+          989,
+          769
+        ],
+        [
+          223,
+          767
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        611,
+        989,
+        648
+      ],
+      "text": "Sự tồn hại tại miền trung-châu không đời nào",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0158_viet_011",
+      "bbox": [
+        [
+          196,
+          654
+        ],
+        [
+          338,
+          658
+        ],
+        [
+          337,
+          695
+        ],
+        [
+          195,
+          691
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          775
+        ],
+        [
+          338,
+          779
+        ],
+        [
+          337,
+          816
+        ],
+        [
+          195,
+          812
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        654,
+        338,
+        695
+      ],
+      "text": "không có.",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0158_viet_012",
+      "bbox": [
+        [
+          297,
+          723
+        ],
+        [
+          828,
+          721
+        ],
+        [
+          829,
+          762
+        ],
+        [
+          297,
+          763
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          844
+        ],
+        [
+          828,
+          842
+        ],
+        [
+          829,
+          883
+        ],
+        [
+          297,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        721,
+        829,
+        763
+      ],
+      "text": "6 M 4 LT MI",
+      "confidence": 0.4936
+    },
+    {
+      "line_id": "0158_viet_013",
+      "bbox": [
+        [
+          299,
+          772
+        ],
+        [
+          954,
+          775
+        ],
+        [
+          953,
+          810
+        ],
+        [
+          299,
+          807
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          893
+        ],
+        [
+          954,
+          896
+        ],
+        [
+          953,
+          931
+        ],
+        [
+          299,
+          928
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        772,
+        954,
+        810
+      ],
+      "text": "Cồ xưng Nhung Hạ bất kháng vương-sư.",
+      "confidence": 0.8853
+    },
+    {
+      "line_id": "0158_viet_014",
+      "bbox": [
+        [
+          226,
+          822
+        ],
+        [
+          989,
+          822
+        ],
+        [
+          989,
+          862
+        ],
+        [
+          226,
+          862
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          943
+        ],
+        [
+          989,
+          943
+        ],
+        [
+          989,
+          983
+        ],
+        [
+          226,
+          983
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        822,
+        989,
+        862
+      ],
+      "text": "Những xứ xưa gọi là nhung địch, tây-hạ đều",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0158_viet_015",
+      "bbox": [
+        [
+          196,
+          865
+        ],
+        [
+          899,
+          867
+        ],
+        [
+          899,
+          907
+        ],
+        [
+          196,
+          906
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          986
+        ],
+        [
+          899,
+          988
+        ],
+        [
+          899,
+          1028
+        ],
+        [
+          196,
+          1027
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        865,
+        899,
+        907
+      ],
+      "text": "không dám kháng-cự với quân-đội của Thiên-tử.",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0158_viet_016",
+      "bbox": [
+        [
+          297,
+          932
+        ],
+        [
+          834,
+          931
+        ],
+        [
+          834,
+          976
+        ],
+        [
+          297,
+          978
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1053
+        ],
+        [
+          834,
+          1052
+        ],
+        [
+          834,
+          1097
+        ],
+        [
+          297,
+          1099
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        931,
+        834,
+        978
+      ],
+      "text": "2 đã 2 - E E F",
+      "confidence": 0.5473
+    },
+    {
+      "line_id": "0158_viet_017",
+      "bbox": [
+        [
+          299,
+          981
+        ],
+        [
+          940,
+          984
+        ],
+        [
+          940,
+          1025
+        ],
+        [
+          299,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1102
+        ],
+        [
+          940,
+          1105
+        ],
+        [
+          940,
+          1146
+        ],
+        [
+          299,
+          1142
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        981,
+        940,
+        1025
+      ],
+      "text": "Văn giáo thất tuyên, võ thần dụng kỳ;",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0158_viet_018",
+      "bbox": [
+        [
+          230,
+          1033
+        ],
+        [
+          700,
+          1035
+        ],
+        [
+          700,
+          1070
+        ],
+        [
+          229,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          230,
+          1154
+        ],
+        [
+          700,
+          1156
+        ],
+        [
+          700,
+          1191
+        ],
+        [
+          229,
+          1189
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        1033,
+        700,
+        1070
+      ],
+      "text": "Văn giáo không được truyền bá;",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0158_viet_019",
+      "bbox": [
+        [
+          223,
+          1076
+        ],
+        [
+          719,
+          1078
+        ],
+        [
+          719,
+          1123
+        ],
+        [
+          223,
+          1122
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1197
+        ],
+        [
+          719,
+          1199
+        ],
+        [
+          719,
+          1244
+        ],
+        [
+          223,
+          1243
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        1076,
+        719,
+        1123
+      ],
+      "text": "võ thần thích dùng phép kỳ binh",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0158_viet_020",
+      "bbox": [
+        [
+          302,
+          1147
+        ],
+        [
+          754,
+          1147
+        ],
+        [
+          754,
+          1187
+        ],
+        [
+          302,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          1268
+        ],
+        [
+          754,
+          1268
+        ],
+        [
+          754,
+          1308
+        ],
+        [
+          302,
+          1308
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        1147,
+        754,
+        1187
+      ],
+      "text": "03674417",
+      "confidence": 0.5349
+    },
+    {
+      "line_id": "0158_viet_021",
+      "bbox": [
+        [
+          300,
+          1200
+        ],
+        [
+          776,
+          1200
+        ],
+        [
+          776,
+          1234
+        ],
+        [
+          300,
+          1234
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1321
+        ],
+        [
+          776,
+          1321
+        ],
+        [
+          776,
+          1355
+        ],
+        [
+          300,
+          1355
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1200,
+        776,
+        1234
+      ],
+      "text": "kỳ binh hữu dị ir nhân nghĩa",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0158_viet_022",
+      "bbox": [
+        [
+          228,
+          1245
+        ],
+        [
+          672,
+          1249
+        ],
+        [
+          671,
+          1284
+        ],
+        [
+          228,
+          1280
+        ]
+      ],
+      "bbox_original": [
+        [
+          228,
+          1366
+        ],
+        [
+          672,
+          1370
+        ],
+        [
+          671,
+          1405
+        ],
+        [
+          228,
+          1401
+        ]
+      ],
+      "box_xyxy": [
+        228,
+        1245,
+        672,
+        1284
+      ],
+      "text": "KỲ BINH KHÁC VỚI NHÂN NGHĨA",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0158_viet_023",
+      "bbox": [
+        [
+          297,
+          1314
+        ],
+        [
+          759,
+          1309
+        ],
+        [
+          760,
+          1354
+        ],
+        [
+          297,
+          1359
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1435
+        ],
+        [
+          759,
+          1430
+        ],
+        [
+          760,
+          1475
+        ],
+        [
+          297,
+          1480
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1309,
+        760,
+        1359
+      ],
+      "text": "F tế if M Thế",
+      "confidence": 0.5299
+    },
+    {
+      "line_id": "0158_viet_024",
+      "bbox": [
+        [
+          299,
+          1366
+        ],
+        [
+          808,
+          1366
+        ],
+        [
+          808,
+          1399
+        ],
+        [
+          299,
+          1399
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1487
+        ],
+        [
+          808,
+          1487
+        ],
+        [
+          808,
+          1520
+        ],
+        [
+          299,
+          1520
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1366,
+        808,
+        1399
+      ],
+      "text": "vương đao vu khoát nhi mạc vi",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0158_viet_025",
+      "bbox": [
+        [
+          226,
+          1413
+        ],
+        [
+          813,
+          1415
+        ],
+        [
+          813,
+          1450
+        ],
+        [
+          226,
+          1448
+        ]
+      ],
+      "bbox_original": [
+        [
+          226,
+          1534
+        ],
+        [
+          813,
+          1536
+        ],
+        [
+          813,
+          1571
+        ],
+        [
+          226,
+          1569
+        ]
+      ],
+      "box_xyxy": [
+        226,
+        1413,
+        813,
+        1450
+      ],
+      "text": "Cho vương đạo là vu-khoát, không làm",
+      "confidence": 0.9329
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "182",
+      "Ký thân phong nhận, phúc ức thùy tõ ?",
+      "0421135002",
+      "Từ đời Tần, Hán trở về, có nhiều chuyện với bông",
+      "0011101010111",
+      "Sự tồn hại tại miền trung-châu không đời nào",
+      "6 M 4 LT MI",
+      "Những xứ xưa gọi là nhung địch, tây-hạ đều",
+      "2 đã 2 - E E F",
+      "Văn giáo không được truyền bá;",
+      "03674417"
+    ],
+    "dich_nghia_lines": [
+      "KỲ BINH KHÁC VỚI NHÂN NGHĨA",
+      "F tế if M Thế",
+      "vương đao vu khoát nhi mạc vi",
+      "Cho vương đạo là vu-khoát, không làm"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "寄身鋒刀服腫誰訴",
+        "phien_am": "182",
+        "dich_nghia_gloss": "HÁN-VĂN TINH-TUÝ"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "北6?",
+        "phien_am": "Ký thân phong nhận, phúc ức thùy tõ ?",
+        "dich_nghia_gloss": "Gởi thân vùng gươm giáo, uất ức ngỏ cùng ai ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "泰漢而送多事四夷",
+        "phien_am": "0421135002",
+        "dich_nghia_gloss": "Tìn Hán nhi hoàn, đa sự tứ di;"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "tr心",
+        "phien_am": "Từ đời Tần, Hán trở về, có nhiều chuyện với bông",
+        "dich_nghia_gloss": "rọ di."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "中州耗教無世無之",
+        "phien_am": "0011101010111",
+        "dich_nghia_gloss": "trung châu hảo đõ, vô thẽ vô chi."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "古稱戎頁不抗王師",
+        "phien_am": "Sự tồn hại tại miền trung-châu không đời nào",
+        "dich_nghia_gloss": "không có."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "x心",
+        "phien_am": "6 M 4 LT MI",
+        "dich_nghia_gloss": "Cồ xưng Nhung Hạ bất kháng vương-sư."
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "文教失宣武臣用奇",
+        "phien_am": "Những xứ xưa gọi là nhung địch, tây-hạ đều",
+        "dich_nghia_gloss": "không dám kháng-cự với quân-đội của Thiên-tử."
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "砂",
+        "phien_am": "2 đã 2 - E E F",
+        "dich_nghia_gloss": "Văn giáo thất tuyên, võ thần dụng kỳ;"
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "王道迂汁",
+        "phien_am": "Văn giáo không được truyền bá;",
+        "dich_nghia_gloss": "võ thần thích dùng phép kỳ binh"
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "潤而莫為",
+        "phien_am": "03674417",
+        "dich_nghia_gloss": "kỳ binh hữu dị ir nhân nghĩa"
+      }
+    ]
+  }
+}
