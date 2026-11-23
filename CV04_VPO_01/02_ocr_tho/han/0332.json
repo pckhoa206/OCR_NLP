@@ -1,0 +1,405 @@
+{
+  "page_id": "0332",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 332,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0332_han_000",
+      "bbox": [
+        [
+          474,
+          70
+        ],
+        [
+          1178,
+          70
+        ],
+        [
+          1178,
+          151
+        ],
+        [
+          474,
+          151
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          238
+        ],
+        [
+          1178,
+          238
+        ],
+        [
+          1178,
+          319
+        ],
+        [
+          474,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        70,
+        1178,
+        151
+      ],
+      "text": "兩三聲初語黃鶯",
+      "confidence": 0.9966
+    },
+    {
+      "line_id": "0332_han_001",
+      "bbox": [
+        [
+          473,
+          377
+        ],
+        [
+          1074,
+          377
+        ],
+        [
+          1074,
+          451
+        ],
+        [
+          473,
+          451
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          545
+        ],
+        [
+          1074,
+          545
+        ],
+        [
+          1074,
+          619
+        ],
+        [
+          473,
+          619
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        377,
+        1074,
+        451
+      ],
+      "text": "而今菊己含英",
+      "confidence": 0.9568
+    },
+    {
+      "line_id": "0332_han_002",
+      "bbox": [
+        [
+          468,
+          679
+        ],
+        [
+          1290,
+          679
+        ],
+        [
+          1290,
+          753
+        ],
+        [
+          468,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          847
+        ],
+        [
+          1290,
+          847
+        ],
+        [
+          1290,
+          921
+        ],
+        [
+          468,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        679,
+        1290,
+        753
+      ],
+      "text": "柳陰庭外寒鳴流蟬",
+      "confidence": 0.9447
+    },
+    {
+      "line_id": "0332_han_003",
+      "bbox": [
+        [
+          473,
+          981
+        ],
+        [
+          1186,
+          981
+        ],
+        [
+          1186,
+          1059
+        ],
+        [
+          473,
+          1059
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          1149
+        ],
+        [
+          1186,
+          1149
+        ],
+        [
+          1186,
+          1227
+        ],
+        [
+          473,
+          1227
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        981,
+        1186,
+        1059
+      ],
+      "text": "昔我去翻翻桃臉",
+      "confidence": 0.9887
+    },
+    {
+      "line_id": "0332_han_004",
+      "bbox": [
+        [
+          470,
+          1283
+        ],
+        [
+          1181,
+          1283
+        ],
+        [
+          1181,
+          1361
+        ],
+        [
+          470,
+          1361
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1451
+        ],
+        [
+          1181,
+          1451
+        ],
+        [
+          1181,
+          1529
+        ],
+        [
+          470,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1283,
+        1181,
+        1361
+      ],
+      "text": "兩三枝初占東風",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0332_han_005",
+      "bbox": [
+        [
+          469,
+          1586
+        ],
+        [
+          1071,
+          1586
+        ],
+        [
+          1071,
+          1664
+        ],
+        [
+          469,
+          1664
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1754
+        ],
+        [
+          1071,
+          1754
+        ],
+        [
+          1071,
+          1832
+        ],
+        [
+          469,
+          1832
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1586,
+        1071,
+        1664
+      ],
+      "text": "而今蘭己成叢",
+      "confidence": 0.947
+    },
+    {
+      "line_id": "0332_han_006",
+      "bbox": [
+        [
+          463,
+          1889
+        ],
+        [
+          1288,
+          1889
+        ],
+        [
+          1288,
+          1967
+        ],
+        [
+          463,
+          1967
+        ]
+      ],
+      "bbox_original": [
+        [
+          463,
+          2057
+        ],
+        [
+          1288,
+          2057
+        ],
+        [
+          1288,
+          2135
+        ],
+        [
+          463,
+          2135
+        ]
+      ],
+      "box_xyxy": [
+        463,
+        1889,
+        1288,
+        1967
+      ],
+      "text": "桃夭軒外落從寒霜",
+      "confidence": 0.976
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "兩三聲初語黃鶯",
+      "而今菊己含英",
+      "柳陰庭外寒鳴流蟬",
+      "昔我去翻翻桃臉",
+      "兩三枝初占東風",
+      "而今蘭己成叢",
+      "桃夭軒外落從寒霜"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "兩三聲初語黃鶯",
+        "phien_am": "Lưỡng tam thanh sơ ngữ hoàng-oanh",
+        "dich_nghia_gloss": "- Chim hoàng oanh vừa thỏ thẻ vài ba tiêng."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "而今菊己含英",
+        "phien_am": "Nhi kim cúc dĩ hàm anh.",
+        "dich_nghia_gloss": "- Nay cúc đã ngậm vàng."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "柳陰庭外寒鳴流蟬",
+        "phien_am": "Liễu-âm đình ngoại hàn-minh lưu-thiền",
+        "dich_nghia_gloss": "Trong bóng liễu ngoài thềm tiêng vc đã kêu lạnh"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "昔我去翻翻桃臉",
+        "phien_am": "Tích ngã khứ, phiên-phiên đào-kiềm,",
+        "dich_nghia_gloss": "- Xưa ta đi, nụ đào chúm chím."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "兩三枝初占東風",
+        "phien_am": "Lưỡng tam chi sơ chiếm đông-phong,",
+        "dich_nghia_gloss": "- Gió đông mới điểm một đôi cành."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "而今蘭己成叢",
+        "phien_am": "Nhi kim lan dĩ thành tùng,",
+        "dich_nghia_gloss": "- Nay lan đã thành chùm."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "桃夭軒外落從寒霜",
+        "phien_am": "Đào yêu hiên-ngoại lạc tòng hàn sương.",
+        "dich_nghia_gloss": "- Hoa đào ngoài hiên đã rụng theo sương lạnh."
+      }
+    ]
+  }
+}

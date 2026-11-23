@@ -1,0 +1,312 @@
+{
+  "page_id": "0784",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 784,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0784_han_000",
+      "bbox": [
+        [
+          466,
+          233
+        ],
+        [
+          877,
+          233
+        ],
+        [
+          877,
+          354
+        ],
+        [
+          466,
+          354
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          448
+        ],
+        [
+          877,
+          448
+        ],
+        [
+          877,
+          569
+        ],
+        [
+          466,
+          569
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        233,
+        877,
+        354
+      ],
+      "text": "賜范宗邁",
+      "confidence": 0.9978
+    },
+    {
+      "line_id": "0784_han_001",
+      "bbox": [
+        [
+          322,
+          397
+        ],
+        [
+          1038,
+          403
+        ],
+        [
+          1037,
+          514
+        ],
+        [
+          321,
+          507
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          612
+        ],
+        [
+          1038,
+          618
+        ],
+        [
+          1037,
+          729
+        ],
+        [
+          321,
+          722
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        397,
+        1038,
+        514
+      ],
+      "text": "臺鸟义矣噤無聲",
+      "confidence": 0.8007
+    },
+    {
+      "line_id": "0784_han_002",
+      "bbox": [
+        [
+          840,
+          556
+        ],
+        [
+          1029,
+          559
+        ],
+        [
+          1028,
+          639
+        ],
+        [
+          839,
+          636
+        ]
+      ],
+      "bbox_original": [
+        [
+          840,
+          771
+        ],
+        [
+          1029,
+          774
+        ],
+        [
+          1028,
+          854
+        ],
+        [
+          839,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        839,
+        556,
+        1029,
+        639
+      ],
+      "text": "虎氣",
+      "confidence": 0.983
+    },
+    {
+      "line_id": "0784_han_003",
+      "bbox": [
+        [
+          328,
+          621
+        ],
+        [
+          1022,
+          630
+        ],
+        [
+          1021,
+          706
+        ],
+        [
+          327,
+          698
+        ]
+      ],
+      "bbox_original": [
+        [
+          328,
+          836
+        ],
+        [
+          1022,
+          845
+        ],
+        [
+          1021,
+          921
+        ],
+        [
+          327,
+          913
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        621,
+        1022,
+        706
+      ],
+      "text": "男兒到此是功名",
+      "confidence": 0.9903
+    },
+    {
+      "line_id": "0784_han_004",
+      "bbox": [
+        [
+          335,
+          1953
+        ],
+        [
+          1059,
+          1953
+        ],
+        [
+          1059,
+          2019
+        ],
+        [
+          335,
+          2019
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          2168
+        ],
+        [
+          1059,
+          2168
+        ],
+        [
+          1059,
+          2234
+        ],
+        [
+          335,
+          2234
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        1953,
+        1059,
+        2019
+      ],
+      "text": "thùra, vu án Tràn Quóo Chān   王真 dā xǎy ra. Do bi Vǎn hién hǎu xúi givo",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0784_han_005",
+      "bbox": [
+        [
+          235,
+          2417
+        ],
+        [
+          1059,
+          2417
+        ],
+        [
+          1059,
+          2494
+        ],
+        [
+          235,
+          2494
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          2632
+        ],
+        [
+          1059,
+          2632
+        ],
+        [
+          1059,
+          2709
+        ],
+        [
+          235,
+          2709
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        2417,
+        1059,
+        2494
+      ],
+      "text": "(2) O dài : nghía den là dài chim qua, chǐ Đài Ngư sǔr. Theo Hán thir 漢 書, dòi Hán",
+      "confidence": 0.9103
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "賜范宗邁",
+      "臺鸟义矣噤無聲",
+      "虎氣",
+      "男兒到此是功名"
+    ],
+    "interlinear_triplets": []
+  }
+}

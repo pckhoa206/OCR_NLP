@@ -1,0 +1,467 @@
+{
+  "page_id": "0357",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 357,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0357_viet_000",
+      "bbox": [
+        [
+          208,
+          8
+        ],
+        [
+          869,
+          6
+        ],
+        [
+          869,
+          60
+        ],
+        [
+          208,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          176
+        ],
+        [
+          869,
+          174
+        ],
+        [
+          869,
+          228
+        ],
+        [
+          208,
+          230
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        6,
+        869,
+        62
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0357_viet_001",
+      "bbox": [
+        [
+          1364,
+          10
+        ],
+        [
+          1446,
+          10
+        ],
+        [
+          1446,
+          61
+        ],
+        [
+          1364,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          1364,
+          178
+        ],
+        [
+          1446,
+          178
+        ],
+        [
+          1446,
+          229
+        ],
+        [
+          1364,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        1364,
+        10,
+        1446,
+        61
+      ],
+      "text": "351",
+      "confidence": 0.9286
+    },
+    {
+      "line_id": "0357_viet_002",
+      "bbox": [
+        [
+          298,
+          307
+        ],
+        [
+          1106,
+          310
+        ],
+        [
+          1105,
+          371
+        ],
+        [
+          297,
+          368
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          475
+        ],
+        [
+          1106,
+          478
+        ],
+        [
+          1105,
+          539
+        ],
+        [
+          297,
+          536
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        307,
+        1106,
+        371
+      ],
+      "text": "Trông yên-ba khôn xiết dạ sầu.",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0357_viet_003",
+      "bbox": [
+        [
+          401,
+          589
+        ],
+        [
+          989,
+          591
+        ],
+        [
+          988,
+          645
+        ],
+        [
+          401,
+          643
+        ]
+      ],
+      "bbox_original": [
+        [
+          401,
+          757
+        ],
+        [
+          989,
+          759
+        ],
+        [
+          988,
+          813
+        ],
+        [
+          401,
+          811
+        ]
+      ],
+      "box_xyxy": [
+        401,
+        589,
+        989,
+        645
+      ],
+      "text": "Há còn trai-trẻ chi đầu",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0357_viet_004",
+      "bbox": [
+        [
+          243,
+          867
+        ],
+        [
+          1169,
+          869
+        ],
+        [
+          1169,
+          930
+        ],
+        [
+          243,
+          928
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1035
+        ],
+        [
+          1169,
+          1037
+        ],
+        [
+          1169,
+          1098
+        ],
+        [
+          243,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        867,
+        1169,
+        930
+      ],
+      "text": "Phong-lưu thói cũ, giang-hồ lõi xưa.",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0357_viet_005",
+      "bbox": [
+        [
+          298,
+          1147
+        ],
+        [
+          1066,
+          1150
+        ],
+        [
+          1066,
+          1207
+        ],
+        [
+          297,
+          1204
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1315
+        ],
+        [
+          1066,
+          1318
+        ],
+        [
+          1066,
+          1375
+        ],
+        [
+          297,
+          1372
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1147,
+        1066,
+        1207
+      ],
+      "text": "Cành du-lữ câu thơ thồn-thức,",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0357_viet_006",
+      "bbox": [
+        [
+          295,
+          1427
+        ],
+        [
+          1276,
+          1430
+        ],
+        [
+          1276,
+          1491
+        ],
+        [
+          294,
+          1488
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1595
+        ],
+        [
+          1276,
+          1598
+        ],
+        [
+          1276,
+          1659
+        ],
+        [
+          294,
+          1656
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1427,
+        1276,
+        1491
+      ],
+      "text": "Bóng hương-quan trước mắt mơ-màng",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0357_viet_007",
+      "bbox": [
+        [
+          400,
+          1705
+        ],
+        [
+          1214,
+          1707
+        ],
+        [
+          1214,
+          1768
+        ],
+        [
+          400,
+          1766
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          1873
+        ],
+        [
+          1214,
+          1875
+        ],
+        [
+          1214,
+          1936
+        ],
+        [
+          400,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        1705,
+        1214,
+        1768
+      ],
+      "text": "Non sông khách có biết chăng?",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0357_viet_008",
+      "bbox": [
+        [
+          244,
+          1985
+        ],
+        [
+          1300,
+          1989
+        ],
+        [
+          1300,
+          2050
+        ],
+        [
+          244,
+          2046
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2153
+        ],
+        [
+          1300,
+          2157
+        ],
+        [
+          1300,
+          2218
+        ],
+        [
+          244,
+          2214
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1985,
+        1300,
+        2050
+      ],
+      "text": "Văn tình thì nhớ, nhưng đường thì khơi.",
+      "confidence": 0.9243
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Trông yên-ba khôn xiết dạ sầu.",
+      "Há còn trai-trẻ chi đầu",
+      "Phong-lưu thói cũ, giang-hồ lõi xưa.",
+      "Cành du-lữ câu thơ thồn-thức,",
+      "Bóng hương-quan trước mắt mơ-màng",
+      "Non sông khách có biết chăng?",
+      "Văn tình thì nhớ, nhưng đường thì khơi."
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      339.0,
+      617.0,
+      898.5,
+      1177.0,
+      1459.0,
+      1736.5,
+      2017.5
+    ]
+  }
+}

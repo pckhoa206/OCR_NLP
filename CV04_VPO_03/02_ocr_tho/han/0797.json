@@ -1,0 +1,166 @@
+{
+  "page_id": "0797",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 797,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0797_han_000",
+      "bbox": [
+        [
+          666,
+          1794
+        ],
+        [
+          778,
+          1794
+        ],
+        [
+          778,
+          1864
+        ],
+        [
+          666,
+          1864
+        ]
+      ],
+      "bbox_original": [
+        [
+          666,
+          2009
+        ],
+        [
+          778,
+          2009
+        ],
+        [
+          778,
+          2079
+        ],
+        [
+          666,
+          2079
+        ]
+      ],
+      "box_xyxy": [
+        666,
+        1794,
+        778,
+        1864
+      ],
+      "text": "習元",
+      "confidence": 0.8735
+    },
+    {
+      "line_id": "0797_han_001",
+      "bbox": [
+        [
+          674,
+          1929
+        ],
+        [
+          750,
+          1929
+        ],
+        [
+          750,
+          2012
+        ],
+        [
+          674,
+          2012
+        ]
+      ],
+      "bbox_original": [
+        [
+          674,
+          2144
+        ],
+        [
+          750,
+          2144
+        ],
+        [
+          750,
+          2227
+        ],
+        [
+          674,
+          2227
+        ]
+      ],
+      "box_xyxy": [
+        674,
+        1929,
+        750,
+        2012
+      ],
+      "text": "敬",
+      "confidence": 0.8375
+    },
+    {
+      "line_id": "0797_han_002",
+      "bbox": [
+        [
+          263,
+          2005
+        ],
+        [
+          809,
+          2005
+        ],
+        [
+          809,
+          2066
+        ],
+        [
+          263,
+          2066
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          2220
+        ],
+        [
+          809,
+          2220
+        ],
+        [
+          809,
+          2281
+        ],
+        [
+          263,
+          2281
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        2005,
+        809,
+        2066
+      ],
+      "text": "4* TVTL2: truong 木丈",
+      "confidence": 0.9118
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

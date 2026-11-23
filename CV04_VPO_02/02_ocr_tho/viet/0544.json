@@ -1,0 +1,796 @@
+{
+  "page_id": "0544",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 544,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1031,
+    "footnote_separator_y_original": 1190,
+    "effective_width": 1558,
+    "effective_height": 1031
+  },
+  "items": [
+    {
+      "line_id": "0544_viet_000",
+      "bbox": [
+        [
+          190,
+          1
+        ],
+        [
+          787,
+          1
+        ],
+        [
+          787,
+          51
+        ],
+        [
+          190,
+          51
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          160
+        ],
+        [
+          787,
+          160
+        ],
+        [
+          787,
+          210
+        ],
+        [
+          190,
+          210
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        1,
+        787,
+        51
+      ],
+      "text": "LỜI BẠT SÁCH TỪ TUYỂN",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0544_viet_001",
+      "bbox": [
+        [
+          189,
+          61
+        ],
+        [
+          1445,
+          58
+        ],
+        [
+          1445,
+          120
+        ],
+        [
+          189,
+          123
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          220
+        ],
+        [
+          1445,
+          217
+        ],
+        [
+          1445,
+          279
+        ],
+        [
+          189,
+          282
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        58,
+        1445,
+        123
+      ],
+      "text": "Ôi, Cửu ca của Linh Quân\", Tứ sầu của Bình Tử, trong đó",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0544_viet_002",
+      "bbox": [
+        [
+          103,
+          125
+        ],
+        [
+          1445,
+          121
+        ],
+        [
+          1445,
+          178
+        ],
+        [
+          103,
+          182
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          284
+        ],
+        [
+          1445,
+          280
+        ],
+        [
+          1445,
+          337
+        ],
+        [
+          103,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        121,
+        1445,
+        182
+      ],
+      "text": "xưng tung các mĩ nữ, tuy bắt nhất mà đầy đủ, nhưng người ta đều",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0544_viet_003",
+      "bbox": [
+        [
+          106,
+          180
+        ],
+        [
+          1445,
+          181
+        ],
+        [
+          1445,
+          239
+        ],
+        [
+          106,
+          238
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          339
+        ],
+        [
+          1445,
+          340
+        ],
+        [
+          1445,
+          398
+        ],
+        [
+          106,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        180,
+        1445,
+        239
+      ],
+      "text": "thể tất, đại để là vì phong cách có cái cố nhiên như vậy. Riêng",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0544_viet_004",
+      "bbox": [
+        [
+          106,
+          240
+        ],
+        [
+          1444,
+          238
+        ],
+        [
+          1444,
+          295
+        ],
+        [
+          106,
+          297
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          399
+        ],
+        [
+          1444,
+          397
+        ],
+        [
+          1444,
+          454
+        ],
+        [
+          106,
+          456
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        238,
+        1444,
+        297
+      ],
+      "text": "Chu tử Hi thời Tống cho nước Trịnh nước vệ dâm bôn tự tác?",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0544_viet_005",
+      "bbox": [
+        [
+          107,
+          302
+        ],
+        [
+          1444,
+          299
+        ],
+        [
+          1444,
+          353
+        ],
+        [
+          107,
+          356
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          461
+        ],
+        [
+          1444,
+          458
+        ],
+        [
+          1444,
+          512
+        ],
+        [
+          107,
+          515
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        299,
+        1444,
+        356
+      ],
+      "text": "còn như Kinh Thi ba trăm bài, thảy đều là ý cổ tao nhã của bậc",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0544_viet_006",
+      "bbox": [
+        [
+          108,
+          361
+        ],
+        [
+          1444,
+          359
+        ],
+        [
+          1444,
+          411
+        ],
+        [
+          108,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          520
+        ],
+        [
+          1444,
+          518
+        ],
+        [
+          1444,
+          570
+        ],
+        [
+          108,
+          572
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        359,
+        1444,
+        413
+      ],
+      "text": "thánh nhân. Các bài thơ nước Trịnh, đều do các bậc khanh sĩ đại",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0544_viet_007",
+      "bbox": [
+        [
+          104,
+          418
+        ],
+        [
+          1447,
+          412
+        ],
+        [
+          1447,
+          473
+        ],
+        [
+          105,
+          479
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          577
+        ],
+        [
+          1447,
+          571
+        ],
+        [
+          1447,
+          632
+        ],
+        [
+          105,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        412,
+        1447,
+        479
+      ],
+      "text": "phu ngâm vinh, đối đáp khi đi sứ , rất xác thực, tỏ tường. Đến",
+      "confidence": 0.8952
+    },
+    {
+      "line_id": "0544_viet_008",
+      "bbox": [
+        [
+          105,
+          478
+        ],
+        [
+          1444,
+          474
+        ],
+        [
+          1444,
+          533
+        ],
+        [
+          105,
+          537
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          637
+        ],
+        [
+          1444,
+          633
+        ],
+        [
+          1444,
+          692
+        ],
+        [
+          105,
+          696
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        474,
+        1444,
+        537
+      ],
+      "text": "như các bậc đại nho, phân nhiều không tuân thủ theo thuyết ấy,",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0544_viet_009",
+      "bbox": [
+        [
+          109,
+          536
+        ],
+        [
+          677,
+          539
+        ],
+        [
+          676,
+          594
+        ],
+        [
+          108,
+          591
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          695
+        ],
+        [
+          677,
+          698
+        ],
+        [
+          676,
+          753
+        ],
+        [
+          108,
+          750
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        536,
+        677,
+        594
+      ],
+      "text": "thực là trái với lễ nghĩa vậy.",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0544_viet_010",
+      "bbox": [
+        [
+          192,
+          604
+        ],
+        [
+          1448,
+          604
+        ],
+        [
+          1448,
+          661
+        ],
+        [
+          192,
+          661
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          763
+        ],
+        [
+          1448,
+          763
+        ],
+        [
+          1448,
+          820
+        ],
+        [
+          192,
+          820
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        604,
+        1448,
+        661
+      ],
+      "text": "Thơ xong rồi có từ cũng là phải lẽ. Nhưng những kẻ sĩ khinh",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0544_viet_011",
+      "bbox": [
+        [
+          107,
+          664
+        ],
+        [
+          1448,
+          657
+        ],
+        [
+          1448,
+          719
+        ],
+        [
+          108,
+          725
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          823
+        ],
+        [
+          1448,
+          816
+        ],
+        [
+          1448,
+          878
+        ],
+        [
+          108,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        657,
+        1448,
+        725
+      ],
+      "text": "bạc, mỗi khi phóng túng ở nơi ca lâu kĩ quán, vờ thác lời về niềm",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0544_viet_012",
+      "bbox": [
+        [
+          109,
+          724
+        ],
+        [
+          1449,
+          724
+        ],
+        [
+          1449,
+          777
+        ],
+        [
+          109,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          883
+        ],
+        [
+          1449,
+          883
+        ],
+        [
+          1449,
+          936
+        ],
+        [
+          109,
+          936
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        724,
+        1449,
+        777
+      ],
+      "text": "nhớ vua nhớ bạn, thì cái tội lỗi về văn chương còn quá với thanh",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0544_viet_013",
+      "bbox": [
+        [
+          109,
+          783
+        ],
+        [
+          1450,
+          779
+        ],
+        [
+          1450,
+          834
+        ],
+        [
+          109,
+          838
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          942
+        ],
+        [
+          1450,
+          938
+        ],
+        [
+          1450,
+          993
+        ],
+        [
+          109,
+          997
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        779,
+        1450,
+        838
+      ],
+      "text": "âm [dâm bôn] của nước Trịnh vậy, Thế nên, thần đổi với các từ",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0544_viet_014",
+      "bbox": [
+        [
+          108,
+          844
+        ],
+        [
+          1204,
+          843
+        ],
+        [
+          1204,
+          897
+        ],
+        [
+          108,
+          898
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          1003
+        ],
+        [
+          1204,
+          1002
+        ],
+        [
+          1204,
+          1056
+        ],
+        [
+          108,
+          1057
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        843,
+        1204,
+        898
+      ],
+      "text": "gia không phế bỏ cả, nhưng cũng không dám lạm vậy.",
+      "confidence": 0.8567
+    },
+    {
+      "line_id": "0544_viet_015",
+      "bbox": [
+        [
+          762,
+          913
+        ],
+        [
+          849,
+          913
+        ],
+        [
+          849,
+          945
+        ],
+        [
+          762,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          762,
+          1072
+        ],
+        [
+          849,
+          1072
+        ],
+        [
+          849,
+          1104
+        ],
+        [
+          762,
+          1104
+        ]
+      ],
+      "box_xyxy": [
+        762,
+        913,
+        849,
+        945
+      ],
+      "text": "xxx",
+      "confidence": 0.7494
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "LỜI BẠT SÁCH TỪ TUYỂN",
+      "Ôi, Cửu ca của Linh Quân\", Tứ sầu của Bình Tử, trong đó",
+      "xưng tung các mĩ nữ, tuy bắt nhất mà đầy đủ, nhưng người ta đều",
+      "thể tất, đại để là vì phong cách có cái cố nhiên như vậy. Riêng",
+      "Chu tử Hi thời Tống cho nước Trịnh nước vệ dâm bôn tự tác?",
+      "còn như Kinh Thi ba trăm bài, thảy đều là ý cổ tao nhã của bậc",
+      "thánh nhân. Các bài thơ nước Trịnh, đều do các bậc khanh sĩ đại",
+      "phu ngâm vinh, đối đáp khi đi sứ , rất xác thực, tỏ tường. Đến",
+      "như các bậc đại nho, phân nhiều không tuân thủ theo thuyết ấy,",
+      "thực là trái với lễ nghĩa vậy.",
+      "Thơ xong rồi có từ cũng là phải lẽ. Nhưng những kẻ sĩ khinh",
+      "bạc, mỗi khi phóng túng ở nơi ca lâu kĩ quán, vờ thác lời về niềm",
+      "nhớ vua nhớ bạn, thì cái tội lỗi về văn chương còn quá với thanh",
+      "âm [dâm bôn] của nước Trịnh vậy, Thế nên, thần đổi với các từ",
+      "gia không phế bỏ cả, nhưng cũng không dám lạm vậy.",
+      "xxx"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

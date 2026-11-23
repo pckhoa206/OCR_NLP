@@ -1,0 +1,678 @@
+{
+  "page_id": "0378",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 378,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0378_viet_000",
+      "bbox": [
+        [
+          358,
+          151
+        ],
+        [
+          1056,
+          155
+        ],
+        [
+          1056,
+          221
+        ],
+        [
+          358,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          358,
+          319
+        ],
+        [
+          1056,
+          323
+        ],
+        [
+          1056,
+          389
+        ],
+        [
+          358,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        358,
+        151,
+        1056,
+        221
+      ],
+      "text": "Ngã tát rị nhân sinh tự cồ,",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0378_viet_001",
+      "bbox": [
+        [
+          359,
+          330
+        ],
+        [
+          1172,
+          328
+        ],
+        [
+          1172,
+          396
+        ],
+        [
+          359,
+          398
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          498
+        ],
+        [
+          1172,
+          496
+        ],
+        [
+          1172,
+          564
+        ],
+        [
+          359,
+          566
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        328,
+        1172,
+        398
+      ],
+      "text": "Vị phùng thời hà khồ lao tâm.",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0378_viet_002",
+      "bbox": [
+        [
+          465,
+          505
+        ],
+        [
+          1183,
+          509
+        ],
+        [
+          1183,
+          574
+        ],
+        [
+          465,
+          570
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          673
+        ],
+        [
+          1183,
+          677
+        ],
+        [
+          1183,
+          742
+        ],
+        [
+          465,
+          738
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        505,
+        1183,
+        574
+      ],
+      "text": "Bàn khê nhất xích truy tầm.",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0378_viet_003",
+      "bbox": [
+        [
+          310,
+          681
+        ],
+        [
+          1363,
+          688
+        ],
+        [
+          1362,
+          755
+        ],
+        [
+          309,
+          749
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          849
+        ],
+        [
+          1363,
+          856
+        ],
+        [
+          1362,
+          923
+        ],
+        [
+          309,
+          917
+        ]
+      ],
+      "box_xyxy": [
+        309,
+        681,
+        1363,
+        755
+      ],
+      "text": "Khả năng thùy điều mộng ngâm bi hùng.",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0378_viet_004",
+      "bbox": [
+        [
+          361,
+          857
+        ],
+        [
+          1060,
+          863
+        ],
+        [
+          1060,
+          931
+        ],
+        [
+          361,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1025
+        ],
+        [
+          1060,
+          1031
+        ],
+        [
+          1060,
+          1099
+        ],
+        [
+          361,
+          1093
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        857,
+        1060,
+        931
+      ],
+      "text": "Ngã tất vị anh hùng vô tận",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0378_viet_005",
+      "bbox": [
+        [
+          358,
+          1037
+        ],
+        [
+          1362,
+          1041
+        ],
+        [
+          1361,
+          1105
+        ],
+        [
+          358,
+          1101
+        ]
+      ],
+      "bbox_original": [
+        [
+          358,
+          1205
+        ],
+        [
+          1362,
+          1209
+        ],
+        [
+          1361,
+          1273
+        ],
+        [
+          358,
+          1269
+        ]
+      ],
+      "box_xyxy": [
+        358,
+        1037,
+        1362,
+        1105
+      ],
+      "text": "Đãi minh quân phương dẫn cấp thăng",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0378_viet_006",
+      "bbox": [
+        [
+          466,
+          1213
+        ],
+        [
+          1211,
+          1217
+        ],
+        [
+          1210,
+          1285
+        ],
+        [
+          466,
+          1280
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1381
+        ],
+        [
+          1211,
+          1385
+        ],
+        [
+          1210,
+          1453
+        ],
+        [
+          466,
+          1448
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1213,
+        1211,
+        1285
+      ],
+      "text": "Sản nguyên bão đạo cơ tầng.",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0378_viet_007",
+      "bbox": [
+        [
+          307,
+          1384
+        ],
+        [
+          1240,
+          1386
+        ],
+        [
+          1239,
+          1454
+        ],
+        [
+          306,
+          1452
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          1552
+        ],
+        [
+          1240,
+          1554
+        ],
+        [
+          1239,
+          1622
+        ],
+        [
+          306,
+          1620
+        ]
+      ],
+      "box_xyxy": [
+        306,
+        1384,
+        1240,
+        1454
+      ],
+      "text": "Sinh xa tam chí khả năng đinh điều.",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0378_viet_008",
+      "bbox": [
+        [
+          360,
+          1554
+        ],
+        [
+          1315,
+          1560
+        ],
+        [
+          1315,
+          1626
+        ],
+        [
+          360,
+          1621
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          1722
+        ],
+        [
+          1315,
+          1728
+        ],
+        [
+          1315,
+          1794
+        ],
+        [
+          360,
+          1789
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        1554,
+        1315,
+        1626
+      ],
+      "text": "Tư thế vị phùng nghiêu Thuãn thiện",
+      "confidence": 0.8956
+    },
+    {
+      "line_id": "0378_viet_009",
+      "bbox": [
+        [
+          369,
+          1728
+        ],
+        [
+          1156,
+          1733
+        ],
+        [
+          1156,
+          1798
+        ],
+        [
+          369,
+          1792
+        ]
+      ],
+      "bbox_original": [
+        [
+          369,
+          1896
+        ],
+        [
+          1156,
+          1901
+        ],
+        [
+          1156,
+          1966
+        ],
+        [
+          369,
+          1960
+        ]
+      ],
+      "box_xyxy": [
+        369,
+        1728,
+        1156,
+        1798
+      ],
+      "text": "Bất như cao ngọa thà gia xan.",
+      "confidence": 0.8838
+    },
+    {
+      "line_id": "0378_viet_010",
+      "bbox": [
+        [
+          469,
+          1900
+        ],
+        [
+          1182,
+          1903
+        ],
+        [
+          1182,
+          1968
+        ],
+        [
+          469,
+          1965
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          2068
+        ],
+        [
+          1182,
+          2071
+        ],
+        [
+          1182,
+          2136
+        ],
+        [
+          469,
+          2133
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1900,
+        1182,
+        1968
+      ],
+      "text": "Đồng tri cõ quốc giang san.",
+      "confidence": 0.8889
+    },
+    {
+      "line_id": "0378_viet_011",
+      "bbox": [
+        [
+          310,
+          2070
+        ],
+        [
+          1444,
+          2070
+        ],
+        [
+          1444,
+          2137
+        ],
+        [
+          310,
+          2137
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          2238
+        ],
+        [
+          1444,
+          2238
+        ],
+        [
+          1444,
+          2305
+        ],
+        [
+          310,
+          2305
+        ]
+      ],
+      "box_xyxy": [
+        310,
+        2070,
+        1444,
+        2137
+      ],
+      "text": "Nhân dân thành quách triều ban thuộc Hồ",
+      "confidence": 0.9126
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Ngã tát rị nhân sinh tự cồ,",
+      "Vị phùng thời hà khồ lao tâm.",
+      "Bàn khê nhất xích truy tầm.",
+      "Khả năng thùy điều mộng ngâm bi hùng.",
+      "Ngã tất vị anh hùng vô tận",
+      "Đãi minh quân phương dẫn cấp thăng",
+      "Sản nguyên bão đạo cơ tầng.",
+      "Sinh xa tam chí khả năng đinh điều.",
+      "Tư thế vị phùng nghiêu Thuãn thiện",
+      "Bất như cao ngọa thà gia xan.",
+      "Đồng tri cõ quốc giang san.",
+      "Nhân dân thành quách triều ban thuộc Hồ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "我必謂人生自古",
+        "phien_am": "Ngã tát rị nhân sinh tự cồ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "未逢時何苦勞心",
+        "phien_am": "Vị phùng thời hà khồ lao tâm.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "盤溪一尺追尋",
+        "phien_am": "Bàn khê nhất xích truy tầm.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "可能垂釣夢吟羆熊",
+        "phien_am": "Khả năng thùy điều mộng ngâm bi hùng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "我必謂英雄無盡",
+        "phien_am": "Ngã tất vị anh hùng vô tận",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "待明君方引級升",
+        "phien_am": "Đãi minh quân phương dẫn cấp thăng",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "萃原抱道幾曾",
+        "phien_am": "Sản nguyên bão đạo cơ tầng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "聘車三至可能鼎調",
+        "phien_am": "Sinh xa tam chí khả năng đinh điều.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "斯世未逢堯舜禪",
+        "phien_am": "Tư thế vị phùng nghiêu Thuãn thiện",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "不如高卧且加餐",
+        "phien_am": "Bất như cao ngọa thà gia xan.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "洞知故國江山",
+        "phien_am": "Đồng tri cõ quốc giang san.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "人民城郭朝班屬胡",
+        "phien_am": "Nhân dân thành quách triều ban thuộc Hồ",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

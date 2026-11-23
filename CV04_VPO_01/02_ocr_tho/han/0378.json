@@ -1,0 +1,675 @@
+{
+  "page_id": "0378",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 378,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0378_han_000",
+      "bbox": [
+        [
+          461,
+          72
+        ],
+        [
+          1188,
+          74
+        ],
+        [
+          1188,
+          152
+        ],
+        [
+          461,
+          149
+        ]
+      ],
+      "bbox_original": [
+        [
+          461,
+          240
+        ],
+        [
+          1188,
+          242
+        ],
+        [
+          1188,
+          320
+        ],
+        [
+          461,
+          317
+        ]
+      ],
+      "box_xyxy": [
+        461,
+        72,
+        1188,
+        152
+      ],
+      "text": "我必謂人生自古",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0378_han_001",
+      "bbox": [
+        [
+          456,
+          253
+        ],
+        [
+          1194,
+          253
+        ],
+        [
+          1194,
+          328
+        ],
+        [
+          456,
+          328
+        ]
+      ],
+      "bbox_original": [
+        [
+          456,
+          421
+        ],
+        [
+          1194,
+          421
+        ],
+        [
+          1194,
+          496
+        ],
+        [
+          456,
+          496
+        ]
+      ],
+      "box_xyxy": [
+        456,
+        253,
+        1194,
+        328
+      ],
+      "text": "未逢時何苦勞心",
+      "confidence": 0.9781
+    },
+    {
+      "line_id": "0378_han_002",
+      "bbox": [
+        [
+          511,
+          426
+        ],
+        [
+          1139,
+          424
+        ],
+        [
+          1139,
+          506
+        ],
+        [
+          511,
+          507
+        ]
+      ],
+      "bbox_original": [
+        [
+          511,
+          594
+        ],
+        [
+          1139,
+          592
+        ],
+        [
+          1139,
+          674
+        ],
+        [
+          511,
+          675
+        ]
+      ],
+      "box_xyxy": [
+        511,
+        424,
+        1139,
+        507
+      ],
+      "text": "盤溪一尺追尋",
+      "confidence": 0.9986
+    },
+    {
+      "line_id": "0378_han_003",
+      "bbox": [
+        [
+          400,
+          601
+        ],
+        [
+          1246,
+          604
+        ],
+        [
+          1245,
+          685
+        ],
+        [
+          400,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          769
+        ],
+        [
+          1246,
+          772
+        ],
+        [
+          1245,
+          853
+        ],
+        [
+          400,
+          849
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        601,
+        1246,
+        685
+      ],
+      "text": "可能垂釣夢吟羆熊",
+      "confidence": 0.996
+    },
+    {
+      "line_id": "0378_han_004",
+      "bbox": [
+        [
+          459,
+          782
+        ],
+        [
+          1194,
+          782
+        ],
+        [
+          1194,
+          860
+        ],
+        [
+          459,
+          860
+        ]
+      ],
+      "bbox_original": [
+        [
+          459,
+          950
+        ],
+        [
+          1194,
+          950
+        ],
+        [
+          1194,
+          1028
+        ],
+        [
+          459,
+          1028
+        ]
+      ],
+      "box_xyxy": [
+        459,
+        782,
+        1194,
+        860
+      ],
+      "text": "我必謂英雄無盡",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0378_han_005",
+      "bbox": [
+        [
+          462,
+          958
+        ],
+        [
+          1192,
+          958
+        ],
+        [
+          1192,
+          1035
+        ],
+        [
+          462,
+          1035
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          1126
+        ],
+        [
+          1192,
+          1126
+        ],
+        [
+          1192,
+          1203
+        ],
+        [
+          462,
+          1203
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        958,
+        1192,
+        1035
+      ],
+      "text": "待明君方引級升",
+      "confidence": 0.9348
+    },
+    {
+      "line_id": "0378_han_006",
+      "bbox": [
+        [
+          514,
+          1135
+        ],
+        [
+          1139,
+          1132
+        ],
+        [
+          1139,
+          1211
+        ],
+        [
+          514,
+          1214
+        ]
+      ],
+      "bbox_original": [
+        [
+          514,
+          1303
+        ],
+        [
+          1139,
+          1300
+        ],
+        [
+          1139,
+          1379
+        ],
+        [
+          514,
+          1382
+        ]
+      ],
+      "box_xyxy": [
+        514,
+        1132,
+        1139,
+        1214
+      ],
+      "text": "萃原抱道幾曾",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0378_han_007",
+      "bbox": [
+        [
+          406,
+          1305
+        ],
+        [
+          1248,
+          1305
+        ],
+        [
+          1248,
+          1386
+        ],
+        [
+          406,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          1473
+        ],
+        [
+          1248,
+          1473
+        ],
+        [
+          1248,
+          1554
+        ],
+        [
+          406,
+          1554
+        ]
+      ],
+      "box_xyxy": [
+        406,
+        1305,
+        1248,
+        1386
+      ],
+      "text": "聘車三至可能鼎調",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0378_han_008",
+      "bbox": [
+        [
+          456,
+          1481
+        ],
+        [
+          1191,
+          1481
+        ],
+        [
+          1191,
+          1555
+        ],
+        [
+          456,
+          1555
+        ]
+      ],
+      "bbox_original": [
+        [
+          456,
+          1649
+        ],
+        [
+          1191,
+          1649
+        ],
+        [
+          1191,
+          1723
+        ],
+        [
+          456,
+          1723
+        ]
+      ],
+      "box_xyxy": [
+        456,
+        1481,
+        1191,
+        1555
+      ],
+      "text": "斯世未逢堯舜禪",
+      "confidence": 0.9818
+    },
+    {
+      "line_id": "0378_han_009",
+      "bbox": [
+        [
+          462,
+          1649
+        ],
+        [
+          1190,
+          1652
+        ],
+        [
+          1190,
+          1727
+        ],
+        [
+          462,
+          1724
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          1817
+        ],
+        [
+          1190,
+          1820
+        ],
+        [
+          1190,
+          1895
+        ],
+        [
+          462,
+          1892
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        1649,
+        1190,
+        1727
+      ],
+      "text": "不如高卧且加餐",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0378_han_010",
+      "bbox": [
+        [
+          518,
+          1819
+        ],
+        [
+          1135,
+          1823
+        ],
+        [
+          1135,
+          1897
+        ],
+        [
+          517,
+          1894
+        ]
+      ],
+      "bbox_original": [
+        [
+          518,
+          1987
+        ],
+        [
+          1135,
+          1991
+        ],
+        [
+          1135,
+          2065
+        ],
+        [
+          517,
+          2062
+        ]
+      ],
+      "box_xyxy": [
+        517,
+        1819,
+        1135,
+        1897
+      ],
+      "text": "洞知故國江山",
+      "confidence": 0.9946
+    },
+    {
+      "line_id": "0378_han_011",
+      "bbox": [
+        [
+          406,
+          1993
+        ],
+        [
+          1255,
+          1990
+        ],
+        [
+          1255,
+          2068
+        ],
+        [
+          407,
+          2071
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          2161
+        ],
+        [
+          1255,
+          2158
+        ],
+        [
+          1255,
+          2236
+        ],
+        [
+          407,
+          2239
+        ]
+      ],
+      "box_xyxy": [
+        406,
+        1990,
+        1255,
+        2071
+      ],
+      "text": "人民城郭朝班屬胡",
+      "confidence": 0.9945
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "我必謂人生自古",
+      "未逢時何苦勞心",
+      "盤溪一尺追尋",
+      "可能垂釣夢吟羆熊",
+      "我必謂英雄無盡",
+      "待明君方引級升",
+      "萃原抱道幾曾",
+      "聘車三至可能鼎調",
+      "斯世未逢堯舜禪",
+      "不如高卧且加餐",
+      "洞知故國江山",
+      "人民城郭朝班屬胡"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "我必謂人生自古",
+        "phien_am": "Ngã tát rị nhân sinh tự cồ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "未逢時何苦勞心",
+        "phien_am": "Vị phùng thời hà khồ lao tâm.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "盤溪一尺追尋",
+        "phien_am": "Bàn khê nhất xích truy tầm.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "可能垂釣夢吟羆熊",
+        "phien_am": "Khả năng thùy điều mộng ngâm bi hùng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "我必謂英雄無盡",
+        "phien_am": "Ngã tất vị anh hùng vô tận",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "待明君方引級升",
+        "phien_am": "Đãi minh quân phương dẫn cấp thăng",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "萃原抱道幾曾",
+        "phien_am": "Sản nguyên bão đạo cơ tầng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "聘車三至可能鼎調",
+        "phien_am": "Sinh xa tam chí khả năng đinh điều.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "斯世未逢堯舜禪",
+        "phien_am": "Tư thế vị phùng nghiêu Thuãn thiện",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "不如高卧且加餐",
+        "phien_am": "Bất như cao ngọa thà gia xan.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "洞知故國江山",
+        "phien_am": "Đồng tri cõ quốc giang san.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "人民城郭朝班屬胡",
+        "phien_am": "Nhân dân thành quách triều ban thuộc Hồ",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

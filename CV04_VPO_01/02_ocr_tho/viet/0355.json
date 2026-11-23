@@ -1,0 +1,569 @@
+{
+  "page_id": "0355",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 355,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0355_viet_000",
+      "bbox": [
+        [
+          405,
+          190
+        ],
+        [
+          1123,
+          192
+        ],
+        [
+          1122,
+          250
+        ],
+        [
+          405,
+          248
+        ]
+      ],
+      "bbox_original": [
+        [
+          405,
+          358
+        ],
+        [
+          1123,
+          360
+        ],
+        [
+          1122,
+          418
+        ],
+        [
+          405,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        190,
+        1123,
+        250
+      ],
+      "text": "Phong-lưu tánh đã quen rồi,",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0355_viet_001",
+      "bbox": [
+        [
+          244,
+          435
+        ],
+        [
+          1131,
+          437
+        ],
+        [
+          1131,
+          495
+        ],
+        [
+          244,
+          493
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          603
+        ],
+        [
+          1131,
+          605
+        ],
+        [
+          1131,
+          663
+        ],
+        [
+          244,
+          661
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        435,
+        1131,
+        495
+      ],
+      "text": "Phồn-hoa lịch-sự lại mùi Tràng-an",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0355_viet_002",
+      "bbox": [
+        [
+          296,
+          681
+        ],
+        [
+          1129,
+          681
+        ],
+        [
+          1129,
+          738
+        ],
+        [
+          296,
+          738
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          849
+        ],
+        [
+          1129,
+          849
+        ],
+        [
+          1129,
+          906
+        ],
+        [
+          296,
+          906
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        681,
+        1129,
+        738
+      ],
+      "text": "Nẽu chẳng thẽ, bàn-hoàn chi mãi",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0355_viet_003",
+      "bbox": [
+        [
+          298,
+          925
+        ],
+        [
+          1072,
+          928
+        ],
+        [
+          1072,
+          986
+        ],
+        [
+          297,
+          982
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1093
+        ],
+        [
+          1072,
+          1096
+        ],
+        [
+          1072,
+          1154
+        ],
+        [
+          297,
+          1150
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        925,
+        1072,
+        986
+      ],
+      "text": "Hết xuân rồi, hạ lại sang thu ?",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0355_viet_004",
+      "bbox": [
+        [
+          399,
+          1169
+        ],
+        [
+          1110,
+          1172
+        ],
+        [
+          1109,
+          1233
+        ],
+        [
+          399,
+          1230
+        ]
+      ],
+      "bbox_original": [
+        [
+          399,
+          1337
+        ],
+        [
+          1110,
+          1340
+        ],
+        [
+          1109,
+          1401
+        ],
+        [
+          399,
+          1398
+        ]
+      ],
+      "box_xyxy": [
+        399,
+        1169,
+        1110,
+        1233
+      ],
+      "text": "Lầu hồng cung căm ấy ru ?",
+      "confidence": 0.8939
+    },
+    {
+      "line_id": "0355_viet_005",
+      "bbox": [
+        [
+          243,
+          1414
+        ],
+        [
+          1184,
+          1418
+        ],
+        [
+          1184,
+          1480
+        ],
+        [
+          243,
+          1476
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1582
+        ],
+        [
+          1184,
+          1586
+        ],
+        [
+          1184,
+          1648
+        ],
+        [
+          243,
+          1644
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1414,
+        1184,
+        1480
+      ],
+      "text": "Anh-hùng lại với trượng-phu ai từ ?",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0355_viet_006",
+      "bbox": [
+        [
+          293,
+          1657
+        ],
+        [
+          1041,
+          1661
+        ],
+        [
+          1041,
+          1722
+        ],
+        [
+          292,
+          1718
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          1825
+        ],
+        [
+          1041,
+          1829
+        ],
+        [
+          1041,
+          1890
+        ],
+        [
+          292,
+          1886
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1657,
+        1041,
+        1722
+      ],
+      "text": "Như thẽ ấy, bây giờ ai biết ?",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0355_viet_007",
+      "bbox": [
+        [
+          238,
+          1875
+        ],
+        [
+          1437,
+          1888
+        ],
+        [
+          1436,
+          1942
+        ],
+        [
+          238,
+          1929
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          2043
+        ],
+        [
+          1437,
+          2056
+        ],
+        [
+          1436,
+          2110
+        ],
+        [
+          238,
+          2097
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1875,
+        1437,
+        1942
+      ],
+      "text": "Thơ a Hoàng-hạc-lâu n của Thôi-Hiệu: a Nhật mộ hương",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0355_viet_008",
+      "bbox": [
+        [
+          205,
+          1948
+        ],
+        [
+          1437,
+          1952
+        ],
+        [
+          1437,
+          2005
+        ],
+        [
+          205,
+          2001
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          2116
+        ],
+        [
+          1437,
+          2120
+        ],
+        [
+          1437,
+          2173
+        ],
+        [
+          205,
+          2169
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1948,
+        1437,
+        2005
+      ],
+      "text": "quan hà xứ thị ? Yên-ba giang thương sử nhân sầu.... 1. Tản",
+      "confidence": 0.8819
+    },
+    {
+      "line_id": "0355_viet_009",
+      "bbox": [
+        [
+          202,
+          2008
+        ],
+        [
+          1437,
+          2018
+        ],
+        [
+          1437,
+          2072
+        ],
+        [
+          201,
+          2061
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          2176
+        ],
+        [
+          1437,
+          2186
+        ],
+        [
+          1437,
+          2240
+        ],
+        [
+          201,
+          2229
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        2008,
+        1437,
+        2072
+      ],
+      "text": "Đà tiên-sinh dịch rằng: a Quê nhà khuất bóng hoàng-hón. Trên",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0355_viet_010",
+      "bbox": [
+        [
+          202,
+          2079
+        ],
+        [
+          925,
+          2083
+        ],
+        [
+          925,
+          2132
+        ],
+        [
+          202,
+          2129
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          2247
+        ],
+        [
+          925,
+          2251
+        ],
+        [
+          925,
+          2300
+        ],
+        [
+          202,
+          2297
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        2079,
+        925,
+        2132
+      ],
+      "text": "sông khói sóng cho buồn lòng ai ? n.",
+      "confidence": 0.9019
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Phong-lưu tánh đã quen rồi,",
+      "Phồn-hoa lịch-sự lại mùi Tràng-an",
+      "Nẽu chẳng thẽ, bàn-hoàn chi mãi",
+      "Hết xuân rồi, hạ lại sang thu ?",
+      "Lầu hồng cung căm ấy ru ?",
+      "Anh-hùng lại với trượng-phu ai từ ?",
+      "Như thẽ ấy, bây giờ ai biết ?",
+      "Thơ a Hoàng-hạc-lâu n của Thôi-Hiệu: a Nhật mộ hương",
+      "quan hà xứ thị ? Yên-ba giang thương sử nhân sầu.... 1. Tản",
+      "Đà tiên-sinh dịch rằng: a Quê nhà khuất bóng hoàng-hón. Trên",
+      "sông khói sóng cho buồn lòng ai ? n."
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      220.0,
+      465.0,
+      709.5,
+      955.5,
+      1201.0,
+      1447.0,
+      1689.5,
+      1908.5,
+      1976.5,
+      2040.0,
+      2105.5
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "page_id": "0768",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 768,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0768_han_000",
+      "bbox": [
+        [
+          415,
+          1507
+        ],
+        [
+          1503,
+          1505
+        ],
+        [
+          1503,
+          1580
+        ],
+        [
+          415,
+          1582
+        ]
+      ],
+      "bbox_original": [
+        [
+          415,
+          1722
+        ],
+        [
+          1503,
+          1720
+        ],
+        [
+          1503,
+          1795
+        ],
+        [
+          415,
+          1797
+        ]
+      ],
+      "box_xyxy": [
+        415,
+        1505,
+        1503,
+        1582
+      ],
+      "text": "次韻菊堂題開元观自樂先生僑居",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0768_han_001",
+      "bbox": [
+        [
+          704,
+          1639
+        ],
+        [
+          870,
+          1639
+        ],
+        [
+          870,
+          1721
+        ],
+        [
+          704,
+          1721
+        ]
+      ],
+      "bbox_original": [
+        [
+          704,
+          1854
+        ],
+        [
+          870,
+          1854
+        ],
+        [
+          870,
+          1936
+        ],
+        [
+          704,
+          1936
+        ]
+      ],
+      "box_xyxy": [
+        704,
+        1639,
+        870,
+        1721
+      ],
+      "text": "宋",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0768_han_002",
+      "bbox": [
+        [
+          618,
+          1729
+        ],
+        [
+          703,
+          1726
+        ],
+        [
+          706,
+          1792
+        ],
+        [
+          621,
+          1796
+        ]
+      ],
+      "bbox_original": [
+        [
+          618,
+          1944
+        ],
+        [
+          703,
+          1941
+        ],
+        [
+          706,
+          2007
+        ],
+        [
+          621,
+          2011
+        ]
+      ],
+      "box_xyxy": [
+        618,
+        1726,
+        706,
+        1796
+      ],
+      "text": "言吾",
+      "confidence": 0.7406
+    },
+    {
+      "line_id": "0768_han_003",
+      "bbox": [
+        [
+          241,
+          2057
+        ],
+        [
+          1966,
+          2065
+        ],
+        [
+          1966,
+          2129
+        ],
+        [
+          241,
+          2121
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          2272
+        ],
+        [
+          1966,
+          2280
+        ],
+        [
+          1966,
+          2344
+        ],
+        [
+          241,
+          2336
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        2057,
+        1966,
+        2129
+      ],
+      "text": "(3) Hy : túc Phuc Hy  着. tuong truyěn là nguòi vach ra tám què cüa sách Kinh",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0768_han_004",
+      "bbox": [
+        [
+          459,
+          2110
+        ],
+        [
+          638,
+          2110
+        ],
+        [
+          638,
+          2187
+        ],
+        [
+          459,
+          2187
+        ]
+      ],
+      "bbox_original": [
+        [
+          459,
+          2325
+        ],
+        [
+          638,
+          2325
+        ],
+        [
+          638,
+          2402
+        ],
+        [
+          459,
+          2402
+        ]
+      ],
+      "box_xyxy": [
+        459,
+        2110,
+        638,
+        2187
+      ],
+      "text": "易",
+      "confidence": 0.9995
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

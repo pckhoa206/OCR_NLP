@@ -1,0 +1,213 @@
+{
+  "page_id": "0741",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 741,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0741_han_000",
+      "bbox": [
+        [
+          611,
+          2090
+        ],
+        [
+          694,
+          2090
+        ],
+        [
+          694,
+          2184
+        ],
+        [
+          611,
+          2184
+        ]
+      ],
+      "bbox_original": [
+        [
+          611,
+          2305
+        ],
+        [
+          694,
+          2305
+        ],
+        [
+          694,
+          2399
+        ],
+        [
+          611,
+          2399
+        ]
+      ],
+      "box_xyxy": [
+        611,
+        2090,
+        694,
+        2184
+      ],
+      "text": "擊",
+      "confidence": 0.5874
+    },
+    {
+      "line_id": "0741_han_001",
+      "bbox": [
+        [
+          588,
+          2176
+        ],
+        [
+          635,
+          2176
+        ],
+        [
+          635,
+          2236
+        ],
+        [
+          588,
+          2236
+        ]
+      ],
+      "bbox_original": [
+        [
+          588,
+          2391
+        ],
+        [
+          635,
+          2391
+        ],
+        [
+          635,
+          2451
+        ],
+        [
+          588,
+          2451
+        ]
+      ],
+      "box_xyxy": [
+        588,
+        2176,
+        635,
+        2236
+      ],
+      "text": "乎",
+      "confidence": 0.9972
+    },
+    {
+      "line_id": "0741_han_002",
+      "bbox": [
+        [
+          613,
+          2251
+        ],
+        [
+          677,
+          2251
+        ],
+        [
+          677,
+          2301
+        ],
+        [
+          613,
+          2301
+        ]
+      ],
+      "bbox_original": [
+        [
+          613,
+          2466
+        ],
+        [
+          677,
+          2466
+        ],
+        [
+          677,
+          2516
+        ],
+        [
+          613,
+          2516
+        ]
+      ],
+      "box_xyxy": [
+        613,
+        2251,
+        677,
+        2301
+      ],
+      "text": "之",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0741_han_003",
+      "bbox": [
+        [
+          585,
+          2314
+        ],
+        [
+          705,
+          2314
+        ],
+        [
+          705,
+          2371
+        ],
+        [
+          585,
+          2371
+        ]
+      ],
+      "bbox_original": [
+        [
+          585,
+          2529
+        ],
+        [
+          705,
+          2529
+        ],
+        [
+          705,
+          2586
+        ],
+        [
+          585,
+          2586
+        ]
+      ],
+      "box_xyxy": [
+        585,
+        2314,
+        705,
+        2371
+      ],
+      "text": "日明月",
+      "confidence": 0.5685
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

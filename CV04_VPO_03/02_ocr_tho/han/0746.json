@@ -1,0 +1,24 @@
+{
+  "page_id": "0746",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 746,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "page_id": "0306",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 306,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0306_viet_000",
+      "bbox": [
+        [
+          203,
+          0
+        ],
+        [
+          286,
+          0
+        ],
+        [
+          286,
+          31
+        ],
+        [
+          203,
+          31
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          168
+        ],
+        [
+          286,
+          168
+        ],
+        [
+          286,
+          199
+        ],
+        [
+          203,
+          199
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        0,
+        286,
+        31
+      ],
+      "text": "300",
+      "confidence": 0.7607
+    },
+    {
+      "line_id": "0306_viet_001",
+      "bbox": [
+        [
+          931,
+          1
+        ],
+        [
+          1435,
+          1
+        ],
+        [
+          1435,
+          28
+        ],
+        [
+          931,
+          28
+        ]
+      ],
+      "bbox_original": [
+        [
+          931,
+          169
+        ],
+        [
+          1435,
+          169
+        ],
+        [
+          1435,
+          196
+        ],
+        [
+          931,
+          196
+        ]
+      ],
+      "box_xyxy": [
+        931,
+        1,
+        1435,
+        28
+      ],
+      "text": "HAN-VAN SINH?10Y",
+      "confidence": 0.8122
+    },
+    {
+      "line_id": "0306_viet_002",
+      "bbox": [
+        [
+          418,
+          264
+        ],
+        [
+          1044,
+          266
+        ],
+        [
+          1044,
+          328
+        ],
+        [
+          417,
+          326
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          432
+        ],
+        [
+          1044,
+          434
+        ],
+        [
+          1044,
+          496
+        ],
+        [
+          417,
+          494
+        ]
+      ],
+      "box_xyxy": [
+        417,
+        264,
+        1044,
+        328
+      ],
+      "text": "Thiên hạ hữu tâm nhân",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0306_viet_003",
+      "bbox": [
+        [
+          418,
+          512
+        ],
+        [
+          1010,
+          514
+        ],
+        [
+          1010,
+          578
+        ],
+        [
+          417,
+          576
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          680
+        ],
+        [
+          1010,
+          682
+        ],
+        [
+          1010,
+          746
+        ],
+        [
+          417,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        417,
+        512,
+        1010,
+        578
+      ],
+      "text": "Tận giải tương tic tử;",
+      "confidence": 0.8883
+    },
+    {
+      "line_id": "0306_viet_004",
+      "bbox": [
+        [
+          416,
+          759
+        ],
+        [
+          1065,
+          762
+        ],
+        [
+          1065,
+          826
+        ],
+        [
+          415,
+          823
+        ]
+      ],
+      "bbox_original": [
+        [
+          416,
+          927
+        ],
+        [
+          1065,
+          930
+        ],
+        [
+          1065,
+          994
+        ],
+        [
+          415,
+          991
+        ]
+      ],
+      "box_xyxy": [
+        415,
+        759,
+        1065,
+        826
+      ],
+      "text": "Thiên hạ phụ tâm nhân",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0306_viet_005",
+      "bbox": [
+        [
+          418,
+          1006
+        ],
+        [
+          984,
+          1013
+        ],
+        [
+          983,
+          1073
+        ],
+        [
+          417,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          1174
+        ],
+        [
+          984,
+          1181
+        ],
+        [
+          983,
+          1241
+        ],
+        [
+          417,
+          1235
+        ]
+      ],
+      "box_xyxy": [
+        417,
+        1006,
+        984,
+        1073
+      ],
+      "text": "Bất thức tương 115 ý.",
+      "confidence": 0.8597
+    },
+    {
+      "line_id": "0306_viet_006",
+      "bbox": [
+        [
+          420,
+          1360
+        ],
+        [
+          989,
+          1363
+        ],
+        [
+          988,
+          1427
+        ],
+        [
+          419,
+          1424
+        ]
+      ],
+      "bbox_original": [
+        [
+          420,
+          1528
+        ],
+        [
+          989,
+          1531
+        ],
+        [
+          988,
+          1595
+        ],
+        [
+          419,
+          1592
+        ]
+      ],
+      "box_xyxy": [
+        419,
+        1360,
+        989,
+        1427
+      ],
+      "text": "Hữu tâm dữ phụ tâm",
+      "confidence": 0.937
+    },
+    {
+      "line_id": "0306_viet_007",
+      "bbox": [
+        [
+          418,
+          1598
+        ],
+        [
+          884,
+          1602
+        ],
+        [
+          883,
+          1664
+        ],
+        [
+          417,
+          1660
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          1766
+        ],
+        [
+          884,
+          1770
+        ],
+        [
+          883,
+          1832
+        ],
+        [
+          417,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        417,
+        1598,
+        884,
+        1664
+      ],
+      "text": "Bãt tri lạc hà địa.",
+      "confidence": 0.8978
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Thiên hạ hữu tâm nhân",
+      "Tận giải tương tic tử;",
+      "Thiên hạ phụ tâm nhân",
+      "Bất thức tương 115 ý.",
+      "Hữu tâm dữ phụ tâm",
+      "Bãt tri lạc hà địa."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "天下有心人",
+        "phien_am": "Thiên hạ hữu tâm nhân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "盡解相思死",
+        "phien_am": "Tận giải tương tic tử;",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "天下負心人",
+        "phien_am": "Thiên hạ phụ tâm nhân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "不識相思意",
+        "phien_am": "Bất thức tương 115 ý.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "有心與負心",
+        "phien_am": "Hữu tâm dữ phụ tâm",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "不知落何地",
+        "phien_am": "Bãt tri lạc hà địa.",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

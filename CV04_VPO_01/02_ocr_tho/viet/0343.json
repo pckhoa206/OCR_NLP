@@ -1,0 +1,467 @@
+{
+  "page_id": "0343",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 343,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0343_viet_000",
+      "bbox": [
+        [
+          205,
+          3
+        ],
+        [
+          870,
+          0
+        ],
+        [
+          871,
+          55
+        ],
+        [
+          205,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          171
+        ],
+        [
+          870,
+          168
+        ],
+        [
+          871,
+          223
+        ],
+        [
+          205,
+          226
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        0,
+        871,
+        58
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0343_viet_001",
+      "bbox": [
+        [
+          1363,
+          6
+        ],
+        [
+          1446,
+          6
+        ],
+        [
+          1446,
+          58
+        ],
+        [
+          1363,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          1363,
+          174
+        ],
+        [
+          1446,
+          174
+        ],
+        [
+          1446,
+          226
+        ],
+        [
+          1363,
+          226
+        ]
+      ],
+      "box_xyxy": [
+        1363,
+        6,
+        1446,
+        58
+      ],
+      "text": "337",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0343_viet_002",
+      "bbox": [
+        [
+          294,
+          302
+        ],
+        [
+          1240,
+          308
+        ],
+        [
+          1239,
+          370
+        ],
+        [
+          293,
+          364
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          470
+        ],
+        [
+          1240,
+          476
+        ],
+        [
+          1239,
+          538
+        ],
+        [
+          293,
+          532
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        302,
+        1240,
+        370
+      ],
+      "text": "Sông quần-quại, ruột càng quần-quại,",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0343_viet_003",
+      "bbox": [
+        [
+          300,
+          581
+        ],
+        [
+          1093,
+          584
+        ],
+        [
+          1093,
+          641
+        ],
+        [
+          299,
+          638
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          749
+        ],
+        [
+          1093,
+          752
+        ],
+        [
+          1093,
+          809
+        ],
+        [
+          299,
+          806
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        581,
+        1093,
+        641
+      ],
+      "text": "Cảnh đìu-hiu, đêm lại đìu-hiu.",
+      "confidence": 0.8807
+    },
+    {
+      "line_id": "0343_viet_004",
+      "bbox": [
+        [
+          405,
+          864
+        ],
+        [
+          1072,
+          864
+        ],
+        [
+          1072,
+          921
+        ],
+        [
+          405,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          405,
+          1032
+        ],
+        [
+          1072,
+          1032
+        ],
+        [
+          1072,
+          1089
+        ],
+        [
+          405,
+          1089
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        864,
+        1072,
+        921
+      ],
+      "text": "Lĩr-du ai chẳng tiêu-diều ?",
+      "confidence": 0.8609
+    },
+    {
+      "line_id": "0343_viet_005",
+      "bbox": [
+        [
+          244,
+          1141
+        ],
+        [
+          1435,
+          1144
+        ],
+        [
+          1435,
+          1205
+        ],
+        [
+          244,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1309
+        ],
+        [
+          1435,
+          1312
+        ],
+        [
+          1435,
+          1373
+        ],
+        [
+          244,
+          1370
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1141,
+        1435,
+        1205
+      ],
+      "text": "Tiếng chày trong xóm, tiếng chèo ngoài sông",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0343_viet_006",
+      "bbox": [
+        [
+          298,
+          1431
+        ],
+        [
+          1161,
+          1436
+        ],
+        [
+          1161,
+          1494
+        ],
+        [
+          297,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1599
+        ],
+        [
+          1161,
+          1604
+        ],
+        [
+          1161,
+          1662
+        ],
+        [
+          297,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1431,
+        1161,
+        1494
+      ],
+      "text": "Thân đãt khách não-nùng tâm-sự,",
+      "confidence": 0.8771
+    },
+    {
+      "line_id": "0343_viet_007",
+      "bbox": [
+        [
+          300,
+          1710
+        ],
+        [
+          1218,
+          1712
+        ],
+        [
+          1218,
+          1776
+        ],
+        [
+          299,
+          1774
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1878
+        ],
+        [
+          1218,
+          1880
+        ],
+        [
+          1218,
+          1944
+        ],
+        [
+          299,
+          1942
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1710,
+        1218,
+        1776
+      ],
+      "text": "Thương người quê tinh-tự bãy giờ",
+      "confidence": 0.9017
+    },
+    {
+      "line_id": "0343_viet_008",
+      "bbox": [
+        [
+          406,
+          1997
+        ],
+        [
+          1105,
+          1995
+        ],
+        [
+          1105,
+          2053
+        ],
+        [
+          406,
+          2055
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          2165
+        ],
+        [
+          1105,
+          2163
+        ],
+        [
+          1105,
+          2221
+        ],
+        [
+          406,
+          2223
+        ]
+      ],
+      "box_xyxy": [
+        406,
+        1995,
+        1105,
+        2055
+      ],
+      "text": "Đêm khuya con tỏ cơn mờ,",
+      "confidence": 0.9094
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Sông quần-quại, ruột càng quần-quại,",
+      "Cảnh đìu-hiu, đêm lại đìu-hiu.",
+      "Lĩr-du ai chẳng tiêu-diều ?",
+      "Tiếng chày trong xóm, tiếng chèo ngoài sông",
+      "Thân đãt khách não-nùng tâm-sự,",
+      "Thương người quê tinh-tự bãy giờ",
+      "Đêm khuya con tỏ cơn mờ,"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      336.0,
+      611.0,
+      892.5,
+      1173.0,
+      1462.5,
+      1743.0,
+      2025.0
+    ]
+  }
+}

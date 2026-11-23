@@ -1,0 +1,122 @@
+{
+  "page_id": "0302",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 302,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0302_viet_000",
+      "bbox": [
+        [
+          618,
+          1703
+        ],
+        [
+          1074,
+          1698
+        ],
+        [
+          1075,
+          1769
+        ],
+        [
+          619,
+          1775
+        ]
+      ],
+      "bbox_original": [
+        [
+          618,
+          1871
+        ],
+        [
+          1074,
+          1866
+        ],
+        [
+          1075,
+          1937
+        ],
+        [
+          619,
+          1943
+        ]
+      ],
+      "box_xyxy": [
+        618,
+        1698,
+        1075,
+        1775
+      ],
+      "text": "Ra sản tuy săn bút",
+      "confidence": 0.8688
+    },
+    {
+      "line_id": "0302_viet_001",
+      "bbox": [
+        [
+          537,
+          1810
+        ],
+        [
+          1156,
+          1814
+        ],
+        [
+          1156,
+          1878
+        ],
+        [
+          536,
+          1875
+        ]
+      ],
+      "bbox_original": [
+        [
+          537,
+          1978
+        ],
+        [
+          1156,
+          1982
+        ],
+        [
+          1156,
+          2046
+        ],
+        [
+          536,
+          2043
+        ]
+      ],
+      "box_xyxy": [
+        536,
+        1810,
+        1156,
+        1878
+      ],
+      "text": "Viết chíe u tương-lưu này..",
+      "confidence": 0.7819
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "even_page_non_han_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [],
+    "has_dich_nghia": false
+  }
+}

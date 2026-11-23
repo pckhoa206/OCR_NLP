@@ -1,0 +1,570 @@
+{
+  "page_id": "0300",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 300,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0300_viet_000",
+      "bbox": [
+        [
+          417,
+          173
+        ],
+        [
+          1124,
+          177
+        ],
+        [
+          1123,
+          245
+        ],
+        [
+          416,
+          241
+        ]
+      ],
+      "bbox_original": [
+        [
+          417,
+          341
+        ],
+        [
+          1124,
+          345
+        ],
+        [
+          1123,
+          413
+        ],
+        [
+          416,
+          409
+        ]
+      ],
+      "box_xyxy": [
+        416,
+        173,
+        1124,
+        245
+      ],
+      "text": "Xa-trần mã-túc quý-giả thú",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0300_viet_001",
+      "bbox": [
+        [
+          415,
+          368
+        ],
+        [
+          1230,
+          372
+        ],
+        [
+          1229,
+          437
+        ],
+        [
+          414,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          415,
+          536
+        ],
+        [
+          1230,
+          540
+        ],
+        [
+          1229,
+          605
+        ],
+        [
+          414,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        414,
+        368,
+        1230,
+        437
+      ],
+      "text": "Tửu trản hoa chi, bần-giả duyên",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0300_viet_002",
+      "bbox": [
+        [
+          412,
+          650
+        ],
+        [
+          1247,
+          653
+        ],
+        [
+          1246,
+          720
+        ],
+        [
+          411,
+          717
+        ]
+      ],
+      "bbox_original": [
+        [
+          412,
+          818
+        ],
+        [
+          1247,
+          821
+        ],
+        [
+          1246,
+          888
+        ],
+        [
+          411,
+          885
+        ]
+      ],
+      "box_xyxy": [
+        411,
+        650,
+        1247,
+        720
+      ],
+      "text": "Nhược tương phú-quý tỉ bần-tiện",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0300_viet_003",
+      "bbox": [
+        [
+          413,
+          842
+        ],
+        [
+          1232,
+          846
+        ],
+        [
+          1231,
+          914
+        ],
+        [
+          412,
+          910
+        ]
+      ],
+      "bbox_original": [
+        [
+          413,
+          1010
+        ],
+        [
+          1232,
+          1014
+        ],
+        [
+          1231,
+          1082
+        ],
+        [
+          412,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        412,
+        842,
+        1232,
+        914
+      ],
+      "text": "Nhất tại bình địa, nhất tại thiên",
+      "confidence": 0.9189
+    },
+    {
+      "line_id": "0300_viet_004",
+      "bbox": [
+        [
+          413,
+          1038
+        ],
+        [
+          1213,
+          1040
+        ],
+        [
+          1213,
+          1105
+        ],
+        [
+          412,
+          1103
+        ]
+      ],
+      "bbox_original": [
+        [
+          413,
+          1206
+        ],
+        [
+          1213,
+          1208
+        ],
+        [
+          1213,
+          1273
+        ],
+        [
+          412,
+          1271
+        ]
+      ],
+      "box_xyxy": [
+        412,
+        1038,
+        1213,
+        1105
+      ],
+      "text": "Nhược tương bần-tiện tỉ xa-mã",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0300_viet_005",
+      "bbox": [
+        [
+          411,
+          1229
+        ],
+        [
+          1202,
+          1231
+        ],
+        [
+          1202,
+          1298
+        ],
+        [
+          410,
+          1296
+        ]
+      ],
+      "bbox_original": [
+        [
+          411,
+          1397
+        ],
+        [
+          1202,
+          1399
+        ],
+        [
+          1202,
+          1466
+        ],
+        [
+          410,
+          1464
+        ]
+      ],
+      "box_xyxy": [
+        410,
+        1229,
+        1202,
+        1298
+      ],
+      "text": "Tha đắc khu-trì, ngã đắc nhàn",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0300_viet_006",
+      "bbox": [
+        [
+          406,
+          1506
+        ],
+        [
+          1300,
+          1512
+        ],
+        [
+          1300,
+          1578
+        ],
+        [
+          405,
+          1573
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          1674
+        ],
+        [
+          1300,
+          1680
+        ],
+        [
+          1300,
+          1746
+        ],
+        [
+          405,
+          1741
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        1506,
+        1300,
+        1578
+      ],
+      "text": "Thẽ-nhân tiêu ngã thắc phong điên,",
+      "confidence": 0.8912
+    },
+    {
+      "line_id": "0300_viet_007",
+      "bbox": [
+        [
+          406,
+          1695
+        ],
+        [
+          1300,
+          1700
+        ],
+        [
+          1300,
+          1765
+        ],
+        [
+          405,
+          1760
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          1863
+        ],
+        [
+          1300,
+          1868
+        ],
+        [
+          1300,
+          1933
+        ],
+        [
+          405,
+          1928
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        1695,
+        1300,
+        1765
+      ],
+      "text": "Ngã tiêu thẽ-nhân khan bất xuyên",
+      "confidence": 0.9149
+    },
+    {
+      "line_id": "0300_viet_008",
+      "bbox": [
+        [
+          406,
+          1883
+        ],
+        [
+          1213,
+          1886
+        ],
+        [
+          1213,
+          1953
+        ],
+        [
+          405,
+          1950
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          2051
+        ],
+        [
+          1213,
+          2054
+        ],
+        [
+          1213,
+          2121
+        ],
+        [
+          405,
+          2118
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        1883,
+        1213,
+        1953
+      ],
+      "text": "Ký đắc Ngũ-lăng hào-kiệt mộ ?",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0300_viet_009",
+      "bbox": [
+        [
+          406,
+          2069
+        ],
+        [
+          1100,
+          2074
+        ],
+        [
+          1099,
+          2138
+        ],
+        [
+          405,
+          2134
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          2237
+        ],
+        [
+          1100,
+          2242
+        ],
+        [
+          1099,
+          2306
+        ],
+        [
+          405,
+          2302
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        2069,
+        1100,
+        2138
+      ],
+      "text": "Vô tửu vô hoa sử tác điền",
+      "confidence": 0.9141
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Xa-trần mã-túc quý-giả thú",
+      "Tửu trản hoa chi, bần-giả duyên",
+      "Nhược tương phú-quý tỉ bần-tiện",
+      "Nhất tại bình địa, nhất tại thiên",
+      "Nhược tương bần-tiện tỉ xa-mã",
+      "Tha đắc khu-trì, ngã đắc nhàn",
+      "Thẽ-nhân tiêu ngã thắc phong điên,",
+      "Ngã tiêu thẽ-nhân khan bất xuyên",
+      "Ký đắc Ngũ-lăng hào-kiệt mộ ?",
+      "Vô tửu vô hoa sử tác điền"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "車塵馬足貴者趣",
+        "phien_am": "Xa-trần mã-túc quý-giả thú",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "酒盞花枝貧者緣",
+        "phien_am": "Tửu trản hoa chi, bần-giả duyên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "若將富貴比貧賤",
+        "phien_am": "Nhược tương phú-quý tỉ bần-tiện",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "一在平地一在天",
+        "phien_am": "Nhất tại bình địa, nhất tại thiên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "若將貧賤比車馬",
+        "phien_am": "Nhược tương bần-tiện tỉ xa-mã",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "他得驅馳我得閑",
+        "phien_am": "Tha đắc khu-trì, ngã đắc nhàn",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "世人笑我忒風癲",
+        "phien_am": "Thẽ-nhân tiêu ngã thắc phong điên,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "我笑世人看不穿",
+        "phien_am": "Ngã tiêu thẽ-nhân khan bất xuyên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "記得五陵豪傑墓",
+        "phien_am": "Ký đắc Ngũ-lăng hào-kiệt mộ ?",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "無酒無花鋤作田",
+        "phien_am": "Vô tửu vô hoa sử tác điền",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

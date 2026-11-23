@@ -1,0 +1,263 @@
+{
+  "page_id": "0777",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 777,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0777_han_000",
+      "bbox": [
+        [
+          935,
+          603
+        ],
+        [
+          1256,
+          603
+        ],
+        [
+          1256,
+          726
+        ],
+        [
+          935,
+          726
+        ]
+      ],
+      "bbox_original": [
+        [
+          935,
+          818
+        ],
+        [
+          1256,
+          818
+        ],
+        [
+          1256,
+          941
+        ],
+        [
+          935,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        935,
+        603,
+        1256,
+        726
+      ],
+      "text": "陳肴",
+      "confidence": 0.5999
+    },
+    {
+      "line_id": "0777_han_001",
+      "bbox": [
+        [
+          979,
+          790
+        ],
+        [
+          1219,
+          790
+        ],
+        [
+          1219,
+          915
+        ],
+        [
+          979,
+          915
+        ]
+      ],
+      "bbox_original": [
+        [
+          979,
+          1005
+        ],
+        [
+          1219,
+          1005
+        ],
+        [
+          1219,
+          1130
+        ],
+        [
+          979,
+          1130
+        ]
+      ],
+      "box_xyxy": [
+        979,
+        790,
+        1219,
+        915
+      ],
+      "text": "明宗",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0777_han_002",
+      "bbox": [
+        [
+          382,
+          1114
+        ],
+        [
+          1059,
+          1114
+        ],
+        [
+          1059,
+          1187
+        ],
+        [
+          382,
+          1187
+        ]
+      ],
+      "bbox_original": [
+        [
+          382,
+          1329
+        ],
+        [
+          1059,
+          1329
+        ],
+        [
+          1059,
+          1402
+        ],
+        [
+          382,
+          1402
+        ]
+      ],
+      "box_xyxy": [
+        382,
+        1114,
+        1059,
+        1187
+      ],
+      "text": "Ong là con thúr tur vua Tràn Anh Tóng 陳英 宗, cháu ngoai cúa Báo",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0777_han_003",
+      "bbox": [
+        [
+          249,
+          1183
+        ],
+        [
+          1059,
+          1183
+        ],
+        [
+          1059,
+          1251
+        ],
+        [
+          249,
+          1251
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1398
+        ],
+        [
+          1059,
+          1398
+        ],
+        [
+          1059,
+          1466
+        ],
+        [
+          249,
+          1466
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1183,
+        1059,
+        1251
+      ],
+      "text": "nghīa vưong Tràn Binh Trong 陳 平 中 , sinh ngày 21 tháng Tám năm Canh",
+      "confidence": 0.9753
+    },
+    {
+      "line_id": "0777_han_004",
+      "bbox": [
+        [
+          246,
+          1383
+        ],
+        [
+          1059,
+          1383
+        ],
+        [
+          1059,
+          1455
+        ],
+        [
+          246,
+          1455
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1598
+        ],
+        [
+          1059,
+          1598
+        ],
+        [
+          1059,
+          1670
+        ],
+        [
+          246,
+          1670
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1383,
+        1059,
+        1455
+      ],
+      "text": "Nht Duat 陳 日 X商 dā nhan óng vè nuôi náng, day dō như con. Nǎm 15 tuði,",
+      "confidence": 0.8933
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "陳肴",
+      "明宗"
+    ],
+    "interlinear_triplets": []
+  }
+}

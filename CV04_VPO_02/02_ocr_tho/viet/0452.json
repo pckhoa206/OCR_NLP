@@ -1,0 +1,364 @@
+{
+  "page_id": "0452",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 452,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 529,
+    "footnote_separator_y_original": 688,
+    "effective_width": 1558,
+    "effective_height": 529
+  },
+  "items": [
+    {
+      "line_id": "0452_viet_000",
+      "bbox": [
+        [
+          159,
+          0
+        ],
+        [
+          1492,
+          0
+        ],
+        [
+          1492,
+          49
+        ],
+        [
+          159,
+          45
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          159
+        ],
+        [
+          1492,
+          159
+        ],
+        [
+          1492,
+          208
+        ],
+        [
+          159,
+          204
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        0,
+        1492,
+        49
+      ],
+      "text": "đồi chăng kịp. ví phòng chỉ khoe chô kém cỏi của mình , e không",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0452_viet_001",
+      "bbox": [
+        [
+          156,
+          44
+        ],
+        [
+          1497,
+          47
+        ],
+        [
+          1497,
+          106
+        ],
+        [
+          156,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          203
+        ],
+        [
+          1497,
+          206
+        ],
+        [
+          1497,
+          265
+        ],
+        [
+          156,
+          262
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        44,
+        1497,
+        106
+      ],
+      "text": "tránh được việc khoe mế? Không thể thì hãy có một lời, hoặc cử",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0452_viet_002",
+      "bbox": [
+        [
+          157,
+          104
+        ],
+        [
+          1495,
+          107
+        ],
+        [
+          1495,
+          163
+        ],
+        [
+          157,
+          160
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          263
+        ],
+        [
+          1495,
+          266
+        ],
+        [
+          1495,
+          322
+        ],
+        [
+          157,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        104,
+        1495,
+        163
+      ],
+      "text": "noi theo tiền lệ, Từ xưa thơ coi tiếng sáo của âm Nam là đẹp, đã",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0452_viet_003",
+      "bbox": [
+        [
+          155,
+          159
+        ],
+        [
+          1494,
+          161
+        ],
+        [
+          1494,
+          224
+        ],
+        [
+          155,
+          222
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          318
+        ],
+        [
+          1494,
+          320
+        ],
+        [
+          1494,
+          383
+        ],
+        [
+          155,
+          381
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        159,
+        1494,
+        224
+      ],
+      "text": "không hề tiếm sai, lấy sao Dực? này làm sao chủ cho Nhạc phủ',",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0452_viet_004",
+      "bbox": [
+        [
+          158,
+          224
+        ],
+        [
+          1496,
+          223
+        ],
+        [
+          1496,
+          279
+        ],
+        [
+          158,
+          280
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          383
+        ],
+        [
+          1496,
+          382
+        ],
+        [
+          1496,
+          438
+        ],
+        [
+          158,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        223,
+        1496,
+        280
+      ],
+      "text": "lại theo sự phân dã của nó, ví như thảy đều không phải thước tròn",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0452_viet_005",
+      "bbox": [
+        [
+          160,
+          280
+        ],
+        [
+          1262,
+          282
+        ],
+        [
+          1262,
+          338
+        ],
+        [
+          160,
+          336
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          439
+        ],
+        [
+          1262,
+          441
+        ],
+        [
+          1262,
+          497
+        ],
+        [
+          160,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        280,
+        1262,
+        338
+      ],
+      "text": "thước vuông 3, thì cũng đáng để lúc nhớ lúc không vậy.",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0452_viet_006",
+      "bbox": [
+        [
+          238,
+          347
+        ],
+        [
+          1496,
+          345
+        ],
+        [
+          1496,
+          405
+        ],
+        [
+          239,
+          407
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          506
+        ],
+        [
+          1496,
+          504
+        ],
+        [
+          1496,
+          564
+        ],
+        [
+          239,
+          566
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        345,
+        1496,
+        407
+      ],
+      "text": "Nay thiên tử: Sửa sang lại lễ nhạc, giáo hoá bằng nền văn trị",
+      "confidence": 0.9274
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "đồi chăng kịp. ví phòng chỉ khoe chô kém cỏi của mình , e không",
+      "tránh được việc khoe mế? Không thể thì hãy có một lời, hoặc cử",
+      "noi theo tiền lệ, Từ xưa thơ coi tiếng sáo của âm Nam là đẹp, đã",
+      "không hề tiếm sai, lấy sao Dực? này làm sao chủ cho Nhạc phủ',",
+      "lại theo sự phân dã của nó, ví như thảy đều không phải thước tròn",
+      "thước vuông 3, thì cũng đáng để lúc nhớ lúc không vậy.",
+      "Nay thiên tử: Sửa sang lại lễ nhạc, giáo hoá bằng nền văn trị"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

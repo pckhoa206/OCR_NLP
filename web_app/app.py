@@ -103,31 +103,67 @@ def run_streamlit_app() -> None:
         layout="wide",
     )
 
-    st.title("📜 CV04 — Hán–Việt Parallel Corpus Explorer & CAT Workbench")
-    st.markdown(
-        "Nền tảng trực quan hóa, theo dõi tiến độ OCR, đối soát và hiệu đính ngữ liệu song ngữ Hán – Việt "
-        "theo quy chuẩn **Lab 2. Dóng hàng Hán-Việt.pdf** & hướng dẫn của **chị Lưu Như** (Nhóm `CV04` — Thành viên: **Lê Gia Khánh**)."
-    )
+    st.sidebar.header("Bộ lọc & Lựa chọn tư liệu")
 
-    # Live Progress Monitor for Khánh's 396 assigned pages
+    # Load all 4 members from config/member_splits.json and auto-detect active member
     splits_file = ROOT_DIR / "config" / "member_splits.json"
-    khanh_books = {}
+    members_map = {}
     if splits_file.is_file():
         try:
             splits_data = json.loads(splits_file.read_text(encoding="utf-8"))
-            khanh_books = splits_data.get("members", {}).get("khanh", {}).get("books", {})
+            members_map = splits_data.get("members", {})
         except Exception:
-            khanh_books = {}
+            members_map = {}
 
-    with st.expander("📊 Theo dõi Tiến độ Chạy 396 Trang Phân công Của Lê Gia Khánh (Live Monitor)", expanded=True):
+    member_labels = {
+        "kin": "Cái Hoàng Bảo Kin (kin — 393 trang)",
+        "khanh": "Lê Gia Khánh (khanh — 396 trang)",
+        "khoa": "Phạm Chấn Khoa (khoa — 397 trang)",
+        "hieu": "Trần Trung Hiếu (hieu — 397 trang)",
+    }
+    member_options = [m for m in ("kin", "khanh", "khoa", "hieu") if m in members_map] or ["kin", "khanh"]
+
+    def _count_member_ocr(m_key: str) -> int:
+        m_books = members_map.get(m_key, {}).get("books", {})
+        cnt = 0
+        for b_code, b_meta in BOOK_METADATA.items():
+            b_slice = m_books.get(b_code, {})
+            ocr_han_dir = b_meta["folder"] / "02_ocr_tho" / "han"
+            if not ocr_han_dir.is_dir():
+                continue
+            for p in b_slice.get("pdf_pages", []):
+                if (ocr_han_dir / f"{int(p):04d}.json").is_file():
+                    cnt += 1
+        return cnt
+
+    best_member = max(member_options, key=_count_member_ocr) if member_options else "kin"
+    default_idx = member_options.index(best_member) if best_member in member_options else 0
+    selected_member = st.sidebar.selectbox(
+        "Theo dõi thành viên:",
+        options=member_options,
+        index=default_idx,
+        format_func=lambda m: member_labels.get(m, m),
+    )
+
+    member_info = members_map.get(selected_member, {})
+    member_display = member_info.get("display_name", selected_member)
+    member_books = member_info.get("books", {})
+    total_assigned = int(member_info.get("total_pages", 0)) or 393
+
+    st.title("📜 CV04 — Hán–Việt Parallel Corpus Explorer & CAT Workbench")
+    st.markdown(
+        "Nền tảng trực quan hóa, theo dõi tiến độ OCR, đối soát và hiệu đính ngữ liệu song ngữ Hán – Việt "
+        f"theo quy chuẩn **Lab 2. Dóng hàng Hán-Việt.pdf** & hướng dẫn của **chị Lưu Như** (Nhóm `CV04` — Thành viên: **{member_display}**)."
+    )
+
+    with st.expander(f"📊 Theo dõi Tiến độ Chạy {total_assigned} Trang Phân công Của {member_display} (Live Monitor)", expanded=True):
         pcol1, pcol2, pcol3, pcol4 = st.columns(4)
-        total_assigned = 396
         total_ocr_done = 0
         total_pairs_all = 0
         per_book_stat = {}
 
         for b_idx, (b_code, b_meta) in enumerate(BOOK_METADATA.items()):
-            b_slice = khanh_books.get(b_code, {})
+            b_slice = member_books.get(b_code, {})
             assigned_pages = set(int(p) for p in b_slice.get("pdf_pages", []))
             n_assigned = len(assigned_pages) if assigned_pages else 0
 
@@ -152,22 +188,22 @@ def run_streamlit_app() -> None:
 
         with pcol1:
             st.metric(
-                "Tổng tiến độ OCR (Khánh)",
+                f"Tổng tiến độ OCR ({member_display})",
                 f"{total_ocr_done} / {total_assigned} trang",
                 f"{(total_ocr_done / max(1, total_assigned)) * 100:.1f}%",
             )
             st.progress(min(1.0, total_ocr_done / max(1, total_assigned)))
         with pcol2:
             a1, png1, ocr1, r1 = per_book_stat["VPO_01"]
-            st.metric("CV04_VPO_01 (94 trang)", f"OCR: {ocr1}/{a1} tr", f"Ảnh: {png1}/{a1} | {r1} cặp câu")
+            st.metric(f"CV04_VPO_01 ({a1} trang)", f"OCR: {ocr1}/{a1} tr", f"Ảnh: {png1}/{a1} | {r1} cặp câu")
             st.progress(min(1.0, ocr1 / max(1, a1)))
         with pcol3:
             a2, png2, ocr2, r2 = per_book_stat["VPO_02"]
-            st.metric("CV04_VPO_02 (103 trang)", f"OCR: {ocr2}/{a2} tr", f"Ảnh: {png2}/{a2} | {r2} cặp câu")
+            st.metric(f"CV04_VPO_02 ({a2} trang)", f"OCR: {ocr2}/{a2} tr", f"Ảnh: {png2}/{a2} | {r2} cặp câu")
             st.progress(min(1.0, ocr2 / max(1, a2)))
         with pcol4:
             a3, png3, ocr3, r3 = per_book_stat["VPO_03"]
-            st.metric("CV04_VPO_03 (199 trang)", f"OCR: {ocr3}/{a3} tr", f"Ảnh: {png3}/{a3} | {r3} cặp câu")
+            st.metric(f"CV04_VPO_03 ({a3} trang)", f"OCR: {ocr3}/{a3} tr", f"Ảnh: {png3}/{a3} | {r3} cặp câu")
             st.progress(min(1.0, ocr3 / max(1, a3)))
 
         btn_c1, btn_c2 = st.columns(2)
@@ -177,14 +213,13 @@ def run_streamlit_app() -> None:
         with btn_c2:
             if st.button("⚡ Chạy Dóng hàng 4 Cột từ JSON OCR thật (02_ocr_tho/)", use_container_width=True):
                 if total_ocr_done == 0:
-                    st.warning("Chưa có file JSON OCR thật nào cho 396 trang của Khánh (0/396). Hệ thống đang giữ nguyên bộ dữ liệu mẫu chuẩn để tránh ghi đè bằng dữ liệu giả lập (mock)!")
+                    st.warning(f"Chưa có file JSON OCR thật nào cho {total_assigned} trang của {member_display} (0/{total_assigned}). Hệ thống đang giữ nguyên bộ dữ liệu mẫu chuẩn để tránh ghi đè bằng dữ liệu giả lập (mock)!")
                 else:
                     from src.corpus_pipeline import run_corpus_from_ocr
                     run_corpus_from_ocr(ROOT_DIR, ROOT_DIR)
                     st.success(f"Đã chạy xong Work Segmenter & Dóng hàng 4 cột từ {total_ocr_done} trang OCR thật!")
                     st.rerun() if hasattr(st, "rerun") else None
 
-    st.sidebar.header("Bộ lọc & Lựa chọn tư liệu")
     book_choice = st.sidebar.selectbox(
         "Chọn mã tác phẩm:",
         options=list(BOOK_METADATA.keys()),

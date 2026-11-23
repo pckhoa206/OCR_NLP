@@ -1,0 +1,459 @@
+{
+  "page_id": "0304",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 304,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0304_han_000",
+      "bbox": [
+        [
+          567,
+          116
+        ],
+        [
+          1082,
+          120
+        ],
+        [
+          1081,
+          198
+        ],
+        [
+          566,
+          195
+        ]
+      ],
+      "bbox_original": [
+        [
+          567,
+          284
+        ],
+        [
+          1082,
+          288
+        ],
+        [
+          1081,
+          366
+        ],
+        [
+          566,
+          363
+        ]
+      ],
+      "box_xyxy": [
+        566,
+        116,
+        1082,
+        198
+      ],
+      "text": "拭翠飲雙蛾",
+      "confidence": 0.9762
+    },
+    {
+      "line_id": "0304_han_001",
+      "bbox": [
+        [
+          562,
+          359
+        ],
+        [
+          1075,
+          363
+        ],
+        [
+          1074,
+          446
+        ],
+        [
+          561,
+          441
+        ]
+      ],
+      "bbox_original": [
+        [
+          562,
+          527
+        ],
+        [
+          1075,
+          531
+        ],
+        [
+          1074,
+          614
+        ],
+        [
+          561,
+          609
+        ]
+      ],
+      "box_xyxy": [
+        561,
+        359,
+        1075,
+        446
+      ],
+      "text": "為鬱心中事",
+      "confidence": 0.8593
+    },
+    {
+      "line_id": "0304_han_002",
+      "bbox": [
+        [
+          563,
+          606
+        ],
+        [
+          1079,
+          611
+        ],
+        [
+          1078,
+          691
+        ],
+        [
+          562,
+          685
+        ]
+      ],
+      "bbox_original": [
+        [
+          563,
+          774
+        ],
+        [
+          1079,
+          779
+        ],
+        [
+          1078,
+          859
+        ],
+        [
+          562,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        562,
+        606,
+        1079,
+        691
+      ],
+      "text": "匿管下庭除",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0304_han_003",
+      "bbox": [
+        [
+          559,
+          853
+        ],
+        [
+          1066,
+          855
+        ],
+        [
+          1066,
+          937
+        ],
+        [
+          559,
+          935
+        ]
+      ],
+      "bbox_original": [
+        [
+          559,
+          1021
+        ],
+        [
+          1066,
+          1023
+        ],
+        [
+          1066,
+          1105
+        ],
+        [
+          559,
+          1103
+        ]
+      ],
+      "box_xyxy": [
+        559,
+        853,
+        1066,
+        937
+      ],
+      "text": "書就相思字",
+      "confidence": 0.9771
+    },
+    {
+      "line_id": "0304_han_004",
+      "bbox": [
+        [
+          557,
+          1217
+        ],
+        [
+          1069,
+          1221
+        ],
+        [
+          1069,
+          1302
+        ],
+        [
+          556,
+          1299
+        ]
+      ],
+      "bbox_original": [
+        [
+          557,
+          1385
+        ],
+        [
+          1069,
+          1389
+        ],
+        [
+          1069,
+          1470
+        ],
+        [
+          556,
+          1467
+        ]
+      ],
+      "box_xyxy": [
+        556,
+        1217,
+        1069,
+        1302
+      ],
+      "text": "此字不書石",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0304_han_005",
+      "bbox": [
+        [
+          553,
+          1464
+        ],
+        [
+          1071,
+          1464
+        ],
+        [
+          1071,
+          1545
+        ],
+        [
+          553,
+          1545
+        ]
+      ],
+      "bbox_original": [
+        [
+          553,
+          1632
+        ],
+        [
+          1071,
+          1632
+        ],
+        [
+          1071,
+          1713
+        ],
+        [
+          553,
+          1713
+        ]
+      ],
+      "box_xyxy": [
+        553,
+        1464,
+        1071,
+        1545
+      ],
+      "text": "此字不書紙",
+      "confidence": 0.9964
+    },
+    {
+      "line_id": "0304_han_006",
+      "bbox": [
+        [
+          552,
+          1713
+        ],
+        [
+          1068,
+          1713
+        ],
+        [
+          1068,
+          1795
+        ],
+        [
+          552,
+          1795
+        ]
+      ],
+      "bbox_original": [
+        [
+          552,
+          1881
+        ],
+        [
+          1068,
+          1881
+        ],
+        [
+          1068,
+          1963
+        ],
+        [
+          552,
+          1963
+        ]
+      ],
+      "box_xyxy": [
+        552,
+        1713,
+        1068,
+        1795
+      ],
+      "text": "書向秋葉上",
+      "confidence": 0.9986
+    },
+    {
+      "line_id": "0304_han_007",
+      "bbox": [
+        [
+          548,
+          1966
+        ],
+        [
+          1063,
+          1966
+        ],
+        [
+          1063,
+          2041
+        ],
+        [
+          548,
+          2041
+        ]
+      ],
+      "bbox_original": [
+        [
+          548,
+          2134
+        ],
+        [
+          1063,
+          2134
+        ],
+        [
+          1063,
+          2209
+        ],
+        [
+          548,
+          2209
+        ]
+      ],
+      "box_xyxy": [
+        548,
+        1966,
+        1063,
+        2041
+      ],
+      "text": "願隨秋風起",
+      "confidence": 0.9992
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "拭翠飲雙蛾",
+      "為鬱心中事",
+      "匿管下庭除",
+      "書就相思字",
+      "此字不書石",
+      "此字不書紙",
+      "書向秋葉上",
+      "願隨秋風起"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "拭翠飲雙蛾",
+        "phien_am": "Thức thúy, liêm song nga,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "為鬱心中事",
+        "phien_am": "Vị uất tâm trung sự,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "匿管下庭除",
+        "phien_am": "Nịch quản hạ đình trừ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "書就相思字",
+        "phien_am": "Thư tựu tương-tư tự.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "此字不書石",
+        "phien_am": "Thử tự bãt thư thạch,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "此字不書紙",
+        "phien_am": "Thử tự bãt thư chỉ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "書向秋葉上",
+        "phien_am": "Thư hướng thu-diệp thượng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "願隨秋風起",
+        "phien_am": "Nguyện tùy thu phong khởi",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "page_id": "0449",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 449,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 522,
+    "footnote_separator_y_original": 681,
+    "effective_width": 1558,
+    "effective_height": 522
+  },
+  "items": [
+    {
+      "line_id": "0449_viet_000",
+      "bbox": [
+        [
+          102,
+          0
+        ],
+        [
+          1444,
+          0
+        ],
+        [
+          1444,
+          44
+        ],
+        [
+          102,
+          40
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          159
+        ],
+        [
+          1444,
+          159
+        ],
+        [
+          1444,
+          203
+        ],
+        [
+          102,
+          199
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        0,
+        1444,
+        44
+      ],
+      "text": "Am vận của Chu Đức Thanh\", gốc ở sách lừ nguyên của Trương",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0449_viet_001",
+      "bbox": [
+        [
+          102,
+          40
+        ],
+        [
+          1447,
+          43
+        ],
+        [
+          1447,
+          104
+        ],
+        [
+          102,
+          101
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          199
+        ],
+        [
+          1447,
+          202
+        ],
+        [
+          1447,
+          263
+        ],
+        [
+          102,
+          260
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        40,
+        1447,
+        104
+      ],
+      "text": "Thúc Hạ? Chú từ phổ cậy ở Khương Quỳ\", sáng yếu chỉ nhờ vào",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0449_viet_002",
+      "bbox": [
+        [
+          104,
+          100
+        ],
+        [
+          1445,
+          106
+        ],
+        [
+          1445,
+          162
+        ],
+        [
+          103,
+          156
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          259
+        ],
+        [
+          1445,
+          265
+        ],
+        [
+          1445,
+          321
+        ],
+        [
+          103,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        100,
+        1445,
+        162
+      ],
+      "text": "Lục Phu? Trước do Thảo Đường biến tập?, sau thì Trúc Tra chép",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0449_viet_003",
+      "bbox": [
+        [
+          101,
+          156
+        ],
+        [
+          1447,
+          160
+        ],
+        [
+          1447,
+          222
+        ],
+        [
+          101,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          315
+        ],
+        [
+          1447,
+          319
+        ],
+        [
+          1447,
+          381
+        ],
+        [
+          101,
+          377
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        156,
+        1447,
+        222
+      ],
+      "text": "sao? ngoài ra còn, mấy trăm nhà ngữ nghiệp? thời tống",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0449_viet_004",
+      "bbox": [
+        [
+          102,
+          220
+        ],
+        [
+          1446,
+          222
+        ],
+        [
+          1446,
+          277
+        ],
+        [
+          102,
+          275
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          379
+        ],
+        [
+          1446,
+          381
+        ],
+        [
+          1446,
+          436
+        ],
+        [
+          102,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        220,
+        1446,
+        277
+      ],
+      "text": "Nguyên, vài chục pho Tuy biên? thời minh - Thanh, không năm",
+      "confidence": 0.9085
+    },
+    {
+      "line_id": "0449_viet_005",
+      "bbox": [
+        [
+          100,
+          278
+        ],
+        [
+          1446,
+          279
+        ],
+        [
+          1446,
+          337
+        ],
+        [
+          100,
+          336
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          437
+        ],
+        [
+          1446,
+          438
+        ],
+        [
+          1446,
+          496
+        ],
+        [
+          100,
+          495
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        278,
+        1446,
+        337
+      ],
+      "text": "nào tôi không sưu tập, ngày ngày ngâm nga, tuy kĩ nữ hà Gian",
+      "confidence": 0.9155
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Am vận của Chu Đức Thanh\", gốc ở sách lừ nguyên của Trương",
+      "Thúc Hạ? Chú từ phổ cậy ở Khương Quỳ\", sáng yếu chỉ nhờ vào",
+      "Lục Phu? Trước do Thảo Đường biến tập?, sau thì Trúc Tra chép",
+      "sao? ngoài ra còn, mấy trăm nhà ngữ nghiệp? thời tống",
+      "Nguyên, vài chục pho Tuy biên? thời minh - Thanh, không năm",
+      "nào tôi không sưu tập, ngày ngày ngâm nga, tuy kĩ nữ hà Gian"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

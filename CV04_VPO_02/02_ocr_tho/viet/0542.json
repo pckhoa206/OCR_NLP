@@ -1,0 +1,1132 @@
+{
+  "page_id": "0542",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 542,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1442,
+    "footnote_separator_y_original": 1601,
+    "effective_width": 1558,
+    "effective_height": 1442
+  },
+  "items": [
+    {
+      "line_id": "0542_viet_000",
+      "bbox": [
+        [
+          96,
+          0
+        ],
+        [
+          1435,
+          0
+        ],
+        [
+          1435,
+          50
+        ],
+        [
+          96,
+          51
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          159
+        ],
+        [
+          1435,
+          159
+        ],
+        [
+          1435,
+          209
+        ],
+        [
+          96,
+          210
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        0,
+        1435,
+        51
+      ],
+      "text": "cho là các kẻ sĩ gian tà hoặc có người giỏi thơ, mà rôi lại tôi mắt",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0542_viet_001",
+      "bbox": [
+        [
+          97,
+          57
+        ],
+        [
+          1433,
+          56
+        ],
+        [
+          1433,
+          107
+        ],
+        [
+          97,
+          108
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          216
+        ],
+        [
+          1433,
+          215
+        ],
+        [
+          1433,
+          266
+        ],
+        [
+          97,
+          267
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        56,
+        1433,
+        108
+      ],
+      "text": "vào thanh sắc, duyên tình, phù hoa là vì vậy. Đến như các văn học",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0542_viet_002",
+      "bbox": [
+        [
+          96,
+          113
+        ],
+        [
+          1435,
+          111
+        ],
+        [
+          1435,
+          168
+        ],
+        [
+          96,
+          170
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          272
+        ],
+        [
+          1435,
+          270
+        ],
+        [
+          1435,
+          327
+        ],
+        [
+          96,
+          329
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        111,
+        1435,
+        170
+      ],
+      "text": "gia thời cổ, đều chê những người ấy. Liễu tuy đại tiết không được",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0542_viet_003",
+      "bbox": [
+        [
+          96,
+          173
+        ],
+        [
+          1432,
+          170
+        ],
+        [
+          1432,
+          224
+        ],
+        [
+          96,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          332
+        ],
+        [
+          1432,
+          329
+        ],
+        [
+          1432,
+          383
+        ],
+        [
+          96,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        170,
+        1432,
+        227
+      ],
+      "text": "chính đáng lắm nhưng hành vi bình thường không có ti vết gì.",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0542_viet_004",
+      "bbox": [
+        [
+          95,
+          227
+        ],
+        [
+          1447,
+          229
+        ],
+        [
+          1447,
+          286
+        ],
+        [
+          95,
+          284
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          386
+        ],
+        [
+          1447,
+          388
+        ],
+        [
+          1447,
+          445
+        ],
+        [
+          95,
+          443
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        227,
+        1447,
+        286
+      ],
+      "text": "Đến như các thầy Âu (Dương Tu], Tô [Thức], Vương [An Thạch],",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0542_viet_005",
+      "bbox": [
+        [
+          96,
+          287
+        ],
+        [
+          1440,
+          282
+        ],
+        [
+          1440,
+          343
+        ],
+        [
+          97,
+          349
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          446
+        ],
+        [
+          1440,
+          441
+        ],
+        [
+          1440,
+          502
+        ],
+        [
+          97,
+          508
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        282,
+        1440,
+        349
+      ],
+      "text": "Tăng [Cùng], Hàn [Dũ], đều là những người đạo học nông sâu",
+      "confidence": 0.8887
+    },
+    {
+      "line_id": "0542_viet_006",
+      "bbox": [
+        [
+          97,
+          349
+        ],
+        [
+          1436,
+          345
+        ],
+        [
+          1436,
+          400
+        ],
+        [
+          97,
+          403
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          508
+        ],
+        [
+          1436,
+          504
+        ],
+        [
+          1436,
+          559
+        ],
+        [
+          97,
+          562
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        345,
+        1436,
+        403
+      ],
+      "text": "cao thấp khác nhau. Xét lẽ, văn để chở đạo, nếu không có đức",
+      "confidence": 0.8899
+    },
+    {
+      "line_id": "0542_viet_007",
+      "bbox": [
+        [
+          96,
+          406
+        ],
+        [
+          1437,
+          405
+        ],
+        [
+          1437,
+          462
+        ],
+        [
+          96,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          565
+        ],
+        [
+          1437,
+          564
+        ],
+        [
+          1437,
+          621
+        ],
+        [
+          96,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        405,
+        1437,
+        463
+      ],
+      "text": "%thành? ở trong, không thể biểu hiện ra bên ngoài, Cho nên Vọng",
+      "confidence": 0.8919
+    },
+    {
+      "line_id": "0542_viet_008",
+      "bbox": [
+        [
+          95,
+          465
+        ],
+        [
+          1436,
+          463
+        ],
+        [
+          1436,
+          520
+        ],
+        [
+          95,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          624
+        ],
+        [
+          1436,
+          622
+        ],
+        [
+          1436,
+          679
+        ],
+        [
+          95,
+          681
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        463,
+        1436,
+        522
+      ],
+      "text": "Khê không chút để tâm đến thơ, cho rằng có hại cho đạo, huống",
+      "confidence": 0.9282
+    },
+    {
+      "line_id": "0542_viet_009",
+      "bbox": [
+        [
+          99,
+          525
+        ],
+        [
+          441,
+          525
+        ],
+        [
+          441,
+          580
+        ],
+        [
+          99,
+          580
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          684
+        ],
+        [
+          441,
+          684
+        ],
+        [
+          441,
+          739
+        ],
+        [
+          99,
+          739
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        525,
+        441,
+        580
+      ],
+      "text": "chi là thể từ vậy[",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0542_viet_010",
+      "bbox": [
+        [
+          177,
+          593
+        ],
+        [
+          1439,
+          586
+        ],
+        [
+          1439,
+          643
+        ],
+        [
+          177,
+          650
+        ]
+      ],
+      "bbox_original": [
+        [
+          177,
+          752
+        ],
+        [
+          1439,
+          745
+        ],
+        [
+          1439,
+          802
+        ],
+        [
+          177,
+          809
+        ]
+      ],
+      "box_xyxy": [
+        177,
+        586,
+        1439,
+        650
+      ],
+      "text": "Nhưng vọng khê cũng quá câu nệ rồi. Tạ thì cho là thơ và",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0542_viet_011",
+      "bbox": [
+        [
+          98,
+          653
+        ],
+        [
+          1433,
+          650
+        ],
+        [
+          1433,
+          704
+        ],
+        [
+          98,
+          707
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          812
+        ],
+        [
+          1433,
+          809
+        ],
+        [
+          1433,
+          863
+        ],
+        [
+          98,
+          866
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        650,
+        1433,
+        707
+      ],
+      "text": "văn không xa nhau là mấy, mà từ thì không nhất thiết không làm",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0542_viet_012",
+      "bbox": [
+        [
+          98,
+          710
+        ],
+        [
+          1434,
+          710
+        ],
+        [
+          1434,
+          764
+        ],
+        [
+          98,
+          764
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          869
+        ],
+        [
+          1434,
+          869
+        ],
+        [
+          1434,
+          923
+        ],
+        [
+          98,
+          923
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        710,
+        1434,
+        764
+      ],
+      "text": "Đại để thơ thì học giả sau khi học kinh sử, ngẫu hứng mà dùng nó",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0542_viet_013",
+      "bbox": [
+        [
+          98,
+          766
+        ],
+        [
+          1437,
+          765
+        ],
+        [
+          1437,
+          823
+        ],
+        [
+          98,
+          824
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          925
+        ],
+        [
+          1437,
+          924
+        ],
+        [
+          1437,
+          982
+        ],
+        [
+          98,
+          983
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        765,
+        1437,
+        824
+      ],
+      "text": "để tiêu khiển, tự có thể đào luyện tính tinh, bài hay nhất được",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0542_viet_014",
+      "bbox": [
+        [
+          97,
+          825
+        ],
+        [
+          1437,
+          825
+        ],
+        [
+          1437,
+          885
+        ],
+        [
+          97,
+          885
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          984
+        ],
+        [
+          1437,
+          984
+        ],
+        [
+          1437,
+          1044
+        ],
+        [
+          97,
+          1044
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        825,
+        1437,
+        885
+      ],
+      "text": "truyền về sau, cũng đáng nêu khen. Thể từ thì có thể làm, cũng có",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0542_viet_015",
+      "bbox": [
+        [
+          99,
+          887
+        ],
+        [
+          1436,
+          887
+        ],
+        [
+          1436,
+          941
+        ],
+        [
+          99,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          99,
+          1046
+        ],
+        [
+          1436,
+          1046
+        ],
+        [
+          1436,
+          1100
+        ],
+        [
+          99,
+          1100
+        ]
+      ],
+      "box_xyxy": [
+        99,
+        887,
+        1436,
+        941
+      ],
+      "text": "thể không làm. Lại như người phương Bắc nơi xóm ngõ thường",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0542_viet_016",
+      "bbox": [
+        [
+          95,
+          946
+        ],
+        [
+          1436,
+          941
+        ],
+        [
+          1436,
+          998
+        ],
+        [
+          96,
+          1003
+        ]
+      ],
+      "bbox_original": [
+        [
+          95,
+          1105
+        ],
+        [
+          1436,
+          1100
+        ],
+        [
+          1436,
+          1157
+        ],
+        [
+          96,
+          1162
+        ]
+      ],
+      "box_xyxy": [
+        95,
+        941,
+        1436,
+        1003
+      ],
+      "text": "hay hát từ, âm đã thuần thục, khi có hứng đến, tình cờ cất bút,",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0542_viet_017",
+      "bbox": [
+        [
+          98,
+          1005
+        ],
+        [
+          1435,
+          1000
+        ],
+        [
+          1435,
+          1055
+        ],
+        [
+          99,
+          1061
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1164
+        ],
+        [
+          1435,
+          1159
+        ],
+        [
+          1435,
+          1214
+        ],
+        [
+          99,
+          1220
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        1000,
+        1435,
+        1061
+      ],
+      "text": "cũng không phí sức lắm. Nay ta hãy cứ án theo thanh bằng trắc",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0542_viet_018",
+      "bbox": [
+        [
+          98,
+          1062
+        ],
+        [
+          1437,
+          1058
+        ],
+        [
+          1437,
+          1117
+        ],
+        [
+          98,
+          1120
+        ]
+      ],
+      "bbox_original": [
+        [
+          98,
+          1221
+        ],
+        [
+          1437,
+          1217
+        ],
+        [
+          1437,
+          1276
+        ],
+        [
+          98,
+          1279
+        ]
+      ],
+      "box_xyxy": [
+        98,
+        1058,
+        1437,
+        1120
+      ],
+      "text": "của từng chữ, sự dài ngăn của các câu mà điền, đâu tốn mấy công",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0542_viet_019",
+      "bbox": [
+        [
+          96,
+          1123
+        ],
+        [
+          1438,
+          1116
+        ],
+        [
+          1438,
+          1174
+        ],
+        [
+          97,
+          1180
+        ]
+      ],
+      "bbox_original": [
+        [
+          96,
+          1282
+        ],
+        [
+          1438,
+          1275
+        ],
+        [
+          1438,
+          1333
+        ],
+        [
+          97,
+          1339
+        ]
+      ],
+      "box_xyxy": [
+        96,
+        1116,
+        1438,
+        1180
+      ],
+      "text": "phu vậy. Còn ngôn từ của nó lại phần nhiều gửi gắm ở nơi khuế",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0542_viet_020",
+      "bbox": [
+        [
+          101,
+          1184
+        ],
+        [
+          1069,
+          1184
+        ],
+        [
+          1069,
+          1235
+        ],
+        [
+          101,
+          1235
+        ]
+      ],
+      "bbox_original": [
+        [
+          101,
+          1343
+        ],
+        [
+          1069,
+          1343
+        ],
+        [
+          1069,
+          1394
+        ],
+        [
+          101,
+          1394
+        ]
+      ],
+      "box_xyxy": [
+        101,
+        1184,
+        1069,
+        1235
+      ],
+      "text": "các, cho nên thực có lời như có hại cho đạo vậy.",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0542_viet_021",
+      "bbox": [
+        [
+          182,
+          1246
+        ],
+        [
+          1436,
+          1246
+        ],
+        [
+          1436,
+          1303
+        ],
+        [
+          182,
+          1303
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1405
+        ],
+        [
+          1436,
+          1405
+        ],
+        [
+          1436,
+          1462
+        ],
+        [
+          182,
+          1462
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1246,
+        1436,
+        1303
+      ],
+      "text": "Tôi ngẫu nhiên vào lúc thân cựu gặp nhau, mở tiệc, ca hát,",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0542_viet_022",
+      "bbox": [
+        [
+          97,
+          1305
+        ],
+        [
+          1438,
+          1299
+        ],
+        [
+          1438,
+          1363
+        ],
+        [
+          98,
+          1369
+        ]
+      ],
+      "bbox_original": [
+        [
+          97,
+          1464
+        ],
+        [
+          1438,
+          1458
+        ],
+        [
+          1438,
+          1522
+        ],
+        [
+          98,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        97,
+        1299,
+        1438,
+        1369
+      ],
+      "text": "uống rượu làm thơ, cùng nhau chia để, lại trái với ý của mình?,",
+      "confidence": 0.9281
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "cho là các kẻ sĩ gian tà hoặc có người giỏi thơ, mà rôi lại tôi mắt",
+      "vào thanh sắc, duyên tình, phù hoa là vì vậy. Đến như các văn học",
+      "gia thời cổ, đều chê những người ấy. Liễu tuy đại tiết không được",
+      "chính đáng lắm nhưng hành vi bình thường không có ti vết gì.",
+      "Đến như các thầy Âu (Dương Tu], Tô [Thức], Vương [An Thạch],",
+      "Tăng [Cùng], Hàn [Dũ], đều là những người đạo học nông sâu",
+      "cao thấp khác nhau. Xét lẽ, văn để chở đạo, nếu không có đức",
+      "%thành? ở trong, không thể biểu hiện ra bên ngoài, Cho nên Vọng",
+      "Khê không chút để tâm đến thơ, cho rằng có hại cho đạo, huống",
+      "chi là thể từ vậy[",
+      "Nhưng vọng khê cũng quá câu nệ rồi. Tạ thì cho là thơ và",
+      "văn không xa nhau là mấy, mà từ thì không nhất thiết không làm",
+      "Đại để thơ thì học giả sau khi học kinh sử, ngẫu hứng mà dùng nó",
+      "để tiêu khiển, tự có thể đào luyện tính tinh, bài hay nhất được",
+      "truyền về sau, cũng đáng nêu khen. Thể từ thì có thể làm, cũng có",
+      "thể không làm. Lại như người phương Bắc nơi xóm ngõ thường",
+      "hay hát từ, âm đã thuần thục, khi có hứng đến, tình cờ cất bút,",
+      "cũng không phí sức lắm. Nay ta hãy cứ án theo thanh bằng trắc",
+      "của từng chữ, sự dài ngăn của các câu mà điền, đâu tốn mấy công",
+      "phu vậy. Còn ngôn từ của nó lại phần nhiều gửi gắm ở nơi khuế",
+      "các, cho nên thực có lời như có hại cho đạo vậy.",
+      "Tôi ngẫu nhiên vào lúc thân cựu gặp nhau, mở tiệc, ca hát,",
+      "uống rượu làm thơ, cùng nhau chia để, lại trái với ý của mình?,"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

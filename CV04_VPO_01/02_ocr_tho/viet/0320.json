@@ -1,0 +1,941 @@
+{
+  "page_id": "0320",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 320,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0320_viet_000",
+      "bbox": [
+        [
+          310,
+          163
+        ],
+        [
+          1196,
+          167
+        ],
+        [
+          1196,
+          231
+        ],
+        [
+          309,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          331
+        ],
+        [
+          1196,
+          335
+        ],
+        [
+          1196,
+          399
+        ],
+        [
+          309,
+          395
+        ]
+      ],
+      "box_xyxy": [
+        309,
+        163,
+        1196,
+        231
+      ],
+      "text": "Nhan xú thần khô hình lược tiều",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0320_viet_001",
+      "bbox": [
+        [
+          305,
+          232
+        ],
+        [
+          942,
+          234
+        ],
+        [
+          942,
+          295
+        ],
+        [
+          304,
+          293
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          400
+        ],
+        [
+          942,
+          402
+        ],
+        [
+          942,
+          463
+        ],
+        [
+          304,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        304,
+        232,
+        942,
+        295
+      ],
+      "text": "Mặt võ thần khô vẻ héo rầu",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0320_viet_002",
+      "bbox": [
+        [
+          310,
+          402
+        ],
+        [
+          1075,
+          406
+        ],
+        [
+          1075,
+          469
+        ],
+        [
+          309,
+          466
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          570
+        ],
+        [
+          1075,
+          574
+        ],
+        [
+          1075,
+          637
+        ],
+        [
+          309,
+          634
+        ]
+      ],
+      "box_xyxy": [
+        309,
+        402,
+        1075,
+        469
+      ],
+      "text": "Lang tạ tàn my bãt sức trang",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0320_viet_003",
+      "bbox": [
+        [
+          307,
+          463
+        ],
+        [
+          1056,
+          471
+        ],
+        [
+          1056,
+          539
+        ],
+        [
+          306,
+          532
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          631
+        ],
+        [
+          1056,
+          639
+        ],
+        [
+          1056,
+          707
+        ],
+        [
+          306,
+          700
+        ]
+      ],
+      "box_xyxy": [
+        306,
+        463,
+        1056,
+        539
+      ],
+      "text": "Ủ rũ duyên tàn mày điểm nhạt",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0320_viet_004",
+      "bbox": [
+        [
+          310,
+          647
+        ],
+        [
+          1443,
+          649
+        ],
+        [
+          1443,
+          715
+        ],
+        [
+          310,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          815
+        ],
+        [
+          1443,
+          817
+        ],
+        [
+          1443,
+          883
+        ],
+        [
+          310,
+          881
+        ]
+      ],
+      "box_xyxy": [
+        310,
+        647,
+        1443,
+        715
+      ],
+      "text": "Thùy tri tiện thị đương niên thành trung đệ",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0320_viet_005",
+      "bbox": [
+        [
+          1176,
+          719
+        ],
+        [
+          1444,
+          719
+        ],
+        [
+          1444,
+          782
+        ],
+        [
+          1176,
+          782
+        ]
+      ],
+      "bbox_original": [
+        [
+          1176,
+          887
+        ],
+        [
+          1444,
+          887
+        ],
+        [
+          1444,
+          950
+        ],
+        [
+          1176,
+          950
+        ]
+      ],
+      "box_xyxy": [
+        1176,
+        719,
+        1444,
+        782
+      ],
+      "text": "ĩ nhãt điệu",
+      "confidence": 0.8116
+    },
+    {
+      "line_id": "0320_viet_006",
+      "bbox": [
+        [
+          305,
+          785
+        ],
+        [
+          1444,
+          785
+        ],
+        [
+          1444,
+          849
+        ],
+        [
+          305,
+          849
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          953
+        ],
+        [
+          1444,
+          953
+        ],
+        [
+          1444,
+          1017
+        ],
+        [
+          305,
+          1017
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        785,
+        1444,
+        849
+      ],
+      "text": "Ai biết trong thành thủa trước đàn hay chiêm",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0320_viet_007",
+      "bbox": [
+        [
+          1232,
+          854
+        ],
+        [
+          1443,
+          854
+        ],
+        [
+          1443,
+          922
+        ],
+        [
+          1232,
+          922
+        ]
+      ],
+      "bbox_original": [
+        [
+          1232,
+          1022
+        ],
+        [
+          1443,
+          1022
+        ],
+        [
+          1443,
+          1090
+        ],
+        [
+          1232,
+          1090
+        ]
+      ],
+      "box_xyxy": [
+        1232,
+        854,
+        1443,
+        922
+      ],
+      "text": "[giải đầu",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0320_viet_008",
+      "bbox": [
+        [
+          312,
+          1022
+        ],
+        [
+          1145,
+          1024
+        ],
+        [
+          1145,
+          1086
+        ],
+        [
+          312,
+          1084
+        ]
+      ],
+      "bbox_original": [
+        [
+          312,
+          1190
+        ],
+        [
+          1145,
+          1192
+        ],
+        [
+          1145,
+          1254
+        ],
+        [
+          312,
+          1252
+        ]
+      ],
+      "box_xyxy": [
+        312,
+        1022,
+        1145,
+        1086
+      ],
+      "text": "Cựu khúc tân thanh ám lệ thùy",
+      "confidence": 0.8874
+    },
+    {
+      "line_id": "0320_viet_009",
+      "bbox": [
+        [
+          307,
+          1092
+        ],
+        [
+          1095,
+          1092
+        ],
+        [
+          1095,
+          1153
+        ],
+        [
+          307,
+          1153
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          1260
+        ],
+        [
+          1095,
+          1260
+        ],
+        [
+          1095,
+          1321
+        ],
+        [
+          307,
+          1321
+        ]
+      ],
+      "box_xyxy": [
+        307,
+        1092,
+        1095,
+        1153
+      ],
+      "text": "Khúc xira giọng mới gieo thẩm lệ",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0320_viet_010",
+      "bbox": [
+        [
+          313,
+          1268
+        ],
+        [
+          1205,
+          1268
+        ],
+        [
+          1205,
+          1332
+        ],
+        [
+          313,
+          1332
+        ]
+      ],
+      "bbox_original": [
+        [
+          313,
+          1436
+        ],
+        [
+          1205,
+          1436
+        ],
+        [
+          1205,
+          1500
+        ],
+        [
+          313,
+          1500
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        1268,
+        1205,
+        1332
+      ],
+      "text": "Nhĩ trung tĩnh thính tâm trung bi",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0320_viet_011",
+      "bbox": [
+        [
+          308,
+          1335
+        ],
+        [
+          924,
+          1338
+        ],
+        [
+          924,
+          1400
+        ],
+        [
+          307,
+          1397
+        ]
+      ],
+      "bbox_original": [
+        [
+          308,
+          1503
+        ],
+        [
+          924,
+          1506
+        ],
+        [
+          924,
+          1568
+        ],
+        [
+          307,
+          1565
+        ]
+      ],
+      "box_xyxy": [
+        307,
+        1335,
+        924,
+        1400
+      ],
+      "text": "Réo rắt bên tai gọi nỗi đau",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0320_viet_012",
+      "bbox": [
+        [
+          314,
+          1513
+        ],
+        [
+          1393,
+          1517
+        ],
+        [
+          1393,
+          1580
+        ],
+        [
+          313,
+          1576
+        ]
+      ],
+      "bbox_original": [
+        [
+          314,
+          1681
+        ],
+        [
+          1393,
+          1685
+        ],
+        [
+          1393,
+          1748
+        ],
+        [
+          313,
+          1744
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        1513,
+        1393,
+        1580
+      ],
+      "text": "Mãnh nhiên ức khởi nhị thập niên tiền sự",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0320_viet_013",
+      "bbox": [
+        [
+          307,
+          1582
+        ],
+        [
+          1330,
+          1584
+        ],
+        [
+          1330,
+          1647
+        ],
+        [
+          307,
+          1645
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          1750
+        ],
+        [
+          1330,
+          1752
+        ],
+        [
+          1330,
+          1815
+        ],
+        [
+          307,
+          1813
+        ]
+      ],
+      "box_xyxy": [
+        307,
+        1582,
+        1330,
+        1647
+      ],
+      "text": "Hoảng hồt nhớ lại hai mươi năm chuyện cũ",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0320_viet_014",
+      "bbox": [
+        [
+          317,
+          1761
+        ],
+        [
+          1143,
+          1761
+        ],
+        [
+          1143,
+          1824
+        ],
+        [
+          317,
+          1824
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          1929
+        ],
+        [
+          1143,
+          1929
+        ],
+        [
+          1143,
+          1992
+        ],
+        [
+          317,
+          1992
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1761,
+        1143,
+        1824
+      ],
+      "text": "Giám-Hồ hồ biên tầng kiên chi",
+      "confidence": 0.8608
+    },
+    {
+      "line_id": "0320_viet_015",
+      "bbox": [
+        [
+          306,
+          1825
+        ],
+        [
+          993,
+          1830
+        ],
+        [
+          992,
+          1897
+        ],
+        [
+          305,
+          1893
+        ]
+      ],
+      "bbox_original": [
+        [
+          306,
+          1993
+        ],
+        [
+          993,
+          1998
+        ],
+        [
+          992,
+          2065
+        ],
+        [
+          305,
+          2061
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        1825,
+        993,
+        1897
+      ],
+      "text": "Hồ Giám bên hồ đã gặp nhau",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0320_viet_016",
+      "bbox": [
+        [
+          312,
+          2000
+        ],
+        [
+          1155,
+          1998
+        ],
+        [
+          1155,
+          2063
+        ],
+        [
+          312,
+          2065
+        ]
+      ],
+      "bbox_original": [
+        [
+          312,
+          2168
+        ],
+        [
+          1155,
+          2166
+        ],
+        [
+          1155,
+          2231
+        ],
+        [
+          312,
+          2233
+        ]
+      ],
+      "box_xyxy": [
+        312,
+        1998,
+        1155,
+        2065
+      ],
+      "text": "Thành quách suy di nhân sự cải",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0320_viet_017",
+      "bbox": [
+        [
+          305,
+          2066
+        ],
+        [
+          1209,
+          2064
+        ],
+        [
+          1209,
+          2131
+        ],
+        [
+          306,
+          2133
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          2234
+        ],
+        [
+          1209,
+          2232
+        ],
+        [
+          1209,
+          2299
+        ],
+        [
+          306,
+          2301
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        2064,
+        1209,
+        2133
+      ],
+      "text": "Thành quách đổi thay người cũng đổi",
+      "confidence": 0.9267
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Nhan xú thần khô hình lược tiều",
+      "Lang tạ tàn my bãt sức trang",
+      "Thùy tri tiện thị đương niên thành trung đệ",
+      "Cựu khúc tân thanh ám lệ thùy",
+      "Nhĩ trung tĩnh thính tâm trung bi",
+      "Mãnh nhiên ức khởi nhị thập niên tiền sự",
+      "Giám-Hồ hồ biên tầng kiên chi",
+      "Thành quách suy di nhân sự cải"
+    ],
+    "dich_nghia_lines": [
+      "Mặt võ thần khô vẻ héo rầu",
+      "Ủ rũ duyên tàn mày điểm nhạt",
+      "ĩ nhãt điệu Ai biết trong thành thủa trước đàn hay chiêm [giải đầu",
+      "Khúc xira giọng mới gieo thẩm lệ",
+      "Réo rắt bên tai gọi nỗi đau",
+      "Hoảng hồt nhớ lại hai mươi năm chuyện cũ",
+      "Hồ Giám bên hồ đã gặp nhau",
+      "Thành quách đổi thay người cũng đổi"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "顏醜神枯形畧小",
+        "phien_am": "Nhan xú thần khô hình lược tiều",
+        "dich_nghia_gloss": "Mặt võ thần khô vẻ héo rầu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "狼藉殘眉不飾粧",
+        "phien_am": "Lang tạ tàn my bãt sức trang",
+        "dich_nghia_gloss": "Ủ rũ duyên tàn mày điểm nhạt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "誰知便是當年城中第一調",
+        "phien_am": "Thùy tri tiện thị đương niên thành trung đệ",
+        "dich_nghia_gloss": "ĩ nhãt điệu Ai biết trong thành thủa trước đàn hay chiêm [giải đầu"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "舊曲新聲暗淚垂",
+        "phien_am": "Cựu khúc tân thanh ám lệ thùy",
+        "dich_nghia_gloss": "Khúc xira giọng mới gieo thẩm lệ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "耳中靜聽心中悲",
+        "phien_am": "Nhĩ trung tĩnh thính tâm trung bi",
+        "dich_nghia_gloss": "Réo rắt bên tai gọi nỗi đau"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "猛然憶起二十年前事",
+        "phien_am": "Mãnh nhiên ức khởi nhị thập niên tiền sự",
+        "dich_nghia_gloss": "Hoảng hồt nhớ lại hai mươi năm chuyện cũ"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "監湖湖邊曾見之",
+        "phien_am": "Giám-Hồ hồ biên tầng kiên chi",
+        "dich_nghia_gloss": "Hồ Giám bên hồ đã gặp nhau"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "城郭推移人事改",
+        "phien_am": "Thành quách suy di nhân sự cải",
+        "dich_nghia_gloss": "Thành quách đổi thay người cũng đổi"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

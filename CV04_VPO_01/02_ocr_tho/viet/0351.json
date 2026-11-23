@@ -1,0 +1,467 @@
+{
+  "page_id": "0351",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 351,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0351_viet_000",
+      "bbox": [
+        [
+          206,
+          9
+        ],
+        [
+          868,
+          7
+        ],
+        [
+          868,
+          61
+        ],
+        [
+          206,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          177
+        ],
+        [
+          868,
+          175
+        ],
+        [
+          868,
+          229
+        ],
+        [
+          206,
+          231
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        7,
+        868,
+        63
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0351_viet_001",
+      "bbox": [
+        [
+          1357,
+          12
+        ],
+        [
+          1445,
+          12
+        ],
+        [
+          1445,
+          63
+        ],
+        [
+          1357,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          1357,
+          180
+        ],
+        [
+          1445,
+          180
+        ],
+        [
+          1445,
+          231
+        ],
+        [
+          1357,
+          231
+        ]
+      ],
+      "box_xyxy": [
+        1357,
+        12,
+        1445,
+        63
+      ],
+      "text": "345",
+      "confidence": 0.8341
+    },
+    {
+      "line_id": "0351_viet_002",
+      "bbox": [
+        [
+          294,
+          309
+        ],
+        [
+          1199,
+          309
+        ],
+        [
+          1199,
+          369
+        ],
+        [
+          294,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          477
+        ],
+        [
+          1199,
+          477
+        ],
+        [
+          1199,
+          537
+        ],
+        [
+          294,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        309,
+        1199,
+        369
+      ],
+      "text": "Thương thay có ngày nhìn sáu khắc",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0351_viet_003",
+      "bbox": [
+        [
+          292,
+          587
+        ],
+        [
+          1202,
+          591
+        ],
+        [
+          1202,
+          655
+        ],
+        [
+          291,
+          651
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          755
+        ],
+        [
+          1202,
+          759
+        ],
+        [
+          1202,
+          823
+        ],
+        [
+          291,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        587,
+        1202,
+        655
+      ],
+      "text": "Ngày gần tàn chẳng gặp thư sang,",
+      "confidence": 0.906
+    },
+    {
+      "line_id": "0351_viet_004",
+      "bbox": [
+        [
+          400,
+          866
+        ],
+        [
+          1237,
+          870
+        ],
+        [
+          1236,
+          931
+        ],
+        [
+          400,
+          927
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          1034
+        ],
+        [
+          1237,
+          1038
+        ],
+        [
+          1236,
+          1099
+        ],
+        [
+          400,
+          1095
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        866,
+        1237,
+        931
+      ],
+      "text": "Xuõng thềm, ra đứng bên đàng",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0351_viet_005",
+      "bbox": [
+        [
+          242,
+          1146
+        ],
+        [
+          1125,
+          1152
+        ],
+        [
+          1124,
+          1213
+        ],
+        [
+          242,
+          1207
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1314
+        ],
+        [
+          1125,
+          1320
+        ],
+        [
+          1124,
+          1381
+        ],
+        [
+          242,
+          1375
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1146,
+        1125,
+        1213
+      ],
+      "text": "Mày sầu lá liễu hàng hàng khóc ve.",
+      "confidence": 0.9203
+    },
+    {
+      "line_id": "0351_viet_006",
+      "bbox": [
+        [
+          296,
+          1428
+        ],
+        [
+          1175,
+          1432
+        ],
+        [
+          1175,
+          1492
+        ],
+        [
+          295,
+          1488
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          1596
+        ],
+        [
+          1175,
+          1600
+        ],
+        [
+          1175,
+          1660
+        ],
+        [
+          295,
+          1656
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1428,
+        1175,
+        1492
+      ],
+      "text": "Trông chảng thãy, lại về đứng đợi",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0351_viet_007",
+      "bbox": [
+        [
+          292,
+          1707
+        ],
+        [
+          1128,
+          1711
+        ],
+        [
+          1127,
+          1768
+        ],
+        [
+          291,
+          1764
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1875
+        ],
+        [
+          1128,
+          1879
+        ],
+        [
+          1127,
+          1936
+        ],
+        [
+          291,
+          1932
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        1707,
+        1128,
+        1768
+      ],
+      "text": "Đoái cầm hiện toan gợi ngón dàn",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0351_viet_008",
+      "bbox": [
+        [
+          400,
+          1986
+        ],
+        [
+          1169,
+          1989
+        ],
+        [
+          1169,
+          2049
+        ],
+        [
+          400,
+          2046
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          2154
+        ],
+        [
+          1169,
+          2157
+        ],
+        [
+          1169,
+          2217
+        ],
+        [
+          400,
+          2214
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        1986,
+        1169,
+        2049
+      ],
+      "text": "Bướm đầu trêu-cợt bình lan ?",
+      "confidence": 0.9162
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Thương thay có ngày nhìn sáu khắc",
+      "Ngày gần tàn chẳng gặp thư sang,",
+      "Xuõng thềm, ra đứng bên đàng",
+      "Mày sầu lá liễu hàng hàng khóc ve.",
+      "Trông chảng thãy, lại về đứng đợi",
+      "Đoái cầm hiện toan gợi ngón dàn",
+      "Bướm đầu trêu-cợt bình lan ?"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      339.0,
+      621.0,
+      898.5,
+      1179.5,
+      1460.0,
+      1737.5,
+      2017.5
+    ]
+  }
+}

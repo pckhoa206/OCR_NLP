@@ -1,0 +1,74 @@
+{
+  "page_id": "0459",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 459,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0459_han_000",
+      "bbox": [
+        [
+          203,
+          3
+        ],
+        [
+          416,
+          3
+        ],
+        [
+          416,
+          60
+        ],
+        [
+          203,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          162
+        ],
+        [
+          416,
+          162
+        ],
+        [
+          416,
+          219
+        ],
+        [
+          203,
+          219
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        3,
+        416,
+        60
+      ],
+      "text": "為梅作譜.",
+      "confidence": 0.9869
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "為梅作譜."
+    ],
+    "interlinear_triplets": []
+  }
+}

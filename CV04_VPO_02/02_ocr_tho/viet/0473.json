@@ -1,0 +1,267 @@
+{
+  "page_id": "0473",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 473,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1290,
+    "footnote_separator_y_original": 1449,
+    "effective_width": 1558,
+    "effective_height": 1290
+  },
+  "items": [
+    {
+      "line_id": "0473_viet_000",
+      "bbox": [
+        [
+          182,
+          885
+        ],
+        [
+          406,
+          885
+        ],
+        [
+          406,
+          937
+        ],
+        [
+          182,
+          937
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1044
+        ],
+        [
+          406,
+          1044
+        ],
+        [
+          406,
+          1096
+        ],
+        [
+          182,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        885,
+        406,
+        937
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9215
+    },
+    {
+      "line_id": "0473_viet_001",
+      "bbox": [
+        [
+          180,
+          943
+        ],
+        [
+          1330,
+          940
+        ],
+        [
+          1331,
+          1003
+        ],
+        [
+          180,
+          1006
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1102
+        ],
+        [
+          1330,
+          1099
+        ],
+        [
+          1331,
+          1162
+        ],
+        [
+          180,
+          1165
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        940,
+        1331,
+        1006
+      ],
+      "text": "HỌA' NGỰ CHẾ NIỆM NÔ KIỂU HẠNH THUÝ VÂN",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0473_viet_002",
+      "bbox": [
+        [
+          184,
+          1014
+        ],
+        [
+          521,
+          1014
+        ],
+        [
+          521,
+          1076
+        ],
+        [
+          184,
+          1076
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1173
+        ],
+        [
+          521,
+          1173
+        ],
+        [
+          521,
+          1235
+        ],
+        [
+          184,
+          1235
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1014,
+        521,
+        1076
+      ],
+      "text": "(Niệm Nô Kiều)",
+      "confidence": 0.937
+    },
+    {
+      "line_id": "0473_viet_003",
+      "bbox": [
+        [
+          184,
+          1083
+        ],
+        [
+          554,
+          1083
+        ],
+        [
+          554,
+          1142
+        ],
+        [
+          184,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          1242
+        ],
+        [
+          554,
+          1242
+        ],
+        [
+          554,
+          1301
+        ],
+        [
+          184,
+          1301
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        1083,
+        554,
+        1142
+      ],
+      "text": "Thuý Vân sơn sắc",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0473_viet_004",
+      "bbox": [
+        [
+          182,
+          1150
+        ],
+        [
+          1237,
+          1150
+        ],
+        [
+          1237,
+          1210
+        ],
+        [
+          182,
+          1210
+        ]
+      ],
+      "bbox_original": [
+        [
+          182,
+          1309
+        ],
+        [
+          1237,
+          1309
+        ],
+        [
+          1237,
+          1369
+        ],
+        [
+          182,
+          1369
+        ]
+      ],
+      "box_xyxy": [
+        182,
+        1150,
+        1237,
+        1210
+      ],
+      "text": "Hoàng Bồng Lai?, nhất phong phủ hám xuyên trạch",
+      "confidence": 0.9183
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "HỌA' NGỰ CHẾ NIỆM NÔ KIỂU HẠNH THUÝ VÂN",
+      "(Niệm Nô Kiều)",
+      "Thuý Vân sơn sắc",
+      "Hoàng Bồng Lai?, nhất phong phủ hám xuyên trạch"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

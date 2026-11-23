@@ -1,0 +1,218 @@
+{
+  "page_id": "0462",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 462,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0462_han_000",
+      "bbox": [
+        [
+          242,
+          19
+        ],
+        [
+          461,
+          17
+        ],
+        [
+          461,
+          78
+        ],
+        [
+          243,
+          80
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          178
+        ],
+        [
+          461,
+          176
+        ],
+        [
+          461,
+          237
+        ],
+        [
+          243,
+          239
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        17,
+        461,
+        80
+      ],
+      "text": "和杞為粮.",
+      "confidence": 0.8806
+    },
+    {
+      "line_id": "0462_han_001",
+      "bbox": [
+        [
+          241,
+          91
+        ],
+        [
+          465,
+          88
+        ],
+        [
+          465,
+          155
+        ],
+        [
+          242,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          250
+        ],
+        [
+          465,
+          247
+        ],
+        [
+          465,
+          314
+        ],
+        [
+          242,
+          317
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        88,
+        465,
+        158
+      ],
+      "text": "或餐落英，",
+      "confidence": 0.9989
+    },
+    {
+      "line_id": "0462_han_002",
+      "bbox": [
+        [
+          238,
+          163
+        ],
+        [
+          418,
+          163
+        ],
+        [
+          418,
+          232
+        ],
+        [
+          238,
+          232
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          322
+        ],
+        [
+          418,
+          322
+        ],
+        [
+          418,
+          391
+        ],
+        [
+          238,
+          391
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        163,
+        418,
+        232
+      ],
+      "text": "掇柔葉，",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0462_han_003",
+      "bbox": [
+        [
+          240,
+          235
+        ],
+        [
+          418,
+          235
+        ],
+        [
+          418,
+          307
+        ],
+        [
+          240,
+          307
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          394
+        ],
+        [
+          418,
+          394
+        ],
+        [
+          418,
+          466
+        ],
+        [
+          240,
+          466
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        235,
+        418,
+        307
+      ],
+      "text": "佩柔香.",
+      "confidence": 0.9992
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "和杞為粮.",
+      "或餐落英，",
+      "掇柔葉，",
+      "佩柔香."
+    ],
+    "interlinear_triplets": []
+  }
+}

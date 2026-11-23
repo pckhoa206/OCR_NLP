@@ -1,0 +1,121 @@
+{
+  "page_id": "0676",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 676,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0676_han_000",
+      "bbox": [
+        [
+          242,
+          961
+        ],
+        [
+          1059,
+          961
+        ],
+        [
+          1059,
+          1049
+        ],
+        [
+          242,
+          1049
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1176
+        ],
+        [
+          1059,
+          1176
+        ],
+        [
+          1059,
+          1264
+        ],
+        [
+          242,
+          1264
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        961,
+        1059,
+        1049
+      ],
+      "text": "(6) Thán trong cung kinh : tam dich ch tièn tàm, Tiêu tàm là chã cüa Kinh thi 言寺 ",
+      "confidence": 0.8981
+    },
+    {
+      "line_id": "0676_han_001",
+      "bbox": [
+        [
+          337,
+          2501
+        ],
+        [
+          1059,
+          2501
+        ],
+        [
+          1059,
+          2567
+        ],
+        [
+          337,
+          2567
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          2716
+        ],
+        [
+          1059,
+          2716
+        ],
+        [
+          1059,
+          2782
+        ],
+        [
+          337,
+          2782
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        2501,
+        1059,
+        2567
+      ],
+      "text": "經",
+      "confidence": 0.8474
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "經"
+    ],
+    "interlinear_triplets": []
+  }
+}

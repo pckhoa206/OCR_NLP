@@ -1,0 +1,405 @@
+{
+  "page_id": "0364",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 364,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0364_han_000",
+      "bbox": [
+        [
+          463,
+          76
+        ],
+        [
+          1183,
+          78
+        ],
+        [
+          1183,
+          156
+        ],
+        [
+          463,
+          153
+        ]
+      ],
+      "bbox_original": [
+        [
+          463,
+          244
+        ],
+        [
+          1183,
+          246
+        ],
+        [
+          1183,
+          324
+        ],
+        [
+          463,
+          321
+        ]
+      ],
+      "box_xyxy": [
+        463,
+        76,
+        1183,
+        156
+      ],
+      "text": "叙闺情又叙客衷",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0364_han_001",
+      "bbox": [
+        [
+          473,
+          385
+        ],
+        [
+          1077,
+          385
+        ],
+        [
+          1077,
+          456
+        ],
+        [
+          473,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          553
+        ],
+        [
+          1077,
+          553
+        ],
+        [
+          1077,
+          624
+        ],
+        [
+          473,
+          624
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        385,
+        1077,
+        456
+      ],
+      "text": "而今秋月秋風",
+      "confidence": 0.9864
+    },
+    {
+      "line_id": "0364_han_002",
+      "bbox": [
+        [
+          463,
+          677
+        ],
+        [
+          1296,
+          677
+        ],
+        [
+          1296,
+          754
+        ],
+        [
+          463,
+          754
+        ]
+      ],
+      "bbox_original": [
+        [
+          463,
+          845
+        ],
+        [
+          1296,
+          845
+        ],
+        [
+          1296,
+          922
+        ],
+        [
+          463,
+          922
+        ]
+      ],
+      "box_xyxy": [
+        463,
+        677,
+        1296,
+        754
+      ],
+      "text": "秋吟秋飲情中者誰",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0364_han_003",
+      "bbox": [
+        [
+          469,
+          981
+        ],
+        [
+          1184,
+          977
+        ],
+        [
+          1184,
+          1056
+        ],
+        [
+          469,
+          1059
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1149
+        ],
+        [
+          1184,
+          1145
+        ],
+        [
+          1184,
+          1224
+        ],
+        [
+          469,
+          1227
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        977,
+        1184,
+        1059
+      ],
+      "text": "對離景淚垂雙眼",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0364_han_004",
+      "bbox": [
+        [
+          469,
+          1288
+        ],
+        [
+          1182,
+          1288
+        ],
+        [
+          1182,
+          1363
+        ],
+        [
+          469,
+          1363
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1456
+        ],
+        [
+          1182,
+          1456
+        ],
+        [
+          1182,
+          1531
+        ],
+        [
+          469,
+          1531
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1288,
+        1182,
+        1363
+      ],
+      "text": "顧鄉關路限重山",
+      "confidence": 0.9927
+    },
+    {
+      "line_id": "0364_han_005",
+      "bbox": [
+        [
+          470,
+          1589
+        ],
+        [
+          1075,
+          1586
+        ],
+        [
+          1075,
+          1661
+        ],
+        [
+          470,
+          1664
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1757
+        ],
+        [
+          1075,
+          1754
+        ],
+        [
+          1075,
+          1829
+        ],
+        [
+          470,
+          1832
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1586,
+        1075,
+        1664
+      ],
+      "text": "酒殘獨倚欄杆",
+      "confidence": 0.9201
+    },
+    {
+      "line_id": "0364_han_006",
+      "bbox": [
+        [
+          471,
+          1887
+        ],
+        [
+          1295,
+          1886
+        ],
+        [
+          1295,
+          1968
+        ],
+        [
+          471,
+          1969
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          2055
+        ],
+        [
+          1295,
+          2054
+        ],
+        [
+          1295,
+          2136
+        ],
+        [
+          471,
+          2137
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        1886,
+        1295,
+        1969
+      ],
+      "text": "覺來眼看夜還凄凉",
+      "confidence": 0.9337
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "叙闺情又叙客衷",
+      "而今秋月秋風",
+      "秋吟秋飲情中者誰",
+      "對離景淚垂雙眼",
+      "顧鄉關路限重山",
+      "酒殘獨倚欄杆",
+      "覺來眼看夜還凄凉"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "叙闺情又叙客衷",
+        "phien_am": "Tự khuê-tình hựu tự khách trung",
+        "dich_nghia_gloss": "- Nói đền tình nhà lại nói đến lòng người"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "而今秋月秋風",
+        "phien_am": "Nhi kim thu nguyệt thu phong",
+        "dich_nghia_gloss": "- Mà nay trăng thu, gió thu, thơ thu, rượu thu, ây"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "秋吟秋飲情中者誰",
+        "phien_am": "Thu ngàm thu âm tình trung giả thùy ?",
+        "dich_nghia_gloss": "ai chung tình với ta ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "對離景淚垂雙眼",
+        "phien_am": "Đõi ly cảnh, lệ thùy song nhãn",
+        "dich_nghia_gloss": "- Trông cảnh ly.biệt, hai hàng lệ tuôn rơi"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "顧鄉關路限重山",
+        "phien_am": "Cõ hương quan lộ hạn trùng san",
+        "dich_nghia_gloss": "- Ngành lại quê, núi non ngăn lây đường"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "酒殘獨倚欄杆",
+        "phien_am": "Tửu tàn độc ý lan-can",
+        "dich_nghia_gloss": "Tiệc rượu tan rồi, một mình ngôi dựa câu-lơn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "覺來眼看夜還凄凉",
+        "phien_am": "Giác lai nhãn khán dạ hoàn thê lương.",
+        "dich_nghia_gloss": "- Bừng mắt dậy, đêm thê-lương vẫn hoàn thê-lương"
+      }
+    ]
+  }
+}

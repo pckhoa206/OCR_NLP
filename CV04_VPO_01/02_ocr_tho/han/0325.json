@@ -1,0 +1,119 @@
+{
+  "page_id": "0325",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 325,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0325_han_000",
+      "bbox": [
+        [
+          575,
+          230
+        ],
+        [
+          1087,
+          228
+        ],
+        [
+          1087,
+          301
+        ],
+        [
+          575,
+          303
+        ]
+      ],
+      "bbox_original": [
+        [
+          575,
+          398
+        ],
+        [
+          1087,
+          396
+        ],
+        [
+          1087,
+          469
+        ],
+        [
+          575,
+          471
+        ]
+      ],
+      "box_xyxy": [
+        575,
+        228,
+        1087,
+        303
+      ],
+      "text": "秋夜旅懷吟",
+      "confidence": 0.9855
+    },
+    {
+      "line_id": "0325_han_001",
+      "bbox": [
+        [
+          1011,
+          762
+        ],
+        [
+          1304,
+          762
+        ],
+        [
+          1304,
+          843
+        ],
+        [
+          1011,
+          843
+        ]
+      ],
+      "bbox_original": [
+        [
+          1011,
+          930
+        ],
+        [
+          1304,
+          930
+        ],
+        [
+          1304,
+          1011
+        ],
+        [
+          1011,
+          1011
+        ]
+      ],
+      "box_xyxy": [
+        1011,
+        762,
+        1304,
+        843
+      ],
+      "text": "丁日慎",
+      "confidence": 0.9893
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_title_page",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

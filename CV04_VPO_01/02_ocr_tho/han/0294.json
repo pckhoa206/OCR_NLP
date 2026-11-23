@@ -1,0 +1,459 @@
+{
+  "page_id": "0294",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 294,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0294_han_000",
+      "bbox": [
+        [
+          287,
+          130
+        ],
+        [
+          1239,
+          127
+        ],
+        [
+          1240,
+          204
+        ],
+        [
+          287,
+          206
+        ]
+      ],
+      "bbox_original": [
+        [
+          287,
+          298
+        ],
+        [
+          1239,
+          295
+        ],
+        [
+          1240,
+          372
+        ],
+        [
+          287,
+          374
+        ]
+      ],
+      "box_xyxy": [
+        287,
+        127,
+        1240,
+        206
+      ],
+      "text": "又何往而不金玉其外",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0294_han_001",
+      "bbox": [
+        [
+          286,
+          370
+        ],
+        [
+          908,
+          370
+        ],
+        [
+          908,
+          447
+        ],
+        [
+          286,
+          447
+        ]
+      ],
+      "bbox_original": [
+        [
+          286,
+          538
+        ],
+        [
+          908,
+          538
+        ],
+        [
+          908,
+          615
+        ],
+        [
+          286,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        286,
+        370,
+        908,
+        447
+      ],
+      "text": "敗絮其中也哉",
+      "confidence": 0.9929
+    },
+    {
+      "line_id": "0294_han_002",
+      "bbox": [
+        [
+          278,
+          611
+        ],
+        [
+          1443,
+          611
+        ],
+        [
+          1443,
+          689
+        ],
+        [
+          278,
+          689
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          779
+        ],
+        [
+          1443,
+          779
+        ],
+        [
+          1443,
+          857
+        ],
+        [
+          278,
+          857
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        611,
+        1443,
+        689
+      ],
+      "text": "今子是之不察而以察吾柑",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0294_han_003",
+      "bbox": [
+        [
+          293,
+          914
+        ],
+        [
+          902,
+          914
+        ],
+        [
+          902,
+          991
+        ],
+        [
+          293,
+          991
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          1082
+        ],
+        [
+          902,
+          1082
+        ],
+        [
+          902,
+          1159
+        ],
+        [
+          293,
+          1159
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        914,
+        902,
+        991
+      ],
+      "text": "予默然無以應",
+      "confidence": 0.9951
+    },
+    {
+      "line_id": "0294_han_004",
+      "bbox": [
+        [
+          283,
+          1160
+        ],
+        [
+          792,
+          1160
+        ],
+        [
+          792,
+          1232
+        ],
+        [
+          283,
+          1232
+        ]
+      ],
+      "bbox_original": [
+        [
+          283,
+          1328
+        ],
+        [
+          792,
+          1328
+        ],
+        [
+          792,
+          1400
+        ],
+        [
+          283,
+          1400
+        ]
+      ],
+      "box_xyxy": [
+        283,
+        1160,
+        792,
+        1232
+      ],
+      "text": "退而思其言",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0294_han_005",
+      "bbox": [
+        [
+          281,
+          1396
+        ],
+        [
+          1120,
+          1396
+        ],
+        [
+          1120,
+          1474
+        ],
+        [
+          281,
+          1474
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1564
+        ],
+        [
+          1120,
+          1564
+        ],
+        [
+          1120,
+          1642
+        ],
+        [
+          281,
+          1642
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1396,
+        1120,
+        1474
+      ],
+      "text": "類東方生滑稽之雄",
+      "confidence": 0.9877
+    },
+    {
+      "line_id": "0294_han_006",
+      "bbox": [
+        [
+          280,
+          1636
+        ],
+        [
+          1116,
+          1636
+        ],
+        [
+          1116,
+          1717
+        ],
+        [
+          280,
+          1717
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1804
+        ],
+        [
+          1116,
+          1804
+        ],
+        [
+          1116,
+          1885
+        ],
+        [
+          280,
+          1885
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1636,
+        1116,
+        1717
+      ],
+      "text": "豈其憤世嫉邪者耶",
+      "confidence": 0.963
+    },
+    {
+      "line_id": "0294_han_007",
+      "bbox": [
+        [
+          280,
+          1884
+        ],
+        [
+          1010,
+          1879
+        ],
+        [
+          1011,
+          1953
+        ],
+        [
+          281,
+          1958
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          2052
+        ],
+        [
+          1010,
+          2047
+        ],
+        [
+          1011,
+          2121
+        ],
+        [
+          281,
+          2126
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1879,
+        1011,
+        1958
+      ],
+      "text": "而託於柑以諷耶",
+      "confidence": 0.9965
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "又何往而不金玉其外",
+      "敗絮其中也哉",
+      "今子是之不察而以察吾柑",
+      "予默然無以應",
+      "退而思其言",
+      "類東方生滑稽之雄",
+      "豈其憤世嫉邪者耶",
+      "而託於柑以諷耶"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "又何往而不金玉其外",
+        "phien_am": "Hựu hà vãng nhi bãt kim ngọc kỳ ngoại,",
+        "dich_nghia_gloss": "Có gì đàu, chẳng qua là: ngọc vàng màu mõ ngoài da,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "敗絮其中也哉",
+        "phien_am": "bại nhứ kỳ trung dã tai ?",
+        "dich_nghia_gloss": "mà trong do bản thõi tha vô cùng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "今子是之不察而以察吾柑",
+        "phien_am": "Kim tử thị chi bãt sát, nhi đi sát ngô cam......................................................... - - - - - - - - - - - - -",
+        "dich_nghia_gloss": "Thẽ mà ông ngơ đi không xử đến, lại chỉ xét-nét quả can của tôi ."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "予默然無以應",
+        "phien_am": "Dư mặc nhiên vô di ứng.",
+        "dich_nghia_gloss": "Ta đứ họng ra không nói năng gì được củ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "退而思其言",
+        "phien_am": "Thoái nhi tư kỳ ngôn,",
+        "dich_nghia_gloss": "Lui về nghĩ những lời của anh hàng cam"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "類東方生滑稽之雄",
+        "phien_am": "loại Đông phương sinh hoạt kê chi hùng",
+        "dich_nghia_gloss": "Hệt lời hoạt-kê hùng hồn của Đông-Phương-Sóc"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "豈其憤世嫉邪者耶",
+        "phien_am": "Khởi kỳ phần thẽ tật tà giả da,",
+        "dich_nghia_gloss": "Phải chăng là bực tức đời, căm hờn kẻ gian-nịnh"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "而託於柑以諷耶",
+        "phien_am": "nhi thác ư cam di phúng da ?",
+        "dich_nghia_gloss": "Thác, ngụ vào chuyện quả cam đề răn người đời chăng ở"
+      }
+    ]
+  }
+}

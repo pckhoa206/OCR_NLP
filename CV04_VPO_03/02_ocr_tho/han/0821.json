@@ -1,0 +1,404 @@
+{
+  "page_id": "0821",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 821,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0821_han_000",
+      "bbox": [
+        [
+          994,
+          678
+        ],
+        [
+          1277,
+          678
+        ],
+        [
+          1277,
+          817
+        ],
+        [
+          994,
+          817
+        ]
+      ],
+      "bbox_original": [
+        [
+          994,
+          893
+        ],
+        [
+          1277,
+          893
+        ],
+        [
+          1277,
+          1032
+        ],
+        [
+          994,
+          1032
+        ]
+      ],
+      "box_xyxy": [
+        994,
+        678,
+        1277,
+        817
+      ],
+      "text": "范遇",
+      "confidence": 0.9971
+    },
+    {
+      "line_id": "0821_han_001",
+      "bbox": [
+        [
+          395,
+          1006
+        ],
+        [
+          1059,
+          1006
+        ],
+        [
+          1059,
+          1096
+        ],
+        [
+          395,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          395,
+          1221
+        ],
+        [
+          1059,
+          1221
+        ],
+        [
+          1059,
+          1311
+        ],
+        [
+          395,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        395,
+        1006,
+        1059,
+        1096
+      ],
+      "text": "Tèn ong. cüng thuòng goi là Pham Tong Ngò 范宗遇 hièu Lièu Khé",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0821_han_002",
+      "bbox": [
+        [
+          305,
+          1064
+        ],
+        [
+          1059,
+          1064
+        ],
+        [
+          1059,
+          1164
+        ],
+        [
+          305,
+          1164
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          1279
+        ],
+        [
+          1059,
+          1279
+        ],
+        [
+          1059,
+          1379
+        ],
+        [
+          305,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        1064,
+        1059,
+        1164
+      ],
+      "text": "溪，",
+      "confidence": 0.8861
+    },
+    {
+      "line_id": "0821_han_003",
+      "bbox": [
+        [
+          265,
+          1128
+        ],
+        [
+          1059,
+          1128
+        ],
+        [
+          1059,
+          1217
+        ],
+        [
+          265,
+          1217
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1343
+        ],
+        [
+          1059,
+          1343
+        ],
+        [
+          1059,
+          1432
+        ],
+        [
+          265,
+          1432
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1128,
+        1059,
+        1217
+      ],
+      "text": "huyèn Giáp-son 山 山, phú Tan-hurng 新 nay thuoc tinh Hǎi-hưng, là",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0821_han_004",
+      "bbox": [
+        [
+          262,
+          1192
+        ],
+        [
+          1059,
+          1192
+        ],
+        [
+          1059,
+          1274
+        ],
+        [
+          262,
+          1274
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1407
+        ],
+        [
+          1059,
+          1407
+        ],
+        [
+          1059,
+          1489
+        ],
+        [
+          262,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1192,
+        1059,
+        1274
+      ],
+      "text": "anh em ruot cua Pham Mai 记 邁 (1). Ong nguyen ho Chúc 祝 tên Kién 堅.",
+      "confidence": 0.8923
+    },
+    {
+      "line_id": "0821_han_005",
+      "bbox": [
+        [
+          264,
+          1255
+        ],
+        [
+          1059,
+          1255
+        ],
+        [
+          1059,
+          1333
+        ],
+        [
+          264,
+          1333
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          1470
+        ],
+        [
+          1059,
+          1470
+        ],
+        [
+          1059,
+          1548
+        ],
+        [
+          264,
+          1548
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        1255,
+        1059,
+        1333
+      ],
+      "text": "sau vì vua Tràn Nhan Tòng 陳 仁 宗 cho ràng ho Chúc không phǎi là",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0821_han_006",
+      "bbox": [
+        [
+          265,
+          1372
+        ],
+        [
+          1055,
+          1381
+        ],
+        [
+          1054,
+          1445
+        ],
+        [
+          264,
+          1436
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1587
+        ],
+        [
+          1055,
+          1596
+        ],
+        [
+          1054,
+          1660
+        ],
+        [
+          264,
+          1651
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        1372,
+        1055,
+        1445
+      ],
+      "text": "Huè Nghía 惠義 nên doi làm Ngo.",
+      "confidence": 0.8501
+    },
+    {
+      "line_id": "0821_han_007",
+      "bbox": [
+        [
+          265,
+          1513
+        ],
+        [
+          1059,
+          1513
+        ],
+        [
+          1059,
+          1594
+        ],
+        [
+          265,
+          1594
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1728
+        ],
+        [
+          1059,
+          1728
+        ],
+        [
+          1059,
+          1809
+        ],
+        [
+          265,
+          1809
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1513,
+        1059,
+        1594
+      ],
+      "text": "vào trièu vói chúc Thi nòi hoc sinh, dưroi trièu Tràn Minh Tòng 陳 月 宗",
+      "confidence": 0.9242
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "范遇",
+      "溪，"
+    ],
+    "interlinear_triplets": []
+  }
+}

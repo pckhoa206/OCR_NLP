@@ -1,0 +1,1323 @@
+{
+  "page_id": "0649",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 649,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0649_viet_000",
+      "bbox": [
+        [
+          697,
+          165
+        ],
+        [
+          714,
+          175
+        ],
+        [
+          702,
+          195
+        ],
+        [
+          685,
+          185
+        ]
+      ],
+      "bbox_original": [
+        [
+          697,
+          380
+        ],
+        [
+          714,
+          390
+        ],
+        [
+          702,
+          410
+        ],
+        [
+          685,
+          400
+        ]
+      ],
+      "box_xyxy": [
+        685,
+        165,
+        714,
+        195
+      ],
+      "text": "9",
+      "confidence": 0.6152
+    },
+    {
+      "line_id": "0649_viet_001",
+      "bbox": [
+        [
+          251,
+          1033
+        ],
+        [
+          465,
+          1033
+        ],
+        [
+          465,
+          1082
+        ],
+        [
+          251,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1248
+        ],
+        [
+          465,
+          1248
+        ],
+        [
+          465,
+          1297
+        ],
+        [
+          251,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1033,
+        465,
+        1082
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0649_viet_002",
+      "bbox": [
+        [
+          673,
+          1088
+        ],
+        [
+          1530,
+          1084
+        ],
+        [
+          1530,
+          1141
+        ],
+        [
+          673,
+          1145
+        ]
+      ],
+      "bbox_original": [
+        [
+          673,
+          1303
+        ],
+        [
+          1530,
+          1299
+        ],
+        [
+          1530,
+          1356
+        ],
+        [
+          673,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        673,
+        1084,
+        1530,
+        1145
+      ],
+      "text": "KHUYẾN XUẤT GIA TIẾN ĐẠO NGÔN",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0649_viet_003",
+      "bbox": [
+        [
+          366,
+          1181
+        ],
+        [
+          1848,
+          1177
+        ],
+        [
+          1848,
+          1241
+        ],
+        [
+          366,
+          1246
+        ]
+      ],
+      "bbox_original": [
+        [
+          366,
+          1396
+        ],
+        [
+          1848,
+          1392
+        ],
+        [
+          1848,
+          1456
+        ],
+        [
+          366,
+          1461
+        ]
+      ],
+      "box_xyxy": [
+        366,
+        1177,
+        1848,
+        1246
+      ],
+      "text": "Kính khuyển xuất gia học đạo đẳng chung thả thầm tr tư ngôn hỹ",
+      "confidence": 0.879
+    },
+    {
+      "line_id": "0649_viet_004",
+      "bbox": [
+        [
+          381,
+          1253
+        ],
+        [
+          1969,
+          1250
+        ],
+        [
+          1969,
+          1311
+        ],
+        [
+          381,
+          1313
+        ]
+      ],
+      "bbox_original": [
+        [
+          381,
+          1468
+        ],
+        [
+          1969,
+          1465
+        ],
+        [
+          1969,
+          1526
+        ],
+        [
+          381,
+          1528
+        ]
+      ],
+      "box_xyxy": [
+        381,
+        1250,
+        1969,
+        1313
+      ],
+      "text": "Nhiên ngã đẳng nghiệp trọng phúc hạc, sinh thời bất trị chính pháp,",
+      "confidence": 0.8556
+    },
+    {
+      "line_id": "0649_viet_005",
+      "bbox": [
+        [
+          252,
+          1311
+        ],
+        [
+          1969,
+          1309
+        ],
+        [
+          1969,
+          1363
+        ],
+        [
+          252,
+          1365
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1526
+        ],
+        [
+          1969,
+          1524
+        ],
+        [
+          1969,
+          1578
+        ],
+        [
+          252,
+          1580
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1309,
+        1969,
+        1365
+      ],
+      "text": "Thích Ga di diệt, Di Lặc vị sinh, thánh hiền ân nặc, tà pháp tăng xỉ, ô hô bi tail",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0649_viet_006",
+      "bbox": [
+        [
+          382,
+          1376
+        ],
+        [
+          1971,
+          1372
+        ],
+        [
+          1971,
+          1436
+        ],
+        [
+          382,
+          1440
+        ]
+      ],
+      "bbox_original": [
+        [
+          382,
+          1591
+        ],
+        [
+          1971,
+          1587
+        ],
+        [
+          1971,
+          1651
+        ],
+        [
+          382,
+          1655
+        ]
+      ],
+      "box_xyxy": [
+        382,
+        1372,
+        1971,
+        1440
+      ],
+      "text": "Chúng đẳng xuất gia, bản vị nguyện báo tứ trọng chi ân, từ tế tam đồ",
+      "confidence": 0.8631
+    },
+    {
+      "line_id": "0649_viet_007",
+      "bbox": [
+        [
+          250,
+          1435
+        ],
+        [
+          1967,
+          1433
+        ],
+        [
+          1967,
+          1486
+        ],
+        [
+          250,
+          1488
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1650
+        ],
+        [
+          1967,
+          1648
+        ],
+        [
+          1967,
+          1701
+        ],
+        [
+          250,
+          1703
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1433,
+        1967,
+        1488
+      ],
+      "text": "chi khố. Nhược dục đạt Phật tâm tồ y, trì sinh liễu từ giải, tiên đương học nhị",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0649_viet_008",
+      "bbox": [
+        [
+          258,
+          1496
+        ],
+        [
+          452,
+          1496
+        ],
+        [
+          452,
+          1553
+        ],
+        [
+          258,
+          1553
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          1711
+        ],
+        [
+          452,
+          1711
+        ],
+        [
+          452,
+          1768
+        ],
+        [
+          258,
+          1768
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        1496,
+        452,
+        1553
+      ],
+      "text": "pháp dã",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0649_viet_009",
+      "bbox": [
+        [
+          385,
+          1564
+        ],
+        [
+          716,
+          1564
+        ],
+        [
+          716,
+          1617
+        ],
+        [
+          385,
+          1617
+        ]
+      ],
+      "bbox_original": [
+        [
+          385,
+          1779
+        ],
+        [
+          716,
+          1779
+        ],
+        [
+          716,
+          1832
+        ],
+        [
+          385,
+          1832
+        ]
+      ],
+      "box_xyxy": [
+        385,
+        1564,
+        716,
+        1617
+      ],
+      "text": "Hà già vi nhị ?",
+      "confidence": 0.904
+    },
+    {
+      "line_id": "0649_viet_010",
+      "bbox": [
+        [
+          384,
+          1630
+        ],
+        [
+          1444,
+          1628
+        ],
+        [
+          1444,
+          1689
+        ],
+        [
+          384,
+          1691
+        ]
+      ],
+      "bbox_original": [
+        [
+          384,
+          1845
+        ],
+        [
+          1444,
+          1843
+        ],
+        [
+          1444,
+          1904
+        ],
+        [
+          384,
+          1906
+        ]
+      ],
+      "box_xyxy": [
+        384,
+        1628,
+        1444,
+        1691
+      ],
+      "text": "Nhất bọc tam chủng pháp nhị liọc cầu sư pháp",
+      "confidence": 0.8921
+    },
+    {
+      "line_id": "0649_viet_011",
+      "bbox": [
+        [
+          380,
+          1699
+        ],
+        [
+          1975,
+          1696
+        ],
+        [
+          1975,
+          1756
+        ],
+        [
+          380,
+          1759
+        ]
+      ],
+      "bbox_original": [
+        [
+          380,
+          1914
+        ],
+        [
+          1975,
+          1911
+        ],
+        [
+          1975,
+          1971
+        ],
+        [
+          380,
+          1974
+        ]
+      ],
+      "box_xyxy": [
+        380,
+        1696,
+        1975,
+        1759
+      ],
+      "text": "Nhược - taim chủng pháp giả, số 'minh tổng sư, thứ thiện chàn ngụy, hậu",
+      "confidence": 0.8375
+    },
+    {
+      "line_id": "0649_viet_012",
+      "bbox": [
+        [
+          259,
+          1763
+        ],
+        [
+          588,
+          1763
+        ],
+        [
+          588,
+          1814
+        ],
+        [
+          259,
+          1814
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1978
+        ],
+        [
+          588,
+          1978
+        ],
+        [
+          588,
+          2029
+        ],
+        [
+          259,
+          2029
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1763,
+        588,
+        1814
+      ],
+      "text": "tri thiện ác dã.",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0649_viet_013",
+      "bbox": [
+        [
+          379,
+          1828
+        ],
+        [
+          1974,
+          1819
+        ],
+        [
+          1974,
+          1882
+        ],
+        [
+          379,
+          1891
+        ]
+      ],
+      "bbox_original": [
+        [
+          379,
+          2043
+        ],
+        [
+          1974,
+          2034
+        ],
+        [
+          1974,
+          2097
+        ],
+        [
+          379,
+          2106
+        ]
+      ],
+      "box_xyxy": [
+        379,
+        1819,
+        1974,
+        1891
+      ],
+      "text": "Sơ minh tông sư giả. nhì: Bản hạnh kinh vân - Tông thượng tổ sử thuyết",
+      "confidence": 0.8437
+    },
+    {
+      "line_id": "0649_viet_014",
+      "bbox": [
+        [
+          252,
+          1889
+        ],
+        [
+          1972,
+          1884
+        ],
+        [
+          1972,
+          1942
+        ],
+        [
+          252,
+          1948
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2104
+        ],
+        [
+          1972,
+          2099
+        ],
+        [
+          1972,
+          2157
+        ],
+        [
+          252,
+          2163
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1884,
+        1972,
+        1948
+      ],
+      "text": "pháp hà đằng, kỳ nhân đắc đạo tự pháp truyền tông, chí kim hà sir chủng đẳng",
+      "confidence": 0.8717
+    },
+    {
+      "line_id": "0649_viet_015",
+      "bbox": [
+        [
+          254,
+          1950
+        ],
+        [
+          583,
+          1950
+        ],
+        [
+          583,
+          2003
+        ],
+        [
+          254,
+          2003
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          2165
+        ],
+        [
+          583,
+          2165
+        ],
+        [
+          583,
+          2218
+        ],
+        [
+          254,
+          2218
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1950,
+        583,
+        2003
+      ],
+      "text": "khả học dã ?..",
+      "confidence": 0.8269
+    },
+    {
+      "line_id": "0649_viet_016",
+      "bbox": [
+        [
+          382,
+          2009
+        ],
+        [
+          1976,
+          2004
+        ],
+        [
+          1976,
+          2071
+        ],
+        [
+          382,
+          2076
+        ]
+      ],
+      "bbox_original": [
+        [
+          382,
+          2224
+        ],
+        [
+          1976,
+          2219
+        ],
+        [
+          1976,
+          2286
+        ],
+        [
+          382,
+          2291
+        ]
+      ],
+      "box_xyxy": [
+        382,
+        2004,
+        1976,
+        2076
+      ],
+      "text": "Thứ biện chân \" ngùy pháp giả, nhược chàn pháp - thường trì giới luật. y",
+      "confidence": 0.8444
+    },
+    {
+      "line_id": "0649_viet_017",
+      "bbox": [
+        [
+          254,
+          2068
+        ],
+        [
+          1975,
+          2061
+        ],
+        [
+          1975,
+          2122
+        ],
+        [
+          254,
+          2129
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          2283
+        ],
+        [
+          1975,
+          2276
+        ],
+        [
+          1975,
+          2337
+        ],
+        [
+          254,
+          2344
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        2061,
+        1975,
+        2129
+      ],
+      "text": "pháp tiến tu dã. Nhược ngùy pháp giả, như Đại tuệ lực vẫn: ở Luân thuyết",
+      "confidence": 0.8528
+    },
+    {
+      "line_id": "0649_viet_018",
+      "bbox": [
+        [
+          252,
+          2127
+        ],
+        [
+          1805,
+          2121
+        ],
+        [
+          1805,
+          2175
+        ],
+        [
+          252,
+          2181
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2342
+        ],
+        [
+          1805,
+          2336
+        ],
+        [
+          1805,
+          2390
+        ],
+        [
+          252,
+          2396
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        2121,
+        1805,
+        2181
+      ],
+      "text": "ngoại đạo, ức đạc nghĩa lý, lập vị tông chỉ. đệ tường truyền thú nhĩ p.",
+      "confidence": 0.8666
+    },
+    {
+      "line_id": "0649_viet_019",
+      "bbox": [
+        [
+          381,
+          2184
+        ],
+        [
+          1970,
+          2180
+        ],
+        [
+          1970,
+          2240
+        ],
+        [
+          381,
+          2244
+        ]
+      ],
+      "bbox_original": [
+        [
+          381,
+          2399
+        ],
+        [
+          1970,
+          2395
+        ],
+        [
+          1970,
+          2455
+        ],
+        [
+          381,
+          2459
+        ]
+      ],
+      "box_xyxy": [
+        381,
+        2180,
+        1970,
+        2244
+      ],
+      "text": "Nhược bậu tri thiện ác giả, nhược thân cận thiện hữu, khuyến linh sám",
+      "confidence": 0.8708
+    },
+    {
+      "line_id": "0649_viet_020",
+      "bbox": [
+        [
+          251,
+          2240
+        ],
+        [
+          1972,
+          2237
+        ],
+        [
+          1972,
+          2294
+        ],
+        [
+          251,
+          2297
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          2455
+        ],
+        [
+          1972,
+          2452
+        ],
+        [
+          1972,
+          2509
+        ],
+        [
+          251,
+          2512
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        2237,
+        1972,
+        2297
+      ],
+      "text": "hối, diệt tội tiền khiên, cân cầu tri thức, tw. đạo tỉnh tiến dã. Nhược thân. càn",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0649_viet_021",
+      "bbox": [
+        [
+          248,
+          2293
+        ],
+        [
+          1978,
+          2288
+        ],
+        [
+          1978,
+          2353
+        ],
+        [
+          248,
+          2358
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          2508
+        ],
+        [
+          1978,
+          2503
+        ],
+        [
+          1978,
+          2568
+        ],
+        [
+          248,
+          2573
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        2288,
+        1978,
+        2358
+      ],
+      "text": "ác hữu giá, khẩu thuyết xuất gia, tâm bành thế nghiệp, tự tác-giáo: tha: tâm",
+      "confidence": 0.8978
+    },
+    {
+      "line_id": "0649_viet_022",
+      "bbox": [
+        [
+          247,
+          2351
+        ],
+        [
+          1748,
+          2349
+        ],
+        [
+          1748,
+          2406
+        ],
+        [
+          247,
+          2408
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          2566
+        ],
+        [
+          1748,
+          2564
+        ],
+        [
+          1748,
+          2621
+        ],
+        [
+          247,
+          2623
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        2349,
+        1748,
+        2408
+      ],
+      "text": "- vô tăm quý, Thị, tam chủng pháp, khả thân cận 7, Bất, khả thân cận ?",
+      "confidence": 0.8296
+    },
+    {
+      "line_id": "0649_viet_023",
+      "bbox": [
+        [
+          381,
+          2413
+        ],
+        [
+          1974,
+          2409
+        ],
+        [
+          1974,
+          2470
+        ],
+        [
+          381,
+          2474
+        ]
+      ],
+      "bbox_original": [
+        [
+          381,
+          2628
+        ],
+        [
+          1974,
+          2624
+        ],
+        [
+          1974,
+          2685
+        ],
+        [
+          381,
+          2689
+        ]
+      ],
+      "box_xyxy": [
+        381,
+        2409,
+        1974,
+        2474
+      ],
+      "text": "Nhược cầu sư pháp giả, như, lễ, tán vào : Cừu cư, tri thức chi, tùng lâm.",
+      "confidence": 0.8564
+    },
+    {
+      "line_id": "0649_viet_024",
+      "bbox": [
+        [
+          253,
+          2471
+        ],
+        [
+          1503,
+          2472
+        ],
+        [
+          1503,
+          2523
+        ],
+        [
+          253,
+          2522
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          2686
+        ],
+        [
+          1503,
+          2687
+        ],
+        [
+          1503,
+          2738
+        ],
+        [
+          253,
+          2737
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        2471,
+        1503,
+        2523
+      ],
+      "text": "thâm thảo tồ sư chi khốn vực. Thử trạch hữu tàm sư dã.",
+      "confidence": 0.8083
+    },
+    {
+      "line_id": "0649_viet_025",
+      "bbox": [
+        [
+          381,
+          2539
+        ],
+        [
+          1978,
+          2530
+        ],
+        [
+          1978,
+          2597
+        ],
+        [
+          381,
+          2606
+        ]
+      ],
+      "bbox_original": [
+        [
+          381,
+          2754
+        ],
+        [
+          1978,
+          2745
+        ],
+        [
+          1978,
+          2812
+        ],
+        [
+          381,
+          2821
+        ]
+      ],
+      "box_xyxy": [
+        381,
+        2530,
+        1978,
+        2606
+      ],
+      "text": "Nhược nhân cụ hữu: nhị pháp.già. tức đạt, phật: tàm, tồ 5. tri, sinh liễu",
+      "confidence": 0.8417
+    },
+    {
+      "line_id": "0649_viet_026",
+      "bbox": [
+        [
+          255,
+          2596
+        ],
+        [
+          390,
+          2596
+        ],
+        [
+          390,
+          2651
+        ],
+        [
+          255,
+          2651
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          2811
+        ],
+        [
+          390,
+          2811
+        ],
+        [
+          390,
+          2866
+        ],
+        [
+          255,
+          2866
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        2596,
+        390,
+        2651
+      ],
+      "text": "tử da.",
+      "confidence": 0.7683
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "9",
+      "KHUYẾN XUẤT GIA TIẾN ĐẠO NGÔN",
+      "Kính khuyển xuất gia học đạo đẳng chung thả thầm tr tư ngôn hỹ",
+      "Nhiên ngã đẳng nghiệp trọng phúc hạc, sinh thời bất trị chính pháp,",
+      "Thích Ga di diệt, Di Lặc vị sinh, thánh hiền ân nặc, tà pháp tăng xỉ, ô hô bi tail",
+      "Chúng đẳng xuất gia, bản vị nguyện báo tứ trọng chi ân, từ tế tam đồ",
+      "chi khố. Nhược dục đạt Phật tâm tồ y, trì sinh liễu từ giải, tiên đương học nhị",
+      "pháp dã",
+      "Hà già vi nhị ?",
+      "Nhất bọc tam chủng pháp nhị liọc cầu sư pháp",
+      "Nhược - taim chủng pháp giả, số 'minh tổng sư, thứ thiện chàn ngụy, hậu",
+      "tri thiện ác dã.",
+      "Sơ minh tông sư giả. nhì: Bản hạnh kinh vân - Tông thượng tổ sử thuyết",
+      "pháp hà đằng, kỳ nhân đắc đạo tự pháp truyền tông, chí kim hà sir chủng đẳng",
+      "khả học dã ?..",
+      "Thứ biện chân \" ngùy pháp giả, nhược chàn pháp - thường trì giới luật. y",
+      "pháp tiến tu dã. Nhược ngùy pháp giả, như Đại tuệ lực vẫn: ở Luân thuyết",
+      "ngoại đạo, ức đạc nghĩa lý, lập vị tông chỉ. đệ tường truyền thú nhĩ p.",
+      "Nhược bậu tri thiện ác giả, nhược thân cận thiện hữu, khuyến linh sám",
+      "hối, diệt tội tiền khiên, cân cầu tri thức, tw. đạo tỉnh tiến dã. Nhược thân. càn",
+      "ác hữu giá, khẩu thuyết xuất gia, tâm bành thế nghiệp, tự tác-giáo: tha: tâm",
+      "- vô tăm quý, Thị, tam chủng pháp, khả thân cận 7, Bất, khả thân cận ?",
+      "Nhược cầu sư pháp giả, như, lễ, tán vào : Cừu cư, tri thức chi, tùng lâm.",
+      "thâm thảo tồ sư chi khốn vực. Thử trạch hữu tàm sư dã.",
+      "Nhược nhân cụ hữu: nhị pháp.già. tức đạt, phật: tàm, tồ 5. tri, sinh liễu",
+      "tử da."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "page_id": "0818",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 818,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0818_han_000",
+      "bbox": [
+        [
+          325,
+          104
+        ],
+        [
+          1059,
+          104
+        ],
+        [
+          1059,
+          188
+        ],
+        [
+          325,
+          188
+        ]
+      ],
+      "bbox_original": [
+        [
+          325,
+          319
+        ],
+        [
+          1059,
+          319
+        ],
+        [
+          1059,
+          403
+        ],
+        [
+          325,
+          403
+        ]
+      ],
+      "box_xyxy": [
+        325,
+        104,
+        1059,
+        188
+      ],
+      "text": "van Bich 威肃王 文壁góp ràng:允论人物教皇子须止",
+      "confidence": 0.8583
+    },
+    {
+      "line_id": "0818_han_001",
+      "bbox": [
+        [
+          353,
+          169
+        ],
+        [
+          1870,
+          173
+        ],
+        [
+          1870,
+          237
+        ],
+        [
+          353,
+          234
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          384
+        ],
+        [
+          1870,
+          388
+        ],
+        [
+          1870,
+          452
+        ],
+        [
+          353,
+          449
+        ]
+      ],
+      "box_xyxy": [
+        353,
+        169,
+        1870,
+        237
+      ],
+      "text": "及善人、悪。人且置勿論。恐皇子聞之或有效者。",
+      "confidence": 0.94
+    },
+    {
+      "line_id": "0818_han_002",
+      "bbox": [
+        [
+          234,
+          565
+        ],
+        [
+          1059,
+          565
+        ],
+        [
+          1059,
+          629
+        ],
+        [
+          234,
+          629
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          780
+        ],
+        [
+          1059,
+          780
+        ],
+        [
+          1059,
+          844
+        ],
+        [
+          234,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        565,
+        1059,
+        629
+      ],
+      "text": "(3) Dang De nhà Túy: vua thú hai nhà Tùy, con thú hai vua Tùy Vǎn Dé 奢 文",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0818_han_003",
+      "bbox": [
+        [
+          320,
+          1013
+        ],
+        [
+          1059,
+          1013
+        ],
+        [
+          1059,
+          1068
+        ],
+        [
+          320,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          1228
+        ],
+        [
+          1059,
+          1228
+        ],
+        [
+          1059,
+          1283
+        ],
+        [
+          320,
+          1283
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        1013,
+        1059,
+        1068
+      ],
+      "text": "Không Giáp 孔 甲 . Tèn là Quy , là ngròi bao nguoc vó dao, yèu nàng phi là",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0818_han_004",
+      "bbox": [
+        [
+          318,
+          1065
+        ],
+        [
+          1059,
+          1065
+        ],
+        [
+          1059,
+          1118
+        ],
+        [
+          318,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1280
+        ],
+        [
+          1059,
+          1280
+        ],
+        [
+          1059,
+          1333
+        ],
+        [
+          318,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1065,
+        1059,
+        1118
+      ],
+      "text": "Muòi Hy 女未 喜, dō rugu làm ao dáp gò bǎng bót cho năng vùra y. Vè sau bi chu",
+      "confidence": 0.8744
+    },
+    {
+      "line_id": "0818_han_005",
+      "bbox": [
+        [
+          318,
+          1118
+        ],
+        [
+          1942,
+          1117
+        ],
+        [
+          1942,
+          1165
+        ],
+        [
+          318,
+          1166
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1333
+        ],
+        [
+          1942,
+          1332
+        ],
+        [
+          1942,
+          1380
+        ],
+        [
+          318,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1117,
+        1942,
+        1166
+      ],
+      "text": "hàu là Thang 易 dánh bai. Tru (1154 — 1122 trròc CN): vua cuói cùng cúa nhà",
+      "confidence": 0.9448
+    },
+    {
+      "line_id": "0818_han_006",
+      "bbox": [
+        [
+          318,
+          1165
+        ],
+        [
+          1942,
+          1161
+        ],
+        [
+          1942,
+          1215
+        ],
+        [
+          318,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1380
+        ],
+        [
+          1942,
+          1376
+        ],
+        [
+          1942,
+          1430
+        ],
+        [
+          318,
+          1434
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1161,
+        1942,
+        1219
+      ],
+      "text": "Thuong, con Dé At  Z . Tèn là Tàn 辛, có surc khoè và tài nǎng hon nguòi",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0818_han_007",
+      "bbox": [
+        [
+          319,
+          1270
+        ],
+        [
+          1059,
+          1270
+        ],
+        [
+          1059,
+          1320
+        ],
+        [
+          319,
+          1320
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          1485
+        ],
+        [
+          1059,
+          1485
+        ],
+        [
+          1059,
+          1535
+        ],
+        [
+          319,
+          1535
+        ]
+      ],
+      "box_xyxy": [
+        319,
+        1270,
+        1059,
+        1320
+      ],
+      "text": "ghét. Vè sau bi Chu Vū Vuong 周 武 王 xuát quàn dành bai.",
+      "confidence": 0.893
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "van Bich 威肃王 文壁góp ràng:允论人物教皇子须止",
+      "及善人、悪。人且置勿論。恐皇子聞之或有效者。"
+    ],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "page_id": "0753",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 753,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0753_han_000",
+      "bbox": [
+        [
+          322,
+          430
+        ],
+        [
+          1059,
+          430
+        ],
+        [
+          1059,
+          490
+        ],
+        [
+          322,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          645
+        ],
+        [
+          1059,
+          645
+        ],
+        [
+          1059,
+          705
+        ],
+        [
+          322,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        430,
+        1059,
+        490
+      ],
+      "text": "Du Töng 陳裕 宗 và năm thú hai tire là năm Nhàm ngo (1342).",
+      "confidence": 0.9414
+    },
+    {
+      "line_id": "0753_han_001",
+      "bbox": [
+        [
+          259,
+          495
+        ],
+        [
+          1955,
+          497
+        ],
+        [
+          1955,
+          562
+        ],
+        [
+          259,
+          560
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          710
+        ],
+        [
+          1955,
+          712
+        ],
+        [
+          1955,
+          777
+        ],
+        [
+          259,
+          775
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        495,
+        1955,
+        562
+      ],
+      "text": "(4) Khai Hu: nièn hiu cua Tràn Hién Tòng   宗 (1329 — 1341). Năm Dinh siru là",
+      "confidence": 0.9077
+    },
+    {
+      "line_id": "0753_han_002",
+      "bbox": [
+        [
+          323,
+          870
+        ],
+        [
+          1951,
+          871
+        ],
+        [
+          1951,
+          922
+        ],
+        [
+          323,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          323,
+          1085
+        ],
+        [
+          1951,
+          1086
+        ],
+        [
+          1951,
+          1137
+        ],
+        [
+          323,
+          1136
+        ]
+      ],
+      "box_xyxy": [
+        323,
+        870,
+        1951,
+        922
+      ],
+      "text": "(theo các nhà chú giǎi sách Lnán ngǔ  言 ) hoe bǎng 4 thuoc (theo Tièn nhǐ nhã",
+      "confidence": 0.8795
+    },
+    {
+      "line_id": "0753_han_003",
+      "bbox": [
+        [
+          340,
+          925
+        ],
+        [
+          631,
+          921
+        ],
+        [
+          631,
+          980
+        ],
+        [
+          340,
+          983
+        ]
+      ],
+      "bbox_original": [
+        [
+          340,
+          1140
+        ],
+        [
+          631,
+          1136
+        ],
+        [
+          631,
+          1195
+        ],
+        [
+          340,
+          1198
+        ]
+      ],
+      "box_xyxy": [
+        340,
+        921,
+        631,
+        983
+      ],
+      "text": "小爾雅)",
+      "confidence": 0.9549
+    },
+    {
+      "line_id": "0753_han_004",
+      "bbox": [
+        [
+          1067,
+          2628
+        ],
+        [
+          1096,
+          2628
+        ],
+        [
+          1096,
+          2657
+        ],
+        [
+          1067,
+          2657
+        ]
+      ],
+      "bbox_original": [
+        [
+          1067,
+          2843
+        ],
+        [
+          1096,
+          2843
+        ],
+        [
+          1096,
+          2872
+        ],
+        [
+          1067,
+          2872
+        ]
+      ],
+      "box_xyxy": [
+        1067,
+        2628,
+        1096,
+        2657
+      ],
+      "text": "办",
+      "confidence": 0.4232
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "小爾雅)",
+      "办"
+    ],
+    "interlinear_triplets": []
+  }
+}

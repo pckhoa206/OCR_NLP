@@ -1,0 +1,1695 @@
+{
+  "page_id": "0816",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 816,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0816_viet_000",
+      "bbox": [
+        [
+          245,
+          113
+        ],
+        [
+          469,
+          113
+        ],
+        [
+          469,
+          165
+        ],
+        [
+          245,
+          165
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          328
+        ],
+        [
+          469,
+          328
+        ],
+        [
+          469,
+          380
+        ],
+        [
+          245,
+          380
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        113,
+        469,
+        165
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9325
+    },
+    {
+      "line_id": "0816_viet_001",
+      "bbox": [
+        [
+          887,
+          171
+        ],
+        [
+          1317,
+          171
+        ],
+        [
+          1317,
+          227
+        ],
+        [
+          887,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          887,
+          386
+        ],
+        [
+          1317,
+          386
+        ],
+        [
+          1317,
+          442
+        ],
+        [
+          887,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        887,
+        171,
+        1317,
+        227
+      ],
+      "text": "NHẬM NHÂN LUẬN",
+      "confidence": 0.9358
+    },
+    {
+      "line_id": "0816_viet_002",
+      "bbox": [
+        [
+          376,
+          285
+        ],
+        [
+          1957,
+          282
+        ],
+        [
+          1957,
+          338
+        ],
+        [
+          376,
+          341
+        ]
+      ],
+      "bbox_original": [
+        [
+          376,
+          500
+        ],
+        [
+          1957,
+          497
+        ],
+        [
+          1957,
+          553
+        ],
+        [
+          376,
+          556
+        ]
+      ],
+      "box_xyxy": [
+        376,
+        282,
+        1957,
+        341
+      ],
+      "text": "Nhân quân chi nhàm nhàn, phị tư kỳ nhân dã, Đãn vị chi hiền nhĩ, dĩ",
+      "confidence": 0.8485
+    },
+    {
+      "line_id": "0816_viet_003",
+      "bbox": [
+        [
+          244,
+          347
+        ],
+        [
+          1954,
+          345
+        ],
+        [
+          1954,
+          399
+        ],
+        [
+          244,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          562
+        ],
+        [
+          1954,
+          560
+        ],
+        [
+          1954,
+          614
+        ],
+        [
+          244,
+          616
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        345,
+        1954,
+        401
+      ],
+      "text": "kỳ nhân nhân ngô tâm, cung ngô chức, sự ngô, sự, phục, ngô lao, cồ vị chi hiền",
+      "confidence": 0.879
+    },
+    {
+      "line_id": "0816_viet_004",
+      "bbox": [
+        [
+          244,
+          407
+        ],
+        [
+          552,
+          405
+        ],
+        [
+          552,
+          456
+        ],
+        [
+          244,
+          458
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          622
+        ],
+        [
+          552,
+          620
+        ],
+        [
+          552,
+          671
+        ],
+        [
+          244,
+          673
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        405,
+        552,
+        458
+      ],
+      "text": "nhi nhậm chi",
+      "confidence": 0.9363
+    },
+    {
+      "line_id": "0816_viet_005",
+      "bbox": [
+        [
+          376,
+          482
+        ],
+        [
+          1961,
+          482
+        ],
+        [
+          1961,
+          540
+        ],
+        [
+          376,
+          540
+        ]
+      ],
+      "bbox_original": [
+        [
+          376,
+          697
+        ],
+        [
+          1961,
+          697
+        ],
+        [
+          1961,
+          755
+        ],
+        [
+          376,
+          755
+        ]
+      ],
+      "box_xyxy": [
+        376,
+        482,
+        1961,
+        540
+      ],
+      "text": "Ngô thành hiền đã, tác sở nhậm chi nhận diệc hiền, Nghiêu Thuấn chi ứ",
+      "confidence": 0.8883
+    },
+    {
+      "line_id": "0816_viet_006",
+      "bbox": [
+        [
+          247,
+          545
+        ],
+        [
+          1957,
+          545
+        ],
+        [
+          1957,
+          599
+        ],
+        [
+          247,
+          599
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          760
+        ],
+        [
+          1957,
+          760
+        ],
+        [
+          1957,
+          814
+        ],
+        [
+          247,
+          814
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        545,
+        1957,
+        599
+      ],
+      "text": "Tắc Tiết, Quỳ Long thị dã. Ngô bất biên yên, tắc sở nhậm chi nhân diệc bất",
+      "confidence": 0.8491
+    },
+    {
+      "line_id": "0816_viet_007",
+      "bbox": [
+        [
+          245,
+          601
+        ],
+        [
+          1957,
+          603
+        ],
+        [
+          1957,
+          660
+        ],
+        [
+          245,
+          658
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          816
+        ],
+        [
+          1957,
+          818
+        ],
+        [
+          1957,
+          875
+        ],
+        [
+          245,
+          873
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        601,
+        1957,
+        660
+      ],
+      "text": "hiền, Kiệt Trạ chi ư Phi ? Liêm, Ác Lai thị dã, Thừ nãi thanh ứng khí cầu các",
+      "confidence": 0.8657
+    },
+    {
+      "line_id": "0816_viet_008",
+      "bbox": [
+        [
+          244,
+          665
+        ],
+        [
+          1957,
+          663
+        ],
+        [
+          1957,
+          717
+        ],
+        [
+          244,
+          719
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          880
+        ],
+        [
+          1957,
+          878
+        ],
+        [
+          1957,
+          932
+        ],
+        [
+          244,
+          934
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        663,
+        1957,
+        719
+      ],
+      "text": "đi loại hợp. Kiệt Trụ, khởi tơrị ứ thữ nhân tai 7 Vị chỉ hón âm tắc khả. Vị chi tư",
+      "confidence": 0.8855
+    },
+    {
+      "line_id": "0816_viet_009",
+      "bbox": [
+        [
+          247,
+          725
+        ],
+        [
+          508,
+          725
+        ],
+        [
+          508,
+          777
+        ],
+        [
+          247,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          940
+        ],
+        [
+          508,
+          940
+        ],
+        [
+          508,
+          992
+        ],
+        [
+          247,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        725,
+        508,
+        777
+      ],
+      "text": "tắc bất khả.",
+      "confidence": 0.9143
+    },
+    {
+      "line_id": "0816_viet_010",
+      "bbox": [
+        [
+          246,
+          861
+        ],
+        [
+          494,
+          861
+        ],
+        [
+          494,
+          918
+        ],
+        [
+          246,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1076
+        ],
+        [
+          494,
+          1076
+        ],
+        [
+          494,
+          1133
+        ],
+        [
+          246,
+          1133
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        861,
+        494,
+        918
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9245
+    },
+    {
+      "line_id": "0816_viet_011",
+      "bbox": [
+        [
+          738,
+          916
+        ],
+        [
+          1451,
+          920
+        ],
+        [
+          1451,
+          980
+        ],
+        [
+          738,
+          977
+        ]
+      ],
+      "bbox_original": [
+        [
+          738,
+          1131
+        ],
+        [
+          1451,
+          1135
+        ],
+        [
+          1451,
+          1195
+        ],
+        [
+          738,
+          1192
+        ]
+      ],
+      "box_xyxy": [
+        738,
+        916,
+        1451,
+        980
+      ],
+      "text": "BÀN VỀ VIỆC DÙNG NGƯỜI (I)",
+      "confidence": 0.8991
+    },
+    {
+      "line_id": "0816_viet_012",
+      "bbox": [
+        [
+          374,
+          1025
+        ],
+        [
+          1959,
+          1022
+        ],
+        [
+          1959,
+          1082
+        ],
+        [
+          374,
+          1085
+        ]
+      ],
+      "bbox_original": [
+        [
+          374,
+          1240
+        ],
+        [
+          1959,
+          1237
+        ],
+        [
+          1959,
+          1297
+        ],
+        [
+          374,
+          1300
+        ]
+      ],
+      "box_xyxy": [
+        374,
+        1022,
+        1959,
+        1085
+      ],
+      "text": "Bạc nhân quân dùng người, không phải. là có tỉnh, riêng với người ấy. Đã",
+      "confidence": 0.8665
+    },
+    {
+      "line_id": "0816_viet_013",
+      "bbox": [
+        [
+          244,
+          1086
+        ],
+        [
+          1957,
+          1082
+        ],
+        [
+          1957,
+          1140
+        ],
+        [
+          244,
+          1144
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1301
+        ],
+        [
+          1957,
+          1297
+        ],
+        [
+          1957,
+          1355
+        ],
+        [
+          244,
+          1359
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1082,
+        1957,
+        1144
+      ],
+      "text": "gọi rằng tôi hiện thì phải là người biết suy bụng của ta, giữ tròn chức của, ta,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0816_viet_014",
+      "bbox": [
+        [
+          247,
+          1146
+        ],
+        [
+          1959,
+          1145
+        ],
+        [
+          1959,
+          1199
+        ],
+        [
+          247,
+          1200
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1361
+        ],
+        [
+          1959,
+          1360
+        ],
+        [
+          1959,
+          1414
+        ],
+        [
+          247,
+          1415
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1145,
+        1959,
+        1200
+      ],
+      "text": "theo đuổi sự nghiệp của la, hết sức: vì nỗi vất và của ta, cho nên gọi là, chiến -",
+      "confidence": 0.9022
+    },
+    {
+      "line_id": "0816_viet_015",
+      "bbox": [
+        [
+          247,
+          1209
+        ],
+        [
+          713,
+          1207
+        ],
+        [
+          713,
+          1255
+        ],
+        [
+          247,
+          1258
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1424
+        ],
+        [
+          713,
+          1422
+        ],
+        [
+          713,
+          1470
+        ],
+        [
+          247,
+          1473
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1207,
+        713,
+        1258
+      ],
+      "text": "mà trao trách nhiệm",
+      "confidence": 0.933
+    },
+    {
+      "line_id": "0816_viet_016",
+      "bbox": [
+        [
+          376,
+          1280
+        ],
+        [
+          1957,
+          1279
+        ],
+        [
+          1957,
+          1334
+        ],
+        [
+          376,
+          1335
+        ]
+      ],
+      "bbox_original": [
+        [
+          376,
+          1495
+        ],
+        [
+          1957,
+          1494
+        ],
+        [
+          1957,
+          1549
+        ],
+        [
+          376,
+          1550
+        ]
+      ],
+      "box_xyxy": [
+        376,
+        1279,
+        1957,
+        1335
+      ],
+      "text": "Ta quả thật là ông vua biên, thì người mà ía phó thác cũng hiền, Nghiêu,",
+      "confidence": 0.8737
+    },
+    {
+      "line_id": "0816_viet_017",
+      "bbox": [
+        [
+          244,
+          1339
+        ],
+        [
+          1959,
+          1338
+        ],
+        [
+          1959,
+          1392
+        ],
+        [
+          244,
+          1393
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1554
+        ],
+        [
+          1959,
+          1553
+        ],
+        [
+          1959,
+          1607
+        ],
+        [
+          244,
+          1608
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1338,
+        1959,
+        1393
+      ],
+      "text": "Thuấn đối với Tắc Tiết, Quỷ Long (7) chỉnh là như vậy, Còn ta không phải là",
+      "confidence": 0.8745
+    },
+    {
+      "line_id": "0816_viet_018",
+      "bbox": [
+        [
+          246,
+          1400
+        ],
+        [
+          1958,
+          1396
+        ],
+        [
+          1958,
+          1450
+        ],
+        [
+          246,
+          1454
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1615
+        ],
+        [
+          1958,
+          1611
+        ],
+        [
+          1958,
+          1665
+        ],
+        [
+          246,
+          1669
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1396,
+        1958,
+        1454
+      ],
+      "text": "ông vuai hiền 7 Thì người má ta phó thác cũng không biền. Kiệt Trụ đối, với",
+      "confidence": 0.8652
+    },
+    {
+      "line_id": "0816_viet_019",
+      "bbox": [
+        [
+          248,
+          1458
+        ],
+        [
+          1961,
+          1458
+        ],
+        [
+          1961,
+          1512
+        ],
+        [
+          248,
+          1512
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1673
+        ],
+        [
+          1961,
+          1673
+        ],
+        [
+          1961,
+          1727
+        ],
+        [
+          248,
+          1727
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1458,
+        1961,
+        1512
+      ],
+      "text": "Phi Liêm, Ác Lai (?) chính là loại ấy. Đô là ơ đồng thanh tương ứng đồng khí",
+      "confidence": 0.8877
+    },
+    {
+      "line_id": "0816_viet_020",
+      "bbox": [
+        [
+          245,
+          1516
+        ],
+        [
+          1969,
+          1516
+        ],
+        [
+          1969,
+          1573
+        ],
+        [
+          245,
+          1573
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1731
+        ],
+        [
+          1969,
+          1731
+        ],
+        [
+          1969,
+          1788
+        ],
+        [
+          245,
+          1788
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1516,
+        1969,
+        1573
+      ],
+      "text": "tương cầu n, hợp nhau theo loại vậy, Kiệt Trụ bá có tịnh riêng gì với, những",
+      "confidence": 0.8653
+    },
+    {
+      "line_id": "0816_viet_021",
+      "bbox": [
+        [
+          246,
+          1577
+        ],
+        [
+          1958,
+          1575
+        ],
+        [
+          1958,
+          1634
+        ],
+        [
+          246,
+          1636
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1792
+        ],
+        [
+          1958,
+          1790
+        ],
+        [
+          1958,
+          1849
+        ],
+        [
+          246,
+          1851
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1575,
+        1958,
+        1636
+      ],
+      "text": "người kia đầu 1 Bảo là ngu tối thi đủng chứ bảo là có tinh riêng thì không đúng.",
+      "confidence": 0.896
+    },
+    {
+      "line_id": "0816_viet_022",
+      "bbox": [
+        [
+          1656,
+          1652
+        ],
+        [
+          1844,
+          1652
+        ],
+        [
+          1844,
+          1708
+        ],
+        [
+          1656,
+          1708
+        ]
+      ],
+      "bbox_original": [
+        [
+          1656,
+          1867
+        ],
+        [
+          1844,
+          1867
+        ],
+        [
+          1844,
+          1923
+        ],
+        [
+          1656,
+          1923
+        ]
+      ],
+      "box_xyxy": [
+        1656,
+        1652,
+        1844,
+        1708
+      ],
+      "text": "HUỆ CHI",
+      "confidence": 0.9362
+    },
+    {
+      "line_id": "0816_viet_023",
+      "bbox": [
+        [
+          245,
+          1777
+        ],
+        [
+          502,
+          1777
+        ],
+        [
+          502,
+          1832
+        ],
+        [
+          245,
+          1832
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1992
+        ],
+        [
+          502,
+          1992
+        ],
+        [
+          502,
+          2047
+        ],
+        [
+          245,
+          2047
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1777,
+        502,
+        1832
+      ],
+      "text": "KHẢO ĐÌNH:",
+      "confidence": 0.8955
+    },
+    {
+      "line_id": "0816_viet_024",
+      "bbox": [
+        [
+          776,
+          1832
+        ],
+        [
+          1432,
+          1832
+        ],
+        [
+          1432,
+          1886
+        ],
+        [
+          776,
+          1886
+        ]
+      ],
+      "bbox_original": [
+        [
+          776,
+          2047
+        ],
+        [
+          1432,
+          2047
+        ],
+        [
+          1432,
+          2101
+        ],
+        [
+          776,
+          2101
+        ]
+      ],
+      "box_xyxy": [
+        776,
+        1832,
+        1432,
+        1886
+      ],
+      "text": "VĂN BẢN KHẢO ĐÍNH: DVSKTT",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0816_viet_025",
+      "bbox": [
+        [
+          235,
+          1916
+        ],
+        [
+          1378,
+          1916
+        ],
+        [
+          1378,
+          1984
+        ],
+        [
+          235,
+          1984
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          2131
+        ],
+        [
+          1378,
+          2131
+        ],
+        [
+          1378,
+          2199
+        ],
+        [
+          235,
+          2199
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1916,
+        1378,
+        1984
+      ],
+      "text": "1- ĐVSKTT viết nhằm thành tào ẻ chúng tôi chữa lại.",
+      "confidence": 0.8486
+    },
+    {
+      "line_id": "0816_viet_026",
+      "bbox": [
+        [
+          269,
+          2055
+        ],
+        [
+          481,
+          2055
+        ],
+        [
+          481,
+          2111
+        ],
+        [
+          269,
+          2111
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          2270
+        ],
+        [
+          481,
+          2270
+        ],
+        [
+          481,
+          2326
+        ],
+        [
+          269,
+          2326
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        2055,
+        481,
+        2111
+      ],
+      "text": "HỦ THÍCH",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0816_viet_027",
+      "bbox": [
+        [
+          257,
+          2126
+        ],
+        [
+          1974,
+          2127
+        ],
+        [
+          1974,
+          2187
+        ],
+        [
+          257,
+          2186
+        ]
+      ],
+      "bbox_original": [
+        [
+          257,
+          2341
+        ],
+        [
+          1974,
+          2342
+        ],
+        [
+          1974,
+          2402
+        ],
+        [
+          257,
+          2401
+        ]
+      ],
+      "box_xyxy": [
+        257,
+        2126,
+        1974,
+        2187
+      ],
+      "text": "(1) Đầu đề do chúng tôi thêm. ĐVSXTT chép mấy lời trên đây của Trần Minh Tông trong",
+      "confidence": 0.8934
+    },
+    {
+      "line_id": "0816_viet_028",
+      "bbox": [
+        [
+          345,
+          2179
+        ],
+        [
+          1971,
+          2183
+        ],
+        [
+          1971,
+          2234
+        ],
+        [
+          345,
+          2230
+        ]
+      ],
+      "bbox_original": [
+        [
+          345,
+          2394
+        ],
+        [
+          1971,
+          2398
+        ],
+        [
+          1971,
+          2449
+        ],
+        [
+          345,
+          2445
+        ]
+      ],
+      "box_xyxy": [
+        345,
+        2179,
+        1971,
+        2234
+      ],
+      "text": "khi điểm lại một cách tổng quát về hành vì và cá, tỉnh của ông, vào, dịp ông mất, không",
+      "confidence": 0.9042
+    },
+    {
+      "line_id": "0816_viet_029",
+      "bbox": [
+        [
+          329,
+          2234
+        ],
+        [
+          1244,
+          2232
+        ],
+        [
+          1244,
+          2280
+        ],
+        [
+          329,
+          2282
+        ]
+      ],
+      "bbox_original": [
+        [
+          329,
+          2449
+        ],
+        [
+          1244,
+          2447
+        ],
+        [
+          1244,
+          2495
+        ],
+        [
+          329,
+          2497
+        ]
+      ],
+      "box_xyxy": [
+        329,
+        2232,
+        1244,
+        2282
+      ],
+      "text": "rõ những y kiến đó nhà vua nói ra vào dịp nào",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0816_viet_030",
+      "bbox": [
+        [
+          239,
+          2299
+        ],
+        [
+          1957,
+          2299
+        ],
+        [
+          1957,
+          2354
+        ],
+        [
+          239,
+          2354
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          2514
+        ],
+        [
+          1957,
+          2514
+        ],
+        [
+          1957,
+          2569
+        ],
+        [
+          239,
+          2569
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        2299,
+        1957,
+        2354
+      ],
+      "text": "(2) Tắc Tiết, Quỷ Long: Tiết: là bề iôi của vua Thuấn, Có công giúp vuá \" Vĩ: trị thủy",
+      "confidence": 0.8887
+    },
+    {
+      "line_id": "0816_viet_031",
+      "bbox": [
+        [
+          327,
+          2354
+        ],
+        [
+          1958,
+          2355
+        ],
+        [
+          1958,
+          2403
+        ],
+        [
+          327,
+          2402
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          2569
+        ],
+        [
+          1958,
+          2570
+        ],
+        [
+          1958,
+          2618
+        ],
+        [
+          327,
+          2617
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        2354,
+        1958,
+        2403
+      ],
+      "text": "Được Thuấn phong chức Tư đò, Là tờ của nhà Thương, Quỳ - cũng là một bề tôi của",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0816_viet_032",
+      "bbox": [
+        [
+          328,
+          2405
+        ],
+        [
+          1014,
+          2407
+        ],
+        [
+          1014,
+          2454
+        ],
+        [
+          328,
+          2452
+        ]
+      ],
+      "bbox_original": [
+        [
+          328,
+          2620
+        ],
+        [
+          1014,
+          2622
+        ],
+        [
+          1014,
+          2669
+        ],
+        [
+          328,
+          2667
+        ]
+      ],
+      "box_xyxy": [
+        328,
+        2405,
+        1014,
+        2454
+      ],
+      "text": "vua thuấn, chuyên coi về điền nhạc",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0816_viet_033",
+      "bbox": [
+        [
+          237,
+          2473
+        ],
+        [
+          1963,
+          2471
+        ],
+        [
+          1963,
+          2525
+        ],
+        [
+          237,
+          2527
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          2688
+        ],
+        [
+          1963,
+          2686
+        ],
+        [
+          1963,
+          2740
+        ],
+        [
+          237,
+          2742
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        2471,
+        1963,
+        2527
+      ],
+      "text": "(3) Phi Liêm, Ác Lai: Phi Liêm là bề jôi, của vua Trụ ÁT nhà Ân. Gó tài chạy nhanh. Con",
+      "confidence": 0.8823
+    },
+    {
+      "line_id": "0816_viet_034",
+      "bbox": [
+        [
+          326,
+          2521
+        ],
+        [
+          1741,
+          2526
+        ],
+        [
+          1741,
+          2576
+        ],
+        [
+          326,
+          2571
+        ]
+      ],
+      "bbox_original": [
+        [
+          326,
+          2736
+        ],
+        [
+          1741,
+          2741
+        ],
+        [
+          1741,
+          2791
+        ],
+        [
+          326,
+          2786
+        ]
+      ],
+      "box_xyxy": [
+        326,
+        2521,
+        1741,
+        2576
+      ],
+      "text": "là ác lai có sức khoẻ, Cả hai cha.con đều đem hết tài lực phụng thờ Trụ.",
+      "confidence": 0.8534
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "NHẬM NHÂN LUẬN",
+      "Nhân quân chi nhàm nhàn, phị tư kỳ nhân dã, Đãn vị chi hiền nhĩ, dĩ",
+      "kỳ nhân nhân ngô tâm, cung ngô chức, sự ngô, sự, phục, ngô lao, cồ vị chi hiền",
+      "nhi nhậm chi",
+      "Ngô thành hiền đã, tác sở nhậm chi nhận diệc hiền, Nghiêu Thuấn chi ứ",
+      "Tắc Tiết, Quỳ Long thị dã. Ngô bất biên yên, tắc sở nhậm chi nhân diệc bất",
+      "hiền, Kiệt Trạ chi ư Phi ? Liêm, Ác Lai thị dã, Thừ nãi thanh ứng khí cầu các",
+      "đi loại hợp. Kiệt Trụ, khởi tơrị ứ thữ nhân tai 7 Vị chỉ hón âm tắc khả. Vị chi tư",
+      "tắc bất khả."
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC DÙNG NGƯỜI (I)",
+      "Bạc nhân quân dùng người, không phải. là có tỉnh, riêng với người ấy. Đã",
+      "gọi rằng tôi hiện thì phải là người biết suy bụng của ta, giữ tròn chức của, ta,",
+      "theo đuổi sự nghiệp của la, hết sức: vì nỗi vất và của ta, cho nên gọi là, chiến -",
+      "mà trao trách nhiệm",
+      "Ta quả thật là ông vua biên, thì người mà ía phó thác cũng hiền, Nghiêu,",
+      "Thuấn đối với Tắc Tiết, Quỷ Long (7) chỉnh là như vậy, Còn ta không phải là",
+      "ông vuai hiền 7 Thì người má ta phó thác cũng không biền. Kiệt Trụ đối, với",
+      "Phi Liêm, Ác Lai (?) chính là loại ấy. Đô là ơ đồng thanh tương ứng đồng khí",
+      "tương cầu n, hợp nhau theo loại vậy, Kiệt Trụ bá có tịnh riêng gì với, những",
+      "người kia đầu 1 Bảo là ngu tối thi đủng chứ bảo là có tinh riêng thì không đúng.",
+      "HUỆ CHI"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

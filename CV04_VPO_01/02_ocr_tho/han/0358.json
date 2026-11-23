@@ -1,0 +1,405 @@
+{
+  "page_id": "0358",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 358,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0358_han_000",
+      "bbox": [
+        [
+          467,
+          84
+        ],
+        [
+          1181,
+          81
+        ],
+        [
+          1181,
+          159
+        ],
+        [
+          467,
+          163
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          252
+        ],
+        [
+          1181,
+          249
+        ],
+        [
+          1181,
+          327
+        ],
+        [
+          467,
+          331
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        81,
+        1181,
+        163
+      ],
+      "text": "雖曰己藻蘋婦事",
+      "confidence": 0.9971
+    },
+    {
+      "line_id": "0358_han_001",
+      "bbox": [
+        [
+          475,
+          363
+        ],
+        [
+          1186,
+          365
+        ],
+        [
+          1186,
+          442
+        ],
+        [
+          475,
+          440
+        ]
+      ],
+      "bbox_original": [
+        [
+          475,
+          531
+        ],
+        [
+          1186,
+          533
+        ],
+        [
+          1186,
+          610
+        ],
+        [
+          475,
+          608
+        ]
+      ],
+      "box_xyxy": [
+        475,
+        363,
+        1186,
+        442
+      ],
+      "text": "内齊家上祀祖先",
+      "confidence": 0.9518
+    },
+    {
+      "line_id": "0358_han_002",
+      "bbox": [
+        [
+          469,
+          647
+        ],
+        [
+          1077,
+          650
+        ],
+        [
+          1077,
+          725
+        ],
+        [
+          469,
+          721
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          815
+        ],
+        [
+          1077,
+          818
+        ],
+        [
+          1077,
+          893
+        ],
+        [
+          469,
+          889
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        647,
+        1077,
+        725
+      ],
+      "text": "澗毛潢水微虔",
+      "confidence": 0.9868
+    },
+    {
+      "line_id": "0358_han_003",
+      "bbox": [
+        [
+          467,
+          927
+        ],
+        [
+          1291,
+          923
+        ],
+        [
+          1291,
+          996
+        ],
+        [
+          467,
+          1001
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          1095
+        ],
+        [
+          1291,
+          1091
+        ],
+        [
+          1291,
+          1164
+        ],
+        [
+          467,
+          1169
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        923,
+        1291,
+        1001
+      ],
+      "text": "安知主饋能賢婦人",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0358_han_004",
+      "bbox": [
+        [
+          475,
+          1266
+        ],
+        [
+          1188,
+          1269
+        ],
+        [
+          1188,
+          1343
+        ],
+        [
+          475,
+          1341
+        ]
+      ],
+      "bbox_original": [
+        [
+          475,
+          1434
+        ],
+        [
+          1188,
+          1437
+        ],
+        [
+          1188,
+          1511
+        ],
+        [
+          475,
+          1509
+        ]
+      ],
+      "box_xyxy": [
+        475,
+        1266,
+        1188,
+        1343
+      ],
+      "text": "可知者十分家幼",
+      "confidence": 0.997
+    },
+    {
+      "line_id": "0358_han_005",
+      "bbox": [
+        [
+          469,
+          1609
+        ],
+        [
+          1180,
+          1611
+        ],
+        [
+          1180,
+          1686
+        ],
+        [
+          469,
+          1684
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1777
+        ],
+        [
+          1180,
+          1779
+        ],
+        [
+          1180,
+          1854
+        ],
+        [
+          469,
+          1852
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1609,
+        1180,
+        1686
+      ],
+      "text": "一門中共保無危",
+      "confidence": 0.9989
+    },
+    {
+      "line_id": "0358_han_006",
+      "bbox": [
+        [
+          468,
+          1888
+        ],
+        [
+          1072,
+          1888
+        ],
+        [
+          1072,
+          1959
+        ],
+        [
+          468,
+          1959
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          2056
+        ],
+        [
+          1072,
+          2056
+        ],
+        [
+          1072,
+          2127
+        ],
+        [
+          468,
+          2127
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        1888,
+        1072,
+        1959
+      ],
+      "text": "別辰正在孩兒",
+      "confidence": 0.9849
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "雖曰己藻蘋婦事",
+      "内齊家上祀祖先",
+      "澗毛潢水微虔",
+      "安知主饋能賢婦人",
+      "可知者十分家幼",
+      "一門中共保無危",
+      "別辰正在孩兒"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "雖曰己藻蘋婦事",
+        "phien_am": "Tuy viết dĩ tảo tăn phụ-sự,",
+        "dich_nghia_gloss": "- Tuy đã nói rằng việc đàn-bà tân-tảo."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "内齊家上祀祖先",
+        "phien_am": "Nội tề-gia thượng tự tồ-tiên.",
+        "dich_nghia_gloss": "- Trong xem sóc việc nhà, trên thờ cúng tổ-tiên"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "澗毛潢水微虔",
+        "phien_am": "Giản mao hoàng-thủy vi kiên,",
+        "dich_nghia_gloss": "- Tuy rau khe nước suôi cũng tỏ được lòng thành"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "安知主饋能賢婦人",
+        "phien_am": "An tri chủ quỹ năng hiền phụ nhân",
+        "dich_nghia_gloss": "- Nhưng đã chắc đâu làm tròn phận sự của một người đàn-bà giỏi, tay hòm chìa khóa trong nhà ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "可知者十分家幼",
+        "phien_am": "Khả tri giả thập phần gia-âu,",
+        "dich_nghia_gloss": "- Duy một điều có thể biết chắc được là mười phần con trẻ nhà ta..."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "一門中共保無危",
+        "phien_am": "Nhất môn trung cộng bảo vô nguy",
+        "dich_nghia_gloss": "Trong một cửa đều được giữ gìn, khỏi nguy-hiểm"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "別辰正在孩兒",
+        "phien_am": "Biệt thời chính tại hài nhi",
+        "dich_nghia_gloss": "- Lúc ta ra đi, thì con ta chính đương măng sửa"
+      }
+    ]
+  }
+}

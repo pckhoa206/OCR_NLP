@@ -1,0 +1,405 @@
+{
+  "page_id": "0336",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 336,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0336_han_000",
+      "bbox": [
+        [
+          473,
+          76
+        ],
+        [
+          1295,
+          76
+        ],
+        [
+          1295,
+          149
+        ],
+        [
+          473,
+          149
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          244
+        ],
+        [
+          1295,
+          244
+        ],
+        [
+          1295,
+          317
+        ],
+        [
+          473,
+          317
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        76,
+        1295,
+        149
+      ],
+      "text": "風摇庭竹月懸屋樑",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0336_han_001",
+      "bbox": [
+        [
+          472,
+          424
+        ],
+        [
+          1178,
+          419
+        ],
+        [
+          1178,
+          497
+        ],
+        [
+          472,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          592
+        ],
+        [
+          1178,
+          587
+        ],
+        [
+          1178,
+          665
+        ],
+        [
+          472,
+          669
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        419,
+        1178,
+        501
+      ],
+      "text": "不是做何郎投筆",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0336_han_002",
+      "bbox": [
+        [
+          472,
+          699
+        ],
+        [
+          1179,
+          699
+        ],
+        [
+          1179,
+          777
+        ],
+        [
+          472,
+          777
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          867
+        ],
+        [
+          1179,
+          867
+        ],
+        [
+          1179,
+          945
+        ],
+        [
+          472,
+          945
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        699,
+        1179,
+        777
+      ],
+      "text": "將忠肝為國從軍",
+      "confidence": 0.9878
+    },
+    {
+      "line_id": "0336_han_003",
+      "bbox": [
+        [
+          469,
+          982
+        ],
+        [
+          1071,
+          979
+        ],
+        [
+          1071,
+          1055
+        ],
+        [
+          469,
+          1057
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1150
+        ],
+        [
+          1071,
+          1147
+        ],
+        [
+          1071,
+          1223
+        ],
+        [
+          469,
+          1225
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        979,
+        1071,
+        1057
+      ],
+      "text": "此身空自風塵",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0336_han_004",
+      "bbox": [
+        [
+          470,
+          1257
+        ],
+        [
+          1286,
+          1254
+        ],
+        [
+          1286,
+          1335
+        ],
+        [
+          470,
+          1337
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1425
+        ],
+        [
+          1286,
+          1422
+        ],
+        [
+          1286,
+          1503
+        ],
+        [
+          470,
+          1505
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1254,
+        1286,
+        1337
+      ],
+      "text": "坐中虚視寝辰徒聞",
+      "confidence": 0.8902
+    },
+    {
+      "line_id": "0336_han_005",
+      "bbox": [
+        [
+          469,
+          1607
+        ],
+        [
+          1183,
+          1605
+        ],
+        [
+          1183,
+          1683
+        ],
+        [
+          469,
+          1685
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1775
+        ],
+        [
+          1183,
+          1773
+        ],
+        [
+          1183,
+          1851
+        ],
+        [
+          469,
+          1853
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1605,
+        1183,
+        1685
+      ],
+      "text": "不是做何人捧檄",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0336_han_006",
+      "bbox": [
+        [
+          465,
+          1891
+        ],
+        [
+          1182,
+          1891
+        ],
+        [
+          1182,
+          1972
+        ],
+        [
+          465,
+          1972
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          2059
+        ],
+        [
+          1182,
+          2059
+        ],
+        [
+          1182,
+          2140
+        ],
+        [
+          465,
+          2140
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        1891,
+        1182,
+        1972
+      ],
+      "text": "將孝心離戚從官",
+      "confidence": 0.9971
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "風摇庭竹月懸屋樑",
+      "不是做何郎投筆",
+      "將忠肝為國從軍",
+      "此身空自風塵",
+      "坐中虚視寝辰徒聞",
+      "不是做何人捧檄",
+      "將孝心離戚從官"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "風摇庭竹月懸屋樑",
+        "phien_am": "Phong dao đinh trúc, nguyệt huyền ốc lương.",
+        "dich_nghia_gloss": "- (Ngồi nhìn) gió lay cành trúc trước thêm, và mảnh trăng treo trên tường nhà"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "不是做何郎投筆",
+        "phien_am": "Bất thị tõ hà lang đầu bút",
+        "dich_nghia_gloss": "- Nghĩ mình chẳng phải như ai, vứt bút viết thuê."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "將忠肝為國從軍",
+        "phien_am": "Tương trung can vị quốc tùng quân",
+        "dich_nghia_gloss": "- Đem lí gan trung-liệt ra đầu-quân."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "此身空自風塵",
+        "phien_am": "Thử thân không tự phong trần",
+        "dich_nghia_gloss": "- Cái thân này luông vì số phong-trần mà xui ra vậy."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "坐中虚視寝辰徒聞",
+        "phien_am": "Tọa trung hư thị, tầm thần đồ văn",
+        "dich_nghia_gloss": "- Trong chỗ ngối luông xem (mà thẹn), trong lúc nằm, luông nghe (mà buôn)"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "不是做何人捧檄",
+        "phien_am": "Bất thị tõ hà nhân phủng hịch",
+        "dich_nghia_gloss": "- Chảng phải làm như người nọ vâng tờ hịch."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "將孝心離戚從官",
+        "phien_am": "Tương hiếu tâm ly thích lùng quan",
+        "dich_nghia_gloss": "Vì lòng hiêu mà phải tìr-giã bà con đi làm quan"
+      }
+    ]
+  }
+}

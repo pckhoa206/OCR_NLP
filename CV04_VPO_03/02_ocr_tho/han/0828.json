@@ -1,0 +1,218 @@
+{
+  "page_id": "0828",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 828,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0828_han_000",
+      "bbox": [
+        [
+          287,
+          178
+        ],
+        [
+          993,
+          160
+        ],
+        [
+          995,
+          235
+        ],
+        [
+          289,
+          253
+        ]
+      ],
+      "bbox_original": [
+        [
+          287,
+          393
+        ],
+        [
+          993,
+          375
+        ],
+        [
+          995,
+          450
+        ],
+        [
+          289,
+          468
+        ]
+      ],
+      "box_xyxy": [
+        287,
+        160,
+        995,
+        253
+      ],
+      "text": "勝遊邂逅那可必",
+      "confidence": 0.9898
+    },
+    {
+      "line_id": "0828_han_001",
+      "bbox": [
+        [
+          279,
+          243
+        ],
+        [
+          989,
+          232
+        ],
+        [
+          990,
+          318
+        ],
+        [
+          280,
+          328
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          458
+        ],
+        [
+          989,
+          447
+        ],
+        [
+          990,
+          533
+        ],
+        [
+          280,
+          543
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        232,
+        990,
+        328
+      ],
+      "text": "塵土重来又何日",
+      "confidence": 0.8852
+    },
+    {
+      "line_id": "0828_han_002",
+      "bbox": [
+        [
+          280,
+          313
+        ],
+        [
+          992,
+          301
+        ],
+        [
+          993,
+          381
+        ],
+        [
+          281,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          528
+        ],
+        [
+          992,
+          516
+        ],
+        [
+          993,
+          596
+        ],
+        [
+          281,
+          607
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        301,
+        993,
+        392
+      ],
+      "text": "悠悠身世倚欄杆",
+      "confidence": 0.9529
+    },
+    {
+      "line_id": "0828_han_003",
+      "bbox": [
+        [
+          292,
+          387
+        ],
+        [
+          988,
+          373
+        ],
+        [
+          989,
+          445
+        ],
+        [
+          293,
+          459
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          602
+        ],
+        [
+          988,
+          588
+        ],
+        [
+          989,
+          660
+        ],
+        [
+          293,
+          674
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        373,
+        989,
+        459
+      ],
+      "text": "天外客帆歸鳥疾",
+      "confidence": 0.9888
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "勝遊邂逅那可必",
+      "塵土重来又何日",
+      "悠悠身世倚欄杆",
+      "天外客帆歸鳥疾"
+    ],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "page_id": "0714",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 714,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0714_han_000",
+      "bbox": [
+        [
+          234,
+          1717
+        ],
+        [
+          1059,
+          1717
+        ],
+        [
+          1059,
+          1780
+        ],
+        [
+          234,
+          1780
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          1932
+        ],
+        [
+          1059,
+          1932
+        ],
+        [
+          1059,
+          1995
+        ],
+        [
+          234,
+          1995
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        1717,
+        1059,
+        1780
+      ],
+      "text": "(43) Linh-tháu : núi  Trung An-đo.  Hòng bãc thành Vrong-xá 王 舍 , mrc Ma-yét-dà",
+      "confidence": 0.8904
+    },
+    {
+      "line_id": "0714_han_001",
+      "bbox": [
+        [
+          346,
+          1761
+        ],
+        [
+          1059,
+          1761
+        ],
+        [
+          1059,
+          1838
+        ],
+        [
+          346,
+          1838
+        ]
+      ],
+      "bbox_original": [
+        [
+          346,
+          1976
+        ],
+        [
+          1059,
+          1976
+        ],
+        [
+          1059,
+          2053
+        ],
+        [
+          346,
+          2053
+        ]
+      ],
+      "box_xyxy": [
+        346,
+        1761,
+        1059,
+        1838
+      ],
+      "text": "摩 揭陀",
+      "confidence": 0.9236
+    },
+    {
+      "line_id": "0714_han_002",
+      "bbox": [
+        [
+          320,
+          1864
+        ],
+        [
+          1059,
+          1864
+        ],
+        [
+          1059,
+          1937
+        ],
+        [
+          320,
+          1937
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          2079
+        ],
+        [
+          1059,
+          2079
+        ],
+        [
+          1059,
+          2152
+        ],
+        [
+          320,
+          2152
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        1864,
+        1059,
+        1937
+      ],
+      "text": "nhà su An-dò Tuè Ly 慧 王里 lèn núi này than rǎng : noi dày thyc gióng nhu môt",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0714_han_003",
+      "bbox": [
+        [
+          319,
+          1921
+        ],
+        [
+          1951,
+          1934
+        ],
+        [
+          1951,
+          1984
+        ],
+        [
+          319,
+          1971
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          2136
+        ],
+        [
+          1951,
+          2149
+        ],
+        [
+          1951,
+          2199
+        ],
+        [
+          319,
+          2186
+        ]
+      ],
+      "box_xyxy": [
+        319,
+        1921,
+        1951,
+        1984
+      ],
+      "text": "ngon nhő  giǔa dāy Linh-thru  Thièn-trúe 天 , không biét bay dén dày tù",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0714_han_004",
+      "bbox": [
+        [
+          1067,
+          2628
+        ],
+        [
+          1107,
+          2628
+        ],
+        [
+          1107,
+          2663
+        ],
+        [
+          1067,
+          2663
+        ]
+      ],
+      "bbox_original": [
+        [
+          1067,
+          2843
+        ],
+        [
+          1107,
+          2843
+        ],
+        [
+          1107,
+          2878
+        ],
+        [
+          1067,
+          2878
+        ]
+      ],
+      "box_xyxy": [
+        1067,
+        2628,
+        1107,
+        2663
+      ],
+      "text": "社",
+      "confidence": 0.1578
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "摩 揭陀",
+      "社"
+    ],
+    "interlinear_triplets": []
+  }
+}

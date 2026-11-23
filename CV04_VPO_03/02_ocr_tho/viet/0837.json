@@ -1,0 +1,76 @@
+{
+  "page_id": "0837",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 837,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0837_viet_000",
+      "bbox": [
+        [
+          911,
+          83
+        ],
+        [
+          1046,
+          83
+        ],
+        [
+          1046,
+          170
+        ],
+        [
+          911,
+          170
+        ]
+      ],
+      "bbox_original": [
+        [
+          911,
+          298
+        ],
+        [
+          1046,
+          298
+        ],
+        [
+          1046,
+          385
+        ],
+        [
+          911,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        911,
+        83,
+        1046,
+        170
+      ],
+      "text": "356",
+      "confidence": 0.9203
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "356"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

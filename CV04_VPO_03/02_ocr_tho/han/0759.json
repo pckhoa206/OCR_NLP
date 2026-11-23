@@ -1,0 +1,448 @@
+{
+  "page_id": "0759",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 759,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0759_han_000",
+      "bbox": [
+        [
+          616,
+          1326
+        ],
+        [
+          702,
+          1326
+        ],
+        [
+          702,
+          1394
+        ],
+        [
+          616,
+          1394
+        ]
+      ],
+      "bbox_original": [
+        [
+          616,
+          1541
+        ],
+        [
+          702,
+          1541
+        ],
+        [
+          702,
+          1609
+        ],
+        [
+          616,
+          1609
+        ]
+      ],
+      "box_xyxy": [
+        616,
+        1326,
+        702,
+        1394
+      ],
+      "text": "花",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0759_han_001",
+      "bbox": [
+        [
+          626,
+          1407
+        ],
+        [
+          697,
+          1407
+        ],
+        [
+          697,
+          1468
+        ],
+        [
+          626,
+          1468
+        ]
+      ],
+      "bbox_original": [
+        [
+          626,
+          1622
+        ],
+        [
+          697,
+          1622
+        ],
+        [
+          697,
+          1683
+        ],
+        [
+          626,
+          1683
+        ]
+      ],
+      "box_xyxy": [
+        626,
+        1407,
+        697,
+        1468
+      ],
+      "text": "淡",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0759_han_002",
+      "bbox": [
+        [
+          259,
+          1576
+        ],
+        [
+          1059,
+          1576
+        ],
+        [
+          1059,
+          1669
+        ],
+        [
+          259,
+          1669
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          1791
+        ],
+        [
+          1059,
+          1791
+        ],
+        [
+          1059,
+          1884
+        ],
+        [
+          259,
+          1884
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1576,
+        1059,
+        1669
+      ],
+      "text": "(1) Qugnh-lám: tèn mōt ngöi chùa do su Không Ló 空 路 dòi Ly 李 xây dyng  xā",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0759_han_003",
+      "bbox": [
+        [
+          353,
+          1655
+        ],
+        [
+          1972,
+          1648
+        ],
+        [
+          1972,
+          1701
+        ],
+        [
+          353,
+          1708
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          1870
+        ],
+        [
+          1972,
+          1863
+        ],
+        [
+          1972,
+          1916
+        ],
+        [
+          353,
+          1923
+        ]
+      ],
+      "box_xyxy": [
+        353,
+        1648,
+        1972,
+        1708
+      ],
+      "text": "Hà-lôi, huyên Hông-triěu, tǐnh Quăng-ninh ngày nay. Noi day Tràn Thái Tông  太",
+      "confidence": 0.9181
+    },
+    {
+      "line_id": "0759_han_004",
+      "bbox": [
+        [
+          357,
+          1760
+        ],
+        [
+          965,
+          1754
+        ],
+        [
+          965,
+          1805
+        ],
+        [
+          357,
+          1811
+        ]
+      ],
+      "bbox_original": [
+        [
+          357,
+          1975
+        ],
+        [
+          965,
+          1969
+        ],
+        [
+          965,
+          2020
+        ],
+        [
+          357,
+          2026
+        ]
+      ],
+      "box_xyxy": [
+        357,
+        1754,
+        965,
+        1811
+      ],
+      "text": "Quang 玄 光 dā ting tru tri.",
+      "confidence": 0.8767
+    },
+    {
+      "line_id": "0759_han_005",
+      "bbox": [
+        [
+          255,
+          1916
+        ],
+        [
+          1059,
+          1916
+        ],
+        [
+          1059,
+          2008
+        ],
+        [
+          255,
+          2008
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          2131
+        ],
+        [
+          1059,
+          2131
+        ],
+        [
+          1059,
+          2223
+        ],
+        [
+          255,
+          2223
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1916,
+        1059,
+        2008
+      ],
+      "text": "(3) Crği hc bay di (ky kh hc) : Sách Hoàn vū kú 寰 宇 言記 chép : xua Phi Vǎn Vy",
+      "confidence": 0.8933
+    },
+    {
+      "line_id": "0759_han_006",
+      "bbox": [
+        [
+          374,
+          1991
+        ],
+        [
+          1987,
+          1982
+        ],
+        [
+          1987,
+          2050
+        ],
+        [
+          374,
+          2058
+        ]
+      ],
+      "bbox_original": [
+        [
+          374,
+          2206
+        ],
+        [
+          1987,
+          2197
+        ],
+        [
+          1987,
+          2265
+        ],
+        [
+          374,
+          2273
+        ]
+      ],
+      "box_xyxy": [
+        374,
+        1982,
+        1987,
+        2058
+      ],
+      "text": "常 tu tiên dǎc dao bèn cuði hac bay di. Càu này y nói Tràn Quang Triěu",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0759_han_007",
+      "bbox": [
+        [
+          353,
+          2159
+        ],
+        [
+          1059,
+          2159
+        ],
+        [
+          1059,
+          2229
+        ],
+        [
+          353,
+          2229
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          2374
+        ],
+        [
+          1059,
+          2374
+        ],
+        [
+          1059,
+          2444
+        ],
+        [
+          353,
+          2444
+        ]
+      ],
+      "box_xyxy": [
+        353,
+        2159,
+        1059,
+        2229
+      ],
+      "text": "dt trong ngôi nhà tranh trên gò Ngoa-long 臣 音è và láy hiu là Ngoa Long tièn sinh.",
+      "confidence": 0.9736
+    },
+    {
+      "line_id": "0759_han_008",
+      "bbox": [
+        [
+          351,
+          2217
+        ],
+        [
+          1904,
+          2209
+        ],
+        [
+          1904,
+          2270
+        ],
+        [
+          351,
+          2278
+        ]
+      ],
+      "bbox_original": [
+        [
+          351,
+          2432
+        ],
+        [
+          1904,
+          2424
+        ],
+        [
+          1904,
+          2485
+        ],
+        [
+          351,
+          2493
+        ]
+      ],
+      "box_xyxy": [
+        351,
+        2209,
+        1904,
+        2278
+      ],
+      "text": "Tác già mrgn dièn này dè vi Trăn Quang Trièu vói Gia Cát Lrong   亮",
+      "confidence": 0.9143
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

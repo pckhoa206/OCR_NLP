@@ -1,0 +1,213 @@
+{
+  "page_id": "0762",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 762,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0762_han_000",
+      "bbox": [
+        [
+          254,
+          1921
+        ],
+        [
+          1013,
+          1902
+        ],
+        [
+          1015,
+          1976
+        ],
+        [
+          256,
+          1995
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          2136
+        ],
+        [
+          1013,
+          2117
+        ],
+        [
+          1015,
+          2191
+        ],
+        [
+          256,
+          2210
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1902,
+        1015,
+        1995
+      ],
+      "text": "1* TVTL1, TVTL2, HVTT : qud 過",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0762_han_001",
+      "bbox": [
+        [
+          353,
+          1989
+        ],
+        [
+          725,
+          1979
+        ],
+        [
+          726,
+          2040
+        ],
+        [
+          354,
+          2050
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          2204
+        ],
+        [
+          725,
+          2194
+        ],
+        [
+          726,
+          2255
+        ],
+        [
+          354,
+          2265
+        ]
+      ],
+      "box_xyxy": [
+        353,
+        1979,
+        726,
+        2050
+      ],
+      "text": "TVTL2: vän 文",
+      "confidence": 0.8958
+    },
+    {
+      "line_id": "0762_han_002",
+      "bbox": [
+        [
+          673,
+          2112
+        ],
+        [
+          720,
+          2112
+        ],
+        [
+          720,
+          2171
+        ],
+        [
+          673,
+          2171
+        ]
+      ],
+      "bbox_original": [
+        [
+          673,
+          2327
+        ],
+        [
+          720,
+          2327
+        ],
+        [
+          720,
+          2386
+        ],
+        [
+          673,
+          2386
+        ]
+      ],
+      "box_xyxy": [
+        673,
+        2112,
+        720,
+        2171
+      ],
+      "text": "車",
+      "confidence": 0.9925
+    },
+    {
+      "line_id": "0762_han_003",
+      "bbox": [
+        [
+          842,
+          2168
+        ],
+        [
+          1010,
+          2168
+        ],
+        [
+          1010,
+          2241
+        ],
+        [
+          842,
+          2241
+        ]
+      ],
+      "bbox_original": [
+        [
+          842,
+          2383
+        ],
+        [
+          1010,
+          2383
+        ],
+        [
+          1010,
+          2456
+        ],
+        [
+          842,
+          2456
+        ]
+      ],
+      "box_xyxy": [
+        842,
+        2168,
+        1010,
+        2241
+      ],
+      "text": "題鳥",
+      "confidence": 0.5751
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

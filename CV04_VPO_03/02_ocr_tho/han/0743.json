@@ -1,0 +1,636 @@
+{
+  "page_id": "0743",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 743,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0743_han_000",
+      "bbox": [
+        [
+          218,
+          99
+        ],
+        [
+          1059,
+          99
+        ],
+        [
+          1059,
+          178
+        ],
+        [
+          218,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          314
+        ],
+        [
+          1059,
+          314
+        ],
+        [
+          1059,
+          393
+        ],
+        [
+          218,
+          393
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        99,
+        1059,
+        178
+      ],
+      "text": "(8) Tà Trròng: tên chū cǔa Tu Mā Thièn 司 馬 . nhà sù hroc nôi tiéng doi Hán",
+      "confidence": 0.8712
+    },
+    {
+      "line_id": "0743_han_001",
+      "bbox": [
+        [
+          334,
+          167
+        ],
+        [
+          1946,
+          162
+        ],
+        [
+          1946,
+          223
+        ],
+        [
+          334,
+          227
+        ]
+      ],
+      "bbox_original": [
+        [
+          334,
+          382
+        ],
+        [
+          1946,
+          377
+        ],
+        [
+          1946,
+          438
+        ],
+        [
+          334,
+          442
+        ]
+      ],
+      "box_xyxy": [
+        334,
+        162,
+        1946,
+        227
+      ],
+      "text": "漢, Trung-quóc. Ong tung du lich thăm nhiěu noi danh tháng và di tich lich s cua",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0743_han_002",
+      "bbox": [
+        [
+          331,
+          725
+        ],
+        [
+          1059,
+          725
+        ],
+        [
+          1059,
+          785
+        ],
+        [
+          331,
+          785
+        ]
+      ],
+      "bbox_original": [
+        [
+          331,
+          940
+        ],
+        [
+          1059,
+          940
+        ],
+        [
+          1059,
+          1000
+        ],
+        [
+          331,
+          1000
+        ]
+      ],
+      "box_xyxy": [
+        331,
+        725,
+        1059,
+        785
+      ],
+      "text": "宗, tù nǎm 1285 dén 1293. Nhi Thánh là Tràn Thánh Töng 陳聖宗và Tràn Nhãn",
+      "confidence": 0.901
+    },
+    {
+      "line_id": "0743_han_003",
+      "bbox": [
+        [
+          227,
+          984
+        ],
+        [
+          1059,
+          984
+        ],
+        [
+          1059,
+          1067
+        ],
+        [
+          227,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          227,
+          1199
+        ],
+        [
+          1059,
+          1199
+        ],
+        [
+          1059,
+          1282
+        ],
+        [
+          227,
+          1282
+        ]
+      ],
+      "box_xyxy": [
+        227,
+        984,
+        1059,
+        1067
+      ],
+      "text": "(15) Luu Cung: vua Nam Hán 南 con là Hoǎng Thao 弘 ：bi Ngō Quyěn dánh",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0743_han_004",
+      "bbox": [
+        [
+          240,
+          1292
+        ],
+        [
+          1059,
+          1292
+        ],
+        [
+          1059,
+          1345
+        ],
+        [
+          240,
+          1345
+        ]
+      ],
+      "bbox_original": [
+        [
+          240,
+          1507
+        ],
+        [
+          1059,
+          1507
+        ],
+        [
+          1059,
+          1560
+        ],
+        [
+          240,
+          1560
+        ]
+      ],
+      "box_xyxy": [
+        240,
+        1292,
+        1059,
+        1345
+      ],
+      "text": "(17) Xich-bich: dãy núi trèn bò sông Duong-tù 子. Thoi Tam quőe 三 , Chu Du",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0743_han_005",
+      "bbox": [
+        [
+          330,
+          1395
+        ],
+        [
+          1199,
+          1397
+        ],
+        [
+          1199,
+          1451
+        ],
+        [
+          330,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          330,
+          1610
+        ],
+        [
+          1199,
+          1612
+        ],
+        [
+          1199,
+          1666
+        ],
+        [
+          330,
+          1664
+        ]
+      ],
+      "box_xyxy": [
+        330,
+        1395,
+        1199,
+        1451
+      ],
+      "text": "quan Tào Tháo 曹 trên quang sông nay.",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0743_han_006",
+      "bbox": [
+        [
+          237,
+          1573
+        ],
+        [
+          1966,
+          1573
+        ],
+        [
+          1966,
+          1634
+        ],
+        [
+          237,
+          1634
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1788
+        ],
+        [
+          1966,
+          1788
+        ],
+        [
+          1966,
+          1849
+        ],
+        [
+          237,
+          1849
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1573,
+        1966,
+        1634
+      ],
+      "text": "(19) Manh Tàn ho Lā: Lā Thuyng  尚 , vón ho Khurong. Trrc ong câu cá o bèn sōng",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0743_han_007",
+      "bbox": [
+        [
+          333,
+          1626
+        ],
+        [
+          1059,
+          1626
+        ],
+        [
+          1059,
+          1689
+        ],
+        [
+          333,
+          1689
+        ]
+      ],
+      "bbox_original": [
+        [
+          333,
+          1841
+        ],
+        [
+          1059,
+          1841
+        ],
+        [
+          1059,
+          1904
+        ],
+        [
+          333,
+          1904
+        ]
+      ],
+      "box_xyxy": [
+        333,
+        1626,
+        1059,
+        1689
+      ],
+      "text": "Vi 渭， Vān vrong 文 王 nhà Chu 周 di sǎn gǎp öng nói 大公望子 久矣",
+      "confidence": 0.8864
+    },
+    {
+      "line_id": "0743_han_008",
+      "bbox": [
+        [
+          333,
+          1739
+        ],
+        [
+          1965,
+          1739
+        ],
+        [
+          1965,
+          1789
+        ],
+        [
+          333,
+          1789
+        ]
+      ],
+      "bbox_original": [
+        [
+          333,
+          1954
+        ],
+        [
+          1965,
+          1954
+        ],
+        [
+          1965,
+          2004
+        ],
+        [
+          333,
+          2004
+        ]
+      ],
+      "box_xyxy": [
+        333,
+        1739,
+        1965,
+        1789
+      ],
+      "text": "tên là Thai Còng Vong. Ong giúp vua Vū Virong  王 căm quàn. Cuói dòi nhà Throng",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0743_han_009",
+      "bbox": [
+        [
+          335,
+          1841
+        ],
+        [
+          1963,
+          1843
+        ],
+        [
+          1963,
+          1891
+        ],
+        [
+          335,
+          1889
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          2056
+        ],
+        [
+          1963,
+          2058
+        ],
+        [
+          1963,
+          2106
+        ],
+        [
+          335,
+          2104
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        1841,
+        1963,
+        1891
+      ],
+      "text": "Tru. Ö dày tác giă vi vic Trǎn Quóc Tuán hôi quàn  bén Binh-than 平 e nhu vięo",
+      "confidence": 0.8866
+    },
+    {
+      "line_id": "0743_han_010",
+      "bbox": [
+        [
+          333,
+          2007
+        ],
+        [
+          1059,
+          2007
+        ],
+        [
+          1059,
+          2065
+        ],
+        [
+          333,
+          2065
+        ]
+      ],
+      "bbox_original": [
+        [
+          333,
+          2222
+        ],
+        [
+          1059,
+          2222
+        ],
+        [
+          1059,
+          2280
+        ],
+        [
+          333,
+          2280
+        ]
+      ],
+      "box_xyxy": [
+        333,
+        2007,
+        1059,
+        2065
+      ],
+      "text": "Hàn Tin 章 信, môt tróng giöi cua Hán Cao Tô 漢 高 祖 . dùng meo tháo nuroc",
+      "confidence": 0.8771
+    },
+    {
+      "line_id": "0743_han_011",
+      "bbox": [
+        [
+          335,
+          2272
+        ],
+        [
+          1968,
+          2269
+        ],
+        [
+          1968,
+          2323
+        ],
+        [
+          335,
+          2327
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          2487
+        ],
+        [
+          1968,
+          2484
+        ],
+        [
+          1968,
+          2538
+        ],
+        [
+          335,
+          2542
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        2269,
+        1968,
+        2327
+      ],
+      "text": "dén sòng Phú-luong 富  , Tràn Nhan Tōng höi Hung Dao Vuong « Giǎc dén lam thé",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0743_han_012",
+      "bbox": [
+        [
+          335,
+          2322
+        ],
+        [
+          1059,
+          2322
+        ],
+        [
+          1059,
+          2382
+        ],
+        [
+          335,
+          2382
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          2537
+        ],
+        [
+          1059,
+          2537
+        ],
+        [
+          1059,
+          2597
+        ],
+        [
+          335,
+          2597
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        2322,
+        1059,
+        2382
+      ],
+      "text": "nào»? Vrong dáp: 今 年   Kim niên tǎc nhàn; nghǐa là: thé giǎc năm nay",
+      "confidence": 0.9103
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

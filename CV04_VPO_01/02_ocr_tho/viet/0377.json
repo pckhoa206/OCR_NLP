@@ -1,0 +1,618 @@
+{
+  "page_id": "0377",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 377,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0377_viet_000",
+      "bbox": [
+        [
+          360,
+          138
+        ],
+        [
+          1171,
+          141
+        ],
+        [
+          1171,
+          201
+        ],
+        [
+          360,
+          199
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          306
+        ],
+        [
+          1171,
+          309
+        ],
+        [
+          1171,
+          369
+        ],
+        [
+          360,
+          367
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        138,
+        1171,
+        201
+      ],
+      "text": "Đêm nguyệt dãi tỏ mờ, mờ tỏ",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0377_viet_001",
+      "bbox": [
+        [
+          364,
+          313
+        ],
+        [
+          1181,
+          316
+        ],
+        [
+          1181,
+          376
+        ],
+        [
+          364,
+          373
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          481
+        ],
+        [
+          1181,
+          484
+        ],
+        [
+          1181,
+          544
+        ],
+        [
+          364,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        313,
+        1181,
+        376
+      ],
+      "text": "Chiếu dòng thu in rõ thuyền ai",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0377_viet_002",
+      "bbox": [
+        [
+          471,
+          489
+        ],
+        [
+          1234,
+          489
+        ],
+        [
+          1234,
+          547
+        ],
+        [
+          471,
+          547
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          657
+        ],
+        [
+          1234,
+          657
+        ],
+        [
+          1234,
+          715
+        ],
+        [
+          471,
+          715
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        489,
+        1234,
+        547
+      ],
+      "text": "Cảm thương cây bãi đèn chài,",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0377_viet_003",
+      "bbox": [
+        [
+          312,
+          662
+        ],
+        [
+          1309,
+          666
+        ],
+        [
+          1309,
+          726
+        ],
+        [
+          311,
+          722
+        ]
+      ],
+      "bbox_original": [
+        [
+          312,
+          830
+        ],
+        [
+          1309,
+          834
+        ],
+        [
+          1309,
+          894
+        ],
+        [
+          311,
+          890
+        ]
+      ],
+      "box_xyxy": [
+        311,
+        662,
+        1309,
+        726
+      ],
+      "text": "Gió đưa chèo quê trăng soi chén vàng",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0377_viet_004",
+      "bbox": [
+        [
+          364,
+          838
+        ],
+        [
+          1386,
+          842
+        ],
+        [
+          1386,
+          899
+        ],
+        [
+          364,
+          895
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1006
+        ],
+        [
+          1386,
+          1010
+        ],
+        [
+          1386,
+          1067
+        ],
+        [
+          364,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        838,
+        1386,
+        899
+      ],
+      "text": "Người khuyên đến cao sang quyền lước,",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0377_viet_005",
+      "bbox": [
+        [
+          370,
+          1007
+        ],
+        [
+          1279,
+          1010
+        ],
+        [
+          1279,
+          1070
+        ],
+        [
+          370,
+          1067
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          1175
+        ],
+        [
+          1279,
+          1178
+        ],
+        [
+          1279,
+          1238
+        ],
+        [
+          370,
+          1235
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        1007,
+        1279,
+        1070
+      ],
+      "text": "Tuổi trẻ-trung dễ được phong hầu",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0377_viet_006",
+      "bbox": [
+        [
+          472,
+          1184
+        ],
+        [
+          1174,
+          1184
+        ],
+        [
+          1174,
+          1242
+        ],
+        [
+          472,
+          1242
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          1352
+        ],
+        [
+          1174,
+          1352
+        ],
+        [
+          1174,
+          1410
+        ],
+        [
+          472,
+          1410
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        1184,
+        1174,
+        1242
+      ],
+      "text": "Nhưng mà lời nói uốn câu,",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0377_viet_007",
+      "bbox": [
+        [
+          312,
+          1357
+        ],
+        [
+          1173,
+          1357
+        ],
+        [
+          1173,
+          1415
+        ],
+        [
+          312,
+          1415
+        ]
+      ],
+      "bbox_original": [
+        [
+          312,
+          1525
+        ],
+        [
+          1173,
+          1525
+        ],
+        [
+          1173,
+          1583
+        ],
+        [
+          312,
+          1583
+        ]
+      ],
+      "box_xyxy": [
+        312,
+        1357,
+        1173,
+        1415
+      ],
+      "text": "Lợi danh xe-ngựa ta cầu chi đây.",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0377_viet_008",
+      "bbox": [
+        [
+          366,
+          1526
+        ],
+        [
+          1179,
+          1531
+        ],
+        [
+          1179,
+          1592
+        ],
+        [
+          366,
+          1588
+        ]
+      ],
+      "bbox_original": [
+        [
+          366,
+          1694
+        ],
+        [
+          1179,
+          1699
+        ],
+        [
+          1179,
+          1760
+        ],
+        [
+          366,
+          1756
+        ]
+      ],
+      "box_xyxy": [
+        366,
+        1526,
+        1179,
+        1592
+      ],
+      "text": "Họ lại khuyên cao bay xa chạy",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0377_viet_009",
+      "bbox": [
+        [
+          368,
+          1705
+        ],
+        [
+          1236,
+          1705
+        ],
+        [
+          1236,
+          1764
+        ],
+        [
+          368,
+          1764
+        ]
+      ],
+      "bbox_original": [
+        [
+          368,
+          1873
+        ],
+        [
+          1236,
+          1873
+        ],
+        [
+          1236,
+          1932
+        ],
+        [
+          368,
+          1932
+        ]
+      ],
+      "box_xyxy": [
+        368,
+        1705,
+        1236,
+        1764
+      ],
+      "text": "Bụi đây đường cảm thấy tanh hôi.",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0377_viet_010",
+      "bbox": [
+        [
+          474,
+          1880
+        ],
+        [
+          1202,
+          1882
+        ],
+        [
+          1202,
+          1940
+        ],
+        [
+          474,
+          1938
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          2048
+        ],
+        [
+          1202,
+          2050
+        ],
+        [
+          1202,
+          2108
+        ],
+        [
+          474,
+          2106
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        1880,
+        1202,
+        1940
+      ],
+      "text": "Lòng như dây thẳng mặc ai,",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0377_viet_011",
+      "bbox": [
+        [
+          308,
+          2055
+        ],
+        [
+          1340,
+          2052
+        ],
+        [
+          1340,
+          2112
+        ],
+        [
+          309,
+          2115
+        ]
+      ],
+      "bbox_original": [
+        [
+          308,
+          2223
+        ],
+        [
+          1340,
+          2220
+        ],
+        [
+          1340,
+          2280
+        ],
+        [
+          309,
+          2283
+        ]
+      ],
+      "box_xyxy": [
+        308,
+        2052,
+        1340,
+        2115
+      ],
+      "text": "Không trời. luân đạn ôi thôi khó thành",
+      "confidence": 0.9204
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Đêm nguyệt dãi tỏ mờ, mờ tỏ",
+      "Chiếu dòng thu in rõ thuyền ai",
+      "Cảm thương cây bãi đèn chài,",
+      "Gió đưa chèo quê trăng soi chén vàng",
+      "Người khuyên đến cao sang quyền lước,",
+      "Tuổi trẻ-trung dễ được phong hầu",
+      "Nhưng mà lời nói uốn câu,",
+      "Lợi danh xe-ngựa ta cầu chi đây.",
+      "Họ lại khuyên cao bay xa chạy",
+      "Bụi đây đường cảm thấy tanh hôi.",
+      "Lòng như dây thẳng mặc ai,",
+      "Không trời. luân đạn ôi thôi khó thành"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      169.5,
+      344.5,
+      518.0,
+      694.0,
+      868.5,
+      1038.5,
+      1213.0,
+      1386.0,
+      1559.0,
+      1734.5,
+      1910.0,
+      2083.5
+    ]
+  }
+}

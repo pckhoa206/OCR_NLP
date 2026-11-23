@@ -1,0 +1,122 @@
+{
+  "page_id": "0296",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 296,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0296_viet_000",
+      "bbox": [
+        [
+          497,
+          1747
+        ],
+        [
+          1146,
+          1744
+        ],
+        [
+          1146,
+          1815
+        ],
+        [
+          497,
+          1819
+        ]
+      ],
+      "bbox_original": [
+        [
+          497,
+          1915
+        ],
+        [
+          1146,
+          1912
+        ],
+        [
+          1146,
+          1983
+        ],
+        [
+          497,
+          1987
+        ]
+      ],
+      "box_xyxy": [
+        497,
+        1744,
+        1146,
+        1819
+      ],
+      "text": "Ngựa xe bận-rộn thần mình",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0296_viet_001",
+      "bbox": [
+        [
+          377,
+          1847
+        ],
+        [
+          1265,
+          1850
+        ],
+        [
+          1265,
+          1925
+        ],
+        [
+          377,
+          1922
+        ]
+      ],
+      "bbox_original": [
+        [
+          377,
+          2015
+        ],
+        [
+          1265,
+          2018
+        ],
+        [
+          1265,
+          2093
+        ],
+        [
+          377,
+          2090
+        ]
+      ],
+      "box_xyxy": [
+        377,
+        1847,
+        1265,
+        1925
+      ],
+      "text": "Sao bằng hoa rượu mặc tình nhởn-nhơ",
+      "confidence": 0.9229
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "even_page_non_han_skipped",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [],
+    "has_dich_nghia": false
+  }
+}

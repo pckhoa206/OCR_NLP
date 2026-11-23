@@ -1,0 +1,166 @@
+{
+  "page_id": "0677",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 677,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0677_han_000",
+      "bbox": [
+        [
+          235,
+          119
+        ],
+        [
+          1949,
+          122
+        ],
+        [
+          1949,
+          177
+        ],
+        [
+          235,
+          173
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          334
+        ],
+        [
+          1949,
+          337
+        ],
+        [
+          1949,
+          392
+        ],
+        [
+          235,
+          388
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        119,
+        1949,
+        177
+      ],
+      "text": "(20) Tài nhǎ phuong : y nói có tài văn chuong ; láy y tir dièn Duong Hùng P 玄 năm",
+      "confidence": 0.8964
+    },
+    {
+      "line_id": "0677_han_001",
+      "bbox": [
+        [
+          325,
+          223
+        ],
+        [
+          1059,
+          223
+        ],
+        [
+          1059,
+          286
+        ],
+        [
+          325,
+          286
+        ]
+      ],
+      "bbox_original": [
+        [
+          325,
+          438
+        ],
+        [
+          1059,
+          438
+        ],
+        [
+          1059,
+          501
+        ],
+        [
+          325,
+          501
+        ]
+      ],
+      "box_xyxy": [
+        325,
+        223,
+        1059,
+        286
+      ],
+      "text": "Ly Thuong Àn 李 商 急, nhà tho don Diròng cung dùng lai dièn áy trong môt câu",
+      "confidence": 0.8897
+    },
+    {
+      "line_id": "0677_han_002",
+      "bbox": [
+        [
+          326,
+          278
+        ],
+        [
+          1059,
+          278
+        ],
+        [
+          1059,
+          335
+        ],
+        [
+          326,
+          335
+        ]
+      ],
+      "bbox_original": [
+        [
+          326,
+          493
+        ],
+        [
+          1059,
+          493
+        ],
+        [
+          1059,
+          550
+        ],
+        [
+          326,
+          550
+        ]
+      ],
+      "box_xyxy": [
+        326,
+        278,
+        1059,
+        335
+      ],
+      "text": "tho cua minh:  多 ±  才 Mōn da thò phuong tài; nghía là ngoài cira có",
+      "confidence": 0.9009
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

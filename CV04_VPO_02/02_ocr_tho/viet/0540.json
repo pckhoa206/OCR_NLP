@@ -1,0 +1,603 @@
+{
+  "page_id": "0540",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 540,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0540_viet_000",
+      "bbox": [
+        [
+          204,
+          1236
+        ],
+        [
+          426,
+          1236
+        ],
+        [
+          426,
+          1285
+        ],
+        [
+          204,
+          1285
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1395
+        ],
+        [
+          426,
+          1395
+        ],
+        [
+          426,
+          1444
+        ],
+        [
+          204,
+          1444
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1236,
+        426,
+        1285
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0540_viet_001",
+      "bbox": [
+        [
+          202,
+          1295
+        ],
+        [
+          1107,
+          1292
+        ],
+        [
+          1107,
+          1352
+        ],
+        [
+          202,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1454
+        ],
+        [
+          1107,
+          1451
+        ],
+        [
+          1107,
+          1511
+        ],
+        [
+          202,
+          1515
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1292,
+        1107,
+        1356
+      ],
+      "text": "DỮ TRỌNG CUNG LUẬN ĐIỀN TỪ THƯ",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0540_viet_002",
+      "bbox": [
+        [
+          206,
+          1370
+        ],
+        [
+          1461,
+          1367
+        ],
+        [
+          1461,
+          1422
+        ],
+        [
+          206,
+          1424
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1529
+        ],
+        [
+          1461,
+          1526
+        ],
+        [
+          1461,
+          1581
+        ],
+        [
+          206,
+          1583
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1367,
+        1461,
+        1424
+      ],
+      "text": "Văn quân ngôn Tử Dụ trước Từ thoai, gián cập bộc từ, gia dĩ",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0540_viet_003",
+      "bbox": [
+        [
+          123,
+          1433
+        ],
+        [
+          1176,
+          1430
+        ],
+        [
+          1176,
+          1481
+        ],
+        [
+          123,
+          1484
+        ]
+      ],
+      "bbox_original": [
+        [
+          123,
+          1592
+        ],
+        [
+          1176,
+          1589
+        ],
+        [
+          1176,
+          1640
+        ],
+        [
+          123,
+          1643
+        ]
+      ],
+      "box_xyxy": [
+        123,
+        1430,
+        1176,
+        1484
+      ],
+      "text": "bình ngữ, cực ý tán thán, bất giác diện xích tàm hãn",
+      "confidence": 0.8761
+    },
+    {
+      "line_id": "0540_viet_004",
+      "bbox": [
+        [
+          202,
+          1491
+        ],
+        [
+          1462,
+          1489
+        ],
+        [
+          1462,
+          1550
+        ],
+        [
+          202,
+          1552
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1650
+        ],
+        [
+          1462,
+          1648
+        ],
+        [
+          1462,
+          1709
+        ],
+        [
+          202,
+          1711
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1489,
+        1462,
+        1552
+      ],
+      "text": "Từ cố bất dị giai, nhi bộc ư từ thực vị hữu sở giải, diệc bất",
+      "confidence": 0.9134
+    },
+    {
+      "line_id": "0540_viet_005",
+      "bbox": [
+        [
+          119,
+          1557
+        ],
+        [
+          1458,
+          1550
+        ],
+        [
+          1459,
+          1607
+        ],
+        [
+          119,
+          1614
+        ]
+      ],
+      "bbox_original": [
+        [
+          119,
+          1716
+        ],
+        [
+          1458,
+          1709
+        ],
+        [
+          1459,
+          1766
+        ],
+        [
+          119,
+          1773
+        ]
+      ],
+      "box_xyxy": [
+        119,
+        1550,
+        1459,
+        1614
+      ],
+      "text": "nguyện học chi. Phương Vọng Khê trị kinh chỉ dư, duy cập cổ",
+      "confidence": 0.8812
+    },
+    {
+      "line_id": "0540_viet_006",
+      "bbox": [
+        [
+          123,
+          1615
+        ],
+        [
+          1460,
+          1613
+        ],
+        [
+          1460,
+          1667
+        ],
+        [
+          123,
+          1670
+        ]
+      ],
+      "bbox_original": [
+        [
+          123,
+          1774
+        ],
+        [
+          1460,
+          1772
+        ],
+        [
+          1460,
+          1826
+        ],
+        [
+          123,
+          1829
+        ]
+      ],
+      "box_xyxy": [
+        123,
+        1613,
+        1460,
+        1670
+      ],
+      "text": "văn, thường vị cổ lai thiêm tà chi sĩ, hoặc hữu công ư thi giả, dĩ kì",
+      "confidence": 0.9348
+    },
+    {
+      "line_id": "0540_viet_007",
+      "bbox": [
+        [
+          120,
+          1674
+        ],
+        [
+          1459,
+          1669
+        ],
+        [
+          1459,
+          1724
+        ],
+        [
+          120,
+          1728
+        ]
+      ],
+      "bbox_original": [
+        [
+          120,
+          1833
+        ],
+        [
+          1459,
+          1828
+        ],
+        [
+          1459,
+          1883
+        ],
+        [
+          120,
+          1887
+        ]
+      ],
+      "box_xyxy": [
+        120,
+        1669,
+        1459,
+        1728
+      ],
+      "text": "minh man ư thanh sắc duyên tình y mị, cố dã. Chí ư cổ văn học",
+      "confidence": 0.8935
+    },
+    {
+      "line_id": "0540_viet_008",
+      "bbox": [
+        [
+          121,
+          1730
+        ],
+        [
+          1461,
+          1726
+        ],
+        [
+          1461,
+          1784
+        ],
+        [
+          121,
+          1788
+        ]
+      ],
+      "bbox_original": [
+        [
+          121,
+          1889
+        ],
+        [
+          1461,
+          1885
+        ],
+        [
+          1461,
+          1943
+        ],
+        [
+          121,
+          1947
+        ]
+      ],
+      "box_xyxy": [
+        121,
+        1726,
+        1461,
+        1788
+      ],
+      "text": "gia, giai tiếu kì vi nhân. Liễu tuy đại tiết bất thậm chính, tế hạnh",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0540_viet_009",
+      "bbox": [
+        [
+          123,
+          1791
+        ],
+        [
+          1459,
+          1791
+        ],
+        [
+          1459,
+          1844
+        ],
+        [
+          123,
+          1844
+        ]
+      ],
+      "bbox_original": [
+        [
+          123,
+          1950
+        ],
+        [
+          1459,
+          1950
+        ],
+        [
+          1459,
+          2003
+        ],
+        [
+          123,
+          2003
+        ]
+      ],
+      "box_xyxy": [
+        123,
+        1791,
+        1459,
+        1844
+      ],
+      "text": "diệc vô tì. Chí Âu, Tô, Vương, Tăng, Hàn tử giả, giai kì dữ đạo",
+      "confidence": 0.9009
+    },
+    {
+      "line_id": "0540_viet_010",
+      "bbox": [
+        [
+          124,
+          1849
+        ],
+        [
+          1458,
+          1849
+        ],
+        [
+          1458,
+          1899
+        ],
+        [
+          124,
+          1899
+        ]
+      ],
+      "bbox_original": [
+        [
+          124,
+          2008
+        ],
+        [
+          1458,
+          2008
+        ],
+        [
+          1458,
+          2058
+        ],
+        [
+          124,
+          2058
+        ]
+      ],
+      "box_xyxy": [
+        124,
+        1849,
+        1458,
+        1899
+      ],
+      "text": "thiền thâm cao hạ khả kiến ki vi nhân. Cái văn, dĩ tải đạo, phi",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0540_viet_011",
+      "bbox": [
+        [
+          1373,
+          1981
+        ],
+        [
+          1464,
+          1981
+        ],
+        [
+          1464,
+          2042
+        ],
+        [
+          1373,
+          2042
+        ]
+      ],
+      "bbox_original": [
+        [
+          1373,
+          2140
+        ],
+        [
+          1464,
+          2140
+        ],
+        [
+          1464,
+          2201
+        ],
+        [
+          1373,
+          2201
+        ]
+      ],
+      "box_xyxy": [
+        1373,
+        1981,
+        1464,
+        2042
+      ],
+      "text": "533",
+      "confidence": 0.9243
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "DỮ TRỌNG CUNG LUẬN ĐIỀN TỪ THƯ",
+      "Văn quân ngôn Tử Dụ trước Từ thoai, gián cập bộc từ, gia dĩ",
+      "bình ngữ, cực ý tán thán, bất giác diện xích tàm hãn",
+      "Từ cố bất dị giai, nhi bộc ư từ thực vị hữu sở giải, diệc bất",
+      "nguyện học chi. Phương Vọng Khê trị kinh chỉ dư, duy cập cổ",
+      "văn, thường vị cổ lai thiêm tà chi sĩ, hoặc hữu công ư thi giả, dĩ kì",
+      "minh man ư thanh sắc duyên tình y mị, cố dã. Chí ư cổ văn học",
+      "gia, giai tiếu kì vi nhân. Liễu tuy đại tiết bất thậm chính, tế hạnh",
+      "diệc vô tì. Chí Âu, Tô, Vương, Tăng, Hàn tử giả, giai kì dữ đạo",
+      "thiền thâm cao hạ khả kiến ki vi nhân. Cái văn, dĩ tải đạo, phi",
+      "533"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

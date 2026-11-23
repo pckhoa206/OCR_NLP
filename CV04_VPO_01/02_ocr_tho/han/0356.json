@@ -1,0 +1,405 @@
+{
+  "page_id": "0356",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 356,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0356_han_000",
+      "bbox": [
+        [
+          476,
+          84
+        ],
+        [
+          1182,
+          86
+        ],
+        [
+          1182,
+          160
+        ],
+        [
+          476,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          476,
+          252
+        ],
+        [
+          1182,
+          254
+        ],
+        [
+          1182,
+          328
+        ],
+        [
+          476,
+          326
+        ]
+      ],
+      "box_xyxy": [
+        476,
+        84,
+        1182,
+        160
+      ],
+      "text": "烟波中使我心愁",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0356_han_001",
+      "bbox": [
+        [
+          475,
+          375
+        ],
+        [
+          1084,
+          377
+        ],
+        [
+          1084,
+          454
+        ],
+        [
+          475,
+          452
+        ]
+      ],
+      "bbox_original": [
+        [
+          475,
+          543
+        ],
+        [
+          1084,
+          545
+        ],
+        [
+          1084,
+          622
+        ],
+        [
+          475,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        475,
+        375,
+        1084,
+        454
+      ],
+      "text": "昂藏豈少年遊",
+      "confidence": 0.9654
+    },
+    {
+      "line_id": "0356_han_002",
+      "bbox": [
+        [
+          468,
+          669
+        ],
+        [
+          1289,
+          669
+        ],
+        [
+          1289,
+          746
+        ],
+        [
+          468,
+          746
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          837
+        ],
+        [
+          1289,
+          837
+        ],
+        [
+          1289,
+          914
+        ],
+        [
+          468,
+          914
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        669,
+        1289,
+        746
+      ],
+      "text": "風流舊態江湖故家",
+      "confidence": 0.9888
+    },
+    {
+      "line_id": "0356_han_003",
+      "bbox": [
+        [
+          466,
+          954
+        ],
+        [
+          1181,
+          952
+        ],
+        [
+          1181,
+          1029
+        ],
+        [
+          466,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1122
+        ],
+        [
+          1181,
+          1120
+        ],
+        [
+          1181,
+          1197
+        ],
+        [
+          466,
+          1199
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        952,
+        1181,
+        1031
+      ],
+      "text": "旅景每從哦裡痛",
+      "confidence": 0.9958
+    },
+    {
+      "line_id": "0356_han_004",
+      "bbox": [
+        [
+          474,
+          1305
+        ],
+        [
+          1191,
+          1305
+        ],
+        [
+          1191,
+          1386
+        ],
+        [
+          474,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          1473
+        ],
+        [
+          1191,
+          1473
+        ],
+        [
+          1191,
+          1554
+        ],
+        [
+          474,
+          1554
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        1305,
+        1191,
+        1386
+      ],
+      "text": "鄉魂空向夢中遊",
+      "confidence": 0.999
+    },
+    {
+      "line_id": "0356_han_005",
+      "bbox": [
+        [
+          465,
+          1602
+        ],
+        [
+          1073,
+          1598
+        ],
+        [
+          1073,
+          1673
+        ],
+        [
+          465,
+          1677
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          1770
+        ],
+        [
+          1073,
+          1766
+        ],
+        [
+          1073,
+          1841
+        ],
+        [
+          465,
+          1845
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        1598,
+        1073,
+        1677
+      ],
+      "text": "江山客亦知乎",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0356_han_006",
+      "bbox": [
+        [
+          466,
+          1888
+        ],
+        [
+          1289,
+          1886
+        ],
+        [
+          1289,
+          1968
+        ],
+        [
+          466,
+          1970
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          2056
+        ],
+        [
+          1289,
+          2054
+        ],
+        [
+          1289,
+          2136
+        ],
+        [
+          466,
+          2138
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1886,
+        1289,
+        1970
+      ],
+      "text": "情中更切路途艱難",
+      "confidence": 0.9993
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "烟波中使我心愁",
+      "昂藏豈少年遊",
+      "風流舊態江湖故家",
+      "旅景每從哦裡痛",
+      "鄉魂空向夢中遊",
+      "江山客亦知乎",
+      "情中更切路途艱難"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "烟波中使我心愁",
+        "phien_am": "Yên ba trung sử ngã tâm sầu",
+        "dich_nghia_gloss": "- Trên sông khói sóng khiên cho lòng ta thêm buồn"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "昂藏豈少年遊",
+        "phien_am": "Ngang tàng khởi thiếu niên du",
+        "dich_nghia_gloss": "- Há phải còn chơi ngang-tàng như lúc còn trẻ ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "風流舊態江湖故家",
+        "phien_am": "Phong-lưu cựu thái, giang-hồ cõ-gia.",
+        "dich_nghia_gloss": "- Quen thói phong-lưu trước, lồi giang-hồ thuở xưa"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "旅景每從哦裡痛",
+        "phien_am": "Lữ cảnh mỗi tùng nga lý thống",
+        "dich_nghia_gloss": "- Nơi đất khách thường nhân cuộc ngâm-vịnh mà hóa ra ngậm-ngùi đau-đớn cho lòng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "鄉魂空向夢中遊",
+        "phien_am": "Hương hồn không hướng mộng trung du",
+        "dich_nghia_gloss": "- Hồn quê luông vật-vờ trong mộng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "江山客亦知乎",
+        "phien_am": "Giang sơn khách diệc tri hồ",
+        "dich_nghia_gloss": "- Non sông ai có biết cùng chăng?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "情中更切路途艱難",
+        "phien_am": "Tình trung cánh thiết lộ đồ gian-nan",
+        "dich_nghia_gloss": "- Trong lòng lại tha-thiết nỗi đường sá gian-nan."
+      }
+    ]
+  }
+}

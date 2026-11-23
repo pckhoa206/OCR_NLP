@@ -1,0 +1,459 @@
+{
+  "page_id": "0380",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 380,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0380_han_000",
+      "bbox": [
+        [
+          458,
+          410
+        ],
+        [
+          1185,
+          414
+        ],
+        [
+          1185,
+          491
+        ],
+        [
+          458,
+          488
+        ]
+      ],
+      "bbox_original": [
+        [
+          458,
+          578
+        ],
+        [
+          1185,
+          582
+        ],
+        [
+          1185,
+          659
+        ],
+        [
+          458,
+          656
+        ]
+      ],
+      "box_xyxy": [
+        458,
+        410,
+        1185,
+        491
+      ],
+      "text": "識時務在乎俊傑",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0380_han_001",
+      "bbox": [
+        [
+          458,
+          591
+        ],
+        [
+          1185,
+          589
+        ],
+        [
+          1185,
+          665
+        ],
+        [
+          458,
+          667
+        ]
+      ],
+      "bbox_original": [
+        [
+          458,
+          759
+        ],
+        [
+          1185,
+          757
+        ],
+        [
+          1185,
+          833
+        ],
+        [
+          458,
+          835
+        ]
+      ],
+      "box_xyxy": [
+        458,
+        589,
+        1185,
+        667
+      ],
+      "text": "星競光而月未明",
+      "confidence": 0.9941
+    },
+    {
+      "line_id": "0380_han_002",
+      "bbox": [
+        [
+          513,
+          764
+        ],
+        [
+          1133,
+          764
+        ],
+        [
+          1133,
+          846
+        ],
+        [
+          513,
+          846
+        ]
+      ],
+      "bbox_original": [
+        [
+          513,
+          932
+        ],
+        [
+          1133,
+          932
+        ],
+        [
+          1133,
+          1014
+        ],
+        [
+          513,
+          1014
+        ]
+      ],
+      "box_xyxy": [
+        513,
+        764,
+        1133,
+        846
+      ],
+      "text": "風塵何日掃清",
+      "confidence": 0.9946
+    },
+    {
+      "line_id": "0380_han_003",
+      "bbox": [
+        [
+          407,
+          944
+        ],
+        [
+          1242,
+          944
+        ],
+        [
+          1242,
+          1021
+        ],
+        [
+          407,
+          1021
+        ]
+      ],
+      "bbox_original": [
+        [
+          407,
+          1112
+        ],
+        [
+          1242,
+          1112
+        ],
+        [
+          1242,
+          1189
+        ],
+        [
+          407,
+          1189
+        ]
+      ],
+      "box_xyxy": [
+        407,
+        944,
+        1242,
+        1021
+      ],
+      "text": "龍驤首起穀城羽飛",
+      "confidence": 0.9802
+    },
+    {
+      "line_id": "0380_han_004",
+      "bbox": [
+        [
+          461,
+          1121
+        ],
+        [
+          1191,
+          1119
+        ],
+        [
+          1191,
+          1194
+        ],
+        [
+          461,
+          1196
+        ]
+      ],
+      "bbox_original": [
+        [
+          461,
+          1289
+        ],
+        [
+          1191,
+          1287
+        ],
+        [
+          1191,
+          1362
+        ],
+        [
+          461,
+          1364
+        ]
+      ],
+      "box_xyxy": [
+        461,
+        1119,
+        1191,
+        1196
+      ],
+      "text": "因感興吟詩絕夜",
+      "confidence": 0.996
+    },
+    {
+      "line_id": "0380_han_005",
+      "bbox": [
+        [
+          457,
+          1292
+        ],
+        [
+          1197,
+          1295
+        ],
+        [
+          1197,
+          1376
+        ],
+        [
+          457,
+          1373
+        ]
+      ],
+      "bbox_original": [
+        [
+          457,
+          1460
+        ],
+        [
+          1197,
+          1463
+        ],
+        [
+          1197,
+          1544
+        ],
+        [
+          457,
+          1541
+        ]
+      ],
+      "box_xyxy": [
+        457,
+        1292,
+        1197,
+        1376
+      ],
+      "text": "一篇中字可珠璣",
+      "confidence": 0.9979
+    },
+    {
+      "line_id": "0380_han_006",
+      "bbox": [
+        [
+          508,
+          1466
+        ],
+        [
+          1138,
+          1474
+        ],
+        [
+          1137,
+          1559
+        ],
+        [
+          507,
+          1551
+        ]
+      ],
+      "bbox_original": [
+        [
+          508,
+          1634
+        ],
+        [
+          1138,
+          1642
+        ],
+        [
+          1137,
+          1727
+        ],
+        [
+          507,
+          1719
+        ]
+      ],
+      "box_xyxy": [
+        507,
+        1466,
+        1138,
+        1559
+      ],
+      "text": "世人認作著龜",
+      "confidence": 0.9452
+    },
+    {
+      "line_id": "0380_han_007",
+      "bbox": [
+        [
+          405,
+          1653
+        ],
+        [
+          1242,
+          1651
+        ],
+        [
+          1243,
+          1728
+        ],
+        [
+          406,
+          1730
+        ]
+      ],
+      "bbox_original": [
+        [
+          405,
+          1821
+        ],
+        [
+          1242,
+          1819
+        ],
+        [
+          1243,
+          1896
+        ],
+        [
+          406,
+          1898
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        1651,
+        1243,
+        1730
+      ],
+      "text": "避凶趨吉兩岐分明",
+      "confidence": 0.9337
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "識時務在乎俊傑",
+      "星競光而月未明",
+      "風塵何日掃清",
+      "龍驤首起穀城羽飛",
+      "因感興吟詩絕夜",
+      "一篇中字可珠璣",
+      "世人認作著龜",
+      "避凶趨吉兩岐分明"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "識時務在乎俊傑",
+        "phien_am": "Thức thời vụ tại hồ tuần kiệt,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "星競光而月未明",
+        "phien_am": "Tỉnh cạnh quang nhi nguyệt vị minh",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "風塵何日掃清",
+        "phien_am": "Phong trần hà nhật tào thanh.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "龍驤首起穀城羽飛",
+        "phien_am": "Long nhương thủ khởi Cốc thành vũ phi.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "因感興吟詩絕夜",
+        "phien_am": "Nhân cảm hứng ngâm thi tuyệt dạ.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "一篇中字可珠璣",
+        "phien_am": "Nhất thiên trung tự khả châu kỳ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "世人認作著龜",
+        "phien_am": "Thẽ nhân nhận tác thi quy.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "避凶趨吉兩岐分明",
+        "phien_am": "Ty hung xu cát lưỡng kỳ phân minh",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

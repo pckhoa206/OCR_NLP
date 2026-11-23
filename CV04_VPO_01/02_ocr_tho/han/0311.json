@@ -1,0 +1,119 @@
+{
+  "page_id": "0311",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 311,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0311_han_000",
+      "bbox": [
+        [
+          669,
+          129
+        ],
+        [
+          959,
+          125
+        ],
+        [
+          960,
+          213
+        ],
+        [
+          670,
+          217
+        ]
+      ],
+      "bbox_original": [
+        [
+          669,
+          297
+        ],
+        [
+          959,
+          293
+        ],
+        [
+          960,
+          381
+        ],
+        [
+          670,
+          385
+        ]
+      ],
+      "box_xyxy": [
+        669,
+        125,
+        960,
+        217
+      ],
+      "text": "琴者引",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0311_han_001",
+      "bbox": [
+        [
+          1177,
+          590
+        ],
+        [
+          1366,
+          588
+        ],
+        [
+          1367,
+          665
+        ],
+        [
+          1178,
+          668
+        ]
+      ],
+      "bbox_original": [
+        [
+          1177,
+          758
+        ],
+        [
+          1366,
+          756
+        ],
+        [
+          1367,
+          833
+        ],
+        [
+          1178,
+          836
+        ]
+      ],
+      "box_xyxy": [
+        1177,
+        588,
+        1367,
+        668
+      ],
+      "text": "阮攸",
+      "confidence": 0.9507
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_title_page",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "page_id": "0362",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 362,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0362_viet_000",
+      "bbox": [
+        [
+          269,
+          171
+        ],
+        [
+          925,
+          174
+        ],
+        [
+          925,
+          235
+        ],
+        [
+          269,
+          232
+        ]
+      ],
+      "bbox_original": [
+        [
+          269,
+          339
+        ],
+        [
+          925,
+          342
+        ],
+        [
+          925,
+          403
+        ],
+        [
+          269,
+          400
+        ]
+      ],
+      "box_xyxy": [
+        269,
+        171,
+        925,
+        235
+      ],
+      "text": "Mã bôi tự ấp khinh trần",
+      "confidence": 0.9305
+    },
+    {
+      "line_id": "0362_viet_001",
+      "bbox": [
+        [
+          180,
+          249
+        ],
+        [
+          1418,
+          253
+        ],
+        [
+          1418,
+          321
+        ],
+        [
+          179,
+          317
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          417
+        ],
+        [
+          1418,
+          421
+        ],
+        [
+          1418,
+          489
+        ],
+        [
+          179,
+          485
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        249,
+        1418,
+        321
+      ],
+      "text": "- Nhớ khi giã nhau, ngồi trên ngựa, cầm vội chén",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0362_viet_002",
+      "bbox": [
+        [
+          180,
+          327
+        ],
+        [
+          1109,
+          327
+        ],
+        [
+          1109,
+          384
+        ],
+        [
+          180,
+          384
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          495
+        ],
+        [
+          1109,
+          495
+        ],
+        [
+          1109,
+          552
+        ],
+        [
+          180,
+          552
+        ]
+      ],
+      "box_xyxy": [
+        180,
+        327,
+        1109,
+        384
+      ],
+      "text": "rượu (trận mưa bay) rưới tan bụi trần.",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0362_viet_003",
+      "bbox": [
+        [
+          273,
+          531
+        ],
+        [
+          1182,
+          531
+        ],
+        [
+          1182,
+          592
+        ],
+        [
+          273,
+          592
+        ]
+      ],
+      "bbox_original": [
+        [
+          273,
+          699
+        ],
+        [
+          1182,
+          699
+        ],
+        [
+          1182,
+          760
+        ],
+        [
+          273,
+          760
+        ]
+      ],
+      "box_xyxy": [
+        273,
+        531,
+        1182,
+        592
+      ],
+      "text": "Vị-thành thử hậu, cõ-nhân diệc từ",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0362_viet_004",
+      "bbox": [
+        [
+          179,
+          610
+        ],
+        [
+          1340,
+          613
+        ],
+        [
+          1340,
+          674
+        ],
+        [
+          178,
+          671
+        ]
+      ],
+      "bbox_original": [
+        [
+          179,
+          778
+        ],
+        [
+          1340,
+          781
+        ],
+        [
+          1340,
+          842
+        ],
+        [
+          178,
+          839
+        ]
+      ],
+      "box_xyxy": [
+        178,
+        610,
+        1340,
+        674
+      ],
+      "text": "- Sau khi ầy ở Vị-thành bạn bè đành cũng tan lìa.",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0362_viet_005",
+      "bbox": [
+        [
+          271,
+          820
+        ],
+        [
+          1009,
+          820
+        ],
+        [
+          1009,
+          887
+        ],
+        [
+          271,
+          887
+        ]
+      ],
+      "bbox_original": [
+        [
+          271,
+          988
+        ],
+        [
+          1009,
+          988
+        ],
+        [
+          1009,
+          1055
+        ],
+        [
+          271,
+          1055
+        ]
+      ],
+      "box_xyxy": [
+        271,
+        820,
+        1009,
+        887
+      ],
+      "text": "Bất tri hậu Bắc kỳ khởi phỉ",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0362_viet_006",
+      "bbox": [
+        [
+          180,
+          907
+        ],
+        [
+          1248,
+          909
+        ],
+        [
+          1248,
+          973
+        ],
+        [
+          179,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          180,
+          1075
+        ],
+        [
+          1248,
+          1077
+        ],
+        [
+          1248,
+          1141
+        ],
+        [
+          179,
+          1138
+        ]
+      ],
+      "box_xyxy": [
+        179,
+        907,
+        1248,
+        973
+      ],
+      "text": "- Chẳng biết về sau ở bắc-kỳ có giặc nổi dậy.",
+      "confidence": 0.8985
+    },
+    {
+      "line_id": "0362_viet_007",
+      "bbox": [
+        [
+          267,
+          1117
+        ],
+        [
+          986,
+          1117
+        ],
+        [
+          986,
+          1178
+        ],
+        [
+          267,
+          1178
+        ]
+      ],
+      "bbox_original": [
+        [
+          267,
+          1285
+        ],
+        [
+          986,
+          1285
+        ],
+        [
+          986,
+          1346
+        ],
+        [
+          267,
+          1346
+        ]
+      ],
+      "box_xyxy": [
+        267,
+        1117,
+        986,
+        1178
+      ],
+      "text": "Nhị ngô huynh dĩ vị hồi thần",
+      "confidence": 0.9343
+    },
+    {
+      "line_id": "0362_viet_008",
+      "bbox": [
+        [
+          250,
+          1203
+        ],
+        [
+          810,
+          1203
+        ],
+        [
+          810,
+          1260
+        ],
+        [
+          250,
+          1260
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1371
+        ],
+        [
+          810,
+          1371
+        ],
+        [
+          810,
+          1428
+        ],
+        [
+          250,
+          1428
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1203,
+        810,
+        1260
+      ],
+      "text": "Hai anh ta đã về chưa ?",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0362_viet_009",
+      "bbox": [
+        [
+          282,
+          1410
+        ],
+        [
+          995,
+          1410
+        ],
+        [
+          995,
+          1471
+        ],
+        [
+          282,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          1578
+        ],
+        [
+          995,
+          1578
+        ],
+        [
+          995,
+          1639
+        ],
+        [
+          282,
+          1639
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        1410,
+        995,
+        1471
+      ],
+      "text": "Ta tai đồng bệnh tương lân",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0362_viet_010",
+      "bbox": [
+        [
+          176,
+          1487
+        ],
+        [
+          1291,
+          1489
+        ],
+        [
+          1291,
+          1556
+        ],
+        [
+          175,
+          1554
+        ]
+      ],
+      "bbox_original": [
+        [
+          176,
+          1655
+        ],
+        [
+          1291,
+          1657
+        ],
+        [
+          1291,
+          1724
+        ],
+        [
+          175,
+          1722
+        ]
+      ],
+      "box_xyxy": [
+        175,
+        1487,
+        1291,
+        1556
+      ],
+      "text": "- Oi. cùng chung một bệnh, cùng thương nhau",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0362_viet_011",
+      "bbox": [
+        [
+          261,
+          1698
+        ],
+        [
+          1479,
+          1696
+        ],
+        [
+          1479,
+          1760
+        ],
+        [
+          261,
+          1762
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          1866
+        ],
+        [
+          1479,
+          1864
+        ],
+        [
+          1479,
+          1928
+        ],
+        [
+          261,
+          1930
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1696,
+        1479,
+        1762
+      ],
+      "text": "Nhứt Tiêu-lương. nhứt hướng Tũn nhứt phương",
+      "confidence": 0.8784
+    },
+    {
+      "line_id": "0362_viet_012",
+      "bbox": [
+        [
+          170,
+          1779
+        ],
+        [
+          1408,
+          1774
+        ],
+        [
+          1408,
+          1840
+        ],
+        [
+          171,
+          1845
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1947
+        ],
+        [
+          1408,
+          1942
+        ],
+        [
+          1408,
+          2008
+        ],
+        [
+          171,
+          2013
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1774,
+        1408,
+        1845
+      ],
+      "text": "- Người thì tới sông Tiêu-tương, kẻ ở lại nước Tấn",
+      "confidence": 0.9146
+    },
+    {
+      "line_id": "0362_viet_013",
+      "bbox": [
+        [
+          261,
+          1990
+        ],
+        [
+          1186,
+          1987
+        ],
+        [
+          1186,
+          2051
+        ],
+        [
+          261,
+          2054
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          2158
+        ],
+        [
+          1186,
+          2155
+        ],
+        [
+          1186,
+          2219
+        ],
+        [
+          261,
+          2222
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1987,
+        1186,
+        2054
+      ],
+      "text": "Tương hà nhật cánh tương đõi ngữ",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0362_viet_014",
+      "bbox": [
+        [
+          174,
+          2078
+        ],
+        [
+          1359,
+          2075
+        ],
+        [
+          1360,
+          2138
+        ],
+        [
+          175,
+          2141
+        ]
+      ],
+      "bbox_original": [
+        [
+          174,
+          2246
+        ],
+        [
+          1359,
+          2243
+        ],
+        [
+          1360,
+          2306
+        ],
+        [
+          175,
+          2309
+        ]
+      ],
+      "box_xyxy": [
+        174,
+        2075,
+        1360,
+        2141
+      ],
+      "text": "- Hầu ngày nào lại ngôi đồi mặt nhau nói chuyện.",
+      "confidence": 0.8987
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Mã bôi tự ấp khinh trần",
+      "Vị-thành thử hậu, cõ-nhân diệc từ",
+      "Bất tri hậu Bắc kỳ khởi phỉ",
+      "Nhị ngô huynh dĩ vị hồi thần",
+      "Ta tai đồng bệnh tương lân",
+      "Nhứt Tiêu-lương. nhứt hướng Tũn nhứt phương",
+      "Tương hà nhật cánh tương đõi ngữ"
+    ],
+    "dich_nghia_lines": [
+      "- Nhớ khi giã nhau, ngồi trên ngựa, cầm vội chén rượu (trận mưa bay) rưới tan bụi trần.",
+      "- Sau khi ầy ở Vị-thành bạn bè đành cũng tan lìa.",
+      "- Chẳng biết về sau ở bắc-kỳ có giặc nổi dậy.",
+      "Hai anh ta đã về chưa ?",
+      "- Oi. cùng chung một bệnh, cùng thương nhau",
+      "- Người thì tới sông Tiêu-tương, kẻ ở lại nước Tấn",
+      "- Hầu ngày nào lại ngôi đồi mặt nhau nói chuyện."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "馬杯自挹輕塵",
+        "phien_am": "Mã bôi tự ấp khinh trần",
+        "dich_nghia_gloss": "- Nhớ khi giã nhau, ngồi trên ngựa, cầm vội chén rượu (trận mưa bay) rưới tan bụi trần."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "渭城此後故人亦辭",
+        "phien_am": "Vị-thành thử hậu, cõ-nhân diệc từ",
+        "dich_nghia_gloss": "- Sau khi ầy ở Vị-thành bạn bè đành cũng tan lìa."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "不知後北圻起匪",
+        "phien_am": "Bất tri hậu Bắc kỳ khởi phỉ",
+        "dich_nghia_gloss": "- Chẳng biết về sau ở bắc-kỳ có giặc nổi dậy."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "二吾兄己未回辰",
+        "phien_am": "Nhị ngô huynh dĩ vị hồi thần",
+        "dich_nghia_gloss": "Hai anh ta đã về chưa ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "嗟哉同病相憐",
+        "phien_am": "Ta tai đồng bệnh tương lân",
+        "dich_nghia_gloss": "- Oi. cùng chung một bệnh, cùng thương nhau"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "一瀟湘一向秦一方",
+        "phien_am": "Nhứt Tiêu-lương. nhứt hướng Tũn nhứt phương",
+        "dich_nghia_gloss": "- Người thì tới sông Tiêu-tương, kẻ ở lại nước Tấn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "將何日更相對語",
+        "phien_am": "Tương hà nhật cánh tương đõi ngữ",
+        "dich_nghia_gloss": "- Hầu ngày nào lại ngôi đồi mặt nhau nói chuyện."
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

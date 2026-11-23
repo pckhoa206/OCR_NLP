@@ -1576,8 +1576,7 @@ class KaggleDualOCREngine:
                     for poly, txt, sc in zip(polys, texts, scores):
                         pts = [[int(round(float(pt[0]))), int(round(float(pt[1])))] for pt in poly]
                         parsed.append((pts, str(txt), float(sc)))
-                if parsed:
-                    return parsed
+                return parsed
             except Exception:
                 parsed = []
 

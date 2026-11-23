@@ -1,0 +1,678 @@
+{
+  "page_id": "0376",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 376,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0376_viet_000",
+      "bbox": [
+        [
+          361,
+          148
+        ],
+        [
+          1187,
+          156
+        ],
+        [
+          1186,
+          226
+        ],
+        [
+          361,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          316
+        ],
+        [
+          1187,
+          324
+        ],
+        [
+          1186,
+          394
+        ],
+        [
+          361,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        148,
+        1187,
+        226
+      ],
+      "text": "Ám ám nguyệt nhi trăm trăm dạ.",
+      "confidence": 0.9073
+    },
+    {
+      "line_id": "0376_viet_001",
+      "bbox": [
+        [
+          360,
+          332
+        ],
+        [
+          1127,
+          335
+        ],
+        [
+          1126,
+          400
+        ],
+        [
+          360,
+          397
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          500
+        ],
+        [
+          1127,
+          503
+        ],
+        [
+          1126,
+          568
+        ],
+        [
+          360,
+          565
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        332,
+        1127,
+        400
+      ],
+      "text": "Chỉ thu giang dục hạ cô châu.",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0376_viet_002",
+      "bbox": [
+        [
+          467,
+          507
+        ],
+        [
+          1233,
+          507
+        ],
+        [
+          1233,
+          574
+        ],
+        [
+          467,
+          574
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          675
+        ],
+        [
+          1233,
+          675
+        ],
+        [
+          1233,
+          742
+        ],
+        [
+          467,
+          742
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        507,
+        1233,
+        574
+      ],
+      "text": "Ciang phong ngư hỏa đõi sâu.",
+      "confidence": 0.8599
+    },
+    {
+      "line_id": "0376_viet_003",
+      "bbox": [
+        [
+          308,
+          683
+        ],
+        [
+          1367,
+          687
+        ],
+        [
+          1367,
+          756
+        ],
+        [
+          307,
+          753
+        ]
+      ],
+      "bbox_original": [
+        [
+          308,
+          851
+        ],
+        [
+          1367,
+          855
+        ],
+        [
+          1367,
+          924
+        ],
+        [
+          307,
+          921
+        ]
+      ],
+      "box_xyxy": [
+        307,
+        683,
+        1367,
+        756
+      ],
+      "text": "Phong giao quê trao nguyệt phù kim tôn",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0376_viet_004",
+      "bbox": [
+        [
+          362,
+          860
+        ],
+        [
+          1313,
+          863
+        ],
+        [
+          1313,
+          928
+        ],
+        [
+          362,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          1028
+        ],
+        [
+          1313,
+          1031
+        ],
+        [
+          1313,
+          1096
+        ],
+        [
+          362,
+          1093
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        860,
+        1313,
+        928
+      ],
+      "text": "Nhân khuyễn ngã hầu môn nhất kiên",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0376_viet_005",
+      "bbox": [
+        [
+          366,
+          1037
+        ],
+        [
+          1296,
+          1042
+        ],
+        [
+          1296,
+          1107
+        ],
+        [
+          366,
+          1102
+        ]
+      ],
+      "bbox_original": [
+        [
+          366,
+          1205
+        ],
+        [
+          1296,
+          1210
+        ],
+        [
+          1296,
+          1275
+        ],
+        [
+          366,
+          1270
+        ]
+      ],
+      "box_xyxy": [
+        366,
+        1037,
+        1296,
+        1107
+      ],
+      "text": "Tức thanh niên khả tiện phong hầu",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0376_viet_006",
+      "bbox": [
+        [
+          468,
+          1216
+        ],
+        [
+          1128,
+          1216
+        ],
+        [
+          1128,
+          1280
+        ],
+        [
+          468,
+          1280
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          1384
+        ],
+        [
+          1128,
+          1384
+        ],
+        [
+          1128,
+          1448
+        ],
+        [
+          468,
+          1448
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        1216,
+        1128,
+        1280
+      ],
+      "text": "Ngã tri kỳ khúc như câu",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0376_viet_007",
+      "bbox": [
+        [
+          314,
+          1386
+        ],
+        [
+          1017,
+          1389
+        ],
+        [
+          1017,
+          1453
+        ],
+        [
+          313,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          314,
+          1554
+        ],
+        [
+          1017,
+          1557
+        ],
+        [
+          1017,
+          1621
+        ],
+        [
+          313,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        1386,
+        1017,
+        1453
+      ],
+      "text": "Yên xa tứ mã ngã cầu hà vi.",
+      "confidence": 0.9264
+    },
+    {
+      "line_id": "0376_viet_008",
+      "bbox": [
+        [
+          362,
+          1555
+        ],
+        [
+          1240,
+          1560
+        ],
+        [
+          1239,
+          1626
+        ],
+        [
+          362,
+          1622
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          1723
+        ],
+        [
+          1240,
+          1728
+        ],
+        [
+          1239,
+          1794
+        ],
+        [
+          362,
+          1790
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        1555,
+        1240,
+        1626
+      ],
+      "text": "Nhân khuyên ngã cao phi viên tầu",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0376_viet_009",
+      "bbox": [
+        [
+          365,
+          1726
+        ],
+        [
+          1237,
+          1730
+        ],
+        [
+          1236,
+          1797
+        ],
+        [
+          365,
+          1792
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          1894
+        ],
+        [
+          1237,
+          1898
+        ],
+        [
+          1236,
+          1965
+        ],
+        [
+          365,
+          1960
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        1726,
+        1237,
+        1797
+      ],
+      "text": "Khủng Tây-trần dục cầu nhân yên",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0376_viet_010",
+      "bbox": [
+        [
+          473,
+          1901
+        ],
+        [
+          1210,
+          1903
+        ],
+        [
+          1210,
+          1968
+        ],
+        [
+          473,
+          1966
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          2069
+        ],
+        [
+          1210,
+          2071
+        ],
+        [
+          1210,
+          2136
+        ],
+        [
+          473,
+          2134
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        1901,
+        1210,
+        1968
+      ],
+      "text": "Ngã tri ngã trực như huyền,",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0376_viet_011",
+      "bbox": [
+        [
+          316,
+          2071
+        ],
+        [
+          1190,
+          2073
+        ],
+        [
+          1190,
+          2137
+        ],
+        [
+          316,
+          2135
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          2239
+        ],
+        [
+          1190,
+          2241
+        ],
+        [
+          1190,
+          2305
+        ],
+        [
+          316,
+          2303
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        2071,
+        1190,
+        2137
+      ],
+      "text": "Vi luân vi đạn tùy thiên phú hình",
+      "confidence": 0.9304
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Ám ám nguyệt nhi trăm trăm dạ.",
+      "Chỉ thu giang dục hạ cô châu.",
+      "Ciang phong ngư hỏa đõi sâu.",
+      "Phong giao quê trao nguyệt phù kim tôn",
+      "Nhân khuyễn ngã hầu môn nhất kiên",
+      "Tức thanh niên khả tiện phong hầu",
+      "Ngã tri kỳ khúc như câu",
+      "Yên xa tứ mã ngã cầu hà vi.",
+      "Nhân khuyên ngã cao phi viên tầu",
+      "Khủng Tây-trần dục cầu nhân yên",
+      "Ngã tri ngã trực như huyền,",
+      "Vi luân vi đạn tùy thiên phú hình"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "黯黯月而沉沉夜",
+        "phien_am": "Ám ám nguyệt nhi trăm trăm dạ.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "指秋江欲下孤舟",
+        "phien_am": "Chỉ thu giang dục hạ cô châu.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "江楓漁火對愁",
+        "phien_am": "Ciang phong ngư hỏa đõi sâu.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "風摇桂棹月浮金樽",
+        "phien_am": "Phong giao quê trao nguyệt phù kim tôn",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "人勸我侯門一見",
+        "phien_am": "Nhân khuyễn ngã hầu môn nhất kiên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "即青年可便封侯",
+        "phien_am": "Tức thanh niên khả tiện phong hầu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "我知其曲如鈎",
+        "phien_am": "Ngã tri kỳ khúc như câu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "鞍車駟馬我求何為",
+        "phien_am": "Yên xa tứ mã ngã cầu hà vi.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "人勤我高飛遠走",
+        "phien_am": "Nhân khuyên ngã cao phi viên tầu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "恐西塵欲垢人焉",
+        "phien_am": "Khủng Tây-trần dục cầu nhân yên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "我知我直如弦",
+        "phien_am": "Ngã tri ngã trực như huyền,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "為輪為磾隨天賦形",
+        "phien_am": "Vi luân vi đạn tùy thiên phú hình",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "page_id": "0348",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 348,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0348_viet_000",
+      "bbox": [
+        [
+          295,
+          167
+        ],
+        [
+          1091,
+          171
+        ],
+        [
+          1091,
+          235
+        ],
+        [
+          294,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          335
+        ],
+        [
+          1091,
+          339
+        ],
+        [
+          1091,
+          403
+        ],
+        [
+          294,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        167,
+        1091,
+        235
+      ],
+      "text": "Dạ trăm trầm bất kiến giai âm",
+      "confidence": 0.8861
+    },
+    {
+      "line_id": "0348_viet_001",
+      "bbox": [
+        [
+          206,
+          256
+        ],
+        [
+          976,
+          258
+        ],
+        [
+          976,
+          322
+        ],
+        [
+          206,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          424
+        ],
+        [
+          976,
+          426
+        ],
+        [
+          976,
+          490
+        ],
+        [
+          206,
+          488
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        256,
+        976,
+        322
+      ],
+      "text": "- Đêm vắng chẳng thây tin lành",
+      "confidence": 0.8909
+    },
+    {
+      "line_id": "0348_viet_002",
+      "bbox": [
+        [
+          296,
+          460
+        ],
+        [
+          1126,
+          462
+        ],
+        [
+          1125,
+          527
+        ],
+        [
+          295,
+          525
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          628
+        ],
+        [
+          1126,
+          630
+        ],
+        [
+          1125,
+          695
+        ],
+        [
+          295,
+          693
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        460,
+        1126,
+        527
+      ],
+      "text": "Trịch thoan vọng vọng đình âm",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0348_viet_003",
+      "bbox": [
+        [
+          207,
+          550
+        ],
+        [
+          1275,
+          548
+        ],
+        [
+          1275,
+          613
+        ],
+        [
+          207,
+          615
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          718
+        ],
+        [
+          1275,
+          716
+        ],
+        [
+          1275,
+          781
+        ],
+        [
+          207,
+          783
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        548,
+        1275,
+        615
+      ],
+      "text": "Nàng bèn ném thoi ra ngóng ở trước thềm",
+      "confidence": 0.8992
+    },
+    {
+      "line_id": "0348_viet_004",
+      "bbox": [
+        [
+          295,
+          752
+        ],
+        [
+          1357,
+          756
+        ],
+        [
+          1356,
+          817
+        ],
+        [
+          294,
+          813
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          920
+        ],
+        [
+          1357,
+          924
+        ],
+        [
+          1356,
+          985
+        ],
+        [
+          294,
+          981
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        752,
+        1357,
+        817
+      ],
+      "text": "Sương hàn tất suất thinh ngâm thanh sầu.",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0348_viet_005",
+      "bbox": [
+        [
+          208,
+          843
+        ],
+        [
+          1279,
+          843
+        ],
+        [
+          1279,
+          904
+        ],
+        [
+          208,
+          904
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1011
+        ],
+        [
+          1279,
+          1011
+        ],
+        [
+          1279,
+          1072
+        ],
+        [
+          208,
+          1072
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        843,
+        1279,
+        904
+      ],
+      "text": "- Nghe sương rơi lạnh-lùng, dề ngâm buồn-bã",
+      "confidence": 0.8867
+    },
+    {
+      "line_id": "0348_viet_006",
+      "bbox": [
+        [
+          297,
+          1043
+        ],
+        [
+          1043,
+          1047
+        ],
+        [
+          1043,
+          1111
+        ],
+        [
+          296,
+          1107
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1211
+        ],
+        [
+          1043,
+          1215
+        ],
+        [
+          1043,
+          1279
+        ],
+        [
+          296,
+          1275
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        1043,
+        1043,
+        1111
+      ],
+      "text": "Vọng bất kiến du du ngã độc",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0348_viet_007",
+      "bbox": [
+        [
+          208,
+          1134
+        ],
+        [
+          1209,
+          1134
+        ],
+        [
+          1209,
+          1195
+        ],
+        [
+          208,
+          1195
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1302
+        ],
+        [
+          1209,
+          1302
+        ],
+        [
+          1209,
+          1363
+        ],
+        [
+          208,
+          1363
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        1134,
+        1209,
+        1195
+      ],
+      "text": "Trông chẳng thầy ai, chỉ vò-võ một mình",
+      "confidence": 0.8968
+    },
+    {
+      "line_id": "0348_viet_008",
+      "bbox": [
+        [
+          296,
+          1334
+        ],
+        [
+          1168,
+          1339
+        ],
+        [
+          1168,
+          1403
+        ],
+        [
+          295,
+          1398
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          1502
+        ],
+        [
+          1168,
+          1507
+        ],
+        [
+          1168,
+          1571
+        ],
+        [
+          295,
+          1566
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1334,
+        1168,
+        1403
+      ],
+      "text": "Cõ khuê môn tái phục ngôn hoàn",
+      "confidence": 0.9194
+    },
+    {
+      "line_id": "0348_viet_009",
+      "bbox": [
+        [
+          208,
+          1425
+        ],
+        [
+          1329,
+          1427
+        ],
+        [
+          1329,
+          1491
+        ],
+        [
+          208,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1593
+        ],
+        [
+          1329,
+          1595
+        ],
+        [
+          1329,
+          1659
+        ],
+        [
+          208,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        1425,
+        1329,
+        1491
+      ],
+      "text": "- Ngành lại phòng khuê, tự nhủ: thôi đi vào",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0348_viet_010",
+      "bbox": [
+        [
+          297,
+          1628
+        ],
+        [
+          997,
+          1634
+        ],
+        [
+          996,
+          1696
+        ],
+        [
+          296,
+          1690
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1796
+        ],
+        [
+          997,
+          1802
+        ],
+        [
+          996,
+          1864
+        ],
+        [
+          296,
+          1858
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        1628,
+        997,
+        1696
+      ],
+      "text": "Thính gia kê xướng tây lan",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0348_viet_011",
+      "bbox": [
+        [
+          211,
+          1716
+        ],
+        [
+          1027,
+          1718
+        ],
+        [
+          1027,
+          1785
+        ],
+        [
+          211,
+          1783
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          1884
+        ],
+        [
+          1027,
+          1886
+        ],
+        [
+          1027,
+          1953
+        ],
+        [
+          211,
+          1951
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        1716,
+        1027,
+        1785
+      ],
+      "text": "- Tiêng gà nhà ai gáy ở phía tây ?",
+      "confidence": 0.8983
+    },
+    {
+      "line_id": "0348_viet_012",
+      "bbox": [
+        [
+          294,
+          1918
+        ],
+        [
+          1207,
+          1925
+        ],
+        [
+          1206,
+          1989
+        ],
+        [
+          293,
+          1982
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          2086
+        ],
+        [
+          1207,
+          2093
+        ],
+        [
+          1206,
+          2157
+        ],
+        [
+          293,
+          2150
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        1918,
+        1207,
+        1989
+      ],
+      "text": "Hàm tình ý kỷ khiêu tàn cô đăng",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0348_viet_013",
+      "bbox": [
+        [
+          204,
+          2001
+        ],
+        [
+          1442,
+          2006
+        ],
+        [
+          1442,
+          2071
+        ],
+        [
+          204,
+          2066
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          2169
+        ],
+        [
+          1442,
+          2174
+        ],
+        [
+          1442,
+          2239
+        ],
+        [
+          204,
+          2234
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        2001,
+        1442,
+        2071
+      ],
+      "text": "- Nàng còn ngậm mảnh tình riêng, ngồi dựa ghê, khêu",
+      "confidence": 0.9234
+    },
+    {
+      "line_id": "0348_viet_014",
+      "bbox": [
+        [
+          203,
+          2075
+        ],
+        [
+          1144,
+          2075
+        ],
+        [
+          1144,
+          2134
+        ],
+        [
+          203,
+          2134
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          2243
+        ],
+        [
+          1144,
+          2243
+        ],
+        [
+          1144,
+          2302
+        ],
+        [
+          203,
+          2302
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        2075,
+        1144,
+        2134
+      ],
+      "text": "mãi ngọn đèn lẻ-loi cho hao dầu, hết bắc",
+      "confidence": 0.9221
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Dạ trăm trầm bất kiến giai âm",
+      "Trịch thoan vọng vọng đình âm",
+      "Sương hàn tất suất thinh ngâm thanh sầu.",
+      "Vọng bất kiến du du ngã độc",
+      "Cõ khuê môn tái phục ngôn hoàn",
+      "Thính gia kê xướng tây lan",
+      "Hàm tình ý kỷ khiêu tàn cô đăng"
+    ],
+    "dich_nghia_lines": [
+      "- Đêm vắng chẳng thây tin lành",
+      "Nàng bèn ném thoi ra ngóng ở trước thềm",
+      "- Nghe sương rơi lạnh-lùng, dề ngâm buồn-bã",
+      "Trông chẳng thầy ai, chỉ vò-võ một mình",
+      "- Ngành lại phòng khuê, tự nhủ: thôi đi vào",
+      "- Tiêng gà nhà ai gáy ở phía tây ?",
+      "- Nàng còn ngậm mảnh tình riêng, ngồi dựa ghê, khêu mãi ngọn đèn lẻ-loi cho hao dầu, hết bắc"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "夜沈沈不見佳音",
+        "phien_am": "Dạ trăm trầm bất kiến giai âm",
+        "dich_nghia_gloss": "- Đêm vắng chẳng thây tin lành"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "擲梭望望庭陰",
+        "phien_am": "Trịch thoan vọng vọng đình âm",
+        "dich_nghia_gloss": "Nàng bèn ném thoi ra ngóng ở trước thềm"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "霜寒蟋蟀咱吟聲愁",
+        "phien_am": "Sương hàn tất suất thinh ngâm thanh sầu.",
+        "dich_nghia_gloss": "- Nghe sương rơi lạnh-lùng, dề ngâm buồn-bã"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "望不見悠悠我獨",
+        "phien_am": "Vọng bất kiến du du ngã độc",
+        "dich_nghia_gloss": "Trông chẳng thầy ai, chỉ vò-võ một mình"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "顧閨門載復言還",
+        "phien_am": "Cõ khuê môn tái phục ngôn hoàn",
+        "dich_nghia_gloss": "- Ngành lại phòng khuê, tự nhủ: thôi đi vào"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "咱家鷄唱西欄",
+        "phien_am": "Thính gia kê xướng tây lan",
+        "dich_nghia_gloss": "- Tiêng gà nhà ai gáy ở phía tây ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "含情倚几挑殘孤燈",
+        "phien_am": "Hàm tình ý kỷ khiêu tàn cô đăng",
+        "dich_nghia_gloss": "- Nàng còn ngậm mảnh tình riêng, ngồi dựa ghê, khêu mãi ngọn đèn lẻ-loi cho hao dầu, hết bắc"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

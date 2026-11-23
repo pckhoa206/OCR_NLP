@@ -1,0 +1,1324 @@
+{
+  "page_id": "0531",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 531,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1698,
+    "footnote_separator_y_original": 1857,
+    "effective_width": 1558,
+    "effective_height": 1698
+  },
+  "items": [
+    {
+      "line_id": "0531_viet_000",
+      "bbox": [
+        [
+          105,
+          14
+        ],
+        [
+          1446,
+          6
+        ],
+        [
+          1447,
+          64
+        ],
+        [
+          106,
+          72
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          173
+        ],
+        [
+          1446,
+          165
+        ],
+        [
+          1447,
+          223
+        ],
+        [
+          106,
+          231
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        6,
+        1447,
+        72
+      ],
+      "text": "là ngân dài lời ra vậy, nói không đủ thì phải ngân dài lời. Đại đề,",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0531_viet_001",
+      "bbox": [
+        [
+          107,
+          73
+        ],
+        [
+          1447,
+          69
+        ],
+        [
+          1447,
+          123
+        ],
+        [
+          107,
+          127
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          232
+        ],
+        [
+          1447,
+          228
+        ],
+        [
+          1447,
+          282
+        ],
+        [
+          107,
+          286
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        69,
+        1447,
+        127
+      ],
+      "text": "thơ và ca không thể phối hợp. Còn thanh thì dựa vào ?ngân dài?;",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0531_viet_002",
+      "bbox": [
+        [
+          105,
+          130
+        ],
+        [
+          1445,
+          125
+        ],
+        [
+          1445,
+          182
+        ],
+        [
+          105,
+          187
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          289
+        ],
+        [
+          1445,
+          284
+        ],
+        [
+          1445,
+          341
+        ],
+        [
+          105,
+          346
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        125,
+        1445,
+        187
+      ],
+      "text": "luật và thanh thì dùng nhạc khí, ngũ âm, lục luật mà phối hợp vậy.",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0531_viet_003",
+      "bbox": [
+        [
+          190,
+          196
+        ],
+        [
+          1447,
+          189
+        ],
+        [
+          1448,
+          246
+        ],
+        [
+          190,
+          253
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          355
+        ],
+        [
+          1447,
+          348
+        ],
+        [
+          1448,
+          405
+        ],
+        [
+          190,
+          412
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        189,
+        1448,
+        253
+      ],
+      "text": "Các bậc thày giảng dạy về kinh điển và các học sĩ phần nhiều",
+      "confidence": 0.9048
+    },
+    {
+      "line_id": "0531_viet_004",
+      "bbox": [
+        [
+          105,
+          253
+        ],
+        [
+          1450,
+          247
+        ],
+        [
+          1450,
+          308
+        ],
+        [
+          106,
+          314
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          412
+        ],
+        [
+          1450,
+          406
+        ],
+        [
+          1450,
+          467
+        ],
+        [
+          106,
+          473
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        247,
+        1450,
+        314
+      ],
+      "text": "luận rằng cung là vua, thương là bề tôi, phối hợp với nhau, Đến",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0531_viet_005",
+      "bbox": [
+        [
+          106,
+          315
+        ],
+        [
+          1448,
+          310
+        ],
+        [
+          1448,
+          364
+        ],
+        [
+          106,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          474
+        ],
+        [
+          1448,
+          469
+        ],
+        [
+          1448,
+          523
+        ],
+        [
+          106,
+          528
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        310,
+        1448,
+        369
+      ],
+      "text": "như các nhà điền từ và người độ khúc (tự viết nhạc), cứ chăm",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0531_viet_006",
+      "bbox": [
+        [
+          107,
+          373
+        ],
+        [
+          1449,
+          371
+        ],
+        [
+          1449,
+          425
+        ],
+        [
+          107,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          532
+        ],
+        [
+          1449,
+          530
+        ],
+        [
+          1449,
+          584
+        ],
+        [
+          107,
+          587
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        371,
+        1449,
+        428
+      ],
+      "text": "chăm biện bác với nhau về Cung, Thương, câu, chữ.. nhưng văn",
+      "confidence": 0.8779
+    },
+    {
+      "line_id": "0531_viet_007",
+      "bbox": [
+        [
+          106,
+          434
+        ],
+        [
+          1448,
+          430
+        ],
+        [
+          1448,
+          485
+        ],
+        [
+          106,
+          488
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          593
+        ],
+        [
+          1448,
+          589
+        ],
+        [
+          1448,
+          644
+        ],
+        [
+          106,
+          647
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        430,
+        1448,
+        488
+      ],
+      "text": "hỏi chữ nào là Cung, chữ nào là Thương thì trợn mắt cứng lưỡi",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0531_viet_008",
+      "bbox": [
+        [
+          109,
+          492
+        ],
+        [
+          1450,
+          488
+        ],
+        [
+          1450,
+          545
+        ],
+        [
+          109,
+          549
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          651
+        ],
+        [
+          1450,
+          647
+        ],
+        [
+          1450,
+          704
+        ],
+        [
+          109,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        488,
+        1450,
+        549
+      ],
+      "text": "[không biết đâu mà trả lời], thế thì hà tất phải tranh biện mà làm",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0531_viet_009",
+      "bbox": [
+        [
+          107,
+          552
+        ],
+        [
+          1452,
+          546
+        ],
+        [
+          1452,
+          603
+        ],
+        [
+          107,
+          609
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          711
+        ],
+        [
+          1452,
+          705
+        ],
+        [
+          1452,
+          762
+        ],
+        [
+          107,
+          768
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        546,
+        1452,
+        609
+      ],
+      "text": "gì vậy thayl Vì răng có biện luận về những điều ấy cũng chỉ là",
+      "confidence": 0.9137
+    },
+    {
+      "line_id": "0531_viet_010",
+      "bbox": [
+        [
+          108,
+          612
+        ],
+        [
+          637,
+          610
+        ],
+        [
+          637,
+          665
+        ],
+        [
+          108,
+          667
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          771
+        ],
+        [
+          637,
+          769
+        ],
+        [
+          637,
+          824
+        ],
+        [
+          108,
+          826
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        610,
+        637,
+        667
+      ],
+      "text": "theo ngọn bỏ gốc mà thôi.",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0531_viet_011",
+      "bbox": [
+        [
+          254,
+          676
+        ],
+        [
+          1448,
+          673
+        ],
+        [
+          1448,
+          731
+        ],
+        [
+          254,
+          734
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          835
+        ],
+        [
+          1448,
+          832
+        ],
+        [
+          1448,
+          890
+        ],
+        [
+          254,
+          893
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        673,
+        1448,
+        734
+      ],
+      "text": "Xét lẽ, nhạc tuy rằng cực thần, cực kì, nhưng không nằm",
+      "confidence": 0.8641
+    },
+    {
+      "line_id": "0531_viet_012",
+      "bbox": [
+        [
+          107,
+          737
+        ],
+        [
+          1448,
+          734
+        ],
+        [
+          1448,
+          791
+        ],
+        [
+          107,
+          794
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          896
+        ],
+        [
+          1448,
+          893
+        ],
+        [
+          1448,
+          950
+        ],
+        [
+          107,
+          953
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        734,
+        1448,
+        794
+      ],
+      "text": "ngoài mấy chữ cung, thương, giốc, chuỷ, vũ\", tứ, thượng, xích,",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0531_viet_013",
+      "bbox": [
+        [
+          107,
+          796
+        ],
+        [
+          1448,
+          791
+        ],
+        [
+          1448,
+          849
+        ],
+        [
+          107,
+          854
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          955
+        ],
+        [
+          1448,
+          950
+        ],
+        [
+          1448,
+          1008
+        ],
+        [
+          107,
+          1013
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        791,
+        1448,
+        854
+      ],
+      "text": "công, ngũ, lục? này, vậy nên rất giản rất dị vậy, Sáo của trời ? tức",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0531_viet_014",
+      "bbox": [
+        [
+          105,
+          855
+        ],
+        [
+          1450,
+          850
+        ],
+        [
+          1450,
+          908
+        ],
+        [
+          105,
+          913
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1014
+        ],
+        [
+          1450,
+          1009
+        ],
+        [
+          1450,
+          1067
+        ],
+        [
+          105,
+          1072
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        850,
+        1450,
+        913
+      ],
+      "text": "là thanh của người. Thanh của người chưa từng mất mà lại mất",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0531_viet_015",
+      "bbox": [
+        [
+          107,
+          916
+        ],
+        [
+          1450,
+          913
+        ],
+        [
+          1450,
+          967
+        ],
+        [
+          107,
+          970
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          1075
+        ],
+        [
+          1450,
+          1072
+        ],
+        [
+          1450,
+          1126
+        ],
+        [
+          107,
+          1129
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        913,
+        1450,
+        970
+      ],
+      "text": "nhạc được sao? Mạnh Tử nói: ?Nhạc ngày nay cũng là nhạc thời",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0531_viet_016",
+      "bbox": [
+        [
+          109,
+          968
+        ],
+        [
+          489,
+          974
+        ],
+        [
+          488,
+          1033
+        ],
+        [
+          108,
+          1026
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          1127
+        ],
+        [
+          489,
+          1133
+        ],
+        [
+          488,
+          1192
+        ],
+        [
+          108,
+          1185
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        968,
+        489,
+        1033
+      ],
+      "text": "cổ\", đáng tin thay[",
+      "confidence": 0.8852
+    },
+    {
+      "line_id": "0531_viet_017",
+      "bbox": [
+        [
+          188,
+          1037
+        ],
+        [
+          1450,
+          1036
+        ],
+        [
+          1450,
+          1093
+        ],
+        [
+          188,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1196
+        ],
+        [
+          1450,
+          1195
+        ],
+        [
+          1450,
+          1252
+        ],
+        [
+          188,
+          1253
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1036,
+        1450,
+        1094
+      ],
+      "text": "Kinh thuật chẳng kinh nào thâm thuý hơn Kinh Nhạc. Kinh",
+      "confidence": 0.8644
+    },
+    {
+      "line_id": "0531_viet_018",
+      "bbox": [
+        [
+          109,
+          1099
+        ],
+        [
+          1447,
+          1099
+        ],
+        [
+          1447,
+          1152
+        ],
+        [
+          109,
+          1152
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          1258
+        ],
+        [
+          1447,
+          1258
+        ],
+        [
+          1447,
+          1311
+        ],
+        [
+          109,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        1099,
+        1447,
+        1152
+      ],
+      "text": "Nhạc tuy mất nhưng các kinh nói về nhạc còn đó, người ham học,",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0531_viet_019",
+      "bbox": [
+        [
+          107,
+          1158
+        ],
+        [
+          1449,
+          1155
+        ],
+        [
+          1449,
+          1209
+        ],
+        [
+          107,
+          1212
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          1317
+        ],
+        [
+          1449,
+          1314
+        ],
+        [
+          1449,
+          1368
+        ],
+        [
+          107,
+          1371
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        1155,
+        1449,
+        1212
+      ],
+      "text": "suy nghĩ sâu xa, tham khảo nghiên ngẫm, tự lĩnh hội đại yếu của",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0531_viet_020",
+      "bbox": [
+        [
+          105,
+          1215
+        ],
+        [
+          263,
+          1215
+        ],
+        [
+          263,
+          1272
+        ],
+        [
+          105,
+          1272
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1374
+        ],
+        [
+          263,
+          1374
+        ],
+        [
+          263,
+          1431
+        ],
+        [
+          105,
+          1431
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1215,
+        263,
+        1272
+      ],
+      "text": "nó vậy.",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0531_viet_021",
+      "bbox": [
+        [
+          190,
+          1279
+        ],
+        [
+          1452,
+          1279
+        ],
+        [
+          1452,
+          1339
+        ],
+        [
+          190,
+          1339
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1438
+        ],
+        [
+          1452,
+          1438
+        ],
+        [
+          1452,
+          1498
+        ],
+        [
+          190,
+          1498
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        1279,
+        1452,
+        1339
+      ],
+      "text": "Thần thường theo học bề tôi lễ quan đã quá cố là Thân Văn",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0531_viet_022",
+      "bbox": [
+        [
+          107,
+          1339
+        ],
+        [
+          1450,
+          1337
+        ],
+        [
+          1450,
+          1401
+        ],
+        [
+          107,
+          1403
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          1498
+        ],
+        [
+          1450,
+          1496
+        ],
+        [
+          1450,
+          1560
+        ],
+        [
+          107,
+          1562
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        1337,
+        1450,
+        1403
+      ],
+      "text": "Quyền và người anh quá cố của thần là Miên Thẩm nên biết răng",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0531_viet_023",
+      "bbox": [
+        [
+          108,
+          1401
+        ],
+        [
+          1450,
+          1399
+        ],
+        [
+          1450,
+          1457
+        ],
+        [
+          108,
+          1459
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          1560
+        ],
+        [
+          1450,
+          1558
+        ],
+        [
+          1450,
+          1616
+        ],
+        [
+          108,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        1399,
+        1450,
+        1459
+      ],
+      "text": "Cung, Thương có thanh nhất định, còn việc viết lời (chế từ) và",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0531_viet_024",
+      "bbox": [
+        [
+          105,
+          1463
+        ],
+        [
+          1450,
+          1459
+        ],
+        [
+          1450,
+          1516
+        ],
+        [
+          105,
+          1520
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1622
+        ],
+        [
+          1450,
+          1618
+        ],
+        [
+          1450,
+          1675
+        ],
+        [
+          105,
+          1679
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1459,
+        1450,
+        1520
+      ],
+      "text": "hợp nhạc, hai cái đó có sự phân biệt. Người viết lời không nhất",
+      "confidence": 0.9199
+    },
+    {
+      "line_id": "0531_viet_025",
+      "bbox": [
+        [
+          105,
+          1519
+        ],
+        [
+          1450,
+          1517
+        ],
+        [
+          1450,
+          1578
+        ],
+        [
+          105,
+          1580
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1678
+        ],
+        [
+          1450,
+          1676
+        ],
+        [
+          1450,
+          1737
+        ],
+        [
+          105,
+          1739
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1517,
+        1450,
+        1580
+      ],
+      "text": "thiết phải biết Cung, Thương, người phối hợp với nhạc không thể",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0531_viet_026",
+      "bbox": [
+        [
+          106,
+          1579
+        ],
+        [
+          1449,
+          1579
+        ],
+        [
+          1449,
+          1636
+        ],
+        [
+          106,
+          1636
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          1738
+        ],
+        [
+          1449,
+          1738
+        ],
+        [
+          1449,
+          1795
+        ],
+        [
+          106,
+          1795
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        1579,
+        1449,
+        1636
+      ],
+      "text": "không biết đến Cung, Thương. Sự luận biện do phát phẫn mà tỏ",
+      "confidence": 0.9033
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "là ngân dài lời ra vậy, nói không đủ thì phải ngân dài lời. Đại đề,",
+      "thơ và ca không thể phối hợp. Còn thanh thì dựa vào ?ngân dài?;",
+      "luật và thanh thì dùng nhạc khí, ngũ âm, lục luật mà phối hợp vậy.",
+      "Các bậc thày giảng dạy về kinh điển và các học sĩ phần nhiều",
+      "luận rằng cung là vua, thương là bề tôi, phối hợp với nhau, Đến",
+      "như các nhà điền từ và người độ khúc (tự viết nhạc), cứ chăm",
+      "chăm biện bác với nhau về Cung, Thương, câu, chữ.. nhưng văn",
+      "hỏi chữ nào là Cung, chữ nào là Thương thì trợn mắt cứng lưỡi",
+      "[không biết đâu mà trả lời], thế thì hà tất phải tranh biện mà làm",
+      "gì vậy thayl Vì răng có biện luận về những điều ấy cũng chỉ là",
+      "theo ngọn bỏ gốc mà thôi.",
+      "Xét lẽ, nhạc tuy rằng cực thần, cực kì, nhưng không nằm",
+      "ngoài mấy chữ cung, thương, giốc, chuỷ, vũ\", tứ, thượng, xích,",
+      "công, ngũ, lục? này, vậy nên rất giản rất dị vậy, Sáo của trời ? tức",
+      "là thanh của người. Thanh của người chưa từng mất mà lại mất",
+      "nhạc được sao? Mạnh Tử nói: ?Nhạc ngày nay cũng là nhạc thời",
+      "cổ\", đáng tin thay[",
+      "Kinh thuật chẳng kinh nào thâm thuý hơn Kinh Nhạc. Kinh",
+      "Nhạc tuy mất nhưng các kinh nói về nhạc còn đó, người ham học,",
+      "suy nghĩ sâu xa, tham khảo nghiên ngẫm, tự lĩnh hội đại yếu của",
+      "nó vậy.",
+      "Thần thường theo học bề tôi lễ quan đã quá cố là Thân Văn",
+      "Quyền và người anh quá cố của thần là Miên Thẩm nên biết răng",
+      "Cung, Thương có thanh nhất định, còn việc viết lời (chế từ) và",
+      "hợp nhạc, hai cái đó có sự phân biệt. Người viết lời không nhất",
+      "thiết phải biết Cung, Thương, người phối hợp với nhạc không thể",
+      "không biết đến Cung, Thương. Sự luận biện do phát phẫn mà tỏ"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

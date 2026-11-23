@@ -1,0 +1,462 @@
+{
+  "page_id": "0304",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 304,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0304_viet_000",
+      "bbox": [
+        [
+          411,
+          216
+        ],
+        [
+          1093,
+          224
+        ],
+        [
+          1092,
+          288
+        ],
+        [
+          410,
+          280
+        ]
+      ],
+      "bbox_original": [
+        [
+          411,
+          384
+        ],
+        [
+          1093,
+          392
+        ],
+        [
+          1092,
+          456
+        ],
+        [
+          410,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        410,
+        216,
+        1093,
+        288
+      ],
+      "text": "Thức thúy, liêm song nga,",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0304_viet_001",
+      "bbox": [
+        [
+          418,
+          465
+        ],
+        [
+          944,
+          474
+        ],
+        [
+          943,
+          535
+        ],
+        [
+          417,
+          527
+        ]
+      ],
+      "bbox_original": [
+        [
+          418,
+          633
+        ],
+        [
+          944,
+          642
+        ],
+        [
+          943,
+          703
+        ],
+        [
+          417,
+          695
+        ]
+      ],
+      "box_xyxy": [
+        417,
+        465,
+        944,
+        535
+      ],
+      "text": "Vị uất tâm trung sự,",
+      "confidence": 0.9091
+    },
+    {
+      "line_id": "0304_viet_002",
+      "bbox": [
+        [
+          410,
+          710
+        ],
+        [
+          1016,
+          714
+        ],
+        [
+          1016,
+          778
+        ],
+        [
+          409,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          410,
+          878
+        ],
+        [
+          1016,
+          882
+        ],
+        [
+          1016,
+          946
+        ],
+        [
+          409,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        409,
+        710,
+        1016,
+        778
+      ],
+      "text": "Nịch quản hạ đình trừ,",
+      "confidence": 0.9235
+    },
+    {
+      "line_id": "0304_viet_003",
+      "bbox": [
+        [
+          408,
+          958
+        ],
+        [
+          977,
+          965
+        ],
+        [
+          976,
+          1026
+        ],
+        [
+          407,
+          1019
+        ]
+      ],
+      "bbox_original": [
+        [
+          408,
+          1126
+        ],
+        [
+          977,
+          1133
+        ],
+        [
+          976,
+          1194
+        ],
+        [
+          407,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        407,
+        958,
+        977,
+        1026
+      ],
+      "text": "Thư tựu tương-tư tự.",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0304_viet_004",
+      "bbox": [
+        [
+          401,
+          1319
+        ],
+        [
+          982,
+          1322
+        ],
+        [
+          981,
+          1390
+        ],
+        [
+          400,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          401,
+          1487
+        ],
+        [
+          982,
+          1490
+        ],
+        [
+          981,
+          1558
+        ],
+        [
+          400,
+          1555
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        1319,
+        982,
+        1390
+      ],
+      "text": "Thử tự bãt thư thạch,",
+      "confidence": 0.895
+    },
+    {
+      "line_id": "0304_viet_005",
+      "bbox": [
+        [
+          400,
+          1566
+        ],
+        [
+          925,
+          1569
+        ],
+        [
+          925,
+          1634
+        ],
+        [
+          399,
+          1631
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          1734
+        ],
+        [
+          925,
+          1737
+        ],
+        [
+          925,
+          1802
+        ],
+        [
+          399,
+          1799
+        ]
+      ],
+      "box_xyxy": [
+        399,
+        1566,
+        925,
+        1634
+      ],
+      "text": "Thử tự bãt thư chỉ,",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0304_viet_006",
+      "bbox": [
+        [
+          398,
+          1813
+        ],
+        [
+          1139,
+          1820
+        ],
+        [
+          1138,
+          1883
+        ],
+        [
+          397,
+          1877
+        ]
+      ],
+      "bbox_original": [
+        [
+          398,
+          1981
+        ],
+        [
+          1139,
+          1988
+        ],
+        [
+          1138,
+          2051
+        ],
+        [
+          397,
+          2045
+        ]
+      ],
+      "box_xyxy": [
+        397,
+        1813,
+        1139,
+        1883
+      ],
+      "text": "Thư hướng thu-diệp thượng.",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0304_viet_007",
+      "bbox": [
+        [
+          391,
+          2066
+        ],
+        [
+          1104,
+          2066
+        ],
+        [
+          1104,
+          2129
+        ],
+        [
+          391,
+          2129
+        ]
+      ],
+      "bbox_original": [
+        [
+          391,
+          2234
+        ],
+        [
+          1104,
+          2234
+        ],
+        [
+          1104,
+          2297
+        ],
+        [
+          391,
+          2297
+        ]
+      ],
+      "box_xyxy": [
+        391,
+        2066,
+        1104,
+        2129
+      ],
+      "text": "Nguyện tùy thu phong khởi",
+      "confidence": 0.9298
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Thức thúy, liêm song nga,",
+      "Vị uất tâm trung sự,",
+      "Nịch quản hạ đình trừ,",
+      "Thư tựu tương-tư tự.",
+      "Thử tự bãt thư thạch,",
+      "Thử tự bãt thư chỉ,",
+      "Thư hướng thu-diệp thượng.",
+      "Nguyện tùy thu phong khởi"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "拭翠飲雙蛾",
+        "phien_am": "Thức thúy, liêm song nga,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "為鬱心中事",
+        "phien_am": "Vị uất tâm trung sự,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "匿管下庭除",
+        "phien_am": "Nịch quản hạ đình trừ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "書就相思字",
+        "phien_am": "Thư tựu tương-tư tự.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "此字不書石",
+        "phien_am": "Thử tự bãt thư thạch,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "此字不書紙",
+        "phien_am": "Thử tự bãt thư chỉ,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "書向秋葉上",
+        "phien_am": "Thư hướng thu-diệp thượng.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "願隨秋風起",
+        "phien_am": "Nguyện tùy thu phong khởi",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

@@ -1,0 +1,988 @@
+{
+  "page_id": "0294",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 294,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0294_viet_000",
+      "bbox": [
+        [
+          208,
+          0
+        ],
+        [
+          291,
+          0
+        ],
+        [
+          291,
+          31
+        ],
+        [
+          208,
+          31
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          168
+        ],
+        [
+          291,
+          168
+        ],
+        [
+          291,
+          199
+        ],
+        [
+          208,
+          199
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        0,
+        291,
+        31
+      ],
+      "text": "266",
+      "confidence": 0.7303
+    },
+    {
+      "line_id": "0294_viet_001",
+      "bbox": [
+        [
+          938,
+          0
+        ],
+        [
+          1441,
+          0
+        ],
+        [
+          1441,
+          30
+        ],
+        [
+          938,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          938,
+          168
+        ],
+        [
+          1441,
+          168
+        ],
+        [
+          1441,
+          198
+        ],
+        [
+          938,
+          197
+        ]
+      ],
+      "box_xyxy": [
+        938,
+        0,
+        1441,
+        30
+      ],
+      "text": "HAN-VAN TINH-LUY",
+      "confidence": 0.8787
+    },
+    {
+      "line_id": "0294_viet_002",
+      "bbox": [
+        [
+          261,
+          207
+        ],
+        [
+          1313,
+          212
+        ],
+        [
+          1313,
+          276
+        ],
+        [
+          261,
+          271
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          375
+        ],
+        [
+          1313,
+          380
+        ],
+        [
+          1313,
+          444
+        ],
+        [
+          261,
+          439
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        207,
+        1313,
+        276
+      ],
+      "text": "Hựu hà vãng nhi bãt kim ngọc kỳ ngoại,",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0294_viet_003",
+      "bbox": [
+        [
+          281,
+          273
+        ],
+        [
+          1339,
+          278
+        ],
+        [
+          1338,
+          334
+        ],
+        [
+          281,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          441
+        ],
+        [
+          1339,
+          446
+        ],
+        [
+          1338,
+          502
+        ],
+        [
+          281,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        273,
+        1339,
+        334
+      ],
+      "text": "Có gì đàu, chẳng qua là: ngọc vàng màu mõ ngoài da,",
+      "confidence": 0.9074
+    },
+    {
+      "line_id": "0294_viet_004",
+      "bbox": [
+        [
+          260,
+          451
+        ],
+        [
+          932,
+          451
+        ],
+        [
+          932,
+          515
+        ],
+        [
+          260,
+          515
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          619
+        ],
+        [
+          932,
+          619
+        ],
+        [
+          932,
+          683
+        ],
+        [
+          260,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        451,
+        932,
+        515
+      ],
+      "text": "bại nhứ kỳ trung dã tai ?",
+      "confidence": 0.9263
+    },
+    {
+      "line_id": "0294_viet_005",
+      "bbox": [
+        [
+          282,
+          519
+        ],
+        [
+          983,
+          519
+        ],
+        [
+          983,
+          573
+        ],
+        [
+          282,
+          573
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          687
+        ],
+        [
+          983,
+          687
+        ],
+        [
+          983,
+          741
+        ],
+        [
+          282,
+          741
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        519,
+        983,
+        573
+      ],
+      "text": "mà trong do bản thõi tha vô cùng",
+      "confidence": 0.8882
+    },
+    {
+      "line_id": "0294_viet_006",
+      "bbox": [
+        [
+          262,
+          689
+        ],
+        [
+          1442,
+          695
+        ],
+        [
+          1442,
+          755
+        ],
+        [
+          262,
+          750
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          857
+        ],
+        [
+          1442,
+          863
+        ],
+        [
+          1442,
+          923
+        ],
+        [
+          262,
+          918
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        689,
+        1442,
+        755
+      ],
+      "text": "Kim tử thị chi bãt sát, nhi đi sát ngô cam......................................................... - - - - - - - - - - - - -    ",
+      "confidence": 0.4582
+    },
+    {
+      "line_id": "0294_viet_007",
+      "bbox": [
+        [
+          279,
+          756
+        ],
+        [
+          1442,
+          756
+        ],
+        [
+          1442,
+          810
+        ],
+        [
+          279,
+          810
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          924
+        ],
+        [
+          1442,
+          924
+        ],
+        [
+          1442,
+          978
+        ],
+        [
+          279,
+          978
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        756,
+        1442,
+        810
+      ],
+      "text": "Thẽ mà ông ngơ đi không xử đến, lại chỉ xét-nét quả can",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0294_viet_008",
+      "bbox": [
+        [
+          205,
+          822
+        ],
+        [
+          383,
+          822
+        ],
+        [
+          383,
+          871
+        ],
+        [
+          205,
+          871
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          990
+        ],
+        [
+          383,
+          990
+        ],
+        [
+          383,
+          1039
+        ],
+        [
+          205,
+          1039
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        822,
+        383,
+        871
+      ],
+      "text": "của tôi .",
+      "confidence": 0.886
+    },
+    {
+      "line_id": "0294_viet_009",
+      "bbox": [
+        [
+          258,
+          996
+        ],
+        [
+          911,
+          998
+        ],
+        [
+          911,
+          1059
+        ],
+        [
+          258,
+          1057
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          1164
+        ],
+        [
+          911,
+          1166
+        ],
+        [
+          911,
+          1227
+        ],
+        [
+          258,
+          1225
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        996,
+        911,
+        1059
+      ],
+      "text": "Dư mặc nhiên vô di ứng.",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0294_viet_010",
+      "bbox": [
+        [
+          280,
+          1062
+        ],
+        [
+          1137,
+          1060
+        ],
+        [
+          1137,
+          1114
+        ],
+        [
+          280,
+          1116
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          1230
+        ],
+        [
+          1137,
+          1228
+        ],
+        [
+          1137,
+          1282
+        ],
+        [
+          280,
+          1284
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        1060,
+        1137,
+        1116
+      ],
+      "text": "Ta đứ họng ra không nói năng gì được củ",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0294_viet_011",
+      "bbox": [
+        [
+          261,
+          1236
+        ],
+        [
+          845,
+          1241
+        ],
+        [
+          845,
+          1301
+        ],
+        [
+          261,
+          1297
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          1404
+        ],
+        [
+          845,
+          1409
+        ],
+        [
+          845,
+          1469
+        ],
+        [
+          261,
+          1465
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1236,
+        845,
+        1301
+      ],
+      "text": "Thoái nhi tư kỳ ngôn,",
+      "confidence": 0.9329
+    },
+    {
+      "line_id": "0294_viet_012",
+      "bbox": [
+        [
+          281,
+          1304
+        ],
+        [
+          1085,
+          1304
+        ],
+        [
+          1085,
+          1355
+        ],
+        [
+          281,
+          1355
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1472
+        ],
+        [
+          1085,
+          1472
+        ],
+        [
+          1085,
+          1523
+        ],
+        [
+          281,
+          1523
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1304,
+        1085,
+        1355
+      ],
+      "text": "Lui về nghĩ những lời của anh hàng cam",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0294_viet_013",
+      "bbox": [
+        [
+          262,
+          1481
+        ],
+        [
+          1308,
+          1481
+        ],
+        [
+          1308,
+          1541
+        ],
+        [
+          262,
+          1541
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1649
+        ],
+        [
+          1308,
+          1649
+        ],
+        [
+          1308,
+          1709
+        ],
+        [
+          262,
+          1709
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1481,
+        1308,
+        1541
+      ],
+      "text": "loại Đông phương sinh hoạt kê chi hùng",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0294_viet_014",
+      "bbox": [
+        [
+          281,
+          1544
+        ],
+        [
+          1233,
+          1544
+        ],
+        [
+          1233,
+          1595
+        ],
+        [
+          281,
+          1595
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1712
+        ],
+        [
+          1233,
+          1712
+        ],
+        [
+          1233,
+          1763
+        ],
+        [
+          281,
+          1763
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1544,
+        1233,
+        1595
+      ],
+      "text": "Hệt lời hoạt-kê hùng hồn của Đông-Phương-Sóc",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0294_viet_015",
+      "bbox": [
+        [
+          262,
+          1720
+        ],
+        [
+          1076,
+          1720
+        ],
+        [
+          1076,
+          1781
+        ],
+        [
+          262,
+          1781
+        ]
+      ],
+      "bbox_original": [
+        [
+          262,
+          1888
+        ],
+        [
+          1076,
+          1888
+        ],
+        [
+          1076,
+          1949
+        ],
+        [
+          262,
+          1949
+        ]
+      ],
+      "box_xyxy": [
+        262,
+        1720,
+        1076,
+        1781
+      ],
+      "text": "Khởi kỳ phần thẽ tật tà giả da,",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0294_viet_016",
+      "bbox": [
+        [
+          279,
+          1785
+        ],
+        [
+          1270,
+          1785
+        ],
+        [
+          1270,
+          1835
+        ],
+        [
+          279,
+          1835
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          1953
+        ],
+        [
+          1270,
+          1953
+        ],
+        [
+          1270,
+          2003
+        ],
+        [
+          279,
+          2003
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        1785,
+        1270,
+        1835
+      ],
+      "text": "Phải chăng là bực tức đời, căm hờn kẻ gian-nịnh",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0294_viet_017",
+      "bbox": [
+        [
+          260,
+          1963
+        ],
+        [
+          1021,
+          1962
+        ],
+        [
+          1021,
+          2020
+        ],
+        [
+          260,
+          2021
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          2131
+        ],
+        [
+          1021,
+          2130
+        ],
+        [
+          1021,
+          2188
+        ],
+        [
+          260,
+          2189
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        1962,
+        1021,
+        2021
+      ],
+      "text": "nhi thác ư cam di phúng da ?",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0294_viet_018",
+      "bbox": [
+        [
+          280,
+          2026
+        ],
+        [
+          1436,
+          2024
+        ],
+        [
+          1436,
+          2078
+        ],
+        [
+          280,
+          2080
+        ]
+      ],
+      "bbox_original": [
+        [
+          280,
+          2194
+        ],
+        [
+          1436,
+          2192
+        ],
+        [
+          1436,
+          2246
+        ],
+        [
+          280,
+          2248
+        ]
+      ],
+      "box_xyxy": [
+        280,
+        2024,
+        1436,
+        2080
+      ],
+      "text": "Thác, ngụ vào chuyện quả cam đề răn người đời chăng ở",
+      "confidence": 0.9064
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Hựu hà vãng nhi bãt kim ngọc kỳ ngoại,",
+      "bại nhứ kỳ trung dã tai ?",
+      "Kim tử thị chi bãt sát, nhi đi sát ngô cam......................................................... - - - - - - - - - - - - -",
+      "Dư mặc nhiên vô di ứng.",
+      "Thoái nhi tư kỳ ngôn,",
+      "loại Đông phương sinh hoạt kê chi hùng",
+      "Khởi kỳ phần thẽ tật tà giả da,",
+      "nhi thác ư cam di phúng da ?"
+    ],
+    "dich_nghia_lines": [
+      "Có gì đàu, chẳng qua là: ngọc vàng màu mõ ngoài da,",
+      "mà trong do bản thõi tha vô cùng",
+      "Thẽ mà ông ngơ đi không xử đến, lại chỉ xét-nét quả can của tôi .",
+      "Ta đứ họng ra không nói năng gì được củ",
+      "Lui về nghĩ những lời của anh hàng cam",
+      "Hệt lời hoạt-kê hùng hồn của Đông-Phương-Sóc",
+      "Phải chăng là bực tức đời, căm hờn kẻ gian-nịnh",
+      "Thác, ngụ vào chuyện quả cam đề răn người đời chăng ở"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "又何往而不金玉其外",
+        "phien_am": "Hựu hà vãng nhi bãt kim ngọc kỳ ngoại,",
+        "dich_nghia_gloss": "Có gì đàu, chẳng qua là: ngọc vàng màu mõ ngoài da,"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "敗絮其中也哉",
+        "phien_am": "bại nhứ kỳ trung dã tai ?",
+        "dich_nghia_gloss": "mà trong do bản thõi tha vô cùng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "今子是之不察而以察吾柑",
+        "phien_am": "Kim tử thị chi bãt sát, nhi đi sát ngô cam......................................................... - - - - - - - - - - - - -",
+        "dich_nghia_gloss": "Thẽ mà ông ngơ đi không xử đến, lại chỉ xét-nét quả can của tôi ."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "予默然無以應",
+        "phien_am": "Dư mặc nhiên vô di ứng.",
+        "dich_nghia_gloss": "Ta đứ họng ra không nói năng gì được củ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "退而思其言",
+        "phien_am": "Thoái nhi tư kỳ ngôn,",
+        "dich_nghia_gloss": "Lui về nghĩ những lời của anh hàng cam"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "類東方生滑稽之雄",
+        "phien_am": "loại Đông phương sinh hoạt kê chi hùng",
+        "dich_nghia_gloss": "Hệt lời hoạt-kê hùng hồn của Đông-Phương-Sóc"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "豈其憤世嫉邪者耶",
+        "phien_am": "Khởi kỳ phần thẽ tật tà giả da,",
+        "dich_nghia_gloss": "Phải chăng là bực tức đời, căm hờn kẻ gian-nịnh"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "而託於柑以諷耶",
+        "phien_am": "nhi thác ư cam di phúng da ?",
+        "dich_nghia_gloss": "Thác, ngụ vào chuyện quả cam đề răn người đời chăng ở"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

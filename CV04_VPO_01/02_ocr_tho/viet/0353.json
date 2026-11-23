@@ -1,0 +1,467 @@
+{
+  "page_id": "0353",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 353,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0353_viet_000",
+      "bbox": [
+        [
+          209,
+          12
+        ],
+        [
+          876,
+          12
+        ],
+        [
+          876,
+          66
+        ],
+        [
+          209,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          180
+        ],
+        [
+          876,
+          180
+        ],
+        [
+          876,
+          234
+        ],
+        [
+          209,
+          234
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        12,
+        876,
+        66
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.921
+    },
+    {
+      "line_id": "0353_viet_001",
+      "bbox": [
+        [
+          1361,
+          16
+        ],
+        [
+          1445,
+          16
+        ],
+        [
+          1445,
+          68
+        ],
+        [
+          1361,
+          68
+        ]
+      ],
+      "bbox_original": [
+        [
+          1361,
+          184
+        ],
+        [
+          1445,
+          184
+        ],
+        [
+          1445,
+          236
+        ],
+        [
+          1361,
+          236
+        ]
+      ],
+      "box_xyxy": [
+        1361,
+        16,
+        1445,
+        68
+      ],
+      "text": "347",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0353_viet_002",
+      "bbox": [
+        [
+          239,
+          311
+        ],
+        [
+          1179,
+          314
+        ],
+        [
+          1179,
+          372
+        ],
+        [
+          239,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          479
+        ],
+        [
+          1179,
+          482
+        ],
+        [
+          1179,
+          540
+        ],
+        [
+          239,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        311,
+        1179,
+        372
+      ],
+      "text": "Buôn tình mang dép ra vườn hái hoa.",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0353_viet_003",
+      "bbox": [
+        [
+          295,
+          591
+        ],
+        [
+          1120,
+          591
+        ],
+        [
+          1120,
+          649
+        ],
+        [
+          295,
+          649
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          759
+        ],
+        [
+          1120,
+          759
+        ],
+        [
+          1120,
+          817
+        ],
+        [
+          295,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        591,
+        1120,
+        649
+      ],
+      "text": "Rày hắn bảo: a Trời đà mát-mẻ",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0353_viet_004",
+      "bbox": [
+        [
+          290,
+          871
+        ],
+        [
+          1069,
+          874
+        ],
+        [
+          1069,
+          931
+        ],
+        [
+          289,
+          928
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1039
+        ],
+        [
+          1069,
+          1042
+        ],
+        [
+          1069,
+          1099
+        ],
+        [
+          289,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        871,
+        1069,
+        931
+      ],
+      "text": "Lương-nhân ta có lẽ gần rê.......",
+      "confidence": 0.8765
+    },
+    {
+      "line_id": "0353_viet_005",
+      "bbox": [
+        [
+          390,
+          1151
+        ],
+        [
+          1186,
+          1153
+        ],
+        [
+          1186,
+          1211
+        ],
+        [
+          390,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          390,
+          1319
+        ],
+        [
+          1186,
+          1321
+        ],
+        [
+          1186,
+          1379
+        ],
+        [
+          390,
+          1377
+        ]
+      ],
+      "box_xyxy": [
+        390,
+        1151,
+        1186,
+        1211
+      ],
+      "text": "Biết đầu dường thẽ nghiêu-khê",
+      "confidence": 0.8886
+    },
+    {
+      "line_id": "0353_viet_006",
+      "bbox": [
+        [
+          232,
+          1427
+        ],
+        [
+          1066,
+          1429
+        ],
+        [
+          1066,
+          1487
+        ],
+        [
+          232,
+          1485
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1595
+        ],
+        [
+          1066,
+          1597
+        ],
+        [
+          1066,
+          1655
+        ],
+        [
+          232,
+          1653
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1427,
+        1066,
+        1487
+      ],
+      "text": "Dặm ngàn hồ dễ đi về cho năng ?",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0353_viet_007",
+      "bbox": [
+        [
+          284,
+          1708
+        ],
+        [
+          1062,
+          1708
+        ],
+        [
+          1062,
+          1766
+        ],
+        [
+          284,
+          1766
+        ]
+      ],
+      "bbox_original": [
+        [
+          284,
+          1876
+        ],
+        [
+          1062,
+          1876
+        ],
+        [
+          1062,
+          1934
+        ],
+        [
+          284,
+          1934
+        ]
+      ],
+      "box_xyxy": [
+        284,
+        1708,
+        1062,
+        1766
+      ],
+      "text": "Rày hản nói minh chừng lâu ở,",
+      "confidence": 0.9034
+    },
+    {
+      "line_id": "0353_viet_008",
+      "bbox": [
+        [
+          278,
+          1981
+        ],
+        [
+          1158,
+          1986
+        ],
+        [
+          1158,
+          2050
+        ],
+        [
+          278,
+          2045
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          2149
+        ],
+        [
+          1158,
+          2154
+        ],
+        [
+          1158,
+          2218
+        ],
+        [
+          278,
+          2213
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        1981,
+        1158,
+        2050
+      ],
+      "text": "Ôm chăn-mền hoặc đã có người ?",
+      "confidence": 0.9244
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Buôn tình mang dép ra vườn hái hoa.",
+      "Rày hắn bảo: a Trời đà mát-mẻ",
+      "Lương-nhân ta có lẽ gần rê.......",
+      "Biết đầu dường thẽ nghiêu-khê",
+      "Dặm ngàn hồ dễ đi về cho năng ?",
+      "Rày hản nói minh chừng lâu ở,",
+      "Ôm chăn-mền hoặc đã có người ?"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      341.5,
+      620.0,
+      901.0,
+      1181.0,
+      1457.0,
+      1737.0,
+      2015.5
+    ]
+  }
+}

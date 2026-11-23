@@ -1,0 +1,467 @@
+{
+  "page_id": "0345",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 345,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0345_viet_000",
+      "bbox": [
+        [
+          206,
+          9
+        ],
+        [
+          872,
+          7
+        ],
+        [
+          873,
+          62
+        ],
+        [
+          206,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          177
+        ],
+        [
+          872,
+          175
+        ],
+        [
+          873,
+          230
+        ],
+        [
+          206,
+          232
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        7,
+        873,
+        64
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0345_viet_001",
+      "bbox": [
+        [
+          1362,
+          12
+        ],
+        [
+          1445,
+          12
+        ],
+        [
+          1445,
+          64
+        ],
+        [
+          1362,
+          64
+        ]
+      ],
+      "bbox_original": [
+        [
+          1362,
+          180
+        ],
+        [
+          1445,
+          180
+        ],
+        [
+          1445,
+          232
+        ],
+        [
+          1362,
+          232
+        ]
+      ],
+      "box_xyxy": [
+        1362,
+        12,
+        1445,
+        64
+      ],
+      "text": "339",
+      "confidence": 0.9338
+    },
+    {
+      "line_id": "0345_viet_002",
+      "bbox": [
+        [
+          242,
+          308
+        ],
+        [
+          1322,
+          313
+        ],
+        [
+          1322,
+          373
+        ],
+        [
+          242,
+          368
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          476
+        ],
+        [
+          1322,
+          481
+        ],
+        [
+          1322,
+          541
+        ],
+        [
+          242,
+          536
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        308,
+        1322,
+        373
+      ],
+      "text": "Gắm tình che quạt luõng thừa bóng trăng.",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0345_viet_003",
+      "bbox": [
+        [
+          294,
+          590
+        ],
+        [
+          1220,
+          594
+        ],
+        [
+          1219,
+          654
+        ],
+        [
+          293,
+          650
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          758
+        ],
+        [
+          1220,
+          762
+        ],
+        [
+          1219,
+          822
+        ],
+        [
+          293,
+          818
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        590,
+        1220,
+        654
+      ],
+      "text": "Năm canh những mơ-màng trên gõi,",
+      "confidence": 0.9025
+    },
+    {
+      "line_id": "0345_viet_004",
+      "bbox": [
+        [
+          295,
+          870
+        ],
+        [
+          1123,
+          870
+        ],
+        [
+          1123,
+          931
+        ],
+        [
+          295,
+          931
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1038
+        ],
+        [
+          1123,
+          1038
+        ],
+        [
+          1123,
+          1099
+        ],
+        [
+          295,
+          1099
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        870,
+        1123,
+        931
+      ],
+      "text": "Mảnh tình này biết nói cùng ai ?",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0345_viet_005",
+      "bbox": [
+        [
+          404,
+          1151
+        ],
+        [
+          1330,
+          1151
+        ],
+        [
+          1330,
+          1211
+        ],
+        [
+          404,
+          1211
+        ]
+      ],
+      "bbox_original": [
+        [
+          404,
+          1319
+        ],
+        [
+          1330,
+          1319
+        ],
+        [
+          1330,
+          1379
+        ],
+        [
+          404,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        404,
+        1151,
+        1330,
+        1211
+      ],
+      "text": "Thương thay đêm vắng không người",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0345_viet_006",
+      "bbox": [
+        [
+          242,
+          1428
+        ],
+        [
+          1195,
+          1430
+        ],
+        [
+          1195,
+          1491
+        ],
+        [
+          242,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1596
+        ],
+        [
+          1195,
+          1598
+        ],
+        [
+          1195,
+          1659
+        ],
+        [
+          242,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1428,
+        1195,
+        1491
+      ],
+      "text": "Ngủ thời bướm báo, dậy thời gà kêu.",
+      "confidence": 0.9103
+    },
+    {
+      "line_id": "0345_viet_007",
+      "bbox": [
+        [
+          294,
+          1709
+        ],
+        [
+          1191,
+          1709
+        ],
+        [
+          1191,
+          1770
+        ],
+        [
+          294,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1877
+        ],
+        [
+          1191,
+          1877
+        ],
+        [
+          1191,
+          1938
+        ],
+        [
+          294,
+          1938
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1709,
+        1191,
+        1770
+      ],
+      "text": "Hoặc có lúc bóng chiều trong khồn,",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0345_viet_008",
+      "bbox": [
+        [
+          294,
+          1990
+        ],
+        [
+          1196,
+          1990
+        ],
+        [
+          1196,
+          2047
+        ],
+        [
+          294,
+          2047
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          2158
+        ],
+        [
+          1196,
+          2158
+        ],
+        [
+          1196,
+          2215
+        ],
+        [
+          294,
+          2215
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1990,
+        1196,
+        2047
+      ],
+      "text": "Bước xuõng thềm, lại muõn lên lầu",
+      "confidence": 0.8976
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Gắm tình che quạt luõng thừa bóng trăng.",
+      "Năm canh những mơ-màng trên gõi,",
+      "Mảnh tình này biết nói cùng ai ?",
+      "Thương thay đêm vắng không người",
+      "Ngủ thời bướm báo, dậy thời gà kêu.",
+      "Hoặc có lúc bóng chiều trong khồn,",
+      "Bước xuõng thềm, lại muõn lên lầu"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      340.5,
+      622.0,
+      900.5,
+      1181.0,
+      1459.5,
+      1739.5,
+      2018.5
+    ]
+  }
+}

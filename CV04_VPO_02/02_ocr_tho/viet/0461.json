@@ -1,0 +1,652 @@
+{
+  "page_id": "0461",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 461,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0461_viet_000",
+      "bbox": [
+        [
+          282,
+          0
+        ],
+        [
+          645,
+          0
+        ],
+        [
+          645,
+          34
+        ],
+        [
+          282,
+          34
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          159
+        ],
+        [
+          645,
+          159
+        ],
+        [
+          645,
+          193
+        ],
+        [
+          282,
+          193
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        0,
+        645,
+        34
+      ],
+      "text": "Rem doi chua am,",
+      "confidence": 0.7017
+    },
+    {
+      "line_id": "0461_viet_001",
+      "bbox": [
+        [
+          282,
+          49
+        ],
+        [
+          933,
+          46
+        ],
+        [
+          933,
+          97
+        ],
+        [
+          282,
+          100
+        ]
+      ],
+      "bbox_original": [
+        [
+          282,
+          208
+        ],
+        [
+          933,
+          205
+        ],
+        [
+          933,
+          256
+        ],
+        [
+          282,
+          259
+        ]
+      ],
+      "box_xyxy": [
+        282,
+        46,
+        933,
+        100
+      ],
+      "text": "Có sao mộng, La Phù, Đại Dữu",
+      "confidence": 0.9176
+    },
+    {
+      "line_id": "0461_viet_002",
+      "bbox": [
+        [
+          279,
+          106
+        ],
+        [
+          1016,
+          109
+        ],
+        [
+          1015,
+          168
+        ],
+        [
+          279,
+          164
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          265
+        ],
+        [
+          1016,
+          268
+        ],
+        [
+          1015,
+          327
+        ],
+        [
+          279,
+          323
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        106,
+        1016,
+        168
+      ],
+      "text": "Khi cố kiếm, bóng nhạt hương thầm,",
+      "confidence": 0.9247
+    },
+    {
+      "line_id": "0461_viet_003",
+      "bbox": [
+        [
+          279,
+          169
+        ],
+        [
+          998,
+          173
+        ],
+        [
+          997,
+          234
+        ],
+        [
+          279,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          328
+        ],
+        [
+          998,
+          332
+        ],
+        [
+          997,
+          393
+        ],
+        [
+          279,
+          390
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        169,
+        998,
+        234
+      ],
+      "text": "Chỉ khiến Tương Dương ngâm khổ.",
+      "confidence": 0.9012
+    },
+    {
+      "line_id": "0461_viet_004",
+      "bbox": [
+        [
+          278,
+          306
+        ],
+        [
+          802,
+          309
+        ],
+        [
+          802,
+          363
+        ],
+        [
+          278,
+          360
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          465
+        ],
+        [
+          802,
+          468
+        ],
+        [
+          802,
+          522
+        ],
+        [
+          278,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        306,
+        802,
+        363
+      ],
+      "text": "Mĩ nhân một cành đã gửi,",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0461_viet_005",
+      "bbox": [
+        [
+          278,
+          368
+        ],
+        [
+          1109,
+          372
+        ],
+        [
+          1109,
+          431
+        ],
+        [
+          278,
+          426
+        ]
+      ],
+      "bbox_original": [
+        [
+          278,
+          527
+        ],
+        [
+          1109,
+          531
+        ],
+        [
+          1109,
+          590
+        ],
+        [
+          278,
+          585
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        368,
+        1109,
+        431
+      ],
+      "text": "Gió trên bình, nhẹ nhe nhuy hồng vừa ló.",
+      "confidence": 0.9183
+    },
+    {
+      "line_id": "0461_viet_006",
+      "bbox": [
+        [
+          279,
+          439
+        ],
+        [
+          700,
+          444
+        ],
+        [
+          699,
+          499
+        ],
+        [
+          278,
+          494
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          598
+        ],
+        [
+          700,
+          603
+        ],
+        [
+          699,
+          658
+        ],
+        [
+          278,
+          653
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        439,
+        700,
+        499
+      ],
+      "text": "Dáng hình rạng đẹp,",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0461_viet_007",
+      "bbox": [
+        [
+          279,
+          500
+        ],
+        [
+          886,
+          507
+        ],
+        [
+          885,
+          568
+        ],
+        [
+          278,
+          562
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          659
+        ],
+        [
+          886,
+          666
+        ],
+        [
+          885,
+          727
+        ],
+        [
+          278,
+          721
+        ]
+      ],
+      "box_xyxy": [
+        278,
+        500,
+        886,
+        568
+      ],
+      "text": "Giống hệt Lục lang phong độ.",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0461_viet_008",
+      "bbox": [
+        [
+          277,
+          573
+        ],
+        [
+          620,
+          576
+        ],
+        [
+          620,
+          628
+        ],
+        [
+          276,
+          625
+        ]
+      ],
+      "bbox_original": [
+        [
+          277,
+          732
+        ],
+        [
+          620,
+          735
+        ],
+        [
+          620,
+          787
+        ],
+        [
+          276,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        573,
+        620,
+        628
+      ],
+      "text": "A hoàn rót rượu,",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0461_viet_009",
+      "bbox": [
+        [
+          276,
+          639
+        ],
+        [
+          1010,
+          638
+        ],
+        [
+          1011,
+          693
+        ],
+        [
+          276,
+          694
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          798
+        ],
+        [
+          1010,
+          797
+        ],
+        [
+          1011,
+          852
+        ],
+        [
+          276,
+          853
+        ]
+      ],
+      "box_xyxy": [
+        276,
+        638,
+        1011,
+        694
+      ],
+      "text": "Ngăn sao được, uống mười chén đó",
+      "confidence": 0.895
+    },
+    {
+      "line_id": "0461_viet_010",
+      "bbox": [
+        [
+          276,
+          698
+        ],
+        [
+          938,
+          704
+        ],
+        [
+          938,
+          763
+        ],
+        [
+          275,
+          756
+        ]
+      ],
+      "bbox_original": [
+        [
+          276,
+          857
+        ],
+        [
+          938,
+          863
+        ],
+        [
+          938,
+          922
+        ],
+        [
+          275,
+          915
+        ]
+      ],
+      "box_xyxy": [
+        275,
+        698,
+        938,
+        763
+      ],
+      "text": "Điều vẫn thiếu, say khổ cho anh,",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0461_viet_011",
+      "bbox": [
+        [
+          274,
+          769
+        ],
+        [
+          640,
+          769
+        ],
+        [
+          640,
+          827
+        ],
+        [
+          274,
+          827
+        ]
+      ],
+      "bbox_original": [
+        [
+          274,
+          928
+        ],
+        [
+          640,
+          928
+        ],
+        [
+          640,
+          986
+        ],
+        [
+          274,
+          986
+        ]
+      ],
+      "box_xyxy": [
+        274,
+        769,
+        640,
+        827
+      ],
+      "text": "Nhân mai án phổ",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0461_viet_012",
+      "bbox": [
+        [
+          187,
+          1953
+        ],
+        [
+          276,
+          1953
+        ],
+        [
+          276,
+          2010
+        ],
+        [
+          187,
+          2010
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          2112
+        ],
+        [
+          276,
+          2112
+        ],
+        [
+          276,
+          2169
+        ],
+        [
+          187,
+          2169
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        1953,
+        276,
+        2010
+      ],
+      "text": "454",
+      "confidence": 0.9238
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Rem doi chua am,",
+      "Có sao mộng, La Phù, Đại Dữu",
+      "Khi cố kiếm, bóng nhạt hương thầm,",
+      "Chỉ khiến Tương Dương ngâm khổ.",
+      "Mĩ nhân một cành đã gửi,",
+      "Gió trên bình, nhẹ nhe nhuy hồng vừa ló.",
+      "Dáng hình rạng đẹp,",
+      "Giống hệt Lục lang phong độ.",
+      "A hoàn rót rượu,",
+      "Ngăn sao được, uống mười chén đó",
+      "Điều vẫn thiếu, say khổ cho anh,",
+      "Nhân mai án phổ",
+      "454"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

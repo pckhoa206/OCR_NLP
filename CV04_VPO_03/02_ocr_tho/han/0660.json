@@ -1,0 +1,260 @@
+{
+  "page_id": "0660",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 660,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0660_han_000",
+      "bbox": [
+        [
+          1406,
+          1419
+        ],
+        [
+          1973,
+          1422
+        ],
+        [
+          1973,
+          1484
+        ],
+        [
+          1406,
+          1481
+        ]
+      ],
+      "bbox_original": [
+        [
+          1406,
+          1634
+        ],
+        [
+          1973,
+          1637
+        ],
+        [
+          1973,
+          1699
+        ],
+        [
+          1406,
+          1696
+        ]
+      ],
+      "box_xyxy": [
+        1406,
+        1419,
+        1973,
+        1484
+      ],
+      "text": "上首白槌云云",
+      "confidence": 0.9212
+    },
+    {
+      "line_id": "0660_han_001",
+      "bbox": [
+        [
+          249,
+          1448
+        ],
+        [
+          298,
+          1448
+        ],
+        [
+          298,
+          1491
+        ],
+        [
+          249,
+          1491
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1663
+        ],
+        [
+          298,
+          1663
+        ],
+        [
+          298,
+          1706
+        ],
+        [
+          249,
+          1706
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1448,
+        298,
+        1491
+      ],
+      "text": "1治",
+      "confidence": 0.2172
+    },
+    {
+      "line_id": "0660_han_002",
+      "bbox": [
+        [
+          343,
+          1486
+        ],
+        [
+          1969,
+          1477
+        ],
+        [
+          1969,
+          1528
+        ],
+        [
+          343,
+          1537
+        ]
+      ],
+      "bbox_original": [
+        [
+          343,
+          1701
+        ],
+        [
+          1969,
+          1692
+        ],
+        [
+          1969,
+          1743
+        ],
+        [
+          343,
+          1752
+        ]
+      ],
+      "box_xyxy": [
+        343,
+        1477,
+        1969,
+        1537
+      ],
+      "text": "duói dòng croe chú. Trong sách TTTi, truyęn Tran Nhān Tóng 束 =  có chò",
+      "confidence": 0.8785
+    },
+    {
+      "line_id": "0660_han_003",
+      "bbox": [
+        [
+          333,
+          1818
+        ],
+        [
+          1059,
+          1818
+        ],
+        [
+          1059,
+          1886
+        ],
+        [
+          333,
+          1886
+        ]
+      ],
+      "bbox_original": [
+        [
+          333,
+          2033
+        ],
+        [
+          1059,
+          2033
+        ],
+        [
+          1059,
+          2101
+        ],
+        [
+          333,
+          2101
+        ]
+      ],
+      "box_xyxy": [
+        333,
+        1818,
+        1059,
+        1886
+      ],
+      "text": "xuit gia lién dgn ngón 勸出家通道言",
+      "confidence": 0.8123
+    },
+    {
+      "line_id": "0660_han_004",
+      "bbox": [
+        [
+          337,
+          1926
+        ],
+        [
+          1059,
+          1926
+        ],
+        [
+          1059,
+          1995
+        ],
+        [
+          337,
+          1995
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          2141
+        ],
+        [
+          1059,
+          2141
+        ],
+        [
+          1059,
+          2210
+        ],
+        [
+          337,
+          2210
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        1926,
+        1059,
+        1995
+      ],
+      "text": "Giròng máy khác luc: khúe luc méc h 亲 木 là kièu ghé tya dài cha nhà chūa..",
+      "confidence": 0.8471
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "page_id": "0349",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 349,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0349_viet_000",
+      "bbox": [
+        [
+          206,
+          15
+        ],
+        [
+          878,
+          12
+        ],
+        [
+          879,
+          63
+        ],
+        [
+          206,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          183
+        ],
+        [
+          878,
+          180
+        ],
+        [
+          879,
+          231
+        ],
+        [
+          206,
+          234
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        12,
+        879,
+        66
+      ],
+      "text": "THU DẠ LŨ HOÀI NGÂM",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0349_viet_001",
+      "bbox": [
+        [
+          1362,
+          16
+        ],
+        [
+          1447,
+          16
+        ],
+        [
+          1447,
+          66
+        ],
+        [
+          1362,
+          66
+        ]
+      ],
+      "bbox_original": [
+        [
+          1362,
+          184
+        ],
+        [
+          1447,
+          184
+        ],
+        [
+          1447,
+          234
+        ],
+        [
+          1362,
+          234
+        ]
+      ],
+      "box_xyxy": [
+        1362,
+        16,
+        1447,
+        66
+      ],
+      "text": "343",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0349_viet_002",
+      "bbox": [
+        [
+          294,
+          309
+        ],
+        [
+          1158,
+          311
+        ],
+        [
+          1158,
+          372
+        ],
+        [
+          293,
+          370
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          477
+        ],
+        [
+          1158,
+          479
+        ],
+        [
+          1158,
+          540
+        ],
+        [
+          293,
+          538
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        309,
+        1158,
+        372
+      ],
+      "text": "Đêm gần qua. chảng thấy thư về",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0349_viet_003",
+      "bbox": [
+        [
+          405,
+          584
+        ],
+        [
+          1044,
+          586
+        ],
+        [
+          1044,
+          644
+        ],
+        [
+          405,
+          642
+        ]
+      ],
+      "bbox_original": [
+        [
+          405,
+          752
+        ],
+        [
+          1044,
+          754
+        ],
+        [
+          1044,
+          812
+        ],
+        [
+          405,
+          810
+        ]
+      ],
+      "box_xyxy": [
+        405,
+        584,
+        1044,
+        644
+      ],
+      "text": "Các thoi ra dứng bên hè,",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0349_viet_004",
+      "bbox": [
+        [
+          245,
+          865
+        ],
+        [
+          1169,
+          867
+        ],
+        [
+          1169,
+          928
+        ],
+        [
+          245,
+          926
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1033
+        ],
+        [
+          1169,
+          1035
+        ],
+        [
+          1169,
+          1096
+        ],
+        [
+          245,
+          1094
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        865,
+        1169,
+        928
+      ],
+      "text": "Tai nghe tiếng dẽ rè-rè khóc strong.",
+      "confidence": 0.8788
+    },
+    {
+      "line_id": "0349_viet_005",
+      "bbox": [
+        [
+          298,
+          1144
+        ],
+        [
+          1377,
+          1141
+        ],
+        [
+          1377,
+          1206
+        ],
+        [
+          299,
+          1209
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1312
+        ],
+        [
+          1377,
+          1309
+        ],
+        [
+          1377,
+          1374
+        ],
+        [
+          299,
+          1377
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1141,
+        1377,
+        1209
+      ],
+      "text": "Trông chảng thãy, chán-chường than-thờ,",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0349_viet_006",
+      "bbox": [
+        [
+          299,
+          1425
+        ],
+        [
+          1192,
+          1425
+        ],
+        [
+          1192,
+          1485
+        ],
+        [
+          299,
+          1485
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1593
+        ],
+        [
+          1192,
+          1593
+        ],
+        [
+          1192,
+          1653
+        ],
+        [
+          299,
+          1653
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1425,
+        1192,
+        1485
+      ],
+      "text": "Đoái phòng khuê muốn trở gót giày.",
+      "confidence": 0.875
+    },
+    {
+      "line_id": "0349_viet_007",
+      "bbox": [
+        [
+          412,
+          1705
+        ],
+        [
+          930,
+          1705
+        ],
+        [
+          930,
+          1763
+        ],
+        [
+          412,
+          1763
+        ]
+      ],
+      "bbox_original": [
+        [
+          412,
+          1873
+        ],
+        [
+          930,
+          1873
+        ],
+        [
+          930,
+          1931
+        ],
+        [
+          412,
+          1931
+        ]
+      ],
+      "box_xyxy": [
+        412,
+        1705,
+        930,
+        1763
+      ],
+      "text": "Gà ai eo-óc hồi tây ?",
+      "confidence": 0.9004
+    },
+    {
+      "line_id": "0349_viet_008",
+      "bbox": [
+        [
+          253,
+          1986
+        ],
+        [
+          1183,
+          1984
+        ],
+        [
+          1183,
+          2045
+        ],
+        [
+          253,
+          2047
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          2154
+        ],
+        [
+          1183,
+          2152
+        ],
+        [
+          1183,
+          2213
+        ],
+        [
+          253,
+          2215
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1984,
+        1183,
+        2047
+      ],
+      "text": "Gắm tình dựa ghẽ liền tay khêu đèn",
+      "confidence": 0.9221
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Đêm gần qua. chảng thấy thư về",
+      "Các thoi ra dứng bên hè,",
+      "Tai nghe tiếng dẽ rè-rè khóc strong.",
+      "Trông chảng thãy, chán-chường than-thờ,",
+      "Đoái phòng khuê muốn trở gót giày.",
+      "Gà ai eo-óc hồi tây ?",
+      "Gắm tình dựa ghẽ liền tay khêu đèn"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      340.5,
+      614.0,
+      896.5,
+      1175.0,
+      1455.0,
+      1734.0,
+      2015.5
+    ]
+  }
+}

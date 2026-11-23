@@ -1,0 +1,839 @@
+{
+  "page_id": "0346",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 346,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0346_viet_000",
+      "bbox": [
+        [
+          296,
+          160
+        ],
+        [
+          966,
+          166
+        ],
+        [
+          965,
+          226
+        ],
+        [
+          295,
+          221
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          328
+        ],
+        [
+          966,
+          334
+        ],
+        [
+          965,
+          394
+        ],
+        [
+          295,
+          389
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        160,
+        966,
+        226
+      ],
+      "text": "Hốt kinh yên tráp nê-sào,",
+      "confidence": 0.8749
+    },
+    {
+      "line_id": "0346_viet_001",
+      "bbox": [
+        [
+          209,
+          242
+        ],
+        [
+          1394,
+          244
+        ],
+        [
+          1394,
+          306
+        ],
+        [
+          209,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          410
+        ],
+        [
+          1394,
+          412
+        ],
+        [
+          1394,
+          474
+        ],
+        [
+          209,
+          472
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        242,
+        1394,
+        306
+      ],
+      "text": "Chợt thầy con én tha bùn làm tổ, mà giật mình",
+      "confidence": 0.9159
+    },
+    {
+      "line_id": "0346_viet_002",
+      "bbox": [
+        [
+          299,
+          441
+        ],
+        [
+          1298,
+          445
+        ],
+        [
+          1298,
+          505
+        ],
+        [
+          298,
+          501
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          609
+        ],
+        [
+          1298,
+          613
+        ],
+        [
+          1298,
+          673
+        ],
+        [
+          298,
+          669
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        441,
+        1298,
+        505
+      ],
+      "text": "Loan tu chiếu kinh, phượng sầu lại sơ.",
+      "confidence": 0.8933
+    },
+    {
+      "line_id": "0346_viet_003",
+      "bbox": [
+        [
+          208,
+          520
+        ],
+        [
+          1393,
+          527
+        ],
+        [
+          1393,
+          591
+        ],
+        [
+          207,
+          584
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          688
+        ],
+        [
+          1393,
+          695
+        ],
+        [
+          1393,
+          759
+        ],
+        [
+          207,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        520,
+        1393,
+        591
+      ],
+      "text": "- Thẹn ngắm gương loan, biêng cài lược phượng",
+      "confidence": 0.9209
+    },
+    {
+      "line_id": "0346_viet_004",
+      "bbox": [
+        [
+          298,
+          718
+        ],
+        [
+          1112,
+          720
+        ],
+        [
+          1111,
+          784
+        ],
+        [
+          297,
+          782
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          886
+        ],
+        [
+          1112,
+          888
+        ],
+        [
+          1111,
+          952
+        ],
+        [
+          297,
+          950
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        718,
+        1112,
+        784
+      ],
+      "text": "Hữu thời hoặc chức-cơ dạ tính",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0346_viet_005",
+      "bbox": [
+        [
+          206,
+          798
+        ],
+        [
+          1444,
+          802
+        ],
+        [
+          1444,
+          867
+        ],
+        [
+          206,
+          863
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          966
+        ],
+        [
+          1444,
+          970
+        ],
+        [
+          1444,
+          1035
+        ],
+        [
+          206,
+          1031
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        798,
+        1444,
+        867
+      ],
+      "text": "Hoặc có lúc đương đêm thanh vắng, nàng ngôi ở",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0346_viet_006",
+      "bbox": [
+        [
+          204,
+          873
+        ],
+        [
+          496,
+          873
+        ],
+        [
+          496,
+          932
+        ],
+        [
+          204,
+          932
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1041
+        ],
+        [
+          496,
+          1041
+        ],
+        [
+          496,
+          1100
+        ],
+        [
+          204,
+          1100
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        873,
+        496,
+        932
+      ],
+      "text": "trên máy dệt",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0346_viet_007",
+      "bbox": [
+        [
+          293,
+          1062
+        ],
+        [
+          1147,
+          1065
+        ],
+        [
+          1147,
+          1132
+        ],
+        [
+          292,
+          1129
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          1230
+        ],
+        [
+          1147,
+          1233
+        ],
+        [
+          1147,
+          1300
+        ],
+        [
+          292,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1062,
+        1147,
+        1132
+      ],
+      "text": "Hô đồng lai, sơ chỉnh đăng minh",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0346_viet_008",
+      "bbox": [
+        [
+          207,
+          1152
+        ],
+        [
+          1126,
+          1154
+        ],
+        [
+          1126,
+          1219
+        ],
+        [
+          207,
+          1217
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1320
+        ],
+        [
+          1126,
+          1322
+        ],
+        [
+          1126,
+          1387
+        ],
+        [
+          207,
+          1385
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1152,
+        1126,
+        1219
+      ],
+      "text": "- Gọi người nhà bảo khêu sáng đèn lên",
+      "confidence": 0.9258
+    },
+    {
+      "line_id": "0346_viet_009",
+      "bbox": [
+        [
+          295,
+          1350
+        ],
+        [
+          1075,
+          1352
+        ],
+        [
+          1075,
+          1417
+        ],
+        [
+          294,
+          1415
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1518
+        ],
+        [
+          1075,
+          1520
+        ],
+        [
+          1075,
+          1585
+        ],
+        [
+          294,
+          1583
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1350,
+        1075,
+        1417
+      ],
+      "text": "Hốt văn nhạn độ giang thanh",
+      "confidence": 0.9237
+    },
+    {
+      "line_id": "0346_viet_010",
+      "bbox": [
+        [
+          206,
+          1432
+        ],
+        [
+          1443,
+          1435
+        ],
+        [
+          1443,
+          1500
+        ],
+        [
+          206,
+          1497
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1600
+        ],
+        [
+          1443,
+          1603
+        ],
+        [
+          1443,
+          1668
+        ],
+        [
+          206,
+          1665
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1432,
+        1443,
+        1500
+      ],
+      "text": "Bỗng nghe tiêng nhạn bay qua sông không ngừng",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0346_viet_011",
+      "bbox": [
+        [
+          204,
+          1505
+        ],
+        [
+          1264,
+          1503
+        ],
+        [
+          1264,
+          1563
+        ],
+        [
+          204,
+          1565
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1673
+        ],
+        [
+          1264,
+          1671
+        ],
+        [
+          1264,
+          1731
+        ],
+        [
+          204,
+          1733
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1503,
+        1264,
+        1565
+      ],
+      "text": "lại, biết là chim nhạn không đem thơ cho mình",
+      "confidence": 0.9313
+    },
+    {
+      "line_id": "0346_viet_012",
+      "bbox": [
+        [
+          300,
+          1702
+        ],
+        [
+          1287,
+          1699
+        ],
+        [
+          1287,
+          1767
+        ],
+        [
+          301,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1870
+        ],
+        [
+          1287,
+          1867
+        ],
+        [
+          1287,
+          1935
+        ],
+        [
+          301,
+          1938
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1699,
+        1287,
+        1770
+      ],
+      "text": "Cơ dung túc đạp, thoan đình thủ phao",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0346_viet_013",
+      "bbox": [
+        [
+          216,
+          1789
+        ],
+        [
+          1331,
+          1787
+        ],
+        [
+          1331,
+          1854
+        ],
+        [
+          216,
+          1856
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          1957
+        ],
+        [
+          1331,
+          1955
+        ],
+        [
+          1331,
+          2022
+        ],
+        [
+          216,
+          2024
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        1787,
+        1331,
+        1856
+      ],
+      "text": "- Thì chân biêng đạp máy, tay liền buông thoi.",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0346_viet_014",
+      "bbox": [
+        [
+          299,
+          1988
+        ],
+        [
+          1051,
+          1986
+        ],
+        [
+          1051,
+          2051
+        ],
+        [
+          300,
+          2053
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          2156
+        ],
+        [
+          1051,
+          2154
+        ],
+        [
+          1051,
+          2219
+        ],
+        [
+          300,
+          2221
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1986,
+        1051,
+        2053
+      ],
+      "text": "Khả lân dạ phần cao đạt đán",
+      "confidence": 0.9353
+    },
+    {
+      "line_id": "0346_viet_015",
+      "bbox": [
+        [
+          214,
+          2076
+        ],
+        [
+          1236,
+          2073
+        ],
+        [
+          1237,
+          2139
+        ],
+        [
+          214,
+          2142
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          2244
+        ],
+        [
+          1236,
+          2241
+        ],
+        [
+          1237,
+          2307
+        ],
+        [
+          214,
+          2310
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        2073,
+        1237,
+        2142
+      ],
+      "text": "- Thương thay có đêm chong đèn tới sáng",
+      "confidence": 0.9231
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Hốt kinh yên tráp nê-sào,",
+      "Loan tu chiếu kinh, phượng sầu lại sơ.",
+      "Hữu thời hoặc chức-cơ dạ tính",
+      "Hô đồng lai, sơ chỉnh đăng minh",
+      "Hốt văn nhạn độ giang thanh",
+      "Cơ dung túc đạp, thoan đình thủ phao",
+      "Khả lân dạ phần cao đạt đán"
+    ],
+    "dich_nghia_lines": [
+      "Chợt thầy con én tha bùn làm tổ, mà giật mình",
+      "- Thẹn ngắm gương loan, biêng cài lược phượng",
+      "Hoặc có lúc đương đêm thanh vắng, nàng ngôi ở trên máy dệt",
+      "- Gọi người nhà bảo khêu sáng đèn lên",
+      "Bỗng nghe tiêng nhạn bay qua sông không ngừng lại, biết là chim nhạn không đem thơ cho mình",
+      "- Thì chân biêng đạp máy, tay liền buông thoi.",
+      "- Thương thay có đêm chong đèn tới sáng"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "忽驚燕葺泥巢",
+        "phien_am": "Hốt kinh yên tráp nê-sào,",
+        "dich_nghia_gloss": "Chợt thầy con én tha bùn làm tổ, mà giật mình"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "鸞羞炤鏡鳳愁懶梳",
+        "phien_am": "Loan tu chiếu kinh, phượng sầu lại sơ.",
+        "dich_nghia_gloss": "- Thẹn ngắm gương loan, biêng cài lược phượng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "有辰或織機夜靜",
+        "phien_am": "Hữu thời hoặc chức-cơ dạ tính",
+        "dich_nghia_gloss": "Hoặc có lúc đương đêm thanh vắng, nàng ngôi ở trên máy dệt"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "呼童來初整燈明",
+        "phien_am": "Hô đồng lai, sơ chỉnh đăng minh",
+        "dich_nghia_gloss": "- Gọi người nhà bảo khêu sáng đèn lên"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "忽聞雁渡江聲",
+        "phien_am": "Hốt văn nhạn độ giang thanh",
+        "dich_nghia_gloss": "Bỗng nghe tiêng nhạn bay qua sông không ngừng lại, biết là chim nhạn không đem thơ cho mình"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "機慵足踏梭停手抛",
+        "phien_am": "Cơ dung túc đạp, thoan đình thủ phao",
+        "dich_nghia_gloss": "- Thì chân biêng đạp máy, tay liền buông thoi."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "可憐夜焚膏達旦",
+        "phien_am": "Khả lân dạ phần cao đạt đán",
+        "dich_nghia_gloss": "- Thương thay có đêm chong đèn tới sáng"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

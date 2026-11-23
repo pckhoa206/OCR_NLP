@@ -1,0 +1,467 @@
+{
+  "page_id": "0359",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 359,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0359_viet_000",
+      "bbox": [
+        [
+          208,
+          8
+        ],
+        [
+          870,
+          6
+        ],
+        [
+          870,
+          60
+        ],
+        [
+          208,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          176
+        ],
+        [
+          870,
+          174
+        ],
+        [
+          870,
+          228
+        ],
+        [
+          208,
+          230
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        6,
+        870,
+        62
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0359_viet_001",
+      "bbox": [
+        [
+          1359,
+          12
+        ],
+        [
+          1444,
+          12
+        ],
+        [
+          1444,
+          63
+        ],
+        [
+          1359,
+          63
+        ]
+      ],
+      "bbox_original": [
+        [
+          1359,
+          180
+        ],
+        [
+          1444,
+          180
+        ],
+        [
+          1444,
+          231
+        ],
+        [
+          1359,
+          231
+        ]
+      ],
+      "box_xyxy": [
+        1359,
+        12,
+        1444,
+        63
+      ],
+      "text": "353",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0359_viet_002",
+      "bbox": [
+        [
+          294,
+          310
+        ],
+        [
+          1101,
+          312
+        ],
+        [
+          1101,
+          370
+        ],
+        [
+          293,
+          368
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          478
+        ],
+        [
+          1101,
+          480
+        ],
+        [
+          1101,
+          538
+        ],
+        [
+          293,
+          536
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        310,
+        1101,
+        370
+      ],
+      "text": "Tuy răng nói dã người tần-tảo,",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0359_viet_003",
+      "bbox": [
+        [
+          292,
+          589
+        ],
+        [
+          1153,
+          592
+        ],
+        [
+          1153,
+          652
+        ],
+        [
+          291,
+          649
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          757
+        ],
+        [
+          1153,
+          760
+        ],
+        [
+          1153,
+          820
+        ],
+        [
+          291,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        589,
+        1153,
+        652
+      ],
+      "text": "Trên tôn-đường, trong đạo tề-gia",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0359_viet_004",
+      "bbox": [
+        [
+          399,
+          867
+        ],
+        [
+          1108,
+          872
+        ],
+        [
+          1107,
+          930
+        ],
+        [
+          398,
+          925
+        ]
+      ],
+      "bbox_original": [
+        [
+          399,
+          1035
+        ],
+        [
+          1108,
+          1040
+        ],
+        [
+          1107,
+          1098
+        ],
+        [
+          398,
+          1093
+        ]
+      ],
+      "box_xyxy": [
+        398,
+        867,
+        1108,
+        930
+      ],
+      "text": "Rau khe nước suối cũng là,",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0359_viet_005",
+      "bbox": [
+        [
+          238,
+          1150
+        ],
+        [
+          1110,
+          1148
+        ],
+        [
+          1111,
+          1206
+        ],
+        [
+          238,
+          1208
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1318
+        ],
+        [
+          1110,
+          1316
+        ],
+        [
+          1111,
+          1374
+        ],
+        [
+          238,
+          1376
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1148,
+        1111,
+        1208
+      ],
+      "text": "Mình xa nhà biết ở nhà làm sao ?",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0359_viet_006",
+      "bbox": [
+        [
+          292,
+          1431
+        ],
+        [
+          1058,
+          1431
+        ],
+        [
+          1058,
+          1489
+        ],
+        [
+          292,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1599
+        ],
+        [
+          1058,
+          1599
+        ],
+        [
+          1058,
+          1657
+        ],
+        [
+          292,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1431,
+        1058,
+        1489
+      ],
+      "text": "Duy biết trẻ đứa nào đứa nãy,",
+      "confidence": 0.9166
+    },
+    {
+      "line_id": "0359_viet_007",
+      "bbox": [
+        [
+          290,
+          1712
+        ],
+        [
+          1110,
+          1712
+        ],
+        [
+          1110,
+          1770
+        ],
+        [
+          290,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1880
+        ],
+        [
+          1110,
+          1880
+        ],
+        [
+          1110,
+          1938
+        ],
+        [
+          290,
+          1938
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        1712,
+        1110,
+        1770
+      ],
+      "text": "Trong gia-đình đều thãy yên-vui",
+      "confidence": 0.914
+    },
+    {
+      "line_id": "0359_viet_008",
+      "bbox": [
+        [
+          394,
+          1990
+        ],
+        [
+          1048,
+          1990
+        ],
+        [
+          1048,
+          2051
+        ],
+        [
+          394,
+          2051
+        ]
+      ],
+      "bbox_original": [
+        [
+          394,
+          2158
+        ],
+        [
+          1048,
+          2158
+        ],
+        [
+          1048,
+          2219
+        ],
+        [
+          394,
+          2219
+        ]
+      ],
+      "box_xyxy": [
+        394,
+        1990,
+        1048,
+        2051
+      ],
+      "text": "Lúc đi trẻ mới hay cười,",
+      "confidence": 0.9262
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Tuy răng nói dã người tần-tảo,",
+      "Trên tôn-đường, trong đạo tề-gia",
+      "Rau khe nước suối cũng là,",
+      "Mình xa nhà biết ở nhà làm sao ?",
+      "Duy biết trẻ đứa nào đứa nãy,",
+      "Trong gia-đình đều thãy yên-vui",
+      "Lúc đi trẻ mới hay cười,"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      340.0,
+      620.5,
+      898.5,
+      1178.0,
+      1460.0,
+      1741.0,
+      2020.5
+    ]
+  }
+}

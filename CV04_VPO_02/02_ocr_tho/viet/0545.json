@@ -1,0 +1,460 @@
+{
+  "page_id": "0545",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 545,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 595,
+    "footnote_separator_y_original": 754,
+    "effective_width": 1558,
+    "effective_height": 595
+  },
+  "items": [
+    {
+      "line_id": "0545_viet_000",
+      "bbox": [
+        [
+          109,
+          27
+        ],
+        [
+          1440,
+          27
+        ],
+        [
+          1440,
+          103
+        ],
+        [
+          109,
+          103
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          186
+        ],
+        [
+          1440,
+          186
+        ],
+        [
+          1440,
+          262
+        ],
+        [
+          109,
+          262
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        27,
+        1440,
+        103
+      ],
+      "text": "CÁC ĐIỆU TỪ ĐÃ ĐƯỢC CÁC TÁC GIẢ VIỆT NAM",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0545_viet_001",
+      "bbox": [
+        [
+          108,
+          114
+        ],
+        [
+          1434,
+          110
+        ],
+        [
+          1434,
+          192
+        ],
+        [
+          108,
+          196
+        ]
+      ],
+      "bbox_original": [
+        [
+          108,
+          273
+        ],
+        [
+          1434,
+          269
+        ],
+        [
+          1434,
+          351
+        ],
+        [
+          108,
+          355
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        110,
+        1434,
+        196
+      ],
+      "text": "THỜI TRUNG ĐẠI SỬ DỤNG VÀ VỊ TRÍ TỒN BẢN",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0545_viet_002",
+      "bbox": [
+        [
+          275,
+          231
+        ],
+        [
+          1274,
+          231
+        ],
+        [
+          1274,
+          294
+        ],
+        [
+          275,
+          294
+        ]
+      ],
+      "bbox_original": [
+        [
+          275,
+          390
+        ],
+        [
+          1274,
+          390
+        ],
+        [
+          1274,
+          453
+        ],
+        [
+          275,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        275,
+        231,
+        1274,
+        294
+      ],
+      "text": "VỊ TRÍ TỒN BẢN TÁC PHẨM TỪ VIỆT NAM",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0545_viet_003",
+      "bbox": [
+        [
+          561,
+          309
+        ],
+        [
+          986,
+          313
+        ],
+        [
+          985,
+          364
+        ],
+        [
+          560,
+          360
+        ]
+      ],
+      "bbox_original": [
+        [
+          561,
+          468
+        ],
+        [
+          986,
+          472
+        ],
+        [
+          985,
+          523
+        ],
+        [
+          560,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        560,
+        309,
+        986,
+        364
+      ],
+      "text": "THỜI TRUNG ĐẠI",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0545_viet_004",
+      "bbox": [
+        [
+          129,
+          425
+        ],
+        [
+          192,
+          425
+        ],
+        [
+          192,
+          469
+        ],
+        [
+          129,
+          469
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          584
+        ],
+        [
+          192,
+          584
+        ],
+        [
+          192,
+          628
+        ],
+        [
+          129,
+          628
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        425,
+        192,
+        469
+      ],
+      "text": "STT",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0545_viet_005",
+      "bbox": [
+        [
+          120,
+          481
+        ],
+        [
+          202,
+          484
+        ],
+        [
+          200,
+          539
+        ],
+        [
+          118,
+          536
+        ]
+      ],
+      "bbox_original": [
+        [
+          120,
+          640
+        ],
+        [
+          202,
+          643
+        ],
+        [
+          200,
+          698
+        ],
+        [
+          118,
+          695
+        ]
+      ],
+      "box_xyxy": [
+        118,
+        481,
+        202,
+        539
+      ],
+      "text": "(Quy",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0545_viet_006",
+      "bbox": [
+        [
+          544,
+          482
+        ],
+        [
+          676,
+          482
+        ],
+        [
+          676,
+          528
+        ],
+        [
+          544,
+          528
+        ]
+      ],
+      "bbox_original": [
+        [
+          544,
+          641
+        ],
+        [
+          676,
+          641
+        ],
+        [
+          676,
+          687
+        ],
+        [
+          544,
+          687
+        ]
+      ],
+      "box_xyxy": [
+        544,
+        482,
+        676,
+        528
+      ],
+      "text": "Tên sách",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0545_viet_007",
+      "bbox": [
+        [
+          1165,
+          478
+        ],
+        [
+          1278,
+          481
+        ],
+        [
+          1277,
+          532
+        ],
+        [
+          1164,
+          529
+        ]
+      ],
+      "bbox_original": [
+        [
+          1165,
+          637
+        ],
+        [
+          1278,
+          640
+        ],
+        [
+          1277,
+          691
+        ],
+        [
+          1164,
+          688
+        ]
+      ],
+      "box_xyxy": [
+        1164,
+        478,
+        1278,
+        532
+      ],
+      "text": "Kí hiệu",
+      "confidence": 0.9373
+    },
+    {
+      "line_id": "0545_viet_008",
+      "bbox": [
+        [
+          121,
+          535
+        ],
+        [
+          199,
+          535
+        ],
+        [
+          199,
+          585
+        ],
+        [
+          121,
+          585
+        ]
+      ],
+      "bbox_original": [
+        [
+          121,
+          694
+        ],
+        [
+          199,
+          694
+        ],
+        [
+          199,
+          744
+        ],
+        [
+          121,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        121,
+        535,
+        199,
+        585
+      ],
+      "text": "ước)",
+      "confidence": 0.9337
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "CÁC ĐIỆU TỪ ĐÃ ĐƯỢC CÁC TÁC GIẢ VIỆT NAM",
+      "THỜI TRUNG ĐẠI SỬ DỤNG VÀ VỊ TRÍ TỒN BẢN",
+      "VỊ TRÍ TỒN BẢN TÁC PHẨM TỪ VIỆT NAM",
+      "THỜI TRUNG ĐẠI",
+      "STT",
+      "(Quy",
+      "Tên sách",
+      "Kí hiệu",
+      "ước)"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

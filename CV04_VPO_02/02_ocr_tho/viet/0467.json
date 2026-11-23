@@ -1,0 +1,363 @@
+{
+  "page_id": "0467",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 467,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0467_viet_000",
+      "bbox": [
+        [
+          202,
+          3
+        ],
+        [
+          726,
+          6
+        ],
+        [
+          726,
+          61
+        ],
+        [
+          202,
+          58
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          162
+        ],
+        [
+          726,
+          165
+        ],
+        [
+          726,
+          220
+        ],
+        [
+          202,
+          217
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        3,
+        726,
+        61
+      ],
+      "text": "Phòng côi tràn ánh trăng",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0467_viet_001",
+      "bbox": [
+        [
+          218,
+          1617
+        ],
+        [
+          444,
+          1621
+        ],
+        [
+          444,
+          1673
+        ],
+        [
+          217,
+          1669
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          1776
+        ],
+        [
+          444,
+          1780
+        ],
+        [
+          444,
+          1832
+        ],
+        [
+          217,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        217,
+        1617,
+        444,
+        1673
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0467_viet_002",
+      "bbox": [
+        [
+          205,
+          1676
+        ],
+        [
+          1183,
+          1672
+        ],
+        [
+          1183,
+          1740
+        ],
+        [
+          205,
+          1743
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1835
+        ],
+        [
+          1183,
+          1831
+        ],
+        [
+          1183,
+          1899
+        ],
+        [
+          205,
+          1902
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1672,
+        1183,
+        1743
+      ],
+      "text": "THÍNH CA TỊCH THƯỢNG ĐẠI NHÂN TÁC",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0467_viet_003",
+      "bbox": [
+        [
+          210,
+          1752
+        ],
+        [
+          575,
+          1755
+        ],
+        [
+          575,
+          1810
+        ],
+        [
+          210,
+          1807
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          1911
+        ],
+        [
+          575,
+          1914
+        ],
+        [
+          575,
+          1969
+        ],
+        [
+          210,
+          1966
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        1752,
+        575,
+        1810
+      ],
+      "text": "(Hành hương tử)",
+      "confidence": 0.936
+    },
+    {
+      "line_id": "0467_viet_004",
+      "bbox": [
+        [
+          208,
+          1817
+        ],
+        [
+          535,
+          1821
+        ],
+        [
+          534,
+          1873
+        ],
+        [
+          207,
+          1869
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          1976
+        ],
+        [
+          535,
+          1980
+        ],
+        [
+          534,
+          2032
+        ],
+        [
+          207,
+          2028
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1817,
+        535,
+        1873
+      ],
+      "text": "Dã át hành vân,",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0467_viet_005",
+      "bbox": [
+        [
+          207,
+          1882
+        ],
+        [
+          569,
+          1882
+        ],
+        [
+          569,
+          1941
+        ],
+        [
+          207,
+          1941
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          2041
+        ],
+        [
+          569,
+          2041
+        ],
+        [
+          569,
+          2100
+        ],
+        [
+          207,
+          2100
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1882,
+        569,
+        1941
+      ],
+      "text": "Dã động phi trần",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0467_viet_006",
+      "bbox": [
+        [
+          121,
+          1978
+        ],
+        [
+          213,
+          1978
+        ],
+        [
+          213,
+          2038
+        ],
+        [
+          121,
+          2038
+        ]
+      ],
+      "bbox_original": [
+        [
+          121,
+          2137
+        ],
+        [
+          213,
+          2137
+        ],
+        [
+          213,
+          2197
+        ],
+        [
+          121,
+          2197
+        ]
+      ],
+      "box_xyxy": [
+        121,
+        1978,
+        213,
+        2038
+      ],
+      "text": "460",
+      "confidence": 0.9218
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phòng côi tràn ánh trăng",
+      "THÍNH CA TỊCH THƯỢNG ĐẠI NHÂN TÁC",
+      "(Hành hương tử)",
+      "Dã át hành vân,",
+      "Dã động phi trần",
+      "460"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

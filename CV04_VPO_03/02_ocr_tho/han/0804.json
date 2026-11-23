@@ -1,0 +1,166 @@
+{
+  "page_id": "0804",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 804,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0804_han_000",
+      "bbox": [
+        [
+          238,
+          1770
+        ],
+        [
+          685,
+          1762
+        ],
+        [
+          686,
+          1831
+        ],
+        [
+          239,
+          1840
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1985
+        ],
+        [
+          685,
+          1977
+        ],
+        [
+          686,
+          2046
+        ],
+        [
+          239,
+          2055
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        1762,
+        686,
+        1840
+      ],
+      "text": "1* VATT: tong 送",
+      "confidence": 0.8798
+    },
+    {
+      "line_id": "0804_han_001",
+      "bbox": [
+        [
+          231,
+          2131
+        ],
+        [
+          1970,
+          2139
+        ],
+        [
+          1970,
+          2210
+        ],
+        [
+          231,
+          2202
+        ]
+      ],
+      "bbox_original": [
+        [
+          231,
+          2346
+        ],
+        [
+          1970,
+          2354
+        ],
+        [
+          1970,
+          2425
+        ],
+        [
+          231,
+          2417
+        ]
+      ],
+      "box_xyxy": [
+        231,
+        2131,
+        1970,
+        2210
+      ],
+      "text": "(2) Thái son: ngon núi lón nhát  tinh Son-dông  東 Trung-quóc. Sau danh tù nàv",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0804_han_002",
+      "bbox": [
+        [
+          233,
+          2356
+        ],
+        [
+          1059,
+          2356
+        ],
+        [
+          1059,
+          2443
+        ],
+        [
+          233,
+          2443
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          2571
+        ],
+        [
+          1059,
+          2571
+        ],
+        [
+          1059,
+          2658
+        ],
+        [
+          233,
+          2658
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        2356,
+        1059,
+        2443
+      ],
+      "text": "(4) Mā Vién : tuóng nhà Dóng Hán 東 漢 dā dàn áp cuóc khön nghīa çua Hai Bà Trung",
+      "confidence": 0.8812
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

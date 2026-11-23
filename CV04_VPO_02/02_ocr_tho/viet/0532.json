@@ -1,0 +1,124 @@
+{
+  "page_id": "0532",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 532,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0532_viet_000",
+      "bbox": [
+        [
+          145,
+          0
+        ],
+        [
+          1394,
+          0
+        ],
+        [
+          1394,
+          48
+        ],
+        [
+          145,
+          46
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          159
+        ],
+        [
+          1394,
+          159
+        ],
+        [
+          1394,
+          207
+        ],
+        [
+          145,
+          205
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        0,
+        1394,
+        48
+      ],
+      "text": "học hành bỏ bê, hãy xin ghi lại một vài, đem tình thực tâu trần",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0532_viet_001",
+      "bbox": [
+        [
+          1391,
+          1978
+        ],
+        [
+          1488,
+          1978
+        ],
+        [
+          1488,
+          2046
+        ],
+        [
+          1391,
+          2046
+        ]
+      ],
+      "bbox_original": [
+        [
+          1391,
+          2137
+        ],
+        [
+          1488,
+          2137
+        ],
+        [
+          1488,
+          2205
+        ],
+        [
+          1391,
+          2205
+        ]
+      ],
+      "box_xyxy": [
+        1391,
+        1978,
+        1488,
+        2046
+      ],
+      "text": "525",
+      "confidence": 0.9293
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "học hành bỏ bê, hãy xin ghi lại một vài, đem tình thực tâu trần",
+      "525"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

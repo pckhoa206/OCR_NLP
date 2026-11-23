@@ -1,0 +1,844 @@
+{
+  "page_id": "0475",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 475,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1344,
+    "footnote_separator_y_original": 1503,
+    "effective_width": 1558,
+    "effective_height": 1344
+  },
+  "items": [
+    {
+      "line_id": "0475_viet_000",
+      "bbox": [
+        [
+          192,
+          0
+        ],
+        [
+          1449,
+          0
+        ],
+        [
+          1449,
+          49
+        ],
+        [
+          192,
+          50
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          159
+        ],
+        [
+          1449,
+          159
+        ],
+        [
+          1449,
+          208
+        ],
+        [
+          192,
+          209
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        0,
+        1449,
+        50
+      ],
+      "text": "HOẠ BÀI NGỰ GIÁ ĐẾN HÀNH CUNG THUY VĂN",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0475_viet_001",
+      "bbox": [
+        [
+          109,
+          53
+        ],
+        [
+          946,
+          53
+        ],
+        [
+          946,
+          110
+        ],
+        [
+          109,
+          110
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          212
+        ],
+        [
+          946,
+          212
+        ],
+        [
+          946,
+          269
+        ],
+        [
+          109,
+          269
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        53,
+        946,
+        110
+      ],
+      "text": "ĐIỆU NIỆM NÔ KIỂU CỦA NHÀ VUA",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0475_viet_002",
+      "bbox": [
+        [
+          193,
+          122
+        ],
+        [
+          642,
+          119
+        ],
+        [
+          642,
+          181
+        ],
+        [
+          193,
+          184
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          281
+        ],
+        [
+          642,
+          278
+        ],
+        [
+          642,
+          340
+        ],
+        [
+          193,
+          343
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        119,
+        642,
+        184
+      ],
+      "text": "(Điệu Niệm Nô Kiều)",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0475_viet_003",
+      "bbox": [
+        [
+          194,
+          188
+        ],
+        [
+          575,
+          191
+        ],
+        [
+          575,
+          250
+        ],
+        [
+          194,
+          247
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          347
+        ],
+        [
+          575,
+          350
+        ],
+        [
+          575,
+          409
+        ],
+        [
+          194,
+          406
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        188,
+        575,
+        250
+      ],
+      "text": "Sắc núi Thuý Vân,",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0475_viet_004",
+      "bbox": [
+        [
+          188,
+          256
+        ],
+        [
+          1368,
+          253
+        ],
+        [
+          1368,
+          317
+        ],
+        [
+          188,
+          320
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          415
+        ],
+        [
+          1368,
+          412
+        ],
+        [
+          1368,
+          476
+        ],
+        [
+          188,
+          479
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        253,
+        1368,
+        320
+      ],
+      "text": "Ngỡ đảo Bồng Lai\", một ngọn cúi trông xuống dòng sông.",
+      "confidence": 0.9031
+    },
+    {
+      "line_id": "0475_viet_005",
+      "bbox": [
+        [
+          196,
+          325
+        ],
+        [
+          1164,
+          325
+        ],
+        [
+          1164,
+          386
+        ],
+        [
+          196,
+          386
+        ]
+      ],
+      "bbox_original": [
+        [
+          196,
+          484
+        ],
+        [
+          1164,
+          484
+        ],
+        [
+          1164,
+          545
+        ],
+        [
+          196,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        196,
+        325,
+        1164,
+        386
+      ],
+      "text": "Ôm ấp, bảo vệ Kinh đô, là nơi cảnh đẹp nổi bật.",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0475_viet_006",
+      "bbox": [
+        [
+          190,
+          395
+        ],
+        [
+          1054,
+          392
+        ],
+        [
+          1054,
+          453
+        ],
+        [
+          190,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          554
+        ],
+        [
+          1054,
+          551
+        ],
+        [
+          1054,
+          612
+        ],
+        [
+          190,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        392,
+        1054,
+        456
+      ],
+      "text": "Há chỉ là chỗ dựng ngôi nhà để ngồi thiền",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0475_viet_007",
+      "bbox": [
+        [
+          190,
+          464
+        ],
+        [
+          711,
+          466
+        ],
+        [
+          710,
+          526
+        ],
+        [
+          190,
+          524
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          623
+        ],
+        [
+          711,
+          625
+        ],
+        [
+          710,
+          685
+        ],
+        [
+          190,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        464,
+        711,
+        526
+      ],
+      "text": "Xa giá buổi sớm đón gió,",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0475_viet_008",
+      "bbox": [
+        [
+          195,
+          535
+        ],
+        [
+          891,
+          535
+        ],
+        [
+          891,
+          593
+        ],
+        [
+          195,
+          593
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          694
+        ],
+        [
+          891,
+          694
+        ],
+        [
+          891,
+          752
+        ],
+        [
+          195,
+          752
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        535,
+        891,
+        593
+      ],
+      "text": "Thuyền của quân đội gõ mái chèo,",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0475_viet_009",
+      "bbox": [
+        [
+          194,
+          605
+        ],
+        [
+          716,
+          605
+        ],
+        [
+          716,
+          660
+        ],
+        [
+          194,
+          660
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          764
+        ],
+        [
+          716,
+          764
+        ],
+        [
+          716,
+          819
+        ],
+        [
+          194,
+          819
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        605,
+        716,
+        660
+      ],
+      "text": "Muôn lớp sóng trắng xoá.",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0475_viet_010",
+      "bbox": [
+        [
+          193,
+          677
+        ],
+        [
+          703,
+          677
+        ],
+        [
+          703,
+          732
+        ],
+        [
+          193,
+          732
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          836
+        ],
+        [
+          703,
+          836
+        ],
+        [
+          703,
+          891
+        ],
+        [
+          193,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        677,
+        703,
+        732
+      ],
+      "text": "Ngoành trông giữa dòng,",
+      "confidence": 0.8821
+    },
+    {
+      "line_id": "0475_viet_011",
+      "bbox": [
+        [
+          191,
+          741
+        ],
+        [
+          1107,
+          733
+        ],
+        [
+          1108,
+          797
+        ],
+        [
+          191,
+          805
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          900
+        ],
+        [
+          1107,
+          892
+        ],
+        [
+          1108,
+          956
+        ],
+        [
+          191,
+          964
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        733,
+        1108,
+        805
+      ],
+      "text": "Tường nhớ đến việc phá quân giặc năm nào?",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0475_viet_012",
+      "bbox": [
+        [
+          194,
+          874
+        ],
+        [
+          785,
+          876
+        ],
+        [
+          785,
+          937
+        ],
+        [
+          194,
+          935
+        ]
+      ],
+      "bbox_original": [
+        [
+          194,
+          1033
+        ],
+        [
+          785,
+          1035
+        ],
+        [
+          785,
+          1096
+        ],
+        [
+          194,
+          1094
+        ]
+      ],
+      "box_xyxy": [
+        194,
+        874,
+        785,
+        937
+      ],
+      "text": "Triền non, tùng bách um tùm,",
+      "confidence": 0.9136
+    },
+    {
+      "line_id": "0475_viet_013",
+      "bbox": [
+        [
+          195,
+          946
+        ],
+        [
+          984,
+          944
+        ],
+        [
+          984,
+          1002
+        ],
+        [
+          195,
+          1004
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1105
+        ],
+        [
+          984,
+          1103
+        ],
+        [
+          984,
+          1161
+        ],
+        [
+          195,
+          1163
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        944,
+        984,
+        1004
+      ],
+      "text": "Gió lộng thổi đem đến sự khoan khoái,",
+      "confidence": 0.9297
+    },
+    {
+      "line_id": "0475_viet_014",
+      "bbox": [
+        [
+          192,
+          1017
+        ],
+        [
+          904,
+          1012
+        ],
+        [
+          904,
+          1070
+        ],
+        [
+          192,
+          1075
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1176
+        ],
+        [
+          904,
+          1171
+        ],
+        [
+          904,
+          1229
+        ],
+        [
+          192,
+          1234
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1012,
+        904,
+        1075
+      ],
+      "text": "Hoa rụng, hương bay từ trên chiếu",
+      "confidence": 0.9317
+    },
+    {
+      "line_id": "0475_viet_015",
+      "bbox": [
+        [
+          192,
+          1082
+        ],
+        [
+          1150,
+          1079
+        ],
+        [
+          1151,
+          1140
+        ],
+        [
+          192,
+          1143
+        ]
+      ],
+      "bbox_original": [
+        [
+          192,
+          1241
+        ],
+        [
+          1150,
+          1238
+        ],
+        [
+          1151,
+          1299
+        ],
+        [
+          192,
+          1302
+        ]
+      ],
+      "box_xyxy": [
+        192,
+        1079,
+        1151,
+        1143
+      ],
+      "text": "Ngồi lặng ở ngôi đình trên núi trông ra biển xa,",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0475_viet_016",
+      "bbox": [
+        [
+          195,
+          1156
+        ],
+        [
+          804,
+          1156
+        ],
+        [
+          804,
+          1210
+        ],
+        [
+          195,
+          1210
+        ]
+      ],
+      "bbox_original": [
+        [
+          195,
+          1315
+        ],
+        [
+          804,
+          1315
+        ],
+        [
+          804,
+          1369
+        ],
+        [
+          195,
+          1369
+        ]
+      ],
+      "box_xyxy": [
+        195,
+        1156,
+        804,
+        1210
+      ],
+      "text": "Không quên trù tính mọi việc.",
+      "confidence": 0.9162
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "HOẠ BÀI NGỰ GIÁ ĐẾN HÀNH CUNG THUY VĂN",
+      "ĐIỆU NIỆM NÔ KIỂU CỦA NHÀ VUA",
+      "(Điệu Niệm Nô Kiều)",
+      "Sắc núi Thuý Vân,",
+      "Ngỡ đảo Bồng Lai\", một ngọn cúi trông xuống dòng sông.",
+      "Ôm ấp, bảo vệ Kinh đô, là nơi cảnh đẹp nổi bật.",
+      "Há chỉ là chỗ dựng ngôi nhà để ngồi thiền",
+      "Xa giá buổi sớm đón gió,",
+      "Thuyền của quân đội gõ mái chèo,",
+      "Muôn lớp sóng trắng xoá.",
+      "Ngoành trông giữa dòng,",
+      "Tường nhớ đến việc phá quân giặc năm nào?",
+      "Triền non, tùng bách um tùm,",
+      "Gió lộng thổi đem đến sự khoan khoái,",
+      "Hoa rụng, hương bay từ trên chiếu",
+      "Ngồi lặng ở ngôi đình trên núi trông ra biển xa,",
+      "Không quên trù tính mọi việc."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

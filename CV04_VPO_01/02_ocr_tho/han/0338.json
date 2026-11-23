@@ -1,0 +1,405 @@
+{
+  "page_id": "0338",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 338,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0338_han_000",
+      "bbox": [
+        [
+          469,
+          78
+        ],
+        [
+          1073,
+          78
+        ],
+        [
+          1073,
+          149
+        ],
+        [
+          469,
+          149
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          246
+        ],
+        [
+          1073,
+          246
+        ],
+        [
+          1073,
+          317
+        ],
+        [
+          469,
+          317
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        78,
+        1073,
+        149
+      ],
+      "text": "他鄉何事盤桓",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0338_han_001",
+      "bbox": [
+        [
+          472,
+          378
+        ],
+        [
+          1291,
+          380
+        ],
+        [
+          1291,
+          453
+        ],
+        [
+          472,
+          451
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          546
+        ],
+        [
+          1291,
+          548
+        ],
+        [
+          1291,
+          621
+        ],
+        [
+          472,
+          619
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        378,
+        1291,
+        453
+      ],
+      "text": "白雲飛處牡丹開辰",
+      "confidence": 0.9981
+    },
+    {
+      "line_id": "0338_han_002",
+      "bbox": [
+        [
+          468,
+          679
+        ],
+        [
+          1181,
+          679
+        ],
+        [
+          1181,
+          752
+        ],
+        [
+          468,
+          752
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          847
+        ],
+        [
+          1181,
+          847
+        ],
+        [
+          1181,
+          920
+        ],
+        [
+          468,
+          920
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        679,
+        1181,
+        752
+      ],
+      "text": "今日自海濱遠顧",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0338_han_003",
+      "bbox": [
+        [
+          472,
+          979
+        ],
+        [
+          1177,
+          979
+        ],
+        [
+          1177,
+          1053
+        ],
+        [
+          472,
+          1053
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          1147
+        ],
+        [
+          1177,
+          1147
+        ],
+        [
+          1177,
+          1221
+        ],
+        [
+          472,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        979,
+        1177,
+        1053
+      ],
+      "text": "一輕帆直渡歸陵",
+      "confidence": 0.9841
+    },
+    {
+      "line_id": "0338_han_004",
+      "bbox": [
+        [
+          476,
+          1281
+        ],
+        [
+          1077,
+          1281
+        ],
+        [
+          1077,
+          1356
+        ],
+        [
+          476,
+          1356
+        ]
+      ],
+      "bbox_original": [
+        [
+          476,
+          1449
+        ],
+        [
+          1077,
+          1449
+        ],
+        [
+          1077,
+          1524
+        ],
+        [
+          476,
+          1524
+        ]
+      ],
+      "box_xyxy": [
+        476,
+        1281,
+        1077,
+        1356
+      ],
+      "text": "鄉魂沸沸如增",
+      "confidence": 0.8702
+    },
+    {
+      "line_id": "0338_han_005",
+      "bbox": [
+        [
+          468,
+          1585
+        ],
+        [
+          1289,
+          1587
+        ],
+        [
+          1289,
+          1662
+        ],
+        [
+          468,
+          1660
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          1753
+        ],
+        [
+          1289,
+          1755
+        ],
+        [
+          1289,
+          1830
+        ],
+        [
+          468,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        1585,
+        1289,
+        1662
+      ],
+      "text": "逐帆忽己破層層波",
+      "confidence": 0.9749
+    },
+    {
+      "line_id": "0338_han_006",
+      "bbox": [
+        [
+          471,
+          1887
+        ],
+        [
+          1191,
+          1889
+        ],
+        [
+          1191,
+          1964
+        ],
+        [
+          471,
+          1962
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          2055
+        ],
+        [
+          1191,
+          2057
+        ],
+        [
+          1191,
+          2132
+        ],
+        [
+          471,
+          2130
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        1887,
+        1191,
+        1964
+      ],
+      "text": "明日自山家遠眺",
+      "confidence": 0.994
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "他鄉何事盤桓",
+      "白雲飛處牡丹開辰",
+      "今日自海濱遠顧",
+      "一輕帆直渡歸陵",
+      "鄉魂沸沸如增",
+      "逐帆忽己破層層波",
+      "明日自山家遠眺"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "他鄉何事盤桓",
+        "phien_am": "Tha-hương hà sự bàn-hoàn?",
+        "dich_nghia_gloss": "- Ở quê người chuyện trò cùng ai ?"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "白雲飛處牡丹開辰",
+        "phien_am": "Bạch vân phi xứ, mẫu-đan khai thần",
+        "dich_nghia_gloss": "Trong chỗ mây trắng bay, khi hoa mẫu đơn nử"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "今日自海濱遠顧",
+        "phien_am": "Kim nhật tự hải-tần viễn cõ,",
+        "dich_nghia_gloss": "- Ngày nay từ nơi cửa biển trông ra xa."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "一輕帆直渡歸陵",
+        "phien_am": "Nhật khinh phàm trực độ quy-lăng",
+        "dich_nghia_gloss": "- Một lá buôm nhẹ-nhàng bay thắng về cồn."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "鄉魂沸沸如增",
+        "phien_am": "Hương hồn phất phát như tăng,",
+        "dich_nghia_gloss": "- Lùng quê bỗng dưng sôi nổi như nổi nước nóng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "逐帆忽己破層層波",
+        "phien_am": "Trục phàm hốt dĩ phá lừng từng ba.",
+        "dich_nghia_gloss": "- Theo lá buôm ày bồng đã vượt qua lớp sóng đào."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "明日自山家遠眺",
+        "phien_am": "Minh nhật tự sơn-gia viễn thiếu,",
+        "dich_nghia_gloss": "- Ngày mai từ cái nhà trên núi trông ra đằng xa."
+      }
+    ]
+  }
+}

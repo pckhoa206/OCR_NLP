@@ -1,0 +1,748 @@
+{
+  "page_id": "0539",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 539,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1032,
+    "footnote_separator_y_original": 1191,
+    "effective_width": 1558,
+    "effective_height": 1032
+  },
+  "items": [
+    {
+      "line_id": "0539_viet_000",
+      "bbox": [
+        [
+          100,
+          7
+        ],
+        [
+          1440,
+          2
+        ],
+        [
+          1440,
+          56
+        ],
+        [
+          100,
+          62
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          166
+        ],
+        [
+          1440,
+          161
+        ],
+        [
+          1440,
+          215
+        ],
+        [
+          100,
+          221
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        2,
+        1440,
+        62
+      ],
+      "text": "trong thể từ, song thanh bằng trắc, cú đậu chưa hề có sự ấn định",
+      "confidence": 0.9348
+    },
+    {
+      "line_id": "0539_viet_001",
+      "bbox": [
+        [
+          103,
+          67
+        ],
+        [
+          1445,
+          62
+        ],
+        [
+          1445,
+          117
+        ],
+        [
+          103,
+          121
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          226
+        ],
+        [
+          1445,
+          221
+        ],
+        [
+          1445,
+          276
+        ],
+        [
+          103,
+          280
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        62,
+        1445,
+        121
+      ],
+      "text": "Lại như câu: ?Nhân vật phong lưu ngàn xưa? (Thiên cổ phong lưu",
+      "confidence": 0.9012
+    },
+    {
+      "line_id": "0539_viet_002",
+      "bbox": [
+        [
+          104,
+          126
+        ],
+        [
+          1444,
+          123
+        ],
+        [
+          1444,
+          174
+        ],
+        [
+          104,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          285
+        ],
+        [
+          1444,
+          282
+        ],
+        [
+          1444,
+          333
+        ],
+        [
+          104,
+          336
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        123,
+        1444,
+        177
+      ],
+      "text": "nhân vật), thuộc vào bộ vận thứ 5 ? chữ ?vật? (ngũ vật), câu ?Lại",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0539_viet_003",
+      "bbox": [
+        [
+          102,
+          182
+        ],
+        [
+          1443,
+          180
+        ],
+        [
+          1443,
+          235
+        ],
+        [
+          102,
+          237
+        ]
+      ],
+      "bbox_original": [
+        [
+          102,
+          341
+        ],
+        [
+          1443,
+          339
+        ],
+        [
+          1443,
+          394
+        ],
+        [
+          102,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        102,
+        180,
+        1443,
+        237
+      ],
+      "text": "rót rượu xuống sông trăng? (Hoàn lỗi giang nguyệt) lại thuộc bộ",
+      "confidence": 0.9279
+    },
+    {
+      "line_id": "0539_viet_004",
+      "bbox": [
+        [
+          103,
+          240
+        ],
+        [
+          1443,
+          235
+        ],
+        [
+          1443,
+          292
+        ],
+        [
+          103,
+          297
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          399
+        ],
+        [
+          1443,
+          394
+        ],
+        [
+          1443,
+          451
+        ],
+        [
+          103,
+          456
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        235,
+        1443,
+        297
+      ],
+      "text": "vận thứ 6 ? chữ nguyệt (lục nguyệt)\", thế mà vẫn có thể gieo vần,",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0539_viet_005",
+      "bbox": [
+        [
+          103,
+          298
+        ],
+        [
+          698,
+          298
+        ],
+        [
+          698,
+          356
+        ],
+        [
+          103,
+          356
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          457
+        ],
+        [
+          698,
+          457
+        ],
+        [
+          698,
+          515
+        ],
+        [
+          103,
+          515
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        298,
+        698,
+        356
+      ],
+      "text": "như thơ ngũ ngôn cổ thể vậy.",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0539_viet_006",
+      "bbox": [
+        [
+          184,
+          365
+        ],
+        [
+          1444,
+          358
+        ],
+        [
+          1445,
+          418
+        ],
+        [
+          184,
+          425
+        ]
+      ],
+      "bbox_original": [
+        [
+          184,
+          524
+        ],
+        [
+          1444,
+          517
+        ],
+        [
+          1445,
+          577
+        ],
+        [
+          184,
+          584
+        ]
+      ],
+      "box_xyxy": [
+        184,
+        358,
+        1445,
+        425
+      ],
+      "text": "Bài từ xưa, nay có thể hát, từ của Bắc quốc người Nam có thể",
+      "confidence": 0.9313
+    },
+    {
+      "line_id": "0539_viet_007",
+      "bbox": [
+        [
+          103,
+          425
+        ],
+        [
+          1443,
+          425
+        ],
+        [
+          1443,
+          480
+        ],
+        [
+          103,
+          480
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          584
+        ],
+        [
+          1443,
+          584
+        ],
+        [
+          1443,
+          639
+        ],
+        [
+          103,
+          639
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        425,
+        1443,
+        480
+      ],
+      "text": "hát, chỉ cốt sao thuận miệng thôi. Nay đọc những lời chỉ dạy, thực",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0539_viet_008",
+      "bbox": [
+        [
+          103,
+          483
+        ],
+        [
+          1447,
+          484
+        ],
+        [
+          1447,
+          541
+        ],
+        [
+          103,
+          540
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          642
+        ],
+        [
+          1447,
+          643
+        ],
+        [
+          1447,
+          700
+        ],
+        [
+          103,
+          699
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        483,
+        1447,
+        541
+      ],
+      "text": "là nhất nhất thông tỏ, quả là lượng thánh khiêm nhường vượt quá",
+      "confidence": 0.9332
+    },
+    {
+      "line_id": "0539_viet_009",
+      "bbox": [
+        [
+          104,
+          546
+        ],
+        [
+          1446,
+          542
+        ],
+        [
+          1446,
+          597
+        ],
+        [
+          104,
+          601
+        ]
+      ],
+      "bbox_original": [
+        [
+          104,
+          705
+        ],
+        [
+          1446,
+          701
+        ],
+        [
+          1446,
+          756
+        ],
+        [
+          104,
+          760
+        ]
+      ],
+      "box_xyxy": [
+        104,
+        542,
+        1446,
+        601
+      ],
+      "text": "tình thường muôn vạn. Huống nữa lại là bậc chí tôn ở ngôi vạn",
+      "confidence": 0.9109
+    },
+    {
+      "line_id": "0539_viet_010",
+      "bbox": [
+        [
+          103,
+          602
+        ],
+        [
+          1447,
+          600
+        ],
+        [
+          1447,
+          657
+        ],
+        [
+          103,
+          659
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          761
+        ],
+        [
+          1447,
+          759
+        ],
+        [
+          1447,
+          816
+        ],
+        [
+          103,
+          818
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        600,
+        1447,
+        659
+      ],
+      "text": "thặng?, chính sự bộn bề, mà học không biết chán, dạy người",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0539_viet_011",
+      "bbox": [
+        [
+          100,
+          659
+        ],
+        [
+          1086,
+          656
+        ],
+        [
+          1086,
+          721
+        ],
+        [
+          100,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          100,
+          818
+        ],
+        [
+          1086,
+          815
+        ],
+        [
+          1086,
+          880
+        ],
+        [
+          100,
+          883
+        ]
+      ],
+      "box_xyxy": [
+        100,
+        656,
+        1086,
+        724
+      ],
+      "text": "không biết mỏi càng là xưa nay chưa từng thấy.",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0539_viet_012",
+      "bbox": [
+        [
+          188,
+          726
+        ],
+        [
+          1446,
+          723
+        ],
+        [
+          1446,
+          784
+        ],
+        [
+          188,
+          787
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          885
+        ],
+        [
+          1446,
+          882
+        ],
+        [
+          1446,
+          943
+        ],
+        [
+          188,
+          946
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        723,
+        1446,
+        787
+      ],
+      "text": "Thần may gặp thời thịnh, đốc hết ngu độn, há dám có giấu",
+      "confidence": 0.8786
+    },
+    {
+      "line_id": "0539_viet_013",
+      "bbox": [
+        [
+          105,
+          785
+        ],
+        [
+          1446,
+          787
+        ],
+        [
+          1446,
+          849
+        ],
+        [
+          105,
+          847
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          944
+        ],
+        [
+          1446,
+          946
+        ],
+        [
+          1446,
+          1008
+        ],
+        [
+          105,
+          1006
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        785,
+        1446,
+        849
+      ],
+      "text": "giếm, vậy đem kiến văn nông cạn? tâu trình. Kính bái kính đọc",
+      "confidence": 0.9015
+    },
+    {
+      "line_id": "0539_viet_014",
+      "bbox": [
+        [
+          107,
+          851
+        ],
+        [
+          1092,
+          851
+        ],
+        [
+          1092,
+          902
+        ],
+        [
+          107,
+          902
+        ]
+      ],
+      "bbox_original": [
+        [
+          107,
+          1010
+        ],
+        [
+          1092,
+          1010
+        ],
+        [
+          1092,
+          1061
+        ],
+        [
+          107,
+          1061
+        ]
+      ],
+      "box_xyxy": [
+        107,
+        851,
+        1092,
+        902
+      ],
+      "text": "các bài từ ngự chế ở bản khác, chép cùng lời tựa.",
+      "confidence": 0.9318
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "trong thể từ, song thanh bằng trắc, cú đậu chưa hề có sự ấn định",
+      "Lại như câu: ?Nhân vật phong lưu ngàn xưa? (Thiên cổ phong lưu",
+      "nhân vật), thuộc vào bộ vận thứ 5 ? chữ ?vật? (ngũ vật), câu ?Lại",
+      "rót rượu xuống sông trăng? (Hoàn lỗi giang nguyệt) lại thuộc bộ",
+      "vận thứ 6 ? chữ nguyệt (lục nguyệt)\", thế mà vẫn có thể gieo vần,",
+      "như thơ ngũ ngôn cổ thể vậy.",
+      "Bài từ xưa, nay có thể hát, từ của Bắc quốc người Nam có thể",
+      "hát, chỉ cốt sao thuận miệng thôi. Nay đọc những lời chỉ dạy, thực",
+      "là nhất nhất thông tỏ, quả là lượng thánh khiêm nhường vượt quá",
+      "tình thường muôn vạn. Huống nữa lại là bậc chí tôn ở ngôi vạn",
+      "thặng?, chính sự bộn bề, mà học không biết chán, dạy người",
+      "không biết mỏi càng là xưa nay chưa từng thấy.",
+      "Thần may gặp thời thịnh, đốc hết ngu độn, há dám có giấu",
+      "giếm, vậy đem kiến văn nông cạn? tâu trình. Kính bái kính đọc",
+      "các bài từ ngự chế ở bản khác, chép cùng lời tựa."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

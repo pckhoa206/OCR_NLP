@@ -1,0 +1,1222 @@
+{
+  "page_id": "0817",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 817,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0817_viet_000",
+      "bbox": [
+        [
+          1073,
+          91
+        ],
+        [
+          1195,
+          91
+        ],
+        [
+          1195,
+          176
+        ],
+        [
+          1073,
+          176
+        ]
+      ],
+      "bbox_original": [
+        [
+          1073,
+          306
+        ],
+        [
+          1195,
+          306
+        ],
+        [
+          1195,
+          391
+        ],
+        [
+          1073,
+          391
+        ]
+      ],
+      "box_xyxy": [
+        1073,
+        91,
+        1195,
+        176
+      ],
+      "text": "343",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0817_viet_001",
+      "bbox": [
+        [
+          264,
+          946
+        ],
+        [
+          500,
+          949
+        ],
+        [
+          500,
+          1004
+        ],
+        [
+          264,
+          1002
+        ]
+      ],
+      "bbox_original": [
+        [
+          264,
+          1161
+        ],
+        [
+          500,
+          1164
+        ],
+        [
+          500,
+          1219
+        ],
+        [
+          264,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        946,
+        500,
+        1004
+      ],
+      "text": "PHIÊN ÂM",
+      "confidence": 0.9362
+    },
+    {
+      "line_id": "0817_viet_002",
+      "bbox": [
+        [
+          543,
+          1013
+        ],
+        [
+          1697,
+          1022
+        ],
+        [
+          1697,
+          1083
+        ],
+        [
+          543,
+          1074
+        ]
+      ],
+      "bbox_original": [
+        [
+          543,
+          1228
+        ],
+        [
+          1697,
+          1237
+        ],
+        [
+          1697,
+          1298
+        ],
+        [
+          543,
+          1289
+        ]
+      ],
+      "box_xyxy": [
+        543,
+        1013,
+        1697,
+        1083
+      ],
+      "text": "CỬ THIỆN ÁC NHÂN VẬT ĐÌ THỊ HOÀNG TỬ LUẬN",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0817_viet_003",
+      "bbox": [
+        [
+          395,
+          1121
+        ],
+        [
+          1974,
+          1132
+        ],
+        [
+          1974,
+          1192
+        ],
+        [
+          395,
+          1181
+        ]
+      ],
+      "bbox_original": [
+        [
+          395,
+          1336
+        ],
+        [
+          1974,
+          1347
+        ],
+        [
+          1974,
+          1407
+        ],
+        [
+          395,
+          1396
+        ]
+      ],
+      "box_xyxy": [
+        395,
+        1121,
+        1974,
+        1192
+      ],
+      "text": "Thiện ác đương đối cử, bất khả thiên phế dà. Ngô, tử quả hiền dQ, Văn",
+      "confidence": 0.8408
+    },
+    {
+      "line_id": "0817_viet_004",
+      "bbox": [
+        [
+          263,
+          1180
+        ],
+        [
+          1973,
+          1193
+        ],
+        [
+          1973,
+          1252
+        ],
+        [
+          263,
+          1238
+        ]
+      ],
+      "bbox_original": [
+        [
+          263,
+          1395
+        ],
+        [
+          1973,
+          1408
+        ],
+        [
+          1973,
+          1467
+        ],
+        [
+          263,
+          1453
+        ]
+      ],
+      "box_xyxy": [
+        263,
+        1180,
+        1973,
+        1252
+      ],
+      "text": "thiện: tất tòng nhi sự chì. Văn ác da 7 Ở nhi ty chỉ, Thiện ác giai khả sư dã.",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0817_viet_005",
+      "bbox": [
+        [
+          261,
+          1239
+        ],
+        [
+          1976,
+          1253
+        ],
+        [
+          1976,
+          1310
+        ],
+        [
+          261,
+          1296
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          1454
+        ],
+        [
+          1976,
+          1468
+        ],
+        [
+          1976,
+          1525
+        ],
+        [
+          261,
+          1511
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        1239,
+        1976,
+        1310
+      ],
+      "text": "Như bất hiền da 2: Hà đãi kiến ác nhi hậu vì Như Thái: Khang thất đức, tắc",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0817_viet_006",
+      "bbox": [
+        [
+          260,
+          1300
+        ],
+        [
+          1974,
+          1312
+        ],
+        [
+          1974,
+          1369
+        ],
+        [
+          260,
+          1357
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1515
+        ],
+        [
+          1974,
+          1527
+        ],
+        [
+          1974,
+          1584
+        ],
+        [
+          260,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        1300,
+        1974,
+        1369
+      ],
+      "text": "tiền vương dật dự nhi hiệu chi da 7 Tùy Dạng Đế khầu đạo Nghiêu Thuấn nhi",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0817_viet_007",
+      "bbox": [
+        [
+          260,
+          1358
+        ],
+        [
+          1585,
+          1370
+        ],
+        [
+          1585,
+          1427
+        ],
+        [
+          260,
+          1415
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1573
+        ],
+        [
+          1585,
+          1585
+        ],
+        [
+          1585,
+          1642
+        ],
+        [
+          260,
+          1630
+        ]
+      ],
+      "box_xyxy": [
+        260,
+        1358,
+        1585,
+        1427
+      ],
+      "text": "kỳ sở hành phản vi Kiệt Tru, kỳ kiến thiện nhi hiệu chi da 7",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0817_viet_008",
+      "bbox": [
+        [
+          256,
+          1488
+        ],
+        [
+          513,
+          1490
+        ],
+        [
+          513,
+          1545
+        ],
+        [
+          256,
+          1543
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          1703
+        ],
+        [
+          513,
+          1705
+        ],
+        [
+          513,
+          1760
+        ],
+        [
+          256,
+          1758
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        1488,
+        513,
+        1545
+      ],
+      "text": "DỊCH NGHĨA",
+      "confidence": 0.9235
+    },
+    {
+      "line_id": "0817_viet_009",
+      "bbox": [
+        [
+          656,
+          1555
+        ],
+        [
+          1567,
+          1564
+        ],
+        [
+          1567,
+          1625
+        ],
+        [
+          656,
+          1616
+        ]
+      ],
+      "bbox_original": [
+        [
+          656,
+          1770
+        ],
+        [
+          1567,
+          1779
+        ],
+        [
+          1567,
+          1840
+        ],
+        [
+          656,
+          1831
+        ]
+      ],
+      "box_xyxy": [
+        656,
+        1555,
+        1567,
+        1625
+      ],
+      "text": "BÀN VỀ VIỆC NÊU GƯƠNG NGƯỜI TỐT.",
+      "confidence": 0.9153
+    },
+    {
+      "line_id": "0817_viet_010",
+      "bbox": [
+        [
+          701,
+          1619
+        ],
+        [
+          1526,
+          1629
+        ],
+        [
+          1526,
+          1690
+        ],
+        [
+          701,
+          1680
+        ]
+      ],
+      "bbox_original": [
+        [
+          701,
+          1834
+        ],
+        [
+          1526,
+          1844
+        ],
+        [
+          1526,
+          1905
+        ],
+        [
+          701,
+          1895
+        ]
+      ],
+      "box_xyxy": [
+        701,
+        1619,
+        1526,
+        1690
+      ],
+      "text": "KÊ XẤU ĐỀ DẠY BẢO HOÀNG TỬ (1)",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0817_viet_011",
+      "bbox": [
+        [
+          387,
+          1726
+        ],
+        [
+          1965,
+          1740
+        ],
+        [
+          1965,
+          1797
+        ],
+        [
+          387,
+          1783
+        ]
+      ],
+      "bbox_original": [
+        [
+          387,
+          1941
+        ],
+        [
+          1965,
+          1955
+        ],
+        [
+          1965,
+          2012
+        ],
+        [
+          387,
+          1998
+        ]
+      ],
+      "box_xyxy": [
+        387,
+        1726,
+        1965,
+        1797
+      ],
+      "text": "Người tốt hay kề xấu đều phải nèu ra, không thể bỏ đi một loại nào.",
+      "confidence": 0.8743
+    },
+    {
+      "line_id": "0817_viet_012",
+      "bbox": [
+        [
+          253,
+          1784
+        ],
+        [
+          1966,
+          1801
+        ],
+        [
+          1966,
+          1858
+        ],
+        [
+          253,
+          1841
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1999
+        ],
+        [
+          1966,
+          2016
+        ],
+        [
+          1966,
+          2073
+        ],
+        [
+          253,
+          2056
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1784,
+        1966,
+        1858
+      ],
+      "text": "Con ta quả là hiền ư ? Thì nghe chuyện người tót tất phải theo mà bắt chước;",
+      "confidence": 0.9166
+    },
+    {
+      "line_id": "0817_viet_013",
+      "bbox": [
+        [
+          252,
+          1844
+        ],
+        [
+          1964,
+          1858
+        ],
+        [
+          1964,
+          1916
+        ],
+        [
+          252,
+          1901
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2059
+        ],
+        [
+          1964,
+          2073
+        ],
+        [
+          1964,
+          2131
+        ],
+        [
+          252,
+          2116
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1844,
+        1964,
+        1916
+      ],
+      "text": "nghe chuyện kẻ xấu tất phải ghét mà tránh di. Tốt hay xâu đều có thể lâm",
+      "confidence": 0.8954
+    },
+    {
+      "line_id": "0817_viet_014",
+      "bbox": [
+        [
+          248,
+          1903
+        ],
+        [
+          1964,
+          1919
+        ],
+        [
+          1964,
+          1977
+        ],
+        [
+          248,
+          1961
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          2118
+        ],
+        [
+          1964,
+          2134
+        ],
+        [
+          1964,
+          2192
+        ],
+        [
+          248,
+          2176
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1903,
+        1964,
+        1977
+      ],
+      "text": "gương cho nó được, Con ta quả là hư hỏng ư 7 Thì đợi gì nghe chuyện xấu",
+      "confidence": 0.8943
+    },
+    {
+      "line_id": "0817_viet_015",
+      "bbox": [
+        [
+          252,
+          1962
+        ],
+        [
+          1965,
+          1981
+        ],
+        [
+          1965,
+          2035
+        ],
+        [
+          252,
+          2016
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2177
+        ],
+        [
+          1965,
+          2196
+        ],
+        [
+          1965,
+          2250
+        ],
+        [
+          252,
+          2231
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1962,
+        1965,
+        2035
+      ],
+      "text": "rồi mới làm điều xấu. như Thái, Khang nhà Hạ thất đức (?), là tại các vua",
+      "confidence": 0.8552
+    },
+    {
+      "line_id": "0817_viet_016",
+      "bbox": [
+        [
+          249,
+          2020
+        ],
+        [
+          1964,
+          2040
+        ],
+        [
+          1964,
+          2097
+        ],
+        [
+          249,
+          2078
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          2235
+        ],
+        [
+          1964,
+          2255
+        ],
+        [
+          1964,
+          2312
+        ],
+        [
+          249,
+          2293
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        2020,
+        1964,
+        2097
+      ],
+      "text": "đời trước chơi-bời bò việc mà ông ta bắt chước chặng 7 Dạng Đế nhà Tùy (ây",
+      "confidence": 0.8852
+    },
+    {
+      "line_id": "0817_viet_017",
+      "bbox": [
+        [
+          248,
+          2083
+        ],
+        [
+          1962,
+          2100
+        ],
+        [
+          1962,
+          2154
+        ],
+        [
+          248,
+          2137
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          2298
+        ],
+        [
+          1962,
+          2315
+        ],
+        [
+          1962,
+          2369
+        ],
+        [
+          248,
+          2352
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        2083,
+        1962,
+        2154
+      ],
+      "text": "mồm nói đạo đức như Nghiêu Thuấn (1) mà hành vì lại trái ngược như kiệt",
+      "confidence": 0.8754
+    },
+    {
+      "line_id": "0817_viet_018",
+      "bbox": [
+        [
+          247,
+          2141
+        ],
+        [
+          1433,
+          2152
+        ],
+        [
+          1433,
+          2209
+        ],
+        [
+          247,
+          2198
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          2356
+        ],
+        [
+          1433,
+          2367
+        ],
+        [
+          1433,
+          2424
+        ],
+        [
+          247,
+          2413
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        2141,
+        1433,
+        2209
+      ],
+      "text": "Tru (5), ấy là do thấy điều tốt mà bắt chước đấy ư (6)?",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0817_viet_019",
+      "bbox": [
+        [
+          1640,
+          2221
+        ],
+        [
+          1821,
+          2221
+        ],
+        [
+          1821,
+          2278
+        ],
+        [
+          1640,
+          2278
+        ]
+      ],
+      "bbox_original": [
+        [
+          1640,
+          2436
+        ],
+        [
+          1821,
+          2436
+        ],
+        [
+          1821,
+          2493
+        ],
+        [
+          1640,
+          2493
+        ]
+      ],
+      "box_xyxy": [
+        1640,
+        2221,
+        1821,
+        2278
+      ],
+      "text": "HUỆ CHI",
+      "confidence": 0.9376
+    },
+    {
+      "line_id": "0817_viet_020",
+      "bbox": [
+        [
+          245,
+          2338
+        ],
+        [
+          501,
+          2341
+        ],
+        [
+          501,
+          2397
+        ],
+        [
+          245,
+          2395
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          2553
+        ],
+        [
+          501,
+          2556
+        ],
+        [
+          501,
+          2612
+        ],
+        [
+          245,
+          2610
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        2338,
+        501,
+        2397
+      ],
+      "text": "CHỦ THÍCH:",
+      "confidence": 0.9227
+    },
+    {
+      "line_id": "0817_viet_021",
+      "bbox": [
+        [
+          898,
+          2399
+        ],
+        [
+          1303,
+          2404
+        ],
+        [
+          1303,
+          2454
+        ],
+        [
+          898,
+          2449
+        ]
+      ],
+      "bbox_original": [
+        [
+          898,
+          2614
+        ],
+        [
+          1303,
+          2619
+        ],
+        [
+          1303,
+          2669
+        ],
+        [
+          898,
+          2664
+        ]
+      ],
+      "box_xyxy": [
+        898,
+        2399,
+        1303,
+        2454
+      ],
+      "text": "XUẤT XỨ: BVSKTT",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0817_viet_022",
+      "bbox": [
+        [
+          242,
+          2480
+        ],
+        [
+          1955,
+          2500
+        ],
+        [
+          1955,
+          2554
+        ],
+        [
+          242,
+          2534
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2695
+        ],
+        [
+          1955,
+          2715
+        ],
+        [
+          1955,
+          2769
+        ],
+        [
+          242,
+          2749
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        2480,
+        1955,
+        2554
+      ],
+      "text": "(1) Đầu, đề. dọ chúng tôi thêm, Theo ĐVSKTT đây là lời Trần Minh Tông mói trong dịp",
+      "confidence": 0.9156
+    },
+    {
+      "line_id": "0817_viet_023",
+      "bbox": [
+        [
+          1015,
+          2534
+        ],
+        [
+          1955,
+          2534
+        ],
+        [
+          1955,
+          2605
+        ],
+        [
+          1015,
+          2605
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          2749
+        ],
+        [
+          1955,
+          2749
+        ],
+        [
+          1955,
+          2820
+        ],
+        [
+          1015,
+          2820
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        2534,
+        1955,
+        2605
+      ],
+      "text": "- để vào mừa xuân năm kỳ ty (1325). Bây giờ",
+      "confidence": 0.8201
+    },
+    {
+      "line_id": "0817_viet_024",
+      "bbox": [
+        [
+          329,
+          2587
+        ],
+        [
+          1955,
+          2604
+        ],
+        [
+          1955,
+          2655
+        ],
+        [
+          329,
+          2637
+        ]
+      ],
+      "bbox_original": [
+        [
+          329,
+          2802
+        ],
+        [
+          1955,
+          2819
+        ],
+        [
+          1955,
+          2870
+        ],
+        [
+          329,
+          2852
+        ]
+      ],
+      "box_xyxy": [
+        329,
+        2587,
+        1955,
+        2655
+      ],
+      "text": "nhân đàm đạo với các hoàng tử về nhân vật đương thời, có Thái bảo Uy túc vương",
+      "confidence": 0.9181
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "343",
+      "CỬ THIỆN ÁC NHÂN VẬT ĐÌ THỊ HOÀNG TỬ LUẬN",
+      "Thiện ác đương đối cử, bất khả thiên phế dà. Ngô, tử quả hiền dQ, Văn",
+      "thiện: tất tòng nhi sự chì. Văn ác da 7 Ở nhi ty chỉ, Thiện ác giai khả sư dã.",
+      "Như bất hiền da 2: Hà đãi kiến ác nhi hậu vì Như Thái: Khang thất đức, tắc",
+      "tiền vương dật dự nhi hiệu chi da 7 Tùy Dạng Đế khầu đạo Nghiêu Thuấn nhi",
+      "kỳ sở hành phản vi Kiệt Tru, kỳ kiến thiện nhi hiệu chi da 7"
+    ],
+    "dich_nghia_lines": [
+      "BÀN VỀ VIỆC NÊU GƯƠNG NGƯỜI TỐT.",
+      "KÊ XẤU ĐỀ DẠY BẢO HOÀNG TỬ (1)",
+      "Người tốt hay kề xấu đều phải nèu ra, không thể bỏ đi một loại nào.",
+      "Con ta quả là hiền ư ? Thì nghe chuyện người tót tất phải theo mà bắt chước;",
+      "nghe chuyện kẻ xấu tất phải ghét mà tránh di. Tốt hay xâu đều có thể lâm",
+      "gương cho nó được, Con ta quả là hư hỏng ư 7 Thì đợi gì nghe chuyện xấu",
+      "rồi mới làm điều xấu. như Thái, Khang nhà Hạ thất đức (?), là tại các vua",
+      "đời trước chơi-bời bò việc mà ông ta bắt chước chặng 7 Dạng Đế nhà Tùy (ây",
+      "mồm nói đạo đức như Nghiêu Thuấn (1) mà hành vì lại trái ngược như kiệt",
+      "Tru (5), ấy là do thấy điều tốt mà bắt chước đấy ư (6)?",
+      "HUỆ CHI"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page_id": "0348",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 348,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0348_han_000",
+      "bbox": [
+        [
+          472,
+          76
+        ],
+        [
+          1177,
+          78
+        ],
+        [
+          1177,
+          150
+        ],
+        [
+          472,
+          147
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          244
+        ],
+        [
+          1177,
+          246
+        ],
+        [
+          1177,
+          318
+        ],
+        [
+          472,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        76,
+        1177,
+        150
+      ],
+      "text": "夜沈沈不見佳音",
+      "confidence": 0.9647
+    },
+    {
+      "line_id": "0348_han_001",
+      "bbox": [
+        [
+          470,
+          366
+        ],
+        [
+          1079,
+          366
+        ],
+        [
+          1079,
+          443
+        ],
+        [
+          470,
+          443
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          534
+        ],
+        [
+          1079,
+          534
+        ],
+        [
+          1079,
+          611
+        ],
+        [
+          470,
+          611
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        366,
+        1079,
+        443
+      ],
+      "text": "擲梭望望庭陰",
+      "confidence": 0.9846
+    },
+    {
+      "line_id": "0348_han_002",
+      "bbox": [
+        [
+          470,
+          658
+        ],
+        [
+          1289,
+          658
+        ],
+        [
+          1289,
+          735
+        ],
+        [
+          470,
+          735
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          826
+        ],
+        [
+          1289,
+          826
+        ],
+        [
+          1289,
+          903
+        ],
+        [
+          470,
+          903
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        658,
+        1289,
+        735
+      ],
+      "text": "霜寒蟋蟀咱吟聲愁",
+      "confidence": 0.9961
+    },
+    {
+      "line_id": "0348_han_003",
+      "bbox": [
+        [
+          470,
+          950
+        ],
+        [
+          1188,
+          950
+        ],
+        [
+          1188,
+          1027
+        ],
+        [
+          470,
+          1027
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1118
+        ],
+        [
+          1188,
+          1118
+        ],
+        [
+          1188,
+          1195
+        ],
+        [
+          470,
+          1195
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        950,
+        1188,
+        1027
+      ],
+      "text": "望不見悠悠我獨",
+      "confidence": 0.9885
+    },
+    {
+      "line_id": "0348_han_004",
+      "bbox": [
+        [
+          462,
+          1239
+        ],
+        [
+          1186,
+          1242
+        ],
+        [
+          1186,
+          1319
+        ],
+        [
+          462,
+          1317
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          1407
+        ],
+        [
+          1186,
+          1410
+        ],
+        [
+          1186,
+          1487
+        ],
+        [
+          462,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        1239,
+        1186,
+        1319
+      ],
+      "text": "顧閨門載復言還",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0348_han_005",
+      "bbox": [
+        [
+          467,
+          1536
+        ],
+        [
+          1075,
+          1536
+        ],
+        [
+          1075,
+          1611
+        ],
+        [
+          467,
+          1611
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          1704
+        ],
+        [
+          1075,
+          1704
+        ],
+        [
+          1075,
+          1779
+        ],
+        [
+          467,
+          1779
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        1536,
+        1075,
+        1611
+      ],
+      "text": "咱家鷄唱西欄",
+      "confidence": 0.9735
+    },
+    {
+      "line_id": "0348_han_006",
+      "bbox": [
+        [
+          468,
+          1826
+        ],
+        [
+          1291,
+          1826
+        ],
+        [
+          1291,
+          1904
+        ],
+        [
+          468,
+          1904
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          1994
+        ],
+        [
+          1291,
+          1994
+        ],
+        [
+          1291,
+          2072
+        ],
+        [
+          468,
+          2072
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        1826,
+        1291,
+        1904
+      ],
+      "text": "含情倚几挑殘孤燈",
+      "confidence": 0.9014
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "夜沈沈不見佳音",
+      "擲梭望望庭陰",
+      "霜寒蟋蟀咱吟聲愁",
+      "望不見悠悠我獨",
+      "顧閨門載復言還",
+      "咱家鷄唱西欄",
+      "含情倚几挑殘孤燈"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "夜沈沈不見佳音",
+        "phien_am": "Dạ trăm trầm bất kiến giai âm",
+        "dich_nghia_gloss": "- Đêm vắng chẳng thây tin lành"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "擲梭望望庭陰",
+        "phien_am": "Trịch thoan vọng vọng đình âm",
+        "dich_nghia_gloss": "Nàng bèn ném thoi ra ngóng ở trước thềm"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "霜寒蟋蟀咱吟聲愁",
+        "phien_am": "Sương hàn tất suất thinh ngâm thanh sầu.",
+        "dich_nghia_gloss": "- Nghe sương rơi lạnh-lùng, dề ngâm buồn-bã"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "望不見悠悠我獨",
+        "phien_am": "Vọng bất kiến du du ngã độc",
+        "dich_nghia_gloss": "Trông chẳng thầy ai, chỉ vò-võ một mình"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "顧閨門載復言還",
+        "phien_am": "Cõ khuê môn tái phục ngôn hoàn",
+        "dich_nghia_gloss": "- Ngành lại phòng khuê, tự nhủ: thôi đi vào"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "咱家鷄唱西欄",
+        "phien_am": "Thính gia kê xướng tây lan",
+        "dich_nghia_gloss": "- Tiêng gà nhà ai gáy ở phía tây ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "含情倚几挑殘孤燈",
+        "phien_am": "Hàm tình ý kỷ khiêu tàn cô đăng",
+        "dich_nghia_gloss": "- Nàng còn ngậm mảnh tình riêng, ngồi dựa ghê, khêu mãi ngọn đèn lẻ-loi cho hao dầu, hết bắc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "page_id": "0330",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 330,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0330_viet_000",
+      "bbox": [
+        [
+          298,
+          178
+        ],
+        [
+          1075,
+          180
+        ],
+        [
+          1075,
+          244
+        ],
+        [
+          297,
+          242
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          346
+        ],
+        [
+          1075,
+          348
+        ],
+        [
+          1075,
+          412
+        ],
+        [
+          297,
+          410
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        178,
+        1075,
+        244
+      ],
+      "text": "Bồi hồi nguyệt dạ sương-thiên,",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0330_viet_001",
+      "bbox": [
+        [
+          208,
+          268
+        ],
+        [
+          1199,
+          268
+        ],
+        [
+          1199,
+          332
+        ],
+        [
+          208,
+          332
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          436
+        ],
+        [
+          1199,
+          436
+        ],
+        [
+          1199,
+          500
+        ],
+        [
+          208,
+          500
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        268,
+        1199,
+        332
+      ],
+      "text": "- Đêm trăng trời sương lòng luông bồi hồi.",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0330_viet_002",
+      "bbox": [
+        [
+          297,
+          482
+        ],
+        [
+          1372,
+          484
+        ],
+        [
+          1372,
+          545
+        ],
+        [
+          296,
+          543
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          650
+        ],
+        [
+          1372,
+          652
+        ],
+        [
+          1372,
+          713
+        ],
+        [
+          296,
+          711
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        482,
+        1372,
+        545
+      ],
+      "text": "Hàn sơn ám nhận khách thuyền cánh phi",
+      "confidence": 0.8943
+    },
+    {
+      "line_id": "0330_viet_003",
+      "bbox": [
+        [
+          209,
+          562
+        ],
+        [
+          1439,
+          565
+        ],
+        [
+          1439,
+          628
+        ],
+        [
+          209,
+          625
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          730
+        ],
+        [
+          1439,
+          733
+        ],
+        [
+          1439,
+          796
+        ],
+        [
+          209,
+          793
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        562,
+        1439,
+        628
+      ],
+      "text": "- Đoán là thuyền khách non hàn, tế ra không phải.",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0330_viet_004",
+      "bbox": [
+        [
+          291,
+          787
+        ],
+        [
+          1149,
+          783
+        ],
+        [
+          1149,
+          847
+        ],
+        [
+          292,
+          851
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          955
+        ],
+        [
+          1149,
+          951
+        ],
+        [
+          1149,
+          1015
+        ],
+        [
+          292,
+          1019
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        783,
+        1149,
+        851
+      ],
+      "text": "Khúc-giang-thủy, hà thì Đại-Đô ?",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0330_viet_005",
+      "bbox": [
+        [
+          207,
+          873
+        ],
+        [
+          1277,
+          871
+        ],
+        [
+          1277,
+          939
+        ],
+        [
+          207,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1041
+        ],
+        [
+          1277,
+          1039
+        ],
+        [
+          1277,
+          1107
+        ],
+        [
+          207,
+          1109
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        871,
+        1277,
+        941
+      ],
+      "text": "- Trên sông khúc, ngày nào nhà thơ Đố-Phủ..",
+      "confidence": 0.8821
+    },
+    {
+      "line_id": "0330_viet_006",
+      "bbox": [
+        [
+          292,
+          1089
+        ],
+        [
+          1037,
+          1093
+        ],
+        [
+          1037,
+          1151
+        ],
+        [
+          291,
+          1147
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1257
+        ],
+        [
+          1037,
+          1261
+        ],
+        [
+          1037,
+          1319
+        ],
+        [
+          291,
+          1315
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        1089,
+        1037,
+        1151
+      ],
+      "text": "Nhứt cô-châu hệ cố-viên tâm",
+      "confidence": 0.8838
+    },
+    {
+      "line_id": "0330_viet_007",
+      "bbox": [
+        [
+          205,
+          1177
+        ],
+        [
+          1022,
+          1179
+        ],
+        [
+          1022,
+          1240
+        ],
+        [
+          205,
+          1238
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1345
+        ],
+        [
+          1022,
+          1347
+        ],
+        [
+          1022,
+          1408
+        ],
+        [
+          205,
+          1406
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1177,
+        1022,
+        1240
+      ],
+      "text": "- Buộc dây lòng quê ở lá thuyền cô",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0330_viet_008",
+      "bbox": [
+        [
+          294,
+          1392
+        ],
+        [
+          983,
+          1397
+        ],
+        [
+          982,
+          1455
+        ],
+        [
+          293,
+          1450
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1560
+        ],
+        [
+          983,
+          1565
+        ],
+        [
+          982,
+          1623
+        ],
+        [
+          293,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        1392,
+        983,
+        1455
+      ],
+      "text": "Thời lưu bát thủ thi-ngâm.",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0330_viet_009",
+      "bbox": [
+        [
+          203,
+          1477
+        ],
+        [
+          1009,
+          1481
+        ],
+        [
+          1008,
+          1545
+        ],
+        [
+          202,
+          1540
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1645
+        ],
+        [
+          1009,
+          1649
+        ],
+        [
+          1008,
+          1713
+        ],
+        [
+          202,
+          1708
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1477,
+        1009,
+        1545
+      ],
+      "text": "- Lúc ây để lại tám bài thu hứng.",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0330_viet_010",
+      "bbox": [
+        [
+          291,
+          1687
+        ],
+        [
+          1371,
+          1691
+        ],
+        [
+          1371,
+          1755
+        ],
+        [
+          290,
+          1751
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          1855
+        ],
+        [
+          1371,
+          1859
+        ],
+        [
+          1371,
+          1923
+        ],
+        [
+          290,
+          1919
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        1687,
+        1371,
+        1755
+      ],
+      "text": "Linh nhân lữ-lứ chuyền thâm hương tình",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0330_viet_011",
+      "bbox": [
+        [
+          206,
+          1768
+        ],
+        [
+          1436,
+          1775
+        ],
+        [
+          1436,
+          1839
+        ],
+        [
+          205,
+          1831
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1936
+        ],
+        [
+          1436,
+          1943
+        ],
+        [
+          1436,
+          2007
+        ],
+        [
+          205,
+          1999
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1768,
+        1436,
+        1839
+      ],
+      "text": "- Khiên người có tứ lữ du, bồng nặng lòng cô-quận.",
+      "confidence": 0.9084
+    },
+    {
+      "line_id": "0330_viet_012",
+      "bbox": [
+        [
+          290,
+          1986
+        ],
+        [
+          1236,
+          1988
+        ],
+        [
+          1235,
+          2052
+        ],
+        [
+          289,
+          2050
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          2154
+        ],
+        [
+          1236,
+          2156
+        ],
+        [
+          1235,
+          2220
+        ],
+        [
+          289,
+          2218
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        1986,
+        1236,
+        2052
+      ],
+      "text": "Tích ngã vãng thanh-thanh liễu nhứ,",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0330_viet_013",
+      "bbox": [
+        [
+          207,
+          2076
+        ],
+        [
+          946,
+          2076
+        ],
+        [
+          946,
+          2133
+        ],
+        [
+          207,
+          2133
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          2244
+        ],
+        [
+          946,
+          2244
+        ],
+        [
+          946,
+          2301
+        ],
+        [
+          207,
+          2301
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        2076,
+        946,
+        2133
+      ],
+      "text": "- Xưa ta đi, tơ liễu xanh xanh",
+      "confidence": 0.9146
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Bồi hồi nguyệt dạ sương-thiên,",
+      "Hàn sơn ám nhận khách thuyền cánh phi",
+      "Khúc-giang-thủy, hà thì Đại-Đô ?",
+      "Nhứt cô-châu hệ cố-viên tâm",
+      "Thời lưu bát thủ thi-ngâm.",
+      "Linh nhân lữ-lứ chuyền thâm hương tình",
+      "Tích ngã vãng thanh-thanh liễu nhứ,"
+    ],
+    "dich_nghia_lines": [
+      "- Đêm trăng trời sương lòng luông bồi hồi.",
+      "- Đoán là thuyền khách non hàn, tế ra không phải.",
+      "- Trên sông khúc, ngày nào nhà thơ Đố-Phủ..",
+      "- Buộc dây lòng quê ở lá thuyền cô",
+      "- Lúc ây để lại tám bài thu hứng.",
+      "- Khiên người có tứ lữ du, bồng nặng lòng cô-quận.",
+      "- Xưa ta đi, tơ liễu xanh xanh"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "徘徊月夜霜天",
+        "phien_am": "Bồi hồi nguyệt dạ sương-thiên,",
+        "dich_nghia_gloss": "- Đêm trăng trời sương lòng luông bồi hồi."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "寒山暗認客船更非",
+        "phien_am": "Hàn sơn ám nhận khách thuyền cánh phi",
+        "dich_nghia_gloss": "- Đoán là thuyền khách non hàn, tế ra không phải."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "曲江水何辰大杜",
+        "phien_am": "Khúc-giang-thủy, hà thì Đại-Đô ?",
+        "dich_nghia_gloss": "- Trên sông khúc, ngày nào nhà thơ Đố-Phủ.."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "一孤舟繫故園心",
+        "phien_am": "Nhứt cô-châu hệ cố-viên tâm",
+        "dich_nghia_gloss": "- Buộc dây lòng quê ở lá thuyền cô"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "辰留八首詩吟",
+        "phien_am": "Thời lưu bát thủ thi-ngâm.",
+        "dich_nghia_gloss": "- Lúc ây để lại tám bài thu hứng."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "令人旅思轉深鄉情",
+        "phien_am": "Linh nhân lữ-lứ chuyền thâm hương tình",
+        "dich_nghia_gloss": "- Khiên người có tứ lữ du, bồng nặng lòng cô-quận."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "昔我往青青柳絮",
+        "phien_am": "Tích ngã vãng thanh-thanh liễu nhứ,",
+        "dich_nghia_gloss": "- Xưa ta đi, tơ liễu xanh xanh"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page_id": "0334",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 334,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0334_han_000",
+      "bbox": [
+        [
+          470,
+          69
+        ],
+        [
+          1183,
+          69
+        ],
+        [
+          1183,
+          146
+        ],
+        [
+          470,
+          146
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          237
+        ],
+        [
+          1183,
+          237
+        ],
+        [
+          1183,
+          314
+        ],
+        [
+          470,
+          314
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        69,
+        1183,
+        146
+      ],
+      "text": "胡為乎淒涼客舍",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0334_han_001",
+      "bbox": [
+        [
+          483,
+          360
+        ],
+        [
+          1180,
+          363
+        ],
+        [
+          1180,
+          441
+        ],
+        [
+          483,
+          437
+        ]
+      ],
+      "bbox_original": [
+        [
+          483,
+          528
+        ],
+        [
+          1180,
+          531
+        ],
+        [
+          1180,
+          609
+        ],
+        [
+          483,
+          605
+        ]
+      ],
+      "box_xyxy": [
+        483,
+        360,
+        1180,
+        441
+      ],
+      "text": "日優遊幾个冠童",
+      "confidence": 0.9971
+    },
+    {
+      "line_id": "0334_han_002",
+      "bbox": [
+        [
+          469,
+          649
+        ],
+        [
+          1074,
+          649
+        ],
+        [
+          1074,
+          723
+        ],
+        [
+          469,
+          723
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          817
+        ],
+        [
+          1074,
+          817
+        ],
+        [
+          1074,
+          891
+        ],
+        [
+          469,
+          891
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        649,
+        1074,
+        723
+      ],
+      "text": "安能夜夜書房",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0334_han_003",
+      "bbox": [
+        [
+          470,
+          937
+        ],
+        [
+          1299,
+          937
+        ],
+        [
+          1299,
+          1018
+        ],
+        [
+          470,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1105
+        ],
+        [
+          1299,
+          1105
+        ],
+        [
+          1299,
+          1186
+        ],
+        [
+          470,
+          1186
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        937,
+        1299,
+        1018
+      ],
+      "text": "芭蕉泣露昆虫鳴秋",
+      "confidence": 0.987
+    },
+    {
+      "line_id": "0334_han_004",
+      "bbox": [
+        [
+          474,
+          1307
+        ],
+        [
+          1186,
+          1307
+        ],
+        [
+          1186,
+          1389
+        ],
+        [
+          474,
+          1389
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          1475
+        ],
+        [
+          1186,
+          1475
+        ],
+        [
+          1186,
+          1557
+        ],
+        [
+          474,
+          1557
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        1307,
+        1186,
+        1389
+      ],
+      "text": "胡為乎夷猶旅館",
+      "confidence": 0.9924
+    },
+    {
+      "line_id": "0334_han_005",
+      "bbox": [
+        [
+          482,
+          1603
+        ],
+        [
+          1192,
+          1601
+        ],
+        [
+          1192,
+          1676
+        ],
+        [
+          482,
+          1678
+        ]
+      ],
+      "bbox_original": [
+        [
+          482,
+          1771
+        ],
+        [
+          1192,
+          1769
+        ],
+        [
+          1192,
+          1844
+        ],
+        [
+          482,
+          1846
+        ]
+      ],
+      "box_xyxy": [
+        482,
+        1601,
+        1192,
+        1678
+      ],
+      "text": "歲逡巡己半霜煙",
+      "confidence": 0.9539
+    },
+    {
+      "line_id": "0334_han_006",
+      "bbox": [
+        [
+          478,
+          1896
+        ],
+        [
+          1085,
+          1896
+        ],
+        [
+          1085,
+          1968
+        ],
+        [
+          478,
+          1968
+        ]
+      ],
+      "bbox_original": [
+        [
+          478,
+          2064
+        ],
+        [
+          1085,
+          2064
+        ],
+        [
+          1085,
+          2136
+        ],
+        [
+          478,
+          2136
+        ]
+      ],
+      "box_xyxy": [
+        478,
+        1896,
+        1085,
+        1968
+      ],
+      "text": "安能暮暮西軒",
+      "confidence": 0.9988
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "胡為乎淒涼客舍",
+      "日優遊幾个冠童",
+      "安能夜夜書房",
+      "芭蕉泣露昆虫鳴秋",
+      "胡為乎夷猶旅館",
+      "歲逡巡己半霜煙",
+      "安能暮暮西軒"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "胡為乎淒涼客舍",
+        "phien_am": "Hồ vi hồ thê-lương khách xá ?",
+        "dich_nghia_gloss": "- Làm chi vậy ? buồn lạnh nơi nhà lạ.."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "日優遊幾个冠童",
+        "phien_am": "Nhật ưu-du kỷ cá quan đồng",
+        "dich_nghia_gloss": "- Ngày làm bạn với mây đứa học trò vừa biết đội khăn."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "安能夜夜書房",
+        "phien_am": "An năng dạ-dạ thư phòng?",
+        "dich_nghia_gloss": "- Sao mà cứ chịu đêm đêm ngồi ở phòng sách."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "芭蕉泣露昆虫鳴秋",
+        "phien_am": "Ba tiêu khấp lộ, côn trùng minh thu.",
+        "dich_nghia_gloss": "- Nghe giot sương khóc trên tàu chuồi, tiếng dề kêu giữa đêm thu ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "胡為乎夷猶旅館",
+        "phien_am": "Hồ vi hồ di-do lữ-quán?",
+        "dich_nghia_gloss": "- Làm chi vậy ở cứ lần-lữa nơi quán trọ."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "歲逡巡己半霜煙",
+        "phien_am": "Tuẽ thoan-tuần dĩ bán sương-yên",
+        "dich_nghia_gloss": "- Thâm thoắt sương khói đã nửa năm trời."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "安能暮暮西軒",
+        "phien_am": "An năng mộ-mộ tây hiên ?",
+        "dich_nghia_gloss": "- Sao cứ đêm đêm ở hiên tây."
+      }
+    ]
+  }
+}

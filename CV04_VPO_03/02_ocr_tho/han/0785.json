@@ -1,0 +1,264 @@
+{
+  "page_id": "0785",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 785,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0785_han_000",
+      "bbox": [
+        [
+          443,
+          247
+        ],
+        [
+          868,
+          249
+        ],
+        [
+          868,
+          357
+        ],
+        [
+          443,
+          355
+        ]
+      ],
+      "bbox_original": [
+        [
+          443,
+          462
+        ],
+        [
+          868,
+          464
+        ],
+        [
+          868,
+          572
+        ],
+        [
+          443,
+          570
+        ]
+      ],
+      "box_xyxy": [
+        443,
+        247,
+        868,
+        357
+      ],
+      "text": "X安行殿",
+      "confidence": 0.8997
+    },
+    {
+      "line_id": "0785_han_001",
+      "bbox": [
+        [
+          332,
+          387
+        ],
+        [
+          1034,
+          393
+        ],
+        [
+          1033,
+          477
+        ],
+        [
+          331,
+          470
+        ]
+      ],
+      "bbox_original": [
+        [
+          332,
+          602
+        ],
+        [
+          1034,
+          608
+        ],
+        [
+          1033,
+          692
+        ],
+        [
+          331,
+          685
+        ]
+      ],
+      "box_xyxy": [
+        331,
+        387,
+        1034,
+        477
+      ],
+      "text": "生民一視我胞同",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0785_han_002",
+      "bbox": [
+        [
+          327,
+          607
+        ],
+        [
+          1034,
+          602
+        ],
+        [
+          1034,
+          681
+        ],
+        [
+          327,
+          686
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          822
+        ],
+        [
+          1034,
+          817
+        ],
+        [
+          1034,
+          896
+        ],
+        [
+          327,
+          901
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        602,
+        1034,
+        686
+      ],
+      "text": "未央虚費潤青紅",
+      "confidence": 0.9392
+    },
+    {
+      "line_id": "0785_han_003",
+      "bbox": [
+        [
+          248,
+          2067
+        ],
+        [
+          1059,
+          2067
+        ],
+        [
+          1059,
+          2166
+        ],
+        [
+          248,
+          2166
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          2282
+        ],
+        [
+          1059,
+          2282
+        ],
+        [
+          1059,
+          2381
+        ],
+        [
+          248,
+          2381
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        2067,
+        1059,
+        2166
+      ],
+      "text": "(2) Tuòng que ho Tiéu : túrc Tièu Ha 萧何, turóng quóc thoi Hán Cao Tò 漢高祖，",
+      "confidence": 0.8884
+    },
+    {
+      "line_id": "0785_han_004",
+      "bbox": [
+        [
+          346,
+          2147
+        ],
+        [
+          1974,
+          2145
+        ],
+        [
+          1974,
+          2199
+        ],
+        [
+          346,
+          2201
+        ]
+      ],
+      "bbox_original": [
+        [
+          346,
+          2362
+        ],
+        [
+          1974,
+          2360
+        ],
+        [
+          1974,
+          2414
+        ],
+        [
+          346,
+          2416
+        ]
+      ],
+      "box_xyxy": [
+        346,
+        2145,
+        1974,
+        2201
+      ],
+      "text": "nguòi dā xây dưng cung Vi-rong  dăt Hàm-duong 咸  cuc ky lông lāy. Hán Cao",
+      "confidence": 0.9032
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "X安行殿",
+      "生民一視我胞同",
+      "未央虚費潤青紅"
+    ],
+    "interlinear_triplets": []
+  }
+}

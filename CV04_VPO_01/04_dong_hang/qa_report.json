@@ -1,11 +1,11 @@
 {
-  "total_pairs": 405,
-  "valid_pairs": 405,
-  "valid_checked_pairs": 405,
-  "error_pairs": 22,
-  "num_error_pairs": 22,
-  "clean_pairs": 383,
-  "error_rate": 0.054321,
+  "total_pairs": 359,
+  "valid_pairs": 359,
+  "valid_checked_pairs": 359,
+  "error_pairs": 1,
+  "num_error_pairs": 1,
+  "clean_pairs": 358,
+  "error_rate": 0.002786,
   "passes_acceptance_threshold": true,
   "passes_threshold_30pct": true,
   "passes_internal_target": true,
@@ -13,381 +13,45 @@
   "is_valid": true,
   "error_counts_by_type": {
     "MISSING": 0,
-    "OMISSION": 19,
-    "ADDITION": 2,
+    "OMISSION": 1,
+    "ADDITION": 0,
     "FORMAT_ERROR": 0,
     "LEFTOVER_MARKER": 0,
-    "NUMBER_MISMATCH": 1
+    "NUMBER_MISMATCH": 0
   },
   "error_breakdown": {
     "MISSING": 0,
-    "OMISSION": 19,
-    "ADDITION": 2,
+    "OMISSION": 1,
+    "ADDITION": 0,
     "FORMAT_ERROR": 0,
     "LEFTOVER_MARKER": 0,
-    "NUMBER_MISMATCH": 1
+    "NUMBER_MISMATCH": 0
   },
   "missing_count": 0,
-  "omission_count": 19,
-  "addition_count": 2,
+  "omission_count": 1,
+  "addition_count": 0,
   "format_error_count": 0,
   "leftover_marker_count": 0,
-  "number_mismatch_count": 1,
+  "number_mismatch_count": 0,
   "issues": [
     {
-      "row_index": 47,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "若果蕩焉泯焉而悉無有",
-      "viet": "nêu quả cháy rụi hết cả"
-    },
-    {
-      "row_index": 48,
+      "row_index": 283,
       "category": "OMISSION",
       "severity": "warning",
       "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "乃吾所以尤賀者也。",
-      "viet": "lại càng nên mừng hơn"
-    },
-    {
-      "row_index": 55,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "凡人之言皆曰：",
-      "viet": "Người ta thường nói"
-    },
-    {
-      "row_index": 71,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "士之好廉名者，",
-      "viet": "Kẻ sĩ giữ tiềng"
-    },
-    {
-      "row_index": 75,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.42 < 0.7 (5 Viet words / 12 Han chars).",
-      "han": "以公道之難明而世之多嫌也。",
-      "viet": "đời nhiều kẻ ngại-ngùng"
-    },
-    {
-      "row_index": 79,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
-      "han": "見足下之文章，蓄之者，",
-      "viet": "Thây văn chương bác uần-súc"
-    },
-    {
-      "row_index": 85,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "得奮其舌，思以發明",
-      "viet": "có thể nói được rồi,"
-    },
-    {
-      "row_index": 92,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "乃今幸爲天火之所滌盪",
-      "viet": "Nay may có trận hỏa tai"
-    },
-    {
-      "row_index": 94,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "黔其廬，赭其垣",
-      "viet": "nhà tường cháy đen"
-    },
-    {
-      "row_index": 96,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "乃可以顯白而不污",
-      "viet": "mới hiền nhiên không nho"
-    },
-    {
-      "row_index": 119,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
-      "han": "百廢具興乃重修岳陽樓",
-      "viet": "Dân vui-vẻ một lòng mẽn đức, / Việc thành-thơi, ra sức sửa-sang"
-    },
-    {
-      "row_index": 120,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.50 > 4.5 (22 Viet words / 4 Han chars).",
-      "han": "增其舊制",
-      "viet": "tăng kỳ cựu chẽ. phàm việc gì từ trước phê thì đều sửa lại cả. Bèn sửa-sang lại lầu nhạc-dương."
-    },
-    {
-      "row_index": 123,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.43 < 0.7 (3 Viet words / 7 Han chars).",
-      "han": "予觀夫巴陵勝狀，",
-      "viet": "Ta ngắm xem:"
-    },
-    {
-      "row_index": 178,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "然亦有幸而成功者",
-      "viet": "nều may mà thành-công"
-    },
-    {
-      "row_index": 205,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "慕容垂者，垂之言曰",
-      "viet": "Mộ-dung Thùy. Thùy tâu"
-    },
-    {
-      "row_index": 266,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "然用之，有輒敗人之事者",
-      "viet": "mà dùng thì làm hỏng việc"
-    },
-    {
-      "row_index": 274,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "老於用兵者也，每與括言",
-      "viet": "mỗi khi nói chuyện với Quát"
-    },
-    {
-      "row_index": 299,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
-      "han": "六十萬而往，遂以滅荆",
-      "viet": "sau diệt được kinh-sở."
-    },
-    {
-      "row_index": 305,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.64 < 0.7 (7 Viet words / 11 Han chars).",
-      "han": "聽其言若不可用，捨之，宜矣",
-      "viet": "nghc lời không dùng được mà bỏ"
-    },
-    {
-      "row_index": 312,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.55 < 0.7 (6 Viet words / 11 Han chars).",
-      "han": "此所以人主之好立功名者",
-      "viet": "cũng vì vua ham công-danh"
-    },
-    {
-      "row_index": 321,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 8.00 > 4.5 (8 Viet words / 1 Han chars).",
-      "han": "一",
-      "viet": "Dùng mưu phản gián, phao đồn khắp nơi"
-    },
-    {
-      "row_index": 335,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
-      "han": "莫大之患也。前世之禍",
-      "viet": "Còn bệnh nào to hơn nữ"
+      "han": "秋吟秋飲情中者誰？",
+      "viet": "ai chung tình với ta?"
     }
   ],
   "errors": [],
   "warnings": [
     {
-      "row_index": 47,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "若果蕩焉泯焉而悉無有",
-      "viet": "nêu quả cháy rụi hết cả"
-    },
-    {
-      "row_index": 48,
+      "row_index": 283,
       "category": "OMISSION",
       "severity": "warning",
       "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "乃吾所以尤賀者也。",
-      "viet": "lại càng nên mừng hơn"
-    },
-    {
-      "row_index": 55,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "凡人之言皆曰：",
-      "viet": "Người ta thường nói"
-    },
-    {
-      "row_index": 71,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "士之好廉名者，",
-      "viet": "Kẻ sĩ giữ tiềng"
-    },
-    {
-      "row_index": 75,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.42 < 0.7 (5 Viet words / 12 Han chars).",
-      "han": "以公道之難明而世之多嫌也。",
-      "viet": "đời nhiều kẻ ngại-ngùng"
-    },
-    {
-      "row_index": 79,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
-      "han": "見足下之文章，蓄之者，",
-      "viet": "Thây văn chương bác uần-súc"
-    },
-    {
-      "row_index": 85,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "得奮其舌，思以發明",
-      "viet": "có thể nói được rồi,"
-    },
-    {
-      "row_index": 92,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "乃今幸爲天火之所滌盪",
-      "viet": "Nay may có trận hỏa tai"
-    },
-    {
-      "row_index": 94,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "黔其廬，赭其垣",
-      "viet": "nhà tường cháy đen"
-    },
-    {
-      "row_index": 96,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "乃可以顯白而不污",
-      "viet": "mới hiền nhiên không nho"
-    },
-    {
-      "row_index": 119,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
-      "han": "百廢具興乃重修岳陽樓",
-      "viet": "Dân vui-vẻ một lòng mẽn đức, / Việc thành-thơi, ra sức sửa-sang"
-    },
-    {
-      "row_index": 120,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.50 > 4.5 (22 Viet words / 4 Han chars).",
-      "han": "增其舊制",
-      "viet": "tăng kỳ cựu chẽ. phàm việc gì từ trước phê thì đều sửa lại cả. Bèn sửa-sang lại lầu nhạc-dương."
-    },
-    {
-      "row_index": 123,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.43 < 0.7 (3 Viet words / 7 Han chars).",
-      "han": "予觀夫巴陵勝狀，",
-      "viet": "Ta ngắm xem:"
-    },
-    {
-      "row_index": 178,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "然亦有幸而成功者",
-      "viet": "nều may mà thành-công"
-    },
-    {
-      "row_index": 205,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "慕容垂者，垂之言曰",
-      "viet": "Mộ-dung Thùy. Thùy tâu"
-    },
-    {
-      "row_index": 266,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "然用之，有輒敗人之事者",
-      "viet": "mà dùng thì làm hỏng việc"
-    },
-    {
-      "row_index": 274,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "老於用兵者也，每與括言",
-      "viet": "mỗi khi nói chuyện với Quát"
-    },
-    {
-      "row_index": 299,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
-      "han": "六十萬而往，遂以滅荆",
-      "viet": "sau diệt được kinh-sở."
-    },
-    {
-      "row_index": 305,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.64 < 0.7 (7 Viet words / 11 Han chars).",
-      "han": "聽其言若不可用，捨之，宜矣",
-      "viet": "nghc lời không dùng được mà bỏ"
-    },
-    {
-      "row_index": 312,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.55 < 0.7 (6 Viet words / 11 Han chars).",
-      "han": "此所以人主之好立功名者",
-      "viet": "cũng vì vua ham công-danh"
-    },
-    {
-      "row_index": 321,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 8.00 > 4.5 (8 Viet words / 1 Han chars).",
-      "han": "一",
-      "viet": "Dùng mưu phản gián, phao đồn khắp nơi"
-    },
-    {
-      "row_index": 335,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
-      "han": "莫大之患也。前世之禍",
-      "viet": "Còn bệnh nào to hơn nữ"
+      "han": "秋吟秋飲情中者誰？",
+      "viet": "ai chung tình với ta?"
     }
   ]
 }

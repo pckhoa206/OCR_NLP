@@ -1,0 +1,467 @@
+{
+  "page_id": "0329",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 329,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0329_viet_000",
+      "bbox": [
+        [
+          209,
+          13
+        ],
+        [
+          877,
+          10
+        ],
+        [
+          878,
+          64
+        ],
+        [
+          209,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          181
+        ],
+        [
+          877,
+          178
+        ],
+        [
+          878,
+          232
+        ],
+        [
+          209,
+          235
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        10,
+        878,
+        67
+      ],
+      "text": "THU DẠ LŨ HOÀI NGÂM",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0329_viet_001",
+      "bbox": [
+        [
+          1362,
+          15
+        ],
+        [
+          1445,
+          15
+        ],
+        [
+          1445,
+          67
+        ],
+        [
+          1362,
+          67
+        ]
+      ],
+      "bbox_original": [
+        [
+          1362,
+          183
+        ],
+        [
+          1445,
+          183
+        ],
+        [
+          1445,
+          235
+        ],
+        [
+          1362,
+          235
+        ]
+      ],
+      "box_xyxy": [
+        1362,
+        15,
+        1445,
+        67
+      ],
+      "text": "323",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0329_viet_002",
+      "bbox": [
+        [
+          245,
+          311
+        ],
+        [
+          1172,
+          313
+        ],
+        [
+          1172,
+          374
+        ],
+        [
+          245,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          479
+        ],
+        [
+          1172,
+          481
+        ],
+        [
+          1172,
+          542
+        ],
+        [
+          245,
+          540
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        311,
+        1172,
+        374
+      ],
+      "text": "Cùng ai trăng gió đêm này với thu ?",
+      "confidence": 0.9032
+    },
+    {
+      "line_id": "0329_viet_003",
+      "bbox": [
+        [
+          295,
+          587
+        ],
+        [
+          1077,
+          592
+        ],
+        [
+          1077,
+          649
+        ],
+        [
+          294,
+          644
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          755
+        ],
+        [
+          1077,
+          760
+        ],
+        [
+          1077,
+          817
+        ],
+        [
+          294,
+          812
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        587,
+        1077,
+        649
+      ],
+      "text": "Thơ nhã-ái, bõn câu buông vận",
+      "confidence": 0.8847
+    },
+    {
+      "line_id": "0329_viet_004",
+      "bbox": [
+        [
+          296,
+          867
+        ],
+        [
+          1157,
+          869
+        ],
+        [
+          1157,
+          930
+        ],
+        [
+          295,
+          928
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          1035
+        ],
+        [
+          1157,
+          1037
+        ],
+        [
+          1157,
+          1098
+        ],
+        [
+          295,
+          1096
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        867,
+        1157,
+        930
+      ],
+      "text": "Rượu ly-hoài ba chén làm khuây",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0329_viet_005",
+      "bbox": [
+        [
+          399,
+          1147
+        ],
+        [
+          1171,
+          1150
+        ],
+        [
+          1171,
+          1205
+        ],
+        [
+          399,
+          1202
+        ]
+      ],
+      "bbox_original": [
+        [
+          399,
+          1315
+        ],
+        [
+          1171,
+          1318
+        ],
+        [
+          1171,
+          1373
+        ],
+        [
+          399,
+          1370
+        ]
+      ],
+      "box_xyxy": [
+        399,
+        1147,
+        1171,
+        1205
+      ],
+      "text": "Trước đèn trong chõn thư-trai",
+      "confidence": 0.9095
+    },
+    {
+      "line_id": "0329_viet_006",
+      "bbox": [
+        [
+          241,
+          1425
+        ],
+        [
+          1345,
+          1425
+        ],
+        [
+          1345,
+          1485
+        ],
+        [
+          241,
+          1485
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1593
+        ],
+        [
+          1345,
+          1593
+        ],
+        [
+          1345,
+          1653
+        ],
+        [
+          241,
+          1653
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1425,
+        1345,
+        1485
+      ],
+      "text": "Chạnh lòng đãt khách, nhớ người đời xưa.",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0329_viet_007",
+      "bbox": [
+        [
+          292,
+          1709
+        ],
+        [
+          1319,
+          1709
+        ],
+        [
+          1319,
+          1770
+        ],
+        [
+          292,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1877
+        ],
+        [
+          1319,
+          1877
+        ],
+        [
+          1319,
+          1938
+        ],
+        [
+          292,
+          1938
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1709,
+        1319,
+        1770
+      ],
+      "text": "Ngoài Hương-thủy, tiếng ngư văng-vảng",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0329_viet_008",
+      "bbox": [
+        [
+          293,
+          1988
+        ],
+        [
+          1249,
+          1988
+        ],
+        [
+          1249,
+          2048
+        ],
+        [
+          293,
+          2048
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          2156
+        ],
+        [
+          1249,
+          2156
+        ],
+        [
+          1249,
+          2216
+        ],
+        [
+          293,
+          2216
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        1988,
+        1249,
+        2048
+      ],
+      "text": "Thuyền từ đầu chèo thắng bên giang?",
+      "confidence": 0.8945
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Cùng ai trăng gió đêm này với thu ?",
+      "Thơ nhã-ái, bõn câu buông vận",
+      "Rượu ly-hoài ba chén làm khuây",
+      "Trước đèn trong chõn thư-trai",
+      "Chạnh lòng đãt khách, nhớ người đời xưa.",
+      "Ngoài Hương-thủy, tiếng ngư văng-vảng",
+      "Thuyền từ đầu chèo thắng bên giang?"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      342.5,
+      618.0,
+      898.5,
+      1176.0,
+      1455.0,
+      1739.5,
+      2018.0
+    ]
+  }
+}

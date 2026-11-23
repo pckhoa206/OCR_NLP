@@ -1,0 +1,412 @@
+{
+  "page_id": "0450",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 450,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 598,
+    "footnote_separator_y_original": 757,
+    "effective_width": 1558,
+    "effective_height": 598
+  },
+  "items": [
+    {
+      "line_id": "0450_viet_000",
+      "bbox": [
+        [
+          144,
+          3
+        ],
+        [
+          1489,
+          2
+        ],
+        [
+          1489,
+          58
+        ],
+        [
+          144,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          162
+        ],
+        [
+          1489,
+          161
+        ],
+        [
+          1489,
+          217
+        ],
+        [
+          144,
+          218
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        2,
+        1489,
+        59
+      ],
+      "text": "Dương, chứa đầy sách vở - nhưng sau: người ở Quảng Ninh tài",
+      "confidence": 0.8778
+    },
+    {
+      "line_id": "0450_viet_001",
+      "bbox": [
+        [
+          144,
+          59
+        ],
+        [
+          1487,
+          57
+        ],
+        [
+          1487,
+          117
+        ],
+        [
+          144,
+          119
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          218
+        ],
+        [
+          1487,
+          216
+        ],
+        [
+          1487,
+          276
+        ],
+        [
+          144,
+          278
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        57,
+        1487,
+        119
+      ],
+      "text": "thổi sáo, người ở Giang Hạ giỏi gảy đàn. Bởi bắc nam vốn xa",
+      "confidence": 0.8805
+    },
+    {
+      "line_id": "0450_viet_002",
+      "bbox": [
+        [
+          145,
+          121
+        ],
+        [
+          1483,
+          116
+        ],
+        [
+          1484,
+          173
+        ],
+        [
+          145,
+          178
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          280
+        ],
+        [
+          1483,
+          275
+        ],
+        [
+          1484,
+          332
+        ],
+        [
+          145,
+          337
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        116,
+        1484,
+        178
+      ],
+      "text": "cách, mà giong hát bồng trầm, vốn chẳng khác đường, nhã tục?",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0450_viet_003",
+      "bbox": [
+        [
+          143,
+          179
+        ],
+        [
+          1487,
+          175
+        ],
+        [
+          1488,
+          231
+        ],
+        [
+          143,
+          235
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          338
+        ],
+        [
+          1487,
+          334
+        ],
+        [
+          1488,
+          390
+        ],
+        [
+          143,
+          394
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        175,
+        1488,
+        235
+      ],
+      "text": "năng phân, mà bút ý thanh không?, tự nhiên cao giá. Cái gọi là",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0450_viet_004",
+      "bbox": [
+        [
+          143,
+          236
+        ],
+        [
+          1495,
+          231
+        ],
+        [
+          1495,
+          291
+        ],
+        [
+          143,
+          296
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          395
+        ],
+        [
+          1495,
+          390
+        ],
+        [
+          1495,
+          450
+        ],
+        [
+          143,
+          455
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        231,
+        1495,
+        296
+      ],
+      "text": "phép quá phiên (có chỗ ghi là quá biến), chọn xoang?, lời phú tình,",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0450_viet_005",
+      "bbox": [
+        [
+          146,
+          296
+        ],
+        [
+          1484,
+          293
+        ],
+        [
+          1485,
+          349
+        ],
+        [
+          146,
+          352
+        ]
+      ],
+      "bbox_original": [
+        [
+          146,
+          455
+        ],
+        [
+          1484,
+          452
+        ],
+        [
+          1485,
+          508
+        ],
+        [
+          146,
+          511
+        ]
+      ],
+      "box_xyxy": [
+        146,
+        293,
+        1485,
+        352
+      ],
+      "text": "dụng sự, thanh khứ cao cần phải kìm rồi mới lên, thanh nhập",
+      "confidence": 0.8741
+    },
+    {
+      "line_id": "0450_viet_006",
+      "bbox": [
+        [
+          147,
+          355
+        ],
+        [
+          1484,
+          352
+        ],
+        [
+          1485,
+          407
+        ],
+        [
+          147,
+          410
+        ]
+      ],
+      "bbox_original": [
+        [
+          147,
+          514
+        ],
+        [
+          1484,
+          511
+        ],
+        [
+          1485,
+          566
+        ],
+        [
+          147,
+          569
+        ]
+      ],
+      "box_xyxy": [
+        147,
+        352,
+        1485,
+        410
+      ],
+      "text": "dồn dập quý ở chỗ đứt rồi lại nối, chưa hắn thảy đều là một tắc",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0450_viet_007",
+      "bbox": [
+        [
+          142,
+          401
+        ],
+        [
+          1489,
+          399
+        ],
+        [
+          1489,
+          472
+        ],
+        [
+          142,
+          474
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          560
+        ],
+        [
+          1489,
+          558
+        ],
+        [
+          1489,
+          631
+        ],
+        [
+          142,
+          633
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        399,
+        1489,
+        474
+      ],
+      "text": "đến trời?, hay thảy toàn là thùng rồng kêu to-(iz431), thì sao không",
+      "confidence": 0.8675
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Dương, chứa đầy sách vở - nhưng sau: người ở Quảng Ninh tài",
+      "thổi sáo, người ở Giang Hạ giỏi gảy đàn. Bởi bắc nam vốn xa",
+      "cách, mà giong hát bồng trầm, vốn chẳng khác đường, nhã tục?",
+      "năng phân, mà bút ý thanh không?, tự nhiên cao giá. Cái gọi là",
+      "phép quá phiên (có chỗ ghi là quá biến), chọn xoang?, lời phú tình,",
+      "dụng sự, thanh khứ cao cần phải kìm rồi mới lên, thanh nhập",
+      "dồn dập quý ở chỗ đứt rồi lại nối, chưa hắn thảy đều là một tắc",
+      "đến trời?, hay thảy toàn là thùng rồng kêu to-(iz431), thì sao không"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

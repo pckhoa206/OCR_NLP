@@ -1,0 +1,987 @@
+{
+  "page_id": "0477",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 477,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0477_viet_000",
+      "bbox": [
+        [
+          258,
+          1
+        ],
+        [
+          659,
+          5
+        ],
+        [
+          658,
+          60
+        ],
+        [
+          257,
+          56
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          160
+        ],
+        [
+          659,
+          164
+        ],
+        [
+          658,
+          219
+        ],
+        [
+          257,
+          215
+        ]
+      ],
+      "box_xyxy": [
+        257,
+        1,
+        659,
+        60
+      ],
+      "text": "Phá sóng không tài,",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0477_viet_001",
+      "bbox": [
+        [
+          259,
+          69
+        ],
+        [
+          545,
+          71
+        ],
+        [
+          544,
+          125
+        ],
+        [
+          258,
+          122
+        ]
+      ],
+      "bbox_original": [
+        [
+          259,
+          228
+        ],
+        [
+          545,
+          230
+        ],
+        [
+          544,
+          284
+        ],
+        [
+          258,
+          281
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        69,
+        545,
+        125
+      ],
+      "text": "Cưỡi bè đi sứ,",
+      "confidence": 0.8716
+    },
+    {
+      "line_id": "0477_viet_002",
+      "bbox": [
+        [
+          261,
+          135
+        ],
+        [
+          716,
+          135
+        ],
+        [
+          716,
+          187
+        ],
+        [
+          261,
+          187
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          294
+        ],
+        [
+          716,
+          294
+        ],
+        [
+          716,
+          346
+        ],
+        [
+          261,
+          346
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        135,
+        716,
+        187
+      ],
+      "text": "Ướm hỏi Chi cơ thạch.",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0477_viet_003",
+      "bbox": [
+        [
+          256,
+          198
+        ],
+        [
+          661,
+          203
+        ],
+        [
+          660,
+          258
+        ],
+        [
+          255,
+          254
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          357
+        ],
+        [
+          661,
+          362
+        ],
+        [
+          660,
+          417
+        ],
+        [
+          255,
+          413
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        198,
+        661,
+        258
+      ],
+      "text": "Đầu Nam xa ngóng",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0477_viet_004",
+      "bbox": [
+        [
+          252,
+          266
+        ],
+        [
+          824,
+          262
+        ],
+        [
+          825,
+          323
+        ],
+        [
+          253,
+          327
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          425
+        ],
+        [
+          824,
+          421
+        ],
+        [
+          825,
+          482
+        ],
+        [
+          253,
+          486
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        262,
+        825,
+        327
+      ],
+      "text": "Ngày này năm tới sang bắc.",
+      "confidence": 0.904
+    },
+    {
+      "line_id": "0477_viet_005",
+      "bbox": [
+        [
+          401,
+          423
+        ],
+        [
+          1282,
+          429
+        ],
+        [
+          1282,
+          493
+        ],
+        [
+          400,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          401,
+          582
+        ],
+        [
+          1282,
+          588
+        ],
+        [
+          1282,
+          652
+        ],
+        [
+          400,
+          646
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        423,
+        1282,
+        493
+      ],
+      "text": "NGUYỄN HOÀNG TRUNG (THẾ KỈ XIX)",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0477_viet_006",
+      "bbox": [
+        [
+          251,
+          536
+        ],
+        [
+          1514,
+          538
+        ],
+        [
+          1514,
+          598
+        ],
+        [
+          251,
+          596
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          695
+        ],
+        [
+          1514,
+          697
+        ],
+        [
+          1514,
+          757
+        ],
+        [
+          251,
+          755
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        536,
+        1514,
+        598
+      ],
+      "text": "Nguyễn Hoàng Trung hiện chưa rõ hành trạng. Tác phẩm của",
+      "confidence": 0.8819
+    },
+    {
+      "line_id": "0477_viet_007",
+      "bbox": [
+        [
+          172,
+          600
+        ],
+        [
+          1509,
+          602
+        ],
+        [
+          1509,
+          656
+        ],
+        [
+          172,
+          654
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          759
+        ],
+        [
+          1509,
+          761
+        ],
+        [
+          1509,
+          815
+        ],
+        [
+          172,
+          813
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        600,
+        1509,
+        656
+      ],
+      "text": "ông hiện có nguyễn hoàng Trung thi tạp tập và Hiệu tần tập.",
+      "confidence": 0.8941
+    },
+    {
+      "line_id": "0477_viet_008",
+      "bbox": [
+        [
+          172,
+          659
+        ],
+        [
+          1513,
+          661
+        ],
+        [
+          1513,
+          715
+        ],
+        [
+          172,
+          713
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          818
+        ],
+        [
+          1513,
+          820
+        ],
+        [
+          1513,
+          874
+        ],
+        [
+          172,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        659,
+        1513,
+        715
+      ],
+      "text": "Theo ghi chép trong các sách này thì ông là con cháu một nhà",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0477_viet_009",
+      "bbox": [
+        [
+          171,
+          715
+        ],
+        [
+          1514,
+          720
+        ],
+        [
+          1514,
+          777
+        ],
+        [
+          171,
+          771
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          874
+        ],
+        [
+          1514,
+          879
+        ],
+        [
+          1514,
+          936
+        ],
+        [
+          171,
+          930
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        715,
+        1514,
+        777
+      ],
+      "text": "dòng dõi trâm anh thế phiệt ở hà nội. Trong Nguyễn Hoàng",
+      "confidence": 0.8616
+    },
+    {
+      "line_id": "0477_viet_010",
+      "bbox": [
+        [
+          171,
+          775
+        ],
+        [
+          1514,
+          777
+        ],
+        [
+          1514,
+          835
+        ],
+        [
+          171,
+          833
+        ]
+      ],
+      "bbox_original": [
+        [
+          171,
+          934
+        ],
+        [
+          1514,
+          936
+        ],
+        [
+          1514,
+          994
+        ],
+        [
+          171,
+          992
+        ]
+      ],
+      "box_xyxy": [
+        171,
+        775,
+        1514,
+        835
+      ],
+      "text": "Trung thi tạp tập (A.2274) có phần \"thị dư\" chép 22 bài từ, phân",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0477_viet_011",
+      "bbox": [
+        [
+          170,
+          835
+        ],
+        [
+          1507,
+          838
+        ],
+        [
+          1507,
+          892
+        ],
+        [
+          170,
+          889
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          994
+        ],
+        [
+          1507,
+          997
+        ],
+        [
+          1507,
+          1051
+        ],
+        [
+          170,
+          1048
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        835,
+        1507,
+        892
+      ],
+      "text": "làm ba loại: Đơn điệu tiểu lệnh, song điệu tiểu lệnh và trường điệu",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0477_viet_012",
+      "bbox": [
+        [
+          170,
+          892
+        ],
+        [
+          1513,
+          896
+        ],
+        [
+          1513,
+          953
+        ],
+        [
+          170,
+          949
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1051
+        ],
+        [
+          1513,
+          1055
+        ],
+        [
+          1513,
+          1112
+        ],
+        [
+          170,
+          1108
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        892,
+        1513,
+        953
+      ],
+      "text": "Theo tác giả, các tác phẩm này sáng tác bằng cách ?mô phỏng",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0477_viet_013",
+      "bbox": [
+        [
+          170,
+          950
+        ],
+        [
+          1514,
+          954
+        ],
+        [
+          1514,
+          1011
+        ],
+        [
+          170,
+          1007
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1109
+        ],
+        [
+          1514,
+          1113
+        ],
+        [
+          1514,
+          1170
+        ],
+        [
+          170,
+          1166
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        950,
+        1514,
+        1011
+      ],
+      "text": "theo các thể từ thời Đường ? Tống? Lời tựa sách ức đoán viết",
+      "confidence": 0.8922
+    },
+    {
+      "line_id": "0477_viet_014",
+      "bbox": [
+        [
+          170,
+          1011
+        ],
+        [
+          634,
+          1013
+        ],
+        [
+          634,
+          1068
+        ],
+        [
+          170,
+          1065
+        ]
+      ],
+      "bbox_original": [
+        [
+          170,
+          1170
+        ],
+        [
+          634,
+          1172
+        ],
+        [
+          634,
+          1227
+        ],
+        [
+          170,
+          1224
+        ]
+      ],
+      "box_xyxy": [
+        170,
+        1011,
+        634,
+        1068
+      ],
+      "text": "vào khoảng năm 1864.",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0477_viet_015",
+      "bbox": [
+        [
+          252,
+          1604
+        ],
+        [
+          477,
+          1606
+        ],
+        [
+          477,
+          1659
+        ],
+        [
+          251,
+          1656
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1763
+        ],
+        [
+          477,
+          1765
+        ],
+        [
+          477,
+          1818
+        ],
+        [
+          251,
+          1815
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1604,
+        477,
+        1659
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0477_viet_016",
+      "bbox": [
+        [
+          251,
+          1664
+        ],
+        [
+          750,
+          1664
+        ],
+        [
+          750,
+          1726
+        ],
+        [
+          251,
+          1726
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1823
+        ],
+        [
+          750,
+          1823
+        ],
+        [
+          750,
+          1885
+        ],
+        [
+          251,
+          1885
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1664,
+        750,
+        1726
+      ],
+      "text": "VỌNG XUÂN TẬP CỔ",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0477_viet_017",
+      "bbox": [
+        [
+          255,
+          1741
+        ],
+        [
+          660,
+          1741
+        ],
+        [
+          660,
+          1796
+        ],
+        [
+          255,
+          1796
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          1900
+        ],
+        [
+          660,
+          1900
+        ],
+        [
+          660,
+          1955
+        ],
+        [
+          255,
+          1955
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1741,
+        660,
+        1796
+      ],
+      "text": "(Vong Giang Nam)",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0477_viet_018",
+      "bbox": [
+        [
+          252,
+          1803
+        ],
+        [
+          541,
+          1803
+        ],
+        [
+          541,
+          1859
+        ],
+        [
+          252,
+          1859
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1962
+        ],
+        [
+          541,
+          1962
+        ],
+        [
+          541,
+          2018
+        ],
+        [
+          252,
+          2018
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1803,
+        541,
+        1859
+      ],
+      "text": "Hảo xuân tiết,",
+      "confidence": 0.894
+    },
+    {
+      "line_id": "0477_viet_019",
+      "bbox": [
+        [
+          167,
+          1979
+        ],
+        [
+          254,
+          1979
+        ],
+        [
+          254,
+          2034
+        ],
+        [
+          167,
+          2034
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          2138
+        ],
+        [
+          254,
+          2138
+        ],
+        [
+          254,
+          2193
+        ],
+        [
+          167,
+          2193
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        1979,
+        254,
+        2034
+      ],
+      "text": "470",
+      "confidence": 0.9274
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phá sóng không tài,",
+      "Cưỡi bè đi sứ,",
+      "Ướm hỏi Chi cơ thạch.",
+      "Đầu Nam xa ngóng",
+      "Ngày này năm tới sang bắc.",
+      "NGUYỄN HOÀNG TRUNG (THẾ KỈ XIX)",
+      "Nguyễn Hoàng Trung hiện chưa rõ hành trạng. Tác phẩm của",
+      "ông hiện có nguyễn hoàng Trung thi tạp tập và Hiệu tần tập.",
+      "Theo ghi chép trong các sách này thì ông là con cháu một nhà",
+      "dòng dõi trâm anh thế phiệt ở hà nội. Trong Nguyễn Hoàng",
+      "Trung thi tạp tập (A.2274) có phần \"thị dư\" chép 22 bài từ, phân",
+      "làm ba loại: Đơn điệu tiểu lệnh, song điệu tiểu lệnh và trường điệu",
+      "Theo tác giả, các tác phẩm này sáng tác bằng cách ?mô phỏng",
+      "theo các thể từ thời Đường ? Tống? Lời tựa sách ức đoán viết",
+      "vào khoảng năm 1864.",
+      "VỌNG XUÂN TẬP CỔ",
+      "(Vong Giang Nam)",
+      "Hảo xuân tiết,",
+      "470"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

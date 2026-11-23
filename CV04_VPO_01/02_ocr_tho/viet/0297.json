@@ -1,0 +1,456 @@
+{
+  "page_id": "0297",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 297,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0297_viet_000",
+      "bbox": [
+        [
+          656,
+          632
+        ],
+        [
+          1006,
+          632
+        ],
+        [
+          1006,
+          704
+        ],
+        [
+          656,
+          704
+        ]
+      ],
+      "bbox_original": [
+        [
+          656,
+          800
+        ],
+        [
+          1006,
+          800
+        ],
+        [
+          1006,
+          872
+        ],
+        [
+          656,
+          872
+        ]
+      ],
+      "box_xyxy": [
+        656,
+        632,
+        1006,
+        704
+      ],
+      "text": "ĐÀO-HOA Ô",
+      "confidence": 0.916
+    },
+    {
+      "line_id": "0297_viet_001",
+      "bbox": [
+        [
+          608,
+          809
+        ],
+        [
+          1049,
+          812
+        ],
+        [
+          1049,
+          881
+        ],
+        [
+          608,
+          878
+        ]
+      ],
+      "bbox_original": [
+        [
+          608,
+          977
+        ],
+        [
+          1049,
+          980
+        ],
+        [
+          1049,
+          1049
+        ],
+        [
+          608,
+          1046
+        ]
+      ],
+      "box_xyxy": [
+        608,
+        809,
+        1049,
+        881
+      ],
+      "text": "LŨNG ĐÀO-HOA",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0297_viet_002",
+      "bbox": [
+        [
+          963,
+          1096
+        ],
+        [
+          1318,
+          1094
+        ],
+        [
+          1318,
+          1157
+        ],
+        [
+          963,
+          1159
+        ]
+      ],
+      "bbox_original": [
+        [
+          963,
+          1264
+        ],
+        [
+          1318,
+          1262
+        ],
+        [
+          1318,
+          1325
+        ],
+        [
+          963,
+          1327
+        ]
+      ],
+      "box_xyxy": [
+        963,
+        1094,
+        1318,
+        1159
+      ],
+      "text": "Đường Bá Hồ",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0297_viet_003",
+      "bbox": [
+        [
+          250,
+          1560
+        ],
+        [
+          1445,
+          1574
+        ],
+        [
+          1444,
+          1647
+        ],
+        [
+          250,
+          1634
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1728
+        ],
+        [
+          1445,
+          1742
+        ],
+        [
+          1444,
+          1815
+        ],
+        [
+          250,
+          1802
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1560,
+        1445,
+        1647
+      ],
+      "text": "TIỂU DÂN. ? ĐƯỜNG DÂN TỰ BÁ-HỒ BIỆT-HIỆU LỤC",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0297_viet_004",
+      "bbox": [
+        [
+          206,
+          1657
+        ],
+        [
+          1442,
+          1657
+        ],
+        [
+          1442,
+          1718
+        ],
+        [
+          206,
+          1718
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1825
+        ],
+        [
+          1442,
+          1825
+        ],
+        [
+          1442,
+          1886
+        ],
+        [
+          206,
+          1886
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1657,
+        1442,
+        1718
+      ],
+      "text": "Như, sinh vào thời minh, quê ở ngô-huyện. Đồ cử",
+      "confidence": 0.8987
+    },
+    {
+      "line_id": "0297_viet_005",
+      "bbox": [
+        [
+          203,
+          1736
+        ],
+        [
+          1443,
+          1739
+        ],
+        [
+          1443,
+          1803
+        ],
+        [
+          203,
+          1800
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1904
+        ],
+        [
+          1443,
+          1907
+        ],
+        [
+          1443,
+          1971
+        ],
+        [
+          203,
+          1968
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        1736,
+        1443,
+        1803
+      ],
+      "text": "nhân, tính tình hào phóng hiếu khách, văn chương tao",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0297_viet_006",
+      "bbox": [
+        [
+          207,
+          1820
+        ],
+        [
+          1052,
+          1820
+        ],
+        [
+          1052,
+          1881
+        ],
+        [
+          207,
+          1881
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1988
+        ],
+        [
+          1052,
+          1988
+        ],
+        [
+          1052,
+          2049
+        ],
+        [
+          207,
+          2049
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1820,
+        1052,
+        1881
+      ],
+      "text": "nhã, ngọn bút hội-họa cũng tinh-công",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0297_viet_007",
+      "bbox": [
+        [
+          251,
+          1935
+        ],
+        [
+          1446,
+          1932
+        ],
+        [
+          1446,
+          1997
+        ],
+        [
+          251,
+          2000
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          2103
+        ],
+        [
+          1446,
+          2100
+        ],
+        [
+          1446,
+          2165
+        ],
+        [
+          251,
+          2168
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1932,
+        1446,
+        2000
+      ],
+      "text": "Hay say-mê sắc đẹp, lắm phen phiêu-lưu bề ái, đế",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0297_viet_008",
+      "bbox": [
+        [
+          202,
+          2015
+        ],
+        [
+          962,
+          2013
+        ],
+        [
+          962,
+          2079
+        ],
+        [
+          202,
+          2082
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          2183
+        ],
+        [
+          962,
+          2181
+        ],
+        [
+          962,
+          2247
+        ],
+        [
+          202,
+          2250
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        2013,
+        962,
+        2082
+      ],
+      "text": "lại nhiều giai-thoại trong Tình-sử",
+      "confidence": 0.9139
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_title_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [],
+    "title_block": {
+      "chu_han": "桃花塢",
+      "phien_am": "ĐÀO-HOA Ô",
+      "dich_nghia": "LŨNG ĐÀO-HOA"
+    },
+    "dich_tho_y_centers": []
+  }
+}

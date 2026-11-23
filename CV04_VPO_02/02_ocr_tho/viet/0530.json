@@ -1,0 +1,652 @@
+{
+  "page_id": "0530",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 530,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 802,
+    "footnote_separator_y_original": 961,
+    "effective_width": 1558,
+    "effective_height": 802
+  },
+  "items": [
+    {
+      "line_id": "0530_viet_000",
+      "bbox": [
+        [
+          131,
+          0
+        ],
+        [
+          1463,
+          0
+        ],
+        [
+          1463,
+          37
+        ],
+        [
+          131,
+          37
+        ]
+      ],
+      "bbox_original": [
+        [
+          131,
+          159
+        ],
+        [
+          1463,
+          159
+        ],
+        [
+          1463,
+          196
+        ],
+        [
+          131,
+          196
+        ]
+      ],
+      "box_xyxy": [
+        131,
+        0,
+        1463,
+        37
+      ],
+      "text": "cân từng thu, do từng tác, như sách Tân nhạc đô kí của thời",
+      "confidence": 0.8685
+    },
+    {
+      "line_id": "0530_viet_001",
+      "bbox": [
+        [
+          127,
+          37
+        ],
+        [
+          1470,
+          44
+        ],
+        [
+          1469,
+          104
+        ],
+        [
+          127,
+          97
+        ]
+      ],
+      "bbox_original": [
+        [
+          127,
+          196
+        ],
+        [
+          1470,
+          203
+        ],
+        [
+          1469,
+          263
+        ],
+        [
+          127,
+          256
+        ]
+      ],
+      "box_xyxy": [
+        127,
+        37,
+        1470,
+        104
+      ],
+      "text": "Tống , Tư Mã Quang thì chủ trương theo cách luận bàn của",
+      "confidence": 0.8646
+    },
+    {
+      "line_id": "0530_viet_002",
+      "bbox": [
+        [
+          125,
+          96
+        ],
+        [
+          1469,
+          99
+        ],
+        [
+          1468,
+          159
+        ],
+        [
+          125,
+          156
+        ]
+      ],
+      "bbox_original": [
+        [
+          125,
+          255
+        ],
+        [
+          1469,
+          258
+        ],
+        [
+          1468,
+          318
+        ],
+        [
+          125,
+          315
+        ]
+      ],
+      "box_xyxy": [
+        125,
+        96,
+        1469,
+        159
+      ],
+      "text": "Nguyễn Dật, Hồ Viện, Phạm Trấn thi theo thuyết của Phòng",
+      "confidence": 0.8733
+    },
+    {
+      "line_id": "0530_viet_003",
+      "bbox": [
+        [
+          129,
+          157
+        ],
+        [
+          1476,
+          157
+        ],
+        [
+          1476,
+          215
+        ],
+        [
+          129,
+          215
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          316
+        ],
+        [
+          1476,
+          316
+        ],
+        [
+          1476,
+          374
+        ],
+        [
+          129,
+          374
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        157,
+        1476,
+        215
+      ],
+      "text": "Thứ, tranh biện với nhau không dứt'  Mà nước Tế vốn đã mất rồi,",
+      "confidence": 0.8902
+    },
+    {
+      "line_id": "0530_viet_004",
+      "bbox": [
+        [
+          126,
+          214
+        ],
+        [
+          1466,
+          220
+        ],
+        [
+          1465,
+          278
+        ],
+        [
+          126,
+          273
+        ]
+      ],
+      "bbox_original": [
+        [
+          126,
+          373
+        ],
+        [
+          1466,
+          379
+        ],
+        [
+          1465,
+          437
+        ],
+        [
+          126,
+          432
+        ]
+      ],
+      "box_xyxy": [
+        126,
+        214,
+        1466,
+        278
+      ],
+      "text": "nước sở cũng chưa thể nào làm gì được vậy. Va đông đung tây,",
+      "confidence": 0.9092
+    },
+    {
+      "line_id": "0530_viet_005",
+      "bbox": [
+        [
+          127,
+          276
+        ],
+        [
+          939,
+          274
+        ],
+        [
+          939,
+          332
+        ],
+        [
+          127,
+          334
+        ]
+      ],
+      "bbox_original": [
+        [
+          127,
+          435
+        ],
+        [
+          939,
+          433
+        ],
+        [
+          939,
+          491
+        ],
+        [
+          127,
+          493
+        ]
+      ],
+      "box_xyxy": [
+        127,
+        274,
+        939,
+        334
+      ],
+      "text": "mơ mơ hồ hồ, thảy không có định kiến",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0530_viet_006",
+      "bbox": [
+        [
+          209,
+          339
+        ],
+        [
+          1469,
+          341
+        ],
+        [
+          1469,
+          402
+        ],
+        [
+          209,
+          400
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          498
+        ],
+        [
+          1469,
+          500
+        ],
+        [
+          1469,
+          561
+        ],
+        [
+          209,
+          559
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        339,
+        1469,
+        402
+      ],
+      "text": "Đến thời Nguyên ? Minh thì không có sách về âm nhạc, quan",
+      "confidence": 0.8969
+    },
+    {
+      "line_id": "0530_viet_007",
+      "bbox": [
+        [
+          127,
+          400
+        ],
+        [
+          1470,
+          398
+        ],
+        [
+          1471,
+          459
+        ],
+        [
+          127,
+          461
+        ]
+      ],
+      "bbox_original": [
+        [
+          127,
+          559
+        ],
+        [
+          1470,
+          557
+        ],
+        [
+          1471,
+          618
+        ],
+        [
+          127,
+          620
+        ]
+      ],
+      "box_xyxy": [
+        127,
+        398,
+        1471,
+        461
+      ],
+      "text": "phụ trách về lễ, các vị thầy về kinh điển không thật lưu tâm, chi",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0530_viet_008",
+      "bbox": [
+        [
+          129,
+          464
+        ],
+        [
+          1468,
+          459
+        ],
+        [
+          1469,
+          517
+        ],
+        [
+          129,
+          522
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          623
+        ],
+        [
+          1468,
+          618
+        ],
+        [
+          1469,
+          676
+        ],
+        [
+          129,
+          681
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        459,
+        1469,
+        522
+      ],
+      "text": "dựa vào đám phường chèo con hát, thuận miệng nghêu ngao, đều",
+      "confidence": 0.9082
+    },
+    {
+      "line_id": "0530_viet_009",
+      "bbox": [
+        [
+          128,
+          523
+        ],
+        [
+          1467,
+          518
+        ],
+        [
+          1468,
+          575
+        ],
+        [
+          128,
+          581
+        ]
+      ],
+      "bbox_original": [
+        [
+          128,
+          682
+        ],
+        [
+          1467,
+          677
+        ],
+        [
+          1468,
+          734
+        ],
+        [
+          128,
+          740
+        ]
+      ],
+      "box_xyxy": [
+        128,
+        518,
+        1468,
+        581
+      ],
+      "text": "là truyền miệng cả. vì kinh nhạc đã mất, khiến cho nhạc cổ",
+      "confidence": 0.9116
+    },
+    {
+      "line_id": "0530_viet_010",
+      "bbox": [
+        [
+          129,
+          581
+        ],
+        [
+          1470,
+          578
+        ],
+        [
+          1471,
+          637
+        ],
+        [
+          129,
+          640
+        ]
+      ],
+      "bbox_original": [
+        [
+          129,
+          740
+        ],
+        [
+          1470,
+          737
+        ],
+        [
+          1471,
+          796
+        ],
+        [
+          129,
+          799
+        ]
+      ],
+      "box_xyxy": [
+        129,
+        578,
+        1471,
+        640
+      ],
+      "text": "không thể phục hồi, khá tiếc thay1? Thực chẳng biết rằng thơ tự là",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0530_viet_011",
+      "bbox": [
+        [
+          130,
+          644
+        ],
+        [
+          1468,
+          636
+        ],
+        [
+          1469,
+          694
+        ],
+        [
+          130,
+          701
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          803
+        ],
+        [
+          1468,
+          795
+        ],
+        [
+          1469,
+          853
+        ],
+        [
+          130,
+          860
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        636,
+        1469,
+        701
+      ],
+      "text": "thơ, thanh tự là thanh mà thành nhạc vậy. Kinh Thư viết: ?Thơ để",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0530_viet_012",
+      "bbox": [
+        [
+          130,
+          703
+        ],
+        [
+          1468,
+          700
+        ],
+        [
+          1469,
+          754
+        ],
+        [
+          130,
+          757
+        ]
+      ],
+      "bbox_original": [
+        [
+          130,
+          862
+        ],
+        [
+          1468,
+          859
+        ],
+        [
+          1469,
+          913
+        ],
+        [
+          130,
+          916
+        ]
+      ],
+      "box_xyxy": [
+        130,
+        700,
+        1469,
+        757
+      ],
+      "text": "nói chí, ca để ngân lời? (vĩnh ngôn). Thế thì thi nhân tự nói chí",
+      "confidence": 0.914
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "cân từng thu, do từng tác, như sách Tân nhạc đô kí của thời",
+      "Tống , Tư Mã Quang thì chủ trương theo cách luận bàn của",
+      "Nguyễn Dật, Hồ Viện, Phạm Trấn thi theo thuyết của Phòng",
+      "Thứ, tranh biện với nhau không dứt'  Mà nước Tế vốn đã mất rồi,",
+      "nước sở cũng chưa thể nào làm gì được vậy. Va đông đung tây,",
+      "mơ mơ hồ hồ, thảy không có định kiến",
+      "Đến thời Nguyên ? Minh thì không có sách về âm nhạc, quan",
+      "phụ trách về lễ, các vị thầy về kinh điển không thật lưu tâm, chi",
+      "dựa vào đám phường chèo con hát, thuận miệng nghêu ngao, đều",
+      "là truyền miệng cả. vì kinh nhạc đã mất, khiến cho nhạc cổ",
+      "không thể phục hồi, khá tiếc thay1? Thực chẳng biết rằng thơ tự là",
+      "thơ, thanh tự là thanh mà thành nhạc vậy. Kinh Thư viết: ?Thơ để",
+      "nói chí, ca để ngân lời? (vĩnh ngôn). Thế thì thi nhân tự nói chí"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

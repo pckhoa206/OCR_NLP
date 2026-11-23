@@ -1,0 +1,363 @@
+{
+  "page_id": "0671",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 671,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0671_viet_000",
+      "bbox": [
+        [
+          251,
+          2208
+        ],
+        [
+          484,
+          2210
+        ],
+        [
+          484,
+          2263
+        ],
+        [
+          251,
+          2261
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          2423
+        ],
+        [
+          484,
+          2425
+        ],
+        [
+          484,
+          2478
+        ],
+        [
+          251,
+          2476
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        2208,
+        484,
+        2263
+      ],
+      "text": "PHIÊN ÂM:",
+      "confidence": 0.9292
+    },
+    {
+      "line_id": "0671_viet_001",
+      "bbox": [
+        [
+          826,
+          2257
+        ],
+        [
+          1389,
+          2263
+        ],
+        [
+          1389,
+          2324
+        ],
+        [
+          826,
+          2318
+        ]
+      ],
+      "bbox_original": [
+        [
+          826,
+          2472
+        ],
+        [
+          1389,
+          2478
+        ],
+        [
+          1389,
+          2539
+        ],
+        [
+          826,
+          2533
+        ]
+      ],
+      "box_xyxy": [
+        826,
+        2257,
+        1389,
+        2324
+      ],
+      "text": "YẾU MINH HỌC THUẬT",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0671_viet_002",
+      "bbox": [
+        [
+          379,
+          2362
+        ],
+        [
+          1962,
+          2371
+        ],
+        [
+          1962,
+          2432
+        ],
+        [
+          379,
+          2423
+        ]
+      ],
+      "bbox_original": [
+        [
+          379,
+          2577
+        ],
+        [
+          1962,
+          2586
+        ],
+        [
+          1962,
+          2647
+        ],
+        [
+          379,
+          2638
+        ]
+      ],
+      "box_xyxy": [
+        379,
+        2362,
+        1962,
+        2432
+      ],
+      "text": "Nhược bọc giả, tiên án kinh pháp nhi bậu iu hành dã. Kinh hữu ngũ vị.",
+      "confidence": 0.882
+    },
+    {
+      "line_id": "0671_viet_003",
+      "bbox": [
+        [
+          245,
+          2423
+        ],
+        [
+          1962,
+          2433
+        ],
+        [
+          1962,
+          2490
+        ],
+        [
+          245,
+          2480
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          2638
+        ],
+        [
+          1962,
+          2648
+        ],
+        [
+          1962,
+          2705
+        ],
+        [
+          245,
+          2695
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        2423,
+        1962,
+        2490
+      ],
+      "text": "pháp hữu tứ pháp. Ngũ vị giả: sơ tư lương vị, thị thập tiu, nhị gia hành vị,",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0671_viet_004",
+      "bbox": [
+        [
+          244,
+          2481
+        ],
+        [
+          1960,
+          2492
+        ],
+        [
+          1960,
+          2549
+        ],
+        [
+          244,
+          2538
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2696
+        ],
+        [
+          1960,
+          2707
+        ],
+        [
+          1960,
+          2764
+        ],
+        [
+          244,
+          2753
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        2481,
+        1960,
+        2549
+      ],
+      "text": "thi thập trú; tam kiến đạo vị, thị thập hành; tử tu đạo vị, tbị thập hồi bưởng;",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0671_viet_005",
+      "bbox": [
+        [
+          242,
+          2541
+        ],
+        [
+          1956,
+          2552
+        ],
+        [
+          1956,
+          2610
+        ],
+        [
+          242,
+          2599
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2756
+        ],
+        [
+          1956,
+          2767
+        ],
+        [
+          1956,
+          2825
+        ],
+        [
+          242,
+          2814
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        2541,
+        1956,
+        2610
+      ],
+      "text": "ngũ cứu cảnh vị, thị thập địa. Pháp hữu tử pháp: sở trạch hữu, nhị văn đạo.",
+      "confidence": 0.8777
+    },
+    {
+      "line_id": "0671_viet_006",
+      "bbox": [
+        [
+          242,
+          2599
+        ],
+        [
+          841,
+          2608
+        ],
+        [
+          840,
+          2665
+        ],
+        [
+          241,
+          2656
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2814
+        ],
+        [
+          841,
+          2823
+        ],
+        [
+          840,
+          2880
+        ],
+        [
+          241,
+          2871
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        2599,
+        841,
+        2665
+      ],
+      "text": "tam thủ đạo, từ chứng đạo.",
+      "confidence": 0.8995
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "YẾU MINH HỌC THUẬT",
+      "Nhược bọc giả, tiên án kinh pháp nhi bậu iu hành dã. Kinh hữu ngũ vị.",
+      "pháp hữu tứ pháp. Ngũ vị giả: sơ tư lương vị, thị thập tiu, nhị gia hành vị,",
+      "thi thập trú; tam kiến đạo vị, thị thập hành; tử tu đạo vị, tbị thập hồi bưởng;",
+      "ngũ cứu cảnh vị, thị thập địa. Pháp hữu tử pháp: sở trạch hữu, nhị văn đạo.",
+      "tam thủ đạo, từ chứng đạo."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

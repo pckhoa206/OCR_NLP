@@ -1,0 +1,262 @@
+{
+  "page_id": "0754",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 754,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0754_han_000",
+      "bbox": [
+        [
+          909,
+          632
+        ],
+        [
+          1314,
+          617
+        ],
+        [
+          1319,
+          758
+        ],
+        [
+          914,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          909,
+          847
+        ],
+        [
+          1314,
+          832
+        ],
+        [
+          1319,
+          973
+        ],
+        [
+          914,
+          988
+        ]
+      ],
+      "box_xyxy": [
+        909,
+        617,
+        1319,
+        773
+      ],
+      "text": "阮脉",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0754_han_001",
+      "bbox": [
+        [
+          383,
+          948
+        ],
+        [
+          1967,
+          953
+        ],
+        [
+          1967,
+          1027
+        ],
+        [
+          383,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          383,
+          1163
+        ],
+        [
+          1967,
+          1168
+        ],
+        [
+          1967,
+          1242
+        ],
+        [
+          383,
+          1237
+        ]
+      ],
+      "box_xyxy": [
+        383,
+        948,
+        1967,
+        1027
+      ],
+      "text": "Ong hiu là Thich Lièu 適 , quê quán. nǎm sinh, năm mát dèu chura",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0754_han_002",
+      "bbox": [
+        [
+          250,
+          1019
+        ],
+        [
+          1059,
+          1019
+        ],
+        [
+          1059,
+          1082
+        ],
+        [
+          250,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1234
+        ],
+        [
+          1059,
+          1234
+        ],
+        [
+          1059,
+          1297
+        ],
+        [
+          250,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1019,
+        1059,
+        1082
+      ],
+      "text": "rö, chi biét sǒng cùng thòi vói Tràn Quang Trièu 陳 光 卓月 (1286 — 1325).",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0754_han_003",
+      "bbox": [
+        [
+          250,
+          1079
+        ],
+        [
+          1059,
+          1079
+        ],
+        [
+          1059,
+          1143
+        ],
+        [
+          250,
+          1143
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1294
+        ],
+        [
+          1059,
+          1294
+        ],
+        [
+          1059,
+          1358
+        ],
+        [
+          250,
+          1358
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1079,
+        1059,
+        1143
+      ],
+      "text": "Nguyen Uc 元 億 (? 一?), Nguyēn Trung Nggn 元 足 彦 (1289 一 1368).. và",
+      "confidence": 0.8569
+    },
+    {
+      "line_id": "0754_han_004",
+      "bbox": [
+        [
+          244,
+          1389
+        ],
+        [
+          1964,
+          1395
+        ],
+        [
+          1964,
+          1463
+        ],
+        [
+          244,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1604
+        ],
+        [
+          1964,
+          1610
+        ],
+        [
+          1964,
+          1678
+        ],
+        [
+          244,
+          1672
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1389,
+        1964,
+        1463
+      ],
+      "text": "bàu ban và thièn nhiên. Ong tham gia thi xā Bich-dòng  同 do Tràn Quang",
+      "confidence": 0.9312
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "阮脉"
+    ],
+    "interlinear_triplets": []
+  }
+}

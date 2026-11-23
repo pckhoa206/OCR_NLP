@@ -1,0 +1,405 @@
+{
+  "page_id": "0360",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 360,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0360_han_000",
+      "bbox": [
+        [
+          469,
+          79
+        ],
+        [
+          1285,
+          77
+        ],
+        [
+          1285,
+          154
+        ],
+        [
+          469,
+          157
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          247
+        ],
+        [
+          1285,
+          245
+        ],
+        [
+          1285,
+          322
+        ],
+        [
+          469,
+          325
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        77,
+        1285,
+        157
+      ],
+      "text": "年来想己髮垂牙生",
+      "confidence": 0.9547
+    },
+    {
+      "line_id": "0360_han_001",
+      "bbox": [
+        [
+          473,
+          370
+        ],
+        [
+          1181,
+          370
+        ],
+        [
+          1181,
+          447
+        ],
+        [
+          473,
+          447
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          538
+        ],
+        [
+          1181,
+          538
+        ],
+        [
+          1181,
+          615
+        ],
+        [
+          473,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        370,
+        1181,
+        447
+      ],
+      "text": "可愛者其兄之子",
+      "confidence": 0.9748
+    },
+    {
+      "line_id": "0360_han_002",
+      "bbox": [
+        [
+          469,
+          661
+        ],
+        [
+          1187,
+          661
+        ],
+        [
+          1187,
+          741
+        ],
+        [
+          469,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          829
+        ],
+        [
+          1187,
+          829
+        ],
+        [
+          1187,
+          909
+        ],
+        [
+          469,
+          909
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        661,
+        1187,
+        741
+      ],
+      "text": "年十三十四中来",
+      "confidence": 0.9884
+    },
+    {
+      "line_id": "0360_han_003",
+      "bbox": [
+        [
+          470,
+          954
+        ],
+        [
+          1074,
+          954
+        ],
+        [
+          1074,
+          1031
+        ],
+        [
+          470,
+          1031
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1122
+        ],
+        [
+          1074,
+          1122
+        ],
+        [
+          1074,
+          1199
+        ],
+        [
+          470,
+          1199
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        954,
+        1074,
+        1031
+      ],
+      "text": "吾兄亦曰幸哉",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0360_han_004",
+      "bbox": [
+        [
+          470,
+          1244
+        ],
+        [
+          1287,
+          1247
+        ],
+        [
+          1287,
+          1324
+        ],
+        [
+          470,
+          1322
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1412
+        ],
+        [
+          1287,
+          1415
+        ],
+        [
+          1287,
+          1492
+        ],
+        [
+          470,
+          1490
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1244,
+        1287,
+        1324
+      ],
+      "text": "底今未覺誰開學堂",
+      "confidence": 0.9992
+    },
+    {
+      "line_id": "0360_han_005",
+      "bbox": [
+        [
+          476,
+          1534
+        ],
+        [
+          1188,
+          1538
+        ],
+        [
+          1188,
+          1615
+        ],
+        [
+          476,
+          1612
+        ]
+      ],
+      "bbox_original": [
+        [
+          476,
+          1702
+        ],
+        [
+          1188,
+          1706
+        ],
+        [
+          1188,
+          1783
+        ],
+        [
+          476,
+          1780
+        ]
+      ],
+      "box_xyxy": [
+        476,
+        1534,
+        1188,
+        1615
+      ],
+      "text": "可思者同窗二契",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0360_han_006",
+      "bbox": [
+        [
+          469,
+          1890
+        ],
+        [
+          1185,
+          1890
+        ],
+        [
+          1185,
+          1971
+        ],
+        [
+          469,
+          1971
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          2058
+        ],
+        [
+          1185,
+          2058
+        ],
+        [
+          1185,
+          2139
+        ],
+        [
+          469,
+          2139
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        1890,
+        1185,
+        1971
+      ],
+      "text": "芝蘭香細細猶聞",
+      "confidence": 0.9997
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "年来想己髮垂牙生",
+      "可愛者其兄之子",
+      "年十三十四中来",
+      "吾兄亦曰幸哉",
+      "底今未覺誰開學堂",
+      "可思者同窗二契",
+      "芝蘭香細細猶聞"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "年来想己髮垂牙生",
+        "phien_am": "Niên lai tưởng dĩ phát thùy nha sinh",
+        "dich_nghia_gloss": "- Qua năm này, có lễ răng đã mọc, tóc đã dài rồi."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "可愛者其兄之子",
+        "phien_am": "Khả ái giả kỳ huynh chi tử",
+        "dich_nghia_gloss": "- Dễ thương nhỉ [ thẳng con của ông anh"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "年十三十四中来",
+        "phien_am": "Niên thập tam thập tứ trung lai",
+        "dich_nghia_gloss": "- Tuổi chừng mười ba mười bòn"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "吾兄亦曰幸哉",
+        "phien_am": "Ngô huynh diệc viết hạnh tai",
+        "dich_nghia_gloss": "- Anh ta cũng nói rằng may thay"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "底今未覺誰開學堂",
+        "phien_am": "Đề kim vị giác thùy khai học đường",
+        "dich_nghia_gloss": "- Chẳng biết ngày nay đã có ai mở trường ?"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "可思者同窗二契",
+        "phien_am": "Khả tư giả đồng song nhị khẽ",
+        "dich_nghia_gloss": "- Đáng nhớ quá nhỉ \" Hai ông bạn (cùng đèn cùng sách), cùng ngồi học với ta trong một cửa số năm xưi"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "芝蘭香細細猶聞",
+        "phien_am": "Chi lan hương tẽ tẽ do văn",
+        "dich_nghia_gloss": "- Mùi chi-lan thoang-thoảng còn nghe"
+      }
+    ]
+  }
+}

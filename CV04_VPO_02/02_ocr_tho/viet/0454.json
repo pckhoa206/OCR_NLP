@@ -1,0 +1,172 @@
+{
+  "page_id": "0454",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 454,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 709,
+    "footnote_separator_y_original": 868,
+    "effective_width": 1558,
+    "effective_height": 709
+  },
+  "items": [
+    {
+      "line_id": "0454_viet_000",
+      "bbox": [
+        [
+          109,
+          0
+        ],
+        [
+          1454,
+          0
+        ],
+        [
+          1453,
+          65
+        ],
+        [
+          108,
+          55
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          159
+        ],
+        [
+          1454,
+          159
+        ],
+        [
+          1453,
+          224
+        ],
+        [
+          108,
+          214
+        ]
+      ],
+      "box_xyxy": [
+        108,
+        0,
+        1454,
+        65
+      ],
+      "text": "đáp lời khua chèo. Liên án theo 28 điệu' nhạc chương? thời Tống -",
+      "confidence": 0.9063
+    },
+    {
+      "line_id": "0454_viet_001",
+      "bbox": [
+        [
+          106,
+          48
+        ],
+        [
+          1453,
+          53
+        ],
+        [
+          1453,
+          118
+        ],
+        [
+          106,
+          113
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          207
+        ],
+        [
+          1453,
+          212
+        ],
+        [
+          1453,
+          277
+        ],
+        [
+          106,
+          272
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        48,
+        1453,
+        118
+      ],
+      "text": "Nguyên, điệu đều là bài hát của Ngư phủ': đọc lớn mấy ngàn lời",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0454_viet_002",
+      "bbox": [
+        [
+          110,
+          110
+        ],
+        [
+          1433,
+          114
+        ],
+        [
+          1433,
+          172
+        ],
+        [
+          110,
+          168
+        ]
+      ],
+      "bbox_original": [
+        [
+          110,
+          269
+        ],
+        [
+          1433,
+          273
+        ],
+        [
+          1433,
+          331
+        ],
+        [
+          110,
+          327
+        ]
+      ],
+      "box_xyxy": [
+        110,
+        110,
+        1433,
+        172
+      ],
+      "text": "tiểu thuyết mua vui', chẳng đoái đến mắt nhìn của người trời vậy.",
+      "confidence": 0.9168
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "đáp lời khua chèo. Liên án theo 28 điệu' nhạc chương? thời Tống -",
+      "Nguyên, điệu đều là bài hát của Ngư phủ': đọc lớn mấy ngàn lời",
+      "tiểu thuyết mua vui', chẳng đoái đến mắt nhìn của người trời vậy."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

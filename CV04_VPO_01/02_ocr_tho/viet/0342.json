@@ -1,0 +1,839 @@
+{
+  "page_id": "0342",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 342,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0342_viet_000",
+      "bbox": [
+        [
+          298,
+          168
+        ],
+        [
+          1351,
+          170
+        ],
+        [
+          1350,
+          234
+        ],
+        [
+          297,
+          232
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          336
+        ],
+        [
+          1351,
+          338
+        ],
+        [
+          1350,
+          402
+        ],
+        [
+          297,
+          400
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        168,
+        1351,
+        234
+      ],
+      "text": "Giang khúc khúc, trường hồi khúc khúc,",
+      "confidence": 0.9321
+    },
+    {
+      "line_id": "0342_viet_001",
+      "bbox": [
+        [
+          208,
+          257
+        ],
+        [
+          1160,
+          257
+        ],
+        [
+          1160,
+          321
+        ],
+        [
+          208,
+          321
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          425
+        ],
+        [
+          1160,
+          425
+        ],
+        [
+          1160,
+          489
+        ],
+        [
+          208,
+          489
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        257,
+        1160,
+        321
+      ],
+      "text": "Sông từng khúc, ruột cũng từng khúc",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0342_viet_002",
+      "bbox": [
+        [
+          298,
+          446
+        ],
+        [
+          1049,
+          452
+        ],
+        [
+          1049,
+          516
+        ],
+        [
+          297,
+          511
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          614
+        ],
+        [
+          1049,
+          620
+        ],
+        [
+          1049,
+          684
+        ],
+        [
+          297,
+          679
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        446,
+        1049,
+        516
+      ],
+      "text": "Cảnh du du, dạ phục du du",
+      "confidence": 0.9184
+    },
+    {
+      "line_id": "0342_viet_003",
+      "bbox": [
+        [
+          211,
+          534
+        ],
+        [
+          983,
+          537
+        ],
+        [
+          982,
+          598
+        ],
+        [
+          211,
+          595
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          702
+        ],
+        [
+          983,
+          705
+        ],
+        [
+          982,
+          766
+        ],
+        [
+          211,
+          763
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        534,
+        983,
+        598
+      ],
+      "text": "- Cỉnh thê mãi, đêm lại thê mãi",
+      "confidence": 0.8793
+    },
+    {
+      "line_id": "0342_viet_004",
+      "bbox": [
+        [
+          296,
+          726
+        ],
+        [
+          1029,
+          728
+        ],
+        [
+          1029,
+          793
+        ],
+        [
+          295,
+          791
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          894
+        ],
+        [
+          1029,
+          896
+        ],
+        [
+          1029,
+          961
+        ],
+        [
+          295,
+          959
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        726,
+        1029,
+        793
+      ],
+      "text": "Tiêu điều quán lữ đinh thu",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0342_viet_005",
+      "bbox": [
+        [
+          211,
+          815
+        ],
+        [
+          1153,
+          815
+        ],
+        [
+          1153,
+          879
+        ],
+        [
+          211,
+          879
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          983
+        ],
+        [
+          1153,
+          983
+        ],
+        [
+          1153,
+          1047
+        ],
+        [
+          211,
+          1047
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        815,
+        1153,
+        879
+      ],
+      "text": "Buôn bã thay vẻ thu nơi quán khách",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0342_viet_006",
+      "bbox": [
+        [
+          293,
+          1004
+        ],
+        [
+          1351,
+          1006
+        ],
+        [
+          1350,
+          1073
+        ],
+        [
+          292,
+          1071
+        ]
+      ],
+      "bbox_original": [
+        [
+          293,
+          1172
+        ],
+        [
+          1351,
+          1174
+        ],
+        [
+          1350,
+          1241
+        ],
+        [
+          292,
+          1239
+        ]
+      ],
+      "box_xyxy": [
+        292,
+        1004,
+        1351,
+        1073
+      ],
+      "text": "Lân-gia thung chữ, giang đầu trạo thanh",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0342_viet_007",
+      "bbox": [
+        [
+          205,
+          1085
+        ],
+        [
+          1445,
+          1088
+        ],
+        [
+          1445,
+          1155
+        ],
+        [
+          205,
+          1152
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1253
+        ],
+        [
+          1445,
+          1256
+        ],
+        [
+          1445,
+          1323
+        ],
+        [
+          205,
+          1320
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1085,
+        1445,
+        1155
+      ],
+      "text": "- Tiêng chày giá gạo bên nhà hàng xóm, tiếng chèu",
+      "confidence": 0.8779
+    },
+    {
+      "line_id": "0342_viet_008",
+      "bbox": [
+        [
+          203,
+          1155
+        ],
+        [
+          544,
+          1161
+        ],
+        [
+          543,
+          1223
+        ],
+        [
+          202,
+          1216
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1323
+        ],
+        [
+          544,
+          1329
+        ],
+        [
+          543,
+          1391
+        ],
+        [
+          202,
+          1384
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1155,
+        544,
+        1223
+      ],
+      "text": "khua đầu sông.",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0342_viet_009",
+      "bbox": [
+        [
+          223,
+          1352
+        ],
+        [
+          1008,
+          1360
+        ],
+        [
+          1007,
+          1421
+        ],
+        [
+          222,
+          1413
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          1520
+        ],
+        [
+          1008,
+          1528
+        ],
+        [
+          1007,
+          1589
+        ],
+        [
+          222,
+          1581
+        ]
+      ],
+      "box_xyxy": [
+        222,
+        1352,
+        1008,
+        1421
+      ],
+      "text": "Ta khách địa vu-oanh tâm sự,",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0342_viet_010",
+      "bbox": [
+        [
+          209,
+          1441
+        ],
+        [
+          1284,
+          1441
+        ],
+        [
+          1284,
+          1505
+        ],
+        [
+          209,
+          1505
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          1609
+        ],
+        [
+          1284,
+          1609
+        ],
+        [
+          1284,
+          1673
+        ],
+        [
+          209,
+          1673
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        1441,
+        1284,
+        1505
+      ],
+      "text": "- Thương mình nơi đất khách tâm sự bôi-ròi",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0342_viet_011",
+      "bbox": [
+        [
+          224,
+          1633
+        ],
+        [
+          1092,
+          1636
+        ],
+        [
+          1092,
+          1698
+        ],
+        [
+          224,
+          1695
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1801
+        ],
+        [
+          1092,
+          1804
+        ],
+        [
+          1092,
+          1866
+        ],
+        [
+          224,
+          1863
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1633,
+        1092,
+        1698
+      ],
+      "text": "Thán khuê nhân tình tự khả liên",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0342_viet_012",
+      "bbox": [
+        [
+          206,
+          1721
+        ],
+        [
+          1440,
+          1723
+        ],
+        [
+          1440,
+          1784
+        ],
+        [
+          206,
+          1782
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1889
+        ],
+        [
+          1440,
+          1891
+        ],
+        [
+          1440,
+          1952
+        ],
+        [
+          206,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1721,
+        1440,
+        1784
+      ],
+      "text": "- Nghĩ đến hạn phòng khuê, môi tình mới đáng chua",
+      "confidence": 0.9162
+    },
+    {
+      "line_id": "0342_viet_013",
+      "bbox": [
+        [
+          203,
+          1792
+        ],
+        [
+          633,
+          1792
+        ],
+        [
+          633,
+          1852
+        ],
+        [
+          203,
+          1852
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          1960
+        ],
+        [
+          633,
+          1960
+        ],
+        [
+          633,
+          2020
+        ],
+        [
+          203,
+          2020
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        1792,
+        633,
+        1852
+      ],
+      "text": "xót là dường nào ?",
+      "confidence": 0.8976
+    },
+    {
+      "line_id": "0342_viet_014",
+      "bbox": [
+        [
+          224,
+          1982
+        ],
+        [
+          964,
+          1987
+        ],
+        [
+          964,
+          2049
+        ],
+        [
+          224,
+          2044
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          2150
+        ],
+        [
+          964,
+          2155
+        ],
+        [
+          964,
+          2217
+        ],
+        [
+          224,
+          2212
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1982,
+        964,
+        2049
+      ],
+      "text": "Canh thâm đăng diệt án tiền",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0342_viet_015",
+      "bbox": [
+        [
+          205,
+          2070
+        ],
+        [
+          1114,
+          2072
+        ],
+        [
+          1113,
+          2135
+        ],
+        [
+          205,
+          2133
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          2238
+        ],
+        [
+          1114,
+          2240
+        ],
+        [
+          1113,
+          2303
+        ],
+        [
+          205,
+          2301
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        2070,
+        1114,
+        2135
+      ],
+      "text": "Canh khuya ngọn đèn lu-lờ trên án",
+      "confidence": 0.9156
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Giang khúc khúc, trường hồi khúc khúc,",
+      "Cảnh du du, dạ phục du du",
+      "Tiêu điều quán lữ đinh thu",
+      "Lân-gia thung chữ, giang đầu trạo thanh",
+      "Ta khách địa vu-oanh tâm sự,",
+      "Thán khuê nhân tình tự khả liên",
+      "Canh thâm đăng diệt án tiền"
+    ],
+    "dich_nghia_lines": [
+      "Sông từng khúc, ruột cũng từng khúc",
+      "- Cỉnh thê mãi, đêm lại thê mãi",
+      "Buôn bã thay vẻ thu nơi quán khách",
+      "- Tiêng chày giá gạo bên nhà hàng xóm, tiếng chèu khua đầu sông.",
+      "- Thương mình nơi đất khách tâm sự bôi-ròi",
+      "- Nghĩ đến hạn phòng khuê, môi tình mới đáng chua xót là dường nào ?",
+      "Canh khuya ngọn đèn lu-lờ trên án"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "江曲曲腸迥曲曲",
+        "phien_am": "Giang khúc khúc, trường hồi khúc khúc,",
+        "dich_nghia_gloss": "Sông từng khúc, ruột cũng từng khúc"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "景悠悠夜復悠悠",
+        "phien_am": "Cảnh du du, dạ phục du du",
+        "dich_nghia_gloss": "- Cỉnh thê mãi, đêm lại thê mãi"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "蕭條舘旅亭秋",
+        "phien_am": "Tiêu điều quán lữ đinh thu",
+        "dich_nghia_gloss": "Buôn bã thay vẻ thu nơi quán khách"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "隣家椿楮江頭棹聲",
+        "phien_am": "Lân-gia thung chữ, giang đầu trạo thanh",
+        "dich_nghia_gloss": "- Tiêng chày giá gạo bên nhà hàng xóm, tiếng chèu khua đầu sông."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "嗟客地紆縈心事",
+        "phien_am": "Ta khách địa vu-oanh tâm sự,",
+        "dich_nghia_gloss": "- Thương mình nơi đất khách tâm sự bôi-ròi"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "嘆閨人情緒可憐",
+        "phien_am": "Thán khuê nhân tình tự khả liên",
+        "dich_nghia_gloss": "- Nghĩ đến hạn phòng khuê, môi tình mới đáng chua xót là dường nào ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "更深燈滅案前",
+        "phien_am": "Canh thâm đăng diệt án tiền",
+        "dich_nghia_gloss": "Canh khuya ngọn đèn lu-lờ trên án"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

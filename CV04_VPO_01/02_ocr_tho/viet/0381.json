@@ -1,0 +1,618 @@
+{
+  "page_id": "0381",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 381,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0381_viet_000",
+      "bbox": [
+        [
+          363,
+          113
+        ],
+        [
+          1230,
+          120
+        ],
+        [
+          1229,
+          183
+        ],
+        [
+          363,
+          177
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          281
+        ],
+        [
+          1230,
+          288
+        ],
+        [
+          1229,
+          351
+        ],
+        [
+          363,
+          345
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        113,
+        1230,
+        183
+      ],
+      "text": "Người tuấn kiệt biết chờ thời vụ,",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0381_viet_001",
+      "bbox": [
+        [
+          361,
+          290
+        ],
+        [
+          1176,
+          295
+        ],
+        [
+          1176,
+          355
+        ],
+        [
+          361,
+          350
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          458
+        ],
+        [
+          1176,
+          463
+        ],
+        [
+          1176,
+          523
+        ],
+        [
+          361,
+          518
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        290,
+        1176,
+        355
+      ],
+      "text": "Sao long lanh đề úa vàng trăng",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0381_viet_002",
+      "bbox": [
+        [
+          470,
+          462
+        ],
+        [
+          1111,
+          467
+        ],
+        [
+          1110,
+          528
+        ],
+        [
+          470,
+          523
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          630
+        ],
+        [
+          1111,
+          635
+        ],
+        [
+          1110,
+          696
+        ],
+        [
+          470,
+          691
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        462,
+        1111,
+        528
+      ],
+      "text": "Bao giờ đạp đồ bất bằng,",
+      "confidence": 0.9059
+    },
+    {
+      "line_id": "0381_viet_003",
+      "bbox": [
+        [
+          314,
+          636
+        ],
+        [
+          1381,
+          641
+        ],
+        [
+          1381,
+          702
+        ],
+        [
+          313,
+          696
+        ]
+      ],
+      "bbox_original": [
+        [
+          314,
+          804
+        ],
+        [
+          1381,
+          809
+        ],
+        [
+          1381,
+          870
+        ],
+        [
+          313,
+          864
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        636,
+        1381,
+        702
+      ],
+      "text": "Cất đầu vỗ cánh dặm băng vẫy vùng",
+      "confidence": 0.895
+    },
+    {
+      "line_id": "0381_viet_004",
+      "bbox": [
+        [
+          359,
+          809
+        ],
+        [
+          1232,
+          813
+        ],
+        [
+          1231,
+          874
+        ],
+        [
+          359,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          977
+        ],
+        [
+          1232,
+          981
+        ],
+        [
+          1231,
+          1042
+        ],
+        [
+          359,
+          1038
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        809,
+        1232,
+        874
+      ],
+      "text": "Đêm nay hứng ngụ lòng vài khúc,",
+      "confidence": 0.9179
+    },
+    {
+      "line_id": "0381_viet_005",
+      "bbox": [
+        [
+          367,
+          982
+        ],
+        [
+          1155,
+          987
+        ],
+        [
+          1155,
+          1047
+        ],
+        [
+          367,
+          1043
+        ]
+      ],
+      "bbox_original": [
+        [
+          367,
+          1150
+        ],
+        [
+          1155,
+          1155
+        ],
+        [
+          1155,
+          1215
+        ],
+        [
+          367,
+          1211
+        ]
+      ],
+      "box_xyxy": [
+        367,
+        982,
+        1155,
+        1047
+      ],
+      "text": "Một thiên đây châu ngọc ai ơi.",
+      "confidence": 0.9043
+    },
+    {
+      "line_id": "0381_viet_006",
+      "bbox": [
+        [
+          475,
+          1157
+        ],
+        [
+          1153,
+          1161
+        ],
+        [
+          1153,
+          1222
+        ],
+        [
+          475,
+          1218
+        ]
+      ],
+      "bbox_original": [
+        [
+          475,
+          1325
+        ],
+        [
+          1153,
+          1329
+        ],
+        [
+          1153,
+          1390
+        ],
+        [
+          475,
+          1386
+        ]
+      ],
+      "box_xyxy": [
+        475,
+        1157,
+        1153,
+        1222
+      ],
+      "text": "Thi, rùa, quẻ bói dạy đời,",
+      "confidence": 0.9257
+    },
+    {
+      "line_id": "0381_viet_007",
+      "bbox": [
+        [
+          316,
+          1331
+        ],
+        [
+          1359,
+          1331
+        ],
+        [
+          1359,
+          1391
+        ],
+        [
+          316,
+          1391
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1499
+        ],
+        [
+          1359,
+          1499
+        ],
+        [
+          1359,
+          1559
+        ],
+        [
+          316,
+          1559
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        1331,
+        1359,
+        1391
+      ],
+      "text": "Tránh hung theo cát, đôi nơi rành-rành",
+      "confidence": 0.9259
+    },
+    {
+      "line_id": "0381_viet_008",
+      "bbox": [
+        [
+          853,
+          1744
+        ],
+        [
+          1396,
+          1746
+        ],
+        [
+          1396,
+          1804
+        ],
+        [
+          853,
+          1801
+        ]
+      ],
+      "bbox_original": [
+        [
+          853,
+          1912
+        ],
+        [
+          1396,
+          1914
+        ],
+        [
+          1396,
+          1972
+        ],
+        [
+          853,
+          1969
+        ]
+      ],
+      "box_xyxy": [
+        853,
+        1744,
+        1396,
+        1804
+      ],
+      "text": "Bản dịch của Học-Canh",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0381_viet_009",
+      "bbox": [
+        [
+          255,
+          1938
+        ],
+        [
+          1442,
+          1939
+        ],
+        [
+          1442,
+          1993
+        ],
+        [
+          255,
+          1992
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          2106
+        ],
+        [
+          1442,
+          2107
+        ],
+        [
+          1442,
+          2161
+        ],
+        [
+          255,
+          2160
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        1938,
+        1442,
+        1993
+      ],
+      "text": "(1) Cốc-thành: núi ở đông-bắc tỉnh sơn-đông, xưa hoàng",
+      "confidence": 0.899
+    },
+    {
+      "line_id": "0381_viet_010",
+      "bbox": [
+        [
+          210,
+          2007
+        ],
+        [
+          936,
+          2007
+        ],
+        [
+          936,
+          2058
+        ],
+        [
+          210,
+          2058
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          2175
+        ],
+        [
+          936,
+          2175
+        ],
+        [
+          936,
+          2226
+        ],
+        [
+          210,
+          2226
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        2007,
+        936,
+        2058
+      ],
+      "text": "thạch-công hẹn trương lương ở đó.",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0381_viet_011",
+      "bbox": [
+        [
+          253,
+          2081
+        ],
+        [
+          1129,
+          2083
+        ],
+        [
+          1129,
+          2133
+        ],
+        [
+          253,
+          2131
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          2249
+        ],
+        [
+          1129,
+          2251
+        ],
+        [
+          1129,
+          2301
+        ],
+        [
+          253,
+          2299
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        2081,
+        1129,
+        2133
+      ],
+      "text": "(2) Thi, qui: cỏ thi, mai rùa, dùng đề bói",
+      "confidence": 0.9249
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Người tuấn kiệt biết chờ thời vụ,",
+      "Sao long lanh đề úa vàng trăng",
+      "Bao giờ đạp đồ bất bằng,",
+      "Cất đầu vỗ cánh dặm băng vẫy vùng",
+      "Đêm nay hứng ngụ lòng vài khúc,",
+      "Một thiên đây châu ngọc ai ơi.",
+      "Thi, rùa, quẻ bói dạy đời,",
+      "Tránh hung theo cát, đôi nơi rành-rành",
+      "Bản dịch của Học-Canh",
+      "(1) Cốc-thành: núi ở đông-bắc tỉnh sơn-đông, xưa hoàng",
+      "thạch-công hẹn trương lương ở đó.",
+      "(2) Thi, qui: cỏ thi, mai rùa, dùng đề bói"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      148.0,
+      322.5,
+      495.0,
+      669.0,
+      841.5,
+      1014.5,
+      1189.5,
+      1361.0,
+      1774.0,
+      1965.5,
+      2032.5,
+      2107.0
+    ]
+  }
+}

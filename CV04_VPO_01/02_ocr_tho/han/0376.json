@@ -1,0 +1,675 @@
+{
+  "page_id": "0376",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 376,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0376_han_000",
+      "bbox": [
+        [
+          456,
+          76
+        ],
+        [
+          1192,
+          79
+        ],
+        [
+          1192,
+          154
+        ],
+        [
+          456,
+          150
+        ]
+      ],
+      "bbox_original": [
+        [
+          456,
+          244
+        ],
+        [
+          1192,
+          247
+        ],
+        [
+          1192,
+          322
+        ],
+        [
+          456,
+          318
+        ]
+      ],
+      "box_xyxy": [
+        456,
+        76,
+        1192,
+        154
+      ],
+      "text": "黯黯月而沉沉夜",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0376_han_001",
+      "bbox": [
+        [
+          457,
+          255
+        ],
+        [
+          1186,
+          255
+        ],
+        [
+          1186,
+          329
+        ],
+        [
+          457,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          457,
+          423
+        ],
+        [
+          1186,
+          423
+        ],
+        [
+          1186,
+          497
+        ],
+        [
+          457,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        457,
+        255,
+        1186,
+        329
+      ],
+      "text": "指秋江欲下孤舟",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0376_han_002",
+      "bbox": [
+        [
+          511,
+          432
+        ],
+        [
+          1142,
+          432
+        ],
+        [
+          1142,
+          504
+        ],
+        [
+          511,
+          504
+        ]
+      ],
+      "bbox_original": [
+        [
+          511,
+          600
+        ],
+        [
+          1142,
+          600
+        ],
+        [
+          1142,
+          672
+        ],
+        [
+          511,
+          672
+        ]
+      ],
+      "box_xyxy": [
+        511,
+        432,
+        1142,
+        504
+      ],
+      "text": "江楓漁火對愁",
+      "confidence": 0.9933
+    },
+    {
+      "line_id": "0376_han_003",
+      "bbox": [
+        [
+          409,
+          606
+        ],
+        [
+          1247,
+          606
+        ],
+        [
+          1247,
+          684
+        ],
+        [
+          409,
+          684
+        ]
+      ],
+      "bbox_original": [
+        [
+          409,
+          774
+        ],
+        [
+          1247,
+          774
+        ],
+        [
+          1247,
+          852
+        ],
+        [
+          409,
+          852
+        ]
+      ],
+      "box_xyxy": [
+        409,
+        606,
+        1247,
+        684
+      ],
+      "text": "風摇桂棹月浮金樽",
+      "confidence": 0.9702
+    },
+    {
+      "line_id": "0376_han_004",
+      "bbox": [
+        [
+          455,
+          780
+        ],
+        [
+          1199,
+          782
+        ],
+        [
+          1199,
+          860
+        ],
+        [
+          455,
+          858
+        ]
+      ],
+      "bbox_original": [
+        [
+          455,
+          948
+        ],
+        [
+          1199,
+          950
+        ],
+        [
+          1199,
+          1028
+        ],
+        [
+          455,
+          1026
+        ]
+      ],
+      "box_xyxy": [
+        455,
+        780,
+        1199,
+        860
+      ],
+      "text": "人勸我侯門一見",
+      "confidence": 0.9947
+    },
+    {
+      "line_id": "0376_han_005",
+      "bbox": [
+        [
+          458,
+          953
+        ],
+        [
+          1195,
+          960
+        ],
+        [
+          1194,
+          1040
+        ],
+        [
+          457,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          458,
+          1121
+        ],
+        [
+          1195,
+          1128
+        ],
+        [
+          1194,
+          1208
+        ],
+        [
+          457,
+          1202
+        ]
+      ],
+      "box_xyxy": [
+        457,
+        953,
+        1195,
+        1040
+      ],
+      "text": "即青年可便封侯",
+      "confidence": 0.9897
+    },
+    {
+      "line_id": "0376_han_006",
+      "bbox": [
+        [
+          516,
+          1138
+        ],
+        [
+          1141,
+          1135
+        ],
+        [
+          1141,
+          1210
+        ],
+        [
+          516,
+          1213
+        ]
+      ],
+      "bbox_original": [
+        [
+          516,
+          1306
+        ],
+        [
+          1141,
+          1303
+        ],
+        [
+          1141,
+          1378
+        ],
+        [
+          516,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        516,
+        1135,
+        1141,
+        1213
+      ],
+      "text": "我知其曲如鈎",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0376_han_007",
+      "bbox": [
+        [
+          408,
+          1306
+        ],
+        [
+          1249,
+          1304
+        ],
+        [
+          1249,
+          1382
+        ],
+        [
+          409,
+          1384
+        ]
+      ],
+      "bbox_original": [
+        [
+          408,
+          1474
+        ],
+        [
+          1249,
+          1472
+        ],
+        [
+          1249,
+          1550
+        ],
+        [
+          409,
+          1552
+        ]
+      ],
+      "box_xyxy": [
+        408,
+        1304,
+        1249,
+        1384
+      ],
+      "text": "鞍車駟馬我求何為",
+      "confidence": 0.9767
+    },
+    {
+      "line_id": "0376_han_008",
+      "bbox": [
+        [
+          457,
+          1477
+        ],
+        [
+          1196,
+          1480
+        ],
+        [
+          1196,
+          1558
+        ],
+        [
+          457,
+          1554
+        ]
+      ],
+      "bbox_original": [
+        [
+          457,
+          1645
+        ],
+        [
+          1196,
+          1648
+        ],
+        [
+          1196,
+          1726
+        ],
+        [
+          457,
+          1722
+        ]
+      ],
+      "box_xyxy": [
+        457,
+        1477,
+        1196,
+        1558
+      ],
+      "text": "人勤我高飛遠走",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0376_han_009",
+      "bbox": [
+        [
+          459,
+          1652
+        ],
+        [
+          1199,
+          1650
+        ],
+        [
+          1199,
+          1725
+        ],
+        [
+          459,
+          1727
+        ]
+      ],
+      "bbox_original": [
+        [
+          459,
+          1820
+        ],
+        [
+          1199,
+          1818
+        ],
+        [
+          1199,
+          1893
+        ],
+        [
+          459,
+          1895
+        ]
+      ],
+      "box_xyxy": [
+        459,
+        1650,
+        1199,
+        1727
+      ],
+      "text": "恐西塵欲垢人焉",
+      "confidence": 0.9836
+    },
+    {
+      "line_id": "0376_han_010",
+      "bbox": [
+        [
+          518,
+          1824
+        ],
+        [
+          1140,
+          1821
+        ],
+        [
+          1140,
+          1897
+        ],
+        [
+          518,
+          1899
+        ]
+      ],
+      "bbox_original": [
+        [
+          518,
+          1992
+        ],
+        [
+          1140,
+          1989
+        ],
+        [
+          1140,
+          2065
+        ],
+        [
+          518,
+          2067
+        ]
+      ],
+      "box_xyxy": [
+        518,
+        1821,
+        1140,
+        1899
+      ],
+      "text": "我知我直如弦",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0376_han_011",
+      "bbox": [
+        [
+          410,
+          1988
+        ],
+        [
+          1245,
+          1992
+        ],
+        [
+          1244,
+          2070
+        ],
+        [
+          409,
+          2065
+        ]
+      ],
+      "bbox_original": [
+        [
+          410,
+          2156
+        ],
+        [
+          1245,
+          2160
+        ],
+        [
+          1244,
+          2238
+        ],
+        [
+          409,
+          2233
+        ]
+      ],
+      "box_xyxy": [
+        409,
+        1988,
+        1245,
+        2070
+      ],
+      "text": "為輪為磾隨天賦形",
+      "confidence": 0.9311
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "黯黯月而沉沉夜",
+      "指秋江欲下孤舟",
+      "江楓漁火對愁",
+      "風摇桂棹月浮金樽",
+      "人勸我侯門一見",
+      "即青年可便封侯",
+      "我知其曲如鈎",
+      "鞍車駟馬我求何為",
+      "人勤我高飛遠走",
+      "恐西塵欲垢人焉",
+      "我知我直如弦",
+      "為輪為磾隨天賦形"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "黯黯月而沉沉夜",
+        "phien_am": "Ám ám nguyệt nhi trăm trăm dạ.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "指秋江欲下孤舟",
+        "phien_am": "Chỉ thu giang dục hạ cô châu.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "江楓漁火對愁",
+        "phien_am": "Ciang phong ngư hỏa đõi sâu.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "風摇桂棹月浮金樽",
+        "phien_am": "Phong giao quê trao nguyệt phù kim tôn",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "人勸我侯門一見",
+        "phien_am": "Nhân khuyễn ngã hầu môn nhất kiên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "即青年可便封侯",
+        "phien_am": "Tức thanh niên khả tiện phong hầu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "我知其曲如鈎",
+        "phien_am": "Ngã tri kỳ khúc như câu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "鞍車駟馬我求何為",
+        "phien_am": "Yên xa tứ mã ngã cầu hà vi.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "人勤我高飛遠走",
+        "phien_am": "Nhân khuyên ngã cao phi viên tầu",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "恐西塵欲垢人焉",
+        "phien_am": "Khủng Tây-trần dục cầu nhân yên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "我知我直如弦",
+        "phien_am": "Ngã tri ngã trực như huyền,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "為輪為磾隨天賦形",
+        "phien_am": "Vi luân vi đạn tùy thiên phú hình",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

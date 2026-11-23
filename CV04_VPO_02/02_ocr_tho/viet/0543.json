@@ -1,0 +1,939 @@
+{
+  "page_id": "0543",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 543,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1746,
+    "footnote_separator_y_original": 1905,
+    "effective_width": 1558,
+    "effective_height": 1746
+  },
+  "items": [
+    {
+      "line_id": "0543_viet_000",
+      "bbox": [
+        [
+          85,
+          0
+        ],
+        [
+          1418,
+          0
+        ],
+        [
+          1418,
+          22
+        ],
+        [
+          85,
+          23
+        ]
+      ],
+      "bbox_original": [
+        [
+          85,
+          159
+        ],
+        [
+          1418,
+          159
+        ],
+        [
+          1418,
+          181
+        ],
+        [
+          85,
+          182
+        ]
+      ],
+      "box_xyxy": [
+        85,
+        0,
+        1418,
+        23
+      ],
+      "text": "YG TU. LA VT MIVING W Y INVIII, VIÊU GIVI YV IA VAY. YAY LINH WI IGI",
+      "confidence": 0.7811
+    },
+    {
+      "line_id": "0543_viet_001",
+      "bbox": [
+        [
+          79,
+          29
+        ],
+        [
+          1420,
+          28
+        ],
+        [
+          1420,
+          81
+        ],
+        [
+          80,
+          82
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          188
+        ],
+        [
+          1420,
+          187
+        ],
+        [
+          1420,
+          240
+        ],
+        [
+          80,
+          241
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        28,
+        1420,
+        82
+      ],
+      "text": "được khen ngợi quá như thế, ý chừng là vì Tử Dụ thương nhau, sợ",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0543_viet_002",
+      "bbox": [
+        [
+          79,
+          87
+        ],
+        [
+          1421,
+          85
+        ],
+        [
+          1421,
+          139
+        ],
+        [
+          80,
+          141
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          246
+        ],
+        [
+          1421,
+          244
+        ],
+        [
+          1421,
+          298
+        ],
+        [
+          80,
+          300
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        85,
+        1421,
+        141
+      ],
+      "text": "là tôi không có danh gì với thể từ, chẳng đành lòng nên thêm chút",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0543_viet_003",
+      "bbox": [
+        [
+          77,
+          143
+        ],
+        [
+          1420,
+          138
+        ],
+        [
+          1420,
+          198
+        ],
+        [
+          78,
+          203
+        ]
+      ],
+      "bbox_original": [
+        [
+          77,
+          302
+        ],
+        [
+          1420,
+          297
+        ],
+        [
+          1420,
+          357
+        ],
+        [
+          78,
+          362
+        ]
+      ],
+      "box_xyxy": [
+        77,
+        138,
+        1420,
+        203
+      ],
+      "text": "phẩm bình - Vi lẽ đó, các học trò không xét kĩ, cho là tôi giỏi về",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0543_viet_004",
+      "bbox": [
+        [
+          80,
+          202
+        ],
+        [
+          1420,
+          202
+        ],
+        [
+          1420,
+          256
+        ],
+        [
+          80,
+          256
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          361
+        ],
+        [
+          1420,
+          361
+        ],
+        [
+          1420,
+          415
+        ],
+        [
+          80,
+          415
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        202,
+        1420,
+        256
+      ],
+      "text": "từ mà dốc sức vào đó, ấy là làm cho lỗi của tôi thêm nặng vậy. Vì",
+      "confidence": 0.9046
+    },
+    {
+      "line_id": "0543_viet_005",
+      "bbox": [
+        [
+          79,
+          258
+        ],
+        [
+          1421,
+          260
+        ],
+        [
+          1421,
+          319
+        ],
+        [
+          78,
+          317
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          417
+        ],
+        [
+          1421,
+          419
+        ],
+        [
+          1421,
+          478
+        ],
+        [
+          78,
+          476
+        ]
+      ],
+      "box_xyxy": [
+        78,
+        258,
+        1421,
+        319
+      ],
+      "text": "thế tôi không thể không thuật rõ ý của mình để gửi đến ông cùng",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0543_viet_006",
+      "bbox": [
+        [
+          79,
+          320
+        ],
+        [
+          231,
+          320
+        ],
+        [
+          231,
+          378
+        ],
+        [
+          79,
+          378
+        ]
+      ],
+      "bbox_original": [
+        [
+          79,
+          479
+        ],
+        [
+          231,
+          479
+        ],
+        [
+          231,
+          537
+        ],
+        [
+          79,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        79,
+        320,
+        231,
+        378
+      ],
+      "text": "Tử Dụ.",
+      "confidence": 0.926
+    },
+    {
+      "line_id": "0543_viet_007",
+      "bbox": [
+        [
+          163,
+          948
+        ],
+        [
+          386,
+          948
+        ],
+        [
+          386,
+          1000
+        ],
+        [
+          163,
+          1000
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          1107
+        ],
+        [
+          386,
+          1107
+        ],
+        [
+          386,
+          1159
+        ],
+        [
+          163,
+          1159
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        948,
+        386,
+        1000
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0543_viet_008",
+      "bbox": [
+        [
+          165,
+          1009
+        ],
+        [
+          519,
+          1009
+        ],
+        [
+          519,
+          1066
+        ],
+        [
+          165,
+          1066
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1168
+        ],
+        [
+          519,
+          1168
+        ],
+        [
+          519,
+          1225
+        ],
+        [
+          165,
+          1225
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        1009,
+        519,
+        1066
+      ],
+      "text": "TỪ TUYỂN BẠT",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0543_viet_009",
+      "bbox": [
+        [
+          162,
+          1079
+        ],
+        [
+          1422,
+          1076
+        ],
+        [
+          1422,
+          1133
+        ],
+        [
+          162,
+          1136
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1238
+        ],
+        [
+          1422,
+          1235
+        ],
+        [
+          1422,
+          1292
+        ],
+        [
+          162,
+          1295
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1076,
+        1422,
+        1136
+      ],
+      "text": "Phù, Linh Quân, Bình Tử, Cứu ca, Tứ sâu, kì xưng mĩ nhân",
+      "confidence": 0.8623
+    },
+    {
+      "line_id": "0543_viet_010",
+      "bbox": [
+        [
+          83,
+          1139
+        ],
+        [
+          1422,
+          1139
+        ],
+        [
+          1422,
+          1192
+        ],
+        [
+          83,
+          1192
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          1298
+        ],
+        [
+          1422,
+          1298
+        ],
+        [
+          1422,
+          1351
+        ],
+        [
+          83,
+          1351
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        1139,
+        1422,
+        1192
+      ],
+      "text": "dật nữ, bất nhất nhi túc, nhi nhân giai lượng chi, cái kì từ khí hữu",
+      "confidence": 0.9348
+    },
+    {
+      "line_id": "0543_viet_011",
+      "bbox": [
+        [
+          82,
+          1194
+        ],
+        [
+          1421,
+          1196
+        ],
+        [
+          1421,
+          1256
+        ],
+        [
+          81,
+          1254
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1353
+        ],
+        [
+          1421,
+          1355
+        ],
+        [
+          1421,
+          1415
+        ],
+        [
+          81,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1194,
+        1421,
+        1256
+      ],
+      "text": "cổ nhiên giả. Độc Tổng Chu tử Hỉ dĩ Trịnh Vệ thực dâm bôn giả,",
+      "confidence": 0.8821
+    },
+    {
+      "line_id": "0543_viet_012",
+      "bbox": [
+        [
+          80,
+          1257
+        ],
+        [
+          1423,
+          1253
+        ],
+        [
+          1423,
+          1309
+        ],
+        [
+          81,
+          1314
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1416
+        ],
+        [
+          1423,
+          1412
+        ],
+        [
+          1423,
+          1468
+        ],
+        [
+          81,
+          1473
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1253,
+        1423,
+        1314
+      ],
+      "text": "tự tác. Nhi Thi tam bách thiên, giai thánh nhân nhã cổ, tức Trịnh",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0543_viet_013",
+      "bbox": [
+        [
+          81,
+          1318
+        ],
+        [
+          1421,
+          1314
+        ],
+        [
+          1421,
+          1371
+        ],
+        [
+          82,
+          1375
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1477
+        ],
+        [
+          1421,
+          1473
+        ],
+        [
+          1421,
+          1530
+        ],
+        [
+          82,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1314,
+        1421,
+        1375
+      ],
+      "text": "chư thi giai khanh đại phu phú vịnh chuyên đối, xác xác, tạc tạc.",
+      "confidence": 0.9188
+    },
+    {
+      "line_id": "0543_viet_014",
+      "bbox": [
+        [
+          82,
+          1377
+        ],
+        [
+          1148,
+          1376
+        ],
+        [
+          1148,
+          1430
+        ],
+        [
+          83,
+          1431
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1536
+        ],
+        [
+          1148,
+          1535
+        ],
+        [
+          1148,
+          1589
+        ],
+        [
+          83,
+          1590
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1376,
+        1148,
+        1431
+      ],
+      "text": "Trí chư đại nho, đa bất tuân thủ thử thuyết, phi vĩ dã.",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0543_viet_015",
+      "bbox": [
+        [
+          164,
+          1442
+        ],
+        [
+          1422,
+          1436
+        ],
+        [
+          1422,
+          1497
+        ],
+        [
+          164,
+          1503
+        ]
+      ],
+      "bbox_original": [
+        [
+          164,
+          1601
+        ],
+        [
+          1422,
+          1595
+        ],
+        [
+          1422,
+          1656
+        ],
+        [
+          164,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        164,
+        1436,
+        1422,
+        1503
+      ],
+      "text": "Thi thành chi hữu từ, diệc nghi nhiên. Nãi phù bạc chi sĩ, mỗi",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0543_viet_016",
+      "bbox": [
+        [
+          80,
+          1506
+        ],
+        [
+          1420,
+          1503
+        ],
+        [
+          1420,
+          1556
+        ],
+        [
+          81,
+          1560
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1665
+        ],
+        [
+          1420,
+          1662
+        ],
+        [
+          1420,
+          1715
+        ],
+        [
+          81,
+          1719
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1503,
+        1420,
+        1560
+      ],
+      "text": "tứ tư ư tửu lâu kĩ quán chi dư, dĩ hoài quân niệm hữu mậu thác,",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0543_viet_017",
+      "bbox": [
+        [
+          80,
+          1559
+        ],
+        [
+          1425,
+          1556
+        ],
+        [
+          1425,
+          1617
+        ],
+        [
+          81,
+          1619
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1718
+        ],
+        [
+          1425,
+          1715
+        ],
+        [
+          1425,
+          1776
+        ],
+        [
+          81,
+          1778
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1556,
+        1425,
+        1619
+      ],
+      "text": "tắc văn quá chi tội cánh phù ư Trịnh thanh hĩ. Cổ thần ư từ gia bất",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0543_viet_018",
+      "bbox": [
+        [
+          83,
+          1620
+        ],
+        [
+          677,
+          1620
+        ],
+        [
+          677,
+          1677
+        ],
+        [
+          83,
+          1677
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          1779
+        ],
+        [
+          677,
+          1779
+        ],
+        [
+          677,
+          1836
+        ],
+        [
+          83,
+          1836
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        1620,
+        677,
+        1677
+      ],
+      "text": "tất tận phế, diệc bất cảm lạm",
+      "confidence": 0.9359
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "YG TU. LA VT MIVING W Y INVIII, VIÊU GIVI YV IA VAY. YAY LINH WI IGI",
+      "được khen ngợi quá như thế, ý chừng là vì Tử Dụ thương nhau, sợ",
+      "là tôi không có danh gì với thể từ, chẳng đành lòng nên thêm chút",
+      "phẩm bình - Vi lẽ đó, các học trò không xét kĩ, cho là tôi giỏi về",
+      "từ mà dốc sức vào đó, ấy là làm cho lỗi của tôi thêm nặng vậy. Vì",
+      "thế tôi không thể không thuật rõ ý của mình để gửi đến ông cùng",
+      "Tử Dụ.",
+      "TỪ TUYỂN BẠT",
+      "Phù, Linh Quân, Bình Tử, Cứu ca, Tứ sâu, kì xưng mĩ nhân",
+      "dật nữ, bất nhất nhi túc, nhi nhân giai lượng chi, cái kì từ khí hữu",
+      "cổ nhiên giả. Độc Tổng Chu tử Hỉ dĩ Trịnh Vệ thực dâm bôn giả,",
+      "tự tác. Nhi Thi tam bách thiên, giai thánh nhân nhã cổ, tức Trịnh",
+      "chư thi giai khanh đại phu phú vịnh chuyên đối, xác xác, tạc tạc.",
+      "Trí chư đại nho, đa bất tuân thủ thử thuyết, phi vĩ dã.",
+      "Thi thành chi hữu từ, diệc nghi nhiên. Nãi phù bạc chi sĩ, mỗi",
+      "tứ tư ư tửu lâu kĩ quán chi dư, dĩ hoài quân niệm hữu mậu thác,",
+      "tắc văn quá chi tội cánh phù ư Trịnh thanh hĩ. Cổ thần ư từ gia bất",
+      "tất tận phế, diệc bất cảm lạm"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

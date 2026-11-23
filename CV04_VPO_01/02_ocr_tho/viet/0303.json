@@ -1,0 +1,174 @@
+{
+  "page_id": "0303",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 303,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0303_viet_000",
+      "bbox": [
+        [
+          485,
+          822
+        ],
+        [
+          811,
+          824
+        ],
+        [
+          811,
+          890
+        ],
+        [
+          485,
+          888
+        ]
+      ],
+      "bbox_original": [
+        [
+          485,
+          990
+        ],
+        [
+          811,
+          992
+        ],
+        [
+          811,
+          1058
+        ],
+        [
+          485,
+          1056
+        ]
+      ],
+      "box_xyxy": [
+        485,
+        822,
+        811,
+        890
+      ],
+      "text": "TƯƠNG TƯ",
+      "confidence": 0.9287
+    },
+    {
+      "line_id": "0303_viet_001",
+      "bbox": [
+        [
+          482,
+          1000
+        ],
+        [
+          813,
+          1004
+        ],
+        [
+          813,
+          1066
+        ],
+        [
+          482,
+          1063
+        ]
+      ],
+      "bbox_original": [
+        [
+          482,
+          1168
+        ],
+        [
+          813,
+          1172
+        ],
+        [
+          813,
+          1234
+        ],
+        [
+          482,
+          1231
+        ]
+      ],
+      "box_xyxy": [
+        482,
+        1000,
+        813,
+        1066
+      ],
+      "text": "NHỚ NHAU",
+      "confidence": 0.8698
+    },
+    {
+      "line_id": "0303_viet_002",
+      "bbox": [
+        [
+          962,
+          1281
+        ],
+        [
+          1163,
+          1281
+        ],
+        [
+          1163,
+          1342
+        ],
+        [
+          962,
+          1342
+        ]
+      ],
+      "bbox_original": [
+        [
+          962,
+          1449
+        ],
+        [
+          1163,
+          1449
+        ],
+        [
+          1163,
+          1510
+        ],
+        [
+          962,
+          1510
+        ]
+      ],
+      "box_xyxy": [
+        962,
+        1281,
+        1163,
+        1342
+      ],
+      "text": "Tình-sử",
+      "confidence": 0.9334
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_title_page",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [],
+    "title_block": {
+      "chu_han": "相思",
+      "phien_am": "TƯƠNG TƯ",
+      "dich_nghia": "NHỚ NHAU"
+    },
+    "dich_tho_y_centers": []
+  }
+}

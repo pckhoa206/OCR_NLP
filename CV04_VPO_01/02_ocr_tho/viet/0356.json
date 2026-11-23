@@ -1,0 +1,792 @@
+{
+  "page_id": "0356",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 356,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0356_viet_000",
+      "bbox": [
+        [
+          316,
+          176
+        ],
+        [
+          1114,
+          180
+        ],
+        [
+          1113,
+          242
+        ],
+        [
+          315,
+          238
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          344
+        ],
+        [
+          1114,
+          348
+        ],
+        [
+          1113,
+          410
+        ],
+        [
+          315,
+          406
+        ]
+      ],
+      "box_xyxy": [
+        315,
+        176,
+        1114,
+        242
+      ],
+      "text": "Yên ba trung sử ngã tâm sầu",
+      "confidence": 0.8836
+    },
+    {
+      "line_id": "0356_viet_001",
+      "bbox": [
+        [
+          210,
+          265
+        ],
+        [
+          1422,
+          270
+        ],
+        [
+          1422,
+          334
+        ],
+        [
+          210,
+          329
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          433
+        ],
+        [
+          1422,
+          438
+        ],
+        [
+          1422,
+          502
+        ],
+        [
+          210,
+          497
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        265,
+        1422,
+        334
+      ],
+      "text": "- Trên sông khói sóng khiên cho lòng ta thêm buồn",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0356_viet_002",
+      "bbox": [
+        [
+          299,
+          471
+        ],
+        [
+          1093,
+          471
+        ],
+        [
+          1093,
+          535
+        ],
+        [
+          299,
+          535
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          639
+        ],
+        [
+          1093,
+          639
+        ],
+        [
+          1093,
+          703
+        ],
+        [
+          299,
+          703
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        471,
+        1093,
+        535
+      ],
+      "text": "Ngang tàng khởi thiếu niên du",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0356_viet_003",
+      "bbox": [
+        [
+          210,
+          556
+        ],
+        [
+          1353,
+          558
+        ],
+        [
+          1352,
+          625
+        ],
+        [
+          210,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          724
+        ],
+        [
+          1353,
+          726
+        ],
+        [
+          1352,
+          793
+        ],
+        [
+          210,
+          791
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        556,
+        1353,
+        625
+      ],
+      "text": "- Há phải còn chơi ngang-tàng như lúc còn trẻ ?",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0356_viet_004",
+      "bbox": [
+        [
+          297,
+          761
+        ],
+        [
+          1224,
+          764
+        ],
+        [
+          1223,
+          828
+        ],
+        [
+          296,
+          825
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          929
+        ],
+        [
+          1224,
+          932
+        ],
+        [
+          1223,
+          996
+        ],
+        [
+          296,
+          993
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        761,
+        1224,
+        828
+      ],
+      "text": "Phong-lưu cựu thái, giang-hồ cõ-gia.",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0356_viet_005",
+      "bbox": [
+        [
+          210,
+          842
+        ],
+        [
+          1446,
+          845
+        ],
+        [
+          1446,
+          909
+        ],
+        [
+          210,
+          906
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          1010
+        ],
+        [
+          1446,
+          1013
+        ],
+        [
+          1446,
+          1077
+        ],
+        [
+          210,
+          1074
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        842,
+        1446,
+        909
+      ],
+      "text": "- Quen thói phong-lưu trước, lồi giang-hồ thuở xưa",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0356_viet_006",
+      "bbox": [
+        [
+          313,
+          1045
+        ],
+        [
+          1145,
+          1049
+        ],
+        [
+          1145,
+          1113
+        ],
+        [
+          312,
+          1109
+        ]
+      ],
+      "bbox_original": [
+        [
+          313,
+          1213
+        ],
+        [
+          1145,
+          1217
+        ],
+        [
+          1145,
+          1281
+        ],
+        [
+          312,
+          1277
+        ]
+      ],
+      "box_xyxy": [
+        312,
+        1045,
+        1145,
+        1113
+      ],
+      "text": "Lữ cảnh mỗi tùng nga lý thống",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0356_viet_007",
+      "bbox": [
+        [
+          206,
+          1127
+        ],
+        [
+          1444,
+          1130
+        ],
+        [
+          1444,
+          1194
+        ],
+        [
+          206,
+          1191
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1295
+        ],
+        [
+          1444,
+          1298
+        ],
+        [
+          1444,
+          1362
+        ],
+        [
+          206,
+          1359
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1127,
+        1444,
+        1194
+      ],
+      "text": "- Nơi đất khách thường nhân cuộc ngâm-vịnh mà hóa",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0356_viet_008",
+      "bbox": [
+        [
+          204,
+          1200
+        ],
+        [
+          920,
+          1200
+        ],
+        [
+          920,
+          1267
+        ],
+        [
+          204,
+          1267
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1368
+        ],
+        [
+          920,
+          1368
+        ],
+        [
+          920,
+          1435
+        ],
+        [
+          204,
+          1435
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1200,
+        920,
+        1267
+      ],
+      "text": "ra ngậm-ngùi đau-đớn cho lòng",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0356_viet_009",
+      "bbox": [
+        [
+          295,
+          1402
+        ],
+        [
+          1355,
+          1405
+        ],
+        [
+          1354,
+          1470
+        ],
+        [
+          294,
+          1467
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1570
+        ],
+        [
+          1355,
+          1573
+        ],
+        [
+          1354,
+          1638
+        ],
+        [
+          294,
+          1635
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1402,
+        1355,
+        1470
+      ],
+      "text": "Hương hồn không hướng mộng trung du",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0356_viet_010",
+      "bbox": [
+        [
+          210,
+          1490
+        ],
+        [
+          1054,
+          1495
+        ],
+        [
+          1054,
+          1559
+        ],
+        [
+          210,
+          1553
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          1658
+        ],
+        [
+          1054,
+          1663
+        ],
+        [
+          1054,
+          1727
+        ],
+        [
+          210,
+          1721
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        1490,
+        1054,
+        1559
+      ],
+      "text": "- Hồn quê luông vật-vờ trong mộng",
+      "confidence": 0.9224
+    },
+    {
+      "line_id": "0356_viet_011",
+      "bbox": [
+        [
+          298,
+          1694
+        ],
+        [
+          1032,
+          1694
+        ],
+        [
+          1032,
+          1758
+        ],
+        [
+          298,
+          1758
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1862
+        ],
+        [
+          1032,
+          1862
+        ],
+        [
+          1032,
+          1926
+        ],
+        [
+          298,
+          1926
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1694,
+        1032,
+        1758
+      ],
+      "text": "Giang sơn khách diệc tri hồ",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0356_viet_012",
+      "bbox": [
+        [
+          210,
+          1780
+        ],
+        [
+          1030,
+          1784
+        ],
+        [
+          1030,
+          1847
+        ],
+        [
+          210,
+          1843
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          1948
+        ],
+        [
+          1030,
+          1952
+        ],
+        [
+          1030,
+          2015
+        ],
+        [
+          210,
+          2011
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        1780,
+        1030,
+        1847
+      ],
+      "text": "- Non sông ai có biết cùng chăng?",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0356_viet_013",
+      "bbox": [
+        [
+          299,
+          1985
+        ],
+        [
+          1269,
+          1987
+        ],
+        [
+          1269,
+          2052
+        ],
+        [
+          298,
+          2050
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          2153
+        ],
+        [
+          1269,
+          2155
+        ],
+        [
+          1269,
+          2220
+        ],
+        [
+          298,
+          2218
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1985,
+        1269,
+        2052
+      ],
+      "text": "Tình trung cánh thiết lộ đồ gian-nan",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0356_viet_014",
+      "bbox": [
+        [
+          211,
+          2073
+        ],
+        [
+          1352,
+          2071
+        ],
+        [
+          1353,
+          2137
+        ],
+        [
+          211,
+          2139
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          2241
+        ],
+        [
+          1352,
+          2239
+        ],
+        [
+          1353,
+          2305
+        ],
+        [
+          211,
+          2307
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        2071,
+        1353,
+        2139
+      ],
+      "text": "- Trong lòng lại tha-thiết nỗi đường sá gian-nan.",
+      "confidence": 0.908
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Yên ba trung sử ngã tâm sầu",
+      "Ngang tàng khởi thiếu niên du",
+      "Phong-lưu cựu thái, giang-hồ cõ-gia.",
+      "Lữ cảnh mỗi tùng nga lý thống",
+      "Hương hồn không hướng mộng trung du",
+      "Giang sơn khách diệc tri hồ",
+      "Tình trung cánh thiết lộ đồ gian-nan"
+    ],
+    "dich_nghia_lines": [
+      "- Trên sông khói sóng khiên cho lòng ta thêm buồn",
+      "- Há phải còn chơi ngang-tàng như lúc còn trẻ ?",
+      "- Quen thói phong-lưu trước, lồi giang-hồ thuở xưa",
+      "- Nơi đất khách thường nhân cuộc ngâm-vịnh mà hóa ra ngậm-ngùi đau-đớn cho lòng",
+      "- Hồn quê luông vật-vờ trong mộng",
+      "- Non sông ai có biết cùng chăng?",
+      "- Trong lòng lại tha-thiết nỗi đường sá gian-nan."
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "烟波中使我心愁",
+        "phien_am": "Yên ba trung sử ngã tâm sầu",
+        "dich_nghia_gloss": "- Trên sông khói sóng khiên cho lòng ta thêm buồn"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "昂藏豈少年遊",
+        "phien_am": "Ngang tàng khởi thiếu niên du",
+        "dich_nghia_gloss": "- Há phải còn chơi ngang-tàng như lúc còn trẻ ?"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "風流舊態江湖故家",
+        "phien_am": "Phong-lưu cựu thái, giang-hồ cõ-gia.",
+        "dich_nghia_gloss": "- Quen thói phong-lưu trước, lồi giang-hồ thuở xưa"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "旅景每從哦裡痛",
+        "phien_am": "Lữ cảnh mỗi tùng nga lý thống",
+        "dich_nghia_gloss": "- Nơi đất khách thường nhân cuộc ngâm-vịnh mà hóa ra ngậm-ngùi đau-đớn cho lòng"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "鄉魂空向夢中遊",
+        "phien_am": "Hương hồn không hướng mộng trung du",
+        "dich_nghia_gloss": "- Hồn quê luông vật-vờ trong mộng"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "江山客亦知乎",
+        "phien_am": "Giang sơn khách diệc tri hồ",
+        "dich_nghia_gloss": "- Non sông ai có biết cùng chăng?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "情中更切路途艱難",
+        "phien_am": "Tình trung cánh thiết lộ đồ gian-nan",
+        "dich_nghia_gloss": "- Trong lòng lại tha-thiết nỗi đường sá gian-nan."
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

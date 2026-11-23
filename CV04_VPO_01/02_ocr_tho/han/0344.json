@@ -1,0 +1,405 @@
+{
+  "page_id": "0344",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 344,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0344_han_000",
+      "bbox": [
+        [
+          467,
+          79
+        ],
+        [
+          1286,
+          79
+        ],
+        [
+          1286,
+          153
+        ],
+        [
+          467,
+          153
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          247
+        ],
+        [
+          1286,
+          247
+        ],
+        [
+          1286,
+          321
+        ],
+        [
+          467,
+          321
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        79,
+        1286,
+        153
+      ],
+      "text": "含情掩扇空懸月明",
+      "confidence": 0.9698
+    },
+    {
+      "line_id": "0344_han_001",
+      "bbox": [
+        [
+          464,
+          427
+        ],
+        [
+          1179,
+          427
+        ],
+        [
+          1179,
+          502
+        ],
+        [
+          464,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          464,
+          595
+        ],
+        [
+          1179,
+          595
+        ],
+        [
+          1179,
+          670
+        ],
+        [
+          464,
+          670
+        ]
+      ],
+      "box_xyxy": [
+        464,
+        427,
+        1179,
+        502
+      ],
+      "text": "孤忱裡三更寤寐",
+      "confidence": 0.9487
+    },
+    {
+      "line_id": "0344_han_002",
+      "bbox": [
+        [
+          473,
+          709
+        ],
+        [
+          1179,
+          712
+        ],
+        [
+          1179,
+          790
+        ],
+        [
+          473,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          877
+        ],
+        [
+          1179,
+          880
+        ],
+        [
+          1179,
+          958
+        ],
+        [
+          473,
+          956
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        709,
+        1179,
+        790
+      ],
+      "text": "片幽懷誰是為憐",
+      "confidence": 0.9984
+    },
+    {
+      "line_id": "0344_han_003",
+      "bbox": [
+        [
+          468,
+          997
+        ],
+        [
+          1079,
+          997
+        ],
+        [
+          1079,
+          1072
+        ],
+        [
+          468,
+          1072
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          1165
+        ],
+        [
+          1079,
+          1165
+        ],
+        [
+          1079,
+          1240
+        ],
+        [
+          468,
+          1240
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        997,
+        1079,
+        1072
+      ],
+      "text": "情頭夜半無人",
+      "confidence": 0.9851
+    },
+    {
+      "line_id": "0344_han_004",
+      "bbox": [
+        [
+          472,
+          1276
+        ],
+        [
+          1295,
+          1274
+        ],
+        [
+          1295,
+          1349
+        ],
+        [
+          472,
+          1351
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          1444
+        ],
+        [
+          1295,
+          1442
+        ],
+        [
+          1295,
+          1517
+        ],
+        [
+          472,
+          1519
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        1274,
+        1295,
+        1351
+      ],
+      "text": "睡來報蝶醒辰鳴鷄",
+      "confidence": 0.9798
+    },
+    {
+      "line_id": "0344_han_005",
+      "bbox": [
+        [
+          477,
+          1621
+        ],
+        [
+          1189,
+          1623
+        ],
+        [
+          1189,
+          1701
+        ],
+        [
+          477,
+          1699
+        ]
+      ],
+      "bbox_original": [
+        [
+          477,
+          1789
+        ],
+        [
+          1189,
+          1791
+        ],
+        [
+          1189,
+          1869
+        ],
+        [
+          477,
+          1867
+        ]
+      ],
+      "box_xyxy": [
+        477,
+        1621,
+        1189,
+        1701
+      ],
+      "text": "有辰或鄉閨夕炤",
+      "confidence": 0.9065
+    },
+    {
+      "line_id": "0344_han_006",
+      "bbox": [
+        [
+          478,
+          1905
+        ],
+        [
+          1188,
+          1905
+        ],
+        [
+          1188,
+          1979
+        ],
+        [
+          478,
+          1979
+        ]
+      ],
+      "bbox_original": [
+        [
+          478,
+          2073
+        ],
+        [
+          1188,
+          2073
+        ],
+        [
+          1188,
+          2147
+        ],
+        [
+          478,
+          2147
+        ]
+      ],
+      "box_xyxy": [
+        478,
+        1905,
+        1188,
+        1979
+      ],
+      "text": "下堂来欲造花樓",
+      "confidence": 0.9333
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "含情掩扇空懸月明",
+      "孤忱裡三更寤寐",
+      "片幽懷誰是為憐",
+      "情頭夜半無人",
+      "睡來報蝶醒辰鳴鷄",
+      "有辰或鄉閨夕炤",
+      "下堂来欲造花樓"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "含情掩扇空懸月明",
+        "phien_am": "Hàm linh yềm phiên không huyền nguyệt minh",
+        "dich_nghia_gloss": "- (Mình ai) ngậm sâu, lây quạt, che mặt lại, luông để mặc vừng trăng sáng lạnh lùng treo"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "孤忱裡三更寤寐",
+        "phien_am": "Cô-chầm lý, tam canh ngụ-mị,",
+        "dich_nghia_gloss": "- Trên gồi, năm canh mơ-màng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "片幽懷誰是為憐",
+        "phien_am": "Phiên u-hoài thùy thị vi lân ?",
+        "dich_nghia_gloss": "- Mảnh tình u-n ai thương cho mình ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "情頭夜半無人",
+        "phien_am": "Tình đầu dạ bán vô nhân,",
+        "dich_nghia_gloss": "- Nửa đêm một mảnh tình riêng, không ai chung với"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "睡來報蝶醒辰鳴鷄",
+        "phien_am": "Thụy lai báo điệp, tỉnh thần minh kê.",
+        "dich_nghia_gloss": "- Hễ chợp mắt ngủ, bướm đã thoảng qua mộng, mì bừng mắt dậy, gà đã gáy bên tai."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "有辰或鄉閨夕炤",
+        "phien_am": "Hữu thời hoặc hương-khuê tịch chiều,",
+        "dich_nghia_gloss": "- Hoặc có lúc trong cửa buồng, ánh trời tà giọi vào"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "下堂来欲造花樓",
+        "phien_am": "Hạ đường lai, dục tạo hoa lâu",
+        "dich_nghia_gloss": "- Bước xuồng thêm lại muồn trở lên lầu hoa"
+      }
+    ]
+  }
+}

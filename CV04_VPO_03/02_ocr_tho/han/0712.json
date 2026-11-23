@@ -1,0 +1,215 @@
+{
+  "page_id": "0712",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 712,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0712_han_000",
+      "bbox": [
+        [
+          1764,
+          1455
+        ],
+        [
+          1797,
+          1455
+        ],
+        [
+          1797,
+          1481
+        ],
+        [
+          1764,
+          1481
+        ]
+      ],
+      "bbox_original": [
+        [
+          1764,
+          1670
+        ],
+        [
+          1797,
+          1670
+        ],
+        [
+          1797,
+          1696
+        ],
+        [
+          1764,
+          1696
+        ]
+      ],
+      "box_xyxy": [
+        1764,
+        1455,
+        1797,
+        1481
+      ],
+      "text": "西",
+      "confidence": 0.4008
+    },
+    {
+      "line_id": "0712_han_001",
+      "bbox": [
+        [
+          265,
+          1478
+        ],
+        [
+          1964,
+          1464
+        ],
+        [
+          1964,
+          1518
+        ],
+        [
+          265,
+          1532
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1693
+        ],
+        [
+          1964,
+          1679
+        ],
+        [
+          1964,
+          1733
+        ],
+        [
+          265,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1464,
+        1964,
+        1532
+      ],
+      "text": "(9) Hai vé này phièn nhur Đào Duy Anh thì vé trưc phǎi già đļnh chǔ dàm 卑 là chǔ",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0712_han_002",
+      "bbox": [
+        [
+          253,
+          2568
+        ],
+        [
+          1059,
+          2568
+        ],
+        [
+          1059,
+          2657
+        ],
+        [
+          253,
+          2657
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          2783
+        ],
+        [
+          1059,
+          2783
+        ],
+        [
+          1059,
+          2872
+        ],
+        [
+          253,
+          2872
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        2568,
+        1059,
+        2657
+      ],
+      "text": "(14) Mē: Hoàng Xuân Hăn phièn là mia. Đào Duy Anh căn cúr vào TTBH2 (viét ch 開美)",
+      "confidence": 0.9391
+    },
+    {
+      "line_id": "0712_han_003",
+      "bbox": [
+        [
+          343,
+          2629
+        ],
+        [
+          1059,
+          2629
+        ],
+        [
+          1059,
+          2703
+        ],
+        [
+          343,
+          2703
+        ]
+      ],
+      "bbox_original": [
+        [
+          343,
+          2844
+        ],
+        [
+          1059,
+          2844
+        ],
+        [
+          1059,
+          2918
+        ],
+        [
+          343,
+          2918
+        ]
+      ],
+      "box_xyxy": [
+        343,
+        2629,
+        1059,
+        2703
+      ],
+      "text": "nên phiên là m. Chúng tôi cho chù nôm  TTBHi 馬美 (mā : bièu âm + m : bièu y)",
+      "confidence": 0.9247
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "西"
+    ],
+    "interlinear_triplets": []
+  }
+}

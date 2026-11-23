@@ -1,0 +1,1982 @@
+{
+  "page_id": "0676",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 676,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0676_viet_000",
+      "bbox": [
+        [
+          1485,
+          14
+        ],
+        [
+          1502,
+          14
+        ],
+        [
+          1502,
+          26
+        ],
+        [
+          1485,
+          26
+        ]
+      ],
+      "bbox_original": [
+        [
+          1485,
+          229
+        ],
+        [
+          1502,
+          229
+        ],
+        [
+          1502,
+          241
+        ],
+        [
+          1485,
+          241
+        ]
+      ],
+      "box_xyxy": [
+        1485,
+        14,
+        1502,
+        26
+      ],
+      "text": "nạn",
+      "confidence": 0.3654
+    },
+    {
+      "line_id": "0676_viet_001",
+      "bbox": [
+        [
+          250,
+          101
+        ],
+        [
+          1957,
+          93
+        ],
+        [
+          1957,
+          144
+        ],
+        [
+          250,
+          153
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          316
+        ],
+        [
+          1957,
+          308
+        ],
+        [
+          1957,
+          359
+        ],
+        [
+          250,
+          368
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        93,
+        1957,
+        153
+      ],
+      "text": "(2) Thập trú: thuật ngữ. đạo Phật, cũng gọi là thập địa, xem Ch1.2, bài, Chi tùm tùy hỉ.",
+      "confidence": 0.8827
+    },
+    {
+      "line_id": "0676_viet_002",
+      "bbox": [
+        [
+          344,
+          157
+        ],
+        [
+          757,
+          154
+        ],
+        [
+          757,
+          196
+        ],
+        [
+          344,
+          199
+        ]
+      ],
+      "bbox_original": [
+        [
+          344,
+          372
+        ],
+        [
+          757,
+          369
+        ],
+        [
+          757,
+          411
+        ],
+        [
+          344,
+          414
+        ]
+      ],
+      "box_xyxy": [
+        344,
+        154,
+        757,
+        199
+      ],
+      "text": "số 30, của Trần Cảnh",
+      "confidence": 0.8979
+    },
+    {
+      "line_id": "0676_viet_003",
+      "bbox": [
+        [
+          252,
+          232
+        ],
+        [
+          1961,
+          227
+        ],
+        [
+          1961,
+          274
+        ],
+        [
+          252,
+          279
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          447
+        ],
+        [
+          1961,
+          442
+        ],
+        [
+          1961,
+          489
+        ],
+        [
+          252,
+          494
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        227,
+        1961,
+        279
+      ],
+      "text": "(3) Thập hành : thuật ngữ đạo. Phật, xuất xử từ: Kinh Lãng nghiêm nói về việc các Phật",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0676_viet_004",
+      "bbox": [
+        [
+          337,
+          283
+        ],
+        [
+          1959,
+          279
+        ],
+        [
+          1959,
+          326
+        ],
+        [
+          337,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          498
+        ],
+        [
+          1959,
+          494
+        ],
+        [
+          1959,
+          541
+        ],
+        [
+          337,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        279,
+        1959,
+        330
+      ],
+      "text": "tử làm các việc thiện: hoan, hỉ hành (việc làm vvi.vè), nhiêu ích hành (làw việc có ích),",
+      "confidence": 0.9072
+    },
+    {
+      "line_id": "0676_viet_005",
+      "bbox": [
+        [
+          343,
+          337
+        ],
+        [
+          1960,
+          336
+        ],
+        [
+          1960,
+          380
+        ],
+        [
+          343,
+          381
+        ]
+      ],
+      "bbox_original": [
+        [
+          343,
+          552
+        ],
+        [
+          1960,
+          551
+        ],
+        [
+          1960,
+          595
+        ],
+        [
+          343,
+          596
+        ]
+      ],
+      "box_xyxy": [
+        343,
+        336,
+        1960,
+        381
+      ],
+      "text": "vô sân hân hành (không giận dữ), vô tận hành (làm việc thiện không ngừng), ly si",
+      "confidence": 0.892
+    },
+    {
+      "line_id": "0676_viet_006",
+      "bbox": [
+        [
+          340,
+          389
+        ],
+        [
+          1961,
+          386
+        ],
+        [
+          1961,
+          433
+        ],
+        [
+          340,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          340,
+          604
+        ],
+        [
+          1961,
+          601
+        ],
+        [
+          1961,
+          648
+        ],
+        [
+          340,
+          651
+        ]
+      ],
+      "box_xyxy": [
+        340,
+        386,
+        1961,
+        436
+      ],
+      "text": "loạn hành (rời bỏ việc si ngốc, độc ác), thiện hiện hành (tỏ rõ việc thiện), vô trước hành",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0676_viet_007",
+      "bbox": [
+        [
+          341,
+          443
+        ],
+        [
+          1962,
+          439
+        ],
+        [
+          1962,
+          486
+        ],
+        [
+          341,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          341,
+          658
+        ],
+        [
+          1962,
+          654
+        ],
+        [
+          1962,
+          701
+        ],
+        [
+          341,
+          705
+        ]
+      ],
+      "box_xyxy": [
+        341,
+        439,
+        1962,
+        490
+      ],
+      "text": "(không bám viu lấy các hiện hữu), tồn trọng hành (biết kinh trọng), thiện pháp hành",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0676_viet_008",
+      "bbox": [
+        [
+          335,
+          497
+        ],
+        [
+          1312,
+          495
+        ],
+        [
+          1312,
+          539
+        ],
+        [
+          335,
+          542
+        ]
+      ],
+      "bbox_original": [
+        [
+          335,
+          712
+        ],
+        [
+          1312,
+          710
+        ],
+        [
+          1312,
+          754
+        ],
+        [
+          335,
+          757
+        ]
+      ],
+      "box_xyxy": [
+        335,
+        495,
+        1312,
+        542
+      ],
+      "text": "(giỏi theo phép Phật), chân thực hành (thành thực).",
+      "confidence": 0.8713
+    },
+    {
+      "line_id": "0676_viet_009",
+      "bbox": [
+        [
+          249,
+          569
+        ],
+        [
+          1961,
+          562
+        ],
+        [
+          1961,
+          613
+        ],
+        [
+          249,
+          620
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          784
+        ],
+        [
+          1961,
+          777
+        ],
+        [
+          1961,
+          828
+        ],
+        [
+          249,
+          835
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        562,
+        1961,
+        620
+      ],
+      "text": "(4) Thập hồi hưởng : thuật ngữ đạo Phật, xuất xứ từ Kinh Lăng nghiêm, nghĩa là đem",
+      "confidence": 0.8652
+    },
+    {
+      "line_id": "0676_viet_010",
+      "bbox": [
+        [
+          338,
+          624
+        ],
+        [
+          1960,
+          620
+        ],
+        [
+          1960,
+          664
+        ],
+        [
+          338,
+          668
+        ]
+      ],
+      "bbox_original": [
+        [
+          338,
+          839
+        ],
+        [
+          1960,
+          835
+        ],
+        [
+          1960,
+          879
+        ],
+        [
+          338,
+          883
+        ]
+      ],
+      "box_xyxy": [
+        338,
+        620,
+        1960,
+        668
+      ],
+      "text": "lòng từ bị cứu vớt tất cả chúng sinh, gồm: cứu giúp chúng sinh thoát lý tưởng chúng",
+      "confidence": 0.9253
+    },
+    {
+      "line_id": "0676_viet_011",
+      "bbox": [
+        [
+          337,
+          677
+        ],
+        [
+          1960,
+          672
+        ],
+        [
+          1960,
+          716
+        ],
+        [
+          337,
+          721
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          892
+        ],
+        [
+          1960,
+          887
+        ],
+        [
+          1960,
+          931
+        ],
+        [
+          337,
+          936
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        672,
+        1960,
+        721
+      ],
+      "text": "sinh, giúp chúng sinh không bị hủy hoại, theo bằng các Phật, đến khắp mọi, nơi, công",
+      "confidence": 0.8993
+    },
+    {
+      "line_id": "0676_viet_012",
+      "bbox": [
+        [
+          337,
+          728
+        ],
+        [
+          1960,
+          722
+        ],
+        [
+          1960,
+          769
+        ],
+        [
+          337,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          943
+        ],
+        [
+          1960,
+          937
+        ],
+        [
+          1960,
+          984
+        ],
+        [
+          337,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        722,
+        1960,
+        775
+      ],
+      "text": "đức vô cùng, thuận theo tâm bình đẳng, bò-đồ, thuận thei, tìm coi mọi chúng sinh đều",
+      "confidence": 0.8995
+    },
+    {
+      "line_id": "0676_viet_013",
+      "bbox": [
+        [
+          340,
+          780
+        ],
+        [
+          1961,
+          777
+        ],
+        [
+          1961,
+          825
+        ],
+        [
+          340,
+          828
+        ]
+      ],
+      "bbox_original": [
+        [
+          340,
+          995
+        ],
+        [
+          1961,
+          992
+        ],
+        [
+          1961,
+          1040
+        ],
+        [
+          340,
+          1043
+        ]
+      ],
+      "box_xyxy": [
+        340,
+        777,
+        1961,
+        828
+      ],
+      "text": "bình đẳng: giúp chúng: sinh ngộ diệu lý chân như, giải thoát không trói buộc, hiều được",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0676_viet_014",
+      "bbox": [
+        [
+          342,
+          838
+        ],
+        [
+          718,
+          838
+        ],
+        [
+          718,
+          882
+        ],
+        [
+          342,
+          882
+        ]
+      ],
+      "bbox_original": [
+        [
+          342,
+          1053
+        ],
+        [
+          718,
+          1053
+        ],
+        [
+          718,
+          1097
+        ],
+        [
+          342,
+          1097
+        ]
+      ],
+      "box_xyxy": [
+        342,
+        838,
+        718,
+        882
+      ],
+      "text": "pháp giới vò lượng.",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0676_viet_015",
+      "bbox": [
+        [
+          249,
+          911
+        ],
+        [
+          950,
+          906
+        ],
+        [
+          950,
+          957
+        ],
+        [
+          249,
+          961
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1126
+        ],
+        [
+          950,
+          1121
+        ],
+        [
+          950,
+          1172
+        ],
+        [
+          249,
+          1176
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        906,
+        950,
+        961
+      ],
+      "text": "(5) - Thập địa: Xem Cht. 2, cùng bài.",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0676_viet_016",
+      "bbox": [
+        [
+          1015,
+          961
+        ],
+        [
+          1971,
+          961
+        ],
+        [
+          1971,
+          1049
+        ],
+        [
+          1015,
+          1049
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1176
+        ],
+        [
+          1971,
+          1176
+        ],
+        [
+          1971,
+          1264
+        ],
+        [
+          1015,
+          1264
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        961,
+        1971,
+        1049
+      ],
+      "text": "tiêu tâm, Tiên tâm là chữ của Kinh thi. St 47",
+      "confidence": 0.8263
+    },
+    {
+      "line_id": "0676_viet_017",
+      "bbox": [
+        [
+          336,
+          1036
+        ],
+        [
+          1963,
+          1038
+        ],
+        [
+          1963,
+          1092
+        ],
+        [
+          336,
+          1090
+        ]
+      ],
+      "bbox_original": [
+        [
+          336,
+          1251
+        ],
+        [
+          1963,
+          1253
+        ],
+        [
+          1963,
+          1307
+        ],
+        [
+          336,
+          1305
+        ]
+      ],
+      "box_xyxy": [
+        336,
+        1036,
+        1963,
+        1092
+      ],
+      "text": "được các nhà chú thích giảng là thận trọng cung kinh (cung thân mạo) ở đây không",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0676_viet_018",
+      "bbox": [
+        [
+          342,
+          1098
+        ],
+        [
+          1806,
+          1096
+        ],
+        [
+          1806,
+          1143
+        ],
+        [
+          342,
+          1145
+        ]
+      ],
+      "bbox_original": [
+        [
+          342,
+          1313
+        ],
+        [
+          1806,
+          1311
+        ],
+        [
+          1806,
+          1358
+        ],
+        [
+          342,
+          1360
+        ]
+      ],
+      "box_xyxy": [
+        342,
+        1096,
+        1806,
+        1145
+      ],
+      "text": "rồ vì sao tác giả quan niệm sự thận trọng cung kinh (tiều tâm sư) là sư có lồi,",
+      "confidence": 0.9036
+    },
+    {
+      "line_id": "0676_viet_019",
+      "bbox": [
+        [
+          245,
+          1169
+        ],
+        [
+          1960,
+          1167
+        ],
+        [
+          1960,
+          1224
+        ],
+        [
+          245,
+          1226
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1384
+        ],
+        [
+          1960,
+          1382
+        ],
+        [
+          1960,
+          1439
+        ],
+        [
+          245,
+          1441
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1167,
+        1960,
+        1226
+      ],
+      "text": "(7) Tiêu thừa: thuật ngữ đạo Phật, xem Cht. 22. bài Phú cử trần lạc đạo. số 209, của",
+      "confidence": 0.89
+    },
+    {
+      "line_id": "0676_viet_020",
+      "bbox": [
+        [
+          339,
+          1225
+        ],
+        [
+          560,
+          1228
+        ],
+        [
+          560,
+          1270
+        ],
+        [
+          339,
+          1267
+        ]
+      ],
+      "bbox_original": [
+        [
+          339,
+          1440
+        ],
+        [
+          560,
+          1443
+        ],
+        [
+          560,
+          1485
+        ],
+        [
+          339,
+          1482
+        ]
+      ],
+      "box_xyxy": [
+        339,
+        1225,
+        560,
+        1270
+      ],
+      "text": "Trần Khâm",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0676_viet_021",
+      "bbox": [
+        [
+          246,
+          1299
+        ],
+        [
+          1962,
+          1297
+        ],
+        [
+          1962,
+          1351
+        ],
+        [
+          246,
+          1353
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1514
+        ],
+        [
+          1962,
+          1512
+        ],
+        [
+          1962,
+          1566
+        ],
+        [
+          246,
+          1568
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1297,
+        1962,
+        1353
+      ],
+      "text": "(8) Phúc quả: địch chữ phúc bào, nghĩa là làm việc thiện với động cơ cầu lợi, mong được",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0676_viet_022",
+      "bbox": [
+        [
+          338,
+          1354
+        ],
+        [
+          503,
+          1354
+        ],
+        [
+          503,
+          1399
+        ],
+        [
+          338,
+          1399
+        ]
+      ],
+      "bbox_original": [
+        [
+          338,
+          1569
+        ],
+        [
+          503,
+          1569
+        ],
+        [
+          503,
+          1614
+        ],
+        [
+          338,
+          1614
+        ]
+      ],
+      "box_xyxy": [
+        338,
+        1354,
+        503,
+        1399
+      ],
+      "text": "báo đền.",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0676_viet_023",
+      "bbox": [
+        [
+          247,
+          1429
+        ],
+        [
+          1839,
+          1426
+        ],
+        [
+          1839,
+          1476
+        ],
+        [
+          247,
+          1479
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1644
+        ],
+        [
+          1839,
+          1641
+        ],
+        [
+          1839,
+          1691
+        ],
+        [
+          247,
+          1694
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1426,
+        1839,
+        1479
+      ],
+      "text": "(9) Đại thìa: thuật ngữ đạo Phật, xem Cht. 23, bài Tụng cờ, số 112, của Trần, Tung.",
+      "confidence": 0.8792
+    },
+    {
+      "line_id": "0676_viet_024",
+      "bbox": [
+        [
+          242,
+          1504
+        ],
+        [
+          1956,
+          1505
+        ],
+        [
+          1956,
+          1555
+        ],
+        [
+          242,
+          1554
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1719
+        ],
+        [
+          1956,
+          1720
+        ],
+        [
+          1956,
+          1770
+        ],
+        [
+          242,
+          1769
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1504,
+        1956,
+        1555
+      ],
+      "text": "(10) Gia hạnh: thuật ngữ đạo Phật, mỏi về một tiêu chuẩn của người tu hành đề đạt-được",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0676_viet_025",
+      "bbox": [
+        [
+          334,
+          1559
+        ],
+        [
+          1908,
+          1561
+        ],
+        [
+          1908,
+          1606
+        ],
+        [
+          334,
+          1603
+        ]
+      ],
+      "bbox_original": [
+        [
+          334,
+          1774
+        ],
+        [
+          1908,
+          1776
+        ],
+        [
+          1908,
+          1821
+        ],
+        [
+          334,
+          1818
+        ]
+      ],
+      "box_xyxy": [
+        334,
+        1559,
+        1908,
+        1606
+      ],
+      "text": "bậc chính vị, có nghĩa là đem sức lực tu hành, trước kia còn dịch là phương tiện,",
+      "confidence": 0.9111
+    },
+    {
+      "line_id": "0676_viet_026",
+      "bbox": [
+        [
+          251,
+          1639
+        ],
+        [
+          1956,
+          1639
+        ],
+        [
+          1956,
+          1686
+        ],
+        [
+          251,
+          1686
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1854
+        ],
+        [
+          1956,
+          1854
+        ],
+        [
+          1956,
+          1901
+        ],
+        [
+          251,
+          1901
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1639,
+        1956,
+        1686
+      ],
+      "text": "(11) Tướng pháp : thuật ngữ đạo Phật, chỉ thế giới hiện tượng, một phạm trù đối lập với",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0676_viet_027",
+      "bbox": [
+        [
+          337,
+          1688
+        ],
+        [
+          686,
+          1690
+        ],
+        [
+          686,
+          1734
+        ],
+        [
+          337,
+          1732
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          1903
+        ],
+        [
+          686,
+          1905
+        ],
+        [
+          686,
+          1949
+        ],
+        [
+          337,
+          1947
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        1688,
+        686,
+        1734
+      ],
+      "text": "bản thề chân như",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0676_viet_028",
+      "bbox": [
+        [
+          250,
+          1767
+        ],
+        [
+          1956,
+          1768
+        ],
+        [
+          1956,
+          1815
+        ],
+        [
+          250,
+          1814
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1982
+        ],
+        [
+          1956,
+          1983
+        ],
+        [
+          1956,
+          2030
+        ],
+        [
+          250,
+          2029
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1767,
+        1956,
+        1815
+      ],
+      "text": "(12) Ký linh: năng lực ghi nhờ của mỗi người, Năng lực này sẽ giúp cho việc học tập, tu",
+      "confidence": 0.9138
+    },
+    {
+      "line_id": "0676_viet_029",
+      "bbox": [
+        [
+          337,
+          1818
+        ],
+        [
+          1225,
+          1819
+        ],
+        [
+          1225,
+          1866
+        ],
+        [
+          337,
+          1865
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          2033
+        ],
+        [
+          1225,
+          2034
+        ],
+        [
+          1225,
+          2081
+        ],
+        [
+          337,
+          2080
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        1818,
+        1225,
+        1866
+      ],
+      "text": "dưỡng và tiến bộ của người học đạo rất nhiều.",
+      "confidence": 0.9106
+    },
+    {
+      "line_id": "0676_viet_030",
+      "bbox": [
+        [
+          249,
+          1892
+        ],
+        [
+          1956,
+          1895
+        ],
+        [
+          1956,
+          1942
+        ],
+        [
+          249,
+          1939
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          2107
+        ],
+        [
+          1956,
+          2110
+        ],
+        [
+          1956,
+          2157
+        ],
+        [
+          249,
+          2154
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1892,
+        1956,
+        1942
+      ],
+      "text": "(13) A hàm: tên chung các kinh của ngành Tiểu thừa, nguyên tiếng Phạn là Agama, nghĩa:",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0676_viet_031",
+      "bbox": [
+        [
+          333,
+          1946
+        ],
+        [
+          1957,
+          1947
+        ],
+        [
+          1957,
+          1995
+        ],
+        [
+          333,
+          1994
+        ]
+      ],
+      "bbox_original": [
+        [
+          333,
+          2161
+        ],
+        [
+          1957,
+          2162
+        ],
+        [
+          1957,
+          2210
+        ],
+        [
+          333,
+          2209
+        ]
+      ],
+      "box_xyxy": [
+        333,
+        1946,
+        1957,
+        1995
+      ],
+      "text": "là mọi pháp đều về chỗ không còn thiếu sót, là phép màu nhiệm không thề so",
+      "confidence": 0.8688
+    },
+    {
+      "line_id": "0676_viet_032",
+      "bbox": [
+        [
+          336,
+          2002
+        ],
+        [
+          556,
+          2002
+        ],
+        [
+          556,
+          2044
+        ],
+        [
+          336,
+          2044
+        ]
+      ],
+      "bbox_original": [
+        [
+          336,
+          2217
+        ],
+        [
+          556,
+          2217
+        ],
+        [
+          556,
+          2259
+        ],
+        [
+          336,
+          2259
+        ]
+      ],
+      "box_xyxy": [
+        336,
+        2002,
+        556,
+        2044
+      ],
+      "text": "sánh được",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0676_viet_033",
+      "bbox": [
+        [
+          251,
+          2076
+        ],
+        [
+          1580,
+          2076
+        ],
+        [
+          1580,
+          2120
+        ],
+        [
+          251,
+          2120
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          2291
+        ],
+        [
+          1580,
+          2291
+        ],
+        [
+          1580,
+          2335
+        ],
+        [
+          251,
+          2335
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        2076,
+        1580,
+        2120
+      ],
+      "text": "(14) Bậc cồ đức: xém Cht. 5, bài Thụ giới luận, số 10, của Trần Cảnh.",
+      "confidence": 0.824
+    },
+    {
+      "line_id": "0676_viet_034",
+      "bbox": [
+        [
+          249,
+          2149
+        ],
+        [
+          1604,
+          2151
+        ],
+        [
+          1604,
+          2199
+        ],
+        [
+          249,
+          2197
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          2364
+        ],
+        [
+          1604,
+          2366
+        ],
+        [
+          1604,
+          2414
+        ],
+        [
+          249,
+          2412
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        2149,
+        1604,
+        2199
+      ],
+      "text": "(15) Tuệ Trung: tức Trần Tung. Xem tiểu sử và thơ văn irong cùng tập.",
+      "confidence": 0.8531
+    },
+    {
+      "line_id": "0676_viet_035",
+      "bbox": [
+        [
+          251,
+          2227
+        ],
+        [
+          1738,
+          2227
+        ],
+        [
+          1738,
+          2271
+        ],
+        [
+          251,
+          2271
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          2442
+        ],
+        [
+          1738,
+          2442
+        ],
+        [
+          1738,
+          2486
+        ],
+        [
+          251,
+          2486
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        2227,
+        1738,
+        2271
+      ],
+      "text": "(16) Đoạn thơ này trích từ bài Trì giới kiêm nhẫn nhục, số 108, của Trần Tung.",
+      "confidence": 0.8889
+    },
+    {
+      "line_id": "0676_viet_036",
+      "bbox": [
+        [
+          249,
+          2301
+        ],
+        [
+          883,
+          2301
+        ],
+        [
+          883,
+          2349
+        ],
+        [
+          249,
+          2349
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          2516
+        ],
+        [
+          883,
+          2516
+        ],
+        [
+          883,
+          2564
+        ],
+        [
+          249,
+          2564
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        2301,
+        883,
+        2349
+      ],
+      "text": "(17) Lý Nguyên: chưa rõ lai lịch",
+      "confidence": 0.9133
+    },
+    {
+      "line_id": "0676_viet_037",
+      "bbox": [
+        [
+          249,
+          2377
+        ],
+        [
+          1041,
+          2379
+        ],
+        [
+          1041,
+          2426
+        ],
+        [
+          249,
+          2424
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          2592
+        ],
+        [
+          1041,
+          2594
+        ],
+        [
+          1041,
+          2641
+        ],
+        [
+          249,
+          2639
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        2377,
+        1041,
+        2426
+      ],
+      "text": "(18) Trâu đá: chưa rõ nội dung điền tích.",
+      "confidence": 0.9079
+    },
+    {
+      "line_id": "0676_viet_038",
+      "bbox": [
+        [
+          1015,
+          2501
+        ],
+        [
+          1946,
+          2501
+        ],
+        [
+          1946,
+          2567
+        ],
+        [
+          1015,
+          2567
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          2716
+        ],
+        [
+          1946,
+          2716
+        ],
+        [
+          1946,
+          2782
+        ],
+        [
+          1015,
+          2782
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        2501,
+        1946,
+        2567
+      ],
+      "text": "1% giới từ đầu châm phong",
+      "confidence": 0.8318
+    },
+    {
+      "line_id": "0676_viet_039",
+      "bbox": [
+        [
+          336,
+          2562
+        ],
+        [
+          1952,
+          2569
+        ],
+        [
+          1952,
+          2617
+        ],
+        [
+          336,
+          2610
+        ]
+      ],
+      "bbox_original": [
+        [
+          336,
+          2777
+        ],
+        [
+          1952,
+          2784
+        ],
+        [
+          1952,
+          2832
+        ],
+        [
+          336,
+          2825
+        ]
+      ],
+      "box_xyxy": [
+        336,
+        2562,
+        1952,
+        2617
+      ],
+      "text": "Phật xuất nan 17 thí, nghĩa là . đem hạt cải ném: vào, mũi, kim, là, một việc, khó, gặp",
+      "confidence": 0.8559
+    },
+    {
+      "line_id": "0676_viet_040",
+      "bbox": [
+        [
+          337,
+          2621
+        ],
+        [
+          894,
+          2623
+        ],
+        [
+          894,
+          2668
+        ],
+        [
+          337,
+          2665
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          2836
+        ],
+        [
+          894,
+          2838
+        ],
+        [
+          894,
+          2883
+        ],
+        [
+          337,
+          2880
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        2621,
+        894,
+        2668
+      ],
+      "text": "Phật ra đời còn khó hơn thế",
+      "confidence": 0.934
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "phien_am_lines": [
+      "nạn",
+      "(2) Thập trú: thuật ngữ. đạo Phật, cũng gọi là thập địa, xem Ch1.2, bài, Chi tùm tùy hỉ.",
+      "(3) Thập hành : thuật ngữ đạo. Phật, xuất xử từ: Kinh Lãng nghiêm nói về việc các Phật",
+      "tử làm các việc thiện: hoan, hỉ hành (việc làm vvi.vè), nhiêu ích hành (làw việc có ích),",
+      "vô sân hân hành (không giận dữ), vô tận hành (làm việc thiện không ngừng), ly si",
+      "loạn hành (rời bỏ việc si ngốc, độc ác), thiện hiện hành (tỏ rõ việc thiện), vô trước hành",
+      "(không bám viu lấy các hiện hữu), tồn trọng hành (biết kinh trọng), thiện pháp hành",
+      "(4) Thập hồi hưởng : thuật ngữ đạo Phật, xuất xứ từ Kinh Lăng nghiêm, nghĩa là đem",
+      "lòng từ bị cứu vớt tất cả chúng sinh, gồm: cứu giúp chúng sinh thoát lý tưởng chúng",
+      "sinh, giúp chúng sinh không bị hủy hoại, theo bằng các Phật, đến khắp mọi, nơi, công",
+      "đức vô cùng, thuận theo tâm bình đẳng, bò-đồ, thuận thei, tìm coi mọi chúng sinh đều",
+      "bình đẳng: giúp chúng: sinh ngộ diệu lý chân như, giải thoát không trói buộc, hiều được",
+      "tiêu tâm, Tiên tâm là chữ của Kinh thi. St 47",
+      "được các nhà chú thích giảng là thận trọng cung kinh (cung thân mạo) ở đây không",
+      "rồ vì sao tác giả quan niệm sự thận trọng cung kinh (tiều tâm sư) là sư có lồi,",
+      "(7) Tiêu thừa: thuật ngữ đạo Phật, xem Cht. 22. bài Phú cử trần lạc đạo. số 209, của",
+      "(8) Phúc quả: địch chữ phúc bào, nghĩa là làm việc thiện với động cơ cầu lợi, mong được",
+      "(9) Đại thìa: thuật ngữ đạo Phật, xem Cht. 23, bài Tụng cờ, số 112, của Trần, Tung.",
+      "(10) Gia hạnh: thuật ngữ đạo Phật, mỏi về một tiêu chuẩn của người tu hành đề đạt-được",
+      "bậc chính vị, có nghĩa là đem sức lực tu hành, trước kia còn dịch là phương tiện,",
+      "(11) Tướng pháp : thuật ngữ đạo Phật, chỉ thế giới hiện tượng, một phạm trù đối lập với",
+      "(12) Ký linh: năng lực ghi nhờ của mỗi người, Năng lực này sẽ giúp cho việc học tập, tu",
+      "(13) A hàm: tên chung các kinh của ngành Tiểu thừa, nguyên tiếng Phạn là Agama, nghĩa:",
+      "là mọi pháp đều về chỗ không còn thiếu sót, là phép màu nhiệm không thề so",
+      "(16) Đoạn thơ này trích từ bài Trì giới kiêm nhẫn nhục, số 108, của Trần Tung.",
+      "1% giới từ đầu châm phong",
+      "Phật xuất nan 17 thí, nghĩa là . đem hạt cải ném: vào, mũi, kim, là, một việc, khó, gặp"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

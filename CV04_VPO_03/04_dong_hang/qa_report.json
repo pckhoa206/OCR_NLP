@@ -1,11 +1,11 @@
 {
-  "total_pairs": 856,
-  "valid_pairs": 856,
-  "valid_checked_pairs": 856,
-  "error_pairs": 89,
-  "num_error_pairs": 89,
-  "clean_pairs": 767,
-  "error_rate": 0.103972,
+  "total_pairs": 1137,
+  "valid_pairs": 1137,
+  "valid_checked_pairs": 1137,
+  "error_pairs": 99,
+  "num_error_pairs": 99,
+  "clean_pairs": 1038,
+  "error_rate": 0.087071,
   "passes_acceptance_threshold": true,
   "passes_threshold_30pct": true,
   "passes_internal_target": true,
@@ -13,1581 +13,1661 @@
   "is_valid": true,
   "error_counts_by_type": {
     "MISSING": 0,
-    "OMISSION": 60,
-    "ADDITION": 19,
+    "OMISSION": 31,
+    "ADDITION": 35,
     "FORMAT_ERROR": 0,
     "LEFTOVER_MARKER": 0,
-    "NUMBER_MISMATCH": 18
+    "NUMBER_MISMATCH": 36
   },
   "error_breakdown": {
     "MISSING": 0,
-    "OMISSION": 60,
-    "ADDITION": 19,
+    "OMISSION": 31,
+    "ADDITION": 35,
     "FORMAT_ERROR": 0,
     "LEFTOVER_MARKER": 0,
-    "NUMBER_MISMATCH": 18
+    "NUMBER_MISMATCH": 36
   },
   "missing_count": 0,
-  "omission_count": 60,
-  "addition_count": 19,
+  "omission_count": 31,
+  "addition_count": 35,
   "format_error_count": 0,
   "leftover_marker_count": 0,
-  "number_mismatch_count": 18,
+  "number_mismatch_count": 36,
   "issues": [
     {
-      "row_index": 45,
+      "row_index": 17,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
-      "han": "龍肚最灵祠",
-      "viet": "TỐI LINH TỪ"
+      "reason": "Length ratio 0.69 < 0.7 (11 Viet words / 16 Han chars).",
+      "han": "遞相傳授爾。若後知善恶者。若親近善友。",
+      "viet": "nếu là ngùy pháp thì Đại tuệ lục đã chỉ rõ:"
     },
     {
-      "row_index": 78,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 43.00 > 4.5 (43 Viet words / 1 Han chars).",
-      "han": "蕭",
-      "viet": "Sông trôi mà núi non không chuyện. ấy là Ci-đường. Cơ xi quanh lũy cũ chỉ còn lợ thơ đám có mùa thu. Trong, tù và trên núi hoang tiễn bóng chiều Trong trời đất có ai hiểu thấu lễ biến diệt?"
-    },
-    {
-      "row_index": 79,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 30.00 > 4.5 (30 Viet words / 1 Han chars).",
-      "han": "書",
-      "viet": "Ngọn bút không có miệng vẫn nói chuyện hưng vong Bảng thương một vùng quang. cảnh lây nam ấy Trải gió mưa tiêu diều, chỉ còn lại bức tường hoa."
-    },
-    {
-      "row_index": 84,
+      "row_index": 35,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.03 < 0.7 (2 Viet words / 67 Han chars).",
-      "han": "此公主良配也。時太師有嬖與公主少不諧。相國慧真御之将夺其志。公主不可曰。女辱已归于太師諧不諧命也。父毋之命固不道可。其奈長則從夫之義何相國慧真乃止。",
-      "viet": "làm con."
+      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
+      "han": "自利利他。是佛法也。",
+      "viet": "Đó là Phật pháp vậy."
+    },
+    {
+      "row_index": 37,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.00 < 0.7 (2 Viet words / 784 Han chars).",
+      "han": "竹林大尊者於丙午年閏正月九日。就麒麟院。開堂指法座云。這座也。是曲彖藤牀也。是金猊寶座。坐断佛祖舌頭。管甚之乎者也。招香。此一辦香。祥煙馥郁。瑞氣飄騰。凝五分之法身。普十方之妙供。熟向爐中。奉爲十方垂祐。九廟應靈。玉暦綿長。皇圖鞏固。此一辨香。清净根笛。希奇種性。不假裁培之力。全憑知見之薰。燕向爐中。奉為風和兩順。國泰民安。佛日增輝。法輪常轉。此一辨香。烹也不熟。赌也不爛。打又不闹。檀又不就。觑著則眼睛枯。嗅著則胸門裂。熱向爐中。奉爲无二上人慧忠大士。法雨恩霑。兜孫被澤。就座。陛堂。上首白槌云云。師云。大眾若向第一義諦者。說動念郎差。開口郎错。作麽生諦。作麽生觀。今日且檬第二頭言之。也不得恁麼。乃顧左右云。箇中莫有具大眼孔底人麽。若有。两朵眉毛不消一剔。如無。貧道不免口吧吧地。提將朽朝報之兄辭。但為諸人打取一没。骨董去也。諦聽諦聽。且大道虚廣。何繫何拘。本性湛凝。無善無恶。良由料楝横出多岐。瞥起秋毫。易成霄壤。几聖元同一揆。是非豈得分張。故知罪福本空。畢竟因果非實。人人本具。個個圓成。佛性法身如形如影。隨隐隨顕。不卽不離。鼻孔直下當面門眉毛横。眨在眼背豈容易覓。要且追尋不见道。三千法門。同歸方寸。河沙妙用。總在心源。所謂戒門定門慧門汝無欠少。應反自思。凢諸警欬之聲。杨眉瞬目。手執足运。是什麼性。知此性者。是什麼心。心性洞明。那箇是。那箇不是。法郎性也佛郎心也。那性不是法。那性不是佛。郎心郎佛。郎心郎法。法本非法。郎法郎心。心本非心。即心即佛。諸人者。時光容易遇。人命不停留。奈何喫粥喫齋。不明鉢孟匙筋事参。時有僧出云。着衣喫顾尋常事。何須特地郤生疑。禮拜起問云。禅界無欲即不問。欲界無禅。道將一句來。師以手點空。進云。用古人涕唾作麼。師云。公一回拈出一回新進云。古人皆说如何是佛。如何是法。如何是僧。只這如何。事若何。師云。如何。事若何。進云。没絃琴上知音少。父子弹來格調高。云云。一日師聞徒誦經。乃問。眾作什麼。有僧出云。眾念佛心。師云。若謂是心。心即無佛。若謂是佛佛即無心。唤什麼作心。僧無語。又問一僧。眾作什麼。僧云。念佛。币云。佛本無心。念箇什麼。進云。念是事。師云。是什麼事。進云。不識。師云。汝不識。說者是誰。僧無語。云云。蟻孔潰堤。纖塵腎目。一行纔失。百行俱倾。珍重。",
+      "viet": "THUYẾT PHÁP"
+    },
+    {
+      "row_index": 70,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "四賓主。",
+      "viet": "cũng không chao đảo;"
+    },
+    {
+      "row_index": 77,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 16.25 > 4.5 (65 Viet words / 4 Han chars).",
+      "han": "熱瞒四眾。",
+      "viet": "Khi đã đạt được như vậy thì mới thấn hiều ơ tam quan ngộ cúp, ở tam huyền a, giam yếu n, angũ vị v, mới suy xét kỹ về a tức liện giản v, a từ tân chủ n, a tứ chiếu dụng a, và cơ vi của các thiền tố, abảy khe tám lỗ 15), xào đi xáo lại, thấu triệt chân nguyên."
     },
     {
       "row_index": 88,
-      "category": "OMISSION",
+      "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (18 Viet words / 29 Han chars).",
-      "han": "未嘗以亵近擅為报重。此公主赘德也。相國太師，有疾。親侍湯薬。左飨右粥。",
-      "viet": "Tướng quốc và phu nhân Tuệ Chân ngăn cản, định không cho Thải sư làm theo ý mình."
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "一九夫。二外道。",
+      "viet": "thứ nhất là phàm phu, thử nhì là ngoại đạo:"
     },
     {
-      "row_index": 89,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.59 < 0.7 (10 Viet words / 17 Han chars).",
-      "han": "衣不帯。卧不安席者朞年。此公主侍親疾也。",
-      "viet": "Công chúa cho là không nêu, thưa với cha mẹ."
-    },
-    {
-      "row_index": 90,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (17 Viet words / 28 Han chars).",
-      "han": "相國太師薨。斩衰尽哀。毁性幾滅。国人见之无不掩涕。此公主居表礼也。",
-      "viet": "- Con đã về làm vợ Thải sử, được hòa hợp hay không là do mệnh mà thôi"
-    },
-    {
-      "row_index": 92,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.65 < 0.7 (11 Viet words / 17 Han chars).",
-      "han": "不敢以荣貴而自高自大。此公主事親孝也。",
-      "viet": "Tưởng quốc và phu nhân Tuệ Chân nghe vậy, bèn thói."
-    },
-    {
-      "row_index": 93,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (8 Viet words / 13 Han chars).",
-      "han": "逮慧真薨。公主欒心柴骨亦有闻。",
-      "viet": "Đó là lòng trình tiết của công chúa."
-    },
-    {
-      "row_index": 95,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.65 < 0.7 (28 Viet words / 43 Han chars).",
-      "han": "但倾家貲財施僧供佛。食饥衣寒。用资二天冥福。此公主慎終追遠也。太師身都相位。日劳萬機。不遑家事委付。",
-      "viet": "Nếu có người nào, làm cho Thái sư giận la mắng, tht công chùa lấy lời lễ nhẹ nhàng giảng giải, khiến họ không phản nàn oán hện."
-    },
-    {
-      "row_index": 97,
+      "row_index": 94,
       "category": "OMISSION",
       "severity": "warning",
       "reason": "Length ratio 0.67 < 0.7 (14 Viet words / 21 Han chars).",
-      "han": "如出一意。此公主治家法也。針線助神袞鹽梅資調羹。",
-      "viet": "Đến việc Thái sư lựa chọn, khen thưởng các nhân vật trong triều đinh."
-    },
-    {
-      "row_index": 99,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.47 < 0.7 (7 Viet words / 15 Han chars).",
-      "han": "設有窃盗則隨便追之。不忍露其醜恶。",
-      "viet": "Đó là đức tốt của công chúa."
+      "han": "自毘盧遮那經歷不可說。不可說劫數逮于釋迦牟尼。",
+      "viet": "%), trải qua không biết bao nhiêu số kiếp mới đến Thích Cả Mâu Ni."
     },
     {
       "row_index": 102,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.68 < 0.7 (32 Viet words / 47 Han chars).",
-      "han": "岁晚尤爱佛書。雖隻言片字。不能勾致然大覺之心。粗有識者。其有為小教所不拘滞。此公主通於心性也。甲申冬比虜南。",
-      "viet": "Tướng quốc Thái sư mặt, công chìa đề tang hết lễ, xót thương đau đớn đến hầu như muốn chết, người trong nước tròng thấy, không ai cầm đư,7c nước mắt."
+      "reason": "Length ratio 0.65 < 0.7 (11 Viet words / 17 Han chars).",
+      "han": "那是安身立命處底。且三千威儀八萬細行。",
+      "viet": "êm-la tái không buông tha cho ngươi ở lại đầu"
     },
     {
-      "row_index": 110,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.63 < 0.7 (39 Viet words / 62 Han chars).",
-      "han": "乃義關内候國公。以代之此公主之义子也。次文常王道載。文可以裨時政武可以橙國乱聚靖國大王女寶姿公主。次武甫王道。尚聖宗皇帝第四女寳真公主。",
-      "viet": "Thái sư ở cương vị Tướng quốc, hằng ngày rất hận, chẳng có thì giờ đoái hoài đến việc nhà, ông ủy thác cho còng chúa khu xị với kè già, người trẻ, trông nom sắp xếp lài sản."
-    },
-    {
-      "row_index": 114,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (10 Viet words / 15 Han chars).",
-      "han": "次瓊態公主諱瑞茲。继歸于檢校太尉。",
-      "viet": "người đàn bà tàm thường không thể nèo sánh được."
-    },
-    {
-      "row_index": 115,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "瓊輝瓊恣。武甫皆先亡。孫十三。",
-      "viet": "Đó là công chúa thành thạo việc nội trợ."
-    },
-    {
-      "row_index": 116,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
-      "han": "男七女六。真慈公主諱瑞適判首上位武寧候之子沼。",
-      "viet": "Đối với nô tỳ, công chúa không to tiếng, chỉ sai bảo bằng nét mặt"
-    },
-    {
-      "row_index": 117,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (25 Viet words / 41 Han chars).",
-      "han": "餘皆尚幼。此公主之嫡孫子也。甲子二百八十二。公主所享年也。重典辛卯三月二十二日。薨之年月日也。",
-      "viet": "Nếu kẻ nào lỡ lấy trộm vật gì công chia chỉ tùy tiện truy hỏi mà không nữ đề lộ điều xấu xa của chúng"
-    },
-    {
-      "row_index": 117,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "餘皆尚幼。此公主之嫡孫子也。甲子二百八十二。公主所享年也。重典辛卯三月二十二日。薨之年月日也。",
-      "viet": "Nếu kẻ nào lỡ lấy trộm vật gì công chia chỉ tùy tiện truy hỏi mà không nữ đề lộ điều xấu xa của chúng"
-    },
-    {
-      "row_index": 118,
+      "row_index": 129,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "天長府。獨立村。公主所塟也舆隆元年四月十一日。之年月日也。主公主之裘而請以塟也。文肅王也。論次其所得於上相太師而為之略者。",
-      "viet": "Đó là lòng nhân của công chúa Ngày thường, những khi rỗi rãi, đối với đám tù ho, cỏng chúa thường thăm hỏi, an ủi, chưa từng dùng roi vọt, cho nên những kẻ xấu cũng cảm phục."
-    },
-    {
-      "row_index": 119,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.53 < 0.7 (8 Viet words / 15 Han chars).",
-      "han": "少保拱垣也。曰。为善必福兮人之常程。",
-      "viet": "Đó là lòng khoan thứ của công chúa."
-    },
-    {
-      "row_index": 120,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (24 Viet words / 36 Han chars).",
-      "han": "謂仁必壽兮天胡不靈。生有賢行兮殁有令各。嬪于相門兮世襲厥聲。村名獨立兮高處是瑩。",
-      "viet": "Công chúa về làm dân nhà tướng từ tuổi còn nhỏ, công việc bận rộn, chưa từng có lúc rành rang đề học hỏi."
-    },
-    {
-      "row_index": 122,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.64 < 0.7 (35 Viet words / 55 Han chars).",
-      "han": "翰林校書郎戴冤周善眾。金紫光祿大夫少保兼知檢定天下訟状司黎拱垣樸。興隆元年癸巳四月十二日義夫四朝元老平章軍國重事立。",
-      "viet": "Tuy chưa hiều cặn kẽ từng cầu từng chữ, nhưng nét - đại quát về cái tâm a đại giác n căng đã biểu được, ngoài ra những giới luật lặi vặt thì không câu nệ."
-    },
-    {
-      "row_index": 122,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "翰林校書郎戴冤周善眾。金紫光祿大夫少保兼知檢定天下訟状司黎拱垣樸。興隆元年癸巳四月十二日義夫四朝元老平章軍國重事立。",
-      "viet": "Tuy chưa hiều cặn kẽ từng cầu từng chữ, nhưng nét - đại quát về cái tâm a đại giác n căng đã biểu được, ngoài ra những giới luật lặi vặt thì không câu nệ."
-    },
-    {
-      "row_index": 123,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.58 < 0.7 (11 Viet words / 19 Han chars).",
-      "han": "明命三年歲次壬午六月初壹日遵依古字重刊。",
-      "viet": "Đó là còng chùa đã thông về tâm và tỉnh vậy."
-    },
-    {
-      "row_index": 123,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "明命三年歲次壬午六月初壹日遵依古字重刊。",
-      "viet": "Đó là còng chùa đã thông về tâm và tỉnh vậy."
+      "han": "四無智慧心。",
+      "viet": "không có cải tâm trí tuệ."
     },
     {
       "row_index": 139,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
-      "han": "洞天湖上洞天湖上景",
-      "viet": "Quang cảnh hồ Động-thiên,"
-    },
-    {
-      "row_index": 169,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "閏",
-      "viet": "NIÊM OÁN HẬN CỦA NGƯỜI KHUÊ PHỤ"
-    },
-    {
-      "row_index": 170,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 25.00 > 4.5 (25 Viet words / 1 Han chars).",
-      "han": "怨",
-      "viet": "Ngũ dậy, cuốn mành xem cánh hồng rụng, Chim oanh vàng bặt tiếng, oán gió Đòng Không dưng mặt trời lặn phía ngoài lầu tây"
-    },
-    {
-      "row_index": 182,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
-      "han": "童",
-      "viet": "Trong tiếng sáo, mục đông lùa trâu về hếi,"
-    },
-    {
-      "row_index": 218,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.43 > 4.5 (38 Viet words / 7 Han chars).",
-      "han": "一枝迷入故人夢",
-      "viet": "Quán bên sông, mới canh đầu trấng đã lên cầu. Ba mươi cung tiên đặt giường ngủ la liệt. Tám nghìn ngọn tháp thơm khua động nước triều mùa xuân Phong cảnh chúa Phổ-minh vẫn như trước,"
-    },
-    {
-      "row_index": 264,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 4.86 > 4.5 (34 Viet words / 7 Han chars).",
-      "han": "社稷两回劳石馬",
-      "viet": "Trên nền xã tắc hai lần ngựa đá phải mệt nhọc, Nhưng núi sông nghìn đời được đặt vững như âu vàng BÀI MINH ĐỀ TRÚC NÔ () Trải tuyết lạnh mà tâm thông suốt,"
-    },
-    {
-      "row_index": 309,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 6.00 > 4.5 (6 Viet words / 1 Han chars).",
-      "han": "問。",
-      "viet": "Ex SƯ ĐỆ VẤN ĐÁP Vấn:"
-    },
-    {
-      "row_index": 312,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.38 < 0.7 (3 Viet words / 8 Han chars).",
-      "han": "云何忽生山河大地。",
-      "viet": "thị như hà?"
-    },
-    {
-      "row_index": 316,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.00 > 4.5 (10 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Thùy tri viễn yên lãng biệt hữu hảo thương lường?"
-    },
-    {
-      "row_index": 330,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (1 Viet words / 2 Han chars).",
-      "han": "進曰。",
-      "viet": "Viết:"
-    },
-    {
-      "row_index": 334,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 8.00 > 4.5 (16 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Còn dòng Thanh-nguyên thi đến đầu thế kỷ X mới xuất Trong Giời Thì Hiệu"
-    },
-    {
-      "row_index": 344,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (1 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Giơ:"
-    },
-    {
-      "row_index": 346,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 36.00 > 4.5 (36 Viet words / 1 Han chars).",
-      "han": "曰。",
-      "viet": "trái lại có chữ giơ viết khu Vậy tạm là giơ nghĩa ià giơ lên Nghĩa 2 về: Tổ Đạt Ma người nước Thiên-trúc K 25 mắt ở chùa Thiếu-làm 45 là mộ giá."
-    },
-    {
-      "row_index": 362,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
-      "han": "白鷺下田千點雪。",
-      "viet": "lại cùng không đối xiếng dược với về đười:"
-    },
-    {
-      "row_index": 365,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.08 < 0.7 (30 Viet words / 358 Han chars).",
-      "han": "成道歌生固人身。意羅禍奇。埃哈谷特。買沃羅色。旬尼麻吟。些灭赦些。得意工意。哄貞呵。功名庄重。富貴庄性。秦漢初箕。粘它閑夏。安皮分庫。剧准養身。屈寂嫩高。耨命山野。猿明朽喜。伴共些。永尾岸箕。身恶喜捨。清閑無事。撅削台花。蜍奉学丞。店香火。誦經念字。祝聖态求。三有四思。些願特把。念意域之。覺性光了。庄群彼此。争人執我。塵緣楼歇。是非庄兮。煉幾糁惡。店得衰打。性工塵世。庄管事世永永岸箕。學隊諸佛。朱特圆成。唱曲樂生。安禪潇洒。埃子金谷。平占包。侈醒職槐珠漓泥渚。谷哈身幻。庄恪浮雲。萬事皆空。似荒学把。完命耨細。景永岸箕篤志修行。絲繡締把。冷导庄渚與导座哈。吟四塔聰。兮之福奇。安身立命。時節因緣。割酷分米。油羅鴉个。身尼庄管。讨奴。地水火風。油羅變化。法身常住。普满太虚。顕赫目前。圆融。禪宗指示。目擊道存。空谷傳聲。音响應也。鋪导学道。無效饒世。竹化年蟑。幾台二号禍。罷惡為曰。撸北夕南。一指頭禪。利那謁可偈浪。景寂安居自在心。凉風吹迤八松陰。禪床樹下一經卷。两字清閑勝萬金。",
-      "viet": "Sống yên giữa cảnh iặng long không Gió mát hia hìu lọt bóng thông. Dưới gốc. giường thiền, kinh một quyền, Thanh nhân hai chữ, đáng muôn đồng.; illệ cin"
-    },
-    {
-      "row_index": 365,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "成道歌生固人身。意羅禍奇。埃哈谷特。買沃羅色。旬尼麻吟。些灭赦些。得意工意。哄貞呵。功名庄重。富貴庄性。秦漢初箕。粘它閑夏。安皮分庫。剧准養身。屈寂嫩高。耨命山野。猿明朽喜。伴共些。永尾岸箕。身恶喜捨。清閑無事。撅削台花。蜍奉学丞。店香火。誦經念字。祝聖态求。三有四思。些願特把。念意域之。覺性光了。庄群彼此。争人執我。塵緣楼歇。是非庄兮。煉幾糁惡。店得衰打。性工塵世。庄管事世永永岸箕。學隊諸佛。朱特圆成。唱曲樂生。安禪潇洒。埃子金谷。平占包。侈醒職槐珠漓泥渚。谷哈身幻。庄恪浮雲。萬事皆空。似荒学把。完命耨細。景永岸箕篤志修行。絲繡締把。冷导庄渚與导座哈。吟四塔聰。兮之福奇。安身立命。時節因緣。割酷分米。油羅鴉个。身尼庄管。讨奴。地水火風。油羅變化。法身常住。普满太虚。顕赫目前。圆融。禪宗指示。目擊道存。空谷傳聲。音响應也。鋪导学道。無效饒世。竹化年蟑。幾台二号禍。罷惡為曰。撸北夕南。一指頭禪。利那謁可偈浪。景寂安居自在心。凉風吹迤八松陰。禪床樹下一經卷。两字清閑勝萬金。",
-      "viet": "Sống yên giữa cảnh iặng long không Gió mát hia hìu lọt bóng thông. Dưới gốc. giường thiền, kinh một quyền, Thanh nhân hai chữ, đáng muôn đồng.; illệ cin"
+      "han": "二博覽經典。三無益相諫。四有難相扶。",
+      "viet": "hai là đọc rộng kinh điền, ha là khuyên can điều vò ích và bồn là giúp nhau trong khó khăn hoạn nạn."
     },
     {
-      "row_index": 384,
+      "row_index": 148,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
-      "han": "九對御皆超俗之譚。因推為師兄。",
-      "viet": "Phảm những lới hầu chuyện nhà vua đều là lời siêu tục, do đó vua suy tôn người là sir huynh và ban cho tên hiệu hiện nay Ngày kia"
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "境具四縁。一水。",
+      "viet": "Cánh phải đủ bồn duyên:"
     },
     {
-      "row_index": 397,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
-      "han": "未有所了者。",
-      "viet": "lỗ ngộ được"
-    },
-    {
-      "row_index": 407,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "上士以書問疾。",
-      "viet": "Vụa mở rà xem"
-    },
-    {
-      "row_index": 414,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "丁元聖毋后憂諒陰之際。",
-      "viet": "Nguyên Thánh mẫu hội, nhân đó."
-    },
-    {
-      "row_index": 451,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.69 < 0.7 (11 Viet words / 16 Han chars).",
-      "han": "吉祥而卧。瞑目順化家内侍妾失聲慟哭。",
-      "viet": "Người hầu hạ và thế thiếp trong nhà khóc rống lèn."
-    },
-    {
-      "row_index": 462,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.12 < 0.7 (4 Viet words / 32 Han chars).",
-      "han": "這老古雞人難名邈梁皇曲天泰帝驛轢能方能圓能厚能薄法海獨眼禅林三角。",
-      "viet": "Rừng Thiền ba phía."
-    },
-    {
-      "row_index": 463,
+      "row_index": 162,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
-      "han": "辭八覲",
-      "viet": "BIỆN GIẢI VIỆC TỪ CHỐI SANG CHẦU ()"
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "皆從無相諫心。四同事恶友。爲恶事件。或同飲酒。",
+      "viet": "bón là cùng hùa theo bẹn xấu, làm điều ác hoặc cùng nhau rượu chè, cờ bạc, trai gái, xường ca."
     },
     {
-      "row_index": 488,
+      "row_index": 164,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "攝四善友者。一止非善友。恶事相止。二慈愍善友。",
+      "viet": "một, bạn tốt ngăn cản điều sai trái, nghĩa là khi gặp điều ác thì cùng khuyên can nhau, hai, bạn tốt từ mẫu, nghĩa là gặp điều khồ ải, thường cứu, đỡ nhau, ba, bạn tốt làm điều lợi chung, nghĩa:"
+    },
+    {
+      "row_index": 166,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "樂事相與。四同事善友。善事相同。",
+      "viet": "bồn, bạn tốt cùng làm việc với nhau, nghĩa là khi có việc thiện thì cùng chung tay đóng góp."
+    },
+    {
+      "row_index": 177,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "流芳四七。續焰二三。縱楊岐宗。得圆悟旨。",
+      "viet": "Mặt khác, gọi là 'str, chính là người đề tiếng thơm trong số hai mươi tám tổ Tây phương, nổi dối ngọn đèn của sáu tồ Đông độ, mì rộng tông phái, - đạt tới sự trọn ven theo tôn chỉ."
+    },
+    {
+      "row_index": 210,
       "category": "ADDITION",
       "severity": "warning",
-      "reason": "Length ratio 7.33 > 4.5 (22 Viet words / 3 Han chars).",
-      "han": "且為書",
-      "viet": "Một nên hương lòng vừa củi đầu khấn đã nghe tiếng vọng. My Nương nếu là vị thần đầy đủ ny nghi,"
+      "reason": "Length ratio 21.00 > 4.5 (21 Viet words / 1 Han chars).",
+      "han": "瘦",
+      "viet": "Giữ thói vung về không có mưu chước gì, Đỡ tấm thân gia yếu đã có chiếc gậy mây khẳng kheo."
     },
     {
-      "row_index": 502,
+      "row_index": 222,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "三軍批虎氣吞牛",
-      "viet": "Thân nam nhi nếu chưa trà xong nợ công danh. Ất thẹn, thùng khi nghe người đời xế chuyện và hầu (-)"
+      "han": "爐殘楫出日三",
+      "viet": "Lò tàn, than lụi, sáng nào hay"
     },
     {
-      "row_index": 518,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "月瀉軍持夜澗寒休向五勞",
-      "viet": "Trăng tài ánh sáng xuống bình nước (f), dòng suối hạn đêm lạnh lẽo."
-    },
-    {
-      "row_index": 521,
+      "row_index": 231,
       "category": "ADDITION",
       "severity": "warning",
-      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
-      "han": "冬景",
-      "viet": "Vẽ màu xanh, tô màu thủy, thiên nhiên đẽo gọt nên chỏm nùi"
+      "reason": "Length ratio 8.00 > 4.5 (8 Viet words / 1 Han chars).",
+      "han": "撑",
+      "viet": "Tay cầm ống thồi, tay nhặt mo nang"
     },
     {
-      "row_index": 522,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
-      "han": "府樓基倚半",
-      "viet": "tạnh sáng"
-    },
-    {
-      "row_index": 548,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 6.00 > 4.5 (12 Viet words / 2 Han chars).",
-      "han": "即真",
-      "viet": "Luống khiến nước mắt người con chỉ hiếu thấm ướt vạt áo."
-    },
-    {
-      "row_index": 549,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
-      "han": "靈",
-      "viet": "Đành rằng cung Nam-nội lạnh lễo là có duyên cử,"
-    },
-    {
-      "row_index": 636,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (9 Viet words / 15 Han chars).",
-      "han": "將者鷹也。軍者鴨也。以鴨養鷹有何怪。",
-      "viet": "ĐỀ TỰA SÁCH VẠN-KIẾP TÔNG BÍ TRUYỀN THƯ"
-    },
-    {
-      "row_index": 637,
+      "row_index": 236,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['萬'] not reflected in Việt translation.",
-      "han": "萬刼宗秘傳书序夫善師者不陣。",
-      "viet": "Phàm người khéo cầm quần thì không cần bày trận."
+      "han": "空爭疊萬",
+      "viet": "Chi bằng theo bạn về núi,"
     },
     {
-      "row_index": 647,
+      "row_index": 238,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "所謂善陣者不戦矣。",
-      "viet": "không cần giao chiến vậy."
+      "reason": "Length ratio 0.14 < 0.7 (1 Viet words / 7 Han chars).",
+      "han": "鴟瑞唯省歌鴞瑞。",
+      "viet": "IO44"
     },
     {
-      "row_index": 661,
+      "row_index": 247,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['三', '四', '五'] not reflected in Việt translation.",
-      "han": "凶神恶將。三吉五四。",
-      "viet": "Việc nào việc ấy thực phân minh rõ rệt."
+      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
+      "han": "逯五式雯撫殿堯。",
+      "viet": "lạ hơn ba mươi sáu Thiền thiên. Thấy đây:"
     },
     {
-      "row_index": 678,
+      "row_index": 249,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "羅酸層梯篤没龙温抃没九。",
+      "viet": "Mây năm thức che phủ đền nghiêu Núi nghìn tầng quanh co đường Thục:"
+    },
+    {
+      "row_index": 297,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['七'] not reflected in Việt translation.",
+      "han": "觀七寶尾包孛現。",
+      "viet": "ngao Nức đài lan nghĩ hương đan quê"
+    },
+    {
+      "row_index": 298,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "襖六殊愈仙飄。",
+      "viet": "Nghe Hằng Nga thiết khúc tiêu thiều."
+    },
+    {
+      "row_index": 348,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.27 < 0.7 (4 Viet words / 15 Han chars).",
-      "han": "丁未九月大水耽耽堤决瓠子何煩臨",
-      "viet": "ĐÊ ĐAM-ĐAM VŨ"
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "冬寒继以陽春。",
+      "viet": "Khó mong thoài được;"
     },
     {
-      "row_index": 692,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.50 > 4.5 (11 Viet words / 2 Han chars).",
-      "han": "葉苔",
-      "viet": "Không quét được đám bùn ở sân lẫn với lá rùng."
-    },
-    {
-      "row_index": 738,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
-      "han": "紫",
-      "viet": "Cho nên giấc mộng về cử vương vấn mãi."
-    },
-    {
-      "row_index": 742,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "醉",
-      "viet": "Triều lên, mặt nước như gương sáng"
-    },
-    {
-      "row_index": 744,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "紅",
-      "viet": "Lá đỏ rơi đầy thành ven sông."
-    },
-    {
-      "row_index": 784,
+      "row_index": 369,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (11 Viet words / 18 Han chars).",
-      "han": "按趙公記云。唐永徽中。以阮常明為峰州都督。",
-      "viet": "Xét sách Giao-châu ký của Triệu công có nói rằng:"
+      "reason": "Length ratio 0.50 < 0.7 (7 Viet words / 14 Han chars).",
+      "han": "君臣而父子之情。父子而君臣之義。",
+      "viet": "Vua tôi mà cha con tình riêng:"
     },
     {
-      "row_index": 785,
-      "category": "OMISSION",
+      "row_index": 371,
+      "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Length ratio 0.14 < 0.7 (7 Viet words / 50 Han chars).",
-      "han": "覩其土地千里。江山襟带。於白鶴外延通聖觀置三清像以為奇常。別開前後二虞。擬塑芦觀神像。未辨羸靈。焚香祝曰。此間神祇。",
-      "viet": "Giữa niên hiệu Vĩnh Huy đời Đường"
+      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
+      "han": "菊花百詠",
+      "viet": "Mưa tạnh, mở cửa vườn đánh gốc, trồng"
     },
     {
-      "row_index": 786,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.05 < 0.7 (4 Viet words / 76 Han chars).",
-      "han": "苟能顕靈者。早現形狀吾知塑樣。夜夢两箇異人。面貌层稜。並擁徒属相呵相凌。趁常明争居觀前。常明問之。汝各字為誰一稱土令。一稱石鄉。常明曰請試羸藝勝者前居石鄉跳踯一步到那边江。",
-      "viet": "Nguyễn Thường Minh làm"
-    },
-    {
-      "row_index": 788,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.68 < 0.7 (27 Viet words / 40 Han chars).",
-      "han": "自唐至今千百餘载。其地傑神靈。祈祷報應。古今一也。向者。陳朝第二帝。太宗皇帝。丙子年間。治道太平。",
-      "viet": "Lại riêng mở hai dải vũ trước sau, định tô tượng thần hộ vệ quán, nhưng chưa rõ vị nào limb thiêng nên đốt hương khấn rằng:"
-    },
-    {
-      "row_index": 789,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.55 < 0.7 (26 Viet words / 47 Han chars).",
-      "han": "四方向化。時有大宋國。福延路福州。福清縣。太平鄉。海壇里。道士許宗道。同流附舶乘興入南。時太宗皇帝第六子昭文王。",
-      "viet": "ơ Các vị thần trời, thần đất ở đày, nếu có vị nào linh thiêng, xin sớm hiện hình cho tòi biết đề tạc tượng n."
-    },
-    {
-      "row_index": 789,
+      "row_index": 381,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "四方向化。時有大宋國。福延路福州。福清縣。太平鄉。海壇里。道士許宗道。同流附舶乘興入南。時太宗皇帝第六子昭文王。",
-      "viet": "ơ Các vị thần trời, thần đất ở đày, nếu có vị nào linh thiêng, xin sớm hiện hình cho tòi biết đề tạc tượng n."
+      "han": "四",
+      "viet": "IV"
     },
     {
-      "row_index": 790,
+      "row_index": 408,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.63 < 0.7 (31 Viet words / 49 Han chars).",
-      "han": "今入内檢校太尉平章事。清化府路都元帥賜金魚袋。上柱國開國王。心懷大道。性重宋人。相留宗道於門墙。期以闡楊於道教。",
-      "viet": "Đêm đến mộng thấy hai dị nhân, đáng mạo cò quái, đều đem, theo bộ thuộc, mằng mỏ chen lán nhau rào đến chỗ Thường Minh, tranh được ở quản trước."
+      "reason": "Length ratio 0.25 < 0.7 (1 Viet words / 4 Han chars).",
+      "han": "白滕江賦",
+      "viet": "POLITING"
     },
     {
-      "row_index": 791,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.07 < 0.7 (4 Viet words / 60 Han chars).",
-      "han": "甲申冬季北寇來侵。時開國王鎮守宣光諸路。同許宗道曾於乙酉上元。在白鶴江。剪髮立誓與神為盟盡以心忠其報君上。遂率左右单騎前趋。终歷蛮僚。",
-      "viet": "Thường Minh hỏi họ:"
-    },
-    {
-      "row_index": 792,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (6 Viet words / 12 Han chars).",
-      "han": "韃軍後至。八刻之内彼此不逢。",
-      "viet": "Các ngài tên, tự là gì?"
-    },
-    {
-      "row_index": 794,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.06 < 0.7 (4 Viet words / 64 Han chars).",
-      "han": "仲夏中旬韃軍敗散。皆托神王之福蔭也。自後數載。開國王屡修黃籙。許宗道主行。數投簡於傘圓山頂。進龍璧於白鶴靈渊。啟白。道前經由祠下。見其宮觀漸已傾顏。",
-      "viet": "Xin thử tài nghệ."
-    },
-    {
-      "row_index": 795,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.07 < 0.7 (6 Viet words / 89 Han chars).",
-      "han": "兼乏洪鍾晨脊警悟。心欲铸造。力所未能。後有天瑞長公主陳迺第三帝聖宗皇帝長皇姬也。掌管白鶴鄉民。曾出已財買置梓料重造一新。自天瑞長公主身薨之後。其鄉民土地盡属第五帝莫宗皇帝長皇姬天真長公主之所管。",
-      "viet": "Ai thắng sẽ được ở trước."
-    },
-    {
-      "row_index": 795,
+      "row_index": 413,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "兼乏洪鍾晨脊警悟。心欲铸造。力所未能。後有天瑞長公主陳迺第三帝聖宗皇帝長皇姬也。掌管白鶴鄉民。曾出已財買置梓料重造一新。自天瑞長公主身薨之後。其鄉民土地盡属第五帝莫宗皇帝長皇姬天真長公主之所管。",
-      "viet": "Ai thắng sẽ được ở trước."
+      "reason": "Hán number(s) ['五', '九'] not reflected in Việt translation.",
+      "han": "九江五湖。",
+      "viet": "Chữ địch ngạn lò;"
     },
     {
-      "row_index": 796,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.66 < 0.7 (19 Viet words / 29 Han chars).",
-      "han": "簿税减役。恤苦爱民。一鄉之生靈。莫不拜其恩矣。奈何天人下世不肯久延。",
-      "viet": "Thạch Khanh nhảy một, bước đến bên kia sông, hỗng thấy Thồ Lệnh đã đứng bèn kia sông rồi."
-    },
-    {
-      "row_index": 797,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.58 < 0.7 (19 Viet words / 33 Han chars).",
-      "han": "二十有家因胎遇疾。彼時許宗道恭奉詔命代為祈禳。救治百端。難逃大限。昇沉莫测。",
-      "viet": "Thạch Khanh lại nhầy một bước sang bến này sông, lại thấy Thồ Lệnh dã đứng bên này trước"
-    },
-    {
-      "row_index": 798,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.10 < 0.7 (7 Viet words / 67 Han chars).",
-      "han": "超度无因。此後莫宗皇帝太上皇太后。以天真長公主。已分金银。尽皆布施。就供養太清宫生金五十兩。不其庚申春暮。莫宗皇帝雲駕已僊。時許宗道架造太清宫梓工未畢。",
-      "viet": "Vì vậy Thổ Lệnh được ở đảy"
-    },
-    {
-      "row_index": 799,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (18 Viet words / 29 Han chars).",
-      "han": "情痛何依。思難報於君天。念欲修其善果。辛酉春。許宗道铸造太清宮洪重。",
-      "viet": "Đó tức là vị thần mà ngày uay được sắc phong Vũ phú trung dực ủy hiền vương."
-    },
-    {
-      "row_index": 801,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.05 < 0.7 (4 Viet words / 82 Han chars).",
-      "han": "取天真長公主已銀三十三兩計錢五百緡。親受許宗道供養縁司為天真長公主前程之福果也。又遇嘉林弟文惠王代為天真長公主布施孤貧及諸寺觀。再供養太清宮金銀計錢二百緡今許宗道累蒙供養。",
-      "viet": "Nơi đây đất qui."
-    },
-    {
-      "row_index": 801,
+      "row_index": 414,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "取天真長公主已銀三十三兩計錢五百緡。親受許宗道供養縁司為天真長公主前程之福果也。又遇嘉林弟文惠王代為天真長公主布施孤貧及諸寺觀。再供養太清宮金銀計錢二百緡今許宗道累蒙供養。",
-      "viet": "Nơi đây đất qui."
+      "reason": "Hán number(s) ['三', '百'] not reflected in Việt translation.",
+      "han": "三吳百粤。",
+      "viet": "khỏ cốt doanh khâu."
     },
     {
-      "row_index": 802,
+      "row_index": 416,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.03 < 0.7 (2 Viet words / 79 Han chars).",
-      "han": "欲廣其恩。除已助縁太清宮外。再以天真長公主分所施之資。收買銅錫。投請入内檢校太尉開國王主盟。就石棟口口口口口口口鑄造洪鍾一口供養口口口口口口口于以報口口口口口口口之厚德。",
-      "viet": "thần thiêng."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "靡不經閱。",
+      "viet": "Đương kỳ:"
     },
     {
-      "row_index": 804,
+      "row_index": 417,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
+      "han": "胸吞云夢者數百。",
+      "viet": "Trục lô thiên lý, tỉnh kỷ ý m."
+    },
+    {
+      "row_index": 418,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "而四方之壮志猶闕如也。",
+      "viet": "Tì bưu lục quân, bình nhận phong khi."
+    },
+    {
+      "row_index": 419,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.44 < 0.7 (27 Viet words / 61 Han chars).",
-      "han": "然願口口口口口口口增崇福果廣衍金枝伏為天真長公主陳。伏此铸锺功德。滌除五漏之色身。超涉三清之浄界。仍为天瑞長公主陳證向時造觀之良因。",
-      "viet": "Trước đây vào đời Thái Tông hoàng đế, vị vua, thứ hai triều Trần, khoảng năm Binh tỷ, trị nước thái bình, bốn phương theo giáo hóa"
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "乃举楫兮中流。",
+      "viet": "Thư hung vị, quyết:"
     },
     {
-      "row_index": 807,
+      "row_index": 424,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (13 Viet words / 26 Han chars).",
-      "han": "清化府安縁鄉興福寺碑并序。夫繼承先志顕楊後世孔門謂之孝。",
-      "viet": "(Bài minh kèm theo lời tựa bia chúa Hưng-phúc, hương An-duyên."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "是泛是浮。",
+      "viet": "Ký nh:"
     },
     {
-      "row_index": 809,
+      "row_index": 428,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.11 < 0.7 (15 Viet words / 132 Han chars).",
-      "han": "俾世世子孫。因霜露之思。君高之感。一貼，一禮。起孝起敬。永為餘慶之基者。其惟圆覺之福田欤。粤有清化府。安绿鄉。興福寺者。是先祖上將明字黎公安。室中郭氏生曰。大撮黎袍子。大撮黎明以紹隆甲子黎公朋之所創也。寺未克竟。賫志以没。其子大撮大僚班服黎公孟。慈祥天志。孝友夙成。每念生成之德。顧復之恩。雖碎骨粉身。曷報萬一。",
-      "viet": "Oi, hiếu và từ, hà chẳng phải là bản tàm của con người hay sao."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "風景三秋。",
+      "viet": "Tuy nhiên:"
     },
     {
-      "row_index": 810,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.18 < 0.7 (19 Viet words / 107 Han chars).",
-      "han": "遂與其兄元大撮寄班黎男子。寄班黎廣追謚曰。正覺婆。黎可磊。洎諸子孫。於開泰甲子春首。相彼遺址。規模狹隘。像設未完。堂廡未備。相謂曰。厥父基厥子弗肯堂矧肯横。乃同心協力。继成其志。開拓基址。广袤如法。塑像金容。雕霍萬狀。法堂製其前。僧房繚其後寶座擎以石龍。",
-      "viet": "Vậy nên đóc lòng hiếu để báo cải ơn, vô cùng, rộng điều từ đề cần phúc cõi âm."
-    },
-    {
-      "row_index": 811,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.02 < 0.7 (2 Viet words / 119 Han chars).",
-      "han": "雕刻極人間之巧。佛殿益以花瓦飛跂聳雲外之觀。砌累貞石庭列異花。風度青松。彷佛乎天宫之奏响。月篩翠竹。摇颺乎佛界之放光。古木扶宛若菩提之。祇園深邃。浩然布地之金。朕恠衍奇。变態百出。冰筆舌所能举写。嗚呼非公孝慈之一念。安能致萬世之福田乎。紹寶間。胡虜南下。虜右相唆都。整軍海道。",
-      "viet": "mờ mịt."
-    },
-    {
-      "row_index": 813,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.18 < 0.7 (22 Viet words / 125 Han chars).",
-      "han": "事遂不果。及虜退。上回銮京闕。公以其事聞。詔鞠之。則以其鄉物賠償之。以為忠勤之勸繄公之力也。其年冬。寺畢工。碑礱石。公不以乎是為遂。走价袖狀。請銘於余曰。某先君子夙志未遂。某忝为人子。恐先君子之志。與腐草一旦斯尽。爰继成之。欲俾某與先君子之志業與攫山海水流沄。崔萃相為無窮。幸嘱筆焉。以誌來者。",
-      "viet": "Đấy chẳng phải là ruộng phúc của sự viên giác ư 2 Phủ Thanh-hóa, hương An-duyên có chùa Hưng-phúc."
-    },
-    {
-      "row_index": 814,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.12 < 0.7 (19 Viet words / 153 Han chars).",
-      "han": "余頷公言。无嘉公之志。又嘉是父之有是子。安得不。遂為之。曰。南玃之山東海之水左盤右拏鼎平匹美。清淑渊渟有源有委蛇蜒逶迤為韶為虺惟彼黎公鍾此瑰瑋為國忠臣為家令子。慨念先君修崇釋氏貿目遺構克継先軌。開泰紹隆甲子甲子父基子堂孝無終始。為善之報錫類之址嗚呼休哉口口口口。正大夫口金魚袋上品都拼。翰林口口。開泰甲子年季冬月谷日。侍内員外郎黎品書。",
-      "viet": "Tiên tồ Thượng tưởng minh tự Lê Công An, vợ họ Quách, sinh được Đại toát Lê Bào Tử,"
-    },
-    {
-      "row_index": 830,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "粤庚申春。協心卜吉。",
-      "viet": "Lý trường Lê Doãn Sử"
-    },
-    {
-      "row_index": 831,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.23 < 0.7 (5 Viet words / 22 Han chars).",
-      "han": "安之于安江峽地。鳩貨財為公需。命工來秋砌石完其址。",
-      "viet": "Trùm trưởng Lê Đình Thống"
-    },
-    {
-      "row_index": 833,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (5 Viet words / 10 Han chars).",
-      "han": "乃迹原碑重立于址之右。",
-      "viet": "Nhiêu-học Lương Sĩ Quản"
-    },
-    {
-      "row_index": 835,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "幾乎其享之有所矣。",
-      "viet": "Lý trưởng Phạm Văn Oánh"
-    },
-    {
-      "row_index": 836,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.10 < 0.7 (3 Viet words / 30 Han chars).",
-      "han": "遂追刻于石。以青其傅云。皇朝嗣德十三年歲庚申季夏初八日。副總杜名冠。",
-      "viet": "Lè Doãn Chuần"
-    },
-    {
-      "row_index": 836,
+      "row_index": 428,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "遂追刻于石。以青其傅云。皇朝嗣德十三年歲庚申季夏初八日。副總杜名冠。",
-      "viet": "Lè Doãn Chuần"
+      "han": "風景三秋。",
+      "viet": "Tuy nhiên:"
+    },
+    {
+      "row_index": 444,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "當其舳艫千里。",
+      "viet": "phong cảnh ba thu. Bir lầu xào xạc:"
+    },
+    {
+      "row_index": 446,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "貔貅六軍。",
+      "viet": "Sông chìm giáo gẫy:"
+    },
+    {
+      "row_index": 457,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "孟德赤壁之師。",
+      "viet": "dáo giơm sáng chỏi."
+    },
+    {
+      "row_index": 477,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
+      "han": "行且歌曰大江兮渡漉。",
+      "viet": "Sông Đảng một giải dài ghê."
+    },
+    {
+      "row_index": 481,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.55 < 0.7 (6 Viet words / 11 Han chars).",
+      "han": "客從而賽歌曰二聖兮並明。",
+      "viet": "Anh minh hai vị Thánh quân."
+    },
+    {
+      "row_index": 484,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "千古昇平。",
+      "viet": "Tai đâu đất:"
+    },
+    {
+      "row_index": 485,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
+      "han": "信知不在閭河之險兮。",
+      "viet": "hiềm, cổi mình đirc.cao."
+    },
+    {
+      "row_index": 493,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.50 > 4.5 (50 Viet words / 4 Han chars).",
+      "han": "道之不明。",
+      "viet": "Bọn áo thâm, áo vàng tu tập ở đẩy, không cây mà án, không dẹt mà mặc những người thất phú thất phụ thường bỏ cửa nhà, bò làng xóm lũ lượt quy theo Than ôi 1 Các bậc thánh hiền ngày càng xa cách, chính đạo ngày càng lu."
+    },
+    {
+      "row_index": 504,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.25 > 4.5 (117 Viet words / 4 Han chars).",
+      "han": "是可書也。",
+      "viet": "đáng phải truất bỏ, chính đạo phải được phục hưng, Đã là kê sĩ, đại phù, nếu không phải đạo Nghiêu Thuân, không bày tỏ trước vua, khộng phải đạo Khồng Mạnh, không trước thuật Thế mà ta lại dương dương tự đắc, bản bạc, dài động về đạo Phật ta sẽ lửa đôi ai 7 Tuy nhiên, Chu Tuế đã từng làm trong Nội mật viện, thông thạo việc ty tào; đến lúc tuổi già khinh đường sĩ hoạn, ham việc bố thị, cổ từ bồng lộc, tự xin về ần dật để được an, nhàn, thì độ là việc ta muốn học mà chưa được Cho nên đó cũng là việc đáng ghi chép vậy."
+    },
+    {
+      "row_index": 522,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "僧德文夢千餘人集山巔其中三貴相貌殊異語眾曰。汝等當知造塔是極三途勝事。及下手日。",
+      "viet": "Khi mới xem dất đề khởi công, sứ Đức Văn đêm chiêm bao thấy hơn một nghĩn người tụ họp ở dinh núi, trong đô có ba vị qui nhân, trứng mạo khác thường, bảo với."
+    },
+    {
+      "row_index": 523,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.10 < 0.7 (3 Viet words / 31 Han chars).",
+      "han": "僧德門夜夢竹林普慧尊者結印安鎮及僧德浄德明前後砌塔門路推落大石。",
+      "viet": "mọi người rằng:"
+    },
+    {
+      "row_index": 527,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "塔成四層。夜放光明。遠近咸覩。",
+      "viet": "sư Đức Mòn lại chiêm hao thấy đirc Trúc lâm Phồ Tuệ kết ấn giữ cho tháp yên vững."
+    },
+    {
+      "row_index": 529,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.68 < 0.7 (19 Viet words / 28 Han chars).",
+      "han": "昔阿育王役鬼神造八萬四千塔貼禮者如親見佛杖頭刻塔亦弭妖氛。",
+      "viet": "Mọi người trông thấy đều kịnh hãi chạy tân hết, của ràng thần thề họ tát phải nái vìn"
+    },
+    {
+      "row_index": 529,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "昔阿育王役鬼神造八萬四千塔貼禮者如親見佛杖頭刻塔亦弭妖氛。",
+      "viet": "Mọi người trông thấy đều kịnh hãi chạy tân hết, của ràng thần thề họ tát phải nái vìn"
+    },
+    {
+      "row_index": 533,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.64 < 0.7 (18 Viet words / 28 Han chars).",
+      "han": "永托伽藍境界。用為含識津梁無乃不可乎。余謂釋迦老子以三空證道。",
+      "viet": "Tất cà những việc ấy, có việc nào không phải do phép mầu nhiệm của đức Phật ta."
+    },
+    {
+      "row_index": 542,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (2 Viet words / 3 Han chars).",
+      "han": "尺而仞。",
+      "viet": "Ta nói:"
+    },
+    {
+      "row_index": 550,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.29 > 4.5 (107 Viet words / 7 Han chars).",
+      "han": "憂船舷而歌滄浪。",
+      "viet": "Nghĩ đến việc nhà sư, lấn, chàn mảy, xếp từng hòn đá, từ một tắc đến một, thước, từ một thước đến một nhận, một bước tiến thêm một bước, một tầng cao thêm một tầng, tới lúc tháp cao, sing sững, thế chạm trời xanh, tô thèm vè đẹp của non sống, trạnh công xây dựng cùng tạo hóa, thì bộn sir sãi tầm thường đàu có thể sanh được Than ôi, mai sau mấy trăm năm, nữa, chốc lát tảnh tượng biên đồi, nếu lại có kẻ buỏng lời than thở như ta, lễ nào không có vài người như sư Nhụ xây dựng lại?"
+    },
+    {
+      "row_index": 567,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 23.00 > 4.5 (23 Viet words / 1 Han chars).",
+      "han": "蘇",
+      "viet": "Ướm hỏi đài mây cao độ bao nhiều? Cần họa thêm bức tranh c tề tương rời núi s CÂY QUẾ TRONG TRĂNG"
+    },
+    {
+      "row_index": 571,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.50 < 0.7 (3 Viet words / 6 Han chars).",
+      "han": "表風吹騎去鶴",
+      "viet": "Ở QUỲNH-LÂM"
+    },
+    {
+      "row_index": 573,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "生",
+      "viet": "Mây che mái nhà tranh, rồng năm trên gò"
+    },
+    {
+      "row_index": 594,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.00 > 4.5 (24 Viet words / 2 Han chars).",
+      "han": "思君",
+      "viet": "Nước cũ còn đề lại cày gỗ lớn. Non cao chỉ có cây đàn đứt giảy Nếu có thể đúc được quan Tư đồ,"
+    },
+    {
+      "row_index": 596,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.29 < 0.7 (2 Viet words / 7 Han chars).",
+      "han": "作調羹汝惟鹽梅",
+      "viet": "Ở LÀNG"
+    },
+    {
+      "row_index": 627,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.39 < 0.7 (14 Viet words / 36 Han chars).",
+      "han": "胡馬嘶北風。越鳥巢南枝公尚父舊居檜凌霜老欲鱗興幾閱世間人蒸蒲暗馬捋堤四海安",
+      "viet": "Cây bách irước sản dày dạn với sương, gia đến đêmi vày ra rồi,"
+    },
+    {
+      "row_index": 627,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "胡馬嘶北風。越鳥巢南枝公尚父舊居檜凌霜老欲鱗興幾閱世間人蒸蒲暗馬捋堤四海安",
+      "viet": "Cây bách irước sản dày dạn với sương, gia đến đêmi vày ra rồi,"
+    },
+    {
+      "row_index": 628,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.00 > 4.5 (12 Viet words / 1 Han chars).",
+      "han": "危",
+      "viet": "Trong cuộc phế hưng ngòi nhà đã trải qua mấy đời người."
+    },
+    {
+      "row_index": 632,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
+      "han": "英雄",
+      "viet": "Việc hai triều nhường ngôi cho nbau nhờ tài kịnh luân của ông."
+    },
+    {
+      "row_index": 633,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
+      "han": "如在",
+      "viet": "Người anh hùng như vẫn còn đây mà nếp cơ cầu đã đứt,"
+    },
+    {
+      "row_index": 634,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.25 < 0.7 (1 Viet words / 4 Han chars).",
+      "han": "麟閣円青",
+      "viet": "(t"
+    },
+    {
+      "row_index": 638,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.00 > 4.5 (45 Viet words / 3 Han chars).",
+      "han": "山南北",
+      "viet": "Gió thông thời lên nghe như tiếng sóng bề rì rầm Mây che ngôi chùa cồ, núi ở phía nam, phía bắc, Tháp dựa vòm trời cao, trải bao đời xưa và nay. Nhà sư múc nước dưới khe về như đi trên ngọn cây,"
+    },
+    {
+      "row_index": 643,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 22.50 > 4.5 (45 Viet words / 2 Han chars).",
+      "han": "势壓",
+      "viet": "Thế dè đầu cá ngao, khống chế vùng mường mán, Trong bóng chiều tà, sóng đầu bãi sông và một cảnh chim cô đơn. Sông lượn quanh mảnh đất vị tướng già bản việc binh, Mây ôm ngọn núi nơi tiên hoàng dựng gây thiếc."
+    },
+    {
+      "row_index": 645,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 17.00 > 4.5 (34 Viet words / 2 Han chars).",
+      "han": "江蟠",
+      "viet": "Nước trời mênh mông, chim từng đồi bay về. Nơi du ngoạn đẹp đề này thấm thoắt mà trở thành dấu cũ, Lữ khách bãy vi lên được chốn cao mà trơi nét mặt."
+    },
+    {
+      "row_index": 647,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.00 > 4.5 (29 Viet words / 1 Han chars).",
+      "han": "擁",
+      "viet": "Nhân hứng lên, gõ mạn thuyền họa lại bài hát làng chài. Mồng treo trên trời, mưa đã tạnh, Thuyền vẽ hình chim ích xuôi dòng, nước lặng sóng."
+    },
+    {
+      "row_index": 649,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.00 > 4.5 (30 Viet words / 2 Han chars).",
+      "han": "雲歲",
+      "viet": "Công danh hai chữ làm lầm lõ người ta quá nhicu. Muốn cưỡi thuyền con đi tim trương hãn. Nhưng còn vị rau thuần cá vược biết linh sao đày."
+    },
+    {
+      "row_index": 675,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 13.00 > 4.5 (13 Viet words / 1 Han chars).",
+      "han": "多",
+      "viet": "Màu thúy vòi vọi, mầu xanh trập trùng tràn ngập trong tầm mắt,"
+    },
+    {
+      "row_index": 687,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
+      "han": "自知三十年前错",
+      "viet": "Giọt mựa trên tàu chuố: xanh ngoài cửa số tiền canh tàn"
+    },
+    {
+      "row_index": 689,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
+      "han": "聲",
+      "viet": "Đành ôm sàu ngồi nghe mưa rơi."
+    },
+    {
+      "row_index": 734,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 31.00 > 4.5 (31 Viet words / 1 Han chars).",
+      "han": "兩",
+      "viet": "Đã từng đối mặt trên chiếc chiếu bỏ trống của nhà vua, Cần gì phải, đợi vời về bằng xe quấn cỏ bồ. Chở dặn con cháu lo việc chôn cất,"
+    },
+    {
+      "row_index": 737,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 44.00 > 4.5 (44 Viet words / 1 Han chars).",
+      "han": "帝",
+      "viet": "Núi biếc cao vút, tụa tủa như gượm giáo kéo lấy tầng mày, Hải thần: nuốt thủy triều cuộn làn sóng bạc. Hoà vàng điểm tô mặt đất lúc mưa xuân vừa tạnh, Tiếng sáo, thông rung chuyền trời khi sương chiệu lạnh lễo."
+    },
+    {
+      "row_index": 746,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "笑",
+      "viet": "Chim trả bay cao sánh với nghi trượng thần tiên."
+    },
+    {
+      "row_index": 747,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
+      "han": "談",
+      "viet": "Con chuồn đứng lê, vững vàng, như chiếc giường phượng hoàng"
+    },
+    {
+      "row_index": 749,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "医",
+      "viet": "Mui hoa xông lên người, tiếng cười nói cũng thơm"
+    },
+    {
+      "row_index": 760,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
+      "han": "八",
+      "viet": "x"
+    },
+    {
+      "row_index": 803,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 39.00 > 4.5 (39 Viet words / 1 Han chars).",
+      "han": "哗",
+      "viet": "Sợi tơ vàng của Giác vương đã tìm được người truyền lại. Chiếc dép cất trong quan, tài dưới đảm có rậm, trện đinh non xanh. Con ve sàu lột xác trong đảm sương dầy ở lùm cây biếc"
+    },
+    {
+      "row_index": 815,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "白",
+      "viet": "TIỄN SỨ BẮC TÁT CHỈ NGÔA, TRIỆU TỬ KỲ"
+    },
+    {
+      "row_index": 819,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
+      "han": "越",
+      "viet": "Non sông nước việt cung cấp những cầu thơ tuyệt hay"
+    },
+    {
+      "row_index": 840,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "桶忽打破六與七",
+      "viet": "Tám lỗ với bảy chỗ thủng (l?)."
+    },
+    {
+      "row_index": 875,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.50 > 4.5 (23 Viet words / 2 Han chars).",
+      "han": "不嗦",
+      "viet": "Không có bệnh dùng thuốc làm gì 2 Nay có thứ cơm a không gạo - Bề cho người ơ không miệng vi ăn."
+    },
+    {
+      "row_index": 889,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
+      "han": "賢",
+      "viet": "BÀN VỀ VIỆC NÊU GƯƠNG NGƯỜI TỐT."
+    },
+    {
+      "row_index": 890,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.00 > 4.5 (29 Viet words / 1 Han chars).",
+      "han": "耶。",
+      "viet": "KÊ XẤU ĐỀ DẠY BẢO HOÀNG TỬ Người tốt hay kề xấu đều phải nèu ra, không thể bỏ đi một loại nào. Con ta quả là hiền ư?"
+    },
+    {
+      "row_index": 894,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 8.56 > 4.5 (154 Viet words / 18 Han chars).",
+      "han": "及善人、悪。人且置勿論。恐皇子聞之或有效者。",
+      "viet": "Trắng 1 trên 3 về nữ Doãn luận nhân vật giáo hoàng từ, tu chỉ.cập thiện nhận, Ác nhân thả tri sật luận, Khủng hoàng tử văn chị hoặc hữu hiệu, giả, Nghĩa là: ở Phàm bàn đến các nhân vật đề dạy hoàng từ, chỉ nền đề cập đến những ngvời tốt. kè xáu hảy bỏ ra đứng bàn, sở các hoàng tử nghe được rồi, có người bắt chước s, Thượng hoàng Trần Minh Tùy, con thứ hai vua, Tùy Văn Đế Á X (590? 605), Vì nhân cách không xứng đảng, vua cha định không, truyền, ngôi, nhưng chở dịp vua cha ổm nặng, y làm chuyện thí nghịch cướp ngôi. Sau 12 năm ăn chơi Nghiêu Thuân: xem: Cht. 8, bài Nghì: Anh Tông hoàng đế tả thượng hoàng biều, số 288, Kiệt, Trụ: hai ông vua tương truyền tàn ác.bậc nhất trong lịch sử thượng cồ Trung-"
+    },
+    {
+      "row_index": 917,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "非",
+      "viet": "Cảnh giàu sang như mày nổi, đã không đáng kề,"
+    },
+    {
+      "row_index": 920,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "謁",
+      "viet": "Yết xong ngôi đền hoang rậm, nước mắt như mưa."
+    },
+    {
+      "row_index": 934,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.67 > 4.5 (32 Viet words / 3 Han chars).",
+      "han": "月分夜",
+      "viet": "Gio đưa tiếng thu theo cây cối xa dần, Tráng phả hơi đêm vào cửa số lành lạnb. Đất khách quê người, nổi lòng lạnh lẽo không còn thiết tới việc gì,"
+    },
+    {
+      "row_index": 972,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "香",
+      "viet": "NHÂN LÚC RỖI, DÙNG THƠ SÁU CHỮ ĐỀ VÀO"
+    },
+    {
+      "row_index": 984,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "有臣九龄懷丹抱素含华吐英。",
+      "viet": "Ấy xưa đế đình Có chàng cửu Linh."
+    },
+    {
+      "row_index": 988,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['萬'] not reflected in Việt translation.",
+      "han": "〈萬鶴。豈足為祝聖之符。",
+      "viet": "ý chứng cho biết Chông chênh rùa bạc."
+    },
+    {
+      "row_index": 1007,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "復稽首而披肝。臣言明乎似鑑。",
+      "viet": "Lời nói trung thần sáng sia như gương:"
+    },
+    {
+      "row_index": 1008,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (18 Viet words / 26 Han chars).",
+      "han": "臣心赫兮若丹。眾正於是乎志舒而气豁群邪於是乎胆落而毛寒。",
+      "viet": "tắc dạ trung thần đỏ thăm như son Đảm trung chính từ ấy lòng yên mà khi hả:"
+    },
+    {
+      "row_index": 1010,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "照發甫之奸邪。",
+      "viet": "sánh đẹp diêu, Tổng."
+    },
+    {
+      "row_index": 1033,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "魑魅魍魉四小鬼",
+      "viet": "vị đại vương. Cầu này cũng chơi chữ:"
+    },
+    {
+      "row_index": 1036,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
+      "han": "洛水神龜單應兆。天數九地數九。九九八十",
+      "viet": "thủy thần quy, đơn ứng triệu, thiên số cửu, dịa số cửu, cửu cửu bái tháp nhất số,"
+    },
+    {
+      "row_index": 1038,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "十六聲。",
+      "viet": "trời 9 số, đất 9 số,"
+    },
+    {
+      "row_index": 1074,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "訪陶潛舊居",
+      "viet": "CỦA ĐẢO TIÊM"
+    },
+    {
+      "row_index": 1126,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "藹聲名之昭约。",
+      "viet": "danh tiếng vẻ vang."
     }
   ],
   "errors": [],
   "warnings": [
     {
-      "row_index": 45,
+      "row_index": 17,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
-      "han": "龍肚最灵祠",
-      "viet": "TỐI LINH TỪ"
+      "reason": "Length ratio 0.69 < 0.7 (11 Viet words / 16 Han chars).",
+      "han": "遞相傳授爾。若後知善恶者。若親近善友。",
+      "viet": "nếu là ngùy pháp thì Đại tuệ lục đã chỉ rõ:"
     },
     {
-      "row_index": 78,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 43.00 > 4.5 (43 Viet words / 1 Han chars).",
-      "han": "蕭",
-      "viet": "Sông trôi mà núi non không chuyện. ấy là Ci-đường. Cơ xi quanh lũy cũ chỉ còn lợ thơ đám có mùa thu. Trong, tù và trên núi hoang tiễn bóng chiều Trong trời đất có ai hiểu thấu lễ biến diệt?"
-    },
-    {
-      "row_index": 79,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 30.00 > 4.5 (30 Viet words / 1 Han chars).",
-      "han": "書",
-      "viet": "Ngọn bút không có miệng vẫn nói chuyện hưng vong Bảng thương một vùng quang. cảnh lây nam ấy Trải gió mưa tiêu diều, chỉ còn lại bức tường hoa."
-    },
-    {
-      "row_index": 84,
+      "row_index": 35,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.03 < 0.7 (2 Viet words / 67 Han chars).",
-      "han": "此公主良配也。時太師有嬖與公主少不諧。相國慧真御之将夺其志。公主不可曰。女辱已归于太師諧不諧命也。父毋之命固不道可。其奈長則從夫之義何相國慧真乃止。",
-      "viet": "làm con."
+      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
+      "han": "自利利他。是佛法也。",
+      "viet": "Đó là Phật pháp vậy."
+    },
+    {
+      "row_index": 37,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.00 < 0.7 (2 Viet words / 784 Han chars).",
+      "han": "竹林大尊者於丙午年閏正月九日。就麒麟院。開堂指法座云。這座也。是曲彖藤牀也。是金猊寶座。坐断佛祖舌頭。管甚之乎者也。招香。此一辦香。祥煙馥郁。瑞氣飄騰。凝五分之法身。普十方之妙供。熟向爐中。奉爲十方垂祐。九廟應靈。玉暦綿長。皇圖鞏固。此一辨香。清净根笛。希奇種性。不假裁培之力。全憑知見之薰。燕向爐中。奉為風和兩順。國泰民安。佛日增輝。法輪常轉。此一辨香。烹也不熟。赌也不爛。打又不闹。檀又不就。觑著則眼睛枯。嗅著則胸門裂。熱向爐中。奉爲无二上人慧忠大士。法雨恩霑。兜孫被澤。就座。陛堂。上首白槌云云。師云。大眾若向第一義諦者。說動念郎差。開口郎错。作麽生諦。作麽生觀。今日且檬第二頭言之。也不得恁麼。乃顧左右云。箇中莫有具大眼孔底人麽。若有。两朵眉毛不消一剔。如無。貧道不免口吧吧地。提將朽朝報之兄辭。但為諸人打取一没。骨董去也。諦聽諦聽。且大道虚廣。何繫何拘。本性湛凝。無善無恶。良由料楝横出多岐。瞥起秋毫。易成霄壤。几聖元同一揆。是非豈得分張。故知罪福本空。畢竟因果非實。人人本具。個個圓成。佛性法身如形如影。隨隐隨顕。不卽不離。鼻孔直下當面門眉毛横。眨在眼背豈容易覓。要且追尋不见道。三千法門。同歸方寸。河沙妙用。總在心源。所謂戒門定門慧門汝無欠少。應反自思。凢諸警欬之聲。杨眉瞬目。手執足运。是什麼性。知此性者。是什麼心。心性洞明。那箇是。那箇不是。法郎性也佛郎心也。那性不是法。那性不是佛。郎心郎佛。郎心郎法。法本非法。郎法郎心。心本非心。即心即佛。諸人者。時光容易遇。人命不停留。奈何喫粥喫齋。不明鉢孟匙筋事参。時有僧出云。着衣喫顾尋常事。何須特地郤生疑。禮拜起問云。禅界無欲即不問。欲界無禅。道將一句來。師以手點空。進云。用古人涕唾作麼。師云。公一回拈出一回新進云。古人皆说如何是佛。如何是法。如何是僧。只這如何。事若何。師云。如何。事若何。進云。没絃琴上知音少。父子弹來格調高。云云。一日師聞徒誦經。乃問。眾作什麼。有僧出云。眾念佛心。師云。若謂是心。心即無佛。若謂是佛佛即無心。唤什麼作心。僧無語。又問一僧。眾作什麼。僧云。念佛。币云。佛本無心。念箇什麼。進云。念是事。師云。是什麼事。進云。不識。師云。汝不識。說者是誰。僧無語。云云。蟻孔潰堤。纖塵腎目。一行纔失。百行俱倾。珍重。",
+      "viet": "THUYẾT PHÁP"
+    },
+    {
+      "row_index": 70,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "四賓主。",
+      "viet": "cũng không chao đảo;"
+    },
+    {
+      "row_index": 77,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 16.25 > 4.5 (65 Viet words / 4 Han chars).",
+      "han": "熱瞒四眾。",
+      "viet": "Khi đã đạt được như vậy thì mới thấn hiều ơ tam quan ngộ cúp, ở tam huyền a, giam yếu n, angũ vị v, mới suy xét kỹ về a tức liện giản v, a từ tân chủ n, a tứ chiếu dụng a, và cơ vi của các thiền tố, abảy khe tám lỗ 15), xào đi xáo lại, thấu triệt chân nguyên."
     },
     {
       "row_index": 88,
-      "category": "OMISSION",
+      "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (18 Viet words / 29 Han chars).",
-      "han": "未嘗以亵近擅為报重。此公主赘德也。相國太師，有疾。親侍湯薬。左飨右粥。",
-      "viet": "Tướng quốc và phu nhân Tuệ Chân ngăn cản, định không cho Thải sư làm theo ý mình."
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "一九夫。二外道。",
+      "viet": "thứ nhất là phàm phu, thử nhì là ngoại đạo:"
     },
     {
-      "row_index": 89,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.59 < 0.7 (10 Viet words / 17 Han chars).",
-      "han": "衣不帯。卧不安席者朞年。此公主侍親疾也。",
-      "viet": "Công chúa cho là không nêu, thưa với cha mẹ."
-    },
-    {
-      "row_index": 90,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (17 Viet words / 28 Han chars).",
-      "han": "相國太師薨。斩衰尽哀。毁性幾滅。国人见之无不掩涕。此公主居表礼也。",
-      "viet": "- Con đã về làm vợ Thải sử, được hòa hợp hay không là do mệnh mà thôi"
-    },
-    {
-      "row_index": 92,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.65 < 0.7 (11 Viet words / 17 Han chars).",
-      "han": "不敢以荣貴而自高自大。此公主事親孝也。",
-      "viet": "Tưởng quốc và phu nhân Tuệ Chân nghe vậy, bèn thói."
-    },
-    {
-      "row_index": 93,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (8 Viet words / 13 Han chars).",
-      "han": "逮慧真薨。公主欒心柴骨亦有闻。",
-      "viet": "Đó là lòng trình tiết của công chúa."
-    },
-    {
-      "row_index": 95,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.65 < 0.7 (28 Viet words / 43 Han chars).",
-      "han": "但倾家貲財施僧供佛。食饥衣寒。用资二天冥福。此公主慎終追遠也。太師身都相位。日劳萬機。不遑家事委付。",
-      "viet": "Nếu có người nào, làm cho Thái sư giận la mắng, tht công chùa lấy lời lễ nhẹ nhàng giảng giải, khiến họ không phản nàn oán hện."
-    },
-    {
-      "row_index": 97,
+      "row_index": 94,
       "category": "OMISSION",
       "severity": "warning",
       "reason": "Length ratio 0.67 < 0.7 (14 Viet words / 21 Han chars).",
-      "han": "如出一意。此公主治家法也。針線助神袞鹽梅資調羹。",
-      "viet": "Đến việc Thái sư lựa chọn, khen thưởng các nhân vật trong triều đinh."
-    },
-    {
-      "row_index": 99,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.47 < 0.7 (7 Viet words / 15 Han chars).",
-      "han": "設有窃盗則隨便追之。不忍露其醜恶。",
-      "viet": "Đó là đức tốt của công chúa."
+      "han": "自毘盧遮那經歷不可說。不可說劫數逮于釋迦牟尼。",
+      "viet": "%), trải qua không biết bao nhiêu số kiếp mới đến Thích Cả Mâu Ni."
     },
     {
       "row_index": 102,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.68 < 0.7 (32 Viet words / 47 Han chars).",
-      "han": "岁晚尤爱佛書。雖隻言片字。不能勾致然大覺之心。粗有識者。其有為小教所不拘滞。此公主通於心性也。甲申冬比虜南。",
-      "viet": "Tướng quốc Thái sư mặt, công chìa đề tang hết lễ, xót thương đau đớn đến hầu như muốn chết, người trong nước tròng thấy, không ai cầm đư,7c nước mắt."
+      "reason": "Length ratio 0.65 < 0.7 (11 Viet words / 17 Han chars).",
+      "han": "那是安身立命處底。且三千威儀八萬細行。",
+      "viet": "êm-la tái không buông tha cho ngươi ở lại đầu"
     },
     {
-      "row_index": 110,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.63 < 0.7 (39 Viet words / 62 Han chars).",
-      "han": "乃義關内候國公。以代之此公主之义子也。次文常王道載。文可以裨時政武可以橙國乱聚靖國大王女寶姿公主。次武甫王道。尚聖宗皇帝第四女寳真公主。",
-      "viet": "Thái sư ở cương vị Tướng quốc, hằng ngày rất hận, chẳng có thì giờ đoái hoài đến việc nhà, ông ủy thác cho còng chúa khu xị với kè già, người trẻ, trông nom sắp xếp lài sản."
-    },
-    {
-      "row_index": 114,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (10 Viet words / 15 Han chars).",
-      "han": "次瓊態公主諱瑞茲。继歸于檢校太尉。",
-      "viet": "người đàn bà tàm thường không thể nèo sánh được."
-    },
-    {
-      "row_index": 115,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "瓊輝瓊恣。武甫皆先亡。孫十三。",
-      "viet": "Đó là công chúa thành thạo việc nội trợ."
-    },
-    {
-      "row_index": 116,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
-      "han": "男七女六。真慈公主諱瑞適判首上位武寧候之子沼。",
-      "viet": "Đối với nô tỳ, công chúa không to tiếng, chỉ sai bảo bằng nét mặt"
-    },
-    {
-      "row_index": 117,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (25 Viet words / 41 Han chars).",
-      "han": "餘皆尚幼。此公主之嫡孫子也。甲子二百八十二。公主所享年也。重典辛卯三月二十二日。薨之年月日也。",
-      "viet": "Nếu kẻ nào lỡ lấy trộm vật gì công chia chỉ tùy tiện truy hỏi mà không nữ đề lộ điều xấu xa của chúng"
-    },
-    {
-      "row_index": 117,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "餘皆尚幼。此公主之嫡孫子也。甲子二百八十二。公主所享年也。重典辛卯三月二十二日。薨之年月日也。",
-      "viet": "Nếu kẻ nào lỡ lấy trộm vật gì công chia chỉ tùy tiện truy hỏi mà không nữ đề lộ điều xấu xa của chúng"
-    },
-    {
-      "row_index": 118,
+      "row_index": 129,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "天長府。獨立村。公主所塟也舆隆元年四月十一日。之年月日也。主公主之裘而請以塟也。文肅王也。論次其所得於上相太師而為之略者。",
-      "viet": "Đó là lòng nhân của công chúa Ngày thường, những khi rỗi rãi, đối với đám tù ho, cỏng chúa thường thăm hỏi, an ủi, chưa từng dùng roi vọt, cho nên những kẻ xấu cũng cảm phục."
-    },
-    {
-      "row_index": 119,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.53 < 0.7 (8 Viet words / 15 Han chars).",
-      "han": "少保拱垣也。曰。为善必福兮人之常程。",
-      "viet": "Đó là lòng khoan thứ của công chúa."
-    },
-    {
-      "row_index": 120,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (24 Viet words / 36 Han chars).",
-      "han": "謂仁必壽兮天胡不靈。生有賢行兮殁有令各。嬪于相門兮世襲厥聲。村名獨立兮高處是瑩。",
-      "viet": "Công chúa về làm dân nhà tướng từ tuổi còn nhỏ, công việc bận rộn, chưa từng có lúc rành rang đề học hỏi."
-    },
-    {
-      "row_index": 122,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.64 < 0.7 (35 Viet words / 55 Han chars).",
-      "han": "翰林校書郎戴冤周善眾。金紫光祿大夫少保兼知檢定天下訟状司黎拱垣樸。興隆元年癸巳四月十二日義夫四朝元老平章軍國重事立。",
-      "viet": "Tuy chưa hiều cặn kẽ từng cầu từng chữ, nhưng nét - đại quát về cái tâm a đại giác n căng đã biểu được, ngoài ra những giới luật lặi vặt thì không câu nệ."
-    },
-    {
-      "row_index": 122,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "翰林校書郎戴冤周善眾。金紫光祿大夫少保兼知檢定天下訟状司黎拱垣樸。興隆元年癸巳四月十二日義夫四朝元老平章軍國重事立。",
-      "viet": "Tuy chưa hiều cặn kẽ từng cầu từng chữ, nhưng nét - đại quát về cái tâm a đại giác n căng đã biểu được, ngoài ra những giới luật lặi vặt thì không câu nệ."
-    },
-    {
-      "row_index": 123,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.58 < 0.7 (11 Viet words / 19 Han chars).",
-      "han": "明命三年歲次壬午六月初壹日遵依古字重刊。",
-      "viet": "Đó là còng chùa đã thông về tâm và tỉnh vậy."
-    },
-    {
-      "row_index": 123,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "明命三年歲次壬午六月初壹日遵依古字重刊。",
-      "viet": "Đó là còng chùa đã thông về tâm và tỉnh vậy."
+      "han": "四無智慧心。",
+      "viet": "không có cải tâm trí tuệ."
     },
     {
       "row_index": 139,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
-      "han": "洞天湖上洞天湖上景",
-      "viet": "Quang cảnh hồ Động-thiên,"
-    },
-    {
-      "row_index": 169,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "閏",
-      "viet": "NIÊM OÁN HẬN CỦA NGƯỜI KHUÊ PHỤ"
-    },
-    {
-      "row_index": 170,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 25.00 > 4.5 (25 Viet words / 1 Han chars).",
-      "han": "怨",
-      "viet": "Ngũ dậy, cuốn mành xem cánh hồng rụng, Chim oanh vàng bặt tiếng, oán gió Đòng Không dưng mặt trời lặn phía ngoài lầu tây"
-    },
-    {
-      "row_index": 182,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
-      "han": "童",
-      "viet": "Trong tiếng sáo, mục đông lùa trâu về hếi,"
-    },
-    {
-      "row_index": 218,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.43 > 4.5 (38 Viet words / 7 Han chars).",
-      "han": "一枝迷入故人夢",
-      "viet": "Quán bên sông, mới canh đầu trấng đã lên cầu. Ba mươi cung tiên đặt giường ngủ la liệt. Tám nghìn ngọn tháp thơm khua động nước triều mùa xuân Phong cảnh chúa Phổ-minh vẫn như trước,"
-    },
-    {
-      "row_index": 264,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 4.86 > 4.5 (34 Viet words / 7 Han chars).",
-      "han": "社稷两回劳石馬",
-      "viet": "Trên nền xã tắc hai lần ngựa đá phải mệt nhọc, Nhưng núi sông nghìn đời được đặt vững như âu vàng BÀI MINH ĐỀ TRÚC NÔ () Trải tuyết lạnh mà tâm thông suốt,"
-    },
-    {
-      "row_index": 309,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 6.00 > 4.5 (6 Viet words / 1 Han chars).",
-      "han": "問。",
-      "viet": "Ex SƯ ĐỆ VẤN ĐÁP Vấn:"
-    },
-    {
-      "row_index": 312,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.38 < 0.7 (3 Viet words / 8 Han chars).",
-      "han": "云何忽生山河大地。",
-      "viet": "thị như hà?"
-    },
-    {
-      "row_index": 316,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.00 > 4.5 (10 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Thùy tri viễn yên lãng biệt hữu hảo thương lường?"
-    },
-    {
-      "row_index": 330,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (1 Viet words / 2 Han chars).",
-      "han": "進曰。",
-      "viet": "Viết:"
-    },
-    {
-      "row_index": 334,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 8.00 > 4.5 (16 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Còn dòng Thanh-nguyên thi đến đầu thế kỷ X mới xuất Trong Giời Thì Hiệu"
-    },
-    {
-      "row_index": 344,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (1 Viet words / 2 Han chars).",
-      "han": "進云。",
-      "viet": "Giơ:"
-    },
-    {
-      "row_index": 346,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 36.00 > 4.5 (36 Viet words / 1 Han chars).",
-      "han": "曰。",
-      "viet": "trái lại có chữ giơ viết khu Vậy tạm là giơ nghĩa ià giơ lên Nghĩa 2 về: Tổ Đạt Ma người nước Thiên-trúc K 25 mắt ở chùa Thiếu-làm 45 là mộ giá."
-    },
-    {
-      "row_index": 362,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
-      "han": "白鷺下田千點雪。",
-      "viet": "lại cùng không đối xiếng dược với về đười:"
-    },
-    {
-      "row_index": 365,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.08 < 0.7 (30 Viet words / 358 Han chars).",
-      "han": "成道歌生固人身。意羅禍奇。埃哈谷特。買沃羅色。旬尼麻吟。些灭赦些。得意工意。哄貞呵。功名庄重。富貴庄性。秦漢初箕。粘它閑夏。安皮分庫。剧准養身。屈寂嫩高。耨命山野。猿明朽喜。伴共些。永尾岸箕。身恶喜捨。清閑無事。撅削台花。蜍奉学丞。店香火。誦經念字。祝聖态求。三有四思。些願特把。念意域之。覺性光了。庄群彼此。争人執我。塵緣楼歇。是非庄兮。煉幾糁惡。店得衰打。性工塵世。庄管事世永永岸箕。學隊諸佛。朱特圆成。唱曲樂生。安禪潇洒。埃子金谷。平占包。侈醒職槐珠漓泥渚。谷哈身幻。庄恪浮雲。萬事皆空。似荒学把。完命耨細。景永岸箕篤志修行。絲繡締把。冷导庄渚與导座哈。吟四塔聰。兮之福奇。安身立命。時節因緣。割酷分米。油羅鴉个。身尼庄管。讨奴。地水火風。油羅變化。法身常住。普满太虚。顕赫目前。圆融。禪宗指示。目擊道存。空谷傳聲。音响應也。鋪导学道。無效饒世。竹化年蟑。幾台二号禍。罷惡為曰。撸北夕南。一指頭禪。利那謁可偈浪。景寂安居自在心。凉風吹迤八松陰。禪床樹下一經卷。两字清閑勝萬金。",
-      "viet": "Sống yên giữa cảnh iặng long không Gió mát hia hìu lọt bóng thông. Dưới gốc. giường thiền, kinh một quyền, Thanh nhân hai chữ, đáng muôn đồng.; illệ cin"
-    },
-    {
-      "row_index": 365,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "成道歌生固人身。意羅禍奇。埃哈谷特。買沃羅色。旬尼麻吟。些灭赦些。得意工意。哄貞呵。功名庄重。富貴庄性。秦漢初箕。粘它閑夏。安皮分庫。剧准養身。屈寂嫩高。耨命山野。猿明朽喜。伴共些。永尾岸箕。身恶喜捨。清閑無事。撅削台花。蜍奉学丞。店香火。誦經念字。祝聖态求。三有四思。些願特把。念意域之。覺性光了。庄群彼此。争人執我。塵緣楼歇。是非庄兮。煉幾糁惡。店得衰打。性工塵世。庄管事世永永岸箕。學隊諸佛。朱特圆成。唱曲樂生。安禪潇洒。埃子金谷。平占包。侈醒職槐珠漓泥渚。谷哈身幻。庄恪浮雲。萬事皆空。似荒学把。完命耨細。景永岸箕篤志修行。絲繡締把。冷导庄渚與导座哈。吟四塔聰。兮之福奇。安身立命。時節因緣。割酷分米。油羅鴉个。身尼庄管。讨奴。地水火風。油羅變化。法身常住。普满太虚。顕赫目前。圆融。禪宗指示。目擊道存。空谷傳聲。音响應也。鋪导学道。無效饒世。竹化年蟑。幾台二号禍。罷惡為曰。撸北夕南。一指頭禪。利那謁可偈浪。景寂安居自在心。凉風吹迤八松陰。禪床樹下一經卷。两字清閑勝萬金。",
-      "viet": "Sống yên giữa cảnh iặng long không Gió mát hia hìu lọt bóng thông. Dưới gốc. giường thiền, kinh một quyền, Thanh nhân hai chữ, đáng muôn đồng.; illệ cin"
+      "han": "二博覽經典。三無益相諫。四有難相扶。",
+      "viet": "hai là đọc rộng kinh điền, ha là khuyên can điều vò ích và bồn là giúp nhau trong khó khăn hoạn nạn."
     },
     {
-      "row_index": 384,
+      "row_index": 148,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
-      "han": "九對御皆超俗之譚。因推為師兄。",
-      "viet": "Phảm những lới hầu chuyện nhà vua đều là lời siêu tục, do đó vua suy tôn người là sir huynh và ban cho tên hiệu hiện nay Ngày kia"
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "境具四縁。一水。",
+      "viet": "Cánh phải đủ bồn duyên:"
     },
     {
-      "row_index": 397,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
-      "han": "未有所了者。",
-      "viet": "lỗ ngộ được"
-    },
-    {
-      "row_index": 407,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
-      "han": "上士以書問疾。",
-      "viet": "Vụa mở rà xem"
-    },
-    {
-      "row_index": 414,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (6 Viet words / 10 Han chars).",
-      "han": "丁元聖毋后憂諒陰之際。",
-      "viet": "Nguyên Thánh mẫu hội, nhân đó."
-    },
-    {
-      "row_index": 451,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.69 < 0.7 (11 Viet words / 16 Han chars).",
-      "han": "吉祥而卧。瞑目順化家内侍妾失聲慟哭。",
-      "viet": "Người hầu hạ và thế thiếp trong nhà khóc rống lèn."
-    },
-    {
-      "row_index": 462,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.12 < 0.7 (4 Viet words / 32 Han chars).",
-      "han": "這老古雞人難名邈梁皇曲天泰帝驛轢能方能圓能厚能薄法海獨眼禅林三角。",
-      "viet": "Rừng Thiền ba phía."
-    },
-    {
-      "row_index": 463,
+      "row_index": 162,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
-      "han": "辭八覲",
-      "viet": "BIỆN GIẢI VIỆC TỪ CHỐI SANG CHẦU ()"
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "皆從無相諫心。四同事恶友。爲恶事件。或同飲酒。",
+      "viet": "bón là cùng hùa theo bẹn xấu, làm điều ác hoặc cùng nhau rượu chè, cờ bạc, trai gái, xường ca."
     },
     {
-      "row_index": 488,
+      "row_index": 164,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "攝四善友者。一止非善友。恶事相止。二慈愍善友。",
+      "viet": "một, bạn tốt ngăn cản điều sai trái, nghĩa là khi gặp điều ác thì cùng khuyên can nhau, hai, bạn tốt từ mẫu, nghĩa là gặp điều khồ ải, thường cứu, đỡ nhau, ba, bạn tốt làm điều lợi chung, nghĩa:"
+    },
+    {
+      "row_index": 166,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "樂事相與。四同事善友。善事相同。",
+      "viet": "bồn, bạn tốt cùng làm việc với nhau, nghĩa là khi có việc thiện thì cùng chung tay đóng góp."
+    },
+    {
+      "row_index": 177,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "流芳四七。續焰二三。縱楊岐宗。得圆悟旨。",
+      "viet": "Mặt khác, gọi là 'str, chính là người đề tiếng thơm trong số hai mươi tám tổ Tây phương, nổi dối ngọn đèn của sáu tồ Đông độ, mì rộng tông phái, - đạt tới sự trọn ven theo tôn chỉ."
+    },
+    {
+      "row_index": 210,
       "category": "ADDITION",
       "severity": "warning",
-      "reason": "Length ratio 7.33 > 4.5 (22 Viet words / 3 Han chars).",
-      "han": "且為書",
-      "viet": "Một nên hương lòng vừa củi đầu khấn đã nghe tiếng vọng. My Nương nếu là vị thần đầy đủ ny nghi,"
+      "reason": "Length ratio 21.00 > 4.5 (21 Viet words / 1 Han chars).",
+      "han": "瘦",
+      "viet": "Giữ thói vung về không có mưu chước gì, Đỡ tấm thân gia yếu đã có chiếc gậy mây khẳng kheo."
     },
     {
-      "row_index": 502,
+      "row_index": 222,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "三軍批虎氣吞牛",
-      "viet": "Thân nam nhi nếu chưa trà xong nợ công danh. Ất thẹn, thùng khi nghe người đời xế chuyện và hầu (-)"
+      "han": "爐殘楫出日三",
+      "viet": "Lò tàn, than lụi, sáng nào hay"
     },
     {
-      "row_index": 518,
-      "category": "NUMBER_MISMATCH",
-      "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "月瀉軍持夜澗寒休向五勞",
-      "viet": "Trăng tài ánh sáng xuống bình nước (f), dòng suối hạn đêm lạnh lẽo."
-    },
-    {
-      "row_index": 521,
+      "row_index": 231,
       "category": "ADDITION",
       "severity": "warning",
-      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
-      "han": "冬景",
-      "viet": "Vẽ màu xanh, tô màu thủy, thiên nhiên đẽo gọt nên chỏm nùi"
+      "reason": "Length ratio 8.00 > 4.5 (8 Viet words / 1 Han chars).",
+      "han": "撑",
+      "viet": "Tay cầm ống thồi, tay nhặt mo nang"
     },
     {
-      "row_index": 522,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.40 < 0.7 (2 Viet words / 5 Han chars).",
-      "han": "府樓基倚半",
-      "viet": "tạnh sáng"
-    },
-    {
-      "row_index": 548,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 6.00 > 4.5 (12 Viet words / 2 Han chars).",
-      "han": "即真",
-      "viet": "Luống khiến nước mắt người con chỉ hiếu thấm ướt vạt áo."
-    },
-    {
-      "row_index": 549,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
-      "han": "靈",
-      "viet": "Đành rằng cung Nam-nội lạnh lễo là có duyên cử,"
-    },
-    {
-      "row_index": 636,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.60 < 0.7 (9 Viet words / 15 Han chars).",
-      "han": "將者鷹也。軍者鴨也。以鴨養鷹有何怪。",
-      "viet": "ĐỀ TỰA SÁCH VẠN-KIẾP TÔNG BÍ TRUYỀN THƯ"
-    },
-    {
-      "row_index": 637,
+      "row_index": 236,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['萬'] not reflected in Việt translation.",
-      "han": "萬刼宗秘傳书序夫善師者不陣。",
-      "viet": "Phàm người khéo cầm quần thì không cần bày trận."
+      "han": "空爭疊萬",
+      "viet": "Chi bằng theo bạn về núi,"
     },
     {
-      "row_index": 647,
+      "row_index": 238,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "所謂善陣者不戦矣。",
-      "viet": "không cần giao chiến vậy."
+      "reason": "Length ratio 0.14 < 0.7 (1 Viet words / 7 Han chars).",
+      "han": "鴟瑞唯省歌鴞瑞。",
+      "viet": "IO44"
     },
     {
-      "row_index": 661,
+      "row_index": 247,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['三', '四', '五'] not reflected in Việt translation.",
-      "han": "凶神恶將。三吉五四。",
-      "viet": "Việc nào việc ấy thực phân minh rõ rệt."
+      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
+      "han": "逯五式雯撫殿堯。",
+      "viet": "lạ hơn ba mươi sáu Thiền thiên. Thấy đây:"
     },
     {
-      "row_index": 678,
+      "row_index": 249,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['九'] not reflected in Việt translation.",
+      "han": "羅酸層梯篤没龙温抃没九。",
+      "viet": "Mây năm thức che phủ đền nghiêu Núi nghìn tầng quanh co đường Thục:"
+    },
+    {
+      "row_index": 297,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['七'] not reflected in Việt translation.",
+      "han": "觀七寶尾包孛現。",
+      "viet": "ngao Nức đài lan nghĩ hương đan quê"
+    },
+    {
+      "row_index": 298,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "襖六殊愈仙飄。",
+      "viet": "Nghe Hằng Nga thiết khúc tiêu thiều."
+    },
+    {
+      "row_index": 348,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.27 < 0.7 (4 Viet words / 15 Han chars).",
-      "han": "丁未九月大水耽耽堤决瓠子何煩臨",
-      "viet": "ĐÊ ĐAM-ĐAM VŨ"
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "冬寒继以陽春。",
+      "viet": "Khó mong thoài được;"
     },
     {
-      "row_index": 692,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 5.50 > 4.5 (11 Viet words / 2 Han chars).",
-      "han": "葉苔",
-      "viet": "Không quét được đám bùn ở sân lẫn với lá rùng."
-    },
-    {
-      "row_index": 738,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
-      "han": "紫",
-      "viet": "Cho nên giấc mộng về cử vương vấn mãi."
-    },
-    {
-      "row_index": 742,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "醉",
-      "viet": "Triều lên, mặt nước như gương sáng"
-    },
-    {
-      "row_index": 744,
-      "category": "ADDITION",
-      "severity": "warning",
-      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
-      "han": "紅",
-      "viet": "Lá đỏ rơi đầy thành ven sông."
-    },
-    {
-      "row_index": 784,
+      "row_index": 369,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.61 < 0.7 (11 Viet words / 18 Han chars).",
-      "han": "按趙公記云。唐永徽中。以阮常明為峰州都督。",
-      "viet": "Xét sách Giao-châu ký của Triệu công có nói rằng:"
+      "reason": "Length ratio 0.50 < 0.7 (7 Viet words / 14 Han chars).",
+      "han": "君臣而父子之情。父子而君臣之義。",
+      "viet": "Vua tôi mà cha con tình riêng:"
     },
     {
-      "row_index": 785,
-      "category": "OMISSION",
+      "row_index": 371,
+      "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Length ratio 0.14 < 0.7 (7 Viet words / 50 Han chars).",
-      "han": "覩其土地千里。江山襟带。於白鶴外延通聖觀置三清像以為奇常。別開前後二虞。擬塑芦觀神像。未辨羸靈。焚香祝曰。此間神祇。",
-      "viet": "Giữa niên hiệu Vĩnh Huy đời Đường"
+      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
+      "han": "菊花百詠",
+      "viet": "Mưa tạnh, mở cửa vườn đánh gốc, trồng"
     },
     {
-      "row_index": 786,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.05 < 0.7 (4 Viet words / 76 Han chars).",
-      "han": "苟能顕靈者。早現形狀吾知塑樣。夜夢两箇異人。面貌层稜。並擁徒属相呵相凌。趁常明争居觀前。常明問之。汝各字為誰一稱土令。一稱石鄉。常明曰請試羸藝勝者前居石鄉跳踯一步到那边江。",
-      "viet": "Nguyễn Thường Minh làm"
-    },
-    {
-      "row_index": 788,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.68 < 0.7 (27 Viet words / 40 Han chars).",
-      "han": "自唐至今千百餘载。其地傑神靈。祈祷報應。古今一也。向者。陳朝第二帝。太宗皇帝。丙子年間。治道太平。",
-      "viet": "Lại riêng mở hai dải vũ trước sau, định tô tượng thần hộ vệ quán, nhưng chưa rõ vị nào limb thiêng nên đốt hương khấn rằng:"
-    },
-    {
-      "row_index": 789,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.55 < 0.7 (26 Viet words / 47 Han chars).",
-      "han": "四方向化。時有大宋國。福延路福州。福清縣。太平鄉。海壇里。道士許宗道。同流附舶乘興入南。時太宗皇帝第六子昭文王。",
-      "viet": "ơ Các vị thần trời, thần đất ở đày, nếu có vị nào linh thiêng, xin sớm hiện hình cho tòi biết đề tạc tượng n."
-    },
-    {
-      "row_index": 789,
+      "row_index": 381,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
-      "han": "四方向化。時有大宋國。福延路福州。福清縣。太平鄉。海壇里。道士許宗道。同流附舶乘興入南。時太宗皇帝第六子昭文王。",
-      "viet": "ơ Các vị thần trời, thần đất ở đày, nếu có vị nào linh thiêng, xin sớm hiện hình cho tòi biết đề tạc tượng n."
+      "han": "四",
+      "viet": "IV"
     },
     {
-      "row_index": 790,
+      "row_index": 408,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.63 < 0.7 (31 Viet words / 49 Han chars).",
-      "han": "今入内檢校太尉平章事。清化府路都元帥賜金魚袋。上柱國開國王。心懷大道。性重宋人。相留宗道於門墙。期以闡楊於道教。",
-      "viet": "Đêm đến mộng thấy hai dị nhân, đáng mạo cò quái, đều đem, theo bộ thuộc, mằng mỏ chen lán nhau rào đến chỗ Thường Minh, tranh được ở quản trước."
+      "reason": "Length ratio 0.25 < 0.7 (1 Viet words / 4 Han chars).",
+      "han": "白滕江賦",
+      "viet": "POLITING"
     },
     {
-      "row_index": 791,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.07 < 0.7 (4 Viet words / 60 Han chars).",
-      "han": "甲申冬季北寇來侵。時開國王鎮守宣光諸路。同許宗道曾於乙酉上元。在白鶴江。剪髮立誓與神為盟盡以心忠其報君上。遂率左右单騎前趋。终歷蛮僚。",
-      "viet": "Thường Minh hỏi họ:"
-    },
-    {
-      "row_index": 792,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (6 Viet words / 12 Han chars).",
-      "han": "韃軍後至。八刻之内彼此不逢。",
-      "viet": "Các ngài tên, tự là gì?"
-    },
-    {
-      "row_index": 794,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.06 < 0.7 (4 Viet words / 64 Han chars).",
-      "han": "仲夏中旬韃軍敗散。皆托神王之福蔭也。自後數載。開國王屡修黃籙。許宗道主行。數投簡於傘圓山頂。進龍璧於白鶴靈渊。啟白。道前經由祠下。見其宮觀漸已傾顏。",
-      "viet": "Xin thử tài nghệ."
-    },
-    {
-      "row_index": 795,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.07 < 0.7 (6 Viet words / 89 Han chars).",
-      "han": "兼乏洪鍾晨脊警悟。心欲铸造。力所未能。後有天瑞長公主陳迺第三帝聖宗皇帝長皇姬也。掌管白鶴鄉民。曾出已財買置梓料重造一新。自天瑞長公主身薨之後。其鄉民土地盡属第五帝莫宗皇帝長皇姬天真長公主之所管。",
-      "viet": "Ai thắng sẽ được ở trước."
-    },
-    {
-      "row_index": 795,
+      "row_index": 413,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "兼乏洪鍾晨脊警悟。心欲铸造。力所未能。後有天瑞長公主陳迺第三帝聖宗皇帝長皇姬也。掌管白鶴鄉民。曾出已財買置梓料重造一新。自天瑞長公主身薨之後。其鄉民土地盡属第五帝莫宗皇帝長皇姬天真長公主之所管。",
-      "viet": "Ai thắng sẽ được ở trước."
+      "reason": "Hán number(s) ['五', '九'] not reflected in Việt translation.",
+      "han": "九江五湖。",
+      "viet": "Chữ địch ngạn lò;"
     },
     {
-      "row_index": 796,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.66 < 0.7 (19 Viet words / 29 Han chars).",
-      "han": "簿税减役。恤苦爱民。一鄉之生靈。莫不拜其恩矣。奈何天人下世不肯久延。",
-      "viet": "Thạch Khanh nhảy một, bước đến bên kia sông, hỗng thấy Thồ Lệnh đã đứng bèn kia sông rồi."
-    },
-    {
-      "row_index": 797,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.58 < 0.7 (19 Viet words / 33 Han chars).",
-      "han": "二十有家因胎遇疾。彼時許宗道恭奉詔命代為祈禳。救治百端。難逃大限。昇沉莫测。",
-      "viet": "Thạch Khanh lại nhầy một bước sang bến này sông, lại thấy Thồ Lệnh dã đứng bên này trước"
-    },
-    {
-      "row_index": 798,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.10 < 0.7 (7 Viet words / 67 Han chars).",
-      "han": "超度无因。此後莫宗皇帝太上皇太后。以天真長公主。已分金银。尽皆布施。就供養太清宫生金五十兩。不其庚申春暮。莫宗皇帝雲駕已僊。時許宗道架造太清宫梓工未畢。",
-      "viet": "Vì vậy Thổ Lệnh được ở đảy"
-    },
-    {
-      "row_index": 799,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (18 Viet words / 29 Han chars).",
-      "han": "情痛何依。思難報於君天。念欲修其善果。辛酉春。許宗道铸造太清宮洪重。",
-      "viet": "Đó tức là vị thần mà ngày uay được sắc phong Vũ phú trung dực ủy hiền vương."
-    },
-    {
-      "row_index": 801,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.05 < 0.7 (4 Viet words / 82 Han chars).",
-      "han": "取天真長公主已銀三十三兩計錢五百緡。親受許宗道供養縁司為天真長公主前程之福果也。又遇嘉林弟文惠王代為天真長公主布施孤貧及諸寺觀。再供養太清宮金銀計錢二百緡今許宗道累蒙供養。",
-      "viet": "Nơi đây đất qui."
-    },
-    {
-      "row_index": 801,
+      "row_index": 414,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
-      "reason": "Hán number(s) ['五'] not reflected in Việt translation.",
-      "han": "取天真長公主已銀三十三兩計錢五百緡。親受許宗道供養縁司為天真長公主前程之福果也。又遇嘉林弟文惠王代為天真長公主布施孤貧及諸寺觀。再供養太清宮金銀計錢二百緡今許宗道累蒙供養。",
-      "viet": "Nơi đây đất qui."
+      "reason": "Hán number(s) ['三', '百'] not reflected in Việt translation.",
+      "han": "三吳百粤。",
+      "viet": "khỏ cốt doanh khâu."
     },
     {
-      "row_index": 802,
+      "row_index": 416,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.03 < 0.7 (2 Viet words / 79 Han chars).",
-      "han": "欲廣其恩。除已助縁太清宮外。再以天真長公主分所施之資。收買銅錫。投請入内檢校太尉開國王主盟。就石棟口口口口口口口鑄造洪鍾一口供養口口口口口口口于以報口口口口口口口之厚德。",
-      "viet": "thần thiêng."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "靡不經閱。",
+      "viet": "Đương kỳ:"
     },
     {
-      "row_index": 804,
+      "row_index": 417,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['百'] not reflected in Việt translation.",
+      "han": "胸吞云夢者數百。",
+      "viet": "Trục lô thiên lý, tỉnh kỷ ý m."
+    },
+    {
+      "row_index": 418,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "而四方之壮志猶闕如也。",
+      "viet": "Tì bưu lục quân, bình nhận phong khi."
+    },
+    {
+      "row_index": 419,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.44 < 0.7 (27 Viet words / 61 Han chars).",
-      "han": "然願口口口口口口口增崇福果廣衍金枝伏為天真長公主陳。伏此铸锺功德。滌除五漏之色身。超涉三清之浄界。仍为天瑞長公主陳證向時造觀之良因。",
-      "viet": "Trước đây vào đời Thái Tông hoàng đế, vị vua, thứ hai triều Trần, khoảng năm Binh tỷ, trị nước thái bình, bốn phương theo giáo hóa"
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "乃举楫兮中流。",
+      "viet": "Thư hung vị, quyết:"
     },
     {
-      "row_index": 807,
+      "row_index": 424,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (13 Viet words / 26 Han chars).",
-      "han": "清化府安縁鄉興福寺碑并序。夫繼承先志顕楊後世孔門謂之孝。",
-      "viet": "(Bài minh kèm theo lời tựa bia chúa Hưng-phúc, hương An-duyên."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "是泛是浮。",
+      "viet": "Ký nh:"
     },
     {
-      "row_index": 809,
+      "row_index": 428,
       "category": "OMISSION",
       "severity": "warning",
-      "reason": "Length ratio 0.11 < 0.7 (15 Viet words / 132 Han chars).",
-      "han": "俾世世子孫。因霜露之思。君高之感。一貼，一禮。起孝起敬。永為餘慶之基者。其惟圆覺之福田欤。粤有清化府。安绿鄉。興福寺者。是先祖上將明字黎公安。室中郭氏生曰。大撮黎袍子。大撮黎明以紹隆甲子黎公朋之所創也。寺未克竟。賫志以没。其子大撮大僚班服黎公孟。慈祥天志。孝友夙成。每念生成之德。顧復之恩。雖碎骨粉身。曷報萬一。",
-      "viet": "Oi, hiếu và từ, hà chẳng phải là bản tàm của con người hay sao."
+      "reason": "Length ratio 0.50 < 0.7 (2 Viet words / 4 Han chars).",
+      "han": "風景三秋。",
+      "viet": "Tuy nhiên:"
     },
     {
-      "row_index": 810,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.18 < 0.7 (19 Viet words / 107 Han chars).",
-      "han": "遂與其兄元大撮寄班黎男子。寄班黎廣追謚曰。正覺婆。黎可磊。洎諸子孫。於開泰甲子春首。相彼遺址。規模狹隘。像設未完。堂廡未備。相謂曰。厥父基厥子弗肯堂矧肯横。乃同心協力。继成其志。開拓基址。广袤如法。塑像金容。雕霍萬狀。法堂製其前。僧房繚其後寶座擎以石龍。",
-      "viet": "Vậy nên đóc lòng hiếu để báo cải ơn, vô cùng, rộng điều từ đề cần phúc cõi âm."
-    },
-    {
-      "row_index": 811,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.02 < 0.7 (2 Viet words / 119 Han chars).",
-      "han": "雕刻極人間之巧。佛殿益以花瓦飛跂聳雲外之觀。砌累貞石庭列異花。風度青松。彷佛乎天宫之奏响。月篩翠竹。摇颺乎佛界之放光。古木扶宛若菩提之。祇園深邃。浩然布地之金。朕恠衍奇。变態百出。冰筆舌所能举写。嗚呼非公孝慈之一念。安能致萬世之福田乎。紹寶間。胡虜南下。虜右相唆都。整軍海道。",
-      "viet": "mờ mịt."
-    },
-    {
-      "row_index": 813,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.18 < 0.7 (22 Viet words / 125 Han chars).",
-      "han": "事遂不果。及虜退。上回銮京闕。公以其事聞。詔鞠之。則以其鄉物賠償之。以為忠勤之勸繄公之力也。其年冬。寺畢工。碑礱石。公不以乎是為遂。走价袖狀。請銘於余曰。某先君子夙志未遂。某忝为人子。恐先君子之志。與腐草一旦斯尽。爰继成之。欲俾某與先君子之志業與攫山海水流沄。崔萃相為無窮。幸嘱筆焉。以誌來者。",
-      "viet": "Đấy chẳng phải là ruộng phúc của sự viên giác ư 2 Phủ Thanh-hóa, hương An-duyên có chùa Hưng-phúc."
-    },
-    {
-      "row_index": 814,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.12 < 0.7 (19 Viet words / 153 Han chars).",
-      "han": "余頷公言。无嘉公之志。又嘉是父之有是子。安得不。遂為之。曰。南玃之山東海之水左盤右拏鼎平匹美。清淑渊渟有源有委蛇蜒逶迤為韶為虺惟彼黎公鍾此瑰瑋為國忠臣為家令子。慨念先君修崇釋氏貿目遺構克継先軌。開泰紹隆甲子甲子父基子堂孝無終始。為善之報錫類之址嗚呼休哉口口口口。正大夫口金魚袋上品都拼。翰林口口。開泰甲子年季冬月谷日。侍内員外郎黎品書。",
-      "viet": "Tiên tồ Thượng tưởng minh tự Lê Công An, vợ họ Quách, sinh được Đại toát Lê Bào Tử,"
-    },
-    {
-      "row_index": 830,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "粤庚申春。協心卜吉。",
-      "viet": "Lý trường Lê Doãn Sử"
-    },
-    {
-      "row_index": 831,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.23 < 0.7 (5 Viet words / 22 Han chars).",
-      "han": "安之于安江峽地。鳩貨財為公需。命工來秋砌石完其址。",
-      "viet": "Trùm trưởng Lê Đình Thống"
-    },
-    {
-      "row_index": 833,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.50 < 0.7 (5 Viet words / 10 Han chars).",
-      "han": "乃迹原碑重立于址之右。",
-      "viet": "Nhiêu-học Lương Sĩ Quản"
-    },
-    {
-      "row_index": 835,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.62 < 0.7 (5 Viet words / 8 Han chars).",
-      "han": "幾乎其享之有所矣。",
-      "viet": "Lý trưởng Phạm Văn Oánh"
-    },
-    {
-      "row_index": 836,
-      "category": "OMISSION",
-      "severity": "warning",
-      "reason": "Length ratio 0.10 < 0.7 (3 Viet words / 30 Han chars).",
-      "han": "遂追刻于石。以青其傅云。皇朝嗣德十三年歲庚申季夏初八日。副總杜名冠。",
-      "viet": "Lè Doãn Chuần"
-    },
-    {
-      "row_index": 836,
+      "row_index": 428,
       "category": "NUMBER_MISMATCH",
       "severity": "warning",
       "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
-      "han": "遂追刻于石。以青其傅云。皇朝嗣德十三年歲庚申季夏初八日。副總杜名冠。",
-      "viet": "Lè Doãn Chuần"
+      "han": "風景三秋。",
+      "viet": "Tuy nhiên:"
+    },
+    {
+      "row_index": 444,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "當其舳艫千里。",
+      "viet": "phong cảnh ba thu. Bir lầu xào xạc:"
+    },
+    {
+      "row_index": 446,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "貔貅六軍。",
+      "viet": "Sông chìm giáo gẫy:"
+    },
+    {
+      "row_index": 457,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "孟德赤壁之師。",
+      "viet": "dáo giơm sáng chỏi."
+    },
+    {
+      "row_index": 477,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (6 Viet words / 9 Han chars).",
+      "han": "行且歌曰大江兮渡漉。",
+      "viet": "Sông Đảng một giải dài ghê."
+    },
+    {
+      "row_index": 481,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.55 < 0.7 (6 Viet words / 11 Han chars).",
+      "han": "客從而賽歌曰二聖兮並明。",
+      "viet": "Anh minh hai vị Thánh quân."
+    },
+    {
+      "row_index": 484,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "千古昇平。",
+      "viet": "Tai đâu đất:"
+    },
+    {
+      "row_index": 485,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.56 < 0.7 (5 Viet words / 9 Han chars).",
+      "han": "信知不在閭河之險兮。",
+      "viet": "hiềm, cổi mình đirc.cao."
+    },
+    {
+      "row_index": 493,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.50 > 4.5 (50 Viet words / 4 Han chars).",
+      "han": "道之不明。",
+      "viet": "Bọn áo thâm, áo vàng tu tập ở đẩy, không cây mà án, không dẹt mà mặc những người thất phú thất phụ thường bỏ cửa nhà, bò làng xóm lũ lượt quy theo Than ôi 1 Các bậc thánh hiền ngày càng xa cách, chính đạo ngày càng lu."
+    },
+    {
+      "row_index": 504,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.25 > 4.5 (117 Viet words / 4 Han chars).",
+      "han": "是可書也。",
+      "viet": "đáng phải truất bỏ, chính đạo phải được phục hưng, Đã là kê sĩ, đại phù, nếu không phải đạo Nghiêu Thuân, không bày tỏ trước vua, khộng phải đạo Khồng Mạnh, không trước thuật Thế mà ta lại dương dương tự đắc, bản bạc, dài động về đạo Phật ta sẽ lửa đôi ai 7 Tuy nhiên, Chu Tuế đã từng làm trong Nội mật viện, thông thạo việc ty tào; đến lúc tuổi già khinh đường sĩ hoạn, ham việc bố thị, cổ từ bồng lộc, tự xin về ần dật để được an, nhàn, thì độ là việc ta muốn học mà chưa được Cho nên đó cũng là việc đáng ghi chép vậy."
+    },
+    {
+      "row_index": 522,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['千'] not reflected in Việt translation.",
+      "han": "僧德文夢千餘人集山巔其中三貴相貌殊異語眾曰。汝等當知造塔是極三途勝事。及下手日。",
+      "viet": "Khi mới xem dất đề khởi công, sứ Đức Văn đêm chiêm bao thấy hơn một nghĩn người tụ họp ở dinh núi, trong đô có ba vị qui nhân, trứng mạo khác thường, bảo với."
+    },
+    {
+      "row_index": 523,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.10 < 0.7 (3 Viet words / 31 Han chars).",
+      "han": "僧德門夜夢竹林普慧尊者結印安鎮及僧德浄德明前後砌塔門路推落大石。",
+      "viet": "mọi người rằng:"
+    },
+    {
+      "row_index": 527,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "塔成四層。夜放光明。遠近咸覩。",
+      "viet": "sư Đức Mòn lại chiêm hao thấy đirc Trúc lâm Phồ Tuệ kết ấn giữ cho tháp yên vững."
+    },
+    {
+      "row_index": 529,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.68 < 0.7 (19 Viet words / 28 Han chars).",
+      "han": "昔阿育王役鬼神造八萬四千塔貼禮者如親見佛杖頭刻塔亦弭妖氛。",
+      "viet": "Mọi người trông thấy đều kịnh hãi chạy tân hết, của ràng thần thề họ tát phải nái vìn"
+    },
+    {
+      "row_index": 529,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "昔阿育王役鬼神造八萬四千塔貼禮者如親見佛杖頭刻塔亦弭妖氛。",
+      "viet": "Mọi người trông thấy đều kịnh hãi chạy tân hết, của ràng thần thề họ tát phải nái vìn"
+    },
+    {
+      "row_index": 533,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.64 < 0.7 (18 Viet words / 28 Han chars).",
+      "han": "永托伽藍境界。用為含識津梁無乃不可乎。余謂釋迦老子以三空證道。",
+      "viet": "Tất cà những việc ấy, có việc nào không phải do phép mầu nhiệm của đức Phật ta."
+    },
+    {
+      "row_index": 542,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (2 Viet words / 3 Han chars).",
+      "han": "尺而仞。",
+      "viet": "Ta nói:"
+    },
+    {
+      "row_index": 550,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.29 > 4.5 (107 Viet words / 7 Han chars).",
+      "han": "憂船舷而歌滄浪。",
+      "viet": "Nghĩ đến việc nhà sư, lấn, chàn mảy, xếp từng hòn đá, từ một tắc đến một, thước, từ một thước đến một nhận, một bước tiến thêm một bước, một tầng cao thêm một tầng, tới lúc tháp cao, sing sững, thế chạm trời xanh, tô thèm vè đẹp của non sống, trạnh công xây dựng cùng tạo hóa, thì bộn sir sãi tầm thường đàu có thể sanh được Than ôi, mai sau mấy trăm năm, nữa, chốc lát tảnh tượng biên đồi, nếu lại có kẻ buỏng lời than thở như ta, lễ nào không có vài người như sư Nhụ xây dựng lại?"
+    },
+    {
+      "row_index": 567,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 23.00 > 4.5 (23 Viet words / 1 Han chars).",
+      "han": "蘇",
+      "viet": "Ướm hỏi đài mây cao độ bao nhiều? Cần họa thêm bức tranh c tề tương rời núi s CÂY QUẾ TRONG TRĂNG"
+    },
+    {
+      "row_index": 571,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.50 < 0.7 (3 Viet words / 6 Han chars).",
+      "han": "表風吹騎去鶴",
+      "viet": "Ở QUỲNH-LÂM"
+    },
+    {
+      "row_index": 573,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "生",
+      "viet": "Mây che mái nhà tranh, rồng năm trên gò"
+    },
+    {
+      "row_index": 594,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.00 > 4.5 (24 Viet words / 2 Han chars).",
+      "han": "思君",
+      "viet": "Nước cũ còn đề lại cày gỗ lớn. Non cao chỉ có cây đàn đứt giảy Nếu có thể đúc được quan Tư đồ,"
+    },
+    {
+      "row_index": 596,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.29 < 0.7 (2 Viet words / 7 Han chars).",
+      "han": "作調羹汝惟鹽梅",
+      "viet": "Ở LÀNG"
+    },
+    {
+      "row_index": 627,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.39 < 0.7 (14 Viet words / 36 Han chars).",
+      "han": "胡馬嘶北風。越鳥巢南枝公尚父舊居檜凌霜老欲鱗興幾閱世間人蒸蒲暗馬捋堤四海安",
+      "viet": "Cây bách irước sản dày dạn với sương, gia đến đêmi vày ra rồi,"
+    },
+    {
+      "row_index": 627,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "胡馬嘶北風。越鳥巢南枝公尚父舊居檜凌霜老欲鱗興幾閱世間人蒸蒲暗馬捋堤四海安",
+      "viet": "Cây bách irước sản dày dạn với sương, gia đến đêmi vày ra rồi,"
+    },
+    {
+      "row_index": 628,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 12.00 > 4.5 (12 Viet words / 1 Han chars).",
+      "han": "危",
+      "viet": "Trong cuộc phế hưng ngòi nhà đã trải qua mấy đời người."
+    },
+    {
+      "row_index": 632,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
+      "han": "英雄",
+      "viet": "Việc hai triều nhường ngôi cho nbau nhờ tài kịnh luân của ông."
+    },
+    {
+      "row_index": 633,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 6.50 > 4.5 (13 Viet words / 2 Han chars).",
+      "han": "如在",
+      "viet": "Người anh hùng như vẫn còn đây mà nếp cơ cầu đã đứt,"
+    },
+    {
+      "row_index": 634,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.25 < 0.7 (1 Viet words / 4 Han chars).",
+      "han": "麟閣円青",
+      "viet": "(t"
+    },
+    {
+      "row_index": 638,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.00 > 4.5 (45 Viet words / 3 Han chars).",
+      "han": "山南北",
+      "viet": "Gió thông thời lên nghe như tiếng sóng bề rì rầm Mây che ngôi chùa cồ, núi ở phía nam, phía bắc, Tháp dựa vòm trời cao, trải bao đời xưa và nay. Nhà sư múc nước dưới khe về như đi trên ngọn cây,"
+    },
+    {
+      "row_index": 643,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 22.50 > 4.5 (45 Viet words / 2 Han chars).",
+      "han": "势壓",
+      "viet": "Thế dè đầu cá ngao, khống chế vùng mường mán, Trong bóng chiều tà, sóng đầu bãi sông và một cảnh chim cô đơn. Sông lượn quanh mảnh đất vị tướng già bản việc binh, Mây ôm ngọn núi nơi tiên hoàng dựng gây thiếc."
+    },
+    {
+      "row_index": 645,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 17.00 > 4.5 (34 Viet words / 2 Han chars).",
+      "han": "江蟠",
+      "viet": "Nước trời mênh mông, chim từng đồi bay về. Nơi du ngoạn đẹp đề này thấm thoắt mà trở thành dấu cũ, Lữ khách bãy vi lên được chốn cao mà trơi nét mặt."
+    },
+    {
+      "row_index": 647,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.00 > 4.5 (29 Viet words / 1 Han chars).",
+      "han": "擁",
+      "viet": "Nhân hứng lên, gõ mạn thuyền họa lại bài hát làng chài. Mồng treo trên trời, mưa đã tạnh, Thuyền vẽ hình chim ích xuôi dòng, nước lặng sóng."
+    },
+    {
+      "row_index": 649,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 15.00 > 4.5 (30 Viet words / 2 Han chars).",
+      "han": "雲歲",
+      "viet": "Công danh hai chữ làm lầm lõ người ta quá nhicu. Muốn cưỡi thuyền con đi tim trương hãn. Nhưng còn vị rau thuần cá vược biết linh sao đày."
+    },
+    {
+      "row_index": 675,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 13.00 > 4.5 (13 Viet words / 1 Han chars).",
+      "han": "多",
+      "viet": "Màu thúy vòi vọi, mầu xanh trập trùng tràn ngập trong tầm mắt,"
+    },
+    {
+      "row_index": 687,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['三'] not reflected in Việt translation.",
+      "han": "自知三十年前错",
+      "viet": "Giọt mựa trên tàu chuố: xanh ngoài cửa số tiền canh tàn"
+    },
+    {
+      "row_index": 689,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
+      "han": "聲",
+      "viet": "Đành ôm sàu ngồi nghe mưa rơi."
+    },
+    {
+      "row_index": 734,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 31.00 > 4.5 (31 Viet words / 1 Han chars).",
+      "han": "兩",
+      "viet": "Đã từng đối mặt trên chiếc chiếu bỏ trống của nhà vua, Cần gì phải, đợi vời về bằng xe quấn cỏ bồ. Chở dặn con cháu lo việc chôn cất,"
+    },
+    {
+      "row_index": 737,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 44.00 > 4.5 (44 Viet words / 1 Han chars).",
+      "han": "帝",
+      "viet": "Núi biếc cao vút, tụa tủa như gượm giáo kéo lấy tầng mày, Hải thần: nuốt thủy triều cuộn làn sóng bạc. Hoà vàng điểm tô mặt đất lúc mưa xuân vừa tạnh, Tiếng sáo, thông rung chuyền trời khi sương chiệu lạnh lễo."
+    },
+    {
+      "row_index": 746,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "笑",
+      "viet": "Chim trả bay cao sánh với nghi trượng thần tiên."
+    },
+    {
+      "row_index": 747,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
+      "han": "談",
+      "viet": "Con chuồn đứng lê, vững vàng, như chiếc giường phượng hoàng"
+    },
+    {
+      "row_index": 749,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "医",
+      "viet": "Mui hoa xông lên người, tiếng cười nói cũng thơm"
+    },
+    {
+      "row_index": 760,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
+      "han": "八",
+      "viet": "x"
+    },
+    {
+      "row_index": 803,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 39.00 > 4.5 (39 Viet words / 1 Han chars).",
+      "han": "哗",
+      "viet": "Sợi tơ vàng của Giác vương đã tìm được người truyền lại. Chiếc dép cất trong quan, tài dưới đảm có rậm, trện đinh non xanh. Con ve sàu lột xác trong đảm sương dầy ở lùm cây biếc"
+    },
+    {
+      "row_index": 815,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "白",
+      "viet": "TIỄN SỨ BẮC TÁT CHỈ NGÔA, TRIỆU TỬ KỲ"
+    },
+    {
+      "row_index": 819,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.00 > 4.5 (11 Viet words / 1 Han chars).",
+      "han": "越",
+      "viet": "Non sông nước việt cung cấp những cầu thơ tuyệt hay"
+    },
+    {
+      "row_index": 840,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "桶忽打破六與七",
+      "viet": "Tám lỗ với bảy chỗ thủng (l?)."
+    },
+    {
+      "row_index": 875,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 11.50 > 4.5 (23 Viet words / 2 Han chars).",
+      "han": "不嗦",
+      "viet": "Không có bệnh dùng thuốc làm gì 2 Nay có thứ cơm a không gạo - Bề cho người ơ không miệng vi ăn."
+    },
+    {
+      "row_index": 889,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 7.00 > 4.5 (7 Viet words / 1 Han chars).",
+      "han": "賢",
+      "viet": "BÀN VỀ VIỆC NÊU GƯƠNG NGƯỜI TỐT."
+    },
+    {
+      "row_index": 890,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 29.00 > 4.5 (29 Viet words / 1 Han chars).",
+      "han": "耶。",
+      "viet": "KÊ XẤU ĐỀ DẠY BẢO HOÀNG TỬ Người tốt hay kề xấu đều phải nèu ra, không thể bỏ đi một loại nào. Con ta quả là hiền ư?"
+    },
+    {
+      "row_index": 894,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 8.56 > 4.5 (154 Viet words / 18 Han chars).",
+      "han": "及善人、悪。人且置勿論。恐皇子聞之或有效者。",
+      "viet": "Trắng 1 trên 3 về nữ Doãn luận nhân vật giáo hoàng từ, tu chỉ.cập thiện nhận, Ác nhân thả tri sật luận, Khủng hoàng tử văn chị hoặc hữu hiệu, giả, Nghĩa là: ở Phàm bàn đến các nhân vật đề dạy hoàng từ, chỉ nền đề cập đến những ngvời tốt. kè xáu hảy bỏ ra đứng bàn, sở các hoàng tử nghe được rồi, có người bắt chước s, Thượng hoàng Trần Minh Tùy, con thứ hai vua, Tùy Văn Đế Á X (590? 605), Vì nhân cách không xứng đảng, vua cha định không, truyền, ngôi, nhưng chở dịp vua cha ổm nặng, y làm chuyện thí nghịch cướp ngôi. Sau 12 năm ăn chơi Nghiêu Thuân: xem: Cht. 8, bài Nghì: Anh Tông hoàng đế tả thượng hoàng biều, số 288, Kiệt, Trụ: hai ông vua tương truyền tàn ác.bậc nhất trong lịch sử thượng cồ Trung-"
+    },
+    {
+      "row_index": 917,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "非",
+      "viet": "Cảnh giàu sang như mày nổi, đã không đáng kề,"
+    },
+    {
+      "row_index": 920,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.00 > 4.5 (10 Viet words / 1 Han chars).",
+      "han": "謁",
+      "viet": "Yết xong ngôi đền hoang rậm, nước mắt như mưa."
+    },
+    {
+      "row_index": 934,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 10.67 > 4.5 (32 Viet words / 3 Han chars).",
+      "han": "月分夜",
+      "viet": "Gio đưa tiếng thu theo cây cối xa dần, Tráng phả hơi đêm vào cửa số lành lạnb. Đất khách quê người, nổi lòng lạnh lẽo không còn thiết tới việc gì,"
+    },
+    {
+      "row_index": 972,
+      "category": "ADDITION",
+      "severity": "warning",
+      "reason": "Length ratio 9.00 > 4.5 (9 Viet words / 1 Han chars).",
+      "han": "香",
+      "viet": "NHÂN LÚC RỖI, DÙNG THƠ SÁU CHỮ ĐỀ VÀO"
+    },
+    {
+      "row_index": 984,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "有臣九龄懷丹抱素含华吐英。",
+      "viet": "Ấy xưa đế đình Có chàng cửu Linh."
+    },
+    {
+      "row_index": 988,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['萬'] not reflected in Việt translation.",
+      "han": "〈萬鶴。豈足為祝聖之符。",
+      "viet": "ý chứng cho biết Chông chênh rùa bạc."
+    },
+    {
+      "row_index": 1007,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (8 Viet words / 12 Han chars).",
+      "han": "復稽首而披肝。臣言明乎似鑑。",
+      "viet": "Lời nói trung thần sáng sia như gương:"
+    },
+    {
+      "row_index": 1008,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.69 < 0.7 (18 Viet words / 26 Han chars).",
+      "han": "臣心赫兮若丹。眾正於是乎志舒而气豁群邪於是乎胆落而毛寒。",
+      "viet": "tắc dạ trung thần đỏ thăm như son Đảm trung chính từ ấy lòng yên mà khi hả:"
+    },
+    {
+      "row_index": 1010,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "照發甫之奸邪。",
+      "viet": "sánh đẹp diêu, Tổng."
+    },
+    {
+      "row_index": 1033,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['四'] not reflected in Việt translation.",
+      "han": "魑魅魍魉四小鬼",
+      "viet": "vị đại vương. Cầu này cũng chơi chữ:"
+    },
+    {
+      "row_index": 1036,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['八'] not reflected in Việt translation.",
+      "han": "洛水神龜單應兆。天數九地數九。九九八十",
+      "viet": "thủy thần quy, đơn ứng triệu, thiên số cửu, dịa số cửu, cửu cửu bái tháp nhất số,"
+    },
+    {
+      "row_index": 1038,
+      "category": "NUMBER_MISMATCH",
+      "severity": "warning",
+      "reason": "Hán number(s) ['六'] not reflected in Việt translation.",
+      "han": "十六聲。",
+      "viet": "trời 9 số, đất 9 số,"
+    },
+    {
+      "row_index": 1074,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.60 < 0.7 (3 Viet words / 5 Han chars).",
+      "han": "訪陶潛舊居",
+      "viet": "CỦA ĐẢO TIÊM"
+    },
+    {
+      "row_index": 1126,
+      "category": "OMISSION",
+      "severity": "warning",
+      "reason": "Length ratio 0.67 < 0.7 (4 Viet words / 6 Han chars).",
+      "han": "藹聲名之昭约。",
+      "viet": "danh tiếng vẻ vang."
     }
   ]
 }

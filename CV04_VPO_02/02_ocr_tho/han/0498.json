@@ -1,0 +1,122 @@
+{
+  "page_id": "0498",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 498,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0498_han_000",
+      "bbox": [
+        [
+          219,
+          2
+        ],
+        [
+          440,
+          2
+        ],
+        [
+          440,
+          69
+        ],
+        [
+          219,
+          69
+        ]
+      ],
+      "bbox_original": [
+        [
+          219,
+          161
+        ],
+        [
+          440,
+          161
+        ],
+        [
+          440,
+          228
+        ],
+        [
+          219,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        219,
+        2,
+        440,
+        69
+      ],
+      "text": "花陰柳景，",
+      "confidence": 0.9961
+    },
+    {
+      "line_id": "0498_han_001",
+      "bbox": [
+        [
+          218,
+          76
+        ],
+        [
+          486,
+          76
+        ],
+        [
+          486,
+          142
+        ],
+        [
+          218,
+          142
+        ]
+      ],
+      "bbox_original": [
+        [
+          218,
+          235
+        ],
+        [
+          486,
+          235
+        ],
+        [
+          486,
+          301
+        ],
+        [
+          218,
+          301
+        ]
+      ],
+      "box_xyxy": [
+        218,
+        76,
+        486,
+        142
+      ],
+      "text": "莫使檀郎瘦.",
+      "confidence": 0.9967
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "花陰柳景，",
+      "莫使檀郎瘦."
+    ],
+    "interlinear_triplets": []
+  }
+}

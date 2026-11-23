@@ -1,0 +1,513 @@
+{
+  "page_id": "0292",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 292,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0292_han_000",
+      "bbox": [
+        [
+          288,
+          89
+        ],
+        [
+          902,
+          89
+        ],
+        [
+          902,
+          160
+        ],
+        [
+          288,
+          160
+        ]
+      ],
+      "bbox_original": [
+        [
+          288,
+          257
+        ],
+        [
+          902,
+          257
+        ],
+        [
+          902,
+          328
+        ],
+        [
+          288,
+          328
+        ]
+      ],
+      "box_xyxy": [
+        288,
+        89,
+        902,
+        160
+      ],
+      "text": "盗起而不知御",
+      "confidence": 0.9782
+    },
+    {
+      "line_id": "0292_han_001",
+      "bbox": [
+        [
+          288,
+          322
+        ],
+        [
+          905,
+          318
+        ],
+        [
+          905,
+          389
+        ],
+        [
+          289,
+          394
+        ]
+      ],
+      "bbox_original": [
+        [
+          288,
+          490
+        ],
+        [
+          905,
+          486
+        ],
+        [
+          905,
+          557
+        ],
+        [
+          289,
+          562
+        ]
+      ],
+      "box_xyxy": [
+        288,
+        318,
+        905,
+        394
+      ],
+      "text": "民困而不知救",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0292_han_002",
+      "bbox": [
+        [
+          290,
+          552
+        ],
+        [
+          898,
+          552
+        ],
+        [
+          898,
+          624
+        ],
+        [
+          290,
+          624
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          720
+        ],
+        [
+          898,
+          720
+        ],
+        [
+          898,
+          792
+        ],
+        [
+          290,
+          792
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        552,
+        898,
+        624
+      ],
+      "text": "吏奸而不知禁",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0292_han_003",
+      "bbox": [
+        [
+          286,
+          780
+        ],
+        [
+          910,
+          780
+        ],
+        [
+          910,
+          855
+        ],
+        [
+          286,
+          855
+        ]
+      ],
+      "bbox_original": [
+        [
+          286,
+          948
+        ],
+        [
+          910,
+          948
+        ],
+        [
+          910,
+          1023
+        ],
+        [
+          286,
+          1023
+        ]
+      ],
+      "box_xyxy": [
+        286,
+        780,
+        910,
+        855
+      ],
+      "text": "法斁而不知理",
+      "confidence": 0.9706
+    },
+    {
+      "line_id": "0292_han_004",
+      "bbox": [
+        [
+          288,
+          1011
+        ],
+        [
+          1127,
+          1011
+        ],
+        [
+          1127,
+          1089
+        ],
+        [
+          288,
+          1089
+        ]
+      ],
+      "bbox_original": [
+        [
+          288,
+          1179
+        ],
+        [
+          1127,
+          1179
+        ],
+        [
+          1127,
+          1257
+        ],
+        [
+          288,
+          1257
+        ]
+      ],
+      "box_xyxy": [
+        288,
+        1011,
+        1127,
+        1089
+      ],
+      "text": "坐縻廪粟而不知恥",
+      "confidence": 0.9615
+    },
+    {
+      "line_id": "0292_han_005",
+      "bbox": [
+        [
+          281,
+          1238
+        ],
+        [
+          1127,
+          1238
+        ],
+        [
+          1127,
+          1319
+        ],
+        [
+          281,
+          1319
+        ]
+      ],
+      "bbox_original": [
+        [
+          281,
+          1406
+        ],
+        [
+          1127,
+          1406
+        ],
+        [
+          1127,
+          1487
+        ],
+        [
+          281,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        281,
+        1238,
+        1127,
+        1319
+      ],
+      "text": "觀其坐高堂騎大馬",
+      "confidence": 0.9981
+    },
+    {
+      "line_id": "0292_han_006",
+      "bbox": [
+        [
+          285,
+          1472
+        ],
+        [
+          1120,
+          1475
+        ],
+        [
+          1119,
+          1553
+        ],
+        [
+          284,
+          1549
+        ]
+      ],
+      "bbox_original": [
+        [
+          285,
+          1640
+        ],
+        [
+          1120,
+          1643
+        ],
+        [
+          1119,
+          1721
+        ],
+        [
+          284,
+          1717
+        ]
+      ],
+      "box_xyxy": [
+        284,
+        1472,
+        1120,
+        1553
+      ],
+      "text": "醉醇醴而飫肥鮮者",
+      "confidence": 0.9766
+    },
+    {
+      "line_id": "0292_han_007",
+      "bbox": [
+        [
+          286,
+          1700
+        ],
+        [
+          1015,
+          1702
+        ],
+        [
+          1015,
+          1780
+        ],
+        [
+          286,
+          1778
+        ]
+      ],
+      "bbox_original": [
+        [
+          286,
+          1868
+        ],
+        [
+          1015,
+          1870
+        ],
+        [
+          1015,
+          1948
+        ],
+        [
+          286,
+          1946
+        ]
+      ],
+      "box_xyxy": [
+        286,
+        1700,
+        1015,
+        1780
+      ],
+      "text": "孰不巍巍乎可畏",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0292_han_008",
+      "bbox": [
+        [
+          287,
+          1933
+        ],
+        [
+          913,
+          1931
+        ],
+        [
+          913,
+          2007
+        ],
+        [
+          288,
+          2009
+        ]
+      ],
+      "bbox_original": [
+        [
+          287,
+          2101
+        ],
+        [
+          913,
+          2099
+        ],
+        [
+          913,
+          2175
+        ],
+        [
+          288,
+          2177
+        ]
+      ],
+      "box_xyxy": [
+        287,
+        1931,
+        913,
+        2009
+      ],
+      "text": "赫赫乎可象也",
+      "confidence": 1.0
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "盗起而不知御",
+      "民困而不知救",
+      "吏奸而不知禁",
+      "法斁而不知理",
+      "坐縻廪粟而不知恥",
+      "觀其坐高堂騎大馬",
+      "醉醇醴而飫肥鮮者",
+      "孰不巍巍乎可畏",
+      "赫赫乎可象也"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "盗起而不知御",
+        "phien_am": "a Đạo khi nhi bãt tri ngự.",
+        "dich_nghia_gloss": "Trộm cướp nồi lên mà không biết cách ngăn ngừa 1"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "民困而不知救",
+        "phien_am": "dân khôn nhi bất tri cứu,",
+        "dich_nghia_gloss": "Dân tình khôn khồ mà không tìm phương cứu trợ,"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "吏奸而不知禁",
+        "phien_am": "lại gian nhi bất tri căm,",
+        "dich_nghia_gloss": "quan tham lại nhũng mà không biết cách ngăn căm"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "法斁而不知理",
+        "phien_am": "pháp đõ nhi bãt tri lý,",
+        "dich_nghia_gloss": "Pháp độ đồ nát mà không biết cách sửa sang l"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "坐縻廪粟而不知恥",
+        "phien_am": "tọa mi lắm túc nhi bất tri sỉ",
+        "dich_nghia_gloss": "Ngồi ôm lấy kho tàng mà không biết hồ"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "觀其坐高堂騎大馬",
+        "phien_am": "Quan kỳ tọa cao đường, ky đại mã,",
+        "dich_nghia_gloss": "Kìa xem, ở nhà cao, cưới ngựa béo,"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "醉醇醴而飫肥鮮者",
+        "phien_am": "túy thuần lễ nhi ứ phì tiên giả,",
+        "dich_nghia_gloss": "uũng rượu tăm, ăn đó bồ,"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "孰不巍巍乎可畏",
+        "phien_am": "thục bãt nguy nguy hồ khả úy,",
+        "dich_nghia_gloss": "Rõ ra vẻ oai nghiêm, ai mà không sợ,"
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "赫赫乎可象也",
+        "phien_am": "hách hách hồ khả tượng dã.",
+        "dich_nghia_gloss": "Trông ra bộ hách dịch, ai thấy chẳng kinh"
+      }
+    ]
+  }
+}

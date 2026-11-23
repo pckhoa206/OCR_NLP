@@ -1,0 +1,405 @@
+{
+  "page_id": "0342",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 342,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0342_han_000",
+      "bbox": [
+        [
+          471,
+          80
+        ],
+        [
+          1180,
+          80
+        ],
+        [
+          1180,
+          144
+        ],
+        [
+          471,
+          144
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          248
+        ],
+        [
+          1180,
+          248
+        ],
+        [
+          1180,
+          312
+        ],
+        [
+          471,
+          312
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        80,
+        1180,
+        144
+      ],
+      "text": "江曲曲腸迥曲曲",
+      "confidence": 0.9436
+    },
+    {
+      "line_id": "0342_han_001",
+      "bbox": [
+        [
+          468,
+          353
+        ],
+        [
+          1180,
+          353
+        ],
+        [
+          1180,
+          434
+        ],
+        [
+          468,
+          434
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          521
+        ],
+        [
+          1180,
+          521
+        ],
+        [
+          1180,
+          602
+        ],
+        [
+          468,
+          602
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        353,
+        1180,
+        434
+      ],
+      "text": "景悠悠夜復悠悠",
+      "confidence": 0.9869
+    },
+    {
+      "line_id": "0342_han_002",
+      "bbox": [
+        [
+          471,
+          634
+        ],
+        [
+          1079,
+          634
+        ],
+        [
+          1079,
+          711
+        ],
+        [
+          471,
+          711
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          802
+        ],
+        [
+          1079,
+          802
+        ],
+        [
+          1079,
+          879
+        ],
+        [
+          471,
+          879
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        634,
+        1079,
+        711
+      ],
+      "text": "蕭條舘旅亭秋",
+      "confidence": 0.9935
+    },
+    {
+      "line_id": "0342_han_003",
+      "bbox": [
+        [
+          472,
+          912
+        ],
+        [
+          1287,
+          912
+        ],
+        [
+          1287,
+          989
+        ],
+        [
+          472,
+          989
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          1080
+        ],
+        [
+          1287,
+          1080
+        ],
+        [
+          1287,
+          1157
+        ],
+        [
+          472,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        912,
+        1287,
+        989
+      ],
+      "text": "隣家椿楮江頭棹聲",
+      "confidence": 0.992
+    },
+    {
+      "line_id": "0342_han_004",
+      "bbox": [
+        [
+          463,
+          1257
+        ],
+        [
+          1179,
+          1254
+        ],
+        [
+          1179,
+          1335
+        ],
+        [
+          463,
+          1337
+        ]
+      ],
+      "bbox_original": [
+        [
+          463,
+          1425
+        ],
+        [
+          1179,
+          1422
+        ],
+        [
+          1179,
+          1503
+        ],
+        [
+          463,
+          1505
+        ]
+      ],
+      "box_xyxy": [
+        463,
+        1254,
+        1179,
+        1337
+      ],
+      "text": "嗟客地紆縈心事",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0342_han_005",
+      "bbox": [
+        [
+          466,
+          1537
+        ],
+        [
+          1185,
+          1537
+        ],
+        [
+          1185,
+          1618
+        ],
+        [
+          466,
+          1618
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1705
+        ],
+        [
+          1185,
+          1705
+        ],
+        [
+          1185,
+          1786
+        ],
+        [
+          466,
+          1786
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1537,
+        1185,
+        1618
+      ],
+      "text": "嘆閨人情緒可憐",
+      "confidence": 0.9935
+    },
+    {
+      "line_id": "0342_han_006",
+      "bbox": [
+        [
+          468,
+          1890
+        ],
+        [
+          1068,
+          1890
+        ],
+        [
+          1068,
+          1962
+        ],
+        [
+          468,
+          1962
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          2058
+        ],
+        [
+          1068,
+          2058
+        ],
+        [
+          1068,
+          2130
+        ],
+        [
+          468,
+          2130
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        1890,
+        1068,
+        1962
+      ],
+      "text": "更深燈滅案前",
+      "confidence": 0.9882
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "江曲曲腸迥曲曲",
+      "景悠悠夜復悠悠",
+      "蕭條舘旅亭秋",
+      "隣家椿楮江頭棹聲",
+      "嗟客地紆縈心事",
+      "嘆閨人情緒可憐",
+      "更深燈滅案前"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "江曲曲腸迥曲曲",
+        "phien_am": "Giang khúc khúc, trường hồi khúc khúc,",
+        "dich_nghia_gloss": "Sông từng khúc, ruột cũng từng khúc"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "景悠悠夜復悠悠",
+        "phien_am": "Cảnh du du, dạ phục du du",
+        "dich_nghia_gloss": "- Cỉnh thê mãi, đêm lại thê mãi"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "蕭條舘旅亭秋",
+        "phien_am": "Tiêu điều quán lữ đinh thu",
+        "dich_nghia_gloss": "Buôn bã thay vẻ thu nơi quán khách"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "隣家椿楮江頭棹聲",
+        "phien_am": "Lân-gia thung chữ, giang đầu trạo thanh",
+        "dich_nghia_gloss": "- Tiêng chày giá gạo bên nhà hàng xóm, tiếng chèu khua đầu sông."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "嗟客地紆縈心事",
+        "phien_am": "Ta khách địa vu-oanh tâm sự,",
+        "dich_nghia_gloss": "- Thương mình nơi đất khách tâm sự bôi-ròi"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "嘆閨人情緒可憐",
+        "phien_am": "Thán khuê nhân tình tự khả liên",
+        "dich_nghia_gloss": "- Nghĩ đến hạn phòng khuê, môi tình mới đáng chua xót là dường nào ?"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "更深燈滅案前",
+        "phien_am": "Canh thâm đăng diệt án tiền",
+        "dich_nghia_gloss": "Canh khuya ngọn đèn lu-lờ trên án"
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page_id": "0352",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 352,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0352_han_000",
+      "bbox": [
+        [
+          471,
+          79
+        ],
+        [
+          1284,
+          75
+        ],
+        [
+          1284,
+          153
+        ],
+        [
+          471,
+          158
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          247
+        ],
+        [
+          1284,
+          243
+        ],
+        [
+          1284,
+          321
+        ],
+        [
+          471,
+          326
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        75,
+        1284,
+        158
+      ],
+      "text": "含悽穿屩復行西園",
+      "confidence": 0.8773
+    },
+    {
+      "line_id": "0352_han_001",
+      "bbox": [
+        [
+          471,
+          375
+        ],
+        [
+          1187,
+          372
+        ],
+        [
+          1187,
+          443
+        ],
+        [
+          471,
+          446
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          543
+        ],
+        [
+          1187,
+          540
+        ],
+        [
+          1187,
+          611
+        ],
+        [
+          471,
+          614
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        372,
+        1187,
+        446
+      ],
+      "text": "今必謂秋天靜好",
+      "confidence": 0.9938
+    },
+    {
+      "line_id": "0352_han_002",
+      "bbox": [
+        [
+          469,
+          662
+        ],
+        [
+          1184,
+          662
+        ],
+        [
+          1184,
+          736
+        ],
+        [
+          469,
+          736
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          830
+        ],
+        [
+          1184,
+          830
+        ],
+        [
+          1184,
+          904
+        ],
+        [
+          469,
+          904
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        662,
+        1184,
+        736
+      ],
+      "text": "我良人將到歸期",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0352_han_003",
+      "bbox": [
+        [
+          466,
+          956
+        ],
+        [
+          1077,
+          952
+        ],
+        [
+          1077,
+          1027
+        ],
+        [
+          466,
+          1030
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1124
+        ],
+        [
+          1077,
+          1120
+        ],
+        [
+          1077,
+          1195
+        ],
+        [
+          466,
+          1198
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        952,
+        1077,
+        1030
+      ],
+      "text": "遑知世路蹺蹊",
+      "confidence": 0.9647
+    },
+    {
+      "line_id": "0352_han_004",
+      "bbox": [
+        [
+          470,
+          1244
+        ],
+        [
+          1292,
+          1244
+        ],
+        [
+          1292,
+          1321
+        ],
+        [
+          470,
+          1321
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1412
+        ],
+        [
+          1292,
+          1412
+        ],
+        [
+          1292,
+          1489
+        ],
+        [
+          470,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1244,
+        1292,
+        1321
+      ],
+      "text": "閻山千里未期曷來",
+      "confidence": 0.904
+    },
+    {
+      "line_id": "0352_han_005",
+      "bbox": [
+        [
+          466,
+          1602
+        ],
+        [
+          1184,
+          1600
+        ],
+        [
+          1184,
+          1674
+        ],
+        [
+          466,
+          1676
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1770
+        ],
+        [
+          1184,
+          1768
+        ],
+        [
+          1184,
+          1842
+        ],
+        [
+          466,
+          1844
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1600,
+        1184,
+        1676
+      ],
+      "text": "今必謂我離永久",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0352_han_006",
+      "bbox": [
+        [
+          476,
+          1893
+        ],
+        [
+          1185,
+          1891
+        ],
+        [
+          1185,
+          1966
+        ],
+        [
+          476,
+          1968
+        ]
+      ],
+      "bbox_original": [
+        [
+          476,
+          2061
+        ],
+        [
+          1185,
+          2059
+        ],
+        [
+          1185,
+          2134
+        ],
+        [
+          476,
+          2136
+        ]
+      ],
+      "box_xyxy": [
+        476,
+        1891,
+        1185,
+        1968
+      ],
+      "text": "自長安或抱衾稠",
+      "confidence": 0.9459
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "含悽穿屩復行西園",
+      "今必謂秋天靜好",
+      "我良人將到歸期",
+      "遑知世路蹺蹊",
+      "閻山千里未期曷來",
+      "今必謂我離永久",
+      "自長安或抱衾稠"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "含悽穿屩復行西園",
+        "phien_am": "Hàm thê xuyên cược phục hành tây viên",
+        "dich_nghia_gloss": "- Ngậm sầu xỏ giép lại trở ra vườn tây."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "今必謂秋天靜好",
+        "phien_am": "Kim tất vị thu thiên tính hảo,",
+        "dich_nghia_gloss": "Bây giờ hần nàng cũng nói rằng: Trời thu trơi sáng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "我良人將到歸期",
+        "phien_am": "Ngã lương nhân tương đáo qui kỳ",
+        "dich_nghia_gloss": "- Chông ta có lẽ đã gần tới ngày vê"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "遑知世路蹺蹊",
+        "phien_am": "Hoàng tri thế lộ nghiêu khê",
+        "dich_nghia_gloss": "- Biết đâu đường đời éo-le hiểm-trở"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "閻山千里未期曷來",
+        "phien_am": "Quan-sơn thiên lý vị kỳ hạt lai 1",
+        "dich_nghia_gloss": "- Non sông ngàn dặm đi dễ làm sao mà hẹn trước đặng ngày về với nhau"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "今必謂我離永久",
+        "phien_am": "Kim tất vị ngã ly vĩnh cửu",
+        "dich_nghia_gloss": "- Rày hằn nói rằng ta đi mãi không về nữa"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "自長安或抱衾稠",
+        "phien_am": "Tự Trường-an hoặc bão khâm trù",
+        "dich_nghia_gloss": "- Hoặc ở Trìng-an đã có người nâng khăn sửa túi rồi"
+      }
+    ]
+  }
+}

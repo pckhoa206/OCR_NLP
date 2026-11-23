@@ -1,0 +1,1036 @@
+{
+  "page_id": "0815",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 815,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0815_viet_000",
+      "bbox": [
+        [
+          1085,
+          66
+        ],
+        [
+          1135,
+          66
+        ],
+        [
+          1135,
+          121
+        ],
+        [
+          1085,
+          121
+        ]
+      ],
+      "bbox_original": [
+        [
+          1085,
+          281
+        ],
+        [
+          1135,
+          281
+        ],
+        [
+          1135,
+          336
+        ],
+        [
+          1085,
+          336
+        ]
+      ],
+      "box_xyxy": [
+        1085,
+        66,
+        1135,
+        121
+      ],
+      "text": "II",
+      "confidence": 0.8923
+    },
+    {
+      "line_id": "0815_viet_001",
+      "bbox": [
+        [
+          792,
+          160
+        ],
+        [
+          1407,
+          163
+        ],
+        [
+          1407,
+          221
+        ],
+        [
+          792,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          792,
+          375
+        ],
+        [
+          1407,
+          378
+        ],
+        [
+          1407,
+          436
+        ],
+        [
+          792,
+          434
+        ]
+      ],
+      "box_xyxy": [
+        792,
+        160,
+        1407,
+        221
+      ],
+      "text": "Tích thuốc nhằm chữa bệnh",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0815_viet_002",
+      "bbox": [
+        [
+          793,
+          232
+        ],
+        [
+          1425,
+          231
+        ],
+        [
+          1425,
+          286
+        ],
+        [
+          793,
+          287
+        ]
+      ],
+      "bbox_original": [
+        [
+          793,
+          447
+        ],
+        [
+          1425,
+          446
+        ],
+        [
+          1425,
+          501
+        ],
+        [
+          793,
+          502
+        ]
+      ],
+      "box_xyxy": [
+        793,
+        231,
+        1425,
+        287
+      ],
+      "text": "Không bệnh, thuốc đầu cần ?",
+      "confidence": 0.911
+    },
+    {
+      "line_id": "0815_viet_003",
+      "bbox": [
+        [
+          789,
+          295
+        ],
+        [
+          1381,
+          299
+        ],
+        [
+          1381,
+          353
+        ],
+        [
+          789,
+          349
+        ]
+      ],
+      "bbox_original": [
+        [
+          789,
+          510
+        ],
+        [
+          1381,
+          514
+        ],
+        [
+          1381,
+          568
+        ],
+        [
+          789,
+          564
+        ]
+      ],
+      "box_xyxy": [
+        789,
+        295,
+        1381,
+        353
+      ],
+      "text": "Như có cơm a không gao s,",
+      "confidence": 0.8939
+    },
+    {
+      "line_id": "0815_viet_004",
+      "bbox": [
+        [
+          793,
+          360
+        ],
+        [
+          1459,
+          360
+        ],
+        [
+          1459,
+          417
+        ],
+        [
+          793,
+          417
+        ]
+      ],
+      "bbox_original": [
+        [
+          793,
+          575
+        ],
+        [
+          1459,
+          575
+        ],
+        [
+          1459,
+          632
+        ],
+        [
+          793,
+          632
+        ]
+      ],
+      "box_xyxy": [
+        793,
+        360,
+        1459,
+        417
+      ],
+      "text": "Cho người a không miệng, ăn.",
+      "confidence": 0.8908
+    },
+    {
+      "line_id": "0815_viet_005",
+      "bbox": [
+        [
+          1313,
+          431
+        ],
+        [
+          1503,
+          431
+        ],
+        [
+          1503,
+          487
+        ],
+        [
+          1313,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          1313,
+          646
+        ],
+        [
+          1503,
+          646
+        ],
+        [
+          1503,
+          702
+        ],
+        [
+          1313,
+          702
+        ]
+      ],
+      "box_xyxy": [
+        1313,
+        431,
+        1503,
+        487
+      ],
+      "text": "HUỆ CHI",
+      "confidence": 0.9369
+    },
+    {
+      "line_id": "0815_viet_006",
+      "bbox": [
+        [
+          258,
+          550
+        ],
+        [
+          495,
+          550
+        ],
+        [
+          495,
+          605
+        ],
+        [
+          258,
+          605
+        ]
+      ],
+      "bbox_original": [
+        [
+          258,
+          765
+        ],
+        [
+          495,
+          765
+        ],
+        [
+          495,
+          820
+        ],
+        [
+          258,
+          820
+        ]
+      ],
+      "box_xyxy": [
+        258,
+        550,
+        495,
+        605
+      ],
+      "text": "CHÚ, THÍCH",
+      "confidence": 0.9114
+    },
+    {
+      "line_id": "0815_viet_007",
+      "bbox": [
+        [
+          942,
+          604
+        ],
+        [
+          1282,
+          604
+        ],
+        [
+          1282,
+          656
+        ],
+        [
+          942,
+          656
+        ]
+      ],
+      "bbox_original": [
+        [
+          942,
+          819
+        ],
+        [
+          1282,
+          819
+        ],
+        [
+          1282,
+          871
+        ],
+        [
+          942,
+          871
+        ]
+      ],
+      "box_xyxy": [
+        942,
+        604,
+        1282,
+        656
+      ],
+      "text": "XUẤT XỨ - TĐNI",
+      "confidence": 0.8465
+    },
+    {
+      "line_id": "0815_viet_008",
+      "bbox": [
+        [
+          252,
+          692
+        ],
+        [
+          1963,
+          694
+        ],
+        [
+          1963,
+          751
+        ],
+        [
+          252,
+          749
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          907
+        ],
+        [
+          1963,
+          909
+        ],
+        [
+          1963,
+          966
+        ],
+        [
+          252,
+          964
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        692,
+        1963,
+        751
+      ],
+      "text": "(t) Đầu đế do chúng tôi thêm, dựa' vào lời ghi trong TĐN'. Kim Sơn, theo cách gọi của",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0815_viet_009",
+      "bbox": [
+        [
+          342,
+          748
+        ],
+        [
+          1962,
+          748
+        ],
+        [
+          1962,
+          798
+        ],
+        [
+          342,
+          798
+        ]
+      ],
+      "bbox_original": [
+        [
+          342,
+          963
+        ],
+        [
+          1962,
+          963
+        ],
+        [
+          1962,
+          1013
+        ],
+        [
+          342,
+          1013
+        ]
+      ],
+      "box_xyxy": [
+        342,
+        748,
+        1962,
+        798
+      ],
+      "text": "Trần Minh Tộng trong TĐNL là: a Trúc làm đệ tam đại Thiên tò - (Tò đời thứ ba phải",
+      "confidence": 0.8966
+    },
+    {
+      "line_id": "0815_viet_010",
+      "bbox": [
+        [
+          341,
+          796
+        ],
+        [
+          1962,
+          797
+        ],
+        [
+          1962,
+          854
+        ],
+        [
+          341,
+          853
+        ]
+      ],
+      "bbox_original": [
+        [
+          341,
+          1011
+        ],
+        [
+          1962,
+          1012
+        ],
+        [
+          1962,
+          1069
+        ],
+        [
+          341,
+          1068
+        ]
+      ],
+      "box_xyxy": [
+        341,
+        796,
+        1962,
+        854
+      ],
+      "text": "Truô lâm) là.người a nhận được cải phần cót tủy của Phố Tuệ s (Phổ Tuệ tức Pháp",
+      "confidence": 0.8529
+    },
+    {
+      "line_id": "0815_viet_011",
+      "bbox": [
+        [
+          340,
+          846
+        ],
+        [
+          1962,
+          850
+        ],
+        [
+          1962,
+          908
+        ],
+        [
+          340,
+          903
+        ]
+      ],
+      "bbox_original": [
+        [
+          340,
+          1061
+        ],
+        [
+          1962,
+          1065
+        ],
+        [
+          1962,
+          1123
+        ],
+        [
+          340,
+          1118
+        ]
+      ],
+      "box_xyxy": [
+        340,
+        846,
+        1962,
+        908
+      ],
+      "text": "Lòa, xém tiều sử Đồng Kiên Cương, trong cùng tập), vậy có lễ là một biệt hiệu của",
+      "confidence": 0.9052
+    },
+    {
+      "line_id": "0815_viet_012",
+      "bbox": [
+        [
+          340,
+          897
+        ],
+        [
+          1959,
+          902
+        ],
+        [
+          1959,
+          956
+        ],
+        [
+          340,
+          952
+        ]
+      ],
+      "bbox_original": [
+        [
+          340,
+          1112
+        ],
+        [
+          1959,
+          1117
+        ],
+        [
+          1959,
+          1171
+        ],
+        [
+          340,
+          1167
+        ]
+      ],
+      "box_xyxy": [
+        340,
+        897,
+        1959,
+        956
+      ],
+      "text": "Huyền Quang - chăng 2 (Vẽ Huyền Quang, xem tiểu sử Lý Đạo Tài cùng tập). Tuy nhiên.",
+      "confidence": 0.9056
+    },
+    {
+      "line_id": "0815_viet_013",
+      "bbox": [
+        [
+          336,
+          947
+        ],
+        [
+          1963,
+          950
+        ],
+        [
+          1963,
+          1008
+        ],
+        [
+          336,
+          1005
+        ]
+      ],
+      "bbox_original": [
+        [
+          336,
+          1162
+        ],
+        [
+          1963,
+          1165
+        ],
+        [
+          1963,
+          1223
+        ],
+        [
+          336,
+          1220
+        ]
+      ],
+      "box_xyxy": [
+        336,
+        947,
+        1963,
+        1008
+      ],
+      "text": "- theo TITL thi Huyền Quang mất năm Giáp thất (1334) bấy giờ Trần Minh Tộng còn ở",
+      "confidence": 0.9203
+    },
+    {
+      "line_id": "0815_viet_014",
+      "bbox": [
+        [
+          336,
+          998
+        ],
+        [
+          1962,
+          1002
+        ],
+        [
+          1962,
+          1059
+        ],
+        [
+          336,
+          1055
+        ]
+      ],
+      "bbox_original": [
+        [
+          336,
+          1213
+        ],
+        [
+          1962,
+          1217
+        ],
+        [
+          1962,
+          1274
+        ],
+        [
+          336,
+          1270
+        ]
+      ],
+      "box_xyxy": [
+        336,
+        998,
+        1962,
+        1059
+      ],
+      "text": "ngôi Thường hoàng, nghe tin bên gửi tặng mười lạng vàng đề nhà chĩa xây tháp cho",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0815_viet_015",
+      "bbox": [
+        [
+          337,
+          1050
+        ],
+        [
+          1959,
+          1055
+        ],
+        [
+          1959,
+          1106
+        ],
+        [
+          337,
+          1101
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          1265
+        ],
+        [
+          1959,
+          1270
+        ],
+        [
+          1959,
+          1321
+        ],
+        [
+          337,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        1050,
+        1959,
+        1106
+      ],
+      "text": "- ông, như vậy, Huyền Quang khộng thể là người chết sau - Minh Tông được, Hơn nữa,",
+      "confidence": 0.8872
+    },
+    {
+      "line_id": "0815_viet_016",
+      "bbox": [
+        [
+          339,
+          1103
+        ],
+        [
+          1956,
+          1105
+        ],
+        [
+          1956,
+          1153
+        ],
+        [
+          339,
+          1151
+        ]
+      ],
+      "bbox_original": [
+        [
+          339,
+          1318
+        ],
+        [
+          1956,
+          1320
+        ],
+        [
+          1956,
+          1368
+        ],
+        [
+          339,
+          1366
+        ]
+      ],
+      "box_xyxy": [
+        339,
+        1103,
+        1956,
+        1153
+      ],
+      "text": "ngay trong cách ghị của TĐNL thì sự xuất hiện của cái tên Kim Sơn cũng hơi đột",
+      "confidence": 0.8989
+    },
+    {
+      "line_id": "0815_viet_017",
+      "bbox": [
+        [
+          337,
+          1151
+        ],
+        [
+          1957,
+          1156
+        ],
+        [
+          1957,
+          1210
+        ],
+        [
+          337,
+          1205
+        ]
+      ],
+      "bbox_original": [
+        [
+          337,
+          1366
+        ],
+        [
+          1957,
+          1371
+        ],
+        [
+          1957,
+          1425
+        ],
+        [
+          337,
+          1420
+        ]
+      ],
+      "box_xyxy": [
+        337,
+        1151,
+        1957,
+        1210
+      ],
+      "text": "ngột lại không có sách nào khác nói đến cải tên này, vì vậy xin tạm đặt - thánh một",
+      "confidence": 0.8961
+    },
+    {
+      "line_id": "0815_viet_018",
+      "bbox": [
+        [
+          338,
+          1201
+        ],
+        [
+          964,
+          1207
+        ],
+        [
+          964,
+          1258
+        ],
+        [
+          338,
+          1252
+        ]
+      ],
+      "bbox_original": [
+        [
+          338,
+          1416
+        ],
+        [
+          964,
+          1422
+        ],
+        [
+          964,
+          1473
+        ],
+        [
+          338,
+          1467
+        ]
+      ],
+      "box_xyxy": [
+        338,
+        1201,
+        964,
+        1258
+      ],
+      "text": "nghi văn ở đây, đợi tra cứu sau.",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0815_viet_019",
+      "bbox": [
+        [
+          245,
+          1262
+        ],
+        [
+          1635,
+          1271
+        ],
+        [
+          1635,
+          1328
+        ],
+        [
+          245,
+          1320
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1477
+        ],
+        [
+          1635,
+          1486
+        ],
+        [
+          1635,
+          1543
+        ],
+        [
+          245,
+          1535
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1262,
+        1635,
+        1328
+      ],
+      "text": "(2) - Một tuăn, theo cách tính của lịch phương Đông cồ truyền là 10 ngày",
+      "confidence": 0.8321
+    },
+    {
+      "line_id": "0815_viet_020",
+      "bbox": [
+        [
+          1038,
+          1564
+        ],
+        [
+          1155,
+          1567
+        ],
+        [
+          1153,
+          1653
+        ],
+        [
+          1036,
+          1650
+        ]
+      ],
+      "bbox_original": [
+        [
+          1038,
+          1779
+        ],
+        [
+          1155,
+          1782
+        ],
+        [
+          1153,
+          1868
+        ],
+        [
+          1036,
+          1865
+        ]
+      ],
+      "box_xyxy": [
+        1036,
+        1564,
+        1155,
+        1653
+      ],
+      "text": "342",
+      "confidence": 0.9346
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "II",
+      "Tích thuốc nhằm chữa bệnh",
+      "Không bệnh, thuốc đầu cần ?",
+      "Như có cơm a không gao s,",
+      "Cho người a không miệng, ăn.",
+      "HUỆ CHI",
+      "CHÚ, THÍCH",
+      "XUẤT XỨ - TĐNI",
+      "(t) Đầu đế do chúng tôi thêm, dựa' vào lời ghi trong TĐN'. Kim Sơn, theo cách gọi của",
+      "Trần Minh Tộng trong TĐNL là: a Trúc làm đệ tam đại Thiên tò - (Tò đời thứ ba phải",
+      "Truô lâm) là.người a nhận được cải phần cót tủy của Phố Tuệ s (Phổ Tuệ tức Pháp",
+      "Lòa, xém tiều sử Đồng Kiên Cương, trong cùng tập), vậy có lễ là một biệt hiệu của",
+      "Huyền Quang - chăng 2 (Vẽ Huyền Quang, xem tiểu sử Lý Đạo Tài cùng tập). Tuy nhiên.",
+      "- theo TITL thi Huyền Quang mất năm Giáp thất (1334) bấy giờ Trần Minh Tộng còn ở",
+      "ngôi Thường hoàng, nghe tin bên gửi tặng mười lạng vàng đề nhà chĩa xây tháp cho",
+      "- ông, như vậy, Huyền Quang khộng thể là người chết sau - Minh Tông được, Hơn nữa,",
+      "ngay trong cách ghị của TĐNL thì sự xuất hiện của cái tên Kim Sơn cũng hơi đột",
+      "ngột lại không có sách nào khác nói đến cải tên này, vì vậy xin tạm đặt - thánh một",
+      "nghi văn ở đây, đợi tra cứu sau.",
+      "(2) - Một tuăn, theo cách tính của lịch phương Đông cồ truyền là 10 ngày",
+      "342"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

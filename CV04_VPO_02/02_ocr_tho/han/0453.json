@@ -1,0 +1,260 @@
+{
+  "page_id": "0453",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 453,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0453_han_000",
+      "bbox": [
+        [
+          135,
+          394
+        ],
+        [
+          1475,
+          394
+        ],
+        [
+          1475,
+          441
+        ],
+        [
+          135,
+          441
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          553
+        ],
+        [
+          1475,
+          553
+        ],
+        [
+          1475,
+          600
+        ],
+        [
+          135,
+          600
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        394,
+        1475,
+        441
+      ],
+      "text": "cuong/ Bc viên kí truòng\"(外大国是疆/幅陨既長), nghãa là: Ly các nuóc",
+      "confidence": 0.9373
+    },
+    {
+      "line_id": "0453_han_001",
+      "bbox": [
+        [
+          205,
+          953
+        ],
+        [
+          1472,
+          961
+        ],
+        [
+          1471,
+          1027
+        ],
+        [
+          205,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1112
+        ],
+        [
+          1472,
+          1120
+        ],
+        [
+          1471,
+          1186
+        ],
+        [
+          205,
+          1177
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        953,
+        1472,
+        1027
+      ],
+      "text": "3 C quân: Chi C Ung, ngui thi Tam quc. Mc C Ung truyn (顧邕",
+      "confidence": 0.9476
+    },
+    {
+      "line_id": "0453_han_002",
+      "bbox": [
+        [
+          136,
+          1018
+        ],
+        [
+          1473,
+          1017
+        ],
+        [
+          1473,
+          1069
+        ],
+        [
+          136,
+          1070
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          1177
+        ],
+        [
+          1473,
+          1176
+        ],
+        [
+          1473,
+          1228
+        ],
+        [
+          136,
+          1229
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        1017,
+        1473,
+        1070
+      ],
+      "text": "傳), trong phn Ngô chí (吴志) sách Tam quc chí (三國志) ghi: “C quân",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0453_han_003",
+      "bbox": [
+        [
+          133,
+          1547
+        ],
+        [
+          1013,
+          1549
+        ],
+        [
+          1012,
+          1597
+        ],
+        [
+          133,
+          1595
+        ]
+      ],
+      "bbox_original": [
+        [
+          133,
+          1706
+        ],
+        [
+          1013,
+          1708
+        ],
+        [
+          1012,
+          1756
+        ],
+        [
+          133,
+          1754
+        ]
+      ],
+      "box_xyxy": [
+        133,
+        1547,
+        1013,
+        1597
+      ],
+      "text": "Khuê Đuòng Khon nãi tp (圭塘款乃集, 2 quyên).",
+      "confidence": 0.9483
+    },
+    {
+      "line_id": "0453_han_004",
+      "bbox": [
+        [
+          205,
+          1589
+        ],
+        [
+          1475,
+          1598
+        ],
+        [
+          1474,
+          1660
+        ],
+        [
+          205,
+          1650
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1748
+        ],
+        [
+          1475,
+          1757
+        ],
+        [
+          1474,
+          1819
+        ],
+        [
+          205,
+          1809
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1589,
+        1475,
+        1660
+      ],
+      "text": "6 Chân Truòng: Túc Luru Chân Truòng. Thé thuyét Tân ngù (世说新语)",
+      "confidence": 0.9413
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

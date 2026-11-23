@@ -1,0 +1,401 @@
+{
+  "page_id": "0800",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 800,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0800_han_000",
+      "bbox": [
+        [
+          683,
+          1409
+        ],
+        [
+          817,
+          1409
+        ],
+        [
+          817,
+          1473
+        ],
+        [
+          683,
+          1473
+        ]
+      ],
+      "bbox_original": [
+        [
+          683,
+          1624
+        ],
+        [
+          817,
+          1624
+        ],
+        [
+          817,
+          1688
+        ],
+        [
+          683,
+          1688
+        ]
+      ],
+      "box_xyxy": [
+        683,
+        1409,
+        817,
+        1473
+      ],
+      "text": "惠庄",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0800_han_001",
+      "bbox": [
+        [
+          232,
+          1472
+        ],
+        [
+          699,
+          1475
+        ],
+        [
+          699,
+          1536
+        ],
+        [
+          232,
+          1533
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1687
+        ],
+        [
+          699,
+          1690
+        ],
+        [
+          699,
+          1751
+        ],
+        [
+          232,
+          1748
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        1472,
+        699,
+        1536
+      ],
+      "text": "2* TVTL2 : gido 教",
+      "confidence": 0.9219
+    },
+    {
+      "line_id": "0800_han_002",
+      "bbox": [
+        [
+          233,
+          1783
+        ],
+        [
+          1059,
+          1783
+        ],
+        [
+          1059,
+          1861
+        ],
+        [
+          233,
+          1861
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          1998
+        ],
+        [
+          1059,
+          1998
+        ],
+        [
+          1059,
+          2076
+        ],
+        [
+          233,
+          2076
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        1783,
+        1059,
+        1861
+      ],
+      "text": "(2) Bóng cáy dròng (dròng ành) : mrgn dièn  bài Gam duòng 甘 棠 trong thiên",
+      "confidence": 0.9147
+    },
+    {
+      "line_id": "0800_han_003",
+      "bbox": [
+        [
+          326,
+          1838
+        ],
+        [
+          1059,
+          1838
+        ],
+        [
+          1059,
+          1911
+        ],
+        [
+          326,
+          1911
+        ]
+      ],
+      "bbox_original": [
+        [
+          326,
+          2053
+        ],
+        [
+          1059,
+          2053
+        ],
+        [
+          1059,
+          2126
+        ],
+        [
+          326,
+          2126
+        ]
+      ],
+      "box_xyxy": [
+        326,
+        1838,
+        1059,
+        1911
+      ],
+      "text": "Thiu nam 名 南 , Kinh thi 诗 ; theo các nhà chú giài xua thi bài này ca",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0800_han_004",
+      "bbox": [
+        [
+          319,
+          1891
+        ],
+        [
+          1954,
+          1903
+        ],
+        [
+          1954,
+          1964
+        ],
+        [
+          319,
+          1951
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          2106
+        ],
+        [
+          1954,
+          2118
+        ],
+        [
+          1954,
+          2179
+        ],
+        [
+          319,
+          2166
+        ]
+      ],
+      "box_xyxy": [
+        319,
+        1891,
+        1954,
+        1964
+      ],
+      "text": "tung công dúrc cúa Thiu Bá  B . quan nhà Chu 周 . lúc rði vièc quan thuòng",
+      "confidence": 0.918
+    },
+    {
+      "line_id": "0800_han_005",
+      "bbox": [
+        [
+          233,
+          2004
+        ],
+        [
+          1059,
+          2004
+        ],
+        [
+          1059,
+          2088
+        ],
+        [
+          233,
+          2088
+        ]
+      ],
+      "bbox_original": [
+        [
+          233,
+          2219
+        ],
+        [
+          1059,
+          2219
+        ],
+        [
+          1059,
+          2303
+        ],
+        [
+          233,
+          2303
+        ]
+      ],
+      "box_xyxy": [
+        233,
+        2004,
+        1059,
+        2088
+      ],
+      "text": "(3) (4) Müi röng (long chuàn): Su kg 史記 chép : Hán Cao Tò 漢 高 祖 müi ròng",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0800_han_006",
+      "bbox": [
+        [
+          319,
+          2065
+        ],
+        [
+          1059,
+          2065
+        ],
+        [
+          1059,
+          2136
+        ],
+        [
+          319,
+          2136
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          2280
+        ],
+        [
+          1059,
+          2280
+        ],
+        [
+          1059,
+          2351
+        ],
+        [
+          319,
+          2351
+        ]
+      ],
+      "box_xyxy": [
+        319,
+        2065,
+        1059,
+        2136
+      ],
+      "text": "trán vuông. Mó chim (dièu chuě): Ngó viet xuán thu 吳 越 春 秋 chép: 越",
+      "confidence": 0.8893
+    },
+    {
+      "line_id": "0800_han_007",
+      "bbox": [
+        [
+          372,
+          2120
+        ],
+        [
+          1711,
+          2126
+        ],
+        [
+          1711,
+          2183
+        ],
+        [
+          372,
+          2177
+        ]
+      ],
+      "bbox_original": [
+        [
+          372,
+          2335
+        ],
+        [
+          1711,
+          2341
+        ],
+        [
+          1711,
+          2398
+        ],
+        [
+          372,
+          2392
+        ]
+      ],
+      "box_xyxy": [
+        372,
+        2120,
+        1711,
+        2183
+      ],
+      "text": "王勾踐頸長鳥喙。可與共患難不可與長處樂",
+      "confidence": 0.9616
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

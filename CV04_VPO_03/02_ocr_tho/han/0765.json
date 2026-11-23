@@ -1,0 +1,166 @@
+{
+  "page_id": "0765",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 765,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0765_han_000",
+      "bbox": [
+        [
+          778,
+          1875
+        ],
+        [
+          931,
+          1872
+        ],
+        [
+          932,
+          1942
+        ],
+        [
+          779,
+          1945
+        ]
+      ],
+      "bbox_original": [
+        [
+          778,
+          2090
+        ],
+        [
+          931,
+          2087
+        ],
+        [
+          932,
+          2157
+        ],
+        [
+          779,
+          2160
+        ]
+      ],
+      "box_xyxy": [
+        778,
+        1872,
+        932,
+        1945
+      ],
+      "text": "更更",
+      "confidence": 0.9954
+    },
+    {
+      "line_id": "0765_han_001",
+      "bbox": [
+        [
+          677,
+          1960
+        ],
+        [
+          726,
+          1960
+        ],
+        [
+          726,
+          2016
+        ],
+        [
+          677,
+          2016
+        ]
+      ],
+      "bbox_original": [
+        [
+          677,
+          2175
+        ],
+        [
+          726,
+          2175
+        ],
+        [
+          726,
+          2231
+        ],
+        [
+          677,
+          2231
+        ]
+      ],
+      "box_xyxy": [
+        677,
+        1960,
+        726,
+        2016
+      ],
+      "text": "主",
+      "confidence": 0.5562
+    },
+    {
+      "line_id": "0765_han_002",
+      "bbox": [
+        [
+          1123,
+          2472
+        ],
+        [
+          1147,
+          2472
+        ],
+        [
+          1147,
+          2497
+        ],
+        [
+          1123,
+          2497
+        ]
+      ],
+      "bbox_original": [
+        [
+          1123,
+          2687
+        ],
+        [
+          1147,
+          2687
+        ],
+        [
+          1147,
+          2712
+        ],
+        [
+          1123,
+          2712
+        ]
+      ],
+      "box_xyxy": [
+        1123,
+        2472,
+        1147,
+        2497
+      ],
+      "text": "本",
+      "confidence": 0.153
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

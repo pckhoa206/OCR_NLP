@@ -1,0 +1,618 @@
+{
+  "page_id": "0379",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 379,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0379_viet_000",
+      "bbox": [
+        [
+          361,
+          137
+        ],
+        [
+          1151,
+          137
+        ],
+        [
+          1151,
+          197
+        ],
+        [
+          361,
+          197
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          305
+        ],
+        [
+          1151,
+          305
+        ],
+        [
+          1151,
+          365
+        ],
+        [
+          361,
+          365
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        137,
+        1151,
+        197
+      ],
+      "text": "Ta nghĩ rằng người sinh tự cồ,",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0379_viet_001",
+      "bbox": [
+        [
+          366,
+          311
+        ],
+        [
+          1224,
+          311
+        ],
+        [
+          1224,
+          372
+        ],
+        [
+          366,
+          372
+        ]
+      ],
+      "bbox_original": [
+        [
+          366,
+          479
+        ],
+        [
+          1224,
+          479
+        ],
+        [
+          1224,
+          540
+        ],
+        [
+          366,
+          540
+        ]
+      ],
+      "box_xyxy": [
+        366,
+        311,
+        1224,
+        372
+      ],
+      "text": "Chửa gặp thời, lao khồ ích chi ?",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0379_viet_002",
+      "bbox": [
+        [
+          467,
+          479
+        ],
+        [
+          1096,
+          486
+        ],
+        [
+          1095,
+          548
+        ],
+        [
+          466,
+          541
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          647
+        ],
+        [
+          1096,
+          654
+        ],
+        [
+          1095,
+          716
+        ],
+        [
+          466,
+          709
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        479,
+        1096,
+        548
+      ],
+      "text": "Về câu bàn-thạch vội gì,",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0379_viet_003",
+      "bbox": [
+        [
+          305,
+          655
+        ],
+        [
+          1250,
+          660
+        ],
+        [
+          1249,
+          721
+        ],
+        [
+          304,
+          715
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          823
+        ],
+        [
+          1250,
+          828
+        ],
+        [
+          1249,
+          889
+        ],
+        [
+          304,
+          883
+        ]
+      ],
+      "box_xyxy": [
+        304,
+        655,
+        1250,
+        721
+      ],
+      "text": "Điềm hùng có ứng cá kia mới hòng",
+      "confidence": 0.912
+    },
+    {
+      "line_id": "0379_viet_004",
+      "bbox": [
+        [
+          361,
+          830
+        ],
+        [
+          1127,
+          833
+        ],
+        [
+          1126,
+          891
+        ],
+        [
+          361,
+          888
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          998
+        ],
+        [
+          1127,
+          1001
+        ],
+        [
+          1126,
+          1059
+        ],
+        [
+          361,
+          1056
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        830,
+        1127,
+        891
+      ],
+      "text": "Ta lại nghĩ anh hùng lắm hội,",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0379_viet_005",
+      "bbox": [
+        [
+          364,
+          1000
+        ],
+        [
+          1304,
+          1003
+        ],
+        [
+          1304,
+          1067
+        ],
+        [
+          364,
+          1064
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1168
+        ],
+        [
+          1304,
+          1171
+        ],
+        [
+          1304,
+          1235
+        ],
+        [
+          364,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        1000,
+        1304,
+        1067
+      ],
+      "text": "Chờ minh-quân chớ lỗi duyên lành",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0379_viet_006",
+      "bbox": [
+        [
+          476,
+          1176
+        ],
+        [
+          1286,
+          1179
+        ],
+        [
+          1286,
+          1240
+        ],
+        [
+          476,
+          1236
+        ]
+      ],
+      "bbox_original": [
+        [
+          476,
+          1344
+        ],
+        [
+          1286,
+          1347
+        ],
+        [
+          1286,
+          1408
+        ],
+        [
+          476,
+          1404
+        ]
+      ],
+      "box_xyxy": [
+        476,
+        1176,
+        1286,
+        1240
+      ],
+      "text": "Ruộng Sần cầy cấy nương mình,",
+      "confidence": 0.8856
+    },
+    {
+      "line_id": "0379_viet_007",
+      "bbox": [
+        [
+          309,
+          1347
+        ],
+        [
+          1232,
+          1350
+        ],
+        [
+          1231,
+          1410
+        ],
+        [
+          308,
+          1407
+        ]
+      ],
+      "bbox_original": [
+        [
+          309,
+          1515
+        ],
+        [
+          1232,
+          1518
+        ],
+        [
+          1231,
+          1578
+        ],
+        [
+          308,
+          1575
+        ]
+      ],
+      "box_xyxy": [
+        308,
+        1347,
+        1232,
+        1410
+      ],
+      "text": "Xe vời ba lượt điều canh cũng vừa",
+      "confidence": 0.9349
+    },
+    {
+      "line_id": "0379_viet_008",
+      "bbox": [
+        [
+          360,
+          1519
+        ],
+        [
+          1310,
+          1526
+        ],
+        [
+          1310,
+          1585
+        ],
+        [
+          360,
+          1579
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          1687
+        ],
+        [
+          1310,
+          1694
+        ],
+        [
+          1310,
+          1753
+        ],
+        [
+          360,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        1519,
+        1310,
+        1585
+      ],
+      "text": "Cảnh Đường Nghiêu nay chưa trở lại,",
+      "confidence": 0.9318
+    },
+    {
+      "line_id": "0379_viet_009",
+      "bbox": [
+        [
+          363,
+          1698
+        ],
+        [
+          1142,
+          1703
+        ],
+        [
+          1142,
+          1764
+        ],
+        [
+          363,
+          1759
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          1866
+        ],
+        [
+          1142,
+          1871
+        ],
+        [
+          1142,
+          1932
+        ],
+        [
+          363,
+          1927
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        1698,
+        1142,
+        1764
+      ],
+      "text": "Chi cho bằng ăn rồi nằm cao",
+      "confidence": 0.9087
+    },
+    {
+      "line_id": "0379_viet_010",
+      "bbox": [
+        [
+          467,
+          1879
+        ],
+        [
+          1180,
+          1879
+        ],
+        [
+          1180,
+          1937
+        ],
+        [
+          467,
+          1937
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          2047
+        ],
+        [
+          1180,
+          2047
+        ],
+        [
+          1180,
+          2105
+        ],
+        [
+          467,
+          2105
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        1879,
+        1180,
+        1937
+      ],
+      "text": "Giang san cố quốc buồn sao",
+      "confidence": 0.8928
+    },
+    {
+      "line_id": "0379_viet_011",
+      "bbox": [
+        [
+          305,
+          2051
+        ],
+        [
+          1308,
+          2053
+        ],
+        [
+          1308,
+          2116
+        ],
+        [
+          305,
+          2114
+        ]
+      ],
+      "bbox_original": [
+        [
+          305,
+          2219
+        ],
+        [
+          1308,
+          2221
+        ],
+        [
+          1308,
+          2284
+        ],
+        [
+          305,
+          2282
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        2051,
+        1308,
+        2116
+      ],
+      "text": "Nhân dân thành quách đã trao giặc Hồ.",
+      "confidence": 0.9138
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Ta nghĩ rằng người sinh tự cồ,",
+      "Chửa gặp thời, lao khồ ích chi ?",
+      "Về câu bàn-thạch vội gì,",
+      "Điềm hùng có ứng cá kia mới hòng",
+      "Ta lại nghĩ anh hùng lắm hội,",
+      "Chờ minh-quân chớ lỗi duyên lành",
+      "Ruộng Sần cầy cấy nương mình,",
+      "Xe vời ba lượt điều canh cũng vừa",
+      "Cảnh Đường Nghiêu nay chưa trở lại,",
+      "Chi cho bằng ăn rồi nằm cao",
+      "Giang san cố quốc buồn sao",
+      "Nhân dân thành quách đã trao giặc Hồ."
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      167.0,
+      341.5,
+      513.5,
+      688.0,
+      860.5,
+      1033.5,
+      1208.0,
+      1378.5,
+      1552.0,
+      1731.0,
+      1908.0,
+      2083.5
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "page_id": "0514",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 514,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0514_viet_000",
+      "bbox": [
+        [
+          220,
+          0
+        ],
+        [
+          665,
+          1
+        ],
+        [
+          665,
+          39
+        ],
+        [
+          220,
+          37
+        ]
+      ],
+      "bbox_original": [
+        [
+          220,
+          159
+        ],
+        [
+          665,
+          160
+        ],
+        [
+          665,
+          198
+        ],
+        [
+          220,
+          196
+        ]
+      ],
+      "box_xyxy": [
+        220,
+        0,
+        665,
+        39
+      ],
+      "text": "Phơi phơi, nhẹ nhang",
+      "confidence": 0.8889
+    },
+    {
+      "line_id": "0514_viet_001",
+      "bbox": [
+        [
+          479,
+          146
+        ],
+        [
+          1133,
+          146
+        ],
+        [
+          1133,
+          204
+        ],
+        [
+          479,
+          204
+        ]
+      ],
+      "bbox_original": [
+        [
+          479,
+          305
+        ],
+        [
+          1133,
+          305
+        ],
+        [
+          1133,
+          363
+        ],
+        [
+          479,
+          363
+        ]
+      ],
+      "box_xyxy": [
+        479,
+        146,
+        1133,
+        204
+      ],
+      "text": "BÙI LƯƠNG (Cuối thế kỉ XIX)",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0514_viet_002",
+      "bbox": [
+        [
+          217,
+          252
+        ],
+        [
+          1479,
+          248
+        ],
+        [
+          1480,
+          308
+        ],
+        [
+          217,
+          312
+        ]
+      ],
+      "bbox_original": [
+        [
+          217,
+          411
+        ],
+        [
+          1479,
+          407
+        ],
+        [
+          1480,
+          467
+        ],
+        [
+          217,
+          471
+        ]
+      ],
+      "box_xyxy": [
+        217,
+        248,
+        1480,
+        312
+      ],
+      "text": "Bùi Lương, hiện chưa rõ hành trạng, chỉ biết ông là người ở",
+      "confidence": 0.9296
+    },
+    {
+      "line_id": "0514_viet_003",
+      "bbox": [
+        [
+          139,
+          315
+        ],
+        [
+          1477,
+          312
+        ],
+        [
+          1478,
+          366
+        ],
+        [
+          139,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          139,
+          474
+        ],
+        [
+          1477,
+          471
+        ],
+        [
+          1478,
+          525
+        ],
+        [
+          139,
+          528
+        ]
+      ],
+      "box_xyxy": [
+        139,
+        312,
+        1478,
+        369
+      ],
+      "text": "Thọ Hà. Bài từ giới thiệu dưới dây năm trong sách Nguyễn đại",
+      "confidence": 0.8794
+    },
+    {
+      "line_id": "0514_viet_004",
+      "bbox": [
+        [
+          137,
+          374
+        ],
+        [
+          1477,
+          371
+        ],
+        [
+          1478,
+          425
+        ],
+        [
+          137,
+          428
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          533
+        ],
+        [
+          1477,
+          530
+        ],
+        [
+          1478,
+          584
+        ],
+        [
+          137,
+          587
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        371,
+        1478,
+        428
+      ],
+      "text": "nhân thi trúng hạ tập (A.560, là sách tập hợp các bài văn, thơ, câu",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0514_viet_005",
+      "bbox": [
+        [
+          138,
+          429
+        ],
+        [
+          1480,
+          429
+        ],
+        [
+          1480,
+          490
+        ],
+        [
+          138,
+          490
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          588
+        ],
+        [
+          1480,
+          588
+        ],
+        [
+          1480,
+          649
+        ],
+        [
+          138,
+          649
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        429,
+        1480,
+        490
+      ],
+      "text": "đối chúc mừng Khuyến (1852 - 1916), tự là",
+      "confidence": 0.8177
+    },
+    {
+      "line_id": "0514_viet_006",
+      "bbox": [
+        [
+          135,
+          492
+        ],
+        [
+          1475,
+          488
+        ],
+        [
+          1476,
+          545
+        ],
+        [
+          135,
+          549
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          651
+        ],
+        [
+          1475,
+          647
+        ],
+        [
+          1476,
+          704
+        ],
+        [
+          135,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        488,
+        1476,
+        549
+      ],
+      "text": "Nguyên Miễn, Người ở xã Sơn Đồng, huyện Hoài Đức, Hà Nội,",
+      "confidence": 0.8651
+    },
+    {
+      "line_id": "0514_viet_007",
+      "bbox": [
+        [
+          137,
+          549
+        ],
+        [
+          1478,
+          548
+        ],
+        [
+          1479,
+          605
+        ],
+        [
+          137,
+          606
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          708
+        ],
+        [
+          1478,
+          707
+        ],
+        [
+          1479,
+          764
+        ],
+        [
+          137,
+          765
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        548,
+        1479,
+        606
+      ],
+      "text": "thi đỗ cử nhân khoa thi năm giáp thân, kiến phúc nguyên niên",
+      "confidence": 0.8861
+    },
+    {
+      "line_id": "0514_viet_008",
+      "bbox": [
+        [
+          138,
+          612
+        ],
+        [
+          1479,
+          605
+        ],
+        [
+          1480,
+          662
+        ],
+        [
+          138,
+          669
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          771
+        ],
+        [
+          1479,
+          764
+        ],
+        [
+          1480,
+          821
+        ],
+        [
+          138,
+          828
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        605,
+        1480,
+        669
+      ],
+      "text": "(1884), và Đệ tam giáp đồng Tiến sĩ xuất thân khoa thi năm",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0514_viet_009",
+      "bbox": [
+        [
+          137,
+          672
+        ],
+        [
+          1475,
+          668
+        ],
+        [
+          1476,
+          721
+        ],
+        [
+          137,
+          725
+        ]
+      ],
+      "bbox_original": [
+        [
+          137,
+          831
+        ],
+        [
+          1475,
+          827
+        ],
+        [
+          1476,
+          880
+        ],
+        [
+          137,
+          884
+        ]
+      ],
+      "box_xyxy": [
+        137,
+        668,
+        1476,
+        725
+      ],
+      "text": "Kỷ Sửu, niên hiệu thành thái nguyên niên (1889), bài từ này",
+      "confidence": 0.8822
+    },
+    {
+      "line_id": "0514_viet_010",
+      "bbox": [
+        [
+          136,
+          729
+        ],
+        [
+          1476,
+          723
+        ],
+        [
+          1477,
+          782
+        ],
+        [
+          136,
+          788
+        ]
+      ],
+      "bbox_original": [
+        [
+          136,
+          888
+        ],
+        [
+          1476,
+          882
+        ],
+        [
+          1477,
+          941
+        ],
+        [
+          136,
+          947
+        ]
+      ],
+      "box_xyxy": [
+        136,
+        723,
+        1477,
+        788
+      ],
+      "text": "Bùi Lương sáng tác mừng Nguyễn Trung Khuyến khi ông đỗ",
+      "confidence": 0.8488
+    },
+    {
+      "line_id": "0514_viet_011",
+      "bbox": [
+        [
+          140,
+          785
+        ],
+        [
+          519,
+          788
+        ],
+        [
+          518,
+          843
+        ],
+        [
+          140,
+          841
+        ]
+      ],
+      "bbox_original": [
+        [
+          140,
+          944
+        ],
+        [
+          519,
+          947
+        ],
+        [
+          518,
+          1002
+        ],
+        [
+          140,
+          1000
+        ]
+      ],
+      "box_xyxy": [
+        140,
+        785,
+        519,
+        843
+      ],
+      "text": "Tiến sĩ, năm 1889.",
+      "confidence": 0.9132
+    },
+    {
+      "line_id": "0514_viet_012",
+      "bbox": [
+        [
+          1391,
+          1962
+        ],
+        [
+          1480,
+          1962
+        ],
+        [
+          1480,
+          2019
+        ],
+        [
+          1391,
+          2019
+        ]
+      ],
+      "bbox_original": [
+        [
+          1391,
+          2121
+        ],
+        [
+          1480,
+          2121
+        ],
+        [
+          1480,
+          2178
+        ],
+        [
+          1391,
+          2178
+        ]
+      ],
+      "box_xyxy": [
+        1391,
+        1962,
+        1480,
+        2019
+      ],
+      "text": "507",
+      "confidence": 0.9295
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phơi phơi, nhẹ nhang",
+      "BÙI LƯƠNG (Cuối thế kỉ XIX)",
+      "Bùi Lương, hiện chưa rõ hành trạng, chỉ biết ông là người ở",
+      "Thọ Hà. Bài từ giới thiệu dưới dây năm trong sách Nguyễn đại",
+      "nhân thi trúng hạ tập (A.560, là sách tập hợp các bài văn, thơ, câu",
+      "đối chúc mừng Khuyến (1852 - 1916), tự là",
+      "Nguyên Miễn, Người ở xã Sơn Đồng, huyện Hoài Đức, Hà Nội,",
+      "thi đỗ cử nhân khoa thi năm giáp thân, kiến phúc nguyên niên",
+      "(1884), và Đệ tam giáp đồng Tiến sĩ xuất thân khoa thi năm",
+      "Kỷ Sửu, niên hiệu thành thái nguyên niên (1889), bài từ này",
+      "Bùi Lương sáng tác mừng Nguyễn Trung Khuyến khi ông đỗ",
+      "Tiến sĩ, năm 1889.",
+      "507"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

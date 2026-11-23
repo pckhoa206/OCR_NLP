@@ -1,0 +1,166 @@
+{
+  "page_id": "0791",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 791,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0791_han_000",
+      "bbox": [
+        [
+          639,
+          2462
+        ],
+        [
+          702,
+          2462
+        ],
+        [
+          702,
+          2532
+        ],
+        [
+          639,
+          2532
+        ]
+      ],
+      "bbox_original": [
+        [
+          639,
+          2677
+        ],
+        [
+          702,
+          2677
+        ],
+        [
+          702,
+          2747
+        ],
+        [
+          639,
+          2747
+        ]
+      ],
+      "box_xyxy": [
+        639,
+        2462,
+        702,
+        2532
+      ],
+      "text": "望",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0791_han_001",
+      "bbox": [
+        [
+          250,
+          2541
+        ],
+        [
+          1008,
+          2552
+        ],
+        [
+          1007,
+          2604
+        ],
+        [
+          249,
+          2592
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          2756
+        ],
+        [
+          1008,
+          2767
+        ],
+        [
+          1007,
+          2819
+        ],
+        [
+          249,
+          2807
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        2541,
+        1008,
+        2604
+      ],
+      "text": "2* VATT : dai 代 TVTL1 thuong : 上",
+      "confidence": 0.9357
+    },
+    {
+      "line_id": "0791_han_002",
+      "bbox": [
+        [
+          247,
+          2609
+        ],
+        [
+          700,
+          2616
+        ],
+        [
+          699,
+          2671
+        ],
+        [
+          246,
+          2664
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          2824
+        ],
+        [
+          700,
+          2831
+        ],
+        [
+          699,
+          2886
+        ],
+        [
+          246,
+          2879
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        2609,
+        700,
+        2671
+      ],
+      "text": "3* VATT : phién 弃",
+      "confidence": 0.9619
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "page_id": "0314",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 314,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0314_han_000",
+      "bbox": [
+        [
+          315,
+          78
+        ],
+        [
+          1041,
+          78
+        ],
+        [
+          1041,
+          151
+        ],
+        [
+          315,
+          151
+        ]
+      ],
+      "bbox_original": [
+        [
+          315,
+          246
+        ],
+        [
+          1041,
+          246
+        ],
+        [
+          1041,
+          319
+        ],
+        [
+          315,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        315,
+        78,
+        1041,
+        151
+      ],
+      "text": "此時三七正芳年",
+      "confidence": 0.991
+    },
+    {
+      "line_id": "0314_han_001",
+      "bbox": [
+        [
+          319,
+          337
+        ],
+        [
+          1050,
+          343
+        ],
+        [
+          1050,
+          422
+        ],
+        [
+          318,
+          415
+        ]
+      ],
+      "bbox_original": [
+        [
+          319,
+          505
+        ],
+        [
+          1050,
+          511
+        ],
+        [
+          1050,
+          590
+        ],
+        [
+          318,
+          583
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        337,
+        1050,
+        422
+      ],
+      "text": "春風掩映桃花面",
+      "confidence": 0.9979
+    },
+    {
+      "line_id": "0314_han_002",
+      "bbox": [
+        [
+          316,
+          604
+        ],
+        [
+          1047,
+          602
+        ],
+        [
+          1047,
+          680
+        ],
+        [
+          316,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          772
+        ],
+        [
+          1047,
+          770
+        ],
+        [
+          1047,
+          848
+        ],
+        [
+          316,
+          851
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        602,
+        1047,
+        683
+      ],
+      "text": "酡顏憨態最宜人",
+      "confidence": 0.9561
+    },
+    {
+      "line_id": "0314_han_003",
+      "bbox": [
+        [
+          318,
+          867
+        ],
+        [
+          1051,
+          864
+        ],
+        [
+          1051,
+          942
+        ],
+        [
+          319,
+          945
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1035
+        ],
+        [
+          1051,
+          1032
+        ],
+        [
+          1051,
+          1110
+        ],
+        [
+          319,
+          1113
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        864,
+        1051,
+        945
+      ],
+      "text": "歷亂五聲隨手變",
+      "confidence": 0.9597
+    },
+    {
+      "line_id": "0314_han_004",
+      "bbox": [
+        [
+          321,
+          1131
+        ],
+        [
+          1055,
+          1131
+        ],
+        [
+          1055,
+          1205
+        ],
+        [
+          321,
+          1205
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          1299
+        ],
+        [
+          1055,
+          1299
+        ],
+        [
+          1055,
+          1373
+        ],
+        [
+          321,
+          1373
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        1131,
+        1055,
+        1205
+      ],
+      "text": "緩如涼風度松林",
+      "confidence": 0.9988
+    },
+    {
+      "line_id": "0314_han_005",
+      "bbox": [
+        [
+          322,
+          1390
+        ],
+        [
+          1060,
+          1387
+        ],
+        [
+          1060,
+          1468
+        ],
+        [
+          323,
+          1471
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          1558
+        ],
+        [
+          1060,
+          1555
+        ],
+        [
+          1060,
+          1636
+        ],
+        [
+          323,
+          1639
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        1387,
+        1060,
+        1471
+      ],
+      "text": "清如隻鶴嗚在陰",
+      "confidence": 0.9501
+    },
+    {
+      "line_id": "0314_han_006",
+      "bbox": [
+        [
+          323,
+          1652
+        ],
+        [
+          1271,
+          1650
+        ],
+        [
+          1271,
+          1727
+        ],
+        [
+          323,
+          1729
+        ]
+      ],
+      "bbox_original": [
+        [
+          323,
+          1820
+        ],
+        [
+          1271,
+          1818
+        ],
+        [
+          1271,
+          1895
+        ],
+        [
+          323,
+          1897
+        ]
+      ],
+      "box_xyxy": [
+        323,
+        1650,
+        1271,
+        1729
+      ],
+      "text": "烈如荐福碑頭碎霹靂",
+      "confidence": 0.9886
+    },
+    {
+      "line_id": "0314_han_007",
+      "bbox": [
+        [
+          328,
+          1915
+        ],
+        [
+          1279,
+          1915
+        ],
+        [
+          1279,
+          1990
+        ],
+        [
+          328,
+          1990
+        ]
+      ],
+      "bbox_original": [
+        [
+          328,
+          2083
+        ],
+        [
+          1279,
+          2083
+        ],
+        [
+          1279,
+          2158
+        ],
+        [
+          328,
+          2158
+        ]
+      ],
+      "box_xyxy": [
+        328,
+        1915,
+        1279,
+        1990
+      ],
+      "text": "哀如莊舄病中爲越吟",
+      "confidence": 0.8965
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "此時三七正芳年",
+      "春風掩映桃花面",
+      "酡顏憨態最宜人",
+      "歷亂五聲隨手變",
+      "緩如涼風度松林",
+      "清如隻鶴嗚在陰",
+      "烈如荐福碑頭碎霹靂",
+      "哀如莊舄病中爲越吟"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "此時三七正芳年",
+        "phien_am": "Thứ thời tam thất chính phương niên",
+        "dich_nghia_gloss": "Đương thì hai một mởn tươi hông"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "春風掩映桃花面",
+        "phien_am": "Xuân phong yềm ánh đào hoa diện",
+        "dich_nghia_gloss": "Hây hầy xuân về đào cợt gió"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "酡顏憨態最宜人",
+        "phien_am": "Đà nhan hám thái tôi nghi nhân",
+        "dich_nghia_gloss": "Rượu dở say duyên đượm vẻ nông"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "歷亂五聲隨手變",
+        "phien_am": "Lịch loạn ngũ thanh tùy thủ biên",
+        "dich_nghia_gloss": "Đàn năm tiềng ngón buông to nhỏ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "緩如涼風度松林",
+        "phien_am": "Hoãn như lương phong độ tùng lâm",
+        "dich_nghia_gloss": "Khoan như gió nhẹ lướt ngàn thông"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "清如隻鶴嗚在陰",
+        "phien_am": "Thanh như chích hạc minh tại âm",
+        "dich_nghia_gloss": "Trong như hạc lẻ kêu trời không"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "烈如荐福碑頭碎霹靂",
+        "phien_am": "Liệt như Tiên-Phúc bi đầu toái tích lịch",
+        "dich_nghia_gloss": "Mạnh như sét nổ đánh tan bia tiên-phúc"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "哀如莊舄病中爲越吟",
+        "phien_am": "Ai như Trang tích bệnh trung vi Việt-Ngăm",
+        "dich_nghia_gloss": "Buôn như Khúc-Việt Trang tích ngâm não lòng"
+      }
+    ]
+  }
+}

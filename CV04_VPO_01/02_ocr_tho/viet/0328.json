@@ -1,0 +1,839 @@
+{
+  "page_id": "0328",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 328,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0328_viet_000",
+      "bbox": [
+        [
+          291,
+          163
+        ],
+        [
+          1301,
+          165
+        ],
+        [
+          1301,
+          233
+        ],
+        [
+          290,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          331
+        ],
+        [
+          1301,
+          333
+        ],
+        [
+          1301,
+          401
+        ],
+        [
+          290,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        290,
+        163,
+        1301,
+        233
+      ],
+      "text": "Nhàn lai phong nguyệt dữ thùy vi thu ?",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0328_viet_001",
+      "bbox": [
+        [
+          203,
+          244
+        ],
+        [
+          1442,
+          250
+        ],
+        [
+          1442,
+          315
+        ],
+        [
+          203,
+          309
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          412
+        ],
+        [
+          1442,
+          418
+        ],
+        [
+          1442,
+          483
+        ],
+        [
+          203,
+          477
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        244,
+        1442,
+        315
+      ],
+      "text": "- Trong lúc thong thả cùng ai trông trăng hứng gió",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0328_viet_002",
+      "bbox": [
+        [
+          202,
+          319
+        ],
+        [
+          756,
+          319
+        ],
+        [
+          756,
+          377
+        ],
+        [
+          202,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          487
+        ],
+        [
+          756,
+          487
+        ],
+        [
+          756,
+          545
+        ],
+        [
+          202,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        319,
+        756,
+        377
+      ],
+      "text": "hưởng thú vui mùa thu",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0328_viet_003",
+      "bbox": [
+        [
+          300,
+          511
+        ],
+        [
+          945,
+          511
+        ],
+        [
+          945,
+          572
+        ],
+        [
+          300,
+          572
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          679
+        ],
+        [
+          945,
+          679
+        ],
+        [
+          945,
+          740
+        ],
+        [
+          300,
+          740
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        511,
+        945,
+        572
+      ],
+      "text": "Thi tứ tuyệt di du nhã ái",
+      "confidence": 0.9337
+    },
+    {
+      "line_id": "0328_viet_004",
+      "bbox": [
+        [
+          208,
+          600
+        ],
+        [
+          899,
+          598
+        ],
+        [
+          899,
+          659
+        ],
+        [
+          208,
+          661
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          768
+        ],
+        [
+          899,
+          766
+        ],
+        [
+          899,
+          827
+        ],
+        [
+          208,
+          829
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        598,
+        899,
+        661
+      ],
+      "text": "- Ngâm bồn câu thơ làm vui.",
+      "confidence": 0.9272
+    },
+    {
+      "line_id": "0328_viet_005",
+      "bbox": [
+        [
+          300,
+          783
+        ],
+        [
+          997,
+          786
+        ],
+        [
+          996,
+          844
+        ],
+        [
+          299,
+          841
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          951
+        ],
+        [
+          997,
+          954
+        ],
+        [
+          996,
+          1012
+        ],
+        [
+          299,
+          1009
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        783,
+        997,
+        844
+      ],
+      "text": "Tửu tam bôi tiêu-sái li-hoài",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0328_viet_006",
+      "bbox": [
+        [
+          204,
+          870
+        ],
+        [
+          1303,
+          873
+        ],
+        [
+          1303,
+          936
+        ],
+        [
+          204,
+          933
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1038
+        ],
+        [
+          1303,
+          1041
+        ],
+        [
+          1303,
+          1104
+        ],
+        [
+          204,
+          1101
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        870,
+        1303,
+        936
+      ],
+      "text": "Mượn ba chén rượu rửa sạch môi sầu biệt-ly",
+      "confidence": 0.905
+    },
+    {
+      "line_id": "0328_viet_007",
+      "bbox": [
+        [
+          295,
+          1063
+        ],
+        [
+          985,
+          1066
+        ],
+        [
+          984,
+          1127
+        ],
+        [
+          294,
+          1124
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1231
+        ],
+        [
+          985,
+          1234
+        ],
+        [
+          984,
+          1295
+        ],
+        [
+          294,
+          1292
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1063,
+        985,
+        1127
+      ],
+      "text": "Đăng tiền độc đõi thư-trai,",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0328_viet_008",
+      "bbox": [
+        [
+          210,
+          1151
+        ],
+        [
+          1351,
+          1154
+        ],
+        [
+          1350,
+          1218
+        ],
+        [
+          210,
+          1215
+        ]
+      ],
+      "bbox_original": [
+        [
+          210,
+          1319
+        ],
+        [
+          1351,
+          1322
+        ],
+        [
+          1350,
+          1386
+        ],
+        [
+          210,
+          1383
+        ]
+      ],
+      "box_xyxy": [
+        210,
+        1151,
+        1351,
+        1218
+      ],
+      "text": "- Trong phòng văn một mình ngồi đồi ngọn đèn",
+      "confidence": 0.9154
+    },
+    {
+      "line_id": "0328_viet_009",
+      "bbox": [
+        [
+          301,
+          1345
+        ],
+        [
+          1381,
+          1347
+        ],
+        [
+          1381,
+          1411
+        ],
+        [
+          300,
+          1409
+        ]
+      ],
+      "bbox_original": [
+        [
+          301,
+          1513
+        ],
+        [
+          1381,
+          1515
+        ],
+        [
+          1381,
+          1579
+        ],
+        [
+          300,
+          1577
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1345,
+        1381,
+        1411
+      ],
+      "text": "Thương tâm khách địa hữu hoài cồ-nhân",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0328_viet_010",
+      "bbox": [
+        [
+          213,
+          1431
+        ],
+        [
+          1283,
+          1433
+        ],
+        [
+          1283,
+          1501
+        ],
+        [
+          213,
+          1499
+        ]
+      ],
+      "bbox_original": [
+        [
+          213,
+          1599
+        ],
+        [
+          1283,
+          1601
+        ],
+        [
+          1283,
+          1669
+        ],
+        [
+          213,
+          1667
+        ]
+      ],
+      "box_xyxy": [
+        213,
+        1431,
+        1283,
+        1501
+      ],
+      "text": "- Chạnh lòng đầt khách, sực nhớ người xưa..",
+      "confidence": 0.917
+    },
+    {
+      "line_id": "0328_viet_011",
+      "bbox": [
+        [
+          302,
+          1632
+        ],
+        [
+          1212,
+          1637
+        ],
+        [
+          1211,
+          1701
+        ],
+        [
+          301,
+          1696
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          1800
+        ],
+        [
+          1212,
+          1805
+        ],
+        [
+          1211,
+          1869
+        ],
+        [
+          301,
+          1864
+        ]
+      ],
+      "box_xyxy": [
+        301,
+        1632,
+        1212,
+        1701
+      ],
+      "text": "Hương thủy ngoại, hốt văn ngư-vận",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0328_viet_012",
+      "bbox": [
+        [
+          215,
+          1713
+        ],
+        [
+          1450,
+          1717
+        ],
+        [
+          1450,
+          1781
+        ],
+        [
+          215,
+          1777
+        ]
+      ],
+      "bbox_original": [
+        [
+          215,
+          1881
+        ],
+        [
+          1450,
+          1885
+        ],
+        [
+          1450,
+          1949
+        ],
+        [
+          215,
+          1945
+        ]
+      ],
+      "box_xyxy": [
+        215,
+        1713,
+        1450,
+        1781
+      ],
+      "text": "- Ngoài sông Hương, chợt nghe tiêng hò mái đẩy của",
+      "confidence": 0.904
+    },
+    {
+      "line_id": "0328_viet_013",
+      "bbox": [
+        [
+          211,
+          1782
+        ],
+        [
+          574,
+          1785
+        ],
+        [
+          574,
+          1847
+        ],
+        [
+          211,
+          1845
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          1950
+        ],
+        [
+          574,
+          1953
+        ],
+        [
+          574,
+          2015
+        ],
+        [
+          211,
+          2013
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        1782,
+        574,
+        1847
+      ],
+      "text": "lũ phường chài.",
+      "confidence": 0.9023
+    },
+    {
+      "line_id": "0328_viet_014",
+      "bbox": [
+        [
+          307,
+          1980
+        ],
+        [
+          1142,
+          1980
+        ],
+        [
+          1142,
+          2044
+        ],
+        [
+          307,
+          2044
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          2148
+        ],
+        [
+          1142,
+          2148
+        ],
+        [
+          1142,
+          2212
+        ],
+        [
+          307,
+          2212
+        ]
+      ],
+      "box_xyxy": [
+        307,
+        1980,
+        1142,
+        2044
+      ],
+      "text": "Tùng hà lai, trạo tấn giang biên ?",
+      "confidence": 0.9195
+    },
+    {
+      "line_id": "0328_viet_015",
+      "bbox": [
+        [
+          216,
+          2065
+        ],
+        [
+          1160,
+          2067
+        ],
+        [
+          1160,
+          2130
+        ],
+        [
+          216,
+          2128
+        ]
+      ],
+      "bbox_original": [
+        [
+          216,
+          2233
+        ],
+        [
+          1160,
+          2235
+        ],
+        [
+          1160,
+          2298
+        ],
+        [
+          216,
+          2296
+        ]
+      ],
+      "box_xyxy": [
+        216,
+        2065,
+        1160,
+        2130
+      ],
+      "text": "- Từ đâu mà chèo tới bên sông thế nhỉ ?",
+      "confidence": 0.9033
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Nhàn lai phong nguyệt dữ thùy vi thu ?",
+      "Thi tứ tuyệt di du nhã ái",
+      "Tửu tam bôi tiêu-sái li-hoài",
+      "Đăng tiền độc đõi thư-trai,",
+      "Thương tâm khách địa hữu hoài cồ-nhân",
+      "Hương thủy ngoại, hốt văn ngư-vận",
+      "Tùng hà lai, trạo tấn giang biên ?"
+    ],
+    "dich_nghia_lines": [
+      "- Trong lúc thong thả cùng ai trông trăng hứng gió hưởng thú vui mùa thu",
+      "- Ngâm bồn câu thơ làm vui.",
+      "Mượn ba chén rượu rửa sạch môi sầu biệt-ly",
+      "- Trong phòng văn một mình ngồi đồi ngọn đèn",
+      "- Chạnh lòng đầt khách, sực nhớ người xưa..",
+      "- Ngoài sông Hương, chợt nghe tiêng hò mái đẩy của lũ phường chài.",
+      "- Từ đâu mà chèo tới bên sông thế nhỉ ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "間來風月與誰為秋",
+        "phien_am": "Nhàn lai phong nguyệt dữ thùy vi thu ?",
+        "dich_nghia_gloss": "- Trong lúc thong thả cùng ai trông trăng hứng gió hưởng thú vui mùa thu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "詩四絕治渝雅愛",
+        "phien_am": "Thi tứ tuyệt di du nhã ái",
+        "dich_nghia_gloss": "- Ngâm bồn câu thơ làm vui."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "酒三杯瀟洒離懷",
+        "phien_am": "Tửu tam bôi tiêu-sái li-hoài",
+        "dich_nghia_gloss": "Mượn ba chén rượu rửa sạch môi sầu biệt-ly"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "燈前獨對書齊",
+        "phien_am": "Đăng tiền độc đõi thư-trai,",
+        "dich_nghia_gloss": "- Trong phòng văn một mình ngồi đồi ngọn đèn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "傷心客地有懷古人",
+        "phien_am": "Thương tâm khách địa hữu hoài cồ-nhân",
+        "dich_nghia_gloss": "- Chạnh lòng đầt khách, sực nhớ người xưa.."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "香水外忽聞漁韻",
+        "phien_am": "Hương thủy ngoại, hốt văn ngư-vận",
+        "dich_nghia_gloss": "- Ngoài sông Hương, chợt nghe tiêng hò mái đẩy của lũ phường chài."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "從何來棹進江邊",
+        "phien_am": "Tùng hà lai, trạo tấn giang biên ?",
+        "dich_nghia_gloss": "- Từ đâu mà chèo tới bên sông thế nhỉ ?"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

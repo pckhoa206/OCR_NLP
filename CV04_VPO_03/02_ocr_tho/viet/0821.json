@@ -1,0 +1,892 @@
+{
+  "page_id": "0821",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 821,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0821_viet_000",
+      "bbox": [
+        [
+          956,
+          626
+        ],
+        [
+          1295,
+          626
+        ],
+        [
+          1295,
+          692
+        ],
+        [
+          956,
+          692
+        ]
+      ],
+      "bbox_original": [
+        [
+          956,
+          841
+        ],
+        [
+          1295,
+          841
+        ],
+        [
+          1295,
+          907
+        ],
+        [
+          956,
+          907
+        ]
+      ],
+      "box_xyxy": [
+        956,
+        626,
+        1295,
+        692
+      ],
+      "text": "PHẠM NGỘ",
+      "confidence": 0.934
+    },
+    {
+      "line_id": "0821_viet_001",
+      "bbox": [
+        [
+          1075,
+          806
+        ],
+        [
+          1195,
+          809
+        ],
+        [
+          1194,
+          883
+        ],
+        [
+          1074,
+          880
+        ]
+      ],
+      "bbox_original": [
+        [
+          1075,
+          1021
+        ],
+        [
+          1195,
+          1024
+        ],
+        [
+          1194,
+          1098
+        ],
+        [
+          1074,
+          1095
+        ]
+      ],
+      "box_xyxy": [
+        1074,
+        806,
+        1195,
+        883
+      ],
+      "text": "(?)",
+      "confidence": 0.8115
+    },
+    {
+      "line_id": "0821_viet_002",
+      "bbox": [
+        [
+          1015,
+          1006
+        ],
+        [
+          1985,
+          1006
+        ],
+        [
+          1985,
+          1096
+        ],
+        [
+          1015,
+          1096
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1221
+        ],
+        [
+          1985,
+          1221
+        ],
+        [
+          1985,
+          1311
+        ],
+        [
+          1015,
+          1311
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1006,
+        1985,
+        1096
+      ],
+      "text": "Phạm Tông Ngô Tế 7 13 Hiệu Liêu Khê",
+      "confidence": 0.8472
+    },
+    {
+      "line_id": "0821_viet_003",
+      "bbox": [
+        [
+          1015,
+          1064
+        ],
+        [
+          1928,
+          1064
+        ],
+        [
+          1928,
+          1164
+        ],
+        [
+          1015,
+          1164
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1279
+        ],
+        [
+          1928,
+          1279
+        ],
+        [
+          1928,
+          1379
+        ],
+        [
+          1015,
+          1379
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1064,
+        1928,
+        1164
+      ],
+      "text": "chưa người hương Kinh chủ gia Khác",
+      "confidence": 0.7723
+    },
+    {
+      "line_id": "0821_viet_004",
+      "bbox": [
+        [
+          1015,
+          1128
+        ],
+        [
+          1981,
+          1128
+        ],
+        [
+          1981,
+          1217
+        ],
+        [
+          1015,
+          1217
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1343
+        ],
+        [
+          1981,
+          1343
+        ],
+        [
+          1981,
+          1432
+        ],
+        [
+          1015,
+          1432
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1128,
+        1981,
+        1217
+      ],
+      "text": "- hưng Tr vũ nay thuộc, tỉnh Hải hưng, là",
+      "confidence": 0.8342
+    },
+    {
+      "line_id": "0821_viet_005",
+      "bbox": [
+        [
+          1015,
+          1192
+        ],
+        [
+          1975,
+          1192
+        ],
+        [
+          1975,
+          1274
+        ],
+        [
+          1015,
+          1274
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1407
+        ],
+        [
+          1975,
+          1407
+        ],
+        [
+          1975,
+          1489
+        ],
+        [
+          1015,
+          1489
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1192,
+        1975,
+        1274
+      ],
+      "text": "07.0ng nguyên họ chúc 7% tên kiên",
+      "confidence": 0.8353
+    },
+    {
+      "line_id": "0821_viet_006",
+      "bbox": [
+        [
+          1015,
+          1255
+        ],
+        [
+          1977,
+          1255
+        ],
+        [
+          1977,
+          1333
+        ],
+        [
+          1015,
+          1333
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1470
+        ],
+        [
+          1977,
+          1470
+        ],
+        [
+          1977,
+          1548
+        ],
+        [
+          1015,
+          1548
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1255,
+        1977,
+        1333
+      ],
+      "text": "1. 72 cho rằng họ, chúc không phải là",
+      "confidence": 0.8155
+    },
+    {
+      "line_id": "0821_viet_007",
+      "bbox": [
+        [
+          265,
+          1316
+        ],
+        [
+          1973,
+          1333
+        ],
+        [
+          1973,
+          1390
+        ],
+        [
+          265,
+          1373
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1531
+        ],
+        [
+          1973,
+          1548
+        ],
+        [
+          1973,
+          1605
+        ],
+        [
+          265,
+          1588
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1316,
+        1973,
+        1390
+      ],
+      "text": "họ lớn nên đồi làm họ Phạm. Còn Kiêm thi lại, trung với tên của Phân thủ",
+      "confidence": 0.8584
+    },
+    {
+      "line_id": "0821_viet_008",
+      "bbox": [
+        [
+          265,
+          1372
+        ],
+        [
+          1055,
+          1381
+        ],
+        [
+          1054,
+          1445
+        ],
+        [
+          264,
+          1436
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1587
+        ],
+        [
+          1055,
+          1596
+        ],
+        [
+          1054,
+          1660
+        ],
+        [
+          264,
+          1651
+        ]
+      ],
+      "box_xyxy": [
+        264,
+        1372,
+        1055,
+        1445
+      ],
+      "text": "Huệ Nghĩa Á Nên đồi làm ngó",
+      "confidence": 0.7614
+    },
+    {
+      "line_id": "0821_viet_009",
+      "bbox": [
+        [
+          391,
+          1456
+        ],
+        [
+          1979,
+          1472
+        ],
+        [
+          1979,
+          1532
+        ],
+        [
+          391,
+          1516
+        ]
+      ],
+      "bbox_original": [
+        [
+          391,
+          1671
+        ],
+        [
+          1979,
+          1687
+        ],
+        [
+          1979,
+          1747
+        ],
+        [
+          391,
+          1731
+        ]
+      ],
+      "box_xyxy": [
+        391,
+        1456,
+        1979,
+        1532
+      ],
+      "text": "Phạm Ngộ tính tính ngay thắng, làm quân nổi tiếng thanh liêur. Bắt đầu.",
+      "confidence": 0.8602
+    },
+    {
+      "line_id": "0821_viet_010",
+      "bbox": [
+        [
+          1015,
+          1513
+        ],
+        [
+          1932,
+          1513
+        ],
+        [
+          1932,
+          1594
+        ],
+        [
+          1015,
+          1594
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1728
+        ],
+        [
+          1932,
+          1728
+        ],
+        [
+          1932,
+          1809
+        ],
+        [
+          1015,
+          1809
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1513,
+        1932,
+        1594
+      ],
+      "text": "Bình, đười triều Trần Minh Tông PK Ba",
+      "confidence": 0.8348
+    },
+    {
+      "line_id": "0821_viet_011",
+      "bbox": [
+        [
+          260,
+          1572
+        ],
+        [
+          1969,
+          1593
+        ],
+        [
+          1968,
+          1656
+        ],
+        [
+          259,
+          1635
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1787
+        ],
+        [
+          1969,
+          1808
+        ],
+        [
+          1968,
+          1871
+        ],
+        [
+          259,
+          1850
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1572,
+        1969,
+        1656
+      ],
+      "text": "(1514 ? 1329) ông giữ chức Tri thầm hình viên sự, sau được thặng là ty lắng",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0821_viet_012",
+      "bbox": [
+        [
+          260,
+          1633
+        ],
+        [
+          1626,
+          1650
+        ],
+        [
+          1625,
+          1711
+        ],
+        [
+          259,
+          1695
+        ]
+      ],
+      "bbox_original": [
+        [
+          260,
+          1848
+        ],
+        [
+          1626,
+          1865
+        ],
+        [
+          1625,
+          1926
+        ],
+        [
+          259,
+          1910
+        ]
+      ],
+      "box_xyxy": [
+        259,
+        1633,
+        1626,
+        1711
+      ],
+      "text": "trung rồi lại tháng Trị chính sự, đồng trị thượng thứ tả ty sư",
+      "confidence": 0.8995
+    },
+    {
+      "line_id": "0821_viet_013",
+      "bbox": [
+        [
+          386,
+          1714
+        ],
+        [
+          1964,
+          1734
+        ],
+        [
+          1963,
+          1795
+        ],
+        [
+          385,
+          1775
+        ]
+      ],
+      "bbox_original": [
+        [
+          386,
+          1929
+        ],
+        [
+          1964,
+          1949
+        ],
+        [
+          1963,
+          2010
+        ],
+        [
+          385,
+          1990
+        ]
+      ],
+      "box_xyxy": [
+        385,
+        1714,
+        1964,
+        1795
+      ],
+      "text": "Về thơ văn, sáng tác của Phạm Ngô, hiện còn rất ít. tuy vậy cũng có thề",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0821_viet_014",
+      "bbox": [
+        [
+          252,
+          1775
+        ],
+        [
+          1965,
+          1794
+        ],
+        [
+          1965,
+          1854
+        ],
+        [
+          252,
+          1835
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1990
+        ],
+        [
+          1965,
+          2009
+        ],
+        [
+          1965,
+          2069
+        ],
+        [
+          252,
+          2050
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1775,
+        1965,
+        1854
+      ],
+      "text": "nhận ra ở ông một ngôi bút tả cánh và trữ tính tinh tế, một thi vị man mác",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0821_viet_015",
+      "bbox": [
+        [
+          253,
+          1835
+        ],
+        [
+          1849,
+          1851
+        ],
+        [
+          1849,
+          1913
+        ],
+        [
+          253,
+          1896
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          2050
+        ],
+        [
+          1849,
+          2066
+        ],
+        [
+          1849,
+          2128
+        ],
+        [
+          253,
+          2111
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1835,
+        1849,
+        1913
+      ],
+      "text": "của người hiều rõ ý pghĩa cuộc, đời, Thơ ông rất có đọng, nhiều ý ít lời.",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0821_viet_016",
+      "bbox": [
+        [
+          387,
+          1911
+        ],
+        [
+          1714,
+          1929
+        ],
+        [
+          1713,
+          1994
+        ],
+        [
+          386,
+          1976
+        ]
+      ],
+      "bbox_original": [
+        [
+          387,
+          2126
+        ],
+        [
+          1714,
+          2144
+        ],
+        [
+          1713,
+          2209
+        ],
+        [
+          386,
+          2191
+        ]
+      ],
+      "box_xyxy": [
+        386,
+        1911,
+        1714,
+        1994
+      ],
+      "text": "Tác phẩm   hiện còn 8 bài: tho, chép trọng các bộ hợp. tuyền.",
+      "confidence": 0.8711
+    },
+    {
+      "line_id": "0821_viet_017",
+      "bbox": [
+        [
+          243,
+          2076
+        ],
+        [
+          1698,
+          2091
+        ],
+        [
+          1698,
+          2145
+        ],
+        [
+          243,
+          2130
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          2291
+        ],
+        [
+          1698,
+          2306
+        ],
+        [
+          1698,
+          2360
+        ],
+        [
+          243,
+          2345
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        2076,
+        1698,
+        2145
+      ],
+      "text": "(1Y Có sách chếp ông là anh: Phạm Mại, nhưng.cũng có sách íchép ngược lại.",
+      "confidence": 0.8938
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "PHẠM NGỘ",
+      "(?)",
+      "Phạm Tông Ngô Tế 7 13 Hiệu Liêu Khê",
+      "chưa người hương Kinh chủ gia Khác",
+      "- hưng Tr vũ nay thuộc, tỉnh Hải hưng, là",
+      "07.0ng nguyên họ chúc 7% tên kiên",
+      "1. 72 cho rằng họ, chúc không phải là",
+      "họ lớn nên đồi làm họ Phạm. Còn Kiêm thi lại, trung với tên của Phân thủ",
+      "Huệ Nghĩa Á Nên đồi làm ngó",
+      "Phạm Ngộ tính tính ngay thắng, làm quân nổi tiếng thanh liêur. Bắt đầu.",
+      "Bình, đười triều Trần Minh Tông PK Ba",
+      "(1514 ? 1329) ông giữ chức Tri thầm hình viên sự, sau được thặng là ty lắng",
+      "trung rồi lại tháng Trị chính sự, đồng trị thượng thứ tả ty sư",
+      "Về thơ văn, sáng tác của Phạm Ngô, hiện còn rất ít. tuy vậy cũng có thề",
+      "nhận ra ở ông một ngôi bút tả cánh và trữ tính tinh tế, một thi vị man mác",
+      "của người hiều rõ ý pghĩa cuộc, đời, Thơ ông rất có đọng, nhiều ý ít lời.",
+      "Tác phẩm   hiện còn 8 bài: tho, chép trọng các bộ hợp. tuyền.",
+      "(1Y Có sách chếp ông là anh: Phạm Mại, nhưng.cũng có sách íchép ngược lại."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

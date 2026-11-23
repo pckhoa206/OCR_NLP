@@ -1,0 +1,422 @@
+{
+  "page_id": "0313",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 313,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0313_viet_000",
+      "bbox": [
+        [
+          362,
+          220
+        ],
+        [
+          1279,
+          223
+        ],
+        [
+          1279,
+          284
+        ],
+        [
+          362,
+          281
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          388
+        ],
+        [
+          1279,
+          391
+        ],
+        [
+          1279,
+          452
+        ],
+        [
+          362,
+          449
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        220,
+        1279,
+        284
+      ],
+      "text": "Thành Thăng-Long nhớ từ thủa nọ,",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0313_viet_001",
+      "bbox": [
+        [
+          365,
+          479
+        ],
+        [
+          1076,
+          481
+        ],
+        [
+          1076,
+          542
+        ],
+        [
+          365,
+          540
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          647
+        ],
+        [
+          1076,
+          649
+        ],
+        [
+          1076,
+          710
+        ],
+        [
+          365,
+          708
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        479,
+        1076,
+        542
+      ],
+      "text": "Bậc giai-nhân tên họ ai hay",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0313_viet_002",
+      "bbox": [
+        [
+          465,
+          741
+        ],
+        [
+          1205,
+          747
+        ],
+        [
+          1204,
+          807
+        ],
+        [
+          465,
+          801
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          909
+        ],
+        [
+          1205,
+          915
+        ],
+        [
+          1204,
+          975
+        ],
+        [
+          465,
+          969
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        741,
+        1205,
+        807
+      ],
+      "text": "Đàn căm thánh-thót mãy dây",
+      "confidence": 0.9007
+    },
+    {
+      "line_id": "0313_viet_003",
+      "bbox": [
+        [
+          307,
+          1001
+        ],
+        [
+          1440,
+          1007
+        ],
+        [
+          1440,
+          1071
+        ],
+        [
+          306,
+          1065
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          1169
+        ],
+        [
+          1440,
+          1175
+        ],
+        [
+          1440,
+          1239
+        ],
+        [
+          306,
+          1233
+        ]
+      ],
+      "box_xyxy": [
+        306,
+        1001,
+        1440,
+        1071
+      ],
+      "text": "Khắp thành quen miệng gọi ngay: nàng cầm",
+      "confidence": 0.9055
+    },
+    {
+      "line_id": "0313_viet_004",
+      "bbox": [
+        [
+          364,
+          1262
+        ],
+        [
+          1443,
+          1262
+        ],
+        [
+          1443,
+          1329
+        ],
+        [
+          364,
+          1329
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1430
+        ],
+        [
+          1443,
+          1430
+        ],
+        [
+          1443,
+          1497
+        ],
+        [
+          364,
+          1497
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        1262,
+        1443,
+        1329
+      ],
+      "text": "- Cung Phụng khúc v xưa ngâm trong nội",
+      "confidence": 0.8724
+    },
+    {
+      "line_id": "0313_viet_005",
+      "bbox": [
+        [
+          361,
+          1521
+        ],
+        [
+          1256,
+          1526
+        ],
+        [
+          1256,
+          1583
+        ],
+        [
+          361,
+          1579
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1689
+        ],
+        [
+          1256,
+          1694
+        ],
+        [
+          1256,
+          1751
+        ],
+        [
+          361,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1521,
+        1256,
+        1583
+      ],
+      "text": "Phổ nên chương tiếng nổi một thời",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0313_viet_006",
+      "bbox": [
+        [
+          467,
+          1782
+        ],
+        [
+          1229,
+          1784
+        ],
+        [
+          1228,
+          1845
+        ],
+        [
+          467,
+          1843
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          1950
+        ],
+        [
+          1229,
+          1952
+        ],
+        [
+          1228,
+          2013
+        ],
+        [
+          467,
+          2011
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        1782,
+        1229,
+        1845
+      ],
+      "text": "Nhớ ngày đương độ vui chơi",
+      "confidence": 0.9331
+    },
+    {
+      "line_id": "0313_viet_007",
+      "bbox": [
+        [
+          306,
+          2040
+        ],
+        [
+          1270,
+          2044
+        ],
+        [
+          1270,
+          2109
+        ],
+        [
+          305,
+          2104
+        ]
+      ],
+      "bbox_original": [
+        [
+          306,
+          2208
+        ],
+        [
+          1270,
+          2212
+        ],
+        [
+          1270,
+          2277
+        ],
+        [
+          305,
+          2272
+        ]
+      ],
+      "box_xyxy": [
+        305,
+        2040,
+        1270,
+        2109
+      ],
+      "text": "Giám Hồ yên tiệc gặp người tài hoa",
+      "confidence": 0.9027
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Thành Thăng-Long nhớ từ thủa nọ,",
+      "Bậc giai-nhân tên họ ai hay",
+      "Đàn căm thánh-thót mãy dây",
+      "Khắp thành quen miệng gọi ngay: nàng cầm",
+      "- Cung Phụng khúc v xưa ngâm trong nội",
+      "Phổ nên chương tiếng nổi một thời",
+      "Nhớ ngày đương độ vui chơi",
+      "Giám Hồ yên tiệc gặp người tài hoa"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      252.0,
+      510.5,
+      774.0,
+      1036.0,
+      1295.5,
+      1552.0,
+      1813.5,
+      2074.5
+    ]
+  }
+}

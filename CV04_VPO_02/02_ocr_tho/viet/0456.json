@@ -1,0 +1,988 @@
+{
+  "page_id": "0456",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 456,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1491,
+    "footnote_separator_y_original": 1650,
+    "effective_width": 1558,
+    "effective_height": 1491
+  },
+  "items": [
+    {
+      "line_id": "0456_viet_000",
+      "bbox": [
+        [
+          187,
+          7
+        ],
+        [
+          945,
+          13
+        ],
+        [
+          945,
+          75
+        ],
+        [
+          187,
+          68
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          166
+        ],
+        [
+          945,
+          172
+        ],
+        [
+          945,
+          234
+        ],
+        [
+          187,
+          227
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        7,
+        945,
+        75
+      ],
+      "text": "Bất trùng lai, thông thông khước khứ,",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0456_viet_001",
+      "bbox": [
+        [
+          186,
+          82
+        ],
+        [
+          516,
+          80
+        ],
+        [
+          517,
+          132
+        ],
+        [
+          186,
+          134
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          241
+        ],
+        [
+          516,
+          239
+        ],
+        [
+          517,
+          291
+        ],
+        [
+          186,
+          293
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        80,
+        517,
+        134
+      ],
+      "text": "Lưu chi vô sách",
+      "confidence": 0.9333
+    },
+    {
+      "line_id": "0456_viet_002",
+      "bbox": [
+        [
+          186,
+          147
+        ],
+        [
+          893,
+          146
+        ],
+        [
+          893,
+          203
+        ],
+        [
+          186,
+          204
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          306
+        ],
+        [
+          893,
+          305
+        ],
+        [
+          893,
+          362
+        ],
+        [
+          186,
+          363
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        146,
+        893,
+        204
+      ],
+      "text": "Kinh Triệu Trương lang hoa mi vũ,",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0456_viet_003",
+      "bbox": [
+        [
+          187,
+          214
+        ],
+        [
+          808,
+          212
+        ],
+        [
+          808,
+          266
+        ],
+        [
+          187,
+          268
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          373
+        ],
+        [
+          808,
+          371
+        ],
+        [
+          808,
+          425
+        ],
+        [
+          187,
+          427
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        212,
+        808,
+        268
+      ],
+      "text": "Khán thủ Tương biên tình tích",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0456_viet_004",
+      "bbox": [
+        [
+          189,
+          278
+        ],
+        [
+          937,
+          278
+        ],
+        [
+          937,
+          335
+        ],
+        [
+          189,
+          335
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          437
+        ],
+        [
+          937,
+          437
+        ],
+        [
+          937,
+          494
+        ],
+        [
+          189,
+          494
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        278,
+        937,
+        335
+      ],
+      "text": "Dã nhất tuyến, xuân tâm mạch mạch",
+      "confidence": 0.9291
+    },
+    {
+      "line_id": "0456_viet_005",
+      "bbox": [
+        [
+          187,
+          341
+        ],
+        [
+          793,
+          341
+        ],
+        [
+          793,
+          401
+        ],
+        [
+          187,
+          401
+        ]
+      ],
+      "bbox_original": [
+        [
+          187,
+          500
+        ],
+        [
+          793,
+          500
+        ],
+        [
+          793,
+          560
+        ],
+        [
+          187,
+          560
+        ]
+      ],
+      "box_xyxy": [
+        187,
+        341,
+        793,
+        401
+      ],
+      "text": "Nhãn để sinh đình thế vô thất,",
+      "confidence": 0.9255
+    },
+    {
+      "line_id": "0456_viet_006",
+      "bbox": [
+        [
+          188,
+          416
+        ],
+        [
+          1001,
+          407
+        ],
+        [
+          1002,
+          465
+        ],
+        [
+          188,
+          473
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          575
+        ],
+        [
+          1001,
+          566
+        ],
+        [
+          1002,
+          624
+        ],
+        [
+          188,
+          632
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        407,
+        1002,
+        473
+      ],
+      "text": "Hữu tình nhân, thuỳ phục cấm tình đắc?",
+      "confidence": 0.9143
+    },
+    {
+      "line_id": "0456_viet_007",
+      "bbox": [
+        [
+          189,
+          483
+        ],
+        [
+          747,
+          478
+        ],
+        [
+          747,
+          534
+        ],
+        [
+          189,
+          539
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          642
+        ],
+        [
+          747,
+          637
+        ],
+        [
+          747,
+          693
+        ],
+        [
+          189,
+          698
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        478,
+        747,
+        539
+      ],
+      "text": "Giá tiên thị, thiên kim khắc.",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0456_viet_008",
+      "bbox": [
+        [
+          188,
+          552
+        ],
+        [
+          444,
+          552
+        ],
+        [
+          444,
+          608
+        ],
+        [
+          188,
+          608
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          711
+        ],
+        [
+          444,
+          711
+        ],
+        [
+          444,
+          767
+        ],
+        [
+          188,
+          767
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        552,
+        444,
+        608
+      ],
+      "text": "Dịch nghĩa:",
+      "confidence": 0.9354
+    },
+    {
+      "line_id": "0456_viet_009",
+      "bbox": [
+        [
+          186,
+          612
+        ],
+        [
+          1020,
+          607
+        ],
+        [
+          1021,
+          670
+        ],
+        [
+          186,
+          675
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          771
+        ],
+        [
+          1020,
+          766
+        ],
+        [
+          1021,
+          829
+        ],
+        [
+          186,
+          834
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        607,
+        1021,
+        675
+      ],
+      "text": "ĐÙA TẶNG ĐÔNG TRỌNG CƯỚI VỢ",
+      "confidence": 0.9144
+    },
+    {
+      "line_id": "0456_viet_010",
+      "bbox": [
+        [
+          193,
+          688
+        ],
+        [
+          587,
+          688
+        ],
+        [
+          587,
+          743
+        ],
+        [
+          193,
+          743
+        ]
+      ],
+      "bbox_original": [
+        [
+          193,
+          847
+        ],
+        [
+          587,
+          847
+        ],
+        [
+          587,
+          902
+        ],
+        [
+          193,
+          902
+        ]
+      ],
+      "box_xyxy": [
+        193,
+        688,
+        587,
+        743
+      ],
+      "text": "(Điệu Hạ tân lang)",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0456_viet_011",
+      "bbox": [
+        [
+          189,
+          750
+        ],
+        [
+          903,
+          742
+        ],
+        [
+          903,
+          807
+        ],
+        [
+          189,
+          814
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          909
+        ],
+        [
+          903,
+          901
+        ],
+        [
+          903,
+          966
+        ],
+        [
+          189,
+          973
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        742,
+        903,
+        814
+      ],
+      "text": "Tống Ngọc? làm khách ở Lan Đài?,",
+      "confidence": 0.9005
+    },
+    {
+      "line_id": "0456_viet_012",
+      "bbox": [
+        [
+          190,
+          821
+        ],
+        [
+          1239,
+          819
+        ],
+        [
+          1239,
+          875
+        ],
+        [
+          190,
+          877
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          980
+        ],
+        [
+          1239,
+          978
+        ],
+        [
+          1239,
+          1034
+        ],
+        [
+          190,
+          1036
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        819,
+        1239,
+        877
+      ],
+      "text": "Thơ trong túi gấm, phô trương tài năng văn chương.",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0456_viet_013",
+      "bbox": [
+        [
+          190,
+          886
+        ],
+        [
+          856,
+          884
+        ],
+        [
+          857,
+          942
+        ],
+        [
+          190,
+          944
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1045
+        ],
+        [
+          856,
+          1043
+        ],
+        [
+          857,
+          1101
+        ],
+        [
+          190,
+          1103
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        884,
+        857,
+        944
+      ],
+      "text": "Thanh danh vang vọng khắp nơi.",
+      "confidence": 0.9197
+    },
+    {
+      "line_id": "0456_viet_014",
+      "bbox": [
+        [
+          190,
+          954
+        ],
+        [
+          1090,
+          954
+        ],
+        [
+          1090,
+          1010
+        ],
+        [
+          190,
+          1010
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1113
+        ],
+        [
+          1090,
+          1113
+        ],
+        [
+          1090,
+          1169
+        ],
+        [
+          190,
+          1169
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        954,
+        1090,
+        1010
+      ],
+      "text": "Huống chi đêm nay đêm hoa chúc tuyệt đẹp,",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0456_viet_015",
+      "bbox": [
+        [
+          191,
+          1023
+        ],
+        [
+          1133,
+          1016
+        ],
+        [
+          1134,
+          1074
+        ],
+        [
+          191,
+          1081
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1182
+        ],
+        [
+          1133,
+          1175
+        ],
+        [
+          1134,
+          1233
+        ],
+        [
+          191,
+          1240
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1016,
+        1134,
+        1081
+      ],
+      "text": "Trong trướng ngọc hương thơm bay đầy chiếu.",
+      "confidence": 0.9241
+    },
+    {
+      "line_id": "0456_viet_016",
+      "bbox": [
+        [
+          188,
+          1091
+        ],
+        [
+          792,
+          1084
+        ],
+        [
+          793,
+          1142
+        ],
+        [
+          188,
+          1148
+        ]
+      ],
+      "bbox_original": [
+        [
+          188,
+          1250
+        ],
+        [
+          792,
+          1243
+        ],
+        [
+          793,
+          1301
+        ],
+        [
+          188,
+          1307
+        ]
+      ],
+      "box_xyxy": [
+        188,
+        1084,
+        793,
+        1148
+      ],
+      "text": "Ngà ngà say, anh đào rộn sắc.",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0456_viet_017",
+      "bbox": [
+        [
+          186,
+          1154
+        ],
+        [
+          1003,
+          1145
+        ],
+        [
+          1004,
+          1212
+        ],
+        [
+          186,
+          1222
+        ]
+      ],
+      "bbox_original": [
+        [
+          186,
+          1313
+        ],
+        [
+          1003,
+          1304
+        ],
+        [
+          1004,
+          1371
+        ],
+        [
+          186,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        186,
+        1145,
+        1004,
+        1222
+      ],
+      "text": "Lại cười Lạc thần phú của Trần vương?",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0456_viet_018",
+      "bbox": [
+        [
+          191,
+          1220
+        ],
+        [
+          1133,
+          1222
+        ],
+        [
+          1133,
+          1279
+        ],
+        [
+          191,
+          1277
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1379
+        ],
+        [
+          1133,
+          1381
+        ],
+        [
+          1133,
+          1438
+        ],
+        [
+          191,
+          1436
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1220,
+        1133,
+        1279
+      ],
+      "text": "Buồn vơ vẩn, sau giấc mộng bặt không tin tức.",
+      "confidence": 0.9113
+    },
+    {
+      "line_id": "0456_viet_019",
+      "bbox": [
+        [
+          191,
+          1291
+        ],
+        [
+          927,
+          1289
+        ],
+        [
+          927,
+          1346
+        ],
+        [
+          191,
+          1348
+        ]
+      ],
+      "bbox_original": [
+        [
+          191,
+          1450
+        ],
+        [
+          927,
+          1448
+        ],
+        [
+          927,
+          1505
+        ],
+        [
+          191,
+          1507
+        ]
+      ],
+      "box_xyxy": [
+        191,
+        1289,
+        927,
+        1348
+      ],
+      "text": "Há chẳng phải, Tào Thực si ngốc ư?",
+      "confidence": 0.9175
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Bất trùng lai, thông thông khước khứ,",
+      "Lưu chi vô sách",
+      "Kinh Triệu Trương lang hoa mi vũ,",
+      "Khán thủ Tương biên tình tích",
+      "Dã nhất tuyến, xuân tâm mạch mạch",
+      "Nhãn để sinh đình thế vô thất,",
+      "Hữu tình nhân, thuỳ phục cấm tình đắc?",
+      "Giá tiên thị, thiên kim khắc."
+    ],
+    "dich_nghia_lines": [
+      "ĐÙA TẶNG ĐÔNG TRỌNG CƯỚI VỢ",
+      "(Điệu Hạ tân lang)",
+      "Tống Ngọc? làm khách ở Lan Đài?,",
+      "Thơ trong túi gấm, phô trương tài năng văn chương.",
+      "Thanh danh vang vọng khắp nơi.",
+      "Huống chi đêm nay đêm hoa chúc tuyệt đẹp,",
+      "Trong trướng ngọc hương thơm bay đầy chiếu.",
+      "Ngà ngà say, anh đào rộn sắc.",
+      "Lại cười Lạc thần phú của Trần vương?",
+      "Buồn vơ vẩn, sau giấc mộng bặt không tin tức.",
+      "Há chẳng phải, Tào Thực si ngốc ư?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

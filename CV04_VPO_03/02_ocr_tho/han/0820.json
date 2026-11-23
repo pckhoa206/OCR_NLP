@@ -1,0 +1,119 @@
+{
+  "page_id": "0820",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 820,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0820_han_000",
+      "bbox": [
+        [
+          257,
+          1227
+        ],
+        [
+          684,
+          1209
+        ],
+        [
+          687,
+          1282
+        ],
+        [
+          260,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          257,
+          1442
+        ],
+        [
+          684,
+          1424
+        ],
+        [
+          687,
+          1497
+        ],
+        [
+          260,
+          1515
+        ]
+      ],
+      "box_xyxy": [
+        257,
+        1209,
+        687,
+        1300
+      ],
+      "text": "1* VATT: v0無",
+      "confidence": 0.8802
+    },
+    {
+      "line_id": "0820_han_001",
+      "bbox": [
+        [
+          256,
+          1292
+        ],
+        [
+          756,
+          1278
+        ],
+        [
+          758,
+          1343
+        ],
+        [
+          258,
+          1357
+        ]
+      ],
+      "bbox_original": [
+        [
+          256,
+          1507
+        ],
+        [
+          756,
+          1493
+        ],
+        [
+          758,
+          1558
+        ],
+        [
+          258,
+          1572
+        ]
+      ],
+      "box_xyxy": [
+        256,
+        1278,
+        758,
+        1357
+      ],
+      "text": "2* TVTL2: hien好",
+      "confidence": 0.9038
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

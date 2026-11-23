@@ -1,0 +1,72 @@
+{
+  "page_id": "0752",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 752,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0752_han_000",
+      "bbox": [
+        [
+          252,
+          2089
+        ],
+        [
+          1059,
+          2089
+        ],
+        [
+          1059,
+          2152
+        ],
+        [
+          252,
+          2152
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2304
+        ],
+        [
+          1059,
+          2304
+        ],
+        [
+          1059,
+          2367
+        ],
+        [
+          252,
+          2367
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        2089,
+        1059,
+        2152
+      ],
+      "text": "1* Nguyèn vǎn là chǔ Nguyēn 元 nhung bèn canh có chù thèm chū Ly 李. Theo",
+      "confidence": 0.9085
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "page_id": "0358",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 358,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0358_viet_000",
+      "bbox": [
+        [
+          299,
+          164
+        ],
+        [
+          1007,
+          171
+        ],
+        [
+          1006,
+          235
+        ],
+        [
+          298,
+          229
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          332
+        ],
+        [
+          1007,
+          339
+        ],
+        [
+          1006,
+          403
+        ],
+        [
+          298,
+          397
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        164,
+        1007,
+        235
+      ],
+      "text": "Tuy viết dĩ tảo tăn phụ-sự,",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0358_viet_001",
+      "bbox": [
+        [
+          215,
+          252
+        ],
+        [
+          1148,
+          255
+        ],
+        [
+          1148,
+          322
+        ],
+        [
+          215,
+          319
+        ]
+      ],
+      "bbox_original": [
+        [
+          215,
+          420
+        ],
+        [
+          1148,
+          423
+        ],
+        [
+          1148,
+          490
+        ],
+        [
+          215,
+          487
+        ]
+      ],
+      "box_xyxy": [
+        215,
+        252,
+        1148,
+        322
+      ],
+      "text": "- Tuy đã nói rằng việc đàn-bà tân-tảo.",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0358_viet_002",
+      "bbox": [
+        [
+          297,
+          451
+        ],
+        [
+          1045,
+          454
+        ],
+        [
+          1045,
+          518
+        ],
+        [
+          296,
+          515
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          619
+        ],
+        [
+          1045,
+          622
+        ],
+        [
+          1045,
+          686
+        ],
+        [
+          296,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        451,
+        1045,
+        518
+      ],
+      "text": "Nội tề-gia thượng tự tồ-tiên.",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0358_viet_003",
+      "bbox": [
+        [
+          213,
+          540
+        ],
+        [
+          1346,
+          540
+        ],
+        [
+          1346,
+          604
+        ],
+        [
+          213,
+          604
+        ]
+      ],
+      "bbox_original": [
+        [
+          213,
+          708
+        ],
+        [
+          1346,
+          708
+        ],
+        [
+          1346,
+          772
+        ],
+        [
+          213,
+          772
+        ]
+      ],
+      "box_xyxy": [
+        213,
+        540,
+        1346,
+        604
+      ],
+      "text": "- Trong xem sóc việc nhà, trên thờ cúng tổ-tiên",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0358_viet_004",
+      "bbox": [
+        [
+          298,
+          730
+        ],
+        [
+          1072,
+          734
+        ],
+        [
+          1072,
+          798
+        ],
+        [
+          297,
+          794
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          898
+        ],
+        [
+          1072,
+          902
+        ],
+        [
+          1072,
+          966
+        ],
+        [
+          297,
+          962
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        730,
+        1072,
+        798
+      ],
+      "text": "Giản mao hoàng-thủy vi kiên,",
+      "confidence": 0.91
+    },
+    {
+      "line_id": "0358_viet_005",
+      "bbox": [
+        [
+          212,
+          815
+        ],
+        [
+          1393,
+          815
+        ],
+        [
+          1393,
+          876
+        ],
+        [
+          212,
+          876
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          983
+        ],
+        [
+          1393,
+          983
+        ],
+        [
+          1393,
+          1044
+        ],
+        [
+          212,
+          1044
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        815,
+        1393,
+        876
+      ],
+      "text": "- Tuy rau khe nước suôi cũng tỏ được lòng thành",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0358_viet_006",
+      "bbox": [
+        [
+          295,
+          1006
+        ],
+        [
+          1242,
+          1009
+        ],
+        [
+          1241,
+          1074
+        ],
+        [
+          294,
+          1071
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1174
+        ],
+        [
+          1242,
+          1177
+        ],
+        [
+          1241,
+          1242
+        ],
+        [
+          294,
+          1239
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1006,
+        1242,
+        1074
+      ],
+      "text": "An tri chủ quỹ năng hiền phụ nhân",
+      "confidence": 0.9268
+    },
+    {
+      "line_id": "0358_viet_007",
+      "bbox": [
+        [
+          205,
+          1088
+        ],
+        [
+          1441,
+          1091
+        ],
+        [
+          1441,
+          1151
+        ],
+        [
+          205,
+          1148
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1256
+        ],
+        [
+          1441,
+          1259
+        ],
+        [
+          1441,
+          1319
+        ],
+        [
+          205,
+          1316
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1088,
+        1441,
+        1151
+      ],
+      "text": "- Nhưng đã chắc đâu làm tròn phận sự của một người",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0358_viet_008",
+      "bbox": [
+        [
+          204,
+          1158
+        ],
+        [
+          1153,
+          1160
+        ],
+        [
+          1153,
+          1224
+        ],
+        [
+          204,
+          1222
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1326
+        ],
+        [
+          1153,
+          1328
+        ],
+        [
+          1153,
+          1392
+        ],
+        [
+          204,
+          1390
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1158,
+        1153,
+        1224
+      ],
+      "text": "đàn-bà giỏi, tay hòm chìa khóa trong nhà ?",
+      "confidence": 0.9301
+    },
+    {
+      "line_id": "0358_viet_009",
+      "bbox": [
+        [
+          290,
+          1350
+        ],
+        [
+          1043,
+          1355
+        ],
+        [
+          1043,
+          1419
+        ],
+        [
+          289,
+          1414
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          1518
+        ],
+        [
+          1043,
+          1523
+        ],
+        [
+          1043,
+          1587
+        ],
+        [
+          289,
+          1582
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        1350,
+        1043,
+        1419
+      ],
+      "text": "Khả tri giả thập phần gia-âu,",
+      "confidence": 0.9227
+    },
+    {
+      "line_id": "0358_viet_010",
+      "bbox": [
+        [
+          206,
+          1433
+        ],
+        [
+          1440,
+          1433
+        ],
+        [
+          1440,
+          1494
+        ],
+        [
+          206,
+          1494
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1601
+        ],
+        [
+          1440,
+          1601
+        ],
+        [
+          1440,
+          1662
+        ],
+        [
+          206,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1433,
+        1440,
+        1494
+      ],
+      "text": "- Duy một điều có thể biết chắc được là mười phần",
+      "confidence": 0.9202
+    },
+    {
+      "line_id": "0358_viet_011",
+      "bbox": [
+        [
+          202,
+          1502
+        ],
+        [
+          547,
+          1504
+        ],
+        [
+          547,
+          1563
+        ],
+        [
+          201,
+          1560
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1670
+        ],
+        [
+          547,
+          1672
+        ],
+        [
+          547,
+          1731
+        ],
+        [
+          201,
+          1728
+        ]
+      ],
+      "box_xyxy": [
+        201,
+        1502,
+        547,
+        1563
+      ],
+      "text": "con trẻ nhà ta...",
+      "confidence": 0.8881
+    },
+    {
+      "line_id": "0358_viet_012",
+      "bbox": [
+        [
+          294,
+          1694
+        ],
+        [
+          1172,
+          1700
+        ],
+        [
+          1172,
+          1761
+        ],
+        [
+          293,
+          1755
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1862
+        ],
+        [
+          1172,
+          1868
+        ],
+        [
+          1172,
+          1929
+        ],
+        [
+          293,
+          1923
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        1694,
+        1172,
+        1761
+      ],
+      "text": "Nhất môn trung cộng bảo vô nguy",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0358_viet_013",
+      "bbox": [
+        [
+          204,
+          1777
+        ],
+        [
+          1440,
+          1777
+        ],
+        [
+          1440,
+          1840
+        ],
+        [
+          204,
+          1840
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1945
+        ],
+        [
+          1440,
+          1945
+        ],
+        [
+          1440,
+          2008
+        ],
+        [
+          204,
+          2008
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1777,
+        1440,
+        1840
+      ],
+      "text": "Trong một cửa đều được giữ gìn, khỏi nguy-hiểm",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0358_viet_014",
+      "bbox": [
+        [
+          296,
+          1976
+        ],
+        [
+          983,
+          1976
+        ],
+        [
+          983,
+          2037
+        ],
+        [
+          296,
+          2037
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          2144
+        ],
+        [
+          983,
+          2144
+        ],
+        [
+          983,
+          2205
+        ],
+        [
+          296,
+          2205
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        1976,
+        983,
+        2037
+      ],
+      "text": "Biệt thời chính tại hài nhi",
+      "confidence": 0.9097
+    },
+    {
+      "line_id": "0358_viet_015",
+      "bbox": [
+        [
+          202,
+          2062
+        ],
+        [
+          1367,
+          2064
+        ],
+        [
+          1367,
+          2124
+        ],
+        [
+          202,
+          2122
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          2230
+        ],
+        [
+          1367,
+          2232
+        ],
+        [
+          1367,
+          2292
+        ],
+        [
+          202,
+          2290
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        2062,
+        1367,
+        2124
+      ],
+      "text": "- Lúc ta ra đi, thì con ta chính đương măng sửa",
+      "confidence": 0.9261
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Tuy viết dĩ tảo tăn phụ-sự,",
+      "Nội tề-gia thượng tự tồ-tiên.",
+      "Giản mao hoàng-thủy vi kiên,",
+      "An tri chủ quỹ năng hiền phụ nhân",
+      "Khả tri giả thập phần gia-âu,",
+      "Nhất môn trung cộng bảo vô nguy",
+      "Biệt thời chính tại hài nhi"
+    ],
+    "dich_nghia_lines": [
+      "- Tuy đã nói rằng việc đàn-bà tân-tảo.",
+      "- Trong xem sóc việc nhà, trên thờ cúng tổ-tiên",
+      "- Tuy rau khe nước suôi cũng tỏ được lòng thành",
+      "- Nhưng đã chắc đâu làm tròn phận sự của một người đàn-bà giỏi, tay hòm chìa khóa trong nhà ?",
+      "- Duy một điều có thể biết chắc được là mười phần con trẻ nhà ta...",
+      "Trong một cửa đều được giữ gìn, khỏi nguy-hiểm",
+      "- Lúc ta ra đi, thì con ta chính đương măng sửa"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "雖曰己藻蘋婦事",
+        "phien_am": "Tuy viết dĩ tảo tăn phụ-sự,",
+        "dich_nghia_gloss": "- Tuy đã nói rằng việc đàn-bà tân-tảo."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "内齊家上祀祖先",
+        "phien_am": "Nội tề-gia thượng tự tồ-tiên.",
+        "dich_nghia_gloss": "- Trong xem sóc việc nhà, trên thờ cúng tổ-tiên"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "澗毛潢水微虔",
+        "phien_am": "Giản mao hoàng-thủy vi kiên,",
+        "dich_nghia_gloss": "- Tuy rau khe nước suôi cũng tỏ được lòng thành"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "安知主饋能賢婦人",
+        "phien_am": "An tri chủ quỹ năng hiền phụ nhân",
+        "dich_nghia_gloss": "- Nhưng đã chắc đâu làm tròn phận sự của một người đàn-bà giỏi, tay hòm chìa khóa trong nhà ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "可知者十分家幼",
+        "phien_am": "Khả tri giả thập phần gia-âu,",
+        "dich_nghia_gloss": "- Duy một điều có thể biết chắc được là mười phần con trẻ nhà ta..."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "一門中共保無危",
+        "phien_am": "Nhất môn trung cộng bảo vô nguy",
+        "dich_nghia_gloss": "Trong một cửa đều được giữ gìn, khỏi nguy-hiểm"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "別辰正在孩兒",
+        "phien_am": "Biệt thời chính tại hài nhi",
+        "dich_nghia_gloss": "- Lúc ta ra đi, thì con ta chính đương măng sửa"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "page_id": "0374",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 374,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0374_viet_000",
+      "bbox": [
+        [
+          365,
+          153
+        ],
+        [
+          1191,
+          157
+        ],
+        [
+          1191,
+          221
+        ],
+        [
+          365,
+          218
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          321
+        ],
+        [
+          1191,
+          325
+        ],
+        [
+          1191,
+          389
+        ],
+        [
+          365,
+          386
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        153,
+        1191,
+        221
+      ],
+      "text": "Nhân thẽ bãt tri giai kiều ngã.",
+      "confidence": 0.8833
+    },
+    {
+      "line_id": "0374_viet_001",
+      "bbox": [
+        [
+          360,
+          330
+        ],
+        [
+          1173,
+          333
+        ],
+        [
+          1173,
+          398
+        ],
+        [
+          360,
+          395
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          498
+        ],
+        [
+          1173,
+          501
+        ],
+        [
+          1173,
+          566
+        ],
+        [
+          360,
+          563
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        330,
+        1173,
+        398
+      ],
+      "text": "Dung tài vô chủ khả liên quân",
+      "confidence": 0.9327
+    },
+    {
+      "line_id": "0374_viet_002",
+      "bbox": [
+        [
+          468,
+          508
+        ],
+        [
+          1176,
+          510
+        ],
+        [
+          1176,
+          572
+        ],
+        [
+          468,
+          570
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          676
+        ],
+        [
+          1176,
+          678
+        ],
+        [
+          1176,
+          740
+        ],
+        [
+          468,
+          738
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        508,
+        1176,
+        572
+      ],
+      "text": "Bồi hồi nhân sư thiên thần",
+      "confidence": 0.8743
+    },
+    {
+      "line_id": "0374_viet_003",
+      "bbox": [
+        [
+          307,
+          683
+        ],
+        [
+          1365,
+          688
+        ],
+        [
+          1365,
+          754
+        ],
+        [
+          306,
+          750
+        ]
+      ],
+      "bbox_original": [
+        [
+          307,
+          851
+        ],
+        [
+          1365,
+          856
+        ],
+        [
+          1365,
+          922
+        ],
+        [
+          306,
+          918
+        ]
+      ],
+      "box_xyxy": [
+        306,
+        683,
+        1365,
+        754
+      ],
+      "text": "Hoa kinh nhãn, tửu nhập thân, na kham.",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0374_viet_004",
+      "bbox": [
+        [
+          359,
+          862
+        ],
+        [
+          1256,
+          866
+        ],
+        [
+          1256,
+          930
+        ],
+        [
+          359,
+          926
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          1030
+        ],
+        [
+          1256,
+          1034
+        ],
+        [
+          1256,
+          1098
+        ],
+        [
+          359,
+          1094
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        862,
+        1256,
+        930
+      ],
+      "text": "Dục văn thiền đàm nhi phụng phật,",
+      "confidence": 0.8888
+    },
+    {
+      "line_id": "0374_viet_005",
+      "bbox": [
+        [
+          359,
+          1038
+        ],
+        [
+          1226,
+          1040
+        ],
+        [
+          1225,
+          1104
+        ],
+        [
+          359,
+          1102
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          1206
+        ],
+        [
+          1226,
+          1208
+        ],
+        [
+          1225,
+          1272
+        ],
+        [
+          359,
+          1270
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        1038,
+        1226,
+        1104
+      ],
+      "text": "Thiên đàm phi thạch-thất lan-dài.",
+      "confidence": 0.9105
+    },
+    {
+      "line_id": "0374_viet_006",
+      "bbox": [
+        [
+          474,
+          1217
+        ],
+        [
+          1141,
+          1217
+        ],
+        [
+          1141,
+          1280
+        ],
+        [
+          474,
+          1280
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          1385
+        ],
+        [
+          1141,
+          1385
+        ],
+        [
+          1141,
+          1448
+        ],
+        [
+          474,
+          1448
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        1217,
+        1141,
+        1280
+      ],
+      "text": "Kim liên tòa ha như-Lai.",
+      "confidence": 0.8651
+    },
+    {
+      "line_id": "0374_viet_007",
+      "bbox": [
+        [
+          308,
+          1389
+        ],
+        [
+          1280,
+          1386
+        ],
+        [
+          1280,
+          1453
+        ],
+        [
+          309,
+          1456
+        ]
+      ],
+      "bbox_original": [
+        [
+          308,
+          1557
+        ],
+        [
+          1280,
+          1554
+        ],
+        [
+          1280,
+          1621
+        ],
+        [
+          309,
+          1624
+        ]
+      ],
+      "box_xyxy": [
+        308,
+        1386,
+        1280,
+        1456
+      ],
+      "text": "Nan tương cự chúc đại khai hôn cù",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0374_viet_008",
+      "bbox": [
+        [
+          361,
+          1561
+        ],
+        [
+          1145,
+          1561
+        ],
+        [
+          1145,
+          1622
+        ],
+        [
+          361,
+          1622
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1729
+        ],
+        [
+          1145,
+          1729
+        ],
+        [
+          1145,
+          1790
+        ],
+        [
+          361,
+          1790
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1561,
+        1145,
+        1622
+      ],
+      "text": "Dục văn Bồng hồ chir tiên tử",
+      "confidence": 0.8875
+    },
+    {
+      "line_id": "0374_viet_009",
+      "bbox": [
+        [
+          356,
+          1727
+        ],
+        [
+          1229,
+          1729
+        ],
+        [
+          1228,
+          1800
+        ],
+        [
+          356,
+          1798
+        ]
+      ],
+      "bbox_original": [
+        [
+          356,
+          1895
+        ],
+        [
+          1229,
+          1897
+        ],
+        [
+          1228,
+          1968
+        ],
+        [
+          356,
+          1966
+        ]
+      ],
+      "box_xyxy": [
+        356,
+        1727,
+        1229,
+        1800
+      ],
+      "text": "Bông hồ không lưu thủy đào hoa.",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0374_viet_010",
+      "bbox": [
+        [
+          462,
+          1899
+        ],
+        [
+          1230,
+          1903
+        ],
+        [
+          1229,
+          1968
+        ],
+        [
+          462,
+          1964
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          2067
+        ],
+        [
+          1230,
+          2071
+        ],
+        [
+          1229,
+          2136
+        ],
+        [
+          462,
+          2132
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        1899,
+        1230,
+        1968
+      ],
+      "text": "Thương sơn tịch mịch chi ca,",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0374_viet_011",
+      "bbox": [
+        [
+          309,
+          2072
+        ],
+        [
+          1240,
+          2074
+        ],
+        [
+          1239,
+          2137
+        ],
+        [
+          309,
+          2135
+        ]
+      ],
+      "bbox_original": [
+        [
+          309,
+          2240
+        ],
+        [
+          1240,
+          2242
+        ],
+        [
+          1239,
+          2305
+        ],
+        [
+          309,
+          2303
+        ]
+      ],
+      "box_xyxy": [
+        309,
+        2072,
+        1240,
+        2137
+      ],
+      "text": "Vũ-Lăng vãng tích yên hà thâm thâm",
+      "confidence": 0.9042
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Nhân thẽ bãt tri giai kiều ngã.",
+      "Dung tài vô chủ khả liên quân",
+      "Bồi hồi nhân sư thiên thần",
+      "Hoa kinh nhãn, tửu nhập thân, na kham.",
+      "Dục văn thiền đàm nhi phụng phật,",
+      "Thiên đàm phi thạch-thất lan-dài.",
+      "Kim liên tòa ha như-Lai.",
+      "Nan tương cự chúc đại khai hôn cù",
+      "Dục văn Bồng hồ chir tiên tử",
+      "Bông hồ không lưu thủy đào hoa.",
+      "Thương sơn tịch mịch chi ca,",
+      "Vũ-Lăng vãng tích yên hà thâm thâm"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "人世不知皆矯我",
+        "phien_am": "Nhân thẽ bãt tri giai kiều ngã.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "容才無主可憐君",
+        "phien_am": "Dung tài vô chủ khả liên quân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "徘徊人事天辰",
+        "phien_am": "Bồi hồi nhân sư thiên thần",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "花經眼酒入唇那堪",
+        "phien_am": "Hoa kinh nhãn, tửu nhập thân, na kham.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "欲問禪曇而奉佛",
+        "phien_am": "Dục văn thiền đàm nhi phụng phật,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "禪曇非石室蘭臺",
+        "phien_am": "Thiên đàm phi thạch-thất lan-dài.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "金蓮座下如來",
+        "phien_am": "Kim liên tòa ha như-Lai.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "難將巨燭大開昏衢",
+        "phien_am": "Nan tương cự chúc đại khai hôn cù",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "欲問蓬壺諸仙子",
+        "phien_am": "Dục văn Bồng hồ chir tiên tử",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "蓬壶空流水桃花",
+        "phien_am": "Bông hồ không lưu thủy đào hoa.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 10,
+        "chu_han": "商山寂寞芝歌",
+        "phien_am": "Thương sơn tịch mịch chi ca,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 11,
+        "chu_han": "武陵往迹煙霞深深",
+        "phien_am": "Vũ-Lăng vãng tích yên hà thâm thâm",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

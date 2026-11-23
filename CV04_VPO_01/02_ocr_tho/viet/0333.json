@@ -1,0 +1,467 @@
+{
+  "page_id": "0333",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 333,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0333_viet_000",
+      "bbox": [
+        [
+          208,
+          10
+        ],
+        [
+          878,
+          10
+        ],
+        [
+          878,
+          61
+        ],
+        [
+          208,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          178
+        ],
+        [
+          878,
+          178
+        ],
+        [
+          878,
+          229
+        ],
+        [
+          208,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        10,
+        878,
+        61
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.8395
+    },
+    {
+      "line_id": "0333_viet_001",
+      "bbox": [
+        [
+          1360,
+          10
+        ],
+        [
+          1444,
+          12
+        ],
+        [
+          1442,
+          63
+        ],
+        [
+          1358,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          1360,
+          178
+        ],
+        [
+          1444,
+          180
+        ],
+        [
+          1442,
+          231
+        ],
+        [
+          1358,
+          228
+        ]
+      ],
+      "box_xyxy": [
+        1358,
+        10,
+        1444,
+        63
+      ],
+      "text": "327",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0333_viet_002",
+      "bbox": [
+        [
+          299,
+          308
+        ],
+        [
+          1135,
+          312
+        ],
+        [
+          1135,
+          370
+        ],
+        [
+          298,
+          366
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          476
+        ],
+        [
+          1135,
+          480
+        ],
+        [
+          1135,
+          538
+        ],
+        [
+          298,
+          534
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        308,
+        1135,
+        370
+      ],
+      "text": "Chim hoàng-oanh thỏ-thẻ ba câu",
+      "confidence": 0.9281
+    },
+    {
+      "line_id": "0333_viet_003",
+      "bbox": [
+        [
+          402,
+          591
+        ],
+        [
+          1086,
+          593
+        ],
+        [
+          1086,
+          651
+        ],
+        [
+          402,
+          649
+        ]
+      ],
+      "bbox_original": [
+        [
+          402,
+          759
+        ],
+        [
+          1086,
+          761
+        ],
+        [
+          1086,
+          819
+        ],
+        [
+          402,
+          817
+        ]
+      ],
+      "box_xyxy": [
+        402,
+        591,
+        1086,
+        651
+      ],
+      "text": "Bằng nay cúc đã hoa thâu",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0333_viet_004",
+      "bbox": [
+        [
+          245,
+          869
+        ],
+        [
+          1047,
+          874
+        ],
+        [
+          1047,
+          932
+        ],
+        [
+          245,
+          927
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1037
+        ],
+        [
+          1047,
+          1042
+        ],
+        [
+          1047,
+          1100
+        ],
+        [
+          245,
+          1095
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        869,
+        1047,
+        932
+      ],
+      "text": "Liễu kia nghĩ cũng âu-sầu vì ve.",
+      "confidence": 0.9168
+    },
+    {
+      "line_id": "0333_viet_005",
+      "bbox": [
+        [
+          299,
+          1148
+        ],
+        [
+          1105,
+          1152
+        ],
+        [
+          1104,
+          1210
+        ],
+        [
+          298,
+          1206
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1316
+        ],
+        [
+          1105,
+          1320
+        ],
+        [
+          1104,
+          1378
+        ],
+        [
+          298,
+          1374
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1148,
+        1105,
+        1210
+      ],
+      "text": "Xưa ta đi, đào khoe tiêu-kiềm,",
+      "confidence": 0.9118
+    },
+    {
+      "line_id": "0333_viet_006",
+      "bbox": [
+        [
+          297,
+          1430
+        ],
+        [
+          1244,
+          1430
+        ],
+        [
+          1244,
+          1490
+        ],
+        [
+          297,
+          1490
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1598
+        ],
+        [
+          1244,
+          1598
+        ],
+        [
+          1244,
+          1658
+        ],
+        [
+          297,
+          1658
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1430,
+        1244,
+        1490
+      ],
+      "text": "Ngọn đông-phong mới điểm ba hàng.",
+      "confidence": 0.8891
+    },
+    {
+      "line_id": "0333_viet_007",
+      "bbox": [
+        [
+          403,
+          1707
+        ],
+        [
+          1123,
+          1711
+        ],
+        [
+          1122,
+          1772
+        ],
+        [
+          402,
+          1768
+        ]
+      ],
+      "bbox_original": [
+        [
+          403,
+          1875
+        ],
+        [
+          1123,
+          1879
+        ],
+        [
+          1122,
+          1940
+        ],
+        [
+          402,
+          1936
+        ]
+      ],
+      "box_xyxy": [
+        402,
+        1707,
+        1123,
+        1772
+      ],
+      "text": "Bằng này lan đã chồi sương",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0333_viet_008",
+      "bbox": [
+        [
+          241,
+          1988
+        ],
+        [
+          1118,
+          1991
+        ],
+        [
+          1117,
+          2052
+        ],
+        [
+          241,
+          2049
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          2156
+        ],
+        [
+          1118,
+          2159
+        ],
+        [
+          1117,
+          2220
+        ],
+        [
+          241,
+          2217
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1988,
+        1118,
+        2052
+      ],
+      "text": "Đào non nghĩ cũng võ-vàng vì thu.",
+      "confidence": 0.917
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Chim hoàng-oanh thỏ-thẻ ba câu",
+      "Bằng nay cúc đã hoa thâu",
+      "Liễu kia nghĩ cũng âu-sầu vì ve.",
+      "Xưa ta đi, đào khoe tiêu-kiềm,",
+      "Ngọn đông-phong mới điểm ba hàng.",
+      "Bằng này lan đã chồi sương",
+      "Đào non nghĩ cũng võ-vàng vì thu."
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      339.0,
+      621.0,
+      900.5,
+      1179.0,
+      1460.0,
+      1739.5,
+      2020.0
+    ]
+  }
+}

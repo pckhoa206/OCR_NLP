@@ -1,0 +1,72 @@
+{
+  "page_id": "0651",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 651,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0651_han_000",
+      "bbox": [
+        [
+          342,
+          1838
+        ],
+        [
+          1155,
+          1836
+        ],
+        [
+          1155,
+          1890
+        ],
+        [
+          342,
+          1892
+        ]
+      ],
+      "bbox_original": [
+        [
+          342,
+          2053
+        ],
+        [
+          1155,
+          2051
+        ],
+        [
+          1155,
+          2105
+        ],
+        [
+          342,
+          2107
+        ]
+      ],
+      "box_xyxy": [
+        342,
+        1836,
+        1155,
+        1892
+      ],
+      "text": "kinh佛說大幸報父母恩重經",
+      "confidence": 0.9201
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

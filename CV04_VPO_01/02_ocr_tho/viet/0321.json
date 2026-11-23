@@ -1,0 +1,471 @@
+{
+  "page_id": "0321",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 321,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0321_viet_000",
+      "bbox": [
+        [
+          1371,
+          0
+        ],
+        [
+          1442,
+          0
+        ],
+        [
+          1442,
+          18
+        ],
+        [
+          1371,
+          18
+        ]
+      ],
+      "bbox_original": [
+        [
+          1371,
+          168
+        ],
+        [
+          1442,
+          168
+        ],
+        [
+          1442,
+          186
+        ],
+        [
+          1371,
+          186
+        ]
+      ],
+      "box_xyxy": [
+        1371,
+        0,
+        1442,
+        18
+      ],
+      "text": "Pav",
+      "confidence": 0.5668
+    },
+    {
+      "line_id": "0321_viet_001",
+      "bbox": [
+        [
+          313,
+          191
+        ],
+        [
+          1280,
+          193
+        ],
+        [
+          1280,
+          253
+        ],
+        [
+          313,
+          251
+        ]
+      ],
+      "bbox_original": [
+        [
+          313,
+          359
+        ],
+        [
+          1280,
+          361
+        ],
+        [
+          1280,
+          421
+        ],
+        [
+          313,
+          419
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        191,
+        1280,
+        253
+      ],
+      "text": "Một nàng đầu tóc hình dung bơ phờ",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0321_viet_002",
+      "bbox": [
+        [
+          363,
+          456
+        ],
+        [
+          1236,
+          456
+        ],
+        [
+          1236,
+          516
+        ],
+        [
+          363,
+          516
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          624
+        ],
+        [
+          1236,
+          624
+        ],
+        [
+          1236,
+          684
+        ],
+        [
+          363,
+          684
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        456,
+        1236,
+        516
+      ],
+      "text": "Mình gầy võ mày thưa duyên nhạt",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0321_viet_003",
+      "bbox": [
+        [
+          363,
+          715
+        ],
+        [
+          1131,
+          717
+        ],
+        [
+          1131,
+          778
+        ],
+        [
+          363,
+          776
+        ]
+      ],
+      "bbox_original": [
+        [
+          363,
+          883
+        ],
+        [
+          1131,
+          885
+        ],
+        [
+          1131,
+          946
+        ],
+        [
+          363,
+          944
+        ]
+      ],
+      "box_xyxy": [
+        363,
+        715,
+        1131,
+        778
+      ],
+      "text": "Ai biết Nàng oanh liệt xưa kia",
+      "confidence": 0.9295
+    },
+    {
+      "line_id": "0321_viet_004",
+      "bbox": [
+        [
+          469,
+          979
+        ],
+        [
+          1150,
+          979
+        ],
+        [
+          1150,
+          1037
+        ],
+        [
+          469,
+          1037
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          1147
+        ],
+        [
+          1150,
+          1147
+        ],
+        [
+          1150,
+          1205
+        ],
+        [
+          469,
+          1205
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        979,
+        1150,
+        1037
+      ],
+      "text": "Khúc đâu lệ chây đám đìa",
+      "confidence": 0.8753
+    },
+    {
+      "line_id": "0321_viet_005",
+      "bbox": [
+        [
+          303,
+          1240
+        ],
+        [
+          1361,
+          1245
+        ],
+        [
+          1360,
+          1304
+        ],
+        [
+          302,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          303,
+          1408
+        ],
+        [
+          1361,
+          1413
+        ],
+        [
+          1360,
+          1472
+        ],
+        [
+          302,
+          1468
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        1240,
+        1361,
+        1304
+      ],
+      "text": "Khiên người nghe những đê mê xót thầm",
+      "confidence": 0.9119
+    },
+    {
+      "line_id": "0321_viet_006",
+      "bbox": [
+        [
+          364,
+          1503
+        ],
+        [
+          1226,
+          1506
+        ],
+        [
+          1225,
+          1566
+        ],
+        [
+          364,
+          1563
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1671
+        ],
+        [
+          1226,
+          1674
+        ],
+        [
+          1225,
+          1734
+        ],
+        [
+          364,
+          1731
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        1503,
+        1226,
+        1566
+      ],
+      "text": "Chợt nhớ lại bao năm chuyện cũ",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0321_viet_007",
+      "bbox": [
+        [
+          364,
+          1775
+        ],
+        [
+          1061,
+          1775
+        ],
+        [
+          1061,
+          1831
+        ],
+        [
+          364,
+          1831
+        ]
+      ],
+      "bbox_original": [
+        [
+          364,
+          1943
+        ],
+        [
+          1061,
+          1943
+        ],
+        [
+          1061,
+          1999
+        ],
+        [
+          364,
+          1999
+        ]
+      ],
+      "box_xyxy": [
+        364,
+        1775,
+        1061,
+        1831
+      ],
+      "text": "Từng bên ai vui thú hồ xưa",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0321_viet_008",
+      "bbox": [
+        [
+          471,
+          2043
+        ],
+        [
+          1234,
+          2046
+        ],
+        [
+          1233,
+          2104
+        ],
+        [
+          471,
+          2100
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          2211
+        ],
+        [
+          1234,
+          2214
+        ],
+        [
+          1233,
+          2272
+        ],
+        [
+          471,
+          2268
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        2043,
+        1234,
+        2104
+      ],
+      "text": "Thành tàn duyên cũng xác xơ",
+      "confidence": 0.9347
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Pav",
+      "Một nàng đầu tóc hình dung bơ phờ",
+      "Mình gầy võ mày thưa duyên nhạt",
+      "Ai biết Nàng oanh liệt xưa kia",
+      "Khúc đâu lệ chây đám đìa",
+      "Khiên người nghe những đê mê xót thầm",
+      "Chợt nhớ lại bao năm chuyện cũ",
+      "Từng bên ai vui thú hồ xưa",
+      "Thành tàn duyên cũng xác xơ"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      9.0,
+      222.0,
+      486.0,
+      746.5,
+      1008.0,
+      1272.0,
+      1534.5,
+      1803.0,
+      2073.5
+    ]
+  }
+}

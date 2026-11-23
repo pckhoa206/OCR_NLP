@@ -1,0 +1,1228 @@
+{
+  "page_id": "0754",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 754,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0754_viet_000",
+      "bbox": [
+        [
+          251,
+          0
+        ],
+        [
+          316,
+          0
+        ],
+        [
+          316,
+          27
+        ],
+        [
+          251,
+          27
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          215
+        ],
+        [
+          316,
+          215
+        ],
+        [
+          316,
+          242
+        ],
+        [
+          251,
+          242
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        0,
+        316,
+        27
+      ],
+      "text": "756",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0754_viet_001",
+      "bbox": [
+        [
+          859,
+          0
+        ],
+        [
+          1369,
+          0
+        ],
+        [
+          1369,
+          30
+        ],
+        [
+          859,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          859,
+          215
+        ],
+        [
+          1369,
+          215
+        ],
+        [
+          1369,
+          245
+        ],
+        [
+          859,
+          244
+        ]
+      ],
+      "box_xyxy": [
+        859,
+        0,
+        1369,
+        30
+      ],
+      "text": "1110:VAN:LYAN (1RAN (11)",
+      "confidence": 0.7914
+    },
+    {
+      "line_id": "0754_viet_002",
+      "bbox": [
+        [
+          856,
+          555
+        ],
+        [
+          1358,
+          555
+        ],
+        [
+          1358,
+          627
+        ],
+        [
+          856,
+          627
+        ]
+      ],
+      "bbox_original": [
+        [
+          856,
+          770
+        ],
+        [
+          1358,
+          770
+        ],
+        [
+          1358,
+          842
+        ],
+        [
+          856,
+          842
+        ]
+      ],
+      "box_xyxy": [
+        856,
+        555,
+        1358,
+        627
+      ],
+      "text": "NGUYỄN SƯỜNG",
+      "confidence": 0.9274
+    },
+    {
+      "line_id": "0754_viet_003",
+      "bbox": [
+        [
+          1030,
+          749
+        ],
+        [
+          1189,
+          749
+        ],
+        [
+          1189,
+          814
+        ],
+        [
+          1030,
+          814
+        ]
+      ],
+      "bbox_original": [
+        [
+          1030,
+          964
+        ],
+        [
+          1189,
+          964
+        ],
+        [
+          1189,
+          1029
+        ],
+        [
+          1030,
+          1029
+        ]
+      ],
+      "box_xyxy": [
+        1030,
+        749,
+        1189,
+        814
+      ],
+      "text": "(7 ? 2)",
+      "confidence": 0.8753
+    },
+    {
+      "line_id": "0754_viet_004",
+      "bbox": [
+        [
+          383,
+          948
+        ],
+        [
+          1967,
+          953
+        ],
+        [
+          1967,
+          1027
+        ],
+        [
+          383,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          383,
+          1163
+        ],
+        [
+          1967,
+          1168
+        ],
+        [
+          1967,
+          1242
+        ],
+        [
+          383,
+          1237
+        ]
+      ],
+      "box_xyxy": [
+        383,
+        948,
+        1967,
+        1027
+      ],
+      "text": "Ông biệu là Thích Liêu lễ % quê quản. năm sinh, năm mất đền chưa",
+      "confidence": 0.8075
+    },
+    {
+      "line_id": "0754_viet_005",
+      "bbox": [
+        [
+          1015,
+          1019
+        ],
+        [
+          1960,
+          1019
+        ],
+        [
+          1960,
+          1082
+        ],
+        [
+          1015,
+          1082
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1234
+        ],
+        [
+          1960,
+          1234
+        ],
+        [
+          1960,
+          1297
+        ],
+        [
+          1015,
+          1297
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1019,
+        1960,
+        1082
+      ],
+      "text": "Trần Quang Triều Pê X (1286 ? 1325).",
+      "confidence": 0.8639
+    },
+    {
+      "line_id": "0754_viet_006",
+      "bbox": [
+        [
+          1015,
+          1079
+        ],
+        [
+          1963,
+          1079
+        ],
+        [
+          1963,
+          1143
+        ],
+        [
+          1015,
+          1143
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1294
+        ],
+        [
+          1963,
+          1294
+        ],
+        [
+          1963,
+          1358
+        ],
+        [
+          1015,
+          1358
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1079,
+        1963,
+        1143
+      ],
+      "text": "Trung Ngận Hà 2 ? (1289 - 1368).. và",
+      "confidence": 0.7858
+    },
+    {
+      "line_id": "0754_viet_007",
+      "bbox": [
+        [
+          252,
+          1142
+        ],
+        [
+          845,
+          1142
+        ],
+        [
+          845,
+          1196
+        ],
+        [
+          252,
+          1196
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          1357
+        ],
+        [
+          845,
+          1357
+        ],
+        [
+          845,
+          1411
+        ],
+        [
+          252,
+          1411
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1142,
+        845,
+        1196
+      ],
+      "text": "mất sau Trần Quang Triều",
+      "confidence": 0.8792
+    },
+    {
+      "line_id": "0754_viet_008",
+      "bbox": [
+        [
+          380,
+          1218
+        ],
+        [
+          1962,
+          1221
+        ],
+        [
+          1962,
+          1279
+        ],
+        [
+          380,
+          1276
+        ]
+      ],
+      "bbox_original": [
+        [
+          380,
+          1433
+        ],
+        [
+          1962,
+          1436
+        ],
+        [
+          1962,
+          1494
+        ],
+        [
+          380,
+          1491
+        ]
+      ],
+      "box_xyxy": [
+        380,
+        1218,
+        1962,
+        1279
+      ],
+      "text": "Thơ văn của Nguyễn Sưởng cho thấy ông từng làm quan dựới triều Trần,",
+      "confidence": 0.9016
+    },
+    {
+      "line_id": "0754_viet_009",
+      "bbox": [
+        [
+          249,
+          1278
+        ],
+        [
+          1960,
+          1283
+        ],
+        [
+          1960,
+          1340
+        ],
+        [
+          249,
+          1335
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1493
+        ],
+        [
+          1960,
+          1498
+        ],
+        [
+          1960,
+          1555
+        ],
+        [
+          249,
+          1550
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1278,
+        1960,
+        1340
+      ],
+      "text": "nhưng triều chính lúc này đã sa sút, tình người đã đồi thay nên ông cũng có",
+      "confidence": 0.9238
+    },
+    {
+      "line_id": "0754_viet_010",
+      "bbox": [
+        [
+          250,
+          1340
+        ],
+        [
+          1959,
+          1341
+        ],
+        [
+          1959,
+          1395
+        ],
+        [
+          250,
+          1394
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1555
+        ],
+        [
+          1959,
+          1556
+        ],
+        [
+          1959,
+          1610
+        ],
+        [
+          250,
+          1609
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1340,
+        1959,
+        1395
+      ],
+      "text": "tàm trạng như một số người cùng thời: chán công danh, ưa ở àn, vui với",
+      "confidence": 0.9067
+    },
+    {
+      "line_id": "0754_viet_011",
+      "bbox": [
+        [
+          244,
+          1389
+        ],
+        [
+          1964,
+          1395
+        ],
+        [
+          1964,
+          1463
+        ],
+        [
+          244,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1604
+        ],
+        [
+          1964,
+          1610
+        ],
+        [
+          1964,
+          1678
+        ],
+        [
+          244,
+          1672
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1389,
+        1964,
+        1463
+      ],
+      "text": "bần bạn và thiên nhiên. Ông tham gia thi xã Bích-động 22...4 do.Trần Quang",
+      "confidence": 0.8517
+    },
+    {
+      "line_id": "0754_viet_012",
+      "bbox": [
+        [
+          248,
+          1458
+        ],
+        [
+          1960,
+          1462
+        ],
+        [
+          1960,
+          1519
+        ],
+        [
+          248,
+          1515
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1673
+        ],
+        [
+          1960,
+          1677
+        ],
+        [
+          1960,
+          1734
+        ],
+        [
+          248,
+          1730
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1458,
+        1960,
+        1519
+      ],
+      "text": "Triều sáng lập. Trong số bạn thơ cùng thi xã. Trần Quang Triều là người trí",
+      "confidence": 0.9089
+    },
+    {
+      "line_id": "0754_viet_013",
+      "bbox": [
+        [
+          249,
+          1517
+        ],
+        [
+          1960,
+          1521
+        ],
+        [
+          1960,
+          1578
+        ],
+        [
+          249,
+          1574
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1732
+        ],
+        [
+          1960,
+          1736
+        ],
+        [
+          1960,
+          1793
+        ],
+        [
+          249,
+          1789
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1517,
+        1960,
+        1578
+      ],
+      "text": "kỷ được nguyễn Sưởng đánh giả cao, kinh, trọng và, yêu mến, phất: 16 bài thơ",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0754_viet_014",
+      "bbox": [
+        [
+          249,
+          1577
+        ],
+        [
+          1957,
+          1579
+        ],
+        [
+          1957,
+          1634
+        ],
+        [
+          249,
+          1632
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1792
+        ],
+        [
+          1957,
+          1794
+        ],
+        [
+          1957,
+          1849
+        ],
+        [
+          249,
+          1847
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1577,
+        1957,
+        1634
+      ],
+      "text": "còn lại của ông đã có đến 3 bài dành cho Trần Quang Triều. Cái: chết của",
+      "confidence": 0.887
+    },
+    {
+      "line_id": "0754_viet_015",
+      "bbox": [
+        [
+          246,
+          1636
+        ],
+        [
+          1958,
+          1640
+        ],
+        [
+          1958,
+          1697
+        ],
+        [
+          246,
+          1693
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1851
+        ],
+        [
+          1958,
+          1855
+        ],
+        [
+          1958,
+          1912
+        ],
+        [
+          246,
+          1908
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1636,
+        1958,
+        1697
+      ],
+      "text": "người hạn này đối với Nguyễn Sưởng là một mất mát lớn và theo ông đó cũng",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0754_viet_016",
+      "bbox": [
+        [
+          246,
+          1695
+        ],
+        [
+          1957,
+          1702
+        ],
+        [
+          1957,
+          1756
+        ],
+        [
+          246,
+          1749
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1910
+        ],
+        [
+          1957,
+          1917
+        ],
+        [
+          1957,
+          1971
+        ],
+        [
+          246,
+          1964
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1695,
+        1957,
+        1756
+      ],
+      "text": "là một tồn thất lớn cho triều đỉnh. cho dân chúng, Từ sau đó. Nguyễn Sưởng",
+      "confidence": 0.8948
+    },
+    {
+      "line_id": "0754_viet_017",
+      "bbox": [
+        [
+          248,
+          1755
+        ],
+        [
+          1956,
+          1760
+        ],
+        [
+          1956,
+          1814
+        ],
+        [
+          248,
+          1809
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1970
+        ],
+        [
+          1956,
+          1975
+        ],
+        [
+          1956,
+          2029
+        ],
+        [
+          248,
+          2024
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1755,
+        1956,
+        1814
+      ],
+      "text": "luy vẫn có hạn tàm giao là các nhà sư hoặc đồng liêu cù, nhưng không có ai",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0754_viet_018",
+      "bbox": [
+        [
+          247,
+          1814
+        ],
+        [
+          885,
+          1817
+        ],
+        [
+          885,
+          1870
+        ],
+        [
+          247,
+          1867
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          2029
+        ],
+        [
+          885,
+          2032
+        ],
+        [
+          885,
+          2085
+        ],
+        [
+          247,
+          2082
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1814,
+        885,
+        1870
+      ],
+      "text": "được như trần quang triên",
+      "confidence": 0.8778
+    },
+    {
+      "line_id": "0754_viet_019",
+      "bbox": [
+        [
+          379,
+          1892
+        ],
+        [
+          1961,
+          1896
+        ],
+        [
+          1961,
+          1954
+        ],
+        [
+          379,
+          1949
+        ]
+      ],
+      "bbox_original": [
+        [
+          379,
+          2107
+        ],
+        [
+          1961,
+          2111
+        ],
+        [
+          1961,
+          2169
+        ],
+        [
+          379,
+          2164
+        ]
+      ],
+      "box_xyxy": [
+        379,
+        1892,
+        1961,
+        1954
+      ],
+      "text": "Trong thơ, Nguyễn Sưởng rất ít nói vè, mình, tuy vậy cũng thấy được",
+      "confidence": 0.8749
+    },
+    {
+      "line_id": "0754_viet_020",
+      "bbox": [
+        [
+          247,
+          1951
+        ],
+        [
+          1953,
+          1957
+        ],
+        [
+          1953,
+          2013
+        ],
+        [
+          247,
+          2008
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          2166
+        ],
+        [
+          1953,
+          2172
+        ],
+        [
+          1953,
+          2228
+        ],
+        [
+          247,
+          2223
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1951,
+        1953,
+        2013
+      ],
+      "text": "ông là người sống trong sạch, thanh bạch, không hon chen như thói đời. Ngoài",
+      "confidence": 0.8999
+    },
+    {
+      "line_id": "0754_viet_021",
+      "bbox": [
+        [
+          244,
+          2011
+        ],
+        [
+          1953,
+          2016
+        ],
+        [
+          1953,
+          2070
+        ],
+        [
+          244,
+          2065
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2226
+        ],
+        [
+          1953,
+          2231
+        ],
+        [
+          1953,
+          2285
+        ],
+        [
+          244,
+          2280
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        2011,
+        1953,
+        2070
+      ],
+      "text": "các bạn thân ra, ông dành nhiều tinh cảm: cho thiên nhiên. Thư thiên nhiên",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0754_viet_022",
+      "bbox": [
+        [
+          242,
+          2069
+        ],
+        [
+          1955,
+          2076
+        ],
+        [
+          1955,
+          2133
+        ],
+        [
+          242,
+          2126
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2284
+        ],
+        [
+          1955,
+          2291
+        ],
+        [
+          1955,
+          2348
+        ],
+        [
+          242,
+          2341
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        2069,
+        1955,
+        2133
+      ],
+      "text": "của Nguyễn Sưởng giấn dị, trong \"sáng, giãu tỉnh cảm và trau chuốt, Đó cũng",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0754_viet_023",
+      "bbox": [
+        [
+          242,
+          2128
+        ],
+        [
+          1946,
+          2135
+        ],
+        [
+          1946,
+          2189
+        ],
+        [
+          242,
+          2182
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          2343
+        ],
+        [
+          1946,
+          2350
+        ],
+        [
+          1946,
+          2404
+        ],
+        [
+          242,
+          2397
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        2128,
+        1946,
+        2189
+      ],
+      "text": "là những đặc điểm của thơ đời Trần nói chung, của thi xã Bich-động hồi riêng.",
+      "confidence": 0.8989
+    },
+    {
+      "line_id": "0754_viet_024",
+      "bbox": [
+        [
+          374,
+          2206
+        ],
+        [
+          1532,
+          2204
+        ],
+        [
+          1532,
+          2268
+        ],
+        [
+          374,
+          2270
+        ]
+      ],
+      "bbox_original": [
+        [
+          374,
+          2421
+        ],
+        [
+          1532,
+          2419
+        ],
+        [
+          1532,
+          2483
+        ],
+        [
+          374,
+          2485
+        ]
+      ],
+      "box_xyxy": [
+        374,
+        2204,
+        1532,
+        2270
+      ],
+      "text": "Tác phầm: còn lại 16 bài thơ trong vàiT và TVTL.",
+      "confidence": 0.8888
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "756",
+      "1110:VAN:LYAN (1RAN (11)",
+      "NGUYỄN SƯỜNG",
+      "(7 ? 2)",
+      "Ông biệu là Thích Liêu lễ % quê quản. năm sinh, năm mất đền chưa",
+      "Trần Quang Triều Pê X (1286 ? 1325).",
+      "Trung Ngận Hà 2 ? (1289 - 1368).. và",
+      "mất sau Trần Quang Triều",
+      "Thơ văn của Nguyễn Sưởng cho thấy ông từng làm quan dựới triều Trần,",
+      "nhưng triều chính lúc này đã sa sút, tình người đã đồi thay nên ông cũng có",
+      "tàm trạng như một số người cùng thời: chán công danh, ưa ở àn, vui với",
+      "bần bạn và thiên nhiên. Ông tham gia thi xã Bích-động 22...4 do.Trần Quang",
+      "Triều sáng lập. Trong số bạn thơ cùng thi xã. Trần Quang Triều là người trí",
+      "kỷ được nguyễn Sưởng đánh giả cao, kinh, trọng và, yêu mến, phất: 16 bài thơ",
+      "còn lại của ông đã có đến 3 bài dành cho Trần Quang Triều. Cái: chết của",
+      "người hạn này đối với Nguyễn Sưởng là một mất mát lớn và theo ông đó cũng",
+      "là một tồn thất lớn cho triều đỉnh. cho dân chúng, Từ sau đó. Nguyễn Sưởng",
+      "luy vẫn có hạn tàm giao là các nhà sư hoặc đồng liêu cù, nhưng không có ai",
+      "được như trần quang triên",
+      "Trong thơ, Nguyễn Sưởng rất ít nói vè, mình, tuy vậy cũng thấy được",
+      "ông là người sống trong sạch, thanh bạch, không hon chen như thói đời. Ngoài",
+      "các bạn thân ra, ông dành nhiều tinh cảm: cho thiên nhiên. Thư thiên nhiên",
+      "của Nguyễn Sưởng giấn dị, trong \"sáng, giãu tỉnh cảm và trau chuốt, Đó cũng",
+      "là những đặc điểm của thơ đời Trần nói chung, của thi xã Bich-động hồi riêng.",
+      "Tác phầm: còn lại 16 bài thơ trong vàiT và TVTL."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

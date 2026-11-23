@@ -1,0 +1,405 @@
+{
+  "page_id": "0340",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 340,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0340_han_000",
+      "bbox": [
+        [
+          485,
+          80
+        ],
+        [
+          1188,
+          82
+        ],
+        [
+          1188,
+          157
+        ],
+        [
+          485,
+          154
+        ]
+      ],
+      "bbox_original": [
+        [
+          485,
+          248
+        ],
+        [
+          1188,
+          250
+        ],
+        [
+          1188,
+          325
+        ],
+        [
+          485,
+          322
+        ]
+      ],
+      "box_xyxy": [
+        485,
+        80,
+        1188,
+        157
+      ],
+      "text": "片孤雲帶曉浮空",
+      "confidence": 0.9534
+    },
+    {
+      "line_id": "0340_han_001",
+      "bbox": [
+        [
+          473,
+          365
+        ],
+        [
+          1088,
+          365
+        ],
+        [
+          1088,
+          449
+        ],
+        [
+          473,
+          449
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          533
+        ],
+        [
+          1088,
+          533
+        ],
+        [
+          1088,
+          617
+        ],
+        [
+          473,
+          617
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        365,
+        1088,
+        449
+      ],
+      "text": "鄉心梟梟如蓬",
+      "confidence": 0.9854
+    },
+    {
+      "line_id": "0340_han_002",
+      "bbox": [
+        [
+          472,
+          660
+        ],
+        [
+          1294,
+          660
+        ],
+        [
+          1294,
+          737
+        ],
+        [
+          472,
+          737
+        ]
+      ],
+      "bbox_original": [
+        [
+          472,
+          828
+        ],
+        [
+          1294,
+          828
+        ],
+        [
+          1294,
+          905
+        ],
+        [
+          472,
+          905
+        ]
+      ],
+      "box_xyxy": [
+        472,
+        660,
+        1294,
+        737
+      ],
+      "text": "隨雲忽己過重重山",
+      "confidence": 0.9808
+    },
+    {
+      "line_id": "0340_han_003",
+      "bbox": [
+        [
+          471,
+          948
+        ],
+        [
+          1182,
+          946
+        ],
+        [
+          1182,
+          1021
+        ],
+        [
+          471,
+          1023
+        ]
+      ],
+      "bbox_original": [
+        [
+          471,
+          1116
+        ],
+        [
+          1182,
+          1114
+        ],
+        [
+          1182,
+          1189
+        ],
+        [
+          471,
+          1191
+        ]
+      ],
+      "box_xyxy": [
+        471,
+        946,
+        1182,
+        1023
+      ],
+      "text": "何處是鄉閣雁信",
+      "confidence": 0.9307
+    },
+    {
+      "line_id": "0340_han_004",
+      "bbox": [
+        [
+          470,
+          1239
+        ],
+        [
+          1180,
+          1239
+        ],
+        [
+          1180,
+          1316
+        ],
+        [
+          470,
+          1316
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1407
+        ],
+        [
+          1180,
+          1407
+        ],
+        [
+          1180,
+          1484
+        ],
+        [
+          470,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1239,
+        1180,
+        1316
+      ],
+      "text": "悠哉難寓盡心情",
+      "confidence": 0.9957
+    },
+    {
+      "line_id": "0340_han_005",
+      "bbox": [
+        [
+          470,
+          1531
+        ],
+        [
+          1074,
+          1531
+        ],
+        [
+          1074,
+          1609
+        ],
+        [
+          470,
+          1609
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1699
+        ],
+        [
+          1074,
+          1699
+        ],
+        [
+          1074,
+          1777
+        ],
+        [
+          470,
+          1777
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1531,
+        1074,
+        1609
+      ],
+      "text": "夜聞妙諦鐘聲",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0340_han_006",
+      "bbox": [
+        [
+          459,
+          1826
+        ],
+        [
+          1284,
+          1821
+        ],
+        [
+          1284,
+          1899
+        ],
+        [
+          459,
+          1903
+        ]
+      ],
+      "bbox_original": [
+        [
+          459,
+          1994
+        ],
+        [
+          1284,
+          1989
+        ],
+        [
+          1284,
+          2067
+        ],
+        [
+          459,
+          2071
+        ]
+      ],
+      "box_xyxy": [
+        459,
+        1821,
+        1284,
+        1903
+      ],
+      "text": "海門鼓響御城砲催",
+      "confidence": 0.9963
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "片孤雲帶曉浮空",
+      "鄉心梟梟如蓬",
+      "隨雲忽己過重重山",
+      "何處是鄉閣雁信",
+      "悠哉難寓盡心情",
+      "夜聞妙諦鐘聲",
+      "海門鼓響御城砲催"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "片孤雲帶曉浮空",
+        "phien_am": "Phiên cô-vân đái hiều phù không",
+        "dich_nghia_gloss": "- Một làn mây cô, đeo ánh rạng đông nổi lên giữa trời."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "鄉心梟梟如蓬",
+        "phien_am": "Hương-tâm niều-niều như bồng,",
+        "dich_nghia_gloss": "- Lòng quê bòi rồi như dây bòng bong."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "隨雲忽己過重重山",
+        "phien_am": "Tùy vân hốt dĩ quá trùng-trùng san",
+        "dich_nghia_gloss": "- Theo làn mây ây chợt đã bay qua lớp lớp non xanh."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "何處是鄉閣雁信",
+        "phien_am": "Hà xứ thị hương-quan nhạn tín",
+        "dich_nghia_gloss": "- Tin nhạn ở quê làng nào thầy phương nào đâu ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "悠哉難寓盡心情",
+        "phien_am": "Du tai nan tả tận tâm tình",
+        "dich_nghia_gloss": "- Dài theo tầm này, khó tả cho xiết được"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "夜聞妙諦鐘聲",
+        "phien_am": "Dạ văn Diệu-đẽ chung thanh",
+        "dich_nghia_gloss": "- Đêm buồn nghe tiêng chuông chùa Diệu-đề."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "海門鼓響御城砲催",
+        "phien_am": "Hải môn cồ hưởng ngự-thành pháo thôi.",
+        "dich_nghia_gloss": "Tiếng trông canh ngoài cửa bề, tiêng súng nó trên mặt thành."
+      }
+    ]
+  }
+}

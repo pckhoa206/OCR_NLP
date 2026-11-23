@@ -1,0 +1,839 @@
+{
+  "page_id": "0336",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 336,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0336_viet_000",
+      "bbox": [
+        [
+          298,
+          160
+        ],
+        [
+          1436,
+          163
+        ],
+        [
+          1436,
+          231
+        ],
+        [
+          297,
+          228
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          328
+        ],
+        [
+          1436,
+          331
+        ],
+        [
+          1436,
+          399
+        ],
+        [
+          297,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        160,
+        1436,
+        231
+      ],
+      "text": "Phong dao đinh trúc, nguyệt huyền ốc lương.",
+      "confidence": 0.9174
+    },
+    {
+      "line_id": "0336_viet_001",
+      "bbox": [
+        [
+          207,
+          242
+        ],
+        [
+          1442,
+          245
+        ],
+        [
+          1442,
+          309
+        ],
+        [
+          207,
+          306
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          410
+        ],
+        [
+          1442,
+          413
+        ],
+        [
+          1442,
+          477
+        ],
+        [
+          207,
+          474
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        242,
+        1442,
+        309
+      ],
+      "text": "- (Ngồi nhìn) gió lay cành trúc trước thêm, và mảnh",
+      "confidence": 0.9171
+    },
+    {
+      "line_id": "0336_viet_002",
+      "bbox": [
+        [
+          208,
+          316
+        ],
+        [
+          792,
+          316
+        ],
+        [
+          792,
+          377
+        ],
+        [
+          208,
+          377
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          484
+        ],
+        [
+          792,
+          484
+        ],
+        [
+          792,
+          545
+        ],
+        [
+          208,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        316,
+        792,
+        377
+      ],
+      "text": "trăng treo trên tường nhà",
+      "confidence": 0.9348
+    },
+    {
+      "line_id": "0336_viet_003",
+      "bbox": [
+        [
+          298,
+          507
+        ],
+        [
+          989,
+          511
+        ],
+        [
+          988,
+          576
+        ],
+        [
+          297,
+          572
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          675
+        ],
+        [
+          989,
+          679
+        ],
+        [
+          988,
+          744
+        ],
+        [
+          297,
+          740
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        507,
+        989,
+        576
+      ],
+      "text": "Bất thị tõ hà lang đầu bút",
+      "confidence": 0.9076
+    },
+    {
+      "line_id": "0336_viet_004",
+      "bbox": [
+        [
+          209,
+          591
+        ],
+        [
+          1395,
+          591
+        ],
+        [
+          1395,
+          655
+        ],
+        [
+          209,
+          655
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          759
+        ],
+        [
+          1395,
+          759
+        ],
+        [
+          1395,
+          823
+        ],
+        [
+          209,
+          823
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        591,
+        1395,
+        655
+      ],
+      "text": "- Nghĩ mình chẳng phải như ai, vứt bút viết thuê.",
+      "confidence": 0.9026
+    },
+    {
+      "line_id": "0336_viet_005",
+      "bbox": [
+        [
+          297,
+          788
+        ],
+        [
+          1222,
+          792
+        ],
+        [
+          1221,
+          856
+        ],
+        [
+          296,
+          852
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          956
+        ],
+        [
+          1222,
+          960
+        ],
+        [
+          1221,
+          1024
+        ],
+        [
+          296,
+          1020
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        788,
+        1222,
+        856
+      ],
+      "text": "Tương trung can vị quốc tùng quân",
+      "confidence": 0.8463
+    },
+    {
+      "line_id": "0336_viet_006",
+      "bbox": [
+        [
+          205,
+          869
+        ],
+        [
+          1064,
+          872
+        ],
+        [
+          1064,
+          936
+        ],
+        [
+          205,
+          933
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1037
+        ],
+        [
+          1064,
+          1040
+        ],
+        [
+          1064,
+          1104
+        ],
+        [
+          205,
+          1101
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        869,
+        1064,
+        936
+      ],
+      "text": "- Đem lí gan trung-liệt ra đầu-quân.",
+      "confidence": 0.9035
+    },
+    {
+      "line_id": "0336_viet_007",
+      "bbox": [
+        [
+          296,
+          1066
+        ],
+        [
+          1126,
+          1071
+        ],
+        [
+          1125,
+          1132
+        ],
+        [
+          295,
+          1127
+        ]
+      ],
+      "bbox_original": [
+        [
+          296,
+          1234
+        ],
+        [
+          1126,
+          1239
+        ],
+        [
+          1125,
+          1300
+        ],
+        [
+          295,
+          1295
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1066,
+        1126,
+        1132
+      ],
+      "text": "Thử thân không tự phong trần",
+      "confidence": 0.9299
+    },
+    {
+      "line_id": "0336_viet_008",
+      "bbox": [
+        [
+          204,
+          1146
+        ],
+        [
+          1438,
+          1151
+        ],
+        [
+          1438,
+          1215
+        ],
+        [
+          204,
+          1210
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          1314
+        ],
+        [
+          1438,
+          1319
+        ],
+        [
+          1438,
+          1383
+        ],
+        [
+          204,
+          1378
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        1146,
+        1438,
+        1215
+      ],
+      "text": "- Cái thân này luông vì số phong-trần mà xui ra vậy.",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0336_viet_009",
+      "bbox": [
+        [
+          295,
+          1346
+        ],
+        [
+          1239,
+          1346
+        ],
+        [
+          1239,
+          1410
+        ],
+        [
+          295,
+          1410
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1514
+        ],
+        [
+          1239,
+          1514
+        ],
+        [
+          1239,
+          1578
+        ],
+        [
+          295,
+          1578
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1346,
+        1239,
+        1410
+      ],
+      "text": "Tọa trung hư thị, tầm thần đồ văn",
+      "confidence": 0.9351
+    },
+    {
+      "line_id": "0336_viet_010",
+      "bbox": [
+        [
+          205,
+          1425
+        ],
+        [
+          1437,
+          1429
+        ],
+        [
+          1437,
+          1493
+        ],
+        [
+          205,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1593
+        ],
+        [
+          1437,
+          1597
+        ],
+        [
+          1437,
+          1661
+        ],
+        [
+          205,
+          1657
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1425,
+        1437,
+        1493
+      ],
+      "text": "- Trong chỗ ngối luông xem (mà thẹn), trong lúc nằm,",
+      "confidence": 0.9155
+    },
+    {
+      "line_id": "0336_viet_011",
+      "bbox": [
+        [
+          202,
+          1497
+        ],
+        [
+          733,
+          1499
+        ],
+        [
+          733,
+          1560
+        ],
+        [
+          202,
+          1558
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          1665
+        ],
+        [
+          733,
+          1667
+        ],
+        [
+          733,
+          1728
+        ],
+        [
+          202,
+          1726
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        1497,
+        733,
+        1560
+      ],
+      "text": "luông nghe (mà buôn)",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0336_viet_012",
+      "bbox": [
+        [
+          310,
+          1695
+        ],
+        [
+          1118,
+          1695
+        ],
+        [
+          1118,
+          1759
+        ],
+        [
+          310,
+          1759
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          1863
+        ],
+        [
+          1118,
+          1863
+        ],
+        [
+          1118,
+          1927
+        ],
+        [
+          310,
+          1927
+        ]
+      ],
+      "box_xyxy": [
+        310,
+        1695,
+        1118,
+        1759
+      ],
+      "text": "Bất thị tõ hà nhân phủng hịch",
+      "confidence": 0.9066
+    },
+    {
+      "line_id": "0336_viet_013",
+      "bbox": [
+        [
+          207,
+          1781
+        ],
+        [
+          1282,
+          1775
+        ],
+        [
+          1282,
+          1848
+        ],
+        [
+          208,
+          1854
+        ]
+      ],
+      "bbox_original": [
+        [
+          207,
+          1949
+        ],
+        [
+          1282,
+          1943
+        ],
+        [
+          1282,
+          2016
+        ],
+        [
+          208,
+          2022
+        ]
+      ],
+      "box_xyxy": [
+        207,
+        1775,
+        1282,
+        1854
+      ],
+      "text": "- Chảng phải làm như người nọ vâng tờ hịch.",
+      "confidence": 0.9098
+    },
+    {
+      "line_id": "0336_viet_014",
+      "bbox": [
+        [
+          310,
+          1982
+        ],
+        [
+          1227,
+          1985
+        ],
+        [
+          1226,
+          2046
+        ],
+        [
+          309,
+          2043
+        ]
+      ],
+      "bbox_original": [
+        [
+          310,
+          2150
+        ],
+        [
+          1227,
+          2153
+        ],
+        [
+          1226,
+          2214
+        ],
+        [
+          309,
+          2211
+        ]
+      ],
+      "box_xyxy": [
+        309,
+        1982,
+        1227,
+        2046
+      ],
+      "text": "Tương hiếu tâm ly thích lùng quan",
+      "confidence": 0.919
+    },
+    {
+      "line_id": "0336_viet_015",
+      "bbox": [
+        [
+          204,
+          2069
+        ],
+        [
+          1388,
+          2069
+        ],
+        [
+          1388,
+          2135
+        ],
+        [
+          204,
+          2135
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          2237
+        ],
+        [
+          1388,
+          2237
+        ],
+        [
+          1388,
+          2303
+        ],
+        [
+          204,
+          2303
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        2069,
+        1388,
+        2135
+      ],
+      "text": "Vì lòng hiêu mà phải tìr-giã bà con đi làm quan",
+      "confidence": 0.8958
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Phong dao đinh trúc, nguyệt huyền ốc lương.",
+      "Bất thị tõ hà lang đầu bút",
+      "Tương trung can vị quốc tùng quân",
+      "Thử thân không tự phong trần",
+      "Tọa trung hư thị, tầm thần đồ văn",
+      "Bất thị tõ hà nhân phủng hịch",
+      "Tương hiếu tâm ly thích lùng quan"
+    ],
+    "dich_nghia_lines": [
+      "- (Ngồi nhìn) gió lay cành trúc trước thêm, và mảnh trăng treo trên tường nhà",
+      "- Nghĩ mình chẳng phải như ai, vứt bút viết thuê.",
+      "- Đem lí gan trung-liệt ra đầu-quân.",
+      "- Cái thân này luông vì số phong-trần mà xui ra vậy.",
+      "- Trong chỗ ngối luông xem (mà thẹn), trong lúc nằm, luông nghe (mà buôn)",
+      "- Chảng phải làm như người nọ vâng tờ hịch.",
+      "Vì lòng hiêu mà phải tìr-giã bà con đi làm quan"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "風摇庭竹月懸屋樑",
+        "phien_am": "Phong dao đinh trúc, nguyệt huyền ốc lương.",
+        "dich_nghia_gloss": "- (Ngồi nhìn) gió lay cành trúc trước thêm, và mảnh trăng treo trên tường nhà"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "不是做何郎投筆",
+        "phien_am": "Bất thị tõ hà lang đầu bút",
+        "dich_nghia_gloss": "- Nghĩ mình chẳng phải như ai, vứt bút viết thuê."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "將忠肝為國從軍",
+        "phien_am": "Tương trung can vị quốc tùng quân",
+        "dich_nghia_gloss": "- Đem lí gan trung-liệt ra đầu-quân."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "此身空自風塵",
+        "phien_am": "Thử thân không tự phong trần",
+        "dich_nghia_gloss": "- Cái thân này luông vì số phong-trần mà xui ra vậy."
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "坐中虚視寝辰徒聞",
+        "phien_am": "Tọa trung hư thị, tầm thần đồ văn",
+        "dich_nghia_gloss": "- Trong chỗ ngối luông xem (mà thẹn), trong lúc nằm, luông nghe (mà buôn)"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "不是做何人捧檄",
+        "phien_am": "Bất thị tõ hà nhân phủng hịch",
+        "dich_nghia_gloss": "- Chảng phải làm như người nọ vâng tờ hịch."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "將孝心離戚從官",
+        "phien_am": "Tương hiếu tâm ly thích lùng quan",
+        "dich_nghia_gloss": "Vì lòng hiêu mà phải tìr-giã bà con đi làm quan"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

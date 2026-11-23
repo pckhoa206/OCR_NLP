@@ -1,0 +1,603 @@
+{
+  "page_id": "0533",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 533,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0533_viet_000",
+      "bbox": [
+        [
+          189,
+          1146
+        ],
+        [
+          415,
+          1148
+        ],
+        [
+          415,
+          1200
+        ],
+        [
+          189,
+          1198
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          1305
+        ],
+        [
+          415,
+          1307
+        ],
+        [
+          415,
+          1359
+        ],
+        [
+          189,
+          1357
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        1146,
+        415,
+        1200
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0533_viet_001",
+      "bbox": [
+        [
+          530,
+          1209
+        ],
+        [
+          1030,
+          1209
+        ],
+        [
+          1030,
+          1264
+        ],
+        [
+          530,
+          1264
+        ]
+      ],
+      "bbox_original": [
+        [
+          530,
+          1368
+        ],
+        [
+          1030,
+          1368
+        ],
+        [
+          1030,
+          1423
+        ],
+        [
+          530,
+          1423
+        ]
+      ],
+      "box_xyxy": [
+        530,
+        1209,
+        1030,
+        1264
+      ],
+      "text": "ĐÁP CHIẾU TRÁP TỬ",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0533_viet_002",
+      "bbox": [
+        [
+          190,
+          1272
+        ],
+        [
+          1454,
+          1279
+        ],
+        [
+          1453,
+          1344
+        ],
+        [
+          190,
+          1336
+        ]
+      ],
+      "bbox_original": [
+        [
+          190,
+          1431
+        ],
+        [
+          1454,
+          1438
+        ],
+        [
+          1453,
+          1503
+        ],
+        [
+          190,
+          1495
+        ]
+      ],
+      "box_xyxy": [
+        190,
+        1272,
+        1454,
+        1344
+      ],
+      "text": "Tấu: thần kinh tiến Luận thi từ hợp nhạc sớ, ư ?Thần thường",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0533_viet_003",
+      "bbox": [
+        [
+          109,
+          1338
+        ],
+        [
+          1450,
+          1339
+        ],
+        [
+          1450,
+          1398
+        ],
+        [
+          109,
+          1397
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          1497
+        ],
+        [
+          1450,
+          1498
+        ],
+        [
+          1450,
+          1557
+        ],
+        [
+          109,
+          1556
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        1338,
+        1450,
+        1398
+      ],
+      "text": "thụ nghiệp vu lễ thần cố Thân Văn Quyền dữ thần huynh cố miên",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0533_viet_004",
+      "bbox": [
+        [
+          109,
+          1396
+        ],
+        [
+          1451,
+          1402
+        ],
+        [
+          1450,
+          1463
+        ],
+        [
+          109,
+          1457
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          1555
+        ],
+        [
+          1451,
+          1561
+        ],
+        [
+          1450,
+          1622
+        ],
+        [
+          109,
+          1616
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        1396,
+        1451,
+        1463
+      ],
+      "text": "Thẩm, nãi tri Cung Thương hữu nhất định chi thanh? cú, bàng",
+      "confidence": 0.9196
+    },
+    {
+      "line_id": "0533_viet_005",
+      "bbox": [
+        [
+          109,
+          1462
+        ],
+        [
+          446,
+          1462
+        ],
+        [
+          446,
+          1517
+        ],
+        [
+          109,
+          1517
+        ]
+      ],
+      "bbox_original": [
+        [
+          109,
+          1621
+        ],
+        [
+          446,
+          1621
+        ],
+        [
+          446,
+          1676
+        ],
+        [
+          109,
+          1676
+        ]
+      ],
+      "box_xyxy": [
+        109,
+        1462,
+        446,
+        1517
+      ],
+      "text": "phụng châu phê:",
+      "confidence": 0.9347
+    },
+    {
+      "line_id": "0533_viet_006",
+      "bbox": [
+        [
+          189,
+          1524
+        ],
+        [
+          1450,
+          1528
+        ],
+        [
+          1450,
+          1585
+        ],
+        [
+          189,
+          1581
+        ]
+      ],
+      "bbox_original": [
+        [
+          189,
+          1683
+        ],
+        [
+          1450,
+          1687
+        ],
+        [
+          1450,
+          1744
+        ],
+        [
+          189,
+          1740
+        ]
+      ],
+      "box_xyxy": [
+        189,
+        1524,
+        1450,
+        1585
+      ],
+      "text": "- Thân Văn Quyền học lực văn tài như hà, Phan Thanh Giản",
+      "confidence": 0.8564
+    },
+    {
+      "line_id": "0533_viet_007",
+      "bbox": [
+        [
+          106,
+          1581
+        ],
+        [
+          1452,
+          1585
+        ],
+        [
+          1452,
+          1650
+        ],
+        [
+          106,
+          1645
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          1740
+        ],
+        [
+          1452,
+          1744
+        ],
+        [
+          1452,
+          1809
+        ],
+        [
+          106,
+          1804
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        1581,
+        1452,
+        1650
+      ],
+      "text": "thắng phủ? Vương tự quả giao, nhiên kiến tích nhân dữ kim nhân",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0533_viet_008",
+      "bbox": [
+        [
+          105,
+          1643
+        ],
+        [
+          1447,
+          1645
+        ],
+        [
+          1447,
+          1704
+        ],
+        [
+          105,
+          1702
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1802
+        ],
+        [
+          1447,
+          1804
+        ],
+        [
+          1447,
+          1863
+        ],
+        [
+          105,
+          1861
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1643,
+        1447,
+        1704
+      ],
+      "text": "hà giả vi tối? Nhị vương học thậm uyên bác, hữu bản ngã quốc",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0533_viet_009",
+      "bbox": [
+        [
+          106,
+          1702
+        ],
+        [
+          1450,
+          1705
+        ],
+        [
+          1450,
+          1762
+        ],
+        [
+          106,
+          1759
+        ]
+      ],
+      "bbox_original": [
+        [
+          106,
+          1861
+        ],
+        [
+          1450,
+          1864
+        ],
+        [
+          1450,
+          1921
+        ],
+        [
+          106,
+          1918
+        ]
+      ],
+      "box_xyxy": [
+        106,
+        1702,
+        1450,
+        1762
+      ],
+      "text": "chư nho thần tự nan xi Nhưng nhiên dư dĩ ý thiển khuy, tự các",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0533_viet_010",
+      "bbox": [
+        [
+          105,
+          1763
+        ],
+        [
+          1450,
+          1764
+        ],
+        [
+          1450,
+          1818
+        ],
+        [
+          105,
+          1817
+        ]
+      ],
+      "bbox_original": [
+        [
+          105,
+          1922
+        ],
+        [
+          1450,
+          1923
+        ],
+        [
+          1450,
+          1977
+        ],
+        [
+          105,
+          1976
+        ]
+      ],
+      "box_xyxy": [
+        105,
+        1763,
+        1450,
+        1818
+      ],
+      "text": "hữu trường tòng công ư thi từ, vương tác tinh vu kinh văn, vị tri",
+      "confidence": 0.9336
+    },
+    {
+      "line_id": "0533_viet_011",
+      "bbox": [
+        [
+          103,
+          1962
+        ],
+        [
+          196,
+          1962
+        ],
+        [
+          196,
+          2023
+        ],
+        [
+          103,
+          2023
+        ]
+      ],
+      "bbox_original": [
+        [
+          103,
+          2121
+        ],
+        [
+          196,
+          2121
+        ],
+        [
+          196,
+          2182
+        ],
+        [
+          103,
+          2182
+        ]
+      ],
+      "box_xyxy": [
+        103,
+        1962,
+        196,
+        2023
+      ],
+      "text": "526",
+      "confidence": 0.9231
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "ĐÁP CHIẾU TRÁP TỬ",
+      "Tấu: thần kinh tiến Luận thi từ hợp nhạc sớ, ư ?Thần thường",
+      "thụ nghiệp vu lễ thần cố Thân Văn Quyền dữ thần huynh cố miên",
+      "Thẩm, nãi tri Cung Thương hữu nhất định chi thanh? cú, bàng",
+      "phụng châu phê:",
+      "- Thân Văn Quyền học lực văn tài như hà, Phan Thanh Giản",
+      "thắng phủ? Vương tự quả giao, nhiên kiến tích nhân dữ kim nhân",
+      "hà giả vi tối? Nhị vương học thậm uyên bác, hữu bản ngã quốc",
+      "chư nho thần tự nan xi Nhưng nhiên dư dĩ ý thiển khuy, tự các",
+      "hữu trường tòng công ư thi từ, vương tác tinh vu kinh văn, vị tri",
+      "526"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

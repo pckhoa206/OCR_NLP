@@ -1,0 +1,119 @@
+{
+  "page_id": "0747",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 747,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0747_han_000",
+      "bbox": [
+        [
+          215,
+          2067
+        ],
+        [
+          1059,
+          2067
+        ],
+        [
+          1059,
+          2152
+        ],
+        [
+          215,
+          2152
+        ]
+      ],
+      "bbox_original": [
+        [
+          215,
+          2282
+        ],
+        [
+          1059,
+          2282
+        ],
+        [
+          1059,
+          2367
+        ],
+        [
+          215,
+          2367
+        ]
+      ],
+      "box_xyxy": [
+        215,
+        2067,
+        1059,
+        2152
+      ],
+      "text": "(5) Chu, Thiu : Chu còng 周 公 tên là Đán 旦 yà Thièu còng 召 公 tên là Thich 爽",
+      "confidence": 0.9528
+    },
+    {
+      "line_id": "0747_han_001",
+      "bbox": [
+        [
+          315,
+          2552
+        ],
+        [
+          1059,
+          2552
+        ],
+        [
+          1059,
+          2610
+        ],
+        [
+          315,
+          2610
+        ]
+      ],
+      "bbox_original": [
+        [
+          315,
+          2767
+        ],
+        [
+          1059,
+          2767
+        ],
+        [
+          1059,
+          2825
+        ],
+        [
+          315,
+          2825
+        ]
+      ],
+      "box_xyxy": [
+        315,
+        2552,
+        1059,
+        2610
+      ],
+      "text": "Tông 李 神  có nhng Nôi nhàn höa dàu làm Thái phó, tuóc Đai lièu ban. Nhr",
+      "confidence": 0.9357
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

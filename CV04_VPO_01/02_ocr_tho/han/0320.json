@@ -1,0 +1,459 @@
+{
+  "page_id": "0320",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 320,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0320_han_000",
+      "bbox": [
+        [
+          321,
+          88
+        ],
+        [
+          1046,
+          88
+        ],
+        [
+          1046,
+          162
+        ],
+        [
+          321,
+          162
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          256
+        ],
+        [
+          1046,
+          256
+        ],
+        [
+          1046,
+          330
+        ],
+        [
+          321,
+          330
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        88,
+        1046,
+        162
+      ],
+      "text": "顏醜神枯形畧小",
+      "confidence": 0.9369
+    },
+    {
+      "line_id": "0320_han_001",
+      "bbox": [
+        [
+          320,
+          324
+        ],
+        [
+          1047,
+          324
+        ],
+        [
+          1047,
+          399
+        ],
+        [
+          320,
+          399
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          492
+        ],
+        [
+          1047,
+          492
+        ],
+        [
+          1047,
+          567
+        ],
+        [
+          320,
+          567
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        324,
+        1047,
+        399
+      ],
+      "text": "狼藉殘眉不飾粧",
+      "confidence": 0.9749
+    },
+    {
+      "line_id": "0320_han_002",
+      "bbox": [
+        [
+          320,
+          569
+        ],
+        [
+          1441,
+          569
+        ],
+        [
+          1441,
+          647
+        ],
+        [
+          320,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          737
+        ],
+        [
+          1441,
+          737
+        ],
+        [
+          1441,
+          815
+        ],
+        [
+          320,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        569,
+        1441,
+        647
+      ],
+      "text": "誰知便是當年城中第一調",
+      "confidence": 0.9995
+    },
+    {
+      "line_id": "0320_han_003",
+      "bbox": [
+        [
+          321,
+          941
+        ],
+        [
+          1055,
+          941
+        ],
+        [
+          1055,
+          1022
+        ],
+        [
+          321,
+          1022
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          1109
+        ],
+        [
+          1055,
+          1109
+        ],
+        [
+          1055,
+          1190
+        ],
+        [
+          321,
+          1190
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        941,
+        1055,
+        1022
+      ],
+      "text": "舊曲新聲暗淚垂",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0320_han_004",
+      "bbox": [
+        [
+          329,
+          1186
+        ],
+        [
+          1051,
+          1185
+        ],
+        [
+          1051,
+          1266
+        ],
+        [
+          329,
+          1267
+        ]
+      ],
+      "bbox_original": [
+        [
+          329,
+          1354
+        ],
+        [
+          1051,
+          1353
+        ],
+        [
+          1051,
+          1434
+        ],
+        [
+          329,
+          1435
+        ]
+      ],
+      "box_xyxy": [
+        329,
+        1185,
+        1051,
+        1267
+      ],
+      "text": "耳中靜聽心中悲",
+      "confidence": 0.9899
+    },
+    {
+      "line_id": "0320_han_005",
+      "bbox": [
+        [
+          316,
+          1434
+        ],
+        [
+          1269,
+          1433
+        ],
+        [
+          1269,
+          1515
+        ],
+        [
+          316,
+          1516
+        ]
+      ],
+      "bbox_original": [
+        [
+          316,
+          1602
+        ],
+        [
+          1269,
+          1601
+        ],
+        [
+          1269,
+          1683
+        ],
+        [
+          316,
+          1684
+        ]
+      ],
+      "box_xyxy": [
+        316,
+        1433,
+        1269,
+        1516
+      ],
+      "text": "猛然憶起二十年前事",
+      "confidence": 0.9963
+    },
+    {
+      "line_id": "0320_han_006",
+      "bbox": [
+        [
+          320,
+          1682
+        ],
+        [
+          1057,
+          1679
+        ],
+        [
+          1057,
+          1758
+        ],
+        [
+          321,
+          1761
+        ]
+      ],
+      "bbox_original": [
+        [
+          320,
+          1850
+        ],
+        [
+          1057,
+          1847
+        ],
+        [
+          1057,
+          1926
+        ],
+        [
+          321,
+          1929
+        ]
+      ],
+      "box_xyxy": [
+        320,
+        1679,
+        1057,
+        1761
+      ],
+      "text": "監湖湖邊曾見之",
+      "confidence": 0.999
+    },
+    {
+      "line_id": "0320_han_007",
+      "bbox": [
+        [
+          317,
+          1918
+        ],
+        [
+          1052,
+          1918
+        ],
+        [
+          1052,
+          1996
+        ],
+        [
+          317,
+          1996
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          2086
+        ],
+        [
+          1052,
+          2086
+        ],
+        [
+          1052,
+          2164
+        ],
+        [
+          317,
+          2164
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1918,
+        1052,
+        1996
+      ],
+      "text": "城郭推移人事改",
+      "confidence": 0.9994
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "顏醜神枯形畧小",
+      "狼藉殘眉不飾粧",
+      "誰知便是當年城中第一調",
+      "舊曲新聲暗淚垂",
+      "耳中靜聽心中悲",
+      "猛然憶起二十年前事",
+      "監湖湖邊曾見之",
+      "城郭推移人事改"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "顏醜神枯形畧小",
+        "phien_am": "Nhan xú thần khô hình lược tiều",
+        "dich_nghia_gloss": "Mặt võ thần khô vẻ héo rầu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "狼藉殘眉不飾粧",
+        "phien_am": "Lang tạ tàn my bãt sức trang",
+        "dich_nghia_gloss": "Ủ rũ duyên tàn mày điểm nhạt"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "誰知便是當年城中第一調",
+        "phien_am": "Thùy tri tiện thị đương niên thành trung đệ",
+        "dich_nghia_gloss": "ĩ nhãt điệu Ai biết trong thành thủa trước đàn hay chiêm [giải đầu"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "舊曲新聲暗淚垂",
+        "phien_am": "Cựu khúc tân thanh ám lệ thùy",
+        "dich_nghia_gloss": "Khúc xira giọng mới gieo thẩm lệ"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "耳中靜聽心中悲",
+        "phien_am": "Nhĩ trung tĩnh thính tâm trung bi",
+        "dich_nghia_gloss": "Réo rắt bên tai gọi nỗi đau"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "猛然憶起二十年前事",
+        "phien_am": "Mãnh nhiên ức khởi nhị thập niên tiền sự",
+        "dich_nghia_gloss": "Hoảng hồt nhớ lại hai mươi năm chuyện cũ"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "監湖湖邊曾見之",
+        "phien_am": "Giám-Hồ hồ biên tầng kiên chi",
+        "dich_nghia_gloss": "Hồ Giám bên hồ đã gặp nhau"
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "城郭推移人事改",
+        "phien_am": "Thành quách suy di nhân sự cải",
+        "dich_nghia_gloss": "Thành quách đổi thay người cũng đổi"
+      }
+    ]
+  }
+}

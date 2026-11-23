@@ -1,0 +1,618 @@
+{
+  "page_id": "0301",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 301,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0301_viet_000",
+      "bbox": [
+        [
+          469,
+          153
+        ],
+        [
+          1122,
+          156
+        ],
+        [
+          1121,
+          216
+        ],
+        [
+          469,
+          214
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          321
+        ],
+        [
+          1122,
+          324
+        ],
+        [
+          1121,
+          384
+        ],
+        [
+          469,
+          382
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        153,
+        1122,
+        216
+      ],
+      "text": "Giầu sang có thú kiêu-sà,",
+      "confidence": 0.9083
+    },
+    {
+      "line_id": "0301_viet_001",
+      "bbox": [
+        [
+          311,
+          335
+        ],
+        [
+          1352,
+          335
+        ],
+        [
+          1352,
+          395
+        ],
+        [
+          311,
+          395
+        ]
+      ],
+      "bbox_original": [
+        [
+          311,
+          503
+        ],
+        [
+          1352,
+          503
+        ],
+        [
+          1352,
+          563
+        ],
+        [
+          311,
+          563
+        ]
+      ],
+      "box_xyxy": [
+        311,
+        335,
+        1352,
+        395
+      ],
+      "text": "Ta nghèo chén rượu nhành hoa vui-vầy.",
+      "confidence": 0.8932
+    },
+    {
+      "line_id": "0301_viet_002",
+      "bbox": [
+        [
+          355,
+          583
+        ],
+        [
+          1188,
+          585
+        ],
+        [
+          1188,
+          649
+        ],
+        [
+          355,
+          647
+        ]
+      ],
+      "bbox_original": [
+        [
+          355,
+          751
+        ],
+        [
+          1188,
+          753
+        ],
+        [
+          1188,
+          817
+        ],
+        [
+          355,
+          815
+        ]
+      ],
+      "box_xyxy": [
+        355,
+        583,
+        1188,
+        649
+      ],
+      "text": "So phú-quý sao tây thanh-bạch",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0301_viet_003",
+      "bbox": [
+        [
+          356,
+          714
+        ],
+        [
+          1279,
+          716
+        ],
+        [
+          1279,
+          780
+        ],
+        [
+          356,
+          778
+        ]
+      ],
+      "bbox_original": [
+        [
+          356,
+          882
+        ],
+        [
+          1279,
+          884
+        ],
+        [
+          1279,
+          948
+        ],
+        [
+          356,
+          946
+        ]
+      ],
+      "box_xyxy": [
+        356,
+        714,
+        1279,
+        780
+      ],
+      "text": "Thanh-bạch yên, phú-quý bắp-bênh",
+      "confidence": 0.9061
+    },
+    {
+      "line_id": "0301_viet_004",
+      "bbox": [
+        [
+          464,
+          848
+        ],
+        [
+          1181,
+          848
+        ],
+        [
+          1181,
+          909
+        ],
+        [
+          464,
+          909
+        ]
+      ],
+      "bbox_original": [
+        [
+          464,
+          1016
+        ],
+        [
+          1181,
+          1016
+        ],
+        [
+          1181,
+          1077
+        ],
+        [
+          464,
+          1077
+        ]
+      ],
+      "box_xyxy": [
+        464,
+        848,
+        1181,
+        909
+      ],
+      "text": "Ngựa xe bận-rộn thân mình,",
+      "confidence": 0.9192
+    },
+    {
+      "line_id": "0301_viet_005",
+      "bbox": [
+        [
+          302,
+          979
+        ],
+        [
+          1348,
+          979
+        ],
+        [
+          1348,
+          1039
+        ],
+        [
+          302,
+          1039
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          1147
+        ],
+        [
+          1348,
+          1147
+        ],
+        [
+          1348,
+          1207
+        ],
+        [
+          302,
+          1207
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        979,
+        1348,
+        1039
+      ],
+      "text": "Chi bằng hoa rượu mặc tình nhởn-nhơ...",
+      "confidence": 0.8942
+    },
+    {
+      "line_id": "0301_viet_006",
+      "bbox": [
+        [
+          353,
+          1111
+        ],
+        [
+          1088,
+          1109
+        ],
+        [
+          1088,
+          1173
+        ],
+        [
+          353,
+          1175
+        ]
+      ],
+      "bbox_original": [
+        [
+          353,
+          1279
+        ],
+        [
+          1088,
+          1277
+        ],
+        [
+          1088,
+          1341
+        ],
+        [
+          353,
+          1343
+        ]
+      ],
+      "box_xyxy": [
+        353,
+        1109,
+        1088,
+        1175
+      ],
+      "text": "Thiên-hạ cứ cười ta gàn dở",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0301_viet_007",
+      "bbox": [
+        [
+          350,
+          1241
+        ],
+        [
+          1111,
+          1245
+        ],
+        [
+          1110,
+          1305
+        ],
+        [
+          350,
+          1302
+        ]
+      ],
+      "bbox_original": [
+        [
+          350,
+          1409
+        ],
+        [
+          1111,
+          1413
+        ],
+        [
+          1110,
+          1473
+        ],
+        [
+          350,
+          1470
+        ]
+      ],
+      "box_xyxy": [
+        350,
+        1241,
+        1111,
+        1305
+      ],
+      "text": "Ta chỉ cười thiên-hạ hồ-đồ:",
+      "confidence": 0.9249
+    },
+    {
+      "line_id": "0301_viet_008",
+      "bbox": [
+        [
+          455,
+          1480
+        ],
+        [
+          1218,
+          1482
+        ],
+        [
+          1218,
+          1542
+        ],
+        [
+          455,
+          1539
+        ]
+      ],
+      "bbox_original": [
+        [
+          455,
+          1648
+        ],
+        [
+          1218,
+          1650
+        ],
+        [
+          1218,
+          1710
+        ],
+        [
+          455,
+          1707
+        ]
+      ],
+      "box_xyxy": [
+        455,
+        1480,
+        1218,
+        1542
+      ],
+      "text": "Anh-hùng năm dưới năm mồ,",
+      "confidence": 0.8986
+    },
+    {
+      "line_id": "0301_viet_009",
+      "bbox": [
+        [
+          292,
+          1666
+        ],
+        [
+          1264,
+          1677
+        ],
+        [
+          1263,
+          1741
+        ],
+        [
+          291,
+          1730
+        ]
+      ],
+      "bbox_original": [
+        [
+          292,
+          1834
+        ],
+        [
+          1264,
+          1845
+        ],
+        [
+          1263,
+          1909
+        ],
+        [
+          291,
+          1898
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        1666,
+        1264,
+        1741
+      ],
+      "text": "Dẫu xưa khét tiếng trên gò Ngũ-lăng.",
+      "confidence": 0.8849
+    },
+    {
+      "line_id": "0301_viet_010",
+      "bbox": [
+        [
+          448,
+          1858
+        ],
+        [
+          1211,
+          1865
+        ],
+        [
+          1210,
+          1926
+        ],
+        [
+          447,
+          1919
+        ]
+      ],
+      "bbox_original": [
+        [
+          448,
+          2026
+        ],
+        [
+          1211,
+          2033
+        ],
+        [
+          1210,
+          2094
+        ],
+        [
+          447,
+          2087
+        ]
+      ],
+      "box_xyxy": [
+        447,
+        1858,
+        1211,
+        1926
+      ],
+      "text": "Mà hoa, mà rượu, không từng,",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0301_viet_011",
+      "bbox": [
+        [
+          290,
+          2044
+        ],
+        [
+          1255,
+          2048
+        ],
+        [
+          1255,
+          2112
+        ],
+        [
+          289,
+          2107
+        ]
+      ],
+      "bbox_original": [
+        [
+          290,
+          2212
+        ],
+        [
+          1255,
+          2216
+        ],
+        [
+          1255,
+          2280
+        ],
+        [
+          289,
+          2275
+        ]
+      ],
+      "box_xyxy": [
+        289,
+        2044,
+        1255,
+        2112
+      ],
+      "text": "Thì nay cầy cãy san bằng, cũng thôi",
+      "confidence": 0.9147
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Giầu sang có thú kiêu-sà,",
+      "Ta nghèo chén rượu nhành hoa vui-vầy.",
+      "So phú-quý sao tây thanh-bạch",
+      "Thanh-bạch yên, phú-quý bắp-bênh",
+      "Ngựa xe bận-rộn thân mình,",
+      "Chi bằng hoa rượu mặc tình nhởn-nhơ...",
+      "Thiên-hạ cứ cười ta gàn dở",
+      "Ta chỉ cười thiên-hạ hồ-đồ:",
+      "Anh-hùng năm dưới năm mồ,",
+      "Dẫu xưa khét tiếng trên gò Ngũ-lăng.",
+      "Mà hoa, mà rượu, không từng,",
+      "Thì nay cầy cãy san bằng, cũng thôi"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      184.5,
+      365.0,
+      616.0,
+      747.0,
+      878.5,
+      1009.0,
+      1142.0,
+      1273.0,
+      1511.0,
+      1703.5,
+      1892.0,
+      2078.0
+    ]
+  }
+}

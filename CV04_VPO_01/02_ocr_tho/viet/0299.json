@@ -1,0 +1,520 @@
+{
+  "page_id": "0299",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 299,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0299_viet_000",
+      "bbox": [
+        [
+          362,
+          140
+        ],
+        [
+          1147,
+          137
+        ],
+        [
+          1147,
+          197
+        ],
+        [
+          362,
+          199
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          308
+        ],
+        [
+          1147,
+          305
+        ],
+        [
+          1147,
+          365
+        ],
+        [
+          362,
+          367
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        137,
+        1147,
+        199
+      ],
+      "text": "Lũng đào-hoa, hoa-am sắn đó",
+      "confidence": 0.9024
+    },
+    {
+      "line_id": "0299_viet_001",
+      "bbox": [
+        [
+          368,
+          329
+        ],
+        [
+          1146,
+          329
+        ],
+        [
+          1146,
+          387
+        ],
+        [
+          368,
+          387
+        ]
+      ],
+      "bbox_original": [
+        [
+          368,
+          497
+        ],
+        [
+          1146,
+          497
+        ],
+        [
+          1146,
+          555
+        ],
+        [
+          368,
+          555
+        ]
+      ],
+      "box_xyxy": [
+        368,
+        329,
+        1146,
+        387
+      ],
+      "text": "Trong hoa-am, lại có hoa-tiên",
+      "confidence": 0.931
+    },
+    {
+      "line_id": "0299_viet_002",
+      "bbox": [
+        [
+          473,
+          517
+        ],
+        [
+          1139,
+          521
+        ],
+        [
+          1139,
+          579
+        ],
+        [
+          473,
+          575
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          685
+        ],
+        [
+          1139,
+          689
+        ],
+        [
+          1139,
+          747
+        ],
+        [
+          473,
+          743
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        517,
+        1139,
+        579
+      ],
+      "text": "Hoa-tiên vun gốc đào tiên,",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0299_viet_003",
+      "bbox": [
+        [
+          315,
+          709
+        ],
+        [
+          1275,
+          715
+        ],
+        [
+          1275,
+          772
+        ],
+        [
+          314,
+          767
+        ]
+      ],
+      "bbox_original": [
+        [
+          315,
+          877
+        ],
+        [
+          1275,
+          883
+        ],
+        [
+          1275,
+          940
+        ],
+        [
+          314,
+          935
+        ]
+      ],
+      "box_xyxy": [
+        314,
+        709,
+        1275,
+        772
+      ],
+      "text": "Cành đào đem bẻ lãy tiền mua men",
+      "confidence": 0.907
+    },
+    {
+      "line_id": "0299_viet_004",
+      "bbox": [
+        [
+          365,
+          991
+        ],
+        [
+          1189,
+          995
+        ],
+        [
+          1189,
+          1055
+        ],
+        [
+          365,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          365,
+          1159
+        ],
+        [
+          1189,
+          1163
+        ],
+        [
+          1189,
+          1223
+        ],
+        [
+          365,
+          1220
+        ]
+      ],
+      "box_xyxy": [
+        365,
+        991,
+        1189,
+        1055
+      ],
+      "text": "Khi tỉnh rượu, đỏi phen ấp-ủ",
+      "confidence": 0.8982
+    },
+    {
+      "line_id": "0299_viet_005",
+      "bbox": [
+        [
+          366,
+          1185
+        ],
+        [
+          1143,
+          1188
+        ],
+        [
+          1143,
+          1249
+        ],
+        [
+          366,
+          1245
+        ]
+      ],
+      "bbox_original": [
+        [
+          366,
+          1353
+        ],
+        [
+          1143,
+          1356
+        ],
+        [
+          1143,
+          1417
+        ],
+        [
+          366,
+          1413
+        ]
+      ],
+      "box_xyxy": [
+        366,
+        1185,
+        1143,
+        1249
+      ],
+      "text": "Mà khi say, lăn ngủ bên hoa",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0299_viet_006",
+      "bbox": [
+        [
+          473,
+          1371
+        ],
+        [
+          1182,
+          1375
+        ],
+        [
+          1182,
+          1436
+        ],
+        [
+          473,
+          1432
+        ]
+      ],
+      "bbox_original": [
+        [
+          473,
+          1539
+        ],
+        [
+          1182,
+          1543
+        ],
+        [
+          1182,
+          1604
+        ],
+        [
+          473,
+          1600
+        ]
+      ],
+      "box_xyxy": [
+        473,
+        1371,
+        1182,
+        1436
+      ],
+      "text": "Bên hoa ngày tháng la-đà,",
+      "confidence": 0.9032
+    },
+    {
+      "line_id": "0299_viet_007",
+      "bbox": [
+        [
+          315,
+          1559
+        ],
+        [
+          1208,
+          1561
+        ],
+        [
+          1208,
+          1622
+        ],
+        [
+          315,
+          1620
+        ]
+      ],
+      "bbox_original": [
+        [
+          315,
+          1727
+        ],
+        [
+          1208,
+          1729
+        ],
+        [
+          1208,
+          1790
+        ],
+        [
+          315,
+          1788
+        ]
+      ],
+      "box_xyxy": [
+        315,
+        1559,
+        1208,
+        1622
+      ],
+      "text": "La-đà ngày tháng là ta phi-nguyền",
+      "confidence": 0.9151
+    },
+    {
+      "line_id": "0299_viet_008",
+      "bbox": [
+        [
+          369,
+          1844
+        ],
+        [
+          1189,
+          1844
+        ],
+        [
+          1189,
+          1908
+        ],
+        [
+          369,
+          1908
+        ]
+      ],
+      "bbox_original": [
+        [
+          369,
+          2012
+        ],
+        [
+          1189,
+          2012
+        ],
+        [
+          1189,
+          2076
+        ],
+        [
+          369,
+          2076
+        ]
+      ],
+      "box_xyxy": [
+        369,
+        1844,
+        1189,
+        1908
+      ],
+      "text": "Hay gì thói cửa quyền luồn cúi",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0299_viet_009",
+      "bbox": [
+        [
+          368,
+          2029
+        ],
+        [
+          1203,
+          2032
+        ],
+        [
+          1203,
+          2093
+        ],
+        [
+          368,
+          2089
+        ]
+      ],
+      "bbox_original": [
+        [
+          368,
+          2197
+        ],
+        [
+          1203,
+          2200
+        ],
+        [
+          1203,
+          2261
+        ],
+        [
+          368,
+          2257
+        ]
+      ],
+      "box_xyxy": [
+        368,
+        2029,
+        1203,
+        2093
+      ],
+      "text": "Ta chỉ cầu thác với rượu hoa...",
+      "confidence": 0.8994
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Lũng đào-hoa, hoa-am sắn đó",
+      "Trong hoa-am, lại có hoa-tiên",
+      "Hoa-tiên vun gốc đào tiên,",
+      "Cành đào đem bẻ lãy tiền mua men",
+      "Khi tỉnh rượu, đỏi phen ấp-ủ",
+      "Mà khi say, lăn ngủ bên hoa",
+      "Bên hoa ngày tháng la-đà,",
+      "La-đà ngày tháng là ta phi-nguyền",
+      "Hay gì thói cửa quyền luồn cúi",
+      "Ta chỉ cầu thác với rượu hoa..."
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      168.0,
+      358.0,
+      548.0,
+      740.5,
+      1023.0,
+      1217.0,
+      1403.5,
+      1590.5,
+      1876.0,
+      2061.0
+    ]
+  }
+}

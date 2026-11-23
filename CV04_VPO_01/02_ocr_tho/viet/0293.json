@@ -1,0 +1,516 @@
+{
+  "page_id": "0293",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 293,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0293_viet_000",
+      "bbox": [
+        [
+          202,
+          40
+        ],
+        [
+          727,
+          36
+        ],
+        [
+          727,
+          93
+        ],
+        [
+          203,
+          97
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          208
+        ],
+        [
+          727,
+          204
+        ],
+        [
+          727,
+          261
+        ],
+        [
+          203,
+          265
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        36,
+        727,
+        97
+      ],
+      "text": "MẠI CAM GIẢ NGÔN",
+      "confidence": 0.8959
+    },
+    {
+      "line_id": "0293_viet_001",
+      "bbox": [
+        [
+          1362,
+          43
+        ],
+        [
+          1446,
+          43
+        ],
+        [
+          1446,
+          95
+        ],
+        [
+          1362,
+          95
+        ]
+      ],
+      "bbox_original": [
+        [
+          1362,
+          211
+        ],
+        [
+          1446,
+          211
+        ],
+        [
+          1446,
+          263
+        ],
+        [
+          1362,
+          263
+        ]
+      ],
+      "box_xyxy": [
+        1362,
+        43,
+        1446,
+        95
+      ],
+      "text": "287",
+      "confidence": 0.9335
+    },
+    {
+      "line_id": "0293_viet_002",
+      "bbox": [
+        [
+          370,
+          308
+        ],
+        [
+          1388,
+          308
+        ],
+        [
+          1388,
+          369
+        ],
+        [
+          370,
+          369
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          476
+        ],
+        [
+          1388,
+          476
+        ],
+        [
+          1388,
+          537
+        ],
+        [
+          370,
+          537
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        308,
+        1388,
+        369
+      ],
+      "text": "a Giặc cướp-phá, không ngừa được hắn",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0293_viet_003",
+      "bbox": [
+        [
+          370,
+          539
+        ],
+        [
+          1285,
+          541
+        ],
+        [
+          1285,
+          602
+        ],
+        [
+          370,
+          600
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          707
+        ],
+        [
+          1285,
+          709
+        ],
+        [
+          1285,
+          770
+        ],
+        [
+          370,
+          768
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        539,
+        1285,
+        602
+      ],
+      "text": "a Dân đói-nghèo cũng vẫn làm-than",
+      "confidence": 0.8913
+    },
+    {
+      "line_id": "0293_viet_004",
+      "bbox": [
+        [
+          474,
+          771
+        ],
+        [
+          1309,
+          776
+        ],
+        [
+          1309,
+          837
+        ],
+        [
+          474,
+          832
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          939
+        ],
+        [
+          1309,
+          944
+        ],
+        [
+          1309,
+          1005
+        ],
+        [
+          474,
+          1000
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        771,
+        1309,
+        837
+      ],
+      "text": "u lại còn tham nhũng đủ đường,",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0293_viet_005",
+      "bbox": [
+        [
+          317,
+          1008
+        ],
+        [
+          1225,
+          1011
+        ],
+        [
+          1224,
+          1071
+        ],
+        [
+          317,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          1176
+        ],
+        [
+          1225,
+          1179
+        ],
+        [
+          1224,
+          1239
+        ],
+        [
+          317,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1008,
+        1225,
+        1071
+      ],
+      "text": "a của kho sắn đó liêu hoang sá gì",
+      "confidence": 0.9193
+    },
+    {
+      "line_id": "0293_viet_006",
+      "bbox": [
+        [
+          371,
+          1235
+        ],
+        [
+          1149,
+          1241
+        ],
+        [
+          1149,
+          1311
+        ],
+        [
+          371,
+          1306
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          1403
+        ],
+        [
+          1149,
+          1409
+        ],
+        [
+          1149,
+          1479
+        ],
+        [
+          371,
+          1474
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1235,
+        1149,
+        1311
+      ],
+      "text": "ư ở lâu cao, đi, về, ngựa lớn,",
+      "confidence": 0.8896
+    },
+    {
+      "line_id": "0293_viet_007",
+      "bbox": [
+        [
+          371,
+          1485
+        ],
+        [
+          1307,
+          1482
+        ],
+        [
+          1307,
+          1542
+        ],
+        [
+          371,
+          1546
+        ]
+      ],
+      "bbox_original": [
+        [
+          371,
+          1653
+        ],
+        [
+          1307,
+          1650
+        ],
+        [
+          1307,
+          1710
+        ],
+        [
+          371,
+          1714
+        ]
+      ],
+      "box_xyxy": [
+        371,
+        1482,
+        1307,
+        1546
+      ],
+      "text": "a tiệc tùng luôn, chè chén linh-đình",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0293_viet_008",
+      "bbox": [
+        [
+          480,
+          1724
+        ],
+        [
+          1285,
+          1724
+        ],
+        [
+          1285,
+          1782
+        ],
+        [
+          480,
+          1782
+        ]
+      ],
+      "bbox_original": [
+        [
+          480,
+          1892
+        ],
+        [
+          1285,
+          1892
+        ],
+        [
+          1285,
+          1950
+        ],
+        [
+          480,
+          1950
+        ]
+      ],
+      "box_xyxy": [
+        480,
+        1724,
+        1285,
+        1782
+      ],
+      "text": "a vênh-vang rõ khéo hợm mình",
+      "confidence": 0.8963
+    },
+    {
+      "line_id": "0293_viet_009",
+      "bbox": [
+        [
+          317,
+          1961
+        ],
+        [
+          1334,
+          1958
+        ],
+        [
+          1334,
+          2022
+        ],
+        [
+          317,
+          2025
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          2129
+        ],
+        [
+          1334,
+          2126
+        ],
+        [
+          1334,
+          2190
+        ],
+        [
+          317,
+          2193
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1958,
+        1334,
+        2025
+      ],
+      "text": "a Ai tròng mà chẳng thất-kinh rụng-rời",
+      "confidence": 0.896
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "a Giặc cướp-phá, không ngừa được hắn",
+      "a Dân đói-nghèo cũng vẫn làm-than",
+      "u lại còn tham nhũng đủ đường,",
+      "a của kho sắn đó liêu hoang sá gì",
+      "ư ở lâu cao, đi, về, ngựa lớn,",
+      "a tiệc tùng luôn, chè chén linh-đình",
+      "a vênh-vang rõ khéo hợm mình",
+      "a Ai tròng mà chẳng thất-kinh rụng-rời"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      338.5,
+      570.5,
+      804.0,
+      1039.5,
+      1273.0,
+      1514.0,
+      1753.0,
+      1991.5
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "page_id": "0339",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 339,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0339_viet_000",
+      "bbox": [
+        [
+          406,
+          224
+        ],
+        [
+          1250,
+          224
+        ],
+        [
+          1250,
+          285
+        ],
+        [
+          406,
+          285
+        ]
+      ],
+      "bbox_original": [
+        [
+          406,
+          392
+        ],
+        [
+          1250,
+          392
+        ],
+        [
+          1250,
+          453
+        ],
+        [
+          406,
+          453
+        ]
+      ],
+      "box_xyxy": [
+        406,
+        224,
+        1250,
+        285
+      ],
+      "text": "Bồng không khách địa bình-bồng",
+      "confidence": 0.9185
+    },
+    {
+      "line_id": "0339_viet_001",
+      "bbox": [
+        [
+          248,
+          472
+        ],
+        [
+          1206,
+          472
+        ],
+        [
+          1206,
+          529
+        ],
+        [
+          248,
+          529
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          640
+        ],
+        [
+          1206,
+          640
+        ],
+        [
+          1206,
+          697
+        ],
+        [
+          248,
+          697
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        472,
+        1206,
+        529
+      ],
+      "text": "Trông mây lại nhớ, xem bông lại buôn",
+      "confidence": 0.9008
+    },
+    {
+      "line_id": "0339_viet_002",
+      "bbox": [
+        [
+          299,
+          715
+        ],
+        [
+          1234,
+          715
+        ],
+        [
+          1234,
+          775
+        ],
+        [
+          299,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          883
+        ],
+        [
+          1234,
+          883
+        ],
+        [
+          1234,
+          943
+        ],
+        [
+          299,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        715,
+        1234,
+        775
+      ],
+      "text": "Ngày nay đứng trông miền biền rộng.",
+      "confidence": 0.9055
+    },
+    {
+      "line_id": "0339_viet_003",
+      "bbox": [
+        [
+          301,
+          961
+        ],
+        [
+          1134,
+          963
+        ],
+        [
+          1134,
+          1020
+        ],
+        [
+          300,
+          1018
+        ]
+      ],
+      "bbox_original": [
+        [
+          301,
+          1129
+        ],
+        [
+          1134,
+          1131
+        ],
+        [
+          1134,
+          1188
+        ],
+        [
+          300,
+          1186
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        961,
+        1134,
+        1020
+      ],
+      "text": "Một lá buồm thắng dóng về còn",
+      "confidence": 0.8907
+    },
+    {
+      "line_id": "0339_viet_004",
+      "bbox": [
+        [
+          404,
+          1209
+        ],
+        [
+          1118,
+          1207
+        ],
+        [
+          1119,
+          1266
+        ],
+        [
+          404,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          404,
+          1377
+        ],
+        [
+          1118,
+          1375
+        ],
+        [
+          1119,
+          1434
+        ],
+        [
+          404,
+          1437
+        ]
+      ],
+      "box_xyxy": [
+        404,
+        1207,
+        1119,
+        1269
+      ],
+      "text": "Lòng quê dâu đã cuồn cuồn",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0339_viet_005",
+      "bbox": [
+        [
+          247,
+          1452
+        ],
+        [
+          1306,
+          1452
+        ],
+        [
+          1306,
+          1509
+        ],
+        [
+          247,
+          1509
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1620
+        ],
+        [
+          1306,
+          1620
+        ],
+        [
+          1306,
+          1677
+        ],
+        [
+          247,
+          1677
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1452,
+        1306,
+        1509
+      ],
+      "text": "Phút theo buồm vượt mãy ngàn sóng khơi",
+      "confidence": 0.9003
+    },
+    {
+      "line_id": "0339_viet_006",
+      "bbox": [
+        [
+          295,
+          1697
+        ],
+        [
+          1236,
+          1693
+        ],
+        [
+          1237,
+          1754
+        ],
+        [
+          296,
+          1758
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1865
+        ],
+        [
+          1236,
+          1861
+        ],
+        [
+          1237,
+          1922
+        ],
+        [
+          296,
+          1926
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1693,
+        1237,
+        1758
+      ],
+      "text": "Ngày mai đứng trông nơi non thằm",
+      "confidence": 0.9051
+    },
+    {
+      "line_id": "0339_viet_007",
+      "bbox": [
+        [
+          244,
+          1947
+        ],
+        [
+          1438,
+          1947
+        ],
+        [
+          1438,
+          1997
+        ],
+        [
+          244,
+          1997
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          2115
+        ],
+        [
+          1438,
+          2115
+        ],
+        [
+          1438,
+          2165
+        ],
+        [
+          244,
+          2165
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1947,
+        1438,
+        1997
+      ],
+      "text": "Mao Nghĩa đời Hán là một người hiều hạnh, làm quan úy",
+      "confidence": 0.8916
+    },
+    {
+      "line_id": "0339_viet_008",
+      "bbox": [
+        [
+          202,
+          2015
+        ],
+        [
+          1439,
+          2010
+        ],
+        [
+          1439,
+          2061
+        ],
+        [
+          202,
+          2066
+        ]
+      ],
+      "bbox_original": [
+        [
+          202,
+          2183
+        ],
+        [
+          1439,
+          2178
+        ],
+        [
+          1439,
+          2229
+        ],
+        [
+          202,
+          2234
+        ]
+      ],
+      "box_xyxy": [
+        202,
+        2010,
+        1439,
+        2066
+      ],
+      "text": "Ở phủ An-dương, được thăng quan lịnh ở phủ ấy. Ông căm tờ",
+      "confidence": 0.9107
+    },
+    {
+      "line_id": "0339_viet_009",
+      "bbox": [
+        [
+          204,
+          2080
+        ],
+        [
+          1082,
+          2079
+        ],
+        [
+          1082,
+          2125
+        ],
+        [
+          204,
+          2126
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          2248
+        ],
+        [
+          1082,
+          2247
+        ],
+        [
+          1082,
+          2293
+        ],
+        [
+          204,
+          2294
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        2079,
+        1082,
+        2126
+      ],
+      "text": "hịch mà lãy làm vui. vii vì cha mẹ đang còn",
+      "confidence": 0.8984
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Bồng không khách địa bình-bồng",
+      "Trông mây lại nhớ, xem bông lại buôn",
+      "Ngày nay đứng trông miền biền rộng.",
+      "Một lá buồm thắng dóng về còn",
+      "Lòng quê dâu đã cuồn cuồn",
+      "Phút theo buồm vượt mãy ngàn sóng khơi",
+      "Ngày mai đứng trông nơi non thằm",
+      "Mao Nghĩa đời Hán là một người hiều hạnh, làm quan úy",
+      "Ở phủ An-dương, được thăng quan lịnh ở phủ ấy. Ông căm tờ",
+      "hịch mà lãy làm vui. vii vì cha mẹ đang còn"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      254.5,
+      500.5,
+      745.0,
+      990.5,
+      1238.0,
+      1480.5,
+      1725.5,
+      1972.0,
+      2038.0,
+      2102.5
+    ]
+  }
+}

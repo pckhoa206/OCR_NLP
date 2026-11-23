@@ -1,0 +1,451 @@
+{
+  "page_id": "0715",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 715,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0715_han_000",
+      "bbox": [
+        [
+          794,
+          613
+        ],
+        [
+          1414,
+          613
+        ],
+        [
+          1414,
+          745
+        ],
+        [
+          794,
+          745
+        ]
+      ],
+      "bbox_original": [
+        [
+          794,
+          828
+        ],
+        [
+          1414,
+          828
+        ],
+        [
+          1414,
+          960
+        ],
+        [
+          794,
+          960
+        ]
+      ],
+      "box_xyxy": [
+        794,
+        613,
+        1414,
+        745
+      ],
+      "text": "阮氏默碧",
+      "confidence": 0.8247
+    },
+    {
+      "line_id": "0715_han_001",
+      "bbox": [
+        [
+          247,
+          1006
+        ],
+        [
+          1059,
+          1006
+        ],
+        [
+          1059,
+          1086
+        ],
+        [
+          247,
+          1086
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1221
+        ],
+        [
+          1059,
+          1221
+        ],
+        [
+          1059,
+          1301
+        ],
+        [
+          247,
+          1301
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1006,
+        1059,
+        1086
+      ],
+      "text": "trach 董澤 huyęn Duròng-an 唐安，ló Hōng-chàu 洪州 (nay thuòc tinh",
+      "confidence": 0.8829
+    },
+    {
+      "line_id": "0715_han_002",
+      "bbox": [
+        [
+          246,
+          1310
+        ],
+        [
+          1059,
+          1310
+        ],
+        [
+          1059,
+          1382
+        ],
+        [
+          246,
+          1382
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1525
+        ],
+        [
+          1059,
+          1525
+        ],
+        [
+          1059,
+          1597
+        ],
+        [
+          246,
+          1597
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1310,
+        1059,
+        1382
+      ],
+      "text": "làng. Sau duc tién làm cung nhân vua Tràn Anh Tòng 陳 英 宗 (1293 — 1314).",
+      "confidence": 0.9481
+    },
+    {
+      "line_id": "0715_han_003",
+      "bbox": [
+        [
+          247,
+          1434
+        ],
+        [
+          1059,
+          1434
+        ],
+        [
+          1059,
+          1497
+        ],
+        [
+          247,
+          1497
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1649
+        ],
+        [
+          1059,
+          1649
+        ],
+        [
+          1059,
+          1712
+        ],
+        [
+          247,
+          1712
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1434,
+        1059,
+        1497
+      ],
+      "text": "quóc âm. Nàng tùrng dưc vua Anh Tòng giao nhięm vu lên Yên-tú 安 子 thú",
+      "confidence": 0.9053
+    },
+    {
+      "line_id": "0715_han_004",
+      "bbox": [
+        [
+          246,
+          1488
+        ],
+        [
+          1964,
+          1497
+        ],
+        [
+          1964,
+          1558
+        ],
+        [
+          246,
+          1549
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1703
+        ],
+        [
+          1964,
+          1712
+        ],
+        [
+          1964,
+          1773
+        ],
+        [
+          246,
+          1764
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1488,
+        1964,
+        1558
+      ],
+      "text": "đo hnh cua Huyèn Quang 玄 , vi tò thư ba phái Thièn Trúc làm đi áy (1).",
+      "confidence": 0.9075
+    },
+    {
+      "line_id": "0715_han_005",
+      "bbox": [
+        [
+          246,
+          1608
+        ],
+        [
+          1059,
+          1608
+        ],
+        [
+          1059,
+          1676
+        ],
+        [
+          246,
+          1676
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1823
+        ],
+        [
+          1059,
+          1823
+        ],
+        [
+          1059,
+          1891
+        ],
+        [
+          246,
+          1891
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        1608,
+        1059,
+        1676
+      ],
+      "text": "dān nhiěu nhà tho tr thé ký XVII dén thé ký VXIII. Pham Đinh Hō 范  王虎",
+      "confidence": 0.8771
+    },
+    {
+      "line_id": "0715_han_006",
+      "bbox": [
+        [
+          245,
+          1669
+        ],
+        [
+          1059,
+          1669
+        ],
+        [
+          1059,
+          1734
+        ],
+        [
+          245,
+          1734
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1884
+        ],
+        [
+          1059,
+          1884
+        ],
+        [
+          1059,
+          1949
+        ],
+        [
+          245,
+          1949
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1669,
+        1059,
+        1734
+      ],
+      "text": "trong Vǔ trung tùg bút 雨 中隨 筆 cho biét vào dòi Cănh Hung 景興",
+      "confidence": 0.9309
+    },
+    {
+      "line_id": "0715_han_007",
+      "bbox": [
+        [
+          279,
+          1984
+        ],
+        [
+          617,
+          1987
+        ],
+        [
+          617,
+          2071
+        ],
+        [
+          279,
+          2069
+        ]
+      ],
+      "bbox_original": [
+        [
+          279,
+          2199
+        ],
+        [
+          617,
+          2202
+        ],
+        [
+          617,
+          2286
+        ],
+        [
+          279,
+          2284
+        ]
+      ],
+      "box_xyxy": [
+        279,
+        1984,
+        617,
+        2071
+      ],
+      "text": "三祖實錄.",
+      "confidence": 0.8692
+    },
+    {
+      "line_id": "0715_han_008",
+      "bbox": [
+        [
+          235,
+          2127
+        ],
+        [
+          1059,
+          2127
+        ],
+        [
+          1059,
+          2220
+        ],
+        [
+          235,
+          2220
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          2342
+        ],
+        [
+          1059,
+          2342
+        ],
+        [
+          1059,
+          2435
+        ],
+        [
+          235,
+          2435
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        2127,
+        1059,
+        2220
+      ],
+      "text": "(1) Tre Lý Dao Tái 李道载, xem tièu sr trong cùng tâp.",
+      "confidence": 0.9205
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "阮氏默碧",
+      "三祖實錄."
+    ],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "page_id": "0675",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 675,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0675_han_000",
+      "bbox": [
+        [
+          291,
+          2025
+        ],
+        [
+          1059,
+          2025
+        ],
+        [
+          1059,
+          2097
+        ],
+        [
+          291,
+          2097
+        ]
+      ],
+      "bbox_original": [
+        [
+          291,
+          2240
+        ],
+        [
+          1059,
+          2240
+        ],
+        [
+          1059,
+          2312
+        ],
+        [
+          291,
+          2312
+        ]
+      ],
+      "box_xyxy": [
+        291,
+        2025,
+        1059,
+        2097
+      ],
+      "text": "TTTi ghi : khùng di khà thán càn già cú 恐遗可親近者句",
+      "confidence": 0.9164
+    },
+    {
+      "line_id": "0675_han_001",
+      "bbox": [
+        [
+          254,
+          2373
+        ],
+        [
+          1059,
+          2373
+        ],
+        [
+          1059,
+          2439
+        ],
+        [
+          254,
+          2439
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          2588
+        ],
+        [
+          1059,
+          2588
+        ],
+        [
+          1059,
+          2654
+        ],
+        [
+          254,
+          2654
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        2373,
+        1059,
+        2439
+      ],
+      "text": "(1) Tháp tin : thußt ngü đo Phát, xuät xú tù Kinh Läng nghiém 木芳 严 經. göm muài",
+      "confidence": 0.8737
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

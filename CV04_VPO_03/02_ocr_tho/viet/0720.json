@@ -1,0 +1,1084 @@
+{
+  "page_id": "0720",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 720,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0720_viet_000",
+      "bbox": [
+        [
+          255,
+          0
+        ],
+        [
+          317,
+          0
+        ],
+        [
+          317,
+          20
+        ],
+        [
+          255,
+          20
+        ]
+      ],
+      "bbox_original": [
+        [
+          255,
+          215
+        ],
+        [
+          317,
+          215
+        ],
+        [
+          317,
+          235
+        ],
+        [
+          255,
+          235
+        ]
+      ],
+      "box_xyxy": [
+        255,
+        0,
+        317,
+        20
+      ],
+      "text": "4 lút",
+      "confidence": 0.4083
+    },
+    {
+      "line_id": "0720_viet_001",
+      "bbox": [
+        [
+          384,
+          128
+        ],
+        [
+          1965,
+          132
+        ],
+        [
+          1965,
+          188
+        ],
+        [
+          384,
+          183
+        ]
+      ],
+      "bbox_original": [
+        [
+          384,
+          343
+        ],
+        [
+          1965,
+          347
+        ],
+        [
+          1965,
+          403
+        ],
+        [
+          384,
+          398
+        ]
+      ],
+      "box_xyxy": [
+        384,
+        128,
+        1965,
+        188
+      ],
+      "text": "Mặc dầu vậy, ông đã được các vua nhà Trần đánh giá đủng tài năng,",
+      "confidence": 0.8496
+    },
+    {
+      "line_id": "0720_viet_002",
+      "bbox": [
+        [
+          253,
+          192
+        ],
+        [
+          1967,
+          192
+        ],
+        [
+          1967,
+          246
+        ],
+        [
+          253,
+          246
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          407
+        ],
+        [
+          1967,
+          407
+        ],
+        [
+          1967,
+          461
+        ],
+        [
+          253,
+          461
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        192,
+        1967,
+        246
+      ],
+      "text": "đra lên những chức vị xứng đảng, và trong quan hệ của nhà Trần với các",
+      "confidence": 0.9131
+    },
+    {
+      "line_id": "0720_viet_003",
+      "bbox": [
+        [
+          251,
+          251
+        ],
+        [
+          1963,
+          253
+        ],
+        [
+          1963,
+          306
+        ],
+        [
+          251,
+          304
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          466
+        ],
+        [
+          1963,
+          468
+        ],
+        [
+          1963,
+          521
+        ],
+        [
+          251,
+          519
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        251,
+        1963,
+        306
+      ],
+      "text": "nước láng giềng phía Nam, ông thực sự đã góp một phần công sức quan",
+      "confidence": 0.821
+    },
+    {
+      "line_id": "0720_viet_004",
+      "bbox": [
+        [
+          248,
+          309
+        ],
+        [
+          1964,
+          311
+        ],
+        [
+          1964,
+          364
+        ],
+        [
+          248,
+          362
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          524
+        ],
+        [
+          1964,
+          526
+        ],
+        [
+          1964,
+          579
+        ],
+        [
+          248,
+          577
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        309,
+        1964,
+        364
+      ],
+      "text": "trọng, Tất nbiên ông cũng không thể thoát khỏi những hạn chế lịch sử, chẳng",
+      "confidence": 0.8947
+    },
+    {
+      "line_id": "0720_viet_005",
+      "bbox": [
+        [
+          250,
+          370
+        ],
+        [
+          1964,
+          370
+        ],
+        [
+          1964,
+          423
+        ],
+        [
+          250,
+          423
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          585
+        ],
+        [
+          1964,
+          585
+        ],
+        [
+          1964,
+          638
+        ],
+        [
+          250,
+          638
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        370,
+        1964,
+        423
+      ],
+      "text": "hạin, tư tưởng phong kiến nước lớn, coi nước mình là văn minh, còn những",
+      "confidence": 0.8772
+    },
+    {
+      "line_id": "0720_viet_006",
+      "bbox": [
+        [
+          247,
+          428
+        ],
+        [
+          1964,
+          431
+        ],
+        [
+          1964,
+          485
+        ],
+        [
+          247,
+          482
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          643
+        ],
+        [
+          1964,
+          646
+        ],
+        [
+          1964,
+          700
+        ],
+        [
+          247,
+          697
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        428,
+        1964,
+        485
+      ],
+      "text": "nước hèn kém hơn mình là man rợ. Những hạn chế này có làm giảm vẻ đẹp",
+      "confidence": 0.8393
+    },
+    {
+      "line_id": "0720_viet_007",
+      "bbox": [
+        [
+          247,
+          487
+        ],
+        [
+          1294,
+          489
+        ],
+        [
+          1294,
+          541
+        ],
+        [
+          247,
+          538
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          702
+        ],
+        [
+          1294,
+          704
+        ],
+        [
+          1294,
+          756
+        ],
+        [
+          247,
+          753
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        487,
+        1294,
+        541
+      ],
+      "text": "của những thành tích vói trên của ông ít nhiều",
+      "confidence": 0.8539
+    },
+    {
+      "line_id": "0720_viet_008",
+      "bbox": [
+        [
+          380,
+          567
+        ],
+        [
+          1962,
+          567
+        ],
+        [
+          1962,
+          621
+        ],
+        [
+          380,
+          621
+        ]
+      ],
+      "bbox_original": [
+        [
+          380,
+          782
+        ],
+        [
+          1962,
+          782
+        ],
+        [
+          1962,
+          836
+        ],
+        [
+          380,
+          836
+        ]
+      ],
+      "box_xyxy": [
+        380,
+        567,
+        1962,
+        621
+      ],
+      "text": "Đoàn Nhữ Hài không để lại một bài thờ bào, và bài biểu tạ nối tiếng",
+      "confidence": 0.8424
+    },
+    {
+      "line_id": "0720_viet_009",
+      "bbox": [
+        [
+          245,
+          626
+        ],
+        [
+          1960,
+          626
+        ],
+        [
+          1960,
+          683
+        ],
+        [
+          245,
+          683
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          841
+        ],
+        [
+          1960,
+          841
+        ],
+        [
+          1960,
+          898
+        ],
+        [
+          245,
+          898
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        626,
+        1960,
+        683
+      ],
+      "text": "của ông viết thay vua Anh Tộng thì: cũng không thấy một bộ sử chính thức",
+      "confidence": 0.8777
+    },
+    {
+      "line_id": "0720_viet_010",
+      "bbox": [
+        [
+          244,
+          686
+        ],
+        [
+          1958,
+          684
+        ],
+        [
+          1958,
+          741
+        ],
+        [
+          244,
+          743
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          901
+        ],
+        [
+          1958,
+          899
+        ],
+        [
+          1958,
+          956
+        ],
+        [
+          244,
+          958
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        684,
+        1958,
+        743
+      ],
+      "text": "nào ghi lại, Nhưng vào đầu thế kỷ này, người ta tim thấy trong thần tích của",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0720_viet_011",
+      "bbox": [
+        [
+          246,
+          743
+        ],
+        [
+          1962,
+          744
+        ],
+        [
+          1962,
+          798
+        ],
+        [
+          246,
+          797
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          958
+        ],
+        [
+          1962,
+          959
+        ],
+        [
+          1962,
+          1013
+        ],
+        [
+          246,
+          1012
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        743,
+        1962,
+        798
+      ],
+      "text": "đền thờ ông có bài văn ấy. Do đó, mặc dầu chưa thế khẳng định dirt khoát.",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0720_viet_012",
+      "bbox": [
+        [
+          244,
+          803
+        ],
+        [
+          1962,
+          802
+        ],
+        [
+          1962,
+          859
+        ],
+        [
+          244,
+          860
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1018
+        ],
+        [
+          1962,
+          1017
+        ],
+        [
+          1962,
+          1074
+        ],
+        [
+          244,
+          1075
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        802,
+        1962,
+        860
+      ],
+      "text": "chúng tôi vẫn xem ông là một tác giả của văn học Lý ? Trần và đưa bài biểu",
+      "confidence": 0.8971
+    },
+    {
+      "line_id": "0720_viet_013",
+      "bbox": [
+        [
+          246,
+          866
+        ],
+        [
+          1328,
+          866
+        ],
+        [
+          1328,
+          918
+        ],
+        [
+          246,
+          918
+        ]
+      ],
+      "bbox_original": [
+        [
+          246,
+          1081
+        ],
+        [
+          1328,
+          1081
+        ],
+        [
+          1328,
+          1133
+        ],
+        [
+          246,
+          1133
+        ]
+      ],
+      "box_xyxy": [
+        246,
+        866,
+        1328,
+        918
+      ],
+      "text": "này vào tuyển tập thơ văn đề bạn đọc tham khảo",
+      "confidence": 0.7566
+    },
+    {
+      "line_id": "0720_viet_014",
+      "bbox": [
+        [
+          242,
+          1029
+        ],
+        [
+          1086,
+          1032
+        ],
+        [
+          1086,
+          1082
+        ],
+        [
+          242,
+          1079
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1244
+        ],
+        [
+          1086,
+          1247
+        ],
+        [
+          1086,
+          1297
+        ],
+        [
+          242,
+          1294
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1029,
+        1086,
+        1082
+      ],
+      "text": "(1) Nay thuộc huyện gia-lộc, tỉnh hải-hưng",
+      "confidence": 0.9169
+    },
+    {
+      "line_id": "0720_viet_015",
+      "bbox": [
+        [
+          244,
+          1100
+        ],
+        [
+          889,
+          1100
+        ],
+        [
+          889,
+          1150
+        ],
+        [
+          244,
+          1150
+        ]
+      ],
+      "bbox_original": [
+        [
+          244,
+          1315
+        ],
+        [
+          889,
+          1315
+        ],
+        [
+          889,
+          1365
+        ],
+        [
+          244,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        244,
+        1100,
+        889,
+        1150
+      ],
+      "text": "(2) Nay thuộc tỉnh Bình-trị-thiên",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0720_viet_016",
+      "bbox": [
+        [
+          243,
+          1166
+        ],
+        [
+          1960,
+          1169
+        ],
+        [
+          1960,
+          1222
+        ],
+        [
+          243,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          243,
+          1381
+        ],
+        [
+          1960,
+          1384
+        ],
+        [
+          1960,
+          1437
+        ],
+        [
+          243,
+          1434
+        ]
+      ],
+      "box_xyxy": [
+        243,
+        1166,
+        1960,
+        1222
+      ],
+      "text": "(3) Theo ĐVSKTT, Bản ký, Q. VII thủ khi nghe tin Đoàn Nhữ Hải. chết, Trần Minh Tông đã",
+      "confidence": 0.8895
+    },
+    {
+      "line_id": "0720_viet_017",
+      "bbox": [
+        [
+          329,
+          1218
+        ],
+        [
+          1956,
+          1218
+        ],
+        [
+          1956,
+          1272
+        ],
+        [
+          329,
+          1272
+        ]
+      ],
+      "bbox_original": [
+        [
+          329,
+          1433
+        ],
+        [
+          1956,
+          1433
+        ],
+        [
+          1956,
+          1487
+        ],
+        [
+          329,
+          1487
+        ]
+      ],
+      "box_xyxy": [
+        329,
+        1218,
+        1956,
+        1272
+      ],
+      "text": "có một nhận định có hàm chút phê phán: - Nhữ Hải dùng mưu tất thắng, thừa thế tất",
+      "confidence": 0.8945
+    },
+    {
+      "line_id": "0720_viet_018",
+      "bbox": [
+        [
+          328,
+          1267
+        ],
+        [
+          1960,
+          1271
+        ],
+        [
+          1960,
+          1326
+        ],
+        [
+          328,
+          1322
+        ]
+      ],
+      "bbox_original": [
+        [
+          328,
+          1482
+        ],
+        [
+          1960,
+          1486
+        ],
+        [
+          1960,
+          1541
+        ],
+        [
+          328,
+          1537
+        ]
+      ],
+      "box_xyxy": [
+        328,
+        1267,
+        1960,
+        1326
+      ],
+      "text": "thắng, công lớn gần xong, cuối cùng bị quân giặc dử mồi mà chết. Nhữ Hài không",
+      "confidence": 0.8814
+    },
+    {
+      "line_id": "0720_viet_019",
+      "bbox": [
+        [
+          328,
+          1319
+        ],
+        [
+          1959,
+          1320
+        ],
+        [
+          1959,
+          1374
+        ],
+        [
+          328,
+          1373
+        ]
+      ],
+      "bbox_original": [
+        [
+          328,
+          1534
+        ],
+        [
+          1959,
+          1535
+        ],
+        [
+          1959,
+          1589
+        ],
+        [
+          328,
+          1588
+        ]
+      ],
+      "box_xyxy": [
+        328,
+        1319,
+        1959,
+        1374
+      ],
+      "text": "phải là người không biết tinh thế của giặc, chỉ: vì muốn làm: to quá mới đến nổi thế",
+      "confidence": 0.9226
+    },
+    {
+      "line_id": "0720_viet_020",
+      "bbox": [
+        [
+          324,
+          1369
+        ],
+        [
+          1956,
+          1374
+        ],
+        [
+          1956,
+          1428
+        ],
+        [
+          324,
+          1423
+        ]
+      ],
+      "bbox_original": [
+        [
+          324,
+          1584
+        ],
+        [
+          1956,
+          1589
+        ],
+        [
+          1956,
+          1643
+        ],
+        [
+          324,
+          1638
+        ]
+      ],
+      "box_xyxy": [
+        324,
+        1369,
+        1956,
+        1428
+      ],
+      "text": "mà thối. Thế, mời biết sự mong muốn của người, ta không thề quá phận hạn, được -",
+      "confidence": 0.8811
+    },
+    {
+      "line_id": "0720_viet_021",
+      "bbox": [
+        [
+          241,
+          1441
+        ],
+        [
+          1258,
+          1445
+        ],
+        [
+          1258,
+          1493
+        ],
+        [
+          241,
+          1489
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1656
+        ],
+        [
+          1258,
+          1660
+        ],
+        [
+          1258,
+          1708
+        ],
+        [
+          241,
+          1704
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1441,
+        1258,
+        1493
+      ],
+      "text": "(4) Hai câu này được ĐVSKT, Bản kỷ, Q.VI ghi lại.",
+      "confidence": 0.7019
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "4 lút",
+      "Mặc dầu vậy, ông đã được các vua nhà Trần đánh giá đủng tài năng,",
+      "đra lên những chức vị xứng đảng, và trong quan hệ của nhà Trần với các",
+      "nước láng giềng phía Nam, ông thực sự đã góp một phần công sức quan",
+      "trọng, Tất nbiên ông cũng không thể thoát khỏi những hạn chế lịch sử, chẳng",
+      "hạin, tư tưởng phong kiến nước lớn, coi nước mình là văn minh, còn những",
+      "nước hèn kém hơn mình là man rợ. Những hạn chế này có làm giảm vẻ đẹp",
+      "của những thành tích vói trên của ông ít nhiều",
+      "Đoàn Nhữ Hài không để lại một bài thờ bào, và bài biểu tạ nối tiếng",
+      "của ông viết thay vua Anh Tộng thì: cũng không thấy một bộ sử chính thức",
+      "nào ghi lại, Nhưng vào đầu thế kỷ này, người ta tim thấy trong thần tích của",
+      "đền thờ ông có bài văn ấy. Do đó, mặc dầu chưa thế khẳng định dirt khoát.",
+      "chúng tôi vẫn xem ông là một tác giả của văn học Lý ? Trần và đưa bài biểu",
+      "này vào tuyển tập thơ văn đề bạn đọc tham khảo",
+      "(1) Nay thuộc huyện gia-lộc, tỉnh hải-hưng",
+      "(2) Nay thuộc tỉnh Bình-trị-thiên",
+      "(3) Theo ĐVSKTT, Bản ký, Q. VII thủ khi nghe tin Đoàn Nhữ Hải. chết, Trần Minh Tông đã",
+      "có một nhận định có hàm chút phê phán: - Nhữ Hải dùng mưu tất thắng, thừa thế tất",
+      "thắng, công lớn gần xong, cuối cùng bị quân giặc dử mồi mà chết. Nhữ Hài không",
+      "phải là người không biết tinh thế của giặc, chỉ: vì muốn làm: to quá mới đến nổi thế",
+      "mà thối. Thế, mời biết sự mong muốn của người, ta không thề quá phận hạn, được -",
+      "(4) Hai câu này được ĐVSKT, Bản kỷ, Q.VI ghi lại."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

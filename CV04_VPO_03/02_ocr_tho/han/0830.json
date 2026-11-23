@@ -1,0 +1,498 @@
+{
+  "page_id": "0830",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 830,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0830_han_000",
+      "bbox": [
+        [
+          957,
+          730
+        ],
+        [
+          1281,
+          730
+        ],
+        [
+          1281,
+          870
+        ],
+        [
+          957,
+          870
+        ]
+      ],
+      "bbox_original": [
+        [
+          957,
+          945
+        ],
+        [
+          1281,
+          945
+        ],
+        [
+          1281,
+          1085
+        ],
+        [
+          957,
+          1085
+        ]
+      ],
+      "box_xyxy": [
+        957,
+        730,
+        1281,
+        870
+      ],
+      "text": "范邁",
+      "confidence": 0.8878
+    },
+    {
+      "line_id": "0830_han_001",
+      "bbox": [
+        [
+          379,
+          1066
+        ],
+        [
+          1059,
+          1066
+        ],
+        [
+          1059,
+          1151
+        ],
+        [
+          379,
+          1151
+        ]
+      ],
+      "bbox_original": [
+        [
+          379,
+          1281
+        ],
+        [
+          1059,
+          1281
+        ],
+        [
+          1059,
+          1366
+        ],
+        [
+          379,
+          1366
+        ]
+      ],
+      "box_xyxy": [
+        379,
+        1066,
+        1059,
+        1151
+      ],
+      "text": "Tén óng, cūng thưòng goi là Pham Tōng Mai 范宗邁 hiu Kinh Khè",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0830_han_002",
+      "bbox": [
+        [
+          265,
+          1127
+        ],
+        [
+          1059,
+          1127
+        ],
+        [
+          1059,
+          1220
+        ],
+        [
+          265,
+          1220
+        ]
+      ],
+      "bbox_original": [
+        [
+          265,
+          1342
+        ],
+        [
+          1059,
+          1342
+        ],
+        [
+          1059,
+          1435
+        ],
+        [
+          265,
+          1435
+        ]
+      ],
+      "box_xyxy": [
+        265,
+        1127,
+        1059,
+        1220
+      ],
+      "text": "苟文溪, sinh và mǎt năm nào chua rö. Nguòi hưong Kinh-chǔ  主, huyén",
+      "confidence": 0.9071
+    },
+    {
+      "line_id": "0830_han_003",
+      "bbox": [
+        [
+          249,
+          1200
+        ],
+        [
+          1059,
+          1200
+        ],
+        [
+          1059,
+          1269
+        ],
+        [
+          249,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          249,
+          1415
+        ],
+        [
+          1059,
+          1415
+        ],
+        [
+          1059,
+          1484
+        ],
+        [
+          249,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        249,
+        1200,
+        1059,
+        1269
+      ],
+      "text": "Giáp-son 山 , phǔ Tan-hung 斤 , nay thuòc tinh Hǎi-hung, là anh em",
+      "confidence": 0.9123
+    },
+    {
+      "line_id": "0830_han_004",
+      "bbox": [
+        [
+          250,
+          1267
+        ],
+        [
+          1059,
+          1267
+        ],
+        [
+          1059,
+          1327
+        ],
+        [
+          250,
+          1327
+        ]
+      ],
+      "bbox_original": [
+        [
+          250,
+          1482
+        ],
+        [
+          1059,
+          1482
+        ],
+        [
+          1059,
+          1542
+        ],
+        [
+          250,
+          1542
+        ]
+      ],
+      "box_xyxy": [
+        250,
+        1267,
+        1059,
+        1327
+      ],
+      "text": "ruôt vói Phąm Ngó(). Ong nguyén hò Chúc 兄 tén Có 固 sau vi vua Tràn",
+      "confidence": 0.9211
+    },
+    {
+      "line_id": "0830_han_005",
+      "bbox": [
+        [
+          248,
+          1327
+        ],
+        [
+          1059,
+          1327
+        ],
+        [
+          1059,
+          1386
+        ],
+        [
+          248,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          248,
+          1542
+        ],
+        [
+          1059,
+          1542
+        ],
+        [
+          1059,
+          1601
+        ],
+        [
+          248,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        248,
+        1327,
+        1059,
+        1386
+      ],
+      "text": "Nhǎn Tông 陳 仁 宗 cho rǎng ho Chúc khòng phǎi là môt ho lón nèn dôi",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0830_han_006",
+      "bbox": [
+        [
+          247,
+          1387
+        ],
+        [
+          1943,
+          1389
+        ],
+        [
+          1943,
+          1446
+        ],
+        [
+          247,
+          1444
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1602
+        ],
+        [
+          1943,
+          1604
+        ],
+        [
+          1943,
+          1661
+        ],
+        [
+          247,
+          1659
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1387,
+        1943,
+        1446
+      ],
+      "text": "lăm ho Pham. Còn tén Có thi lai trùng vói tén thày hoc Nguyn Sǐ Có 元 ±",
+      "confidence": 0.9284
+    },
+    {
+      "line_id": "0830_han_007",
+      "bbox": [
+        [
+          242,
+          1641
+        ],
+        [
+          1059,
+          1641
+        ],
+        [
+          1059,
+          1708
+        ],
+        [
+          242,
+          1708
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1856
+        ],
+        [
+          1059,
+          1856
+        ],
+        [
+          1059,
+          1923
+        ],
+        [
+          242,
+          1923
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        1641,
+        1059,
+        1708
+      ],
+      "text": "Minh Tóng 陳 月 宗 (1314 — 1329), òng có di sú nhà Minh cùng vói Nguyēn",
+      "confidence": 0.9501
+    },
+    {
+      "line_id": "0830_han_008",
+      "bbox": [
+        [
+          241,
+          1701
+        ],
+        [
+          1059,
+          1701
+        ],
+        [
+          1059,
+          1770
+        ],
+        [
+          241,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          1916
+        ],
+        [
+          1059,
+          1916
+        ],
+        [
+          1059,
+          1985
+        ],
+        [
+          241,
+          1985
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1701,
+        1059,
+        1770
+      ],
+      "text": "Trung Ngan 元  彦 Khi vě làm chúrc Ngu súr trung tán, röi sau thǎng lén",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0830_han_009",
+      "bbox": [
+        [
+          1077,
+          2387
+        ],
+        [
+          1112,
+          2387
+        ],
+        [
+          1112,
+          2422
+        ],
+        [
+          1077,
+          2422
+        ]
+      ],
+      "bbox_original": [
+        [
+          1077,
+          2602
+        ],
+        [
+          1112,
+          2602
+        ],
+        [
+          1112,
+          2637
+        ],
+        [
+          1077,
+          2637
+        ]
+      ],
+      "box_xyxy": [
+        1077,
+        2387,
+        1112,
+        2422
+      ],
+      "text": "中",
+      "confidence": 0.2349
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [
+      "范邁",
+      "中"
+    ],
+    "interlinear_triplets": []
+  }
+}

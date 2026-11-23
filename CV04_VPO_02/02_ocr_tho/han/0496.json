@@ -1,0 +1,218 @@
+{
+  "page_id": "0496",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 496,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1802,
+    "footnote_separator_y_original": 1961,
+    "effective_width": 1558,
+    "effective_height": 1802
+  },
+  "items": [
+    {
+      "line_id": "0496_han_000",
+      "bbox": [
+        [
+          211,
+          1
+        ],
+        [
+          572,
+          1
+        ],
+        [
+          572,
+          53
+        ],
+        [
+          211,
+          53
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          160
+        ],
+        [
+          572,
+          160
+        ],
+        [
+          572,
+          212
+        ],
+        [
+          211,
+          212
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        1,
+        572,
+        53
+      ],
+      "text": "佳音欲寄憑誰說.",
+      "confidence": 0.9959
+    },
+    {
+      "line_id": "0496_han_001",
+      "bbox": [
+        [
+          206,
+          66
+        ],
+        [
+          380,
+          66
+        ],
+        [
+          380,
+          132
+        ],
+        [
+          206,
+          132
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          225
+        ],
+        [
+          380,
+          225
+        ],
+        [
+          380,
+          291
+        ],
+        [
+          206,
+          291
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        66,
+        380,
+        132
+      ],
+      "text": "憑誰說，",
+      "confidence": 0.9833
+    },
+    {
+      "line_id": "0496_han_002",
+      "bbox": [
+        [
+          208,
+          140
+        ],
+        [
+          427,
+          140
+        ],
+        [
+          427,
+          204
+        ],
+        [
+          208,
+          204
+        ]
+      ],
+      "bbox_original": [
+        [
+          208,
+          299
+        ],
+        [
+          427,
+          299
+        ],
+        [
+          427,
+          363
+        ],
+        [
+          208,
+          363
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        140,
+        427,
+        204
+      ],
+      "text": "幾多恩愛，",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0496_han_003",
+      "bbox": [
+        [
+          209,
+          213
+        ],
+        [
+          476,
+          213
+        ],
+        [
+          476,
+          276
+        ],
+        [
+          209,
+          276
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          372
+        ],
+        [
+          476,
+          372
+        ],
+        [
+          476,
+          435
+        ],
+        [
+          209,
+          435
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        213,
+        476,
+        276
+      ],
+      "text": "幾多經離別.",
+      "confidence": 0.9974
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "佳音欲寄憑誰說.",
+      "憑誰說，",
+      "幾多恩愛，",
+      "幾多經離別."
+    ],
+    "interlinear_triplets": []
+  }
+}

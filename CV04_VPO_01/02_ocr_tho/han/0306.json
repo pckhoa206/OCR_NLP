@@ -1,0 +1,351 @@
+{
+  "page_id": "0306",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 306,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0306_han_000",
+      "bbox": [
+        [
+          571,
+          160
+        ],
+        [
+          1087,
+          165
+        ],
+        [
+          1086,
+          240
+        ],
+        [
+          570,
+          236
+        ]
+      ],
+      "bbox_original": [
+        [
+          571,
+          328
+        ],
+        [
+          1087,
+          333
+        ],
+        [
+          1086,
+          408
+        ],
+        [
+          570,
+          404
+        ]
+      ],
+      "box_xyxy": [
+        570,
+        160,
+        1087,
+        240
+      ],
+      "text": "天下有心人",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0306_han_001",
+      "bbox": [
+        [
+          572,
+          412
+        ],
+        [
+          1082,
+          412
+        ],
+        [
+          1082,
+          487
+        ],
+        [
+          572,
+          487
+        ]
+      ],
+      "bbox_original": [
+        [
+          572,
+          580
+        ],
+        [
+          1082,
+          580
+        ],
+        [
+          1082,
+          655
+        ],
+        [
+          572,
+          655
+        ]
+      ],
+      "box_xyxy": [
+        572,
+        412,
+        1082,
+        487
+      ],
+      "text": "盡解相思死",
+      "confidence": 0.9177
+    },
+    {
+      "line_id": "0306_han_002",
+      "bbox": [
+        [
+          568,
+          651
+        ],
+        [
+          1085,
+          658
+        ],
+        [
+          1084,
+          744
+        ],
+        [
+          567,
+          737
+        ]
+      ],
+      "bbox_original": [
+        [
+          568,
+          819
+        ],
+        [
+          1085,
+          826
+        ],
+        [
+          1084,
+          912
+        ],
+        [
+          567,
+          905
+        ]
+      ],
+      "box_xyxy": [
+        567,
+        651,
+        1085,
+        744
+      ],
+      "text": "天下負心人",
+      "confidence": 0.9978
+    },
+    {
+      "line_id": "0306_han_003",
+      "bbox": [
+        [
+          570,
+          904
+        ],
+        [
+          1080,
+          907
+        ],
+        [
+          1079,
+          986
+        ],
+        [
+          569,
+          982
+        ]
+      ],
+      "bbox_original": [
+        [
+          570,
+          1072
+        ],
+        [
+          1080,
+          1075
+        ],
+        [
+          1079,
+          1154
+        ],
+        [
+          569,
+          1150
+        ]
+      ],
+      "box_xyxy": [
+        569,
+        904,
+        1080,
+        986
+      ],
+      "text": "不識相思意",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0306_han_004",
+      "bbox": [
+        [
+          573,
+          1256
+        ],
+        [
+          1084,
+          1261
+        ],
+        [
+          1083,
+          1343
+        ],
+        [
+          572,
+          1339
+        ]
+      ],
+      "bbox_original": [
+        [
+          573,
+          1424
+        ],
+        [
+          1084,
+          1429
+        ],
+        [
+          1083,
+          1511
+        ],
+        [
+          572,
+          1507
+        ]
+      ],
+      "box_xyxy": [
+        572,
+        1256,
+        1084,
+        1343
+      ],
+      "text": "有心與負心",
+      "confidence": 0.9982
+    },
+    {
+      "line_id": "0306_han_005",
+      "bbox": [
+        [
+          569,
+          1504
+        ],
+        [
+          1085,
+          1504
+        ],
+        [
+          1085,
+          1579
+        ],
+        [
+          569,
+          1579
+        ]
+      ],
+      "bbox_original": [
+        [
+          569,
+          1672
+        ],
+        [
+          1085,
+          1672
+        ],
+        [
+          1085,
+          1747
+        ],
+        [
+          569,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        569,
+        1504,
+        1085,
+        1579
+      ],
+      "text": "不知落何地",
+      "confidence": 0.9999
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "天下有心人",
+      "盡解相思死",
+      "天下負心人",
+      "不識相思意",
+      "有心與負心",
+      "不知落何地"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "天下有心人",
+        "phien_am": "Thiên hạ hữu tâm nhân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "盡解相思死",
+        "phien_am": "Tận giải tương tic tử;",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "天下負心人",
+        "phien_am": "Thiên hạ phụ tâm nhân",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "不識相思意",
+        "phien_am": "Bất thức tương 115 ý.",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "有心與負心",
+        "phien_am": "Hữu tâm dữ phụ tâm",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "不知落何地",
+        "phien_am": "Bãt tri lạc hà địa.",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,748 @@
+{
+  "page_id": "0460",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 460,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1144,
+    "footnote_separator_y_original": 1303,
+    "effective_width": 1558,
+    "effective_height": 1144
+  },
+  "items": [
+    {
+      "line_id": "0460_viet_000",
+      "bbox": [
+        [
+          156,
+          3
+        ],
+        [
+          979,
+          0
+        ],
+        [
+          979,
+          56
+        ],
+        [
+          156,
+          60
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          162
+        ],
+        [
+          979,
+          159
+        ],
+        [
+          979,
+          215
+        ],
+        [
+          156,
+          219
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        0,
+        979,
+        60
+      ],
+      "text": "Mơ mộng gi? Núi La Phù, núi Đại Dữu",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0460_viet_001",
+      "bbox": [
+        [
+          154,
+          69
+        ],
+        [
+          943,
+          62
+        ],
+        [
+          943,
+          123
+        ],
+        [
+          154,
+          129
+        ]
+      ],
+      "bbox_original": [
+        [
+          154,
+          228
+        ],
+        [
+          943,
+          221
+        ],
+        [
+          943,
+          282
+        ],
+        [
+          154,
+          288
+        ]
+      ],
+      "box_xyxy": [
+        154,
+        62,
+        943,
+        129
+      ],
+      "text": "Nơi ráng tìm, bóng thưa, hương thầm?,",
+      "confidence": 0.9244
+    },
+    {
+      "line_id": "0460_viet_002",
+      "bbox": [
+        [
+          157,
+          134
+        ],
+        [
+          1180,
+          126
+        ],
+        [
+          1181,
+          190
+        ],
+        [
+          157,
+          198
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          293
+        ],
+        [
+          1180,
+          285
+        ],
+        [
+          1181,
+          349
+        ],
+        [
+          157,
+          357
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        126,
+        1181,
+        198
+      ],
+      "text": "Cảng tăng thêm nỗi khổ ngâm cho Tương Dương?",
+      "confidence": 0.9078
+    },
+    {
+      "line_id": "0460_viet_003",
+      "bbox": [
+        [
+          155,
+          266
+        ],
+        [
+          737,
+          259
+        ],
+        [
+          738,
+          322
+        ],
+        [
+          156,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          425
+        ],
+        [
+          737,
+          418
+        ],
+        [
+          738,
+          481
+        ],
+        [
+          156,
+          489
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        259,
+        738,
+        330
+      ],
+      "text": "Mĩ nhân gửi tặng một cảnh\",",
+      "confidence": 0.902
+    },
+    {
+      "line_id": "0460_viet_004",
+      "bbox": [
+        [
+          159,
+          336
+        ],
+        [
+          1327,
+          331
+        ],
+        [
+          1328,
+          387
+        ],
+        [
+          159,
+          392
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          495
+        ],
+        [
+          1327,
+          490
+        ],
+        [
+          1328,
+          546
+        ],
+        [
+          159,
+          551
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        331,
+        1328,
+        392
+      ],
+      "text": "Gió nơi bình bạc, là lướt nhuy hoa màu hồng nhạt mới hé.",
+      "confidence": 0.9278
+    },
+    {
+      "line_id": "0460_viet_005",
+      "bbox": [
+        [
+          162,
+          399
+        ],
+        [
+          556,
+          404
+        ],
+        [
+          555,
+          461
+        ],
+        [
+          161,
+          456
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          558
+        ],
+        [
+          556,
+          563
+        ],
+        [
+          555,
+          620
+        ],
+        [
+          161,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        399,
+        556,
+        461
+      ],
+      "text": "Thần thái rạng đẹp,",
+      "confidence": 0.9269
+    },
+    {
+      "line_id": "0460_viet_006",
+      "bbox": [
+        [
+          157,
+          464
+        ],
+        [
+          1011,
+          459
+        ],
+        [
+          1012,
+          526
+        ],
+        [
+          157,
+          531
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          623
+        ],
+        [
+          1011,
+          618
+        ],
+        [
+          1012,
+          685
+        ],
+        [
+          157,
+          690
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        459,
+        1012,
+        531
+      ],
+      "text": "Rốt cục tựa như phong tư của chàng Lục",
+      "confidence": 0.9288
+    },
+    {
+      "line_id": "0460_viet_007",
+      "bbox": [
+        [
+          160,
+          532
+        ],
+        [
+          508,
+          532
+        ],
+        [
+          508,
+          594
+        ],
+        [
+          160,
+          594
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          691
+        ],
+        [
+          508,
+          691
+        ],
+        [
+          508,
+          753
+        ],
+        [
+          160,
+          753
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        532,
+        508,
+        594
+      ],
+      "text": "Thị nữ hầu rượu,",
+      "confidence": 0.937
+    },
+    {
+      "line_id": "0460_viet_008",
+      "bbox": [
+        [
+          159,
+          601
+        ],
+        [
+          1031,
+          599
+        ],
+        [
+          1031,
+          660
+        ],
+        [
+          159,
+          662
+        ]
+      ],
+      "bbox_original": [
+        [
+          159,
+          760
+        ],
+        [
+          1031,
+          758
+        ],
+        [
+          1031,
+          819
+        ],
+        [
+          159,
+          821
+        ]
+      ],
+      "box_xyxy": [
+        159,
+        599,
+        1031,
+        662
+      ],
+      "text": "Sao có thể ngăn được, mười lần nâng chén",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0460_viet_009",
+      "bbox": [
+        [
+          161,
+          668
+        ],
+        [
+          1053,
+          670
+        ],
+        [
+          1053,
+          728
+        ],
+        [
+          161,
+          726
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          827
+        ],
+        [
+          1053,
+          829
+        ],
+        [
+          1053,
+          887
+        ],
+        [
+          161,
+          885
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        668,
+        1053,
+        728
+      ],
+      "text": "Còn thiếu một điều, say làm khổ cho huynh,",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0460_viet_010",
+      "bbox": [
+        [
+          163,
+          743
+        ],
+        [
+          689,
+          743
+        ],
+        [
+          689,
+          793
+        ],
+        [
+          163,
+          793
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          902
+        ],
+        [
+          689,
+          902
+        ],
+        [
+          689,
+          952
+        ],
+        [
+          163,
+          952
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        743,
+        689,
+        793
+      ],
+      "text": "Vì hoa mai mà làm bài từ.",
+      "confidence": 0.9204
+    },
+    {
+      "line_id": "0460_viet_011",
+      "bbox": [
+        [
+          160,
+          809
+        ],
+        [
+          652,
+          808
+        ],
+        [
+          652,
+          863
+        ],
+        [
+          160,
+          864
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          968
+        ],
+        [
+          652,
+          967
+        ],
+        [
+          652,
+          1022
+        ],
+        [
+          160,
+          1023
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        808,
+        652,
+        864
+      ],
+      "text": "Dịch theo nguyên điệu:",
+      "confidence": 0.9312
+    },
+    {
+      "line_id": "0460_viet_012",
+      "bbox": [
+        [
+          161,
+          870
+        ],
+        [
+          564,
+          870
+        ],
+        [
+          564,
+          930
+        ],
+        [
+          161,
+          930
+        ]
+      ],
+      "bbox_original": [
+        [
+          161,
+          1029
+        ],
+        [
+          564,
+          1029
+        ],
+        [
+          564,
+          1089
+        ],
+        [
+          161,
+          1089
+        ]
+      ],
+      "box_xyxy": [
+        161,
+        870,
+        564,
+        930
+      ],
+      "text": "Bạch Tuyết lầu cao,",
+      "confidence": 0.9261
+    },
+    {
+      "line_id": "0460_viet_013",
+      "bbox": [
+        [
+          160,
+          941
+        ],
+        [
+          1040,
+          937
+        ],
+        [
+          1040,
+          994
+        ],
+        [
+          160,
+          998
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          1100
+        ],
+        [
+          1040,
+          1096
+        ],
+        [
+          1040,
+          1153
+        ],
+        [
+          160,
+          1157
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        937,
+        1040,
+        998
+      ],
+      "text": "Rét ban mai, mây lạnh một quầng mưa nhỏ",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0460_viet_014",
+      "bbox": [
+        [
+          163,
+          1005
+        ],
+        [
+          537,
+          1007
+        ],
+        [
+          536,
+          1065
+        ],
+        [
+          163,
+          1062
+        ]
+      ],
+      "bbox_original": [
+        [
+          163,
+          1164
+        ],
+        [
+          537,
+          1166
+        ],
+        [
+          536,
+          1224
+        ],
+        [
+          163,
+          1221
+        ]
+      ],
+      "box_xyxy": [
+        163,
+        1005,
+        537,
+        1065
+      ],
+      "text": "Cả tuần đóng cửa,",
+      "confidence": 0.9267
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Mơ mộng gi? Núi La Phù, núi Đại Dữu",
+      "Nơi ráng tìm, bóng thưa, hương thầm?,",
+      "Cảng tăng thêm nỗi khổ ngâm cho Tương Dương?",
+      "Mĩ nhân gửi tặng một cảnh\",",
+      "Gió nơi bình bạc, là lướt nhuy hoa màu hồng nhạt mới hé.",
+      "Thần thái rạng đẹp,",
+      "Rốt cục tựa như phong tư của chàng Lục",
+      "Thị nữ hầu rượu,",
+      "Sao có thể ngăn được, mười lần nâng chén",
+      "Còn thiếu một điều, say làm khổ cho huynh,",
+      "Vì hoa mai mà làm bài từ."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Bạch Tuyết lầu cao,",
+      "Rét ban mai, mây lạnh một quầng mưa nhỏ",
+      "Cả tuần đóng cửa,"
+    ],
+    "interlinear_triplets": []
+  }
+}

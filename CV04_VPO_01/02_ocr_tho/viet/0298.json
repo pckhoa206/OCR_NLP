@@ -1,0 +1,570 @@
+{
+  "page_id": "0298",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 298,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0298_viet_000",
+      "bbox": [
+        [
+          412,
+          170
+        ],
+        [
+          1066,
+          173
+        ],
+        [
+          1066,
+          234
+        ],
+        [
+          411,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          412,
+          338
+        ],
+        [
+          1066,
+          341
+        ],
+        [
+          1066,
+          402
+        ],
+        [
+          411,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        411,
+        170,
+        1066,
+        234
+      ],
+      "text": "Đào-hoa ồ lý, đào hoa am",
+      "confidence": 0.9145
+    },
+    {
+      "line_id": "0298_viet_001",
+      "bbox": [
+        [
+          415,
+          362
+        ],
+        [
+          1155,
+          364
+        ],
+        [
+          1155,
+          428
+        ],
+        [
+          414,
+          425
+        ]
+      ],
+      "bbox_original": [
+        [
+          415,
+          530
+        ],
+        [
+          1155,
+          532
+        ],
+        [
+          1155,
+          596
+        ],
+        [
+          414,
+          593
+        ]
+      ],
+      "box_xyxy": [
+        414,
+        362,
+        1155,
+        428
+      ],
+      "text": "Đào-hoa am lý, đào-hoa tiên",
+      "confidence": 0.9345
+    },
+    {
+      "line_id": "0298_viet_002",
+      "bbox": [
+        [
+          417,
+          553
+        ],
+        [
+          1280,
+          558
+        ],
+        [
+          1280,
+          621
+        ],
+        [
+          416,
+          616
+        ]
+      ],
+      "bbox_original": [
+        [
+          417,
+          721
+        ],
+        [
+          1280,
+          726
+        ],
+        [
+          1280,
+          789
+        ],
+        [
+          416,
+          784
+        ]
+      ],
+      "box_xyxy": [
+        416,
+        553,
+        1280,
+        621
+      ],
+      "text": "Đào-hoa tiên-nhân chủng đào thụ",
+      "confidence": 0.9273
+    },
+    {
+      "line_id": "0298_viet_003",
+      "bbox": [
+        [
+          423,
+          741
+        ],
+        [
+          1292,
+          743
+        ],
+        [
+          1292,
+          807
+        ],
+        [
+          422,
+          805
+        ]
+      ],
+      "bbox_original": [
+        [
+          423,
+          909
+        ],
+        [
+          1292,
+          911
+        ],
+        [
+          1292,
+          975
+        ],
+        [
+          422,
+          973
+        ]
+      ],
+      "box_xyxy": [
+        422,
+        741,
+        1292,
+        807
+      ],
+      "text": "Hựu chiết hoa-chi dương tửu tiền",
+      "confidence": 0.9233
+    },
+    {
+      "line_id": "0298_viet_004",
+      "bbox": [
+        [
+          421,
+          1013
+        ],
+        [
+          1166,
+          1020
+        ],
+        [
+          1166,
+          1083
+        ],
+        [
+          420,
+          1077
+        ]
+      ],
+      "bbox_original": [
+        [
+          421,
+          1181
+        ],
+        [
+          1166,
+          1188
+        ],
+        [
+          1166,
+          1251
+        ],
+        [
+          420,
+          1245
+        ]
+      ],
+      "box_xyxy": [
+        420,
+        1013,
+        1166,
+        1083
+      ],
+      "text": "Tửu tinh chỉ tại hoa tiền tọa",
+      "confidence": 0.9187
+    },
+    {
+      "line_id": "0298_viet_005",
+      "bbox": [
+        [
+          422,
+          1208
+        ],
+        [
+          1206,
+          1210
+        ],
+        [
+          1206,
+          1274
+        ],
+        [
+          421,
+          1272
+        ]
+      ],
+      "bbox_original": [
+        [
+          422,
+          1376
+        ],
+        [
+          1206,
+          1378
+        ],
+        [
+          1206,
+          1442
+        ],
+        [
+          421,
+          1440
+        ]
+      ],
+      "box_xyxy": [
+        421,
+        1208,
+        1206,
+        1274
+      ],
+      "text": "Tửu túy hoàn tu hoa hạ miên",
+      "confidence": 0.9316
+    },
+    {
+      "line_id": "0298_viet_006",
+      "bbox": [
+        [
+          419,
+          1403
+        ],
+        [
+          1252,
+          1406
+        ],
+        [
+          1252,
+          1470
+        ],
+        [
+          418,
+          1467
+        ]
+      ],
+      "bbox_original": [
+        [
+          419,
+          1571
+        ],
+        [
+          1252,
+          1574
+        ],
+        [
+          1252,
+          1638
+        ],
+        [
+          418,
+          1635
+        ]
+      ],
+      "box_xyxy": [
+        418,
+        1403,
+        1252,
+        1470
+      ],
+      "text": "Hoa tiền hoa hậu, nhật phục nhật",
+      "confidence": 0.9328
+    },
+    {
+      "line_id": "0298_viet_007",
+      "bbox": [
+        [
+          423,
+          1596
+        ],
+        [
+          1238,
+          1599
+        ],
+        [
+          1237,
+          1663
+        ],
+        [
+          422,
+          1660
+        ]
+      ],
+      "bbox_original": [
+        [
+          423,
+          1764
+        ],
+        [
+          1238,
+          1767
+        ],
+        [
+          1237,
+          1831
+        ],
+        [
+          422,
+          1828
+        ]
+      ],
+      "box_xyxy": [
+        422,
+        1596,
+        1238,
+        1663
+      ],
+      "text": "Tửu túy tửu tinh, niên phục niên",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0298_viet_008",
+      "bbox": [
+        [
+          421,
+          1873
+        ],
+        [
+          1222,
+          1873
+        ],
+        [
+          1222,
+          1937
+        ],
+        [
+          421,
+          1937
+        ]
+      ],
+      "bbox_original": [
+        [
+          421,
+          2041
+        ],
+        [
+          1222,
+          2041
+        ],
+        [
+          1222,
+          2105
+        ],
+        [
+          421,
+          2105
+        ]
+      ],
+      "box_xyxy": [
+        421,
+        1873,
+        1222,
+        1937
+      ],
+      "text": "Bãt nguyện cúc-cung xa-mã tiền",
+      "confidence": 0.9342
+    },
+    {
+      "line_id": "0298_viet_009",
+      "bbox": [
+        [
+          420,
+          2067
+        ],
+        [
+          1229,
+          2069
+        ],
+        [
+          1228,
+          2132
+        ],
+        [
+          419,
+          2130
+        ]
+      ],
+      "bbox_original": [
+        [
+          420,
+          2235
+        ],
+        [
+          1229,
+          2237
+        ],
+        [
+          1228,
+          2300
+        ],
+        [
+          419,
+          2298
+        ]
+      ],
+      "box_xyxy": [
+        419,
+        2067,
+        1229,
+        2132
+      ],
+      "text": "Đãn nguyện lão tử hoa tửu gian",
+      "confidence": 0.9325
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Đào-hoa ồ lý, đào hoa am",
+      "Đào-hoa am lý, đào-hoa tiên",
+      "Đào-hoa tiên-nhân chủng đào thụ",
+      "Hựu chiết hoa-chi dương tửu tiền",
+      "Tửu tinh chỉ tại hoa tiền tọa",
+      "Tửu túy hoàn tu hoa hạ miên",
+      "Hoa tiền hoa hậu, nhật phục nhật",
+      "Tửu túy tửu tinh, niên phục niên",
+      "Bãt nguyện cúc-cung xa-mã tiền",
+      "Đãn nguyện lão tử hoa tửu gian"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "桃花塢裏桃花菴",
+        "phien_am": "Đào-hoa ồ lý, đào hoa am",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "桃花菴裏桃花僊",
+        "phien_am": "Đào-hoa am lý, đào-hoa tiên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "桃花仙花種桃樹",
+        "phien_am": "Đào-hoa tiên-nhân chủng đào thụ",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "又折花枝當酒錢",
+        "phien_am": "Hựu chiết hoa-chi dương tửu tiền",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "酒醒只在花前坐",
+        "phien_am": "Tửu tinh chỉ tại hoa tiền tọa",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "酒醉還須花下眠",
+        "phien_am": "Tửu túy hoàn tu hoa hạ miên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "花前花後日復日",
+        "phien_am": "Hoa tiền hoa hậu, nhật phục nhật",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "酒醉酒醒年復年",
+        "phien_am": "Tửu túy tửu tinh, niên phục niên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "不願鞠躬車馬前",
+        "phien_am": "Bãt nguyện cúc-cung xa-mã tiền",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "但願老死花酒間",
+        "phien_am": "Đãn nguyện lão tử hoa tửu gian",
+        "dich_nghia_gloss": ""
+      }
+    ],
+    "has_dich_nghia": false
+  }
+}

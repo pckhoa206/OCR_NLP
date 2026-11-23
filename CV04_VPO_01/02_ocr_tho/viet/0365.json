@@ -1,0 +1,471 @@
+{
+  "page_id": "0365",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 365,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0365_viet_000",
+      "bbox": [
+        [
+          294,
+          222
+        ],
+        [
+          1236,
+          225
+        ],
+        [
+          1235,
+          283
+        ],
+        [
+          293,
+          280
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          390
+        ],
+        [
+          1236,
+          393
+        ],
+        [
+          1235,
+          451
+        ],
+        [
+          293,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        222,
+        1236,
+        283
+      ],
+      "text": "Kề hương-tinh cho đến khách-trung.",
+      "confidence": 0.8949
+    },
+    {
+      "line_id": "0365_viet_001",
+      "bbox": [
+        [
+          401,
+          454
+        ],
+        [
+          1174,
+          458
+        ],
+        [
+          1174,
+          519
+        ],
+        [
+          401,
+          515
+        ]
+      ],
+      "bbox_original": [
+        [
+          401,
+          622
+        ],
+        [
+          1174,
+          626
+        ],
+        [
+          1174,
+          687
+        ],
+        [
+          401,
+          683
+        ]
+      ],
+      "box_xyxy": [
+        401,
+        454,
+        1174,
+        519
+      ],
+      "text": "Mà nay nào nguyệt nào phong,",
+      "confidence": 0.9267
+    },
+    {
+      "line_id": "0365_viet_002",
+      "bbox": [
+        [
+          242,
+          690
+        ],
+        [
+          1075,
+          693
+        ],
+        [
+          1075,
+          749
+        ],
+        [
+          242,
+          747
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          858
+        ],
+        [
+          1075,
+          861
+        ],
+        [
+          1075,
+          917
+        ],
+        [
+          242,
+          915
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        690,
+        1075,
+        749
+      ],
+      "text": "Nào thi nào tửu biết cùng ai hay.",
+      "confidence": 0.9167
+    },
+    {
+      "line_id": "0365_viet_003",
+      "bbox": [
+        [
+          295,
+          921
+        ],
+        [
+          1070,
+          923
+        ],
+        [
+          1070,
+          984
+        ],
+        [
+          294,
+          981
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1089
+        ],
+        [
+          1070,
+          1091
+        ],
+        [
+          1070,
+          1152
+        ],
+        [
+          294,
+          1149
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        921,
+        1070,
+        984
+      ],
+      "text": "Sầu ly-biệt tuôn đây hai mắt",
+      "confidence": 0.9304
+    },
+    {
+      "line_id": "0365_viet_004",
+      "bbox": [
+        [
+          298,
+          1155
+        ],
+        [
+          1255,
+          1158
+        ],
+        [
+          1255,
+          1219
+        ],
+        [
+          297,
+          1216
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          1323
+        ],
+        [
+          1255,
+          1326
+        ],
+        [
+          1255,
+          1387
+        ],
+        [
+          297,
+          1384
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1155,
+        1255,
+        1219
+      ],
+      "text": "Bóng hương-quan xa khuất dặm ngàn",
+      "confidence": 0.927
+    },
+    {
+      "line_id": "0365_viet_005",
+      "bbox": [
+        [
+          409,
+          1392
+        ],
+        [
+          1081,
+          1392
+        ],
+        [
+          1081,
+          1449
+        ],
+        [
+          409,
+          1449
+        ]
+      ],
+      "bbox_original": [
+        [
+          409,
+          1560
+        ],
+        [
+          1081,
+          1560
+        ],
+        [
+          1081,
+          1617
+        ],
+        [
+          409,
+          1617
+        ]
+      ],
+      "box_xyxy": [
+        409,
+        1392,
+        1081,
+        1449
+      ],
+      "text": "Rượu rồi ngồi dựa lan-can",
+      "confidence": 0.9225
+    },
+    {
+      "line_id": "0365_viet_006",
+      "bbox": [
+        [
+          251,
+          1624
+        ],
+        [
+          1262,
+          1627
+        ],
+        [
+          1262,
+          1685
+        ],
+        [
+          251,
+          1682
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1792
+        ],
+        [
+          1262,
+          1795
+        ],
+        [
+          1262,
+          1853
+        ],
+        [
+          251,
+          1850
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1624,
+        1262,
+        1685
+      ],
+      "text": "Chiêm bao tỉnh giác đêm tàn về thu...",
+      "confidence": 0.8936
+    },
+    {
+      "line_id": "0365_viet_007",
+      "bbox": [
+        [
+          675,
+          1973
+        ],
+        [
+          988,
+          1976
+        ],
+        [
+          987,
+          2035
+        ],
+        [
+          674,
+          2032
+        ]
+      ],
+      "bbox_original": [
+        [
+          675,
+          2141
+        ],
+        [
+          988,
+          2144
+        ],
+        [
+          987,
+          2203
+        ],
+        [
+          674,
+          2200
+        ]
+      ],
+      "box_xyxy": [
+        674,
+        1973,
+        988,
+        2035
+      ],
+      "text": "Bản dịch cũ",
+      "confidence": 0.9356
+    },
+    {
+      "line_id": "0365_viet_008",
+      "bbox": [
+        [
+          357,
+          2075
+        ],
+        [
+          1264,
+          2073
+        ],
+        [
+          1264,
+          2132
+        ],
+        [
+          357,
+          2134
+        ]
+      ],
+      "bbox_original": [
+        [
+          357,
+          2243
+        ],
+        [
+          1264,
+          2241
+        ],
+        [
+          1264,
+          2300
+        ],
+        [
+          357,
+          2302
+        ]
+      ],
+      "box_xyxy": [
+        357,
+        2073,
+        1264,
+        2134
+      ],
+      "text": "lương truyền là lác-giả tự dịch lãy",
+      "confidence": 0.9144
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Kề hương-tinh cho đến khách-trung.",
+      "Mà nay nào nguyệt nào phong,",
+      "Nào thi nào tửu biết cùng ai hay.",
+      "Sầu ly-biệt tuôn đây hai mắt",
+      "Bóng hương-quan xa khuất dặm ngàn",
+      "Rượu rồi ngồi dựa lan-can",
+      "Chiêm bao tỉnh giác đêm tàn về thu...",
+      "Bản dịch cũ",
+      "lương truyền là lác-giả tự dịch lãy"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      252.5,
+      486.5,
+      719.5,
+      952.5,
+      1187.0,
+      1420.5,
+      1654.5,
+      2004.0,
+      2103.5
+    ]
+  }
+}

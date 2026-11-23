@@ -1,0 +1,405 @@
+{
+  "page_id": "0354",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 354,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0354_han_000",
+      "bbox": [
+        [
+          467,
+          71
+        ],
+        [
+          1074,
+          73
+        ],
+        [
+          1074,
+          148
+        ],
+        [
+          467,
+          145
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          239
+        ],
+        [
+          1074,
+          241
+        ],
+        [
+          1074,
+          316
+        ],
+        [
+          467,
+          313
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        71,
+        1074,
+        148
+      ],
+      "text": "風情慣似風流",
+      "confidence": 0.9861
+    },
+    {
+      "line_id": "0354_han_001",
+      "bbox": [
+        [
+          464,
+          369
+        ],
+        [
+          1295,
+          368
+        ],
+        [
+          1295,
+          449
+        ],
+        [
+          464,
+          450
+        ]
+      ],
+      "bbox_original": [
+        [
+          464,
+          537
+        ],
+        [
+          1295,
+          536
+        ],
+        [
+          1295,
+          617
+        ],
+        [
+          464,
+          618
+        ]
+      ],
+      "box_xyxy": [
+        464,
+        368,
+        1295,
+        450
+      ],
+      "text": "繁花矧友皇州帝城",
+      "confidence": 0.9992
+    },
+    {
+      "line_id": "0354_han_002",
+      "bbox": [
+        [
+          470,
+          667
+        ],
+        [
+          1185,
+          670
+        ],
+        [
+          1185,
+          747
+        ],
+        [
+          470,
+          744
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          835
+        ],
+        [
+          1185,
+          838
+        ],
+        [
+          1185,
+          915
+        ],
+        [
+          470,
+          912
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        667,
+        1185,
+        747
+      ],
+      "text": "苟非有人情也者",
+      "confidence": 0.9487
+    },
+    {
+      "line_id": "0354_han_003",
+      "bbox": [
+        [
+          468,
+          975
+        ],
+        [
+          1188,
+          978
+        ],
+        [
+          1188,
+          1051
+        ],
+        [
+          468,
+          1049
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          1143
+        ],
+        [
+          1188,
+          1146
+        ],
+        [
+          1188,
+          1219
+        ],
+        [
+          468,
+          1217
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        975,
+        1188,
+        1051
+      ],
+      "text": "胡而春而夏而秋",
+      "confidence": 0.9996
+    },
+    {
+      "line_id": "0354_han_004",
+      "bbox": [
+        [
+          475,
+          1283
+        ],
+        [
+          1078,
+          1281
+        ],
+        [
+          1078,
+          1356
+        ],
+        [
+          475,
+          1358
+        ]
+      ],
+      "bbox_original": [
+        [
+          475,
+          1451
+        ],
+        [
+          1078,
+          1449
+        ],
+        [
+          1078,
+          1524
+        ],
+        [
+          475,
+          1526
+        ]
+      ],
+      "box_xyxy": [
+        475,
+        1281,
+        1078,
+        1358
+      ],
+      "text": "由來紫閣紅樓",
+      "confidence": 0.9987
+    },
+    {
+      "line_id": "0354_han_005",
+      "bbox": [
+        [
+          470,
+          1587
+        ],
+        [
+          1289,
+          1584
+        ],
+        [
+          1289,
+          1659
+        ],
+        [
+          470,
+          1662
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1755
+        ],
+        [
+          1289,
+          1752
+        ],
+        [
+          1289,
+          1827
+        ],
+        [
+          470,
+          1830
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1584,
+        1289,
+        1662
+      ],
+      "text": "英雄不住丈夫難持",
+      "confidence": 0.9928
+    },
+    {
+      "line_id": "0354_han_006",
+      "bbox": [
+        [
+          467,
+          1891
+        ],
+        [
+          1187,
+          1885
+        ],
+        [
+          1188,
+          1960
+        ],
+        [
+          467,
+          1966
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          2059
+        ],
+        [
+          1187,
+          2053
+        ],
+        [
+          1188,
+          2128
+        ],
+        [
+          467,
+          2134
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        1885,
+        1188,
+        1966
+      ],
+      "text": "如此者誰知之者",
+      "confidence": 0.959
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "風情慣似風流",
+      "繁花矧友皇州帝城",
+      "苟非有人情也者",
+      "胡而春而夏而秋",
+      "由來紫閣紅樓",
+      "英雄不住丈夫難持",
+      "如此者誰知之者"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "風情慣似風流",
+        "phien_am": "Phong tình quán tự phong lưu",
+        "dich_nghia_gloss": "- Thói phong tình cũng quen đi như tánh phong-lưu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "繁花矧友皇州帝城",
+        "phien_am": "Phồn-hoa thần hữu hoàng châu đẽ thành",
+        "dich_nghia_gloss": "- Đã là chỗ phôn hoa, lại là nơi đề-khuyết hèn chi."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苟非有人情也者",
+        "phien_am": "Cầu phi hữu nhân tình dã giả",
+        "dich_nghia_gloss": "- Nều không phải có lòng lắt-léo như ai ây.."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "胡而春而夏而秋",
+        "phien_am": "HỒ NHI XUÂN NHI HẠ NHI THU",
+        "dich_nghia_gloss": "- Thì sao cứ lần lừa hết xuân qua hạ, lại qua thu ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "由來紫閣紅樓",
+        "phien_am": "Do lai tử các hồng lâu",
+        "dich_nghia_gloss": "- Xưa nay những nơi lầu hồng gác tía"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "英雄不住丈夫難持",
+        "phien_am": "Anh hùng bất trú trượng phu nan trì.",
+        "dich_nghia_gloss": "- Dâu anh-hùng, trượng phu cũng không cầm lòng đậu."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "如此者誰知之者",
+        "phien_am": "Như thử giả, thùy tri chi giả ?",
+        "dich_nghia_gloss": "- Như vậy, thì ai biết cho ta ?"
+      }
+    ]
+  }
+}

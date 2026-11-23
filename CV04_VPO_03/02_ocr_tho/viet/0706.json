@@ -1,0 +1,124 @@
+{
+  "page_id": "0706",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 706,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0706_viet_000",
+      "bbox": [
+        [
+          730,
+          1734
+        ],
+        [
+          793,
+          1736
+        ],
+        [
+          792,
+          1766
+        ],
+        [
+          729,
+          1764
+        ]
+      ],
+      "bbox_original": [
+        [
+          730,
+          1949
+        ],
+        [
+          793,
+          1951
+        ],
+        [
+          792,
+          1981
+        ],
+        [
+          729,
+          1979
+        ]
+      ],
+      "box_xyxy": [
+        729,
+        1734,
+        793,
+        1766
+      ],
+      "text": "IO44",
+      "confidence": 0.6936
+    },
+    {
+      "line_id": "0706_viet_001",
+      "bbox": [
+        [
+          1280,
+          1823
+        ],
+        [
+          1368,
+          1823
+        ],
+        [
+          1368,
+          1868
+        ],
+        [
+          1280,
+          1868
+        ]
+      ],
+      "bbox_original": [
+        [
+          1280,
+          2038
+        ],
+        [
+          1368,
+          2038
+        ],
+        [
+          1368,
+          2083
+        ],
+        [
+          1280,
+          2083
+        ]
+      ],
+      "box_xyxy": [
+        1280,
+        1823,
+        1368,
+        1868
+      ],
+      "text": "11%",
+      "confidence": 0.7126
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "IO44",
+      "11%"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

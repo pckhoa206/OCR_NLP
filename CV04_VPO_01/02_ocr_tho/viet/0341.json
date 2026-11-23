@@ -1,0 +1,467 @@
+{
+  "page_id": "0341",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 341,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0341_viet_000",
+      "bbox": [
+        [
+          204,
+          6
+        ],
+        [
+          872,
+          3
+        ],
+        [
+          873,
+          58
+        ],
+        [
+          204,
+          61
+        ]
+      ],
+      "bbox_original": [
+        [
+          204,
+          174
+        ],
+        [
+          872,
+          171
+        ],
+        [
+          873,
+          226
+        ],
+        [
+          204,
+          229
+        ]
+      ],
+      "box_xyxy": [
+        204,
+        3,
+        873,
+        61
+      ],
+      "text": "THU DẠ LỮ HOÀI NGÂM",
+      "confidence": 0.913
+    },
+    {
+      "line_id": "0341_viet_001",
+      "bbox": [
+        [
+          1361,
+          8
+        ],
+        [
+          1445,
+          8
+        ],
+        [
+          1445,
+          59
+        ],
+        [
+          1361,
+          59
+        ]
+      ],
+      "bbox_original": [
+        [
+          1361,
+          176
+        ],
+        [
+          1445,
+          176
+        ],
+        [
+          1445,
+          227
+        ],
+        [
+          1361,
+          227
+        ]
+      ],
+      "box_xyxy": [
+        1361,
+        8,
+        1445,
+        59
+      ],
+      "text": "335",
+      "confidence": 0.928
+    },
+    {
+      "line_id": "0341_viet_002",
+      "bbox": [
+        [
+          294,
+          306
+        ],
+        [
+          1177,
+          308
+        ],
+        [
+          1177,
+          369
+        ],
+        [
+          293,
+          367
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          474
+        ],
+        [
+          1177,
+          476
+        ],
+        [
+          1177,
+          537
+        ],
+        [
+          293,
+          535
+        ]
+      ],
+      "box_xyxy": [
+        293,
+        306,
+        1177,
+        369
+      ],
+      "text": "Một làn mây sớm ngắm trên không",
+      "confidence": 0.9223
+    },
+    {
+      "line_id": "0341_viet_003",
+      "bbox": [
+        [
+          400,
+          584
+        ],
+        [
+          1118,
+          586
+        ],
+        [
+          1117,
+          647
+        ],
+        [
+          400,
+          645
+        ]
+      ],
+      "bbox_original": [
+        [
+          400,
+          752
+        ],
+        [
+          1118,
+          754
+        ],
+        [
+          1117,
+          815
+        ],
+        [
+          400,
+          813
+        ]
+      ],
+      "box_xyxy": [
+        400,
+        584,
+        1118,
+        647
+      ],
+      "text": "Lòng quê đầu đã bồng-bồng,",
+      "confidence": 0.891
+    },
+    {
+      "line_id": "0341_viet_004",
+      "bbox": [
+        [
+          242,
+          864
+        ],
+        [
+          1216,
+          868
+        ],
+        [
+          1216,
+          925
+        ],
+        [
+          242,
+          921
+        ]
+      ],
+      "bbox_original": [
+        [
+          242,
+          1032
+        ],
+        [
+          1216,
+          1036
+        ],
+        [
+          1216,
+          1093
+        ],
+        [
+          242,
+          1089
+        ]
+      ],
+      "box_xyxy": [
+        242,
+        864,
+        1216,
+        925
+      ],
+      "text": "Phút theo máy kéo mãy trùng non xa.",
+      "confidence": 0.9218
+    },
+    {
+      "line_id": "0341_viet_005",
+      "bbox": [
+        [
+          294,
+          1145
+        ],
+        [
+          1058,
+          1145
+        ],
+        [
+          1058,
+          1203
+        ],
+        [
+          294,
+          1203
+        ]
+      ],
+      "bbox_original": [
+        [
+          294,
+          1313
+        ],
+        [
+          1058,
+          1313
+        ],
+        [
+          1058,
+          1371
+        ],
+        [
+          294,
+          1371
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        1145,
+        1058,
+        1203
+      ],
+      "text": "Trông tin nhạn biết là đầu tá ?",
+      "confidence": 0.9069
+    },
+    {
+      "line_id": "0341_viet_006",
+      "bbox": [
+        [
+          295,
+          1424
+        ],
+        [
+          1036,
+          1424
+        ],
+        [
+          1036,
+          1481
+        ],
+        [
+          295,
+          1481
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          1592
+        ],
+        [
+          1036,
+          1592
+        ],
+        [
+          1036,
+          1649
+        ],
+        [
+          295,
+          1649
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        1424,
+        1036,
+        1481
+      ],
+      "text": "Tâm-tình này ai tả cho nên 2",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0341_viet_007",
+      "bbox": [
+        [
+          398,
+          1701
+        ],
+        [
+          1178,
+          1705
+        ],
+        [
+          1178,
+          1762
+        ],
+        [
+          398,
+          1758
+        ]
+      ],
+      "bbox_original": [
+        [
+          398,
+          1869
+        ],
+        [
+          1178,
+          1873
+        ],
+        [
+          1178,
+          1930
+        ],
+        [
+          398,
+          1926
+        ]
+      ],
+      "box_xyxy": [
+        398,
+        1701,
+        1178,
+        1762
+      ],
+      "text": "Đêm, chùa Diệu-đẽ chuông rền,",
+      "confidence": 0.9086
+    },
+    {
+      "line_id": "0341_viet_008",
+      "bbox": [
+        [
+          241,
+          1983
+        ],
+        [
+          1305,
+          1985
+        ],
+        [
+          1305,
+          2046
+        ],
+        [
+          241,
+          2044
+        ]
+      ],
+      "bbox_original": [
+        [
+          241,
+          2151
+        ],
+        [
+          1305,
+          2153
+        ],
+        [
+          1305,
+          2214
+        ],
+        [
+          241,
+          2212
+        ]
+      ],
+      "box_xyxy": [
+        241,
+        1983,
+        1305,
+        2046
+      ],
+      "text": "Trõng vang cửa biền, súng rên thành vàng",
+      "confidence": 0.9185
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Một làn mây sớm ngắm trên không",
+      "Lòng quê đầu đã bồng-bồng,",
+      "Phút theo máy kéo mãy trùng non xa.",
+      "Trông tin nhạn biết là đầu tá ?",
+      "Tâm-tình này ai tả cho nên 2",
+      "Đêm, chùa Diệu-đẽ chuông rền,",
+      "Trõng vang cửa biền, súng rên thành vàng"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      337.5,
+      615.5,
+      894.5,
+      1174.0,
+      1452.5,
+      1731.5,
+      2014.5
+    ]
+  }
+}

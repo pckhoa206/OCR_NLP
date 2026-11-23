@@ -1,0 +1,405 @@
+{
+  "page_id": "0330",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 330,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0330_han_000",
+      "bbox": [
+        [
+          470,
+          86
+        ],
+        [
+          1074,
+          86
+        ],
+        [
+          1074,
+          157
+        ],
+        [
+          470,
+          157
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          254
+        ],
+        [
+          1074,
+          254
+        ],
+        [
+          1074,
+          325
+        ],
+        [
+          470,
+          325
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        86,
+        1074,
+        157
+      ],
+      "text": "徘徊月夜霜天",
+      "confidence": 0.9998
+    },
+    {
+      "line_id": "0330_han_001",
+      "bbox": [
+        [
+          474,
+          386
+        ],
+        [
+          1292,
+          386
+        ],
+        [
+          1292,
+          463
+        ],
+        [
+          474,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          554
+        ],
+        [
+          1292,
+          554
+        ],
+        [
+          1292,
+          631
+        ],
+        [
+          474,
+          631
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        386,
+        1292,
+        463
+      ],
+      "text": "寒山暗認客船更非",
+      "confidence": 0.997
+    },
+    {
+      "line_id": "0330_han_002",
+      "bbox": [
+        [
+          469,
+          696
+        ],
+        [
+          1178,
+          696
+        ],
+        [
+          1178,
+          766
+        ],
+        [
+          469,
+          766
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          864
+        ],
+        [
+          1178,
+          864
+        ],
+        [
+          1178,
+          934
+        ],
+        [
+          469,
+          934
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        696,
+        1178,
+        766
+      ],
+      "text": "曲江水何辰大杜",
+      "confidence": 0.9991
+    },
+    {
+      "line_id": "0330_han_003",
+      "bbox": [
+        [
+          464,
+          996
+        ],
+        [
+          1181,
+          994
+        ],
+        [
+          1181,
+          1066
+        ],
+        [
+          464,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          464,
+          1164
+        ],
+        [
+          1181,
+          1162
+        ],
+        [
+          1181,
+          1234
+        ],
+        [
+          464,
+          1236
+        ]
+      ],
+      "box_xyxy": [
+        464,
+        994,
+        1181,
+        1068
+      ],
+      "text": "一孤舟繫故園心",
+      "confidence": 0.9944
+    },
+    {
+      "line_id": "0330_han_004",
+      "bbox": [
+        [
+          464,
+          1298
+        ],
+        [
+          1072,
+          1298
+        ],
+        [
+          1072,
+          1370
+        ],
+        [
+          464,
+          1370
+        ]
+      ],
+      "bbox_original": [
+        [
+          464,
+          1466
+        ],
+        [
+          1072,
+          1466
+        ],
+        [
+          1072,
+          1538
+        ],
+        [
+          464,
+          1538
+        ]
+      ],
+      "box_xyxy": [
+        464,
+        1298,
+        1072,
+        1370
+      ],
+      "text": "辰留八首詩吟",
+      "confidence": 0.9961
+    },
+    {
+      "line_id": "0330_han_005",
+      "bbox": [
+        [
+          462,
+          1604
+        ],
+        [
+          1280,
+          1606
+        ],
+        [
+          1280,
+          1681
+        ],
+        [
+          462,
+          1679
+        ]
+      ],
+      "bbox_original": [
+        [
+          462,
+          1772
+        ],
+        [
+          1280,
+          1774
+        ],
+        [
+          1280,
+          1849
+        ],
+        [
+          462,
+          1847
+        ]
+      ],
+      "box_xyxy": [
+        462,
+        1604,
+        1280,
+        1681
+      ],
+      "text": "令人旅思轉深鄉情",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0330_han_006",
+      "bbox": [
+        [
+          466,
+          1891
+        ],
+        [
+          1173,
+          1891
+        ],
+        [
+          1173,
+          1969
+        ],
+        [
+          466,
+          1969
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          2059
+        ],
+        [
+          1173,
+          2059
+        ],
+        [
+          1173,
+          2137
+        ],
+        [
+          466,
+          2137
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1891,
+        1173,
+        1969
+      ],
+      "text": "昔我往青青柳絮",
+      "confidence": 0.9933
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "徘徊月夜霜天",
+      "寒山暗認客船更非",
+      "曲江水何辰大杜",
+      "一孤舟繫故園心",
+      "辰留八首詩吟",
+      "令人旅思轉深鄉情",
+      "昔我往青青柳絮"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "徘徊月夜霜天",
+        "phien_am": "Bồi hồi nguyệt dạ sương-thiên,",
+        "dich_nghia_gloss": "- Đêm trăng trời sương lòng luông bồi hồi."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "寒山暗認客船更非",
+        "phien_am": "Hàn sơn ám nhận khách thuyền cánh phi",
+        "dich_nghia_gloss": "- Đoán là thuyền khách non hàn, tế ra không phải."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "曲江水何辰大杜",
+        "phien_am": "Khúc-giang-thủy, hà thì Đại-Đô ?",
+        "dich_nghia_gloss": "- Trên sông khúc, ngày nào nhà thơ Đố-Phủ.."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "一孤舟繫故園心",
+        "phien_am": "Nhứt cô-châu hệ cố-viên tâm",
+        "dich_nghia_gloss": "- Buộc dây lòng quê ở lá thuyền cô"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "辰留八首詩吟",
+        "phien_am": "Thời lưu bát thủ thi-ngâm.",
+        "dich_nghia_gloss": "- Lúc ây để lại tám bài thu hứng."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "令人旅思轉深鄉情",
+        "phien_am": "Linh nhân lữ-lứ chuyền thâm hương tình",
+        "dich_nghia_gloss": "- Khiên người có tứ lữ du, bồng nặng lòng cô-quận."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "昔我往青青柳絮",
+        "phien_am": "Tích ngã vãng thanh-thanh liễu nhứ,",
+        "dich_nghia_gloss": "- Xưa ta đi, tơ liễu xanh xanh"
+      }
+    ]
+  }
+}

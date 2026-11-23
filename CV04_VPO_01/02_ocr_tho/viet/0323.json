@@ -1,0 +1,569 @@
+{
+  "page_id": "0323",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 323,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0323_viet_000",
+      "bbox": [
+        [
+          313,
+          158
+        ],
+        [
+          1315,
+          158
+        ],
+        [
+          1315,
+          219
+        ],
+        [
+          313,
+          219
+        ]
+      ],
+      "bbox_original": [
+        [
+          313,
+          326
+        ],
+        [
+          1315,
+          326
+        ],
+        [
+          1315,
+          387
+        ],
+        [
+          313,
+          387
+        ]
+      ],
+      "box_xyxy": [
+        313,
+        158,
+        1315,
+        219
+      ],
+      "text": "Ngậm ngùi mãy cuộc biền mờ dâu xanh",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0323_viet_001",
+      "bbox": [
+        [
+          362,
+          345
+        ],
+        [
+          1111,
+          345
+        ],
+        [
+          1111,
+          403
+        ],
+        [
+          362,
+          403
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          513
+        ],
+        [
+          1111,
+          513
+        ],
+        [
+          1111,
+          571
+        ],
+        [
+          362,
+          571
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        345,
+        1111,
+        403
+      ],
+      "text": "Rồi một sớm bại thành là thẽ",
+      "confidence": 0.9117
+    },
+    {
+      "line_id": "0323_viet_002",
+      "bbox": [
+        [
+          360,
+          525
+        ],
+        [
+          1180,
+          529
+        ],
+        [
+          1180,
+          587
+        ],
+        [
+          360,
+          583
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          693
+        ],
+        [
+          1180,
+          697
+        ],
+        [
+          1180,
+          755
+        ],
+        [
+          360,
+          751
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        525,
+        1180,
+        587
+      ],
+      "text": "Cảm khúc ca Trời đề một người",
+      "confidence": 0.9213
+    },
+    {
+      "line_id": "0323_viet_003",
+      "bbox": [
+        [
+          465,
+          712
+        ],
+        [
+          1234,
+          712
+        ],
+        [
+          1234,
+          773
+        ],
+        [
+          465,
+          773
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          880
+        ],
+        [
+          1234,
+          880
+        ],
+        [
+          1234,
+          941
+        ],
+        [
+          465,
+          941
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        712,
+        1234,
+        773
+      ],
+      "text": "Trăm năm một thoáng bao dài",
+      "confidence": 0.9125
+    },
+    {
+      "line_id": "0323_viet_004",
+      "bbox": [
+        [
+          304,
+          897
+        ],
+        [
+          1307,
+          894
+        ],
+        [
+          1307,
+          955
+        ],
+        [
+          305,
+          958
+        ]
+      ],
+      "bbox_original": [
+        [
+          304,
+          1065
+        ],
+        [
+          1307,
+          1062
+        ],
+        [
+          1307,
+          1123
+        ],
+        [
+          305,
+          1126
+        ]
+      ],
+      "box_xyxy": [
+        304,
+        894,
+        1307,
+        958
+      ],
+      "text": "Ngậm ngùi chuyện cũ cho đời buồn đau",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0323_viet_005",
+      "bbox": [
+        [
+          359,
+          1068
+        ],
+        [
+          1051,
+          1078
+        ],
+        [
+          1050,
+          1143
+        ],
+        [
+          358,
+          1133
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          1236
+        ],
+        [
+          1051,
+          1246
+        ],
+        [
+          1050,
+          1311
+        ],
+        [
+          358,
+          1301
+        ]
+      ],
+      "box_xyxy": [
+        358,
+        1068,
+        1051,
+        1143
+      ],
+      "text": "Ở Nam về, mái đầu đã bạc",
+      "confidence": 0.9324
+    },
+    {
+      "line_id": "0323_viet_006",
+      "bbox": [
+        [
+          357,
+          1259
+        ],
+        [
+          1257,
+          1263
+        ],
+        [
+          1257,
+          1326
+        ],
+        [
+          357,
+          1323
+        ]
+      ],
+      "bbox_original": [
+        [
+          357,
+          1427
+        ],
+        [
+          1257,
+          1431
+        ],
+        [
+          1257,
+          1494
+        ],
+        [
+          357,
+          1491
+        ]
+      ],
+      "box_xyxy": [
+        357,
+        1259,
+        1257,
+        1326
+      ],
+      "text": "Người đẹp xưa cũng khác hình xưa",
+      "confidence": 0.9334
+    },
+    {
+      "line_id": "0323_viet_007",
+      "bbox": [
+        [
+          460,
+          1445
+        ],
+        [
+          1177,
+          1445
+        ],
+        [
+          1177,
+          1509
+        ],
+        [
+          460,
+          1509
+        ]
+      ],
+      "bbox_original": [
+        [
+          460,
+          1613
+        ],
+        [
+          1177,
+          1613
+        ],
+        [
+          1177,
+          1677
+        ],
+        [
+          460,
+          1677
+        ]
+      ],
+      "box_xyxy": [
+        460,
+        1445,
+        1177,
+        1509
+      ],
+      "text": "Giương đôi mắt ngó mà mơ",
+      "confidence": 0.9344
+    },
+    {
+      "line_id": "0323_viet_008",
+      "bbox": [
+        [
+          303,
+          1628
+        ],
+        [
+          1163,
+          1631
+        ],
+        [
+          1163,
+          1692
+        ],
+        [
+          302,
+          1689
+        ]
+      ],
+      "bbox_original": [
+        [
+          303,
+          1796
+        ],
+        [
+          1163,
+          1799
+        ],
+        [
+          1163,
+          1860
+        ],
+        [
+          302,
+          1857
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        1628,
+        1163,
+        1692
+      ],
+      "text": "Thảm thay ai biết bây giờ là ai",
+      "confidence": 0.915
+    },
+    {
+      "line_id": "0323_viet_009",
+      "bbox": [
+        [
+          704,
+          1986
+        ],
+        [
+          1332,
+          1989
+        ],
+        [
+          1331,
+          2051
+        ],
+        [
+          704,
+          2048
+        ]
+      ],
+      "bbox_original": [
+        [
+          704,
+          2154
+        ],
+        [
+          1332,
+          2157
+        ],
+        [
+          1331,
+          2219
+        ],
+        [
+          704,
+          2216
+        ]
+      ],
+      "box_xyxy": [
+        704,
+        1986,
+        1332,
+        2051
+      ],
+      "text": "Bản dịch theo nguyên điệu,",
+      "confidence": 0.9191
+    },
+    {
+      "line_id": "0323_viet_010",
+      "bbox": [
+        [
+          606,
+          2076
+        ],
+        [
+          1430,
+          2071
+        ],
+        [
+          1430,
+          2132
+        ],
+        [
+          606,
+          2136
+        ]
+      ],
+      "bbox_original": [
+        [
+          606,
+          2244
+        ],
+        [
+          1430,
+          2239
+        ],
+        [
+          1430,
+          2300
+        ],
+        [
+          606,
+          2304
+        ]
+      ],
+      "box_xyxy": [
+        606,
+        2071,
+        1430,
+        2136
+      ],
+      "text": "và song thất lục bát, của Học Canh",
+      "confidence": 0.912
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Ngậm ngùi mãy cuộc biền mờ dâu xanh",
+      "Rồi một sớm bại thành là thẽ",
+      "Cảm khúc ca Trời đề một người",
+      "Trăm năm một thoáng bao dài",
+      "Ngậm ngùi chuyện cũ cho đời buồn đau",
+      "Ở Nam về, mái đầu đã bạc",
+      "Người đẹp xưa cũng khác hình xưa",
+      "Giương đôi mắt ngó mà mơ",
+      "Thảm thay ai biết bây giờ là ai",
+      "Bản dịch theo nguyên điệu,",
+      "và song thất lục bát, của Học Canh"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      188.5,
+      374.0,
+      556.0,
+      742.5,
+      926.0,
+      1105.5,
+      1292.5,
+      1477.0,
+      1660.0,
+      2018.5,
+      2103.5
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "page_id": "0354",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 354,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0354_viet_000",
+      "bbox": [
+        [
+          295,
+          164
+        ],
+        [
+          1089,
+          168
+        ],
+        [
+          1089,
+          232
+        ],
+        [
+          294,
+          228
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          332
+        ],
+        [
+          1089,
+          336
+        ],
+        [
+          1089,
+          400
+        ],
+        [
+          294,
+          396
+        ]
+      ],
+      "box_xyxy": [
+        294,
+        164,
+        1089,
+        232
+      ],
+      "text": "Phong tình quán tự phong lưu",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0354_viet_001",
+      "bbox": [
+        [
+          206,
+          246
+        ],
+        [
+          1442,
+          251
+        ],
+        [
+          1442,
+          318
+        ],
+        [
+          206,
+          313
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          414
+        ],
+        [
+          1442,
+          419
+        ],
+        [
+          1442,
+          486
+        ],
+        [
+          206,
+          481
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        246,
+        1442,
+        318
+      ],
+      "text": "- Thói phong tình cũng quen đi như tánh phong-lưu",
+      "confidence": 0.9173
+    },
+    {
+      "line_id": "0354_viet_002",
+      "bbox": [
+        [
+          295,
+          465
+        ],
+        [
+          1350,
+          465
+        ],
+        [
+          1350,
+          529
+        ],
+        [
+          295,
+          529
+        ]
+      ],
+      "bbox_original": [
+        [
+          295,
+          633
+        ],
+        [
+          1350,
+          633
+        ],
+        [
+          1350,
+          697
+        ],
+        [
+          295,
+          697
+        ]
+      ],
+      "box_xyxy": [
+        295,
+        465,
+        1350,
+        529
+      ],
+      "text": "Phồn-hoa thần hữu hoàng châu đẽ thành",
+      "confidence": 0.9165
+    },
+    {
+      "line_id": "0354_viet_003",
+      "bbox": [
+        [
+          206,
+          549
+        ],
+        [
+          1438,
+          552
+        ],
+        [
+          1438,
+          613
+        ],
+        [
+          206,
+          610
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          717
+        ],
+        [
+          1438,
+          720
+        ],
+        [
+          1438,
+          781
+        ],
+        [
+          206,
+          778
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        549,
+        1438,
+        613
+      ],
+      "text": "- Đã là chỗ phôn hoa, lại là nơi đề-khuyết hèn chi.",
+      "confidence": 0.9212
+    },
+    {
+      "line_id": "0354_viet_004",
+      "bbox": [
+        [
+          300,
+          764
+        ],
+        [
+          1053,
+          767
+        ],
+        [
+          1053,
+          829
+        ],
+        [
+          299,
+          826
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          932
+        ],
+        [
+          1053,
+          935
+        ],
+        [
+          1053,
+          997
+        ],
+        [
+          299,
+          994
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        764,
+        1053,
+        829
+      ],
+      "text": "Cầu phi hữu nhân tình dã giả",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0354_viet_005",
+      "bbox": [
+        [
+          209,
+          854
+        ],
+        [
+          1234,
+          857
+        ],
+        [
+          1233,
+          922
+        ],
+        [
+          209,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          1022
+        ],
+        [
+          1234,
+          1025
+        ],
+        [
+          1233,
+          1090
+        ],
+        [
+          209,
+          1087
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        854,
+        1234,
+        922
+      ],
+      "text": "- Nều không phải có lòng lắt-léo như ai ây..",
+      "confidence": 0.9112
+    },
+    {
+      "line_id": "0354_viet_006",
+      "bbox": [
+        [
+          297,
+          1070
+        ],
+        [
+          1020,
+          1072
+        ],
+        [
+          1020,
+          1133
+        ],
+        [
+          296,
+          1131
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          1238
+        ],
+        [
+          1020,
+          1240
+        ],
+        [
+          1020,
+          1301
+        ],
+        [
+          296,
+          1299
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        1070,
+        1020,
+        1133
+      ],
+      "text": "HỒ NHI XUÂN NHI HẠ NHI THU",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0354_viet_007",
+      "bbox": [
+        [
+          206,
+          1159
+        ],
+        [
+          1419,
+          1161
+        ],
+        [
+          1419,
+          1225
+        ],
+        [
+          206,
+          1223
+        ]
+      ],
+      "bbox_original": [
+        [
+          206,
+          1327
+        ],
+        [
+          1419,
+          1329
+        ],
+        [
+          1419,
+          1393
+        ],
+        [
+          206,
+          1391
+        ]
+      ],
+      "box_xyxy": [
+        206,
+        1159,
+        1419,
+        1225
+      ],
+      "text": "- Thì sao cứ lần lừa hết xuân qua hạ, lại qua thu ?",
+      "confidence": 0.909
+    },
+    {
+      "line_id": "0354_viet_008",
+      "bbox": [
+        [
+          299,
+          1378
+        ],
+        [
+          899,
+          1378
+        ],
+        [
+          899,
+          1439
+        ],
+        [
+          299,
+          1439
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1546
+        ],
+        [
+          899,
+          1546
+        ],
+        [
+          899,
+          1607
+        ],
+        [
+          299,
+          1607
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1378,
+        899,
+        1439
+      ],
+      "text": "Do lai tử các hồng lâu",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0354_viet_009",
+      "bbox": [
+        [
+          212,
+          1468
+        ],
+        [
+          1124,
+          1464
+        ],
+        [
+          1125,
+          1531
+        ],
+        [
+          212,
+          1536
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          1636
+        ],
+        [
+          1124,
+          1632
+        ],
+        [
+          1125,
+          1699
+        ],
+        [
+          212,
+          1704
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        1464,
+        1125,
+        1536
+      ],
+      "text": "- Xưa nay những nơi lầu hồng gác tía",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0354_viet_010",
+      "bbox": [
+        [
+          299,
+          1682
+        ],
+        [
+          1277,
+          1680
+        ],
+        [
+          1277,
+          1744
+        ],
+        [
+          300,
+          1746
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1850
+        ],
+        [
+          1277,
+          1848
+        ],
+        [
+          1277,
+          1912
+        ],
+        [
+          300,
+          1914
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1680,
+        1277,
+        1746
+      ],
+      "text": "Anh hùng bất trú trượng phu nan trì.",
+      "confidence": 0.9186
+    },
+    {
+      "line_id": "0354_viet_011",
+      "bbox": [
+        [
+          205,
+          1766
+        ],
+        [
+          1442,
+          1764
+        ],
+        [
+          1442,
+          1827
+        ],
+        [
+          205,
+          1829
+        ]
+      ],
+      "bbox_original": [
+        [
+          205,
+          1934
+        ],
+        [
+          1442,
+          1932
+        ],
+        [
+          1442,
+          1995
+        ],
+        [
+          205,
+          1997
+        ]
+      ],
+      "box_xyxy": [
+        205,
+        1764,
+        1442,
+        1829
+      ],
+      "text": "- Dâu anh-hùng, trượng phu cũng không cầm lòng đậu.",
+      "confidence": 0.9142
+    },
+    {
+      "line_id": "0354_viet_012",
+      "bbox": [
+        [
+          297,
+          1983
+        ],
+        [
+          1108,
+          1978
+        ],
+        [
+          1109,
+          2047
+        ],
+        [
+          298,
+          2052
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          2151
+        ],
+        [
+          1108,
+          2146
+        ],
+        [
+          1109,
+          2215
+        ],
+        [
+          298,
+          2220
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        1978,
+        1109,
+        2052
+      ],
+      "text": "Như thử giả, thùy tri chi giả ?",
+      "confidence": 0.9296
+    },
+    {
+      "line_id": "0354_viet_013",
+      "bbox": [
+        [
+          213,
+          2075
+        ],
+        [
+          951,
+          2071
+        ],
+        [
+          951,
+          2133
+        ],
+        [
+          213,
+          2136
+        ]
+      ],
+      "bbox_original": [
+        [
+          213,
+          2243
+        ],
+        [
+          951,
+          2239
+        ],
+        [
+          951,
+          2301
+        ],
+        [
+          213,
+          2304
+        ]
+      ],
+      "box_xyxy": [
+        213,
+        2071,
+        951,
+        2136
+      ],
+      "text": "- Như vậy, thì ai biết cho ta ?",
+      "confidence": 0.9151
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Phong tình quán tự phong lưu",
+      "Phồn-hoa thần hữu hoàng châu đẽ thành",
+      "Cầu phi hữu nhân tình dã giả",
+      "HỒ NHI XUÂN NHI HẠ NHI THU",
+      "Do lai tử các hồng lâu",
+      "Anh hùng bất trú trượng phu nan trì.",
+      "Như thử giả, thùy tri chi giả ?"
+    ],
+    "dich_nghia_lines": [
+      "- Thói phong tình cũng quen đi như tánh phong-lưu",
+      "- Đã là chỗ phôn hoa, lại là nơi đề-khuyết hèn chi.",
+      "- Nều không phải có lòng lắt-léo như ai ây..",
+      "- Thì sao cứ lần lừa hết xuân qua hạ, lại qua thu ?",
+      "- Xưa nay những nơi lầu hồng gác tía",
+      "- Dâu anh-hùng, trượng phu cũng không cầm lòng đậu.",
+      "- Như vậy, thì ai biết cho ta ?"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "風情慣似風流",
+        "phien_am": "Phong tình quán tự phong lưu",
+        "dich_nghia_gloss": "- Thói phong tình cũng quen đi như tánh phong-lưu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "繁花矧友皇州帝城",
+        "phien_am": "Phồn-hoa thần hữu hoàng châu đẽ thành",
+        "dich_nghia_gloss": "- Đã là chỗ phôn hoa, lại là nơi đề-khuyết hèn chi."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "苟非有人情也者",
+        "phien_am": "Cầu phi hữu nhân tình dã giả",
+        "dich_nghia_gloss": "- Nều không phải có lòng lắt-léo như ai ây.."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "胡而春而夏而秋",
+        "phien_am": "HỒ NHI XUÂN NHI HẠ NHI THU",
+        "dich_nghia_gloss": "- Thì sao cứ lần lừa hết xuân qua hạ, lại qua thu ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "由來紫閣紅樓",
+        "phien_am": "Do lai tử các hồng lâu",
+        "dich_nghia_gloss": "- Xưa nay những nơi lầu hồng gác tía"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "英雄不住丈夫難持",
+        "phien_am": "Anh hùng bất trú trượng phu nan trì.",
+        "dich_nghia_gloss": "- Dâu anh-hùng, trượng phu cũng không cầm lòng đậu."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "如此者誰知之者",
+        "phien_am": "Như thử giả, thùy tri chi giả ?",
+        "dich_nghia_gloss": "- Như vậy, thì ai biết cho ta ?"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

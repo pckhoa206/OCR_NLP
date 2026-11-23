@@ -1,0 +1,1084 @@
+{
+  "page_id": "0830",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 830,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0830_viet_000",
+      "bbox": [
+        [
+          261,
+          0
+        ],
+        [
+          332,
+          0
+        ],
+        [
+          332,
+          25
+        ],
+        [
+          261,
+          25
+        ]
+      ],
+      "bbox_original": [
+        [
+          261,
+          215
+        ],
+        [
+          332,
+          215
+        ],
+        [
+          332,
+          240
+        ],
+        [
+          261,
+          240
+        ]
+      ],
+      "box_xyxy": [
+        261,
+        0,
+        332,
+        25
+      ],
+      "text": "632",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0830_viet_001",
+      "bbox": [
+        [
+          870,
+          0
+        ],
+        [
+          1401,
+          0
+        ],
+        [
+          1401,
+          33
+        ],
+        [
+          870,
+          32
+        ]
+      ],
+      "bbox_original": [
+        [
+          870,
+          215
+        ],
+        [
+          1401,
+          215
+        ],
+        [
+          1401,
+          248
+        ],
+        [
+          870,
+          247
+        ]
+      ],
+      "box_xyxy": [
+        870,
+        0,
+        1401,
+        33
+      ],
+      "text": "THỨ VĂN LÝ TRẤN (41)",
+      "confidence": 0.8084
+    },
+    {
+      "line_id": "0830_viet_002",
+      "bbox": [
+        [
+          957,
+          682
+        ],
+        [
+          1282,
+          684
+        ],
+        [
+          1282,
+          746
+        ],
+        [
+          957,
+          744
+        ]
+      ],
+      "bbox_original": [
+        [
+          957,
+          897
+        ],
+        [
+          1282,
+          899
+        ],
+        [
+          1282,
+          961
+        ],
+        [
+          957,
+          959
+        ]
+      ],
+      "box_xyxy": [
+        957,
+        682,
+        1282,
+        746
+      ],
+      "text": "PHẠM MẠI",
+      "confidence": 0.9366
+    },
+    {
+      "line_id": "0830_viet_003",
+      "bbox": [
+        [
+          1082,
+          869
+        ],
+        [
+          1158,
+          869
+        ],
+        [
+          1158,
+          941
+        ],
+        [
+          1082,
+          941
+        ]
+      ],
+      "bbox_original": [
+        [
+          1082,
+          1084
+        ],
+        [
+          1158,
+          1084
+        ],
+        [
+          1158,
+          1156
+        ],
+        [
+          1082,
+          1156
+        ]
+      ],
+      "box_xyxy": [
+        1082,
+        869,
+        1158,
+        941
+      ],
+      "text": "(2)",
+      "confidence": 0.9356
+    },
+    {
+      "line_id": "0830_viet_004",
+      "bbox": [
+        [
+          1015,
+          1066
+        ],
+        [
+          1978,
+          1066
+        ],
+        [
+          1978,
+          1151
+        ],
+        [
+          1015,
+          1151
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1281
+        ],
+        [
+          1978,
+          1281
+        ],
+        [
+          1978,
+          1366
+        ],
+        [
+          1015,
+          1366
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1066,
+        1978,
+        1151
+      ],
+      "text": "Phạm Tông Mại Sẽ X Lễ Hiệu Kinh Khê",
+      "confidence": 0.88
+    },
+    {
+      "line_id": "0830_viet_005",
+      "bbox": [
+        [
+          1015,
+          1127
+        ],
+        [
+          1983,
+          1127
+        ],
+        [
+          1983,
+          1220
+        ],
+        [
+          1015,
+          1220
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1342
+        ],
+        [
+          1983,
+          1342
+        ],
+        [
+          1983,
+          1435
+        ],
+        [
+          1015,
+          1435
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1127,
+        1983,
+        1220
+      ],
+      "text": "Tổ. Người hương Kinh chủ kê 2, huyện",
+      "confidence": 0.8186
+    },
+    {
+      "line_id": "0830_viet_006",
+      "bbox": [
+        [
+          1015,
+          1200
+        ],
+        [
+          1970,
+          1200
+        ],
+        [
+          1970,
+          1269
+        ],
+        [
+          1015,
+          1269
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1415
+        ],
+        [
+          1970,
+          1415
+        ],
+        [
+          1970,
+          1484
+        ],
+        [
+          1015,
+          1484
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1200,
+        1970,
+        1269
+      ],
+      "text": "ý lấu nay thuộc tỉnh hải-hưng, là anh em",
+      "confidence": 0.8318
+    },
+    {
+      "line_id": "0830_viet_007",
+      "bbox": [
+        [
+          1015,
+          1267
+        ],
+        [
+          1968,
+          1267
+        ],
+        [
+          1968,
+          1327
+        ],
+        [
+          1015,
+          1327
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1482
+        ],
+        [
+          1968,
+          1482
+        ],
+        [
+          1968,
+          1542
+        ],
+        [
+          1015,
+          1542
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1267,
+        1968,
+        1327
+      ],
+      "text": "Trên họ Chúc Fã tên Cố El sau vi vua Trần",
+      "confidence": 0.8493
+    },
+    {
+      "line_id": "0830_viet_008",
+      "bbox": [
+        [
+          1015,
+          1327
+        ],
+        [
+          1969,
+          1327
+        ],
+        [
+          1969,
+          1386
+        ],
+        [
+          1015,
+          1386
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1542
+        ],
+        [
+          1969,
+          1542
+        ],
+        [
+          1969,
+          1601
+        ],
+        [
+          1015,
+          1601
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1327,
+        1969,
+        1386
+      ],
+      "text": "Chúc không phải là một họ lớn nên đồi",
+      "confidence": 0.9093
+    },
+    {
+      "line_id": "0830_viet_009",
+      "bbox": [
+        [
+          247,
+          1387
+        ],
+        [
+          1943,
+          1389
+        ],
+        [
+          1943,
+          1446
+        ],
+        [
+          247,
+          1444
+        ]
+      ],
+      "bbox_original": [
+        [
+          247,
+          1602
+        ],
+        [
+          1943,
+          1604
+        ],
+        [
+          1943,
+          1661
+        ],
+        [
+          247,
+          1659
+        ]
+      ],
+      "box_xyxy": [
+        247,
+        1387,
+        1943,
+        1446
+      ],
+      "text": "lặm họ Phạm, Còn tên Có thì lại trùng với tên thầy học - Nguyễn Sĩ Cố Fĩ -",
+      "confidence": 0.8729
+    },
+    {
+      "line_id": "0830_viet_010",
+      "bbox": [
+        [
+          254,
+          1446
+        ],
+        [
+          727,
+          1448
+        ],
+        [
+          727,
+          1503
+        ],
+        [
+          254,
+          1501
+        ]
+      ],
+      "bbox_original": [
+        [
+          254,
+          1661
+        ],
+        [
+          727,
+          1663
+        ],
+        [
+          727,
+          1718
+        ],
+        [
+          254,
+          1716
+        ]
+      ],
+      "box_xyxy": [
+        254,
+        1446,
+        727,
+        1503
+      ],
+      "text": "3 nên đồi sang mại.",
+      "confidence": 0.857
+    },
+    {
+      "line_id": "0830_viet_011",
+      "bbox": [
+        [
+          373,
+          1522
+        ],
+        [
+          1962,
+          1528
+        ],
+        [
+          1962,
+          1588
+        ],
+        [
+          373,
+          1581
+        ]
+      ],
+      "bbox_original": [
+        [
+          373,
+          1737
+        ],
+        [
+          1962,
+          1743
+        ],
+        [
+          1962,
+          1803
+        ],
+        [
+          373,
+          1796
+        ]
+      ],
+      "box_xyxy": [
+        373,
+        1522,
+        1962,
+        1588
+      ],
+      "text": "Phạm Mại tính tình thắng thắn nên trong đời làm quan từng nhiều phen",
+      "confidence": 0.8447
+    },
+    {
+      "line_id": "0830_viet_012",
+      "bbox": [
+        [
+          245,
+          1586
+        ],
+        [
+          1962,
+          1588
+        ],
+        [
+          1962,
+          1646
+        ],
+        [
+          245,
+          1644
+        ]
+      ],
+      "bbox_original": [
+        [
+          245,
+          1801
+        ],
+        [
+          1962,
+          1803
+        ],
+        [
+          1962,
+          1861
+        ],
+        [
+          245,
+          1859
+        ]
+      ],
+      "box_xyxy": [
+        245,
+        1586,
+        1962,
+        1646
+      ],
+      "text": "bị giáng chức. Bắt đầu vào triều với chức, Thị nội học sinh. Dưới triều, Tràn",
+      "confidence": 0.9101
+    },
+    {
+      "line_id": "0830_viet_013",
+      "bbox": [
+        [
+          1015,
+          1641
+        ],
+        [
+          1964,
+          1641
+        ],
+        [
+          1964,
+          1708
+        ],
+        [
+          1015,
+          1708
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1856
+        ],
+        [
+          1964,
+          1856
+        ],
+        [
+          1964,
+          1923
+        ],
+        [
+          1015,
+          1923
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1641,
+        1964,
+        1708
+      ],
+      "text": "), ông có đi sử nhà minh cùng với Nguyễn",
+      "confidence": 0.8907
+    },
+    {
+      "line_id": "0830_viet_014",
+      "bbox": [
+        [
+          1015,
+          1701
+        ],
+        [
+          1964,
+          1701
+        ],
+        [
+          1964,
+          1770
+        ],
+        [
+          1015,
+          1770
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1916
+        ],
+        [
+          1964,
+          1916
+        ],
+        [
+          1964,
+          1985
+        ],
+        [
+          1015,
+          1985
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1701,
+        1964,
+        1770
+      ],
+      "text": "m chức Ngự sử irung tán, rồi sau thăng lên",
+      "confidence": 0.9102
+    },
+    {
+      "line_id": "0830_viet_015",
+      "bbox": [
+        [
+          239,
+          1766
+        ],
+        [
+          844,
+          1768
+        ],
+        [
+          844,
+          1822
+        ],
+        [
+          239,
+          1820
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1981
+        ],
+        [
+          844,
+          1983
+        ],
+        [
+          844,
+          2037
+        ],
+        [
+          239,
+          2035
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1766,
+        844,
+        1822
+      ],
+      "text": "chức môn hạ sảnh đồng tri.",
+      "confidence": 0.9038
+    },
+    {
+      "line_id": "0830_viet_016",
+      "bbox": [
+        [
+          375,
+          1842
+        ],
+        [
+          1963,
+          1846
+        ],
+        [
+          1963,
+          1900
+        ],
+        [
+          375,
+          1896
+        ]
+      ],
+      "bbox_original": [
+        [
+          375,
+          2057
+        ],
+        [
+          1963,
+          2061
+        ],
+        [
+          1963,
+          2115
+        ],
+        [
+          375,
+          2111
+        ]
+      ],
+      "box_xyxy": [
+        375,
+        1842,
+        1963,
+        1900
+      ],
+      "text": "Thơ văn Phạm Mại hiện còn rất ít, giong thơ cũng thanh thoát, đạm bạc",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0830_viet_017",
+      "bbox": [
+        [
+          239,
+          1900
+        ],
+        [
+          1958,
+          1905
+        ],
+        [
+          1958,
+          1963
+        ],
+        [
+          239,
+          1957
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          2115
+        ],
+        [
+          1958,
+          2120
+        ],
+        [
+          1958,
+          2178
+        ],
+        [
+          239,
+          2172
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1900,
+        1958,
+        1963
+      ],
+      "text": "như thờ người anh nhưng không sắc nét bằng. Niêm tâm sự gửi gắm trong",
+      "confidence": 0.9064
+    },
+    {
+      "line_id": "0830_viet_018",
+      "bbox": [
+        [
+          236,
+          1959
+        ],
+        [
+          1957,
+          1964
+        ],
+        [
+          1957,
+          2021
+        ],
+        [
+          236,
+          2017
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          2174
+        ],
+        [
+          1957,
+          2179
+        ],
+        [
+          1957,
+          2236
+        ],
+        [
+          236,
+          2232
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1959,
+        1957,
+        2021
+      ],
+      "text": "thơ ông là một tính, thần nhập thế tích cực, dẫu phải nếm trải hao nhiều gian",
+      "confidence": 0.8994
+    },
+    {
+      "line_id": "0830_viet_019",
+      "bbox": [
+        [
+          235,
+          2021
+        ],
+        [
+          1574,
+          2022
+        ],
+        [
+          1574,
+          2076
+        ],
+        [
+          235,
+          2075
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          2236
+        ],
+        [
+          1574,
+          2237
+        ],
+        [
+          1574,
+          2291
+        ],
+        [
+          235,
+          2290
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        2021,
+        1574,
+        2076
+      ],
+      "text": "lao vất và vẫn không muốn rời bỏ chức vị mà trở về núi cũ.",
+      "confidence": 0.8491
+    },
+    {
+      "line_id": "0830_viet_020",
+      "bbox": [
+        [
+          370,
+          2100
+        ],
+        [
+          1348,
+          2100
+        ],
+        [
+          1348,
+          2157
+        ],
+        [
+          370,
+          2157
+        ]
+      ],
+      "bbox_original": [
+        [
+          370,
+          2315
+        ],
+        [
+          1348,
+          2315
+        ],
+        [
+          1348,
+          2372
+        ],
+        [
+          370,
+          2372
+        ]
+      ],
+      "box_xyxy": [
+        370,
+        2100,
+        1348,
+        2157
+      ],
+      "text": "Tác phầm: hiện còn 5 bài thơ và 1 bài phú",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0830_viet_021",
+      "bbox": [
+        [
+          232,
+          2263
+        ],
+        [
+          1497,
+          2266
+        ],
+        [
+          1497,
+          2321
+        ],
+        [
+          232,
+          2317
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          2478
+        ],
+        [
+          1497,
+          2481
+        ],
+        [
+          1497,
+          2536
+        ],
+        [
+          232,
+          2532
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        2263,
+        1497,
+        2321
+      ],
+      "text": "(1) Có sách chép ông là em, những cũng có sách chép ngược lại.",
+      "confidence": 0.8346
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "632",
+      "THỨ VĂN LÝ TRẤN (41)",
+      "PHẠM MẠI",
+      "(2)",
+      "Phạm Tông Mại Sẽ X Lễ Hiệu Kinh Khê",
+      "Tổ. Người hương Kinh chủ kê 2, huyện",
+      "ý lấu nay thuộc tỉnh hải-hưng, là anh em",
+      "Trên họ Chúc Fã tên Cố El sau vi vua Trần",
+      "Chúc không phải là một họ lớn nên đồi",
+      "lặm họ Phạm, Còn tên Có thì lại trùng với tên thầy học - Nguyễn Sĩ Cố Fĩ -",
+      "3 nên đồi sang mại.",
+      "Phạm Mại tính tình thắng thắn nên trong đời làm quan từng nhiều phen",
+      "bị giáng chức. Bắt đầu vào triều với chức, Thị nội học sinh. Dưới triều, Tràn",
+      "), ông có đi sử nhà minh cùng với Nguyễn",
+      "m chức Ngự sử irung tán, rồi sau thăng lên",
+      "chức môn hạ sảnh đồng tri.",
+      "Thơ văn Phạm Mại hiện còn rất ít, giong thơ cũng thanh thoát, đạm bạc",
+      "như thờ người anh nhưng không sắc nét bằng. Niêm tâm sự gửi gắm trong",
+      "thơ ông là một tính, thần nhập thế tích cực, dẫu phải nếm trải hao nhiều gian",
+      "lao vất và vẫn không muốn rời bỏ chức vị mà trở về núi cũ.",
+      "Tác phầm: hiện còn 5 bài thơ và 1 bài phú",
+      "(1) Có sách chép ông là em, những cũng có sách chép ngược lại."
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

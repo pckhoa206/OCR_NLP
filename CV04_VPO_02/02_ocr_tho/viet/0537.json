@@ -1,0 +1,1468 @@
+{
+  "page_id": "0537",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 537,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 1810,
+    "footnote_separator_y_original": 1969,
+    "effective_width": 1558,
+    "effective_height": 1810
+  },
+  "items": [
+    {
+      "line_id": "0537_viet_000",
+      "bbox": [
+        [
+          85,
+          0
+        ],
+        [
+          1419,
+          0
+        ],
+        [
+          1419,
+          29
+        ],
+        [
+          85,
+          29
+        ]
+      ],
+      "bbox_original": [
+        [
+          85,
+          159
+        ],
+        [
+          1419,
+          159
+        ],
+        [
+          1419,
+          188
+        ],
+        [
+          85,
+          188
+        ]
+      ],
+      "box_xyxy": [
+        85,
+        0,
+        1419,
+        29
+      ],
+      "text": "KIL May doi, song cung khong co ai la nguoi uac viet xuai ciluing,",
+      "confidence": 0.8416
+    },
+    {
+      "line_id": "0537_viet_001",
+      "bbox": [
+        [
+          82,
+          31
+        ],
+        [
+          1424,
+          31
+        ],
+        [
+          1424,
+          90
+        ],
+        [
+          82,
+          90
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          190
+        ],
+        [
+          1424,
+          190
+        ],
+        [
+          1424,
+          249
+        ],
+        [
+          82,
+          249
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        31,
+        1424,
+        90
+      ],
+      "text": "thần không nhớ hết được, duy có thầy thân văn quyền truyền",
+      "confidence": 0.8749
+    },
+    {
+      "line_id": "0537_viet_002",
+      "bbox": [
+        [
+          83,
+          91
+        ],
+        [
+          1423,
+          91
+        ],
+        [
+          1423,
+          148
+        ],
+        [
+          83,
+          148
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          250
+        ],
+        [
+          1423,
+          250
+        ],
+        [
+          1423,
+          307
+        ],
+        [
+          83,
+          307
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        91,
+        1423,
+        148
+      ],
+      "text": "dạy cho thần rất lâu, anh trai thần là Miên Thẩm có nơi giảng học",
+      "confidence": 0.9206
+    },
+    {
+      "line_id": "0537_viet_003",
+      "bbox": [
+        [
+          80,
+          151
+        ],
+        [
+          1421,
+          150
+        ],
+        [
+          1421,
+          206
+        ],
+        [
+          81,
+          207
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          310
+        ],
+        [
+          1421,
+          309
+        ],
+        [
+          1421,
+          365
+        ],
+        [
+          81,
+          366
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        150,
+        1421,
+        207
+      ],
+      "text": "riêng ở Quảng Thiện đường, nhưng ngày thường vẫn hay qua lại",
+      "confidence": 0.9256
+    },
+    {
+      "line_id": "0537_viet_004",
+      "bbox": [
+        [
+          83,
+          206
+        ],
+        [
+          1422,
+          208
+        ],
+        [
+          1422,
+          266
+        ],
+        [
+          82,
+          264
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          365
+        ],
+        [
+          1422,
+          367
+        ],
+        [
+          1422,
+          425
+        ],
+        [
+          82,
+          423
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        206,
+        1422,
+        266
+      ],
+      "text": "Thần theo học Thân Văn Quyền, sau Văn Quyền làm lễ quan",
+      "confidence": 0.8608
+    },
+    {
+      "line_id": "0537_viet_005",
+      "bbox": [
+        [
+          82,
+          264
+        ],
+        [
+          1424,
+          266
+        ],
+        [
+          1424,
+          327
+        ],
+        [
+          81,
+          324
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          423
+        ],
+        [
+          1424,
+          425
+        ],
+        [
+          1424,
+          486
+        ],
+        [
+          81,
+          483
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        264,
+        1424,
+        327
+      ],
+      "text": "thần và anh trai cũng vẫn thường theo học. Văn Quyền là người",
+      "confidence": 0.9246
+    },
+    {
+      "line_id": "0537_viet_006",
+      "bbox": [
+        [
+          82,
+          327
+        ],
+        [
+          1423,
+          324
+        ],
+        [
+          1423,
+          381
+        ],
+        [
+          83,
+          383
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          486
+        ],
+        [
+          1423,
+          483
+        ],
+        [
+          1423,
+          540
+        ],
+        [
+          83,
+          542
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        324,
+        1423,
+        383
+      ],
+      "text": "chuyên nhất ở việc bản thân mình dốc sức thực hành', rất am",
+      "confidence": 0.8975
+    },
+    {
+      "line_id": "0537_viet_007",
+      "bbox": [
+        [
+          81,
+          386
+        ],
+        [
+          1426,
+          384
+        ],
+        [
+          1426,
+          442
+        ],
+        [
+          82,
+          444
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          545
+        ],
+        [
+          1426,
+          543
+        ],
+        [
+          1426,
+          601
+        ],
+        [
+          82,
+          603
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        384,
+        1426,
+        444
+      ],
+      "text": "tường nghĩa lí uần áo của các kinh điển, thơ ca cùng ngôn từ của",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0537_viet_008",
+      "bbox": [
+        [
+          83,
+          442
+        ],
+        [
+          1425,
+          445
+        ],
+        [
+          1425,
+          505
+        ],
+        [
+          82,
+          502
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          601
+        ],
+        [
+          1425,
+          604
+        ],
+        [
+          1425,
+          664
+        ],
+        [
+          82,
+          661
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        442,
+        1425,
+        505
+      ],
+      "text": "cổ văn cũng là người khai mở cho thần đầu tiên, nhưng ông",
+      "confidence": 0.9141
+    },
+    {
+      "line_id": "0537_viet_009",
+      "bbox": [
+        [
+          80,
+          506
+        ],
+        [
+          1424,
+          502
+        ],
+        [
+          1424,
+          560
+        ],
+        [
+          81,
+          564
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          665
+        ],
+        [
+          1424,
+          661
+        ],
+        [
+          1424,
+          719
+        ],
+        [
+          81,
+          723
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        502,
+        1424,
+        564
+      ],
+      "text": "không trước tác nhiều, có trước tác cũng không còn bản thảo. Bể",
+      "confidence": 0.9217
+    },
+    {
+      "line_id": "0537_viet_010",
+      "bbox": [
+        [
+          80,
+          564
+        ],
+        [
+          1425,
+          561
+        ],
+        [
+          1425,
+          620
+        ],
+        [
+          81,
+          623
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          723
+        ],
+        [
+          1425,
+          720
+        ],
+        [
+          1425,
+          779
+        ],
+        [
+          81,
+          782
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        561,
+        1425,
+        623
+      ],
+      "text": "tôi đã quá cố, Đại học sĩ Trương Đăng Quế, nho thần đã quá cố là",
+      "confidence": 0.9266
+    },
+    {
+      "line_id": "0537_viet_011",
+      "bbox": [
+        [
+          81,
+          624
+        ],
+        [
+          1426,
+          623
+        ],
+        [
+          1426,
+          680
+        ],
+        [
+          82,
+          681
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          783
+        ],
+        [
+          1426,
+          782
+        ],
+        [
+          1426,
+          839
+        ],
+        [
+          82,
+          840
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        623,
+        1426,
+        681
+      ],
+      "text": "Phan Thanh Giản thần cũng từng bái làm thầy. Do đó mà nói, từ",
+      "confidence": 0.9251
+    },
+    {
+      "line_id": "0537_viet_012",
+      "bbox": [
+        [
+          80,
+          681
+        ],
+        [
+          1435,
+          679
+        ],
+        [
+          1435,
+          739
+        ],
+        [
+          81,
+          741
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          840
+        ],
+        [
+          1435,
+          838
+        ],
+        [
+          1435,
+          898
+        ],
+        [
+          81,
+          900
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        679,
+        1435,
+        741
+      ],
+      "text": "trước đến nay chưa từng có sự so sánh. Sau khi Văn Quyền mất đi,",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0537_viet_013",
+      "bbox": [
+        [
+          83,
+          740
+        ],
+        [
+          1427,
+          740
+        ],
+        [
+          1427,
+          800
+        ],
+        [
+          83,
+          800
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          899
+        ],
+        [
+          1427,
+          899
+        ],
+        [
+          1427,
+          959
+        ],
+        [
+          83,
+          959
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        740,
+        1427,
+        800
+      ],
+      "text": "thần chỉ chuyên tâm theo học anh trai là miên Thẩm mà thôi. Đại",
+      "confidence": 0.9239
+    },
+    {
+      "line_id": "0537_viet_014",
+      "bbox": [
+        [
+          81,
+          802
+        ],
+        [
+          1423,
+          798
+        ],
+        [
+          1423,
+          855
+        ],
+        [
+          82,
+          859
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          961
+        ],
+        [
+          1423,
+          957
+        ],
+        [
+          1423,
+          1014
+        ],
+        [
+          82,
+          1018
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        798,
+        1423,
+        859
+      ],
+      "text": "phàm cái học về kinh sách, cái học về cổ văn, cái học về thơ từ,",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0537_viet_015",
+      "bbox": [
+        [
+          82,
+          859
+        ],
+        [
+          1423,
+          859
+        ],
+        [
+          1423,
+          919
+        ],
+        [
+          82,
+          919
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1018
+        ],
+        [
+          1423,
+          1018
+        ],
+        [
+          1423,
+          1078
+        ],
+        [
+          82,
+          1078
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        859,
+        1423,
+        919
+      ],
+      "text": "thảy đều theo khuôn phép, chứ không dụng công riêng vào thơ từ.",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0537_viet_016",
+      "bbox": [
+        [
+          83,
+          921
+        ],
+        [
+          1425,
+          917
+        ],
+        [
+          1425,
+          973
+        ],
+        [
+          84,
+          977
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          1080
+        ],
+        [
+          1425,
+          1076
+        ],
+        [
+          1425,
+          1132
+        ],
+        [
+          84,
+          1136
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        917,
+        1425,
+        977
+      ],
+      "text": "Còn như Hoàng thượng dụ rằng thần tinh thông kinh văn, thì ấy là",
+      "confidence": 0.9306
+    },
+    {
+      "line_id": "0537_viet_017",
+      "bbox": [
+        [
+          83,
+          979
+        ],
+        [
+          1423,
+          978
+        ],
+        [
+          1423,
+          1033
+        ],
+        [
+          83,
+          1034
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          1138
+        ],
+        [
+          1423,
+          1137
+        ],
+        [
+          1423,
+          1192
+        ],
+        [
+          83,
+          1193
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        978,
+        1423,
+        1034
+      ],
+      "text": "Hoàng thượng thương thần già yếu mà không bỏ bê việc học, cho",
+      "confidence": 0.9322
+    },
+    {
+      "line_id": "0537_viet_018",
+      "bbox": [
+        [
+          81,
+          1037
+        ],
+        [
+          1426,
+          1036
+        ],
+        [
+          1426,
+          1093
+        ],
+        [
+          82,
+          1094
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1196
+        ],
+        [
+          1426,
+          1195
+        ],
+        [
+          1426,
+          1252
+        ],
+        [
+          82,
+          1253
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1036,
+        1426,
+        1094
+      ],
+      "text": "nên ban khen, mượn đó đặng khiến thần dùi mài thêm, chứ sự",
+      "confidence": 0.9178
+    },
+    {
+      "line_id": "0537_viet_019",
+      "bbox": [
+        [
+          83,
+          1095
+        ],
+        [
+          886,
+          1099
+        ],
+        [
+          886,
+          1154
+        ],
+        [
+          82,
+          1151
+        ]
+      ],
+      "bbox_original": [
+        [
+          83,
+          1254
+        ],
+        [
+          886,
+          1258
+        ],
+        [
+          886,
+          1313
+        ],
+        [
+          82,
+          1310
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1095,
+        886,
+        1154
+      ],
+      "text": "thực thì thần không dám nhận lãnh vậy.",
+      "confidence": 0.924
+    },
+    {
+      "line_id": "0537_viet_020",
+      "bbox": [
+        [
+          162,
+          1160
+        ],
+        [
+          1426,
+          1156
+        ],
+        [
+          1426,
+          1220
+        ],
+        [
+          162,
+          1224
+        ]
+      ],
+      "bbox_original": [
+        [
+          162,
+          1319
+        ],
+        [
+          1426,
+          1315
+        ],
+        [
+          1426,
+          1379
+        ],
+        [
+          162,
+          1383
+        ]
+      ],
+      "box_xyxy": [
+        162,
+        1156,
+        1426,
+        1224
+      ],
+      "text": "Hoàng triều theo nền văn trị, nho sĩ như rừng, các bậc hiền",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0537_viet_021",
+      "bbox": [
+        [
+          82,
+          1222
+        ],
+        [
+          1427,
+          1220
+        ],
+        [
+          1427,
+          1280
+        ],
+        [
+          83,
+          1282
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1381
+        ],
+        [
+          1427,
+          1379
+        ],
+        [
+          1427,
+          1439
+        ],
+        [
+          83,
+          1441
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1220,
+        1427,
+        1282
+      ],
+      "text": "đức tài cao, thần thảy đều không bì kịp. Duy có anh thần là Miên",
+      "confidence": 0.9296
+    },
+    {
+      "line_id": "0537_viet_022",
+      "bbox": [
+        [
+          82,
+          1278
+        ],
+        [
+          1425,
+          1275
+        ],
+        [
+          1425,
+          1339
+        ],
+        [
+          83,
+          1342
+        ]
+      ],
+      "bbox_original": [
+        [
+          82,
+          1437
+        ],
+        [
+          1425,
+          1434
+        ],
+        [
+          1425,
+          1498
+        ],
+        [
+          83,
+          1501
+        ]
+      ],
+      "box_xyxy": [
+        82,
+        1275,
+        1425,
+        1342
+      ],
+      "text": "Thẩm, lễ quan thân văn quyền, Đại học sĩ Trương Đăng Quế,",
+      "confidence": 0.8791
+    },
+    {
+      "line_id": "0537_viet_023",
+      "bbox": [
+        [
+          81,
+          1341
+        ],
+        [
+          1425,
+          1339
+        ],
+        [
+          1425,
+          1398
+        ],
+        [
+          82,
+          1400
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1500
+        ],
+        [
+          1425,
+          1498
+        ],
+        [
+          1425,
+          1557
+        ],
+        [
+          82,
+          1559
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1339,
+        1425,
+        1400
+      ],
+      "text": "nguyên nho thần phan thanh giản, bốn vị ấy, lời nói đều đáng",
+      "confidence": 0.9127
+    },
+    {
+      "line_id": "0537_viet_024",
+      "bbox": [
+        [
+          80,
+          1401
+        ],
+        [
+          1424,
+          1397
+        ],
+        [
+          1424,
+          1457
+        ],
+        [
+          81,
+          1461
+        ]
+      ],
+      "bbox_original": [
+        [
+          80,
+          1560
+        ],
+        [
+          1424,
+          1556
+        ],
+        [
+          1424,
+          1616
+        ],
+        [
+          81,
+          1620
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1397,
+        1424,
+        1461
+      ],
+      "text": "làm mực thước, hành vi đáng làm phép tắc, trọn lòng trung hiếu,",
+      "confidence": 0.9172
+    },
+    {
+      "line_id": "0537_viet_025",
+      "bbox": [
+        [
+          84,
+          1459
+        ],
+        [
+          1426,
+          1461
+        ],
+        [
+          1426,
+          1517
+        ],
+        [
+          83,
+          1515
+        ]
+      ],
+      "bbox_original": [
+        [
+          84,
+          1618
+        ],
+        [
+          1426,
+          1620
+        ],
+        [
+          1426,
+          1676
+        ],
+        [
+          83,
+          1674
+        ]
+      ],
+      "box_xyxy": [
+        83,
+        1459,
+        1426,
+        1517
+      ],
+      "text": "chí tiết thanh cao, thần thực tâm yêu mền và khâm phục, bình sinh",
+      "confidence": 0.932
+    },
+    {
+      "line_id": "0537_viet_026",
+      "bbox": [
+        [
+          81,
+          1520
+        ],
+        [
+          1408,
+          1518
+        ],
+        [
+          1408,
+          1576
+        ],
+        [
+          82,
+          1578
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1679
+        ],
+        [
+          1408,
+          1677
+        ],
+        [
+          1408,
+          1735
+        ],
+        [
+          82,
+          1737
+        ]
+      ],
+      "box_xyxy": [
+        81,
+        1518,
+        1408,
+        1578
+      ],
+      "text": "hâm mộ mà chưa từng theo đòi được dầu chi là một hai phần vậy.",
+      "confidence": 0.9285
+    },
+    {
+      "line_id": "0537_viet_027",
+      "bbox": [
+        [
+          167,
+          1583
+        ],
+        [
+          835,
+          1587
+        ],
+        [
+          834,
+          1647
+        ],
+        [
+          167,
+          1643
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          1742
+        ],
+        [
+          835,
+          1746
+        ],
+        [
+          834,
+          1806
+        ],
+        [
+          167,
+          1802
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        1583,
+        835,
+        1647
+      ],
+      "text": "Cuối bài sớ lại có châu phê rằng:",
+      "confidence": 0.9231
+    },
+    {
+      "line_id": "0537_viet_028",
+      "bbox": [
+        [
+          165,
+          1650
+        ],
+        [
+          1427,
+          1654
+        ],
+        [
+          1427,
+          1715
+        ],
+        [
+          165,
+          1711
+        ]
+      ],
+      "bbox_original": [
+        [
+          165,
+          1809
+        ],
+        [
+          1427,
+          1813
+        ],
+        [
+          1427,
+          1874
+        ],
+        [
+          165,
+          1870
+        ]
+      ],
+      "box_xyxy": [
+        165,
+        1650,
+        1427,
+        1715
+      ],
+      "text": "-Trẫm thuở nhỏ không ham học, lại không có thày giỏi bạn",
+      "confidence": 0.9049
+    },
+    {
+      "line_id": "0537_viet_029",
+      "bbox": [
+        [
+          81,
+          1708
+        ],
+        [
+          1427,
+          1712
+        ],
+        [
+          1427,
+          1775
+        ],
+        [
+          80,
+          1771
+        ]
+      ],
+      "bbox_original": [
+        [
+          81,
+          1867
+        ],
+        [
+          1427,
+          1871
+        ],
+        [
+          1427,
+          1934
+        ],
+        [
+          80,
+          1930
+        ]
+      ],
+      "box_xyxy": [
+        80,
+        1708,
+        1427,
+        1775
+      ],
+      "text": "hiền, cũng ít được gặp hai vương, cho nên không được chỉ bảo",
+      "confidence": 0.9322
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "KIL May doi, song cung khong co ai la nguoi uac viet xuai ciluing,",
+      "thần không nhớ hết được, duy có thầy thân văn quyền truyền",
+      "dạy cho thần rất lâu, anh trai thần là Miên Thẩm có nơi giảng học",
+      "riêng ở Quảng Thiện đường, nhưng ngày thường vẫn hay qua lại",
+      "Thần theo học Thân Văn Quyền, sau Văn Quyền làm lễ quan",
+      "thần và anh trai cũng vẫn thường theo học. Văn Quyền là người",
+      "chuyên nhất ở việc bản thân mình dốc sức thực hành', rất am",
+      "tường nghĩa lí uần áo của các kinh điển, thơ ca cùng ngôn từ của",
+      "cổ văn cũng là người khai mở cho thần đầu tiên, nhưng ông",
+      "không trước tác nhiều, có trước tác cũng không còn bản thảo. Bể",
+      "tôi đã quá cố, Đại học sĩ Trương Đăng Quế, nho thần đã quá cố là",
+      "Phan Thanh Giản thần cũng từng bái làm thầy. Do đó mà nói, từ",
+      "trước đến nay chưa từng có sự so sánh. Sau khi Văn Quyền mất đi,",
+      "thần chỉ chuyên tâm theo học anh trai là miên Thẩm mà thôi. Đại",
+      "phàm cái học về kinh sách, cái học về cổ văn, cái học về thơ từ,",
+      "thảy đều theo khuôn phép, chứ không dụng công riêng vào thơ từ.",
+      "Còn như Hoàng thượng dụ rằng thần tinh thông kinh văn, thì ấy là",
+      "Hoàng thượng thương thần già yếu mà không bỏ bê việc học, cho",
+      "nên ban khen, mượn đó đặng khiến thần dùi mài thêm, chứ sự",
+      "thực thì thần không dám nhận lãnh vậy.",
+      "Hoàng triều theo nền văn trị, nho sĩ như rừng, các bậc hiền",
+      "đức tài cao, thần thảy đều không bì kịp. Duy có anh thần là Miên",
+      "Thẩm, lễ quan thân văn quyền, Đại học sĩ Trương Đăng Quế,",
+      "nguyên nho thần phan thanh giản, bốn vị ấy, lời nói đều đáng",
+      "làm mực thước, hành vi đáng làm phép tắc, trọn lòng trung hiếu,",
+      "chí tiết thanh cao, thần thực tâm yêu mền và khâm phục, bình sinh",
+      "hâm mộ mà chưa từng theo đòi được dầu chi là một hai phần vậy.",
+      "Cuối bài sớ lại có châu phê rằng:",
+      "-Trẫm thuở nhỏ không ham học, lại không có thày giỏi bạn",
+      "hiền, cũng ít được gặp hai vương, cho nên không được chỉ bảo"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

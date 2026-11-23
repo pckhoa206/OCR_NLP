@@ -1,0 +1,72 @@
+{
+  "page_id": "0667",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 667,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0667_han_000",
+      "bbox": [
+        [
+          239,
+          1285
+        ],
+        [
+          1059,
+          1285
+        ],
+        [
+          1059,
+          1352
+        ],
+        [
+          239,
+          1352
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          1500
+        ],
+        [
+          1059,
+          1500
+        ],
+        [
+          1059,
+          1567
+        ],
+        [
+          239,
+          1567
+        ]
+      ],
+      "box_xyxy": [
+        239,
+        1285,
+        1059,
+        1352
+      ],
+      "text": "(17) Đăng vuong: mt hiu cua Phat, duge nói aén trong kinh Duy ma 佳 摩 經.",
+      "confidence": 0.9175
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

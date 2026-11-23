@@ -1,0 +1,213 @@
+{
+  "page_id": "0776",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 776,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0776_han_000",
+      "bbox": [
+        [
+          903,
+          267
+        ],
+        [
+          981,
+          260
+        ],
+        [
+          986,
+          324
+        ],
+        [
+          908,
+          330
+        ]
+      ],
+      "bbox_original": [
+        [
+          903,
+          482
+        ],
+        [
+          981,
+          475
+        ],
+        [
+          986,
+          539
+        ],
+        [
+          908,
+          545
+        ]
+      ],
+      "box_xyxy": [
+        903,
+        260,
+        986,
+        330
+      ],
+      "text": "國",
+      "confidence": 0.9453
+    },
+    {
+      "line_id": "0776_han_001",
+      "bbox": [
+        [
+          327,
+          342
+        ],
+        [
+          646,
+          336
+        ],
+        [
+          647,
+          394
+        ],
+        [
+          328,
+          400
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          557
+        ],
+        [
+          646,
+          551
+        ],
+        [
+          647,
+          609
+        ],
+        [
+          328,
+          615
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        336,
+        647,
+        400
+      ],
+      "text": "VATT: bt 不",
+      "confidence": 0.8902
+    },
+    {
+      "line_id": "0776_han_002",
+      "bbox": [
+        [
+          816,
+          380
+        ],
+        [
+          919,
+          374
+        ],
+        [
+          924,
+          460
+        ],
+        [
+          821,
+          467
+        ]
+      ],
+      "bbox_original": [
+        [
+          816,
+          595
+        ],
+        [
+          919,
+          589
+        ],
+        [
+          924,
+          675
+        ],
+        [
+          821,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        816,
+        374,
+        924,
+        467
+      ],
+      "text": "目兼",
+      "confidence": 0.6796
+    },
+    {
+      "line_id": "0776_han_003",
+      "bbox": [
+        [
+          234,
+          717
+        ],
+        [
+          1059,
+          717
+        ],
+        [
+          1059,
+          792
+        ],
+        [
+          234,
+          792
+        ]
+      ],
+      "bbox_original": [
+        [
+          234,
+          932
+        ],
+        [
+          1059,
+          932
+        ],
+        [
+          1059,
+          1007
+        ],
+        [
+          234,
+          1007
+        ]
+      ],
+      "box_xyxy": [
+        234,
+        717,
+        1059,
+        792
+      ],
+      "text": "(2) (3) Truong Hān 張卓翁 : nguòi quān Ngó 吴 dài Tán 晋, lam quan  dt lac 洛.",
+      "confidence": 0.8789
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "page_id": "0527",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 527,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0527_viet_000",
+      "bbox": [
+        [
+          660,
+          33
+        ],
+        [
+          949,
+          33
+        ],
+        [
+          949,
+          92
+        ],
+        [
+          660,
+          92
+        ]
+      ],
+      "bbox_original": [
+        [
+          660,
+          192
+        ],
+        [
+          949,
+          192
+        ],
+        [
+          949,
+          251
+        ],
+        [
+          660,
+          251
+        ]
+      ],
+      "box_xyxy": [
+        660,
+        33,
+        949,
+        92
+      ],
+      "text": "Phụ lục 1:",
+      "confidence": 0.9341
+    },
+    {
+      "line_id": "0527_viet_001",
+      "bbox": [
+        [
+          237,
+          104
+        ],
+        [
+          1379,
+          104
+        ],
+        [
+          1379,
+          179
+        ],
+        [
+          237,
+          179
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          263
+        ],
+        [
+          1379,
+          263
+        ],
+        [
+          1379,
+          338
+        ],
+        [
+          237,
+          338
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        104,
+        1379,
+        179
+      ],
+      "text": "CÁC TÁC PHẨM CÓ TÍNH CHẤT TỪ LUẬN",
+      "confidence": 0.9271
+    },
+    {
+      "line_id": "0527_viet_002",
+      "bbox": [
+        [
+          558,
+          197
+        ],
+        [
+          1056,
+          197
+        ],
+        [
+          1056,
+          265
+        ],
+        [
+          558,
+          265
+        ]
+      ],
+      "bbox_original": [
+        [
+          558,
+          356
+        ],
+        [
+          1056,
+          356
+        ],
+        [
+          1056,
+          424
+        ],
+        [
+          558,
+          424
+        ]
+      ],
+      "box_xyxy": [
+        558,
+        197,
+        1056,
+        265
+      ],
+      "text": "CỦA MIÊN TRINH",
+      "confidence": 0.9158
+    },
+    {
+      "line_id": "0527_viet_003",
+      "bbox": [
+        [
+          133,
+          1999
+        ],
+        [
+          231,
+          1999
+        ],
+        [
+          231,
+          2062
+        ],
+        [
+          133,
+          2062
+        ]
+      ],
+      "bbox_original": [
+        [
+          133,
+          2158
+        ],
+        [
+          231,
+          2158
+        ],
+        [
+          231,
+          2221
+        ],
+        [
+          133,
+          2221
+        ]
+      ],
+      "box_xyxy": [
+        133,
+        1999,
+        231,
+        2062
+      ],
+      "text": "520",
+      "confidence": 0.9262
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Phụ lục 1:",
+      "CÁC TÁC PHẨM CÓ TÍNH CHẤT TỪ LUẬN",
+      "CỦA MIÊN TRINH",
+      "520"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "page_id": "0656",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 656,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0656_han_000",
+      "bbox": [
+        [
+          1067,
+          2671
+        ],
+        [
+          1137,
+          2671
+        ],
+        [
+          1137,
+          2705
+        ],
+        [
+          1067,
+          2705
+        ]
+      ],
+      "bbox_original": [
+        [
+          1067,
+          2886
+        ],
+        [
+          1137,
+          2886
+        ],
+        [
+          1137,
+          2920
+        ],
+        [
+          1067,
+          2920
+        ]
+      ],
+      "box_xyxy": [
+        1067,
+        2671,
+        1137,
+        2705
+      ],
+      "text": "中",
+      "confidence": 0.553
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "two_column_poetry",
+    "chu_han_lines": [
+      "中"
+    ],
+    "interlinear_triplets": []
+  }
+}

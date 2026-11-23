@@ -1,0 +1,567 @@
+{
+  "page_id": "0300",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 300,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0300_han_000",
+      "bbox": [
+        [
+          463,
+          83
+        ],
+        [
+          1195,
+          83
+        ],
+        [
+          1195,
+          160
+        ],
+        [
+          463,
+          160
+        ]
+      ],
+      "bbox_original": [
+        [
+          463,
+          251
+        ],
+        [
+          1195,
+          251
+        ],
+        [
+          1195,
+          328
+        ],
+        [
+          463,
+          328
+        ]
+      ],
+      "box_xyxy": [
+        463,
+        83,
+        1195,
+        160
+      ],
+      "text": "車塵馬足貴者趣",
+      "confidence": 0.9803
+    },
+    {
+      "line_id": "0300_han_001",
+      "bbox": [
+        [
+          458,
+          273
+        ],
+        [
+          1196,
+          275
+        ],
+        [
+          1196,
+          356
+        ],
+        [
+          458,
+          354
+        ]
+      ],
+      "bbox_original": [
+        [
+          458,
+          441
+        ],
+        [
+          1196,
+          443
+        ],
+        [
+          1196,
+          524
+        ],
+        [
+          458,
+          522
+        ]
+      ],
+      "box_xyxy": [
+        458,
+        273,
+        1196,
+        356
+      ],
+      "text": "酒盞花枝貧者緣",
+      "confidence": 0.98
+    },
+    {
+      "line_id": "0300_han_002",
+      "bbox": [
+        [
+          457,
+          556
+        ],
+        [
+          1193,
+          556
+        ],
+        [
+          1193,
+          638
+        ],
+        [
+          457,
+          638
+        ]
+      ],
+      "bbox_original": [
+        [
+          457,
+          724
+        ],
+        [
+          1193,
+          724
+        ],
+        [
+          1193,
+          806
+        ],
+        [
+          457,
+          806
+        ]
+      ],
+      "box_xyxy": [
+        457,
+        556,
+        1193,
+        638
+      ],
+      "text": "若將富貴比貧賤",
+      "confidence": 0.9992
+    },
+    {
+      "line_id": "0300_han_003",
+      "bbox": [
+        [
+          458,
+          749
+        ],
+        [
+          1190,
+          754
+        ],
+        [
+          1190,
+          830
+        ],
+        [
+          458,
+          825
+        ]
+      ],
+      "bbox_original": [
+        [
+          458,
+          917
+        ],
+        [
+          1190,
+          922
+        ],
+        [
+          1190,
+          998
+        ],
+        [
+          458,
+          993
+        ]
+      ],
+      "box_xyxy": [
+        458,
+        749,
+        1190,
+        830
+      ],
+      "text": "一在平地一在天",
+      "confidence": 0.9994
+    },
+    {
+      "line_id": "0300_han_004",
+      "bbox": [
+        [
+          452,
+          943
+        ],
+        [
+          1191,
+          943
+        ],
+        [
+          1191,
+          1024
+        ],
+        [
+          452,
+          1024
+        ]
+      ],
+      "bbox_original": [
+        [
+          452,
+          1111
+        ],
+        [
+          1191,
+          1111
+        ],
+        [
+          1191,
+          1192
+        ],
+        [
+          452,
+          1192
+        ]
+      ],
+      "box_xyxy": [
+        452,
+        943,
+        1191,
+        1024
+      ],
+      "text": "若將貧賤比車馬",
+      "confidence": 0.9938
+    },
+    {
+      "line_id": "0300_han_005",
+      "bbox": [
+        [
+          454,
+          1138
+        ],
+        [
+          1186,
+          1138
+        ],
+        [
+          1186,
+          1213
+        ],
+        [
+          454,
+          1213
+        ]
+      ],
+      "bbox_original": [
+        [
+          454,
+          1306
+        ],
+        [
+          1186,
+          1306
+        ],
+        [
+          1186,
+          1381
+        ],
+        [
+          454,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        454,
+        1138,
+        1186,
+        1213
+      ],
+      "text": "他得驅馳我得閑",
+      "confidence": 0.9997
+    },
+    {
+      "line_id": "0300_han_006",
+      "bbox": [
+        [
+          454,
+          1421
+        ],
+        [
+          1187,
+          1421
+        ],
+        [
+          1187,
+          1496
+        ],
+        [
+          454,
+          1496
+        ]
+      ],
+      "bbox_original": [
+        [
+          454,
+          1589
+        ],
+        [
+          1187,
+          1589
+        ],
+        [
+          1187,
+          1664
+        ],
+        [
+          454,
+          1664
+        ]
+      ],
+      "box_xyxy": [
+        454,
+        1421,
+        1187,
+        1496
+      ],
+      "text": "世人笑我忒風癲",
+      "confidence": 0.9979
+    },
+    {
+      "line_id": "0300_han_007",
+      "bbox": [
+        [
+          448,
+          1606
+        ],
+        [
+          1183,
+          1606
+        ],
+        [
+          1183,
+          1688
+        ],
+        [
+          448,
+          1688
+        ]
+      ],
+      "bbox_original": [
+        [
+          448,
+          1774
+        ],
+        [
+          1183,
+          1774
+        ],
+        [
+          1183,
+          1856
+        ],
+        [
+          448,
+          1856
+        ]
+      ],
+      "box_xyxy": [
+        448,
+        1606,
+        1183,
+        1688
+      ],
+      "text": "我笑世人看不穿",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0300_han_008",
+      "bbox": [
+        [
+          449,
+          1787
+        ],
+        [
+          1185,
+          1794
+        ],
+        [
+          1184,
+          1878
+        ],
+        [
+          448,
+          1872
+        ]
+      ],
+      "bbox_original": [
+        [
+          449,
+          1955
+        ],
+        [
+          1185,
+          1962
+        ],
+        [
+          1184,
+          2046
+        ],
+        [
+          448,
+          2040
+        ]
+      ],
+      "box_xyxy": [
+        448,
+        1787,
+        1185,
+        1878
+      ],
+      "text": "記得五陵豪傑墓",
+      "confidence": 0.9993
+    },
+    {
+      "line_id": "0300_han_009",
+      "bbox": [
+        [
+          445,
+          1983
+        ],
+        [
+          1183,
+          1981
+        ],
+        [
+          1183,
+          2062
+        ],
+        [
+          445,
+          2064
+        ]
+      ],
+      "bbox_original": [
+        [
+          445,
+          2151
+        ],
+        [
+          1183,
+          2149
+        ],
+        [
+          1183,
+          2230
+        ],
+        [
+          445,
+          2232
+        ]
+      ],
+      "box_xyxy": [
+        445,
+        1981,
+        1183,
+        2064
+      ],
+      "text": "無酒無花鋤作田",
+      "confidence": 0.9496
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "車塵馬足貴者趣",
+      "酒盞花枝貧者緣",
+      "若將富貴比貧賤",
+      "一在平地一在天",
+      "若將貧賤比車馬",
+      "他得驅馳我得閑",
+      "世人笑我忒風癲",
+      "我笑世人看不穿",
+      "記得五陵豪傑墓",
+      "無酒無花鋤作田"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "車塵馬足貴者趣",
+        "phien_am": "Xa-trần mã-túc quý-giả thú",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "酒盞花枝貧者緣",
+        "phien_am": "Tửu trản hoa chi, bần-giả duyên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "若將富貴比貧賤",
+        "phien_am": "Nhược tương phú-quý tỉ bần-tiện",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "一在平地一在天",
+        "phien_am": "Nhất tại bình địa, nhất tại thiên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "若將貧賤比車馬",
+        "phien_am": "Nhược tương bần-tiện tỉ xa-mã",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "他得驅馳我得閑",
+        "phien_am": "Tha đắc khu-trì, ngã đắc nhàn",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "世人笑我忒風癲",
+        "phien_am": "Thẽ-nhân tiêu ngã thắc phong điên,",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 7,
+        "chu_han": "我笑世人看不穿",
+        "phien_am": "Ngã tiêu thẽ-nhân khan bất xuyên",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 8,
+        "chu_han": "記得五陵豪傑墓",
+        "phien_am": "Ký đắc Ngũ-lăng hào-kiệt mộ ?",
+        "dich_nghia_gloss": ""
+      },
+      {
+        "triplet_index": 9,
+        "chu_han": "無酒無花鋤作田",
+        "phien_am": "Vô tửu vô hoa sử tác điền",
+        "dich_nghia_gloss": ""
+      }
+    ]
+  }
+}

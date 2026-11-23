@@ -1,0 +1,166 @@
+{
+  "page_id": "0807",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 807,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0807_han_000",
+      "bbox": [
+        [
+          325,
+          1814
+        ],
+        [
+          1059,
+          1814
+        ],
+        [
+          1059,
+          1880
+        ],
+        [
+          325,
+          1880
+        ]
+      ],
+      "bbox_original": [
+        [
+          325,
+          2029
+        ],
+        [
+          1059,
+          2029
+        ],
+        [
+          1059,
+          2095
+        ],
+        [
+          325,
+          2095
+        ]
+      ],
+      "box_xyxy": [
+        325,
+        1814,
+        1059,
+        1880
+      ],
+      "text": "VATT: Töng Tat Chi Ngöa. Trièu Tü Kg 送 撒只 瓦. 趙 子 期 TTTPHT:",
+      "confidence": 0.8566
+    },
+    {
+      "line_id": "0807_han_001",
+      "bbox": [
+        [
+          252,
+          1829
+        ],
+        [
+          304,
+          1829
+        ],
+        [
+          304,
+          1865
+        ],
+        [
+          252,
+          1865
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2044
+        ],
+        [
+          304,
+          2044
+        ],
+        [
+          304,
+          2080
+        ],
+        [
+          252,
+          2080
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        1829,
+        304,
+        1865
+      ],
+      "text": "是本",
+      "confidence": 0.3461
+    },
+    {
+      "line_id": "0807_han_002",
+      "bbox": [
+        [
+          338,
+          1873
+        ],
+        [
+          1059,
+          1873
+        ],
+        [
+          1059,
+          1931
+        ],
+        [
+          338,
+          1931
+        ]
+      ],
+      "bbox_original": [
+        [
+          338,
+          2088
+        ],
+        [
+          1059,
+          2088
+        ],
+        [
+          1059,
+          2146
+        ],
+        [
+          338,
+          2146
+        ]
+      ],
+      "box_xyxy": [
+        338,
+        1873,
+        1059,
+        1931
+      ],
+      "text": "Töng Bác sur Trieu Tü Kg 送 北 使 子 期",
+      "confidence": 0.8494
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

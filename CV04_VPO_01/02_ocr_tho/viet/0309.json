@@ -1,0 +1,177 @@
+{
+  "page_id": "0309",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 309,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0309_viet_000",
+      "bbox": [
+        [
+          571,
+          838
+        ],
+        [
+          1081,
+          845
+        ],
+        [
+          1080,
+          974
+        ],
+        [
+          570,
+          967
+        ]
+      ],
+      "bbox_original": [
+        [
+          571,
+          1006
+        ],
+        [
+          1081,
+          1013
+        ],
+        [
+          1080,
+          1142
+        ],
+        [
+          570,
+          1135
+        ]
+      ],
+      "box_xyxy": [
+        570,
+        838,
+        1081,
+        974
+      ],
+      "text": "PHỤ-LỤC",
+      "confidence": 0.871
+    },
+    {
+      "line_id": "0309_viet_001",
+      "bbox": [
+        [
+          510,
+          1012
+        ],
+        [
+          1142,
+          1012
+        ],
+        [
+          1142,
+          1097
+        ],
+        [
+          510,
+          1097
+        ]
+      ],
+      "bbox_original": [
+        [
+          510,
+          1180
+        ],
+        [
+          1142,
+          1180
+        ],
+        [
+          1142,
+          1265
+        ],
+        [
+          510,
+          1265
+        ]
+      ],
+      "box_xyxy": [
+        510,
+        1012,
+        1142,
+        1097
+      ],
+      "text": "những bài hán-văn",
+      "confidence": 0.9298
+    },
+    {
+      "line_id": "0309_viet_002",
+      "bbox": [
+        [
+          507,
+          1112
+        ],
+        [
+          1143,
+          1115
+        ],
+        [
+          1143,
+          1200
+        ],
+        [
+          507,
+          1197
+        ]
+      ],
+      "bbox_original": [
+        [
+          507,
+          1280
+        ],
+        [
+          1143,
+          1283
+        ],
+        [
+          1143,
+          1368
+        ],
+        [
+          507,
+          1365
+        ]
+      ],
+      "box_xyxy": [
+        507,
+        1112,
+        1143,
+        1200
+      ],
+      "text": "đã có bản dịch cũ",
+      "confidence": 0.9255
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "PHỤ-LỤC",
+      "những bài hán-văn",
+      "đã có bản dịch cũ"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      906.0,
+      1054.5,
+      1156.0
+    ]
+  }
+}

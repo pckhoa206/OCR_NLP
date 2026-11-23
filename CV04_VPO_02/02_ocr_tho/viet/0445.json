@@ -1,0 +1,555 @@
+{
+  "page_id": "0445",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 445,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0445_viet_000",
+      "bbox": [
+        [
+          253,
+          1251
+        ],
+        [
+          477,
+          1251
+        ],
+        [
+          477,
+          1300
+        ],
+        [
+          253,
+          1300
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1410
+        ],
+        [
+          477,
+          1410
+        ],
+        [
+          477,
+          1459
+        ],
+        [
+          253,
+          1459
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1251,
+        477,
+        1300
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9198
+    },
+    {
+      "line_id": "0445_viet_001",
+      "bbox": [
+        [
+          627,
+          1309
+        ],
+        [
+          1064,
+          1312
+        ],
+        [
+          1064,
+          1374
+        ],
+        [
+          627,
+          1370
+        ]
+      ],
+      "bbox_original": [
+        [
+          627,
+          1468
+        ],
+        [
+          1064,
+          1471
+        ],
+        [
+          1064,
+          1533
+        ],
+        [
+          627,
+          1529
+        ]
+      ],
+      "box_xyxy": [
+        627,
+        1309,
+        1064,
+        1374
+      ],
+      "text": "CỔ DUỆ TỪ TỰ TỰ",
+      "confidence": 0.922
+    },
+    {
+      "line_id": "0445_viet_002",
+      "bbox": [
+        [
+          251,
+          1386
+        ],
+        [
+          1513,
+          1385
+        ],
+        [
+          1513,
+          1443
+        ],
+        [
+          251,
+          1444
+        ]
+      ],
+      "bbox_original": [
+        [
+          251,
+          1545
+        ],
+        [
+          1513,
+          1544
+        ],
+        [
+          1513,
+          1602
+        ],
+        [
+          251,
+          1603
+        ]
+      ],
+      "box_xyxy": [
+        251,
+        1385,
+        1513,
+        1444
+      ],
+      "text": "Phù ngự thiện mã lương nhi bắc, dữ sở dũ ly, chúng hưu nhất",
+      "confidence": 0.9094
+    },
+    {
+      "line_id": "0445_viet_003",
+      "bbox": [
+        [
+          172,
+          1448
+        ],
+        [
+          768,
+          1446
+        ],
+        [
+          768,
+          1501
+        ],
+        [
+          172,
+          1503
+        ]
+      ],
+      "bbox_original": [
+        [
+          172,
+          1607
+        ],
+        [
+          768,
+          1605
+        ],
+        [
+          768,
+          1660
+        ],
+        [
+          172,
+          1662
+        ]
+      ],
+      "box_xyxy": [
+        172,
+        1446,
+        768,
+        1503
+      ],
+      "text": "phó chi nhàn, cầu tề bất khả.",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0445_viet_004",
+      "bbox": [
+        [
+          253,
+          1516
+        ],
+        [
+          1513,
+          1518
+        ],
+        [
+          1513,
+          1572
+        ],
+        [
+          253,
+          1570
+        ]
+      ],
+      "bbox_original": [
+        [
+          253,
+          1675
+        ],
+        [
+          1513,
+          1677
+        ],
+        [
+          1513,
+          1731
+        ],
+        [
+          253,
+          1729
+        ]
+      ],
+      "box_xyxy": [
+        253,
+        1516,
+        1513,
+        1572
+      ],
+      "text": "Bộc: Sinh tòng Nam quốc, cách đoạn Trung Nguyên Kí thủ",
+      "confidence": 0.8579
+    },
+    {
+      "line_id": "0445_viet_005",
+      "bbox": [
+        [
+          173,
+          1577
+        ],
+        [
+          1510,
+          1579
+        ],
+        [
+          1510,
+          1632
+        ],
+        [
+          173,
+          1630
+        ]
+      ],
+      "bbox_original": [
+        [
+          173,
+          1736
+        ],
+        [
+          1510,
+          1738
+        ],
+        [
+          1510,
+          1791
+        ],
+        [
+          173,
+          1789
+        ]
+      ],
+      "box_xyxy": [
+        173,
+        1577,
+        1510,
+        1632
+      ],
+      "text": "bát phương chi âm, kiêm thất tứ thanh chi học. Gia dĩ: Văn vô phi",
+      "confidence": 0.9294
+    },
+    {
+      "line_id": "0445_viet_006",
+      "bbox": [
+        [
+          169,
+          1636
+        ],
+        [
+          1513,
+          1640
+        ],
+        [
+          1513,
+          1695
+        ],
+        [
+          169,
+          1691
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1795
+        ],
+        [
+          1513,
+          1799
+        ],
+        [
+          1513,
+          1854
+        ],
+        [
+          169,
+          1850
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1636,
+        1513,
+        1695
+      ],
+      "text": "nhạc, kiến tính thị nho. Sức cổ chung nhi tạp tác, thuỳ vi thức",
+      "confidence": 0.9182
+    },
+    {
+      "line_id": "0445_viet_007",
+      "bbox": [
+        [
+          169,
+          1697
+        ],
+        [
+          1513,
+          1698
+        ],
+        [
+          1513,
+          1752
+        ],
+        [
+          169,
+          1751
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1856
+        ],
+        [
+          1513,
+          1857
+        ],
+        [
+          1513,
+          1911
+        ],
+        [
+          169,
+          1910
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1697,
+        1513,
+        1752
+      ],
+      "text": "khúc chi nhân, đàm tính mệnh dĩ tương cao, bất tiết ý thanh chi",
+      "confidence": 0.9205
+    },
+    {
+      "line_id": "0445_viet_008",
+      "bbox": [
+        [
+          169,
+          1758
+        ],
+        [
+          1516,
+          1756
+        ],
+        [
+          1516,
+          1813
+        ],
+        [
+          169,
+          1815
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1917
+        ],
+        [
+          1516,
+          1915
+        ],
+        [
+          1516,
+          1972
+        ],
+        [
+          169,
+          1974
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1756,
+        1516,
+        1815
+      ],
+      "text": "nghiệp. hà do nhược quản, phiên hi điển từ. Tòng nhũ nhiễm dĩ",
+      "confidence": 0.9005
+    },
+    {
+      "line_id": "0445_viet_009",
+      "bbox": [
+        [
+          169,
+          1821
+        ],
+        [
+          877,
+          1818
+        ],
+        [
+          877,
+          1868
+        ],
+        [
+          169,
+          1871
+        ]
+      ],
+      "bbox_original": [
+        [
+          169,
+          1980
+        ],
+        [
+          877,
+          1977
+        ],
+        [
+          877,
+          2027
+        ],
+        [
+          169,
+          2030
+        ]
+      ],
+      "box_xyxy": [
+        169,
+        1818,
+        877,
+        1871
+      ],
+      "text": "ngôn chi, kì công chuyết khả tri hĩ",
+      "confidence": 0.9292
+    },
+    {
+      "line_id": "0445_viet_010",
+      "bbox": [
+        [
+          167,
+          1982
+        ],
+        [
+          258,
+          1982
+        ],
+        [
+          258,
+          2042
+        ],
+        [
+          167,
+          2042
+        ]
+      ],
+      "bbox_original": [
+        [
+          167,
+          2141
+        ],
+        [
+          258,
+          2141
+        ],
+        [
+          258,
+          2201
+        ],
+        [
+          167,
+          2201
+        ]
+      ],
+      "box_xyxy": [
+        167,
+        1982,
+        258,
+        2042
+      ],
+      "text": "438",
+      "confidence": 0.9271
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "CỔ DUỆ TỪ TỰ TỰ",
+      "Phù ngự thiện mã lương nhi bắc, dữ sở dũ ly, chúng hưu nhất",
+      "phó chi nhàn, cầu tề bất khả.",
+      "Bộc: Sinh tòng Nam quốc, cách đoạn Trung Nguyên Kí thủ",
+      "bát phương chi âm, kiêm thất tứ thanh chi học. Gia dĩ: Văn vô phi",
+      "nhạc, kiến tính thị nho. Sức cổ chung nhi tạp tác, thuỳ vi thức",
+      "khúc chi nhân, đàm tính mệnh dĩ tương cao, bất tiết ý thanh chi",
+      "nghiệp. hà do nhược quản, phiên hi điển từ. Tòng nhũ nhiễm dĩ",
+      "ngôn chi, kì công chuyết khả tri hĩ",
+      "438"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

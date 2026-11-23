@@ -1,0 +1,556 @@
+{
+  "page_id": "0448",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 448,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": 724,
+    "footnote_separator_y_original": 883,
+    "effective_width": 1558,
+    "effective_height": 724
+  },
+  "items": [
+    {
+      "line_id": "0448_viet_000",
+      "bbox": [
+        [
+          144,
+          0
+        ],
+        [
+          1490,
+          0
+        ],
+        [
+          1490,
+          41
+        ],
+        [
+          144,
+          43
+        ]
+      ],
+      "bbox_original": [
+        [
+          144,
+          159
+        ],
+        [
+          1490,
+          159
+        ],
+        [
+          1490,
+          200
+        ],
+        [
+          144,
+          202
+        ]
+      ],
+      "box_xyxy": [
+        144,
+        0,
+        1490,
+        43
+      ],
+      "text": "chuông trông mà chế tác hôn tạp, ai là người hiếu khúc điệu đây?;",
+      "confidence": 0.9041
+    },
+    {
+      "line_id": "0448_viet_001",
+      "bbox": [
+        [
+          143,
+          48
+        ],
+        [
+          1478,
+          48
+        ],
+        [
+          1478,
+          101
+        ],
+        [
+          143,
+          101
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          207
+        ],
+        [
+          1478,
+          207
+        ],
+        [
+          1478,
+          260
+        ],
+        [
+          143,
+          260
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        48,
+        1478,
+        101
+      ],
+      "text": "bàn về tính tình thì cùng cho thế là cao, chẳng thiết gì nghiệp học",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0448_viet_002",
+      "bbox": [
+        [
+          135,
+          103
+        ],
+        [
+          1481,
+          97
+        ],
+        [
+          1482,
+          159
+        ],
+        [
+          135,
+          165
+        ]
+      ],
+      "bbox_original": [
+        [
+          135,
+          262
+        ],
+        [
+          1481,
+          256
+        ],
+        [
+          1482,
+          318
+        ],
+        [
+          135,
+          324
+        ]
+      ],
+      "box_xyxy": [
+        135,
+        97,
+        1482,
+        165
+      ],
+      "text": "ý thanh nữa? Vì đâu cẩm mà bút, lại thích điền từ 7 Từ sự tấm",
+      "confidence": 0.8673
+    },
+    {
+      "line_id": "0448_viet_003",
+      "bbox": [
+        [
+          142,
+          164
+        ],
+        [
+          1226,
+          164
+        ],
+        [
+          1226,
+          220
+        ],
+        [
+          142,
+          220
+        ]
+      ],
+      "bbox_original": [
+        [
+          142,
+          323
+        ],
+        [
+          1226,
+          323
+        ],
+        [
+          1226,
+          379
+        ],
+        [
+          142,
+          379
+        ]
+      ],
+      "box_xyxy": [
+        142,
+        164,
+        1226,
+        220
+      ],
+      "text": "nhiễm ấy mà nói, thì sự khéo vụng khá biết được vậy.",
+      "confidence": 0.9062
+    },
+    {
+      "line_id": "0448_viet_004",
+      "bbox": [
+        [
+          224,
+          226
+        ],
+        [
+          1482,
+          224
+        ],
+        [
+          1483,
+          287
+        ],
+        [
+          224,
+          289
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          385
+        ],
+        [
+          1482,
+          383
+        ],
+        [
+          1483,
+          446
+        ],
+        [
+          224,
+          448
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        224,
+        1483,
+        289
+      ],
+      "text": "Ôi, người xưa nào thấy, ý nhạc khó quên, Chỉ biết dốc chí lự",
+      "confidence": 0.929
+    },
+    {
+      "line_id": "0448_viet_005",
+      "bbox": [
+        [
+          143,
+          290
+        ],
+        [
+          1478,
+          286
+        ],
+        [
+          1479,
+          342
+        ],
+        [
+          143,
+          346
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          449
+        ],
+        [
+          1478,
+          445
+        ],
+        [
+          1479,
+          501
+        ],
+        [
+          143,
+          505
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        286,
+        1479,
+        346
+      ],
+      "text": "cho chuyên nhất, mong tinh thần có thể khế hợp với thuở đã xa.",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0448_viet_006",
+      "bbox": [
+        [
+          138,
+          347
+        ],
+        [
+          1479,
+          337
+        ],
+        [
+          1480,
+          403
+        ],
+        [
+          138,
+          413
+        ]
+      ],
+      "bbox_original": [
+        [
+          138,
+          506
+        ],
+        [
+          1479,
+          496
+        ],
+        [
+          1480,
+          562
+        ],
+        [
+          138,
+          572
+        ]
+      ],
+      "box_xyxy": [
+        138,
+        337,
+        1480,
+        413
+      ],
+      "text": "Hoê du mấy phen biển đổi, rương đựng thực cũng đã nhiều",
+      "confidence": 0.8836
+    },
+    {
+      "line_id": "0448_viet_007",
+      "bbox": [
+        [
+          143,
+          407
+        ],
+        [
+          1481,
+          403
+        ],
+        [
+          1482,
+          459
+        ],
+        [
+          143,
+          463
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          566
+        ],
+        [
+          1481,
+          562
+        ],
+        [
+          1482,
+          618
+        ],
+        [
+          143,
+          622
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        403,
+        1482,
+        463
+      ],
+      "text": "Thực muốn: coi cái chổi cùn của mình như của báu, đối diện với",
+      "confidence": 0.9208
+    },
+    {
+      "line_id": "0448_viet_008",
+      "bbox": [
+        [
+          143,
+          469
+        ],
+        [
+          766,
+          467
+        ],
+        [
+          766,
+          524
+        ],
+        [
+          143,
+          526
+        ]
+      ],
+      "bbox_original": [
+        [
+          143,
+          628
+        ],
+        [
+          766,
+          626
+        ],
+        [
+          766,
+          683
+        ],
+        [
+          143,
+          685
+        ]
+      ],
+      "box_xyxy": [
+        143,
+        467,
+        766,
+        526
+      ],
+      "text": "mây trắng đặng tự vui mà thôi.",
+      "confidence": 0.93
+    },
+    {
+      "line_id": "0448_viet_009",
+      "bbox": [
+        [
+          223,
+          535
+        ],
+        [
+          1481,
+          527
+        ],
+        [
+          1482,
+          587
+        ],
+        [
+          224,
+          595
+        ]
+      ],
+      "bbox_original": [
+        [
+          223,
+          694
+        ],
+        [
+          1481,
+          686
+        ],
+        [
+          1482,
+          746
+        ],
+        [
+          224,
+          754
+        ]
+      ],
+      "box_xyxy": [
+        223,
+        527,
+        1482,
+        595
+      ],
+      "text": "Khách có kẻ nói: Nga Hoàng xét nhạc phổ, còn tìm về được",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0448_viet_010",
+      "bbox": [
+        [
+          145,
+          592
+        ],
+        [
+          1479,
+          592
+        ],
+        [
+          1479,
+          648
+        ],
+        [
+          145,
+          648
+        ]
+      ],
+      "bbox_original": [
+        [
+          145,
+          751
+        ],
+        [
+          1479,
+          751
+        ],
+        [
+          1479,
+          807
+        ],
+        [
+          145,
+          807
+        ]
+      ],
+      "box_xyxy": [
+        145,
+        592,
+        1479,
+        648
+      ],
+      "text": "dư thanh của thời Thiên Bảo'; Tống Duyện nghe tiếng chuông,",
+      "confidence": 0.885
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "chuông trông mà chế tác hôn tạp, ai là người hiếu khúc điệu đây?;",
+      "bàn về tính tình thì cùng cho thế là cao, chẳng thiết gì nghiệp học",
+      "ý thanh nữa? Vì đâu cẩm mà bút, lại thích điền từ 7 Từ sự tấm",
+      "nhiễm ấy mà nói, thì sự khéo vụng khá biết được vậy.",
+      "Ôi, người xưa nào thấy, ý nhạc khó quên, Chỉ biết dốc chí lự",
+      "cho chuyên nhất, mong tinh thần có thể khế hợp với thuở đã xa.",
+      "Hoê du mấy phen biển đổi, rương đựng thực cũng đã nhiều",
+      "Thực muốn: coi cái chổi cùn của mình như của báu, đối diện với",
+      "mây trắng đặng tự vui mà thôi.",
+      "Khách có kẻ nói: Nga Hoàng xét nhạc phổ, còn tìm về được",
+      "dư thanh của thời Thiên Bảo'; Tống Duyện nghe tiếng chuông,"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

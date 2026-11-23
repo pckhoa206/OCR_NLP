@@ -1,0 +1,405 @@
+{
+  "page_id": "0362",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 362,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0362_han_000",
+      "bbox": [
+        [
+          449,
+          77
+        ],
+        [
+          1046,
+          79
+        ],
+        [
+          1046,
+          154
+        ],
+        [
+          449,
+          151
+        ]
+      ],
+      "bbox_original": [
+        [
+          449,
+          245
+        ],
+        [
+          1046,
+          247
+        ],
+        [
+          1046,
+          322
+        ],
+        [
+          449,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        449,
+        77,
+        1046,
+        154
+      ],
+      "text": "馬杯自挹輕塵",
+      "confidence": 0.9952
+    },
+    {
+      "line_id": "0362_han_001",
+      "bbox": [
+        [
+          439,
+          436
+        ],
+        [
+          1263,
+          432
+        ],
+        [
+          1263,
+          511
+        ],
+        [
+          439,
+          514
+        ]
+      ],
+      "bbox_original": [
+        [
+          439,
+          604
+        ],
+        [
+          1263,
+          600
+        ],
+        [
+          1263,
+          679
+        ],
+        [
+          439,
+          682
+        ]
+      ],
+      "box_xyxy": [
+        439,
+        432,
+        1263,
+        514
+      ],
+      "text": "渭城此後故人亦辭",
+      "confidence": 0.9977
+    },
+    {
+      "line_id": "0362_han_002",
+      "bbox": [
+        [
+          445,
+          727
+        ],
+        [
+          1152,
+          725
+        ],
+        [
+          1152,
+          800
+        ],
+        [
+          445,
+          802
+        ]
+      ],
+      "bbox_original": [
+        [
+          445,
+          895
+        ],
+        [
+          1152,
+          893
+        ],
+        [
+          1152,
+          968
+        ],
+        [
+          445,
+          970
+        ]
+      ],
+      "box_xyxy": [
+        445,
+        725,
+        1152,
+        802
+      ],
+      "text": "不知後北圻起匪",
+      "confidence": 0.9887
+    },
+    {
+      "line_id": "0362_han_003",
+      "bbox": [
+        [
+          440,
+          1021
+        ],
+        [
+          1152,
+          1021
+        ],
+        [
+          1152,
+          1095
+        ],
+        [
+          440,
+          1095
+        ]
+      ],
+      "bbox_original": [
+        [
+          440,
+          1189
+        ],
+        [
+          1152,
+          1189
+        ],
+        [
+          1152,
+          1263
+        ],
+        [
+          440,
+          1263
+        ]
+      ],
+      "box_xyxy": [
+        440,
+        1021,
+        1152,
+        1095
+      ],
+      "text": "二吾兄己未回辰",
+      "confidence": 0.9774
+    },
+    {
+      "line_id": "0362_han_004",
+      "bbox": [
+        [
+          432,
+          1315
+        ],
+        [
+          1040,
+          1313
+        ],
+        [
+          1040,
+          1389
+        ],
+        [
+          433,
+          1391
+        ]
+      ],
+      "bbox_original": [
+        [
+          432,
+          1483
+        ],
+        [
+          1040,
+          1481
+        ],
+        [
+          1040,
+          1557
+        ],
+        [
+          433,
+          1559
+        ]
+      ],
+      "box_xyxy": [
+        432,
+        1313,
+        1040,
+        1391
+      ],
+      "text": "嗟哉同病相憐",
+      "confidence": 0.9951
+    },
+    {
+      "line_id": "0362_han_005",
+      "bbox": [
+        [
+          435,
+          1603
+        ],
+        [
+          1254,
+          1599
+        ],
+        [
+          1254,
+          1674
+        ],
+        [
+          436,
+          1678
+        ]
+      ],
+      "bbox_original": [
+        [
+          435,
+          1771
+        ],
+        [
+          1254,
+          1767
+        ],
+        [
+          1254,
+          1842
+        ],
+        [
+          436,
+          1846
+        ]
+      ],
+      "box_xyxy": [
+        435,
+        1599,
+        1254,
+        1678
+      ],
+      "text": "一瀟湘一向秦一方",
+      "confidence": 0.9293
+    },
+    {
+      "line_id": "0362_han_006",
+      "bbox": [
+        [
+          435,
+          1893
+        ],
+        [
+          1152,
+          1891
+        ],
+        [
+          1152,
+          1966
+        ],
+        [
+          435,
+          1968
+        ]
+      ],
+      "bbox_original": [
+        [
+          435,
+          2061
+        ],
+        [
+          1152,
+          2059
+        ],
+        [
+          1152,
+          2134
+        ],
+        [
+          435,
+          2136
+        ]
+      ],
+      "box_xyxy": [
+        435,
+        1891,
+        1152,
+        1968
+      ],
+      "text": "將何日更相對語",
+      "confidence": 0.9997
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "馬杯自挹輕塵",
+      "渭城此後故人亦辭",
+      "不知後北圻起匪",
+      "二吾兄己未回辰",
+      "嗟哉同病相憐",
+      "一瀟湘一向秦一方",
+      "將何日更相對語"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "馬杯自挹輕塵",
+        "phien_am": "Mã bôi tự ấp khinh trần",
+        "dich_nghia_gloss": "- Nhớ khi giã nhau, ngồi trên ngựa, cầm vội chén rượu (trận mưa bay) rưới tan bụi trần."
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "渭城此後故人亦辭",
+        "phien_am": "Vị-thành thử hậu, cõ-nhân diệc từ",
+        "dich_nghia_gloss": "- Sau khi ầy ở Vị-thành bạn bè đành cũng tan lìa."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "不知後北圻起匪",
+        "phien_am": "Bất tri hậu Bắc kỳ khởi phỉ",
+        "dich_nghia_gloss": "- Chẳng biết về sau ở bắc-kỳ có giặc nổi dậy."
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "二吾兄己未回辰",
+        "phien_am": "Nhị ngô huynh dĩ vị hồi thần",
+        "dich_nghia_gloss": "Hai anh ta đã về chưa ?"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "嗟哉同病相憐",
+        "phien_am": "Ta tai đồng bệnh tương lân",
+        "dich_nghia_gloss": "- Oi. cùng chung một bệnh, cùng thương nhau"
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "一瀟湘一向秦一方",
+        "phien_am": "Nhứt Tiêu-lương. nhứt hướng Tũn nhứt phương",
+        "dich_nghia_gloss": "- Người thì tới sông Tiêu-tương, kẻ ở lại nước Tấn"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "將何日更相對語",
+        "phien_am": "Tương hà nhật cánh tương đõi ngữ",
+        "dich_nghia_gloss": "- Hầu ngày nào lại ngôi đồi mặt nhau nói chuyện."
+      }
+    ]
+  }
+}

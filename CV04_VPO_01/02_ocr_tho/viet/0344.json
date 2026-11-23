@@ -1,0 +1,839 @@
+{
+  "page_id": "0344",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 344,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0344_viet_000",
+      "bbox": [
+        [
+          215,
+          163
+        ],
+        [
+          1432,
+          166
+        ],
+        [
+          1432,
+          234
+        ],
+        [
+          215,
+          231
+        ]
+      ],
+      "bbox_original": [
+        [
+          215,
+          331
+        ],
+        [
+          1432,
+          334
+        ],
+        [
+          1432,
+          402
+        ],
+        [
+          215,
+          399
+        ]
+      ],
+      "box_xyxy": [
+        215,
+        163,
+        1432,
+        234
+      ],
+      "text": "Hàm linh yềm phiên không huyền nguyệt minh",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0344_viet_001",
+      "bbox": [
+        [
+          203,
+          245
+        ],
+        [
+          1440,
+          250
+        ],
+        [
+          1440,
+          315
+        ],
+        [
+          203,
+          310
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          413
+        ],
+        [
+          1440,
+          418
+        ],
+        [
+          1440,
+          483
+        ],
+        [
+          203,
+          478
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        245,
+        1440,
+        315
+      ],
+      "text": "- (Mình ai) ngậm sâu, lây quạt, che mặt lại, luông để",
+      "confidence": 0.9129
+    },
+    {
+      "line_id": "0344_viet_002",
+      "bbox": [
+        [
+          203,
+          320
+        ],
+        [
+          1043,
+          322
+        ],
+        [
+          1043,
+          383
+        ],
+        [
+          203,
+          381
+        ]
+      ],
+      "bbox_original": [
+        [
+          203,
+          488
+        ],
+        [
+          1043,
+          490
+        ],
+        [
+          1043,
+          551
+        ],
+        [
+          203,
+          549
+        ]
+      ],
+      "box_xyxy": [
+        203,
+        320,
+        1043,
+        383
+      ],
+      "text": "mặc vừng trăng sáng lạnh lùng treo",
+      "confidence": 0.9339
+    },
+    {
+      "line_id": "0344_viet_003",
+      "bbox": [
+        [
+          297,
+          514
+        ],
+        [
+          1064,
+          519
+        ],
+        [
+          1064,
+          581
+        ],
+        [
+          296,
+          576
+        ]
+      ],
+      "bbox_original": [
+        [
+          297,
+          682
+        ],
+        [
+          1064,
+          687
+        ],
+        [
+          1064,
+          749
+        ],
+        [
+          296,
+          744
+        ]
+      ],
+      "box_xyxy": [
+        296,
+        514,
+        1064,
+        581
+      ],
+      "text": "Cô-chầm lý, tam canh ngụ-mị,",
+      "confidence": 0.9221
+    },
+    {
+      "line_id": "0344_viet_004",
+      "bbox": [
+        [
+          209,
+          601
+        ],
+        [
+          946,
+          606
+        ],
+        [
+          946,
+          670
+        ],
+        [
+          208,
+          664
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          769
+        ],
+        [
+          946,
+          774
+        ],
+        [
+          946,
+          838
+        ],
+        [
+          208,
+          832
+        ]
+      ],
+      "box_xyxy": [
+        208,
+        601,
+        946,
+        670
+      ],
+      "text": "- Trên gồi, năm canh mơ-màng",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0344_viet_005",
+      "bbox": [
+        [
+          298,
+          799
+        ],
+        [
+          1062,
+          801
+        ],
+        [
+          1062,
+          862
+        ],
+        [
+          297,
+          860
+        ]
+      ],
+      "bbox_original": [
+        [
+          298,
+          967
+        ],
+        [
+          1062,
+          969
+        ],
+        [
+          1062,
+          1030
+        ],
+        [
+          297,
+          1028
+        ]
+      ],
+      "box_xyxy": [
+        297,
+        799,
+        1062,
+        862
+      ],
+      "text": "Phiên u-hoài thùy thị vi lân ?",
+      "confidence": 0.9207
+    },
+    {
+      "line_id": "0344_viet_006",
+      "bbox": [
+        [
+          211,
+          885
+        ],
+        [
+          1155,
+          887
+        ],
+        [
+          1155,
+          952
+        ],
+        [
+          211,
+          950
+        ]
+      ],
+      "bbox_original": [
+        [
+          211,
+          1053
+        ],
+        [
+          1155,
+          1055
+        ],
+        [
+          1155,
+          1120
+        ],
+        [
+          211,
+          1118
+        ]
+      ],
+      "box_xyxy": [
+        211,
+        885,
+        1155,
+        952
+      ],
+      "text": "- Mảnh tình u-n ai thương cho mình ?",
+      "confidence": 0.897
+    },
+    {
+      "line_id": "0344_viet_007",
+      "bbox": [
+        [
+          299,
+          1084
+        ],
+        [
+          965,
+          1087
+        ],
+        [
+          965,
+          1145
+        ],
+        [
+          298,
+          1142
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1252
+        ],
+        [
+          965,
+          1255
+        ],
+        [
+          965,
+          1313
+        ],
+        [
+          298,
+          1310
+        ]
+      ],
+      "box_xyxy": [
+        298,
+        1084,
+        965,
+        1145
+      ],
+      "text": "Tình đầu dạ bán vô nhân,",
+      "confidence": 0.9029
+    },
+    {
+      "line_id": "0344_viet_008",
+      "bbox": [
+        [
+          212,
+          1164
+        ],
+        [
+          1446,
+          1168
+        ],
+        [
+          1446,
+          1229
+        ],
+        [
+          212,
+          1225
+        ]
+      ],
+      "bbox_original": [
+        [
+          212,
+          1332
+        ],
+        [
+          1446,
+          1336
+        ],
+        [
+          1446,
+          1397
+        ],
+        [
+          212,
+          1393
+        ]
+      ],
+      "box_xyxy": [
+        212,
+        1164,
+        1446,
+        1229
+      ],
+      "text": "- Nửa đêm một mảnh tình riêng, không ai chung với",
+      "confidence": 0.9265
+    },
+    {
+      "line_id": "0344_viet_009",
+      "bbox": [
+        [
+          300,
+          1365
+        ],
+        [
+          1298,
+          1362
+        ],
+        [
+          1298,
+          1426
+        ],
+        [
+          301,
+          1429
+        ]
+      ],
+      "bbox_original": [
+        [
+          300,
+          1533
+        ],
+        [
+          1298,
+          1530
+        ],
+        [
+          1298,
+          1594
+        ],
+        [
+          301,
+          1597
+        ]
+      ],
+      "box_xyxy": [
+        300,
+        1362,
+        1298,
+        1429
+      ],
+      "text": "Thụy lai báo điệp, tỉnh thần minh kê.",
+      "confidence": 0.925
+    },
+    {
+      "line_id": "0344_viet_010",
+      "bbox": [
+        [
+          209,
+          1441
+        ],
+        [
+          1446,
+          1445
+        ],
+        [
+          1446,
+          1512
+        ],
+        [
+          209,
+          1508
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          1609
+        ],
+        [
+          1446,
+          1613
+        ],
+        [
+          1446,
+          1680
+        ],
+        [
+          209,
+          1676
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        1441,
+        1446,
+        1512
+      ],
+      "text": "- Hễ chợp mắt ngủ, bướm đã thoảng qua mộng, mì",
+      "confidence": 0.8438
+    },
+    {
+      "line_id": "0344_viet_011",
+      "bbox": [
+        [
+          209,
+          1516
+        ],
+        [
+          939,
+          1516
+        ],
+        [
+          939,
+          1579
+        ],
+        [
+          209,
+          1579
+        ]
+      ],
+      "bbox_original": [
+        [
+          209,
+          1684
+        ],
+        [
+          939,
+          1684
+        ],
+        [
+          939,
+          1747
+        ],
+        [
+          209,
+          1747
+        ]
+      ],
+      "box_xyxy": [
+        209,
+        1516,
+        939,
+        1579
+      ],
+      "text": "bừng mắt dậy, gà đã gáy bên tai.",
+      "confidence": 0.9302
+    },
+    {
+      "line_id": "0344_viet_012",
+      "bbox": [
+        [
+          299,
+          1713
+        ],
+        [
+          1300,
+          1711
+        ],
+        [
+          1300,
+          1775
+        ],
+        [
+          300,
+          1777
+        ]
+      ],
+      "bbox_original": [
+        [
+          299,
+          1881
+        ],
+        [
+          1300,
+          1879
+        ],
+        [
+          1300,
+          1943
+        ],
+        [
+          300,
+          1945
+        ]
+      ],
+      "box_xyxy": [
+        299,
+        1711,
+        1300,
+        1777
+      ],
+      "text": "Hữu thời hoặc hương-khuê tịch chiều,",
+      "confidence": 0.9126
+    },
+    {
+      "line_id": "0344_viet_013",
+      "bbox": [
+        [
+          214,
+          1795
+        ],
+        [
+          1448,
+          1795
+        ],
+        [
+          1448,
+          1855
+        ],
+        [
+          214,
+          1855
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          1963
+        ],
+        [
+          1448,
+          1963
+        ],
+        [
+          1448,
+          2023
+        ],
+        [
+          214,
+          2023
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        1795,
+        1448,
+        1855
+      ],
+      "text": "- Hoặc có lúc trong cửa buồng, ánh trời tà giọi vào",
+      "confidence": 0.9283
+    },
+    {
+      "line_id": "0344_viet_014",
+      "bbox": [
+        [
+          302,
+          1993
+        ],
+        [
+          1101,
+          1992
+        ],
+        [
+          1101,
+          2054
+        ],
+        [
+          302,
+          2055
+        ]
+      ],
+      "bbox_original": [
+        [
+          302,
+          2161
+        ],
+        [
+          1101,
+          2160
+        ],
+        [
+          1101,
+          2222
+        ],
+        [
+          302,
+          2223
+        ]
+      ],
+      "box_xyxy": [
+        302,
+        1992,
+        1101,
+        2055
+      ],
+      "text": "Hạ đường lai, dục tạo hoa lâu",
+      "confidence": 0.9315
+    },
+    {
+      "line_id": "0344_viet_015",
+      "bbox": [
+        [
+          214,
+          2075
+        ],
+        [
+          1266,
+          2071
+        ],
+        [
+          1266,
+          2130
+        ],
+        [
+          214,
+          2134
+        ]
+      ],
+      "bbox_original": [
+        [
+          214,
+          2243
+        ],
+        [
+          1266,
+          2239
+        ],
+        [
+          1266,
+          2298
+        ],
+        [
+          214,
+          2302
+        ]
+      ],
+      "box_xyxy": [
+        214,
+        2071,
+        1266,
+        2134
+      ],
+      "text": "- Bước xuồng thêm lại muồn trở lên lầu hoa",
+      "confidence": 0.9065
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "phien_am_lines": [
+      "Hàm linh yềm phiên không huyền nguyệt minh",
+      "Cô-chầm lý, tam canh ngụ-mị,",
+      "Phiên u-hoài thùy thị vi lân ?",
+      "Tình đầu dạ bán vô nhân,",
+      "Thụy lai báo điệp, tỉnh thần minh kê.",
+      "Hữu thời hoặc hương-khuê tịch chiều,",
+      "Hạ đường lai, dục tạo hoa lâu"
+    ],
+    "dich_nghia_lines": [
+      "- (Mình ai) ngậm sâu, lây quạt, che mặt lại, luông để mặc vừng trăng sáng lạnh lùng treo",
+      "- Trên gồi, năm canh mơ-màng",
+      "- Mảnh tình u-n ai thương cho mình ?",
+      "- Nửa đêm một mảnh tình riêng, không ai chung với",
+      "- Hễ chợp mắt ngủ, bướm đã thoảng qua mộng, mì bừng mắt dậy, gà đã gáy bên tai.",
+      "- Hoặc có lúc trong cửa buồng, ánh trời tà giọi vào",
+      "- Bước xuồng thêm lại muồn trở lên lầu hoa"
+    ],
+    "dich_tho_lines": [],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "含情掩扇空懸月明",
+        "phien_am": "Hàm linh yềm phiên không huyền nguyệt minh",
+        "dich_nghia_gloss": "- (Mình ai) ngậm sâu, lây quạt, che mặt lại, luông để mặc vừng trăng sáng lạnh lùng treo"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "孤忱裡三更寤寐",
+        "phien_am": "Cô-chầm lý, tam canh ngụ-mị,",
+        "dich_nghia_gloss": "- Trên gồi, năm canh mơ-màng"
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "片幽懷誰是為憐",
+        "phien_am": "Phiên u-hoài thùy thị vi lân ?",
+        "dich_nghia_gloss": "- Mảnh tình u-n ai thương cho mình ?"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "情頭夜半無人",
+        "phien_am": "Tình đầu dạ bán vô nhân,",
+        "dich_nghia_gloss": "- Nửa đêm một mảnh tình riêng, không ai chung với"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "睡來報蝶醒辰鳴鷄",
+        "phien_am": "Thụy lai báo điệp, tỉnh thần minh kê.",
+        "dich_nghia_gloss": "- Hễ chợp mắt ngủ, bướm đã thoảng qua mộng, mì bừng mắt dậy, gà đã gáy bên tai."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "有辰或鄉閨夕炤",
+        "phien_am": "Hữu thời hoặc hương-khuê tịch chiều,",
+        "dich_nghia_gloss": "- Hoặc có lúc trong cửa buồng, ánh trời tà giọi vào"
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "下堂来欲造花樓",
+        "phien_am": "Hạ đường lai, dục tạo hoa lâu",
+        "dich_nghia_gloss": "- Bước xuồng thêm lại muồn trở lên lầu hoa"
+      }
+    ],
+    "has_dich_nghia": true
+  }
+}

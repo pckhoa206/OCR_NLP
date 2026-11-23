@@ -1,0 +1,1180 @@
+{
+  "page_id": "0818",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 818,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0818_viet_000",
+      "bbox": [
+        [
+          1159,
+          0
+        ],
+        [
+          1353,
+          1
+        ],
+        [
+          1353,
+          22
+        ],
+        [
+          1159,
+          19
+        ]
+      ],
+      "bbox_original": [
+        [
+          1159,
+          215
+        ],
+        [
+          1353,
+          216
+        ],
+        [
+          1353,
+          237
+        ],
+        [
+          1159,
+          234
+        ]
+      ],
+      "box_xyxy": [
+        1159,
+        0,
+        1353,
+        22
+      ],
+      "text": "0311000119",
+      "confidence": 0.4302
+    },
+    {
+      "line_id": "0818_viet_001",
+      "bbox": [
+        [
+          1015,
+          104
+        ],
+        [
+          1876,
+          104
+        ],
+        [
+          1876,
+          188
+        ],
+        [
+          1015,
+          188
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          319
+        ],
+        [
+          1876,
+          319
+        ],
+        [
+          1876,
+          403
+        ],
+        [
+          1015,
+          403
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        104,
+        1876,
+        188
+      ],
+      "text": "Trắng 1 trên 4% 3 về nữ",
+      "confidence": 0.4959
+    },
+    {
+      "line_id": "0818_viet_002",
+      "bbox": [
+        [
+          534,
+          228
+        ],
+        [
+          1945,
+          236
+        ],
+        [
+          1945,
+          284
+        ],
+        [
+          534,
+          276
+        ]
+      ],
+      "bbox_original": [
+        [
+          534,
+          443
+        ],
+        [
+          1945,
+          451
+        ],
+        [
+          1945,
+          499
+        ],
+        [
+          534,
+          491
+        ]
+      ],
+      "box_xyxy": [
+        534,
+        228,
+        1945,
+        284
+      ],
+      "text": "Doãn luận nhân vật giáo hoàng từ, tu chỉ.cập thiện nhận, Ác nhân thả tri",
+      "confidence": 0.8529
+    },
+    {
+      "line_id": "0818_viet_003",
+      "bbox": [
+        [
+          332,
+          276
+        ],
+        [
+          1948,
+          287
+        ],
+        [
+          1948,
+          337
+        ],
+        [
+          332,
+          326
+        ]
+      ],
+      "bbox_original": [
+        [
+          332,
+          491
+        ],
+        [
+          1948,
+          502
+        ],
+        [
+          1948,
+          552
+        ],
+        [
+          332,
+          541
+        ]
+      ],
+      "box_xyxy": [
+        332,
+        276,
+        1948,
+        337
+      ],
+      "text": "sật luận, Khủng hoàng tử văn chị hoặc hữu hiệu, giả, Nghĩa là: ở Phàm bàn đến các",
+      "confidence": 0.865
+    },
+    {
+      "line_id": "0818_viet_004",
+      "bbox": [
+        [
+          329,
+          328
+        ],
+        [
+          1947,
+          337
+        ],
+        [
+          1947,
+          388
+        ],
+        [
+          329,
+          379
+        ]
+      ],
+      "bbox_original": [
+        [
+          329,
+          543
+        ],
+        [
+          1947,
+          552
+        ],
+        [
+          1947,
+          603
+        ],
+        [
+          329,
+          594
+        ]
+      ],
+      "box_xyxy": [
+        329,
+        328,
+        1947,
+        388
+      ],
+      "text": "nhân vật đề dạy hoàng từ, chỉ nền đề cập đến những ngvời tốt. kè xáu hảy bỏ ra đứng",
+      "confidence": 0.8815
+    },
+    {
+      "line_id": "0818_viet_005",
+      "bbox": [
+        [
+          326,
+          380
+        ],
+        [
+          1945,
+          389
+        ],
+        [
+          1945,
+          439
+        ],
+        [
+          326,
+          430
+        ]
+      ],
+      "bbox_original": [
+        [
+          326,
+          595
+        ],
+        [
+          1945,
+          604
+        ],
+        [
+          1945,
+          654
+        ],
+        [
+          326,
+          645
+        ]
+      ],
+      "box_xyxy": [
+        326,
+        380,
+        1945,
+        439
+      ],
+      "text": "bàn, sở các hoàng tử nghe được rồi, có người bắt chước s, Thượng hoàng Trần Minh",
+      "confidence": 0.8833
+    },
+    {
+      "line_id": "0818_viet_006",
+      "bbox": [
+        [
+          327,
+          432
+        ],
+        [
+          1036,
+          436
+        ],
+        [
+          1036,
+          484
+        ],
+        [
+          327,
+          480
+        ]
+      ],
+      "bbox_original": [
+        [
+          327,
+          647
+        ],
+        [
+          1036,
+          651
+        ],
+        [
+          1036,
+          699
+        ],
+        [
+          327,
+          695
+        ]
+      ],
+      "box_xyxy": [
+        327,
+        432,
+        1036,
+        484
+      ],
+      "text": "Tổng bèn trao, đồi lại những lời trên",
+      "confidence": 0.9212
+    },
+    {
+      "line_id": "0818_viet_007",
+      "bbox": [
+        [
+          235,
+          500
+        ],
+        [
+          1548,
+          500
+        ],
+        [
+          1548,
+          558
+        ],
+        [
+          235,
+          558
+        ]
+      ],
+      "bbox_original": [
+        [
+          235,
+          715
+        ],
+        [
+          1548,
+          715
+        ],
+        [
+          1548,
+          773
+        ],
+        [
+          235,
+          773
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        500,
+        1548,
+        558
+      ],
+      "text": "(2) Thái Khang: xem Cht, 3, bài Giới tiêu văn, số 39, của Trần Cảnh.",
+      "confidence": 0.8439
+    },
+    {
+      "line_id": "0818_viet_008",
+      "bbox": [
+        [
+          1015,
+          565
+        ],
+        [
+          1913,
+          565
+        ],
+        [
+          1913,
+          629
+        ],
+        [
+          1015,
+          629
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          780
+        ],
+        [
+          1913,
+          780
+        ],
+        [
+          1913,
+          844
+        ],
+        [
+          1015,
+          844
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        565,
+        1913,
+        629
+      ],
+      "text": "Tùy, con thứ hai vua, Tùy Văn Đế Á X",
+      "confidence": 0.8733
+    },
+    {
+      "line_id": "0818_viet_009",
+      "bbox": [
+        [
+          324,
+          624
+        ],
+        [
+          1948,
+          626
+        ],
+        [
+          1948,
+          677
+        ],
+        [
+          324,
+          675
+        ]
+      ],
+      "bbox_original": [
+        [
+          324,
+          839
+        ],
+        [
+          1948,
+          841
+        ],
+        [
+          1948,
+          892
+        ],
+        [
+          324,
+          890
+        ]
+      ],
+      "box_xyxy": [
+        324,
+        624,
+        1948,
+        677
+      ],
+      "text": "(590 ? 605), Vì nhân cách không xứng đảng, vua cha định không, truyền, ngôi, nhưng",
+      "confidence": 0.8856
+    },
+    {
+      "line_id": "0818_viet_010",
+      "bbox": [
+        [
+          322,
+          677
+        ],
+        [
+          1945,
+          678
+        ],
+        [
+          1945,
+          725
+        ],
+        [
+          322,
+          724
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          892
+        ],
+        [
+          1945,
+          893
+        ],
+        [
+          1945,
+          940
+        ],
+        [
+          322,
+          939
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        677,
+        1945,
+        725
+      ],
+      "text": "chở dịp vua cha ổm nặng, y làm chuyện thí nghịch cướp ngôi. Sau 12 năm ăn chơi",
+      "confidence": 0.8634
+    },
+    {
+      "line_id": "0818_viet_011",
+      "bbox": [
+        [
+          322,
+          728
+        ],
+        [
+          871,
+          728
+        ],
+        [
+          871,
+          775
+        ],
+        [
+          322,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          943
+        ],
+        [
+          871,
+          943
+        ],
+        [
+          871,
+          990
+        ],
+        [
+          322,
+          990
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        728,
+        871,
+        775
+      ],
+      "text": "xã xỉ, y bị quần thần giết đi.",
+      "confidence": 0.9021
+    },
+    {
+      "line_id": "0818_viet_012",
+      "bbox": [
+        [
+          232,
+          794
+        ],
+        [
+          1942,
+          792
+        ],
+        [
+          1942,
+          846
+        ],
+        [
+          232,
+          848
+        ]
+      ],
+      "bbox_original": [
+        [
+          232,
+          1009
+        ],
+        [
+          1942,
+          1007
+        ],
+        [
+          1942,
+          1061
+        ],
+        [
+          232,
+          1063
+        ]
+      ],
+      "box_xyxy": [
+        232,
+        792,
+        1942,
+        848
+      ],
+      "text": "(4) Nghiêu Thuân: xem: Cht. 8, bài Nghì: Anh Tông hoàng đế tả thượng hoàng biều, số 288,",
+      "confidence": 0.8972
+    },
+    {
+      "line_id": "0818_viet_013",
+      "bbox": [
+        [
+          321,
+          846
+        ],
+        [
+          687,
+          843
+        ],
+        [
+          687,
+          891
+        ],
+        [
+          321,
+          895
+        ]
+      ],
+      "bbox_original": [
+        [
+          321,
+          1061
+        ],
+        [
+          687,
+          1058
+        ],
+        [
+          687,
+          1106
+        ],
+        [
+          321,
+          1110
+        ]
+      ],
+      "box_xyxy": [
+        321,
+        843,
+        687,
+        895
+      ],
+      "text": "của Đoàn nhữ Hài.",
+      "confidence": 0.8503
+    },
+    {
+      "line_id": "0818_viet_014",
+      "bbox": [
+        [
+          229,
+          915
+        ],
+        [
+          1943,
+          911
+        ],
+        [
+          1943,
+          968
+        ],
+        [
+          229,
+          972
+        ]
+      ],
+      "bbox_original": [
+        [
+          229,
+          1130
+        ],
+        [
+          1943,
+          1126
+        ],
+        [
+          1943,
+          1183
+        ],
+        [
+          229,
+          1187
+        ]
+      ],
+      "box_xyxy": [
+        229,
+        911,
+        1943,
+        972
+      ],
+      "text": "(6) Kiệt, Trụ: hai ông vua tương truyền tàn ác.bậc nhất trong lịch sử thượng cồ Trung-",
+      "confidence": 0.9039
+    },
+    {
+      "line_id": "0818_viet_015",
+      "bbox": [
+        [
+          322,
+          966
+        ],
+        [
+          1943,
+          964
+        ],
+        [
+          1943,
+          1015
+        ],
+        [
+          322,
+          1017
+        ]
+      ],
+      "bbox_original": [
+        [
+          322,
+          1181
+        ],
+        [
+          1943,
+          1179
+        ],
+        [
+          1943,
+          1230
+        ],
+        [
+          322,
+          1232
+        ]
+      ],
+      "box_xyxy": [
+        322,
+        964,
+        1943,
+        1017
+      ],
+      "text": "quốc. Kiệt (1818 ? 1766 trước CN), là vua cuối cùng của nhà Hạ, là cháu tầng, tòn của",
+      "confidence": 0.9135
+    },
+    {
+      "line_id": "0818_viet_016",
+      "bbox": [
+        [
+          1015,
+          1013
+        ],
+        [
+          1944,
+          1013
+        ],
+        [
+          1944,
+          1068
+        ],
+        [
+          1015,
+          1068
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1228
+        ],
+        [
+          1944,
+          1228
+        ],
+        [
+          1944,
+          1283
+        ],
+        [
+          1015,
+          1283
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1013,
+        1944,
+        1068
+      ],
+      "text": "là người bạo ngược vô đạo, yêu nàng phi là",
+      "confidence": 0.9248
+    },
+    {
+      "line_id": "0818_viet_017",
+      "bbox": [
+        [
+          1015,
+          1065
+        ],
+        [
+          1945,
+          1065
+        ],
+        [
+          1945,
+          1118
+        ],
+        [
+          1015,
+          1118
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1280
+        ],
+        [
+          1945,
+          1280
+        ],
+        [
+          1945,
+          1333
+        ],
+        [
+          1015,
+          1333
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1065,
+        1945,
+        1118
+      ],
+      "text": "lập gò bằng bột cho nàng vừa y. về sau bị chư",
+      "confidence": 0.8895
+    },
+    {
+      "line_id": "0818_viet_018",
+      "bbox": [
+        [
+          318,
+          1118
+        ],
+        [
+          1942,
+          1117
+        ],
+        [
+          1942,
+          1165
+        ],
+        [
+          318,
+          1166
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1333
+        ],
+        [
+          1942,
+          1332
+        ],
+        [
+          1942,
+          1380
+        ],
+        [
+          318,
+          1381
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1117,
+        1942,
+        1166
+      ],
+      "text": "hầu là Thang 3, đánh bại. Trụ (1154 ? 1122 trước CN): vua cuối cũng của nhà",
+      "confidence": 0.8512
+    },
+    {
+      "line_id": "0818_viet_019",
+      "bbox": [
+        [
+          318,
+          1165
+        ],
+        [
+          1942,
+          1161
+        ],
+        [
+          1942,
+          1215
+        ],
+        [
+          318,
+          1219
+        ]
+      ],
+      "bbox_original": [
+        [
+          318,
+          1380
+        ],
+        [
+          1942,
+          1376
+        ],
+        [
+          1942,
+          1430
+        ],
+        [
+          318,
+          1434
+        ]
+      ],
+      "box_xyxy": [
+        318,
+        1161,
+        1942,
+        1219
+      ],
+      "text": "Thường, con Đế Át % Z Tên là Tân Ở . có sức khoẻ và tải năng hơn người",
+      "confidence": 0.8319
+    },
+    {
+      "line_id": "0818_viet_020",
+      "bbox": [
+        [
+          317,
+          1219
+        ],
+        [
+          1940,
+          1215
+        ],
+        [
+          1940,
+          1266
+        ],
+        [
+          317,
+          1270
+        ]
+      ],
+      "bbox_original": [
+        [
+          317,
+          1434
+        ],
+        [
+          1940,
+          1430
+        ],
+        [
+          1940,
+          1481
+        ],
+        [
+          317,
+          1485
+        ]
+      ],
+      "box_xyxy": [
+        317,
+        1215,
+        1940,
+        1270
+      ],
+      "text": "nhưng dâm đãng, bạo ngược, thi hành chính bách sưu cao, thuế nặng, bị chư-bầu oán",
+      "confidence": 0.8926
+    },
+    {
+      "line_id": "0818_viet_021",
+      "bbox": [
+        [
+          1015,
+          1270
+        ],
+        [
+          1534,
+          1270
+        ],
+        [
+          1534,
+          1320
+        ],
+        [
+          1015,
+          1320
+        ]
+      ],
+      "bbox_original": [
+        [
+          1015,
+          1485
+        ],
+        [
+          1534,
+          1485
+        ],
+        [
+          1534,
+          1535
+        ],
+        [
+          1015,
+          1535
+        ]
+      ],
+      "box_xyxy": [
+        1015,
+        1270,
+        1534,
+        1320
+      ],
+      "text": "LIÊT XUẤT QUÀN ĐÁNH BẠI",
+      "confidence": 0.8087
+    },
+    {
+      "line_id": "0818_viet_022",
+      "bbox": [
+        [
+          224,
+          1339
+        ],
+        [
+          1937,
+          1333
+        ],
+        [
+          1937,
+          1387
+        ],
+        [
+          224,
+          1393
+        ]
+      ],
+      "bbox_original": [
+        [
+          224,
+          1554
+        ],
+        [
+          1937,
+          1548
+        ],
+        [
+          1937,
+          1602
+        ],
+        [
+          224,
+          1608
+        ]
+      ],
+      "box_xyxy": [
+        224,
+        1333,
+        1937,
+        1393
+      ],
+      "text": "(6) Theo ĐVSKTT, nghe mấy lời trên đây, Uỷ túc vương Năn Bích dập đầu: khon phải,",
+      "confidence": 0.8734
+    },
+    {
+      "line_id": "0818_viet_023",
+      "bbox": [
+        [
+          1071,
+          1456
+        ],
+        [
+          1101,
+          1456
+        ],
+        [
+          1101,
+          1484
+        ],
+        [
+          1071,
+          1484
+        ]
+      ],
+      "bbox_original": [
+        [
+          1071,
+          1671
+        ],
+        [
+          1101,
+          1671
+        ],
+        [
+          1101,
+          1699
+        ],
+        [
+          1071,
+          1699
+        ]
+      ],
+      "box_xyxy": [
+        1071,
+        1456,
+        1101,
+        1484
+      ],
+      "text": "4",
+      "confidence": 0.4059
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "phien_am_lines": [
+      "0311000119",
+      "Trắng 1 trên 4% 3 về nữ",
+      "Doãn luận nhân vật giáo hoàng từ, tu chỉ.cập thiện nhận, Ác nhân thả tri",
+      "sật luận, Khủng hoàng tử văn chị hoặc hữu hiệu, giả, Nghĩa là: ở Phàm bàn đến các",
+      "nhân vật đề dạy hoàng từ, chỉ nền đề cập đến những ngvời tốt. kè xáu hảy bỏ ra đứng",
+      "bàn, sở các hoàng tử nghe được rồi, có người bắt chước s, Thượng hoàng Trần Minh",
+      "Tổng bèn trao, đồi lại những lời trên",
+      "(2) Thái Khang: xem Cht, 3, bài Giới tiêu văn, số 39, của Trần Cảnh.",
+      "Tùy, con thứ hai vua, Tùy Văn Đế Á X",
+      "(590 ? 605), Vì nhân cách không xứng đảng, vua cha định không, truyền, ngôi, nhưng",
+      "chở dịp vua cha ổm nặng, y làm chuyện thí nghịch cướp ngôi. Sau 12 năm ăn chơi",
+      "xã xỉ, y bị quần thần giết đi.",
+      "(4) Nghiêu Thuân: xem: Cht. 8, bài Nghì: Anh Tông hoàng đế tả thượng hoàng biều, số 288,",
+      "của Đoàn nhữ Hài.",
+      "(6) Kiệt, Trụ: hai ông vua tương truyền tàn ác.bậc nhất trong lịch sử thượng cồ Trung-",
+      "quốc. Kiệt (1818 ? 1766 trước CN), là vua cuối cùng của nhà Hạ, là cháu tầng, tòn của",
+      "là người bạo ngược vô đạo, yêu nàng phi là",
+      "lập gò bằng bột cho nàng vừa y. về sau bị chư",
+      "hầu là Thang 3, đánh bại. Trụ (1154 ? 1122 trước CN): vua cuối cũng của nhà",
+      "Thường, con Đế Át % Z Tên là Tân Ở . có sức khoẻ và tải năng hơn người",
+      "nhưng dâm đãng, bạo ngược, thi hành chính bách sưu cao, thuế nặng, bị chư-bầu oán",
+      "LIÊT XUẤT QUÀN ĐÁNH BẠI",
+      "(6) Theo ĐVSKTT, nghe mấy lời trên đây, Uỷ túc vương Năn Bích dập đầu: khon phải,",
+      "4"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

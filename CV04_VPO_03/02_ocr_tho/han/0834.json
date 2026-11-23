@@ -1,0 +1,213 @@
+{
+  "page_id": "0834",
+  "book_type": "TVLT2",
+  "book_folder": "CV04_VPO_03",
+  "page_num": 834,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TVLT2",
+    "original_width": 2208,
+    "original_height": 3071,
+    "crop_top_px": 215,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 2208,
+    "effective_height": 2856
+  },
+  "items": [
+    {
+      "line_id": "0834_han_000",
+      "bbox": [
+        [
+          252,
+          2421
+        ],
+        [
+          1070,
+          2412
+        ],
+        [
+          1071,
+          2484
+        ],
+        [
+          253,
+          2493
+        ]
+      ],
+      "bbox_original": [
+        [
+          252,
+          2636
+        ],
+        [
+          1070,
+          2627
+        ],
+        [
+          1071,
+          2699
+        ],
+        [
+          253,
+          2708
+        ]
+      ],
+      "box_xyxy": [
+        252,
+        2412,
+        1071,
+        2493
+      ],
+      "text": "1* MDT: Phöng son an 方 山 庵",
+      "confidence": 0.9088
+    },
+    {
+      "line_id": "0834_han_001",
+      "bbox": [
+        [
+          1120,
+          2539
+        ],
+        [
+          1181,
+          2541
+        ],
+        [
+          1177,
+          2629
+        ],
+        [
+          1116,
+          2627
+        ]
+      ],
+      "bbox_original": [
+        [
+          1120,
+          2754
+        ],
+        [
+          1181,
+          2756
+        ],
+        [
+          1177,
+          2844
+        ],
+        [
+          1116,
+          2842
+        ]
+      ],
+      "box_xyxy": [
+        1116,
+        2539,
+        1181,
+        2629
+      ],
+      "text": "鼻",
+      "confidence": 1.0
+    },
+    {
+      "line_id": "0834_han_002",
+      "bbox": [
+        [
+          1212,
+          2545
+        ],
+        [
+          1284,
+          2545
+        ],
+        [
+          1284,
+          2622
+        ],
+        [
+          1212,
+          2622
+        ]
+      ],
+      "bbox_original": [
+        [
+          1212,
+          2760
+        ],
+        [
+          1284,
+          2760
+        ],
+        [
+          1284,
+          2837
+        ],
+        [
+          1212,
+          2837
+        ]
+      ],
+      "box_xyxy": [
+        1212,
+        2545,
+        1284,
+        2622
+      ],
+      "text": "香",
+      "confidence": 0.9999
+    },
+    {
+      "line_id": "0834_han_003",
+      "bbox": [
+        [
+          999,
+          2564
+        ],
+        [
+          1071,
+          2564
+        ],
+        [
+          1071,
+          2619
+        ],
+        [
+          999,
+          2619
+        ]
+      ],
+      "bbox_original": [
+        [
+          999,
+          2779
+        ],
+        [
+          1071,
+          2779
+        ],
+        [
+          1071,
+          2834
+        ],
+        [
+          999,
+          2834
+        ]
+      ],
+      "box_xyxy": [
+        999,
+        2564,
+        1071,
+        2619
+      ],
+      "text": "方关",
+      "confidence": 0.6427
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_prose",
+    "chu_han_lines": [],
+    "interlinear_triplets": []
+  }
+}

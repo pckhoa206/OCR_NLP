@@ -1,0 +1,747 @@
+{
+  "page_id": "0525",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 525,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0525_viet_000",
+      "bbox": [
+        [
+          239,
+          23
+        ],
+        [
+          1504,
+          26
+        ],
+        [
+          1504,
+          83
+        ],
+        [
+          238,
+          80
+        ]
+      ],
+      "bbox_original": [
+        [
+          239,
+          182
+        ],
+        [
+          1504,
+          185
+        ],
+        [
+          1504,
+          242
+        ],
+        [
+          238,
+          239
+        ]
+      ],
+      "box_xyxy": [
+        238,
+        23,
+        1504,
+        83
+      ],
+      "text": "Mai Cát Phủ hiện chưa rõ năm sinh mất cùng hành trạng. bài",
+      "confidence": 0.9001
+    },
+    {
+      "line_id": "0525_viet_001",
+      "bbox": [
+        [
+          157,
+          82
+        ],
+        [
+          1504,
+          84
+        ],
+        [
+          1504,
+          141
+        ],
+        [
+          157,
+          139
+        ]
+      ],
+      "bbox_original": [
+        [
+          157,
+          241
+        ],
+        [
+          1504,
+          243
+        ],
+        [
+          1504,
+          300
+        ],
+        [
+          157,
+          298
+        ]
+      ],
+      "box_xyxy": [
+        157,
+        82,
+        1504,
+        141
+      ],
+      "text": "từ dưới đây của ông là lời đề từ cho tác phẩm Đào hoa mông kí",
+      "confidence": 0.9275
+    },
+    {
+      "line_id": "0525_viet_002",
+      "bbox": [
+        [
+          160,
+          144
+        ],
+        [
+          1500,
+          144
+        ],
+        [
+          1500,
+          199
+        ],
+        [
+          160,
+          199
+        ]
+      ],
+      "bbox_original": [
+        [
+          160,
+          303
+        ],
+        [
+          1500,
+          303
+        ],
+        [
+          1500,
+          358
+        ],
+        [
+          160,
+          358
+        ]
+      ],
+      "box_xyxy": [
+        160,
+        144,
+        1500,
+        199
+      ],
+      "text": "(VHv.2152) ? một tác phẩm ra đời dưới sự ảnh hưởng của Truyện",
+      "confidence": 0.9289
+    },
+    {
+      "line_id": "0525_viet_003",
+      "bbox": [
+        [
+          158,
+          199
+        ],
+        [
+          1502,
+          202
+        ],
+        [
+          1502,
+          260
+        ],
+        [
+          158,
+          257
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          358
+        ],
+        [
+          1502,
+          361
+        ],
+        [
+          1502,
+          419
+        ],
+        [
+          158,
+          416
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        199,
+        1502,
+        260
+      ],
+      "text": "Kiều của Nguyễn Du (1765 ? 1820), do Cấn Phong Hà Đàm Hiên",
+      "confidence": 0.8974
+    },
+    {
+      "line_id": "0525_viet_004",
+      "bbox": [
+        [
+          158,
+          261
+        ],
+        [
+          1500,
+          260
+        ],
+        [
+          1500,
+          314
+        ],
+        [
+          158,
+          315
+        ]
+      ],
+      "bbox_original": [
+        [
+          158,
+          420
+        ],
+        [
+          1500,
+          419
+        ],
+        [
+          1500,
+          473
+        ],
+        [
+          158,
+          474
+        ]
+      ],
+      "box_xyxy": [
+        158,
+        260,
+        1500,
+        315
+      ],
+      "text": "(2 ? 2) soạn. Bên cạnh đó, ông cũng viết các lời bình luận cho tác",
+      "confidence": 0.9161
+    },
+    {
+      "line_id": "0525_viet_005",
+      "bbox": [
+        [
+          155,
+          317
+        ],
+        [
+          1500,
+          316
+        ],
+        [
+          1500,
+          374
+        ],
+        [
+          155,
+          375
+        ]
+      ],
+      "bbox_original": [
+        [
+          155,
+          476
+        ],
+        [
+          1500,
+          475
+        ],
+        [
+          1500,
+          533
+        ],
+        [
+          155,
+          534
+        ]
+      ],
+      "box_xyxy": [
+        155,
+        316,
+        1500,
+        375
+      ],
+      "text": "phẩm nói trên. Từ đó ức đoán có thể tác phẩm ra đời vào thế ki",
+      "confidence": 0.9124
+    },
+    {
+      "line_id": "0525_viet_006",
+      "bbox": [
+        [
+          156,
+          378
+        ],
+        [
+          803,
+          376
+        ],
+        [
+          803,
+          430
+        ],
+        [
+          156,
+          432
+        ]
+      ],
+      "bbox_original": [
+        [
+          156,
+          537
+        ],
+        [
+          803,
+          535
+        ],
+        [
+          803,
+          589
+        ],
+        [
+          156,
+          591
+        ]
+      ],
+      "box_xyxy": [
+        156,
+        376,
+        803,
+        432
+      ],
+      "text": "XIX, hoặc giả là đầu thế kỉ XX.",
+      "confidence": 0.9037
+    },
+    {
+      "line_id": "0525_viet_007",
+      "bbox": [
+        [
+          236,
+          1334
+        ],
+        [
+          460,
+          1337
+        ],
+        [
+          460,
+          1390
+        ],
+        [
+          235,
+          1387
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1493
+        ],
+        [
+          460,
+          1496
+        ],
+        [
+          460,
+          1549
+        ],
+        [
+          235,
+          1546
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1334,
+        460,
+        1390
+      ],
+      "text": "Phiên âm:",
+      "confidence": 0.9242
+    },
+    {
+      "line_id": "0525_viet_008",
+      "bbox": [
+        [
+          236,
+          1404
+        ],
+        [
+          561,
+          1406
+        ],
+        [
+          560,
+          1461
+        ],
+        [
+          235,
+          1459
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1563
+        ],
+        [
+          561,
+          1565
+        ],
+        [
+          560,
+          1620
+        ],
+        [
+          235,
+          1618
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1404,
+        561,
+        1461
+      ],
+      "text": "Lâm giang tiên",
+      "confidence": 0.9323
+    },
+    {
+      "line_id": "0525_viet_009",
+      "bbox": [
+        [
+          237,
+          1470
+        ],
+        [
+          847,
+          1472
+        ],
+        [
+          846,
+          1529
+        ],
+        [
+          236,
+          1527
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1629
+        ],
+        [
+          847,
+          1631
+        ],
+        [
+          846,
+          1688
+        ],
+        [
+          236,
+          1686
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1470,
+        847,
+        1529
+      ],
+      "text": "Tĩnh viện quan thu, nhàn ý kỉ;",
+      "confidence": 0.9148
+    },
+    {
+      "line_id": "0525_viet_010",
+      "bbox": [
+        [
+          238,
+          1533
+        ],
+        [
+          746,
+          1536
+        ],
+        [
+          746,
+          1594
+        ],
+        [
+          237,
+          1591
+        ]
+      ],
+      "bbox_original": [
+        [
+          238,
+          1692
+        ],
+        [
+          746,
+          1695
+        ],
+        [
+          746,
+          1753
+        ],
+        [
+          237,
+          1750
+        ]
+      ],
+      "box_xyxy": [
+        237,
+        1533,
+        746,
+        1594
+      ],
+      "text": "Hồi tư tam bách niên lai.",
+      "confidence": 0.9243
+    },
+    {
+      "line_id": "0525_viet_011",
+      "bbox": [
+        [
+          236,
+          1604
+        ],
+        [
+          837,
+          1606
+        ],
+        [
+          836,
+          1665
+        ],
+        [
+          235,
+          1662
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1763
+        ],
+        [
+          837,
+          1765
+        ],
+        [
+          836,
+          1824
+        ],
+        [
+          235,
+          1821
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1604,
+        837,
+        1665
+      ],
+      "text": "Kỉ đa tài tử cộng thiền quyên,",
+      "confidence": 0.9115
+    },
+    {
+      "line_id": "0525_viet_012",
+      "bbox": [
+        [
+          236,
+          1672
+        ],
+        [
+          602,
+          1675
+        ],
+        [
+          602,
+          1730
+        ],
+        [
+          235,
+          1728
+        ]
+      ],
+      "bbox_original": [
+        [
+          236,
+          1831
+        ],
+        [
+          602,
+          1834
+        ],
+        [
+          602,
+          1889
+        ],
+        [
+          235,
+          1887
+        ]
+      ],
+      "box_xyxy": [
+        235,
+        1672,
+        602,
+        1730
+      ],
+      "text": "Bi hoan li hợp xứ,",
+      "confidence": 0.9152
+    },
+    {
+      "line_id": "0525_viet_013",
+      "bbox": [
+        [
+          237,
+          1735
+        ],
+        [
+          775,
+          1737
+        ],
+        [
+          775,
+          1799
+        ],
+        [
+          236,
+          1797
+        ]
+      ],
+      "bbox_original": [
+        [
+          237,
+          1894
+        ],
+        [
+          775,
+          1896
+        ],
+        [
+          775,
+          1958
+        ],
+        [
+          236,
+          1956
+        ]
+      ],
+      "box_xyxy": [
+        236,
+        1735,
+        775,
+        1799
+      ],
+      "text": "Tổng thuộc hoá nhi quyền",
+      "confidence": 0.9311
+    },
+    {
+      "line_id": "0525_viet_014",
+      "bbox": [
+        [
+          151,
+          1961
+        ],
+        [
+          238,
+          1961
+        ],
+        [
+          238,
+          2017
+        ],
+        [
+          151,
+          2017
+        ]
+      ],
+      "bbox_original": [
+        [
+          151,
+          2120
+        ],
+        [
+          238,
+          2120
+        ],
+        [
+          238,
+          2176
+        ],
+        [
+          151,
+          2176
+        ]
+      ],
+      "box_xyxy": [
+        151,
+        1961,
+        238,
+        2017
+      ],
+      "text": "518",
+      "confidence": 0.9204
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "phien_am_lines": [
+      "Mai Cát Phủ hiện chưa rõ năm sinh mất cùng hành trạng. bài",
+      "từ dưới đây của ông là lời đề từ cho tác phẩm Đào hoa mông kí",
+      "(VHv.2152) ? một tác phẩm ra đời dưới sự ảnh hưởng của Truyện",
+      "Kiều của Nguyễn Du (1765 ? 1820), do Cấn Phong Hà Đàm Hiên",
+      "(2 ? 2) soạn. Bên cạnh đó, ông cũng viết các lời bình luận cho tác",
+      "phẩm nói trên. Từ đó ức đoán có thể tác phẩm ra đời vào thế ki",
+      "XIX, hoặc giả là đầu thế kỉ XX.",
+      "Lâm giang tiên",
+      "Tĩnh viện quan thu, nhàn ý kỉ;",
+      "Hồi tư tam bách niên lai.",
+      "Kỉ đa tài tử cộng thiền quyên,",
+      "Bi hoan li hợp xứ,",
+      "Tổng thuộc hoá nhi quyền",
+      "518"
+    ],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [],
+    "interlinear_triplets": []
+  }
+}

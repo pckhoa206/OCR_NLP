@@ -1,0 +1,405 @@
+{
+  "page_id": "0328",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 328,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0328_han_000",
+      "bbox": [
+        [
+          416,
+          74
+        ],
+        [
+          1241,
+          76
+        ],
+        [
+          1240,
+          154
+        ],
+        [
+          415,
+          151
+        ]
+      ],
+      "bbox_original": [
+        [
+          416,
+          242
+        ],
+        [
+          1241,
+          244
+        ],
+        [
+          1240,
+          322
+        ],
+        [
+          415,
+          319
+        ]
+      ],
+      "box_xyxy": [
+        415,
+        74,
+        1241,
+        154
+      ],
+      "text": "間來風月與誰為秋",
+      "confidence": 0.9887
+    },
+    {
+      "line_id": "0328_han_001",
+      "bbox": [
+        [
+          467,
+          420
+        ],
+        [
+          1177,
+          423
+        ],
+        [
+          1177,
+          498
+        ],
+        [
+          467,
+          496
+        ]
+      ],
+      "bbox_original": [
+        [
+          467,
+          588
+        ],
+        [
+          1177,
+          591
+        ],
+        [
+          1177,
+          666
+        ],
+        [
+          467,
+          664
+        ]
+      ],
+      "box_xyxy": [
+        467,
+        420,
+        1177,
+        498
+      ],
+      "text": "詩四絕治渝雅愛",
+      "confidence": 0.9934
+    },
+    {
+      "line_id": "0328_han_002",
+      "bbox": [
+        [
+          468,
+          701
+        ],
+        [
+          1180,
+          701
+        ],
+        [
+          1180,
+          775
+        ],
+        [
+          468,
+          775
+        ]
+      ],
+      "bbox_original": [
+        [
+          468,
+          869
+        ],
+        [
+          1180,
+          869
+        ],
+        [
+          1180,
+          943
+        ],
+        [
+          468,
+          943
+        ]
+      ],
+      "box_xyxy": [
+        468,
+        701,
+        1180,
+        775
+      ],
+      "text": "酒三杯瀟洒離懷",
+      "confidence": 0.979
+    },
+    {
+      "line_id": "0328_han_003",
+      "bbox": [
+        [
+          465,
+          973
+        ],
+        [
+          1079,
+          976
+        ],
+        [
+          1079,
+          1054
+        ],
+        [
+          465,
+          1052
+        ]
+      ],
+      "bbox_original": [
+        [
+          465,
+          1141
+        ],
+        [
+          1079,
+          1144
+        ],
+        [
+          1079,
+          1222
+        ],
+        [
+          465,
+          1220
+        ]
+      ],
+      "box_xyxy": [
+        465,
+        973,
+        1079,
+        1054
+      ],
+      "text": "燈前獨對書齊",
+      "confidence": 0.9946
+    },
+    {
+      "line_id": "0328_han_004",
+      "bbox": [
+        [
+          470,
+          1255
+        ],
+        [
+          1298,
+          1255
+        ],
+        [
+          1298,
+          1335
+        ],
+        [
+          470,
+          1335
+        ]
+      ],
+      "bbox_original": [
+        [
+          470,
+          1423
+        ],
+        [
+          1298,
+          1423
+        ],
+        [
+          1298,
+          1503
+        ],
+        [
+          470,
+          1503
+        ]
+      ],
+      "box_xyxy": [
+        470,
+        1255,
+        1298,
+        1335
+      ],
+      "text": "傷心客地有懷古人",
+      "confidence": 0.9938
+    },
+    {
+      "line_id": "0328_han_005",
+      "bbox": [
+        [
+          479,
+          1542
+        ],
+        [
+          1191,
+          1542
+        ],
+        [
+          1191,
+          1620
+        ],
+        [
+          479,
+          1620
+        ]
+      ],
+      "bbox_original": [
+        [
+          479,
+          1710
+        ],
+        [
+          1191,
+          1710
+        ],
+        [
+          1191,
+          1788
+        ],
+        [
+          479,
+          1788
+        ]
+      ],
+      "box_xyxy": [
+        479,
+        1542,
+        1191,
+        1620
+      ],
+      "text": "香水外忽聞漁韻",
+      "confidence": 0.9985
+    },
+    {
+      "line_id": "0328_han_006",
+      "bbox": [
+        [
+          474,
+          1890
+        ],
+        [
+          1193,
+          1888
+        ],
+        [
+          1193,
+          1966
+        ],
+        [
+          474,
+          1968
+        ]
+      ],
+      "bbox_original": [
+        [
+          474,
+          2058
+        ],
+        [
+          1193,
+          2056
+        ],
+        [
+          1193,
+          2134
+        ],
+        [
+          474,
+          2136
+        ]
+      ],
+      "box_xyxy": [
+        474,
+        1888,
+        1193,
+        1968
+      ],
+      "text": "從何來棹進江邊",
+      "confidence": 0.9853
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "interlinear_3line_even_page",
+    "chu_han_lines": [
+      "間來風月與誰為秋",
+      "詩四絕治渝雅愛",
+      "酒三杯瀟洒離懷",
+      "燈前獨對書齊",
+      "傷心客地有懷古人",
+      "香水外忽聞漁韻",
+      "從何來棹進江邊"
+    ],
+    "interlinear_triplets": [
+      {
+        "triplet_index": 0,
+        "chu_han": "間來風月與誰為秋",
+        "phien_am": "Nhàn lai phong nguyệt dữ thùy vi thu ?",
+        "dich_nghia_gloss": "- Trong lúc thong thả cùng ai trông trăng hứng gió hưởng thú vui mùa thu"
+      },
+      {
+        "triplet_index": 1,
+        "chu_han": "詩四絕治渝雅愛",
+        "phien_am": "Thi tứ tuyệt di du nhã ái",
+        "dich_nghia_gloss": "- Ngâm bồn câu thơ làm vui."
+      },
+      {
+        "triplet_index": 2,
+        "chu_han": "酒三杯瀟洒離懷",
+        "phien_am": "Tửu tam bôi tiêu-sái li-hoài",
+        "dich_nghia_gloss": "Mượn ba chén rượu rửa sạch môi sầu biệt-ly"
+      },
+      {
+        "triplet_index": 3,
+        "chu_han": "燈前獨對書齊",
+        "phien_am": "Đăng tiền độc đõi thư-trai,",
+        "dich_nghia_gloss": "- Trong phòng văn một mình ngồi đồi ngọn đèn"
+      },
+      {
+        "triplet_index": 4,
+        "chu_han": "傷心客地有懷古人",
+        "phien_am": "Thương tâm khách địa hữu hoài cồ-nhân",
+        "dich_nghia_gloss": "- Chạnh lòng đầt khách, sực nhớ người xưa.."
+      },
+      {
+        "triplet_index": 5,
+        "chu_han": "香水外忽聞漁韻",
+        "phien_am": "Hương thủy ngoại, hốt văn ngư-vận",
+        "dich_nghia_gloss": "- Ngoài sông Hương, chợt nghe tiêng hò mái đẩy của lũ phường chài."
+      },
+      {
+        "triplet_index": 6,
+        "chu_han": "從何來棹進江邊",
+        "phien_am": "Tùng hà lai, trạo tấn giang biên ?",
+        "dich_nghia_gloss": "- Từ đâu mà chèo tới bên sông thế nhỉ ?"
+      }
+    ]
+  }
+}

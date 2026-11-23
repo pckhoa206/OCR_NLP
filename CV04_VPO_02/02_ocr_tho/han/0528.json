@@ -1,0 +1,170 @@
+{
+  "page_id": "0528",
+  "book_type": "TLTVN",
+  "book_folder": "CV04_VPO_02",
+  "page_num": 528,
+  "engine": "paddleocr_chinese_cht",
+  "preprocess": {
+    "book_type": "TLTVN",
+    "original_width": 1558,
+    "original_height": 2278,
+    "crop_top_px": 159,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1558,
+    "effective_height": 2119
+  },
+  "items": [
+    {
+      "line_id": "0528_han_000",
+      "bbox": [
+        [
+          148,
+          0
+        ],
+        [
+          1478,
+          0
+        ],
+        [
+          1477,
+          53
+        ],
+        [
+          148,
+          50
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          159
+        ],
+        [
+          1478,
+          159
+        ],
+        [
+          1477,
+          212
+        ],
+        [
+          148,
+          209
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        0,
+        1478,
+        53
+      ],
+      "text": "定之聲，而製辭與合樂，二者各別.製辭者不必知宮商，而合樂",
+      "confidence": 0.9935
+    },
+    {
+      "line_id": "0528_han_001",
+      "bbox": [
+        [
+          148,
+          61
+        ],
+        [
+          1476,
+          59
+        ],
+        [
+          1477,
+          113
+        ],
+        [
+          148,
+          115
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          220
+        ],
+        [
+          1476,
+          218
+        ],
+        [
+          1477,
+          272
+        ],
+        [
+          148,
+          274
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        59,
+        1477,
+        115
+      ],
+      "text": "者必不可不知宮商.諸論辦發憤問難甚詳，今力憊學荒尚記一",
+      "confidence": 0.9828
+    },
+    {
+      "line_id": "0528_han_002",
+      "bbox": [
+        [
+          148,
+          126
+        ],
+        [
+          440,
+          126
+        ],
+        [
+          440,
+          182
+        ],
+        [
+          148,
+          182
+        ]
+      ],
+      "bbox_original": [
+        [
+          148,
+          285
+        ],
+        [
+          440,
+          285
+        ],
+        [
+          440,
+          341
+        ],
+        [
+          148,
+          341
+        ]
+      ],
+      "box_xyxy": [
+        148,
+        126,
+        440,
+        182
+      ],
+      "text": "二，以實陳奏.",
+      "confidence": 0.9497
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "sequential_han_phien_dich",
+    "chu_han_lines": [
+      "定之聲，而製辭與合樂，二者各別.製辭者不必知宮商，而合樂",
+      "者必不可不知宮商.諸論辦發憤問難甚詳，今力憊學荒尚記一",
+      "二，以實陳奏."
+    ],
+    "interlinear_triplets": []
+  }
+}

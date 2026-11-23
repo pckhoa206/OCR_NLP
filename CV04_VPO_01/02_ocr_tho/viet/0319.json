@@ -1,0 +1,569 @@
+{
+  "page_id": "0319",
+  "book_type": "HVTT",
+  "book_folder": "CV04_VPO_01",
+  "page_num": 319,
+  "engine": "vietocr_vgg_transformer",
+  "preprocess": {
+    "book_type": "HVTT",
+    "original_width": 1650,
+    "original_height": 2400,
+    "crop_top_px": 168,
+    "header_ratio": 0.07,
+    "footnote_separator_y_cropped": null,
+    "footnote_separator_y_original": null,
+    "effective_width": 1650,
+    "effective_height": 2232
+  },
+  "items": [
+    {
+      "line_id": "0319_viet_000",
+      "bbox": [
+        [
+          360,
+          191
+        ],
+        [
+          1177,
+          193
+        ],
+        [
+          1177,
+          253
+        ],
+        [
+          360,
+          251
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          359
+        ],
+        [
+          1177,
+          361
+        ],
+        [
+          1177,
+          421
+        ],
+        [
+          360,
+          419
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        191,
+        1177,
+        253
+      ],
+      "text": "Dạo khúc xuân diễm kỳ lả lướt",
+      "confidence": 0.9096
+    },
+    {
+      "line_id": "0319_viet_001",
+      "bbox": [
+        [
+          360,
+          376
+        ],
+        [
+          1239,
+          378
+        ],
+        [
+          1238,
+          438
+        ],
+        [
+          360,
+          436
+        ]
+      ],
+      "bbox_original": [
+        [
+          360,
+          544
+        ],
+        [
+          1239,
+          546
+        ],
+        [
+          1238,
+          606
+        ],
+        [
+          360,
+          604
+        ]
+      ],
+      "box_xyxy": [
+        360,
+        376,
+        1239,
+        438
+      ],
+      "text": "Băm sáu cung thánh thót xinh xinh",
+      "confidence": 0.9314
+    },
+    {
+      "line_id": "0319_viet_002",
+      "bbox": [
+        [
+          469,
+          563
+        ],
+        [
+          1269,
+          563
+        ],
+        [
+          1269,
+          624
+        ],
+        [
+          469,
+          624
+        ]
+      ],
+      "bbox_original": [
+        [
+          469,
+          731
+        ],
+        [
+          1269,
+          731
+        ],
+        [
+          1269,
+          792
+        ],
+        [
+          469,
+          792
+        ]
+      ],
+      "box_xyxy": [
+        469,
+        563,
+        1269,
+        624
+      ],
+      "text": "Tràng An treo ngọc liên thành",
+      "confidence": 0.9308
+    },
+    {
+      "line_id": "0319_viet_003",
+      "bbox": [
+        [
+          309,
+          746
+        ],
+        [
+          1178,
+          752
+        ],
+        [
+          1178,
+          810
+        ],
+        [
+          308,
+          804
+        ]
+      ],
+      "bbox_original": [
+        [
+          309,
+          914
+        ],
+        [
+          1178,
+          920
+        ],
+        [
+          1178,
+          978
+        ],
+        [
+          308,
+          972
+        ]
+      ],
+      "box_xyxy": [
+        308,
+        746,
+        1178,
+        810
+      ],
+      "text": "Phầm cao vô giá, tài tình riêng ai",
+      "confidence": 0.9122
+    },
+    {
+      "line_id": "0319_viet_004",
+      "bbox": [
+        [
+          362,
+          933
+        ],
+        [
+          1225,
+          935
+        ],
+        [
+          1225,
+          996
+        ],
+        [
+          362,
+          994
+        ]
+      ],
+      "bbox_original": [
+        [
+          362,
+          1101
+        ],
+        [
+          1225,
+          1103
+        ],
+        [
+          1225,
+          1164
+        ],
+        [
+          362,
+          1162
+        ]
+      ],
+      "box_xyxy": [
+        362,
+        933,
+        1225,
+        996
+      ],
+      "text": "Thoảng hai chục năm trời từ đãy",
+      "confidence": 0.8919
+    },
+    {
+      "line_id": "0319_viet_005",
+      "bbox": [
+        [
+          361,
+          1121
+        ],
+        [
+          1145,
+          1118
+        ],
+        [
+          1145,
+          1176
+        ],
+        [
+          361,
+          1179
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1289
+        ],
+        [
+          1145,
+          1286
+        ],
+        [
+          1145,
+          1344
+        ],
+        [
+          361,
+          1347
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1118,
+        1145,
+        1179
+      ],
+      "text": "Tây-sơn thua, la trầy nam hà",
+      "confidence": 0.9099
+    },
+    {
+      "line_id": "0319_viet_006",
+      "bbox": [
+        [
+          466,
+          1305
+        ],
+        [
+          1181,
+          1307
+        ],
+        [
+          1181,
+          1368
+        ],
+        [
+          466,
+          1366
+        ]
+      ],
+      "bbox_original": [
+        [
+          466,
+          1473
+        ],
+        [
+          1181,
+          1475
+        ],
+        [
+          1181,
+          1536
+        ],
+        [
+          466,
+          1534
+        ]
+      ],
+      "box_xyxy": [
+        466,
+        1305,
+        1181,
+        1368
+      ],
+      "text": "Long Thành gang tác còn xa",
+      "confidence": 0.8815
+    },
+    {
+      "line_id": "0319_viet_007",
+      "bbox": [
+        [
+          303,
+          1490
+        ],
+        [
+          1304,
+          1490
+        ],
+        [
+          1304,
+          1553
+        ],
+        [
+          303,
+          1553
+        ]
+      ],
+      "bbox_original": [
+        [
+          303,
+          1658
+        ],
+        [
+          1304,
+          1658
+        ],
+        [
+          1304,
+          1721
+        ],
+        [
+          303,
+          1721
+        ]
+      ],
+      "box_xyxy": [
+        303,
+        1490,
+        1304,
+        1553
+      ],
+      "text": "Điệu xưa nhớ mãy cũng là đánh thôi",
+      "confidence": 0.9216
+    },
+    {
+      "line_id": "0319_viet_008",
+      "bbox": [
+        [
+          361,
+          1680
+        ],
+        [
+          1120,
+          1680
+        ],
+        [
+          1120,
+          1738
+        ],
+        [
+          361,
+          1738
+        ]
+      ],
+      "bbox_original": [
+        [
+          361,
+          1848
+        ],
+        [
+          1120,
+          1848
+        ],
+        [
+          1120,
+          1906
+        ],
+        [
+          361,
+          1906
+        ]
+      ],
+      "box_xyxy": [
+        361,
+        1680,
+        1120,
+        1738
+      ],
+      "text": "Tuyên phủ-sứ lại mời dự tiệc",
+      "confidence": 0.9104
+    },
+    {
+      "line_id": "0319_viet_009",
+      "bbox": [
+        [
+          359,
+          1857
+        ],
+        [
+          1256,
+          1860
+        ],
+        [
+          1256,
+          1921
+        ],
+        [
+          359,
+          1918
+        ]
+      ],
+      "bbox_original": [
+        [
+          359,
+          2025
+        ],
+        [
+          1256,
+          2028
+        ],
+        [
+          1256,
+          2089
+        ],
+        [
+          359,
+          2086
+        ]
+      ],
+      "box_xyxy": [
+        359,
+        1857,
+        1256,
+        1921
+      ],
+      "text": "Thiếu chi người mày biếc má hồng",
+      "confidence": 0.9222
+    },
+    {
+      "line_id": "0319_viet_010",
+      "bbox": [
+        [
+          461,
+          2039
+        ],
+        [
+          1237,
+          2042
+        ],
+        [
+          1236,
+          2103
+        ],
+        [
+          461,
+          2099
+        ]
+      ],
+      "bbox_original": [
+        [
+          461,
+          2207
+        ],
+        [
+          1237,
+          2210
+        ],
+        [
+          1236,
+          2271
+        ],
+        [
+          461,
+          2267
+        ]
+      ],
+      "box_xyxy": [
+        461,
+        2039,
+        1237,
+        2103
+      ],
+      "text": "Cuối bàn phảng phát não nùng",
+      "confidence": 0.907
+    }
+  ],
+  "layout_summary": {
+    "layout_mode": "odd_page_dich_tho",
+    "phien_am_lines": [],
+    "dich_nghia_lines": [],
+    "dich_tho_lines": [
+      "Dạo khúc xuân diễm kỳ lả lướt",
+      "Băm sáu cung thánh thót xinh xinh",
+      "Tràng An treo ngọc liên thành",
+      "Phầm cao vô giá, tài tình riêng ai",
+      "Thoảng hai chục năm trời từ đãy",
+      "Tây-sơn thua, la trầy nam hà",
+      "Long Thành gang tác còn xa",
+      "Điệu xưa nhớ mãy cũng là đánh thôi",
+      "Tuyên phủ-sứ lại mời dự tiệc",
+      "Thiếu chi người mày biếc má hồng",
+      "Cuối bàn phảng phát não nùng"
+    ],
+    "interlinear_triplets": [],
+    "dich_tho_y_centers": [
+      222.0,
+      407.0,
+      593.5,
+      778.0,
+      964.5,
+      1148.5,
+      1336.5,
+      1521.5,
+      1709.0,
+      1889.0,
+      2071.0
+    ]
+  }
+}
