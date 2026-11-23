@@ -194,6 +194,7 @@ Nguồn kiểm chứng: [`outputs/khoa/alignment_summary.json`](outputs/khoa/ali
 
 ## 6. Tài Liệu Dự Án Liên Quan
 
+- Báo cáo chi tiết quy trình, lỗi & thông số kết quả nhánh `khoa`: [`docs/BAO_CAO_CHI_TIET_QUY_TRINH_VA_KET_QUA_KHOA.md`](docs/BAO_CAO_CHI_TIET_QUY_TRINH_VA_KET_QUA_KHOA.md)
 - Báo cáo tổng kết nhóm & 5 tiêu chí Guideline Mục 9: [`docs/BAO_CAO_TONG_KET_NHOM.md`](docs/BAO_CAO_TONG_KET_NHOM.md)
 - Bảng kê chi tiết 141 dòng hậu kiểm thủ công (Guideline Mục 8): [`docs/DANH_SACH_HAU_KIEM_LOI.md`](docs/DANH_SACH_HAU_KIEM_LOI.md)
 - Báo cáo demo theo yêu cầu Giảng viên: [`demo_giang_vien/BAO_CAO_DEMO_GIANG_VIEN.md`](demo_giang_vien/BAO_CAO_DEMO_GIANG_VIEN.md)

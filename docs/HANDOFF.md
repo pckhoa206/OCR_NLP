@@ -5,6 +5,7 @@
 - **Bản đồ phụ thuộc nhiệm vụ**: [`docs/WAYFINDER.md`](./WAYFINDER.md)
 - **Kiểm kê nguồn chi tiết**: [`docs/BANG_KIEM_KE_NGUON.md`](./BANG_KIEM_KE_NGUON.md)
 - **Báo cáo tổng kết nhóm (Mục 9)**: [`docs/BAO_CAO_TONG_KET_NHOM.md`](./BAO_CAO_TONG_KET_NHOM.md)
+- **Báo cáo chi tiết quy trình, lỗi & kết quả (`khoa`)**: [`docs/BAO_CAO_CHI_TIET_QUY_TRINH_VA_KET_QUA_KHOA.md`](./BAO_CAO_CHI_TIET_QUY_TRINH_VA_KET_QUA_KHOA.md)
 - **Danh sách hậu kiểm lỗi (Mục 8)**: [`docs/DANH_SACH_HAU_KIEM_LOI.md`](./DANH_SACH_HAU_KIEM_LOI.md)
 
 ---

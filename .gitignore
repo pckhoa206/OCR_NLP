@@ -98,3 +98,9 @@ deliverables/**/01_nguon/*.png
 outputs/**/*.png
 outputs/**/*.log
 
+# Ignore redundant concatenated JSONL dumps, legacy mock summary, and unrelated external notebook
+**/ocr_results.jsonl
+deliverables/full_ocr_summary.json
+OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb
+
+
