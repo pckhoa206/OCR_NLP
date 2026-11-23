@@ -59,7 +59,7 @@ Lab2_DongHangHan-Viet/
 │   ├── 3_PHAN_CONG_4_NGUOI.md                      # Bảng phân công 1.583 trang cho 4 thành viên
 │   ├── Hướng dẫn dóng hàng Hán-Việt.pdf            # Tài liệu quy chuẩn Đồ án Dóng hàng Hán–Việt (CV04)
 │   ├── Hướng dẫn dóng hàng dịch âm.docx            # Quy chuẩn bổ sung của chị Lưu Như (4 cột, [MASK], tiêu đề)
-│   ├── Lab 2. Dóng hàng Hán-Việt1.pdf              # Bản tải về của đề LabOCR.pdf trên LMS (đánh giá OPRB)
+│   ├── Lab 2. Dóng hàng Hán-Việt.pdf              # Bản tải về của đề LabOCR.pdf trên LMS (đánh giá OPRB)
 │   ├── OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb    # Notebook Colab minh họa đánh giá Qwen2.5-VL-3B trên OPRB
 │   ├── example/                                    # Tệp mẫu đối chiếu định dạng (example.tsv, example.xlsx)
 │   └── reference/                                  # Tài liệu tham khảo mẫu cấu trúc bàn giao
@@ -76,7 +76,7 @@ Lab2_DongHangHan-Viet/
 > [!NOTE]
 > Trong `docs/` hiện có **hai tài liệu đề bài khác nhau**:
 > 1. [`docs/Hướng dẫn dóng hàng Hán-Việt.pdf`](docs/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B3ng%20h%C3%A0ng%20H%C3%A1n-Vi%E1%BB%87t.pdf) *(kèm [`docs/Hướng dẫn dóng hàng dịch âm.docx`](docs/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%B3ng%20h%C3%A0ng%20d%E1%BB%8Bch%20%C3%A2m.docx))* — **Đồ án Dóng hàng Hán–Việt (`CV04`)** làm theo nhóm với chị **Lưu Như** (code chính trong repo này).
-> 2. [`docs/Lab 2. Dóng hàng Hán-Việt1.pdf`](docs/Lab%202.%20D%C3%B3ng%20h%C3%A0ng%20H%C3%A1n-Vi%E1%BB%87t1.pdf) *(tệp `LabOCR.pdf` trên LMS, hạn nộp gia hạn đến **`10/12/2026 23:59`**)* kèm [`docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb`](docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb) — **Bài thực hành / Đồ án đánh giá VLM & OCR nhẹ trên bộ ảnh che khuất OPRB** (chi tiết xem Mục 3 bên dưới).
+> 2. [`docs/Lab 2. Dóng hàng Hán-Việt.pdf`](docs/Lab%202.%20D%C3%B3ng%20h%C3%A0ng%20H%C3%A1n-Vi%E1%BB%87t.pdf) *(tệp `LabOCR.pdf` trên LMS, hạn nộp gia hạn đến **`10/12/2026 23:59`**)* kèm [`docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb`](docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb) — **Bài thực hành / Đồ án đánh giá VLM & OCR nhẹ trên bộ ảnh che khuất OPRB** (chi tiết xem Mục 3 bên dưới).
 
 Với **Đồ án Dóng hàng Hán–Việt (`CV04`)**, ngoài 3 thư mục dữ liệu **`CV04_VPO_01`**, **`CV04_VPO_02`**, **`CV04_VPO_03`**, gói nộp cuối cùng của cả nhóm phải đảm bảo đủ các hạng mục sau *(cần xác nhận lại với chị Lưu Như hạn chốt thu dữ liệu nhóm có khớp hạn LMS `10/12/2026` hay giữ mốc `30/11`)*:
 
@@ -112,7 +112,7 @@ Với **Đồ án Dóng hàng Hán–Việt (`CV04`)**, ngoài 3 thư mục dữ
 
 ## 3. Yêu cầu Bài tập / Đồ án `LabOCR` trên LMS (Hạn nộp: `10/12/2026 23:59`)
 
-Theo tệp đề gốc từ LMS (lưu tại [`docs/Lab 2. Dóng hàng Hán-Việt1.pdf`](docs/Lab%202.%20D%C3%B3ng%20h%C3%A0ng%20H%C3%A1n-Vi%E1%BB%87t1.pdf) — tên gốc `LabOCR.pdf`, mở từ `16/11/2026`, tới hạn **`10/12/2026 23:59`**) và notebook mẫu [`docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb`](docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb), nội dung cần thực hiện và nộp gồm:
+Theo tệp đề gốc từ LMS (lưu tại [`docs/Lab 2. Dóng hàng Hán-Việt.pdf`](docs/Lab%202.%20D%C3%B3ng%20h%C3%A0ng%20H%C3%A1n-Vi%E1%BB%87t.pdf) — tên gốc `LabOCR.pdf`, mở từ `16/11/2026`, tới hạn **`10/12/2026 23:59`**) và notebook mẫu [`docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb`](docs/OPRB_Qwen2_5_VL_3B_Test_Evaluation.ipynb), nội dung cần thực hiện và nộp gồm:
 
 ### A. Nhiệm vụ & Dữ liệu đánh giá (`OPRB`)
 * **Mục tiêu**: Đánh giá độ chính xác nhận dạng văn bản và độ bền (robustness) của các mô hình **Vision-Language Models (VLMs)** nhẹ và mô hình **OCR** trên ảnh tài liệu bị che khuất (vết mực, nét gạch xóa, con dấu, bụi, dấu sửa bài).
